@@ -201,7 +201,6 @@ entrenched attitudes/positions/interests etc
  a deeply entrenched belief in male superiority
 —entrench verb [transitive]
 
-<<<<<<< HEAD
 refrain
 I. re‧frain1 /rɪˈfreɪn/ BrE  AmE  verb [intransitive] formal
 [Date: 1300-1400; Language: Old French; Origin: refrener, from Latin refrenare, from frenum 'bridle']
@@ -278,7 +277,7 @@ pull out of
  He ran up a $4000 tab in long-distance calls.
 3. pick up the tab to pay for something, especially when it is not your responsibility to pay:
  Taxpayers will pick up the tab for the stadium.
-=======
+
 Being religious
 believe in God/Christ/Allah/free will/predestination/heaven and hell/an afterlife/reincarnation
 be/become a believer/an atheist/an agnostic/a Christian/Muslim/Hindu/Buddhist, etc.
@@ -326,14 +325,15 @@ sick‧en‧ing /ˈsɪkənɪŋ, ˈsɪknɪŋ/ BrE  AmE  adjective
  their sickening hypocrisy
 it is sickening that
  It is sickening that human beings have done this to two innocent young women.
-<<<<<<< HEAD
 
 trade-off
 ˈtrade-off BrE  AmE  noun [countable]
 a balance between two opposing things, that you are willing to accept in order to achieve something
 a trade-off between something and something
  There has to be a trade-off between quality and quantity if we want to keep prices low.
-=======
- 
->>>>>>> 46326ce204ce20c63ef09ac0cce9c4af120a2b6b
->>>>>>> 7ea4d6023139097fc0142c5398b0265da7ddaaf1
+
+ snappy
+snap‧py /ˈsnæpi/ BrE  AmE  adjective
+1. a snappy title or phrase is short, clear, and often funny:
+ We need a snappy title for the book.
+ Keep your answer short and snappy.
