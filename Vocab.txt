@@ -201,7 +201,6 @@ entrenched attitudes/positions/interests etc
  a deeply entrenched belief in male superiority
 —entrench verb [transitive]
 
-<<<<<<< HEAD
 refrain
 I. re‧frain1 /rɪˈfreɪn/ BrE  AmE  verb [intransitive] formal
 [Date: 1300-1400; Language: Old French; Origin: refrener, from Latin refrenare, from frenum 'bridle']
@@ -327,6 +326,7 @@ sick‧en‧ing /ˈsɪkənɪŋ, ˈsɪknɪŋ/ BrE  AmE  adjective
 it is sickening that
  It is sickening that human beings have done this to two innocent young women.
 
+<<<<<<< HEAD
  protege
 noun
 a person who receives support and protection from an influential patron who furthers the protege's career (Freq. 1)
@@ -425,3 +425,16 @@ dismiss somebody for something
 REGISTER
 In everyday British English, people usually say sack someone, and in everyday American English, people usually say fire someone, rather than use dismiss:
 ▪ He was sacked (BrE)/fired (AmE) for being late all the time.
+=======
+trade-off
+ˈtrade-off BrE  AmE  noun [countable]
+a balance between two opposing things, that you are willing to accept in order to achieve something
+a trade-off between something and something
+ There has to be a trade-off between quality and quantity if we want to keep prices low.
+
+ snappy
+snap‧py /ˈsnæpi/ BrE  AmE  adjective
+1. a snappy title or phrase is short, clear, and often funny:
+ We need a snappy title for the book.
+ Keep your answer short and snappy.
+>>>>>>> ae4ed2c003cd64fdfe53a9aa2242b5f03f44c82a
