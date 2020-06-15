@@ -278,7 +278,7 @@ pull out of
  He ran up a $4000 tab in long-distance calls.
 3. pick up the tab to pay for something, especially when it is not your responsibility to pay:
  Taxpayers will pick up the tab for the stadium.
-=======
+
 Being religious
 believe in God/Christ/Allah/free will/predestination/heaven and hell/an afterlife/reincarnation
 be/become a believer/an atheist/an agnostic/a Christian/Muslim/Hindu/Buddhist, etc.
@@ -326,5 +326,102 @@ sick‧en‧ing /ˈsɪkənɪŋ, ˈsɪknɪŋ/ BrE  AmE  adjective
  their sickening hypocrisy
 it is sickening that
  It is sickening that human beings have done this to two innocent young women.
+
+ protege
+noun
+a person who receives support and protection from an influential patron who furthers the protege's career (Freq. 1)
+• Hypernyms: ↑recipient, ↑receiver
+• Hyponyms: ↑protegee
+
+sterile
+ster‧ile /ˈsteraɪl $ -rəl/ BrE  AmE  adjective
+[Date: 1400-1500; Language: Latin; Origin: sterilis]
+1. a person or animal that is sterile cannot produce babies SYN infertile OPP fertile
+make/render/leave somebody sterile
+ Radiotherapy has left her permanently sterile.
+2. completely clean and not containing any ↑bacteria that might cause infection
+sterile equipment/water/bandages etc
+ Rinse the eye with sterile water.
+3. lacking new ideas, interest, or imagination OPP productive
+sterile argument/debate etc
+ the increasingly sterile debate on political reform
+4. a sterile building, room etc is not interesting or attractive and is often very plain:
+ The classrooms are sterile, with no artwork on the walls.
  
->>>>>>> 46326ce204ce20c63ef09ac0cce9c4af120a2b6b
+ succumb
+suc‧cumb /səˈkʌm/ BrE  AmE  verb [intransitive] formal
+[Date: 1400-1500; Language: French; Origin: succomber, from Latin succumbere, from sub- ( ⇨ ↑sub-) + cumbere 'to lie down']
+1. to stop opposing someone or something that is stronger than you, and allow them to take control SYN give in
+succumb to
+ Succumbing to pressure from the chemical industry, Governor Blakely amended the regulations.
+ Gina succumbed to temptation and had a second serving of cake.
+2. if you succumb to an illness, you become very ill or die of it
+succumb to
+ About 400,000 Americans succumb each year to smoking-related illnesses.
+ 
+ correlate
+I. cor‧rel‧ate1 /ˈkɒrəleɪt, ˈkɒrɪleɪt $ ˈkɔː-, ˈkɑː-/ BrE  AmE  verb [intransitive and transitive]
+if two or more facts, ideas etc correlate or if you correlate them, they are closely connected to each other or one causes the other
+correlate with
+ Poverty and poor housing correlate with a shorter life expectancy.
+correlate strongly/significantly/closely
+ Lack of prenatal care correlates strongly with premature birth.
+ 
+ salvation
+sal‧va‧tion /sælˈveɪʃən/ BrE  AmE  noun [uncountable]
+[Date: 1200-1300; Language: Old French; Origin: Late Latin salvatio, from salvare; ⇨ ↑save1]
+1. something that prevents or saves someone or something from danger, loss, or failure
+be sb’s/sth’s salvation
+ A drug treatment program was Ron’s salvation.
+salvation of
+ The Internet turned out to be the salvation of the company.
+2. in the Christian religion, the state of being saved from evil
+
+interaction
+in‧ter‧ac‧tion W3 AC /ˌɪntərˈækʃən/ BrE  AmE  noun [uncountable and countable]
+[Word Family: noun: ↑act, ↑action ≠ ↑inaction, ↑activity ≠ ↑inactivity, ↑reaction, ↑interaction, ↑overacting; adjective: ↑acting, ↑active ≠ ↑inactive; verb: ↑act ≠ ↑overact; adverb: ↑actively]
+[Word Family: noun: ↑interaction, ↑interactivity; verb: ↑interact; adverb: ↑interactively; adjective: ↑interactive]
+1. a process by which two or more things affect each other
+interaction of
+ Price is determined through the interaction of demand and supply.
+interaction with/between
+ the complex interaction between mind and body
+2. the activity of talking to other people, working together with them etc
+interaction with/between
+ the degree of interaction between teacher and student
+ 
+ gourmet
+I. gour‧met1 /ˈɡʊəmeɪ $ ˈɡʊr-, ɡʊrˈmeɪ/ BrE  AmE  adjective [only before noun]
+producing or relating to very good food and drink:
+ a gourmet cook
+ gourmet dinners
+ 
+ IV. stiff4 BrE  AmE  verb informal
+1. [transitive] American English to cheat someone by not paying them, especially by not leaving a ↑tip in a restaurant:
+ I can’t believe that couple stiffed me!
+2. [intransitive] if a new product, film, show etc stiffs, it does not sell well or fails completely SYN bomb:
+ They had a hit in the 1990s, but their subsequent releases stiffed.
+ 
+ croak
+I. croak1 /krəʊk $ kroʊk/ BrE  AmE  verb
+[Date: 1500-1600; Origin: From the sound]
+1.   [intransitive] to make a deep low sound like the sound a ↑frog makes
+2. [intransitive and transitive] to speak in a low rough voice, as if you have a sore throat:
+ ‘Help!’ she croaked, her throat dry with fear.
+ 
+ dismiss
+dis‧miss W3 /dɪsˈmɪs/ BrE  AmE  verb [transitive]
+[Date: 1400-1500; Language: Latin; Origin: dimissus, past participle of dimittere 'to send away']
+1. to refuse to consider someone’s idea, opinion etc, because you think it is not serious, true, or important:
+ The government has dismissed criticisms that the country’s health policy is a mess.
+dismiss something as something
+ He just laughed and dismissed my proposal as unrealistic.
+ It’s an idea that shouldn’t be dismissed out of hand (=dismissed immediately and completely).
+2. to remove someone from their job SYN fire, sack
+dismiss somebody from something
+ Bryant was unfairly dismissed from his post.
+dismiss somebody for something
+ Employees can be dismissed for sending obscene emails.
+REGISTER
+In everyday British English, people usually say sack someone, and in everyday American English, people usually say fire someone, rather than use dismiss:
+▪ He was sacked (BrE)/fired (AmE) for being late all the time.
