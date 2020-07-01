@@ -425,7 +425,7 @@ dismiss somebody for something
 REGISTER
 In everyday British English, people usually say sack someone, and in everyday American English, people usually say fire someone, rather than use dismiss:
 ▪ He was sacked (BrE)/fired (AmE) for being late all the time.
-=======
+
 trade-off
 ˈtrade-off BrE  AmE  noun [countable]
 a balance between two opposing things, that you are willing to accept in order to achieve something
@@ -437,7 +437,7 @@ snap‧py /ˈsnæpi/ BrE  AmE  adjective
 1. a snappy title or phrase is short, clear, and often funny:
  We need a snappy title for the book.
  Keep your answer short and snappy.
-<<<<<<< HEAD
+
 
  mellow
 I. mel‧low1 /ˈmeləʊ $ -loʊ/ BrE  AmE  adjective
@@ -481,6 +481,149 @@ come to a standstill/bring something to a standstill
  Strikers brought production to a standstill.
 at a standstill
  Traffic was at a standstill.
-=======
->>>>>>> ae4ed2c003cd64fdfe53a9aa2242b5f03f44c82a
->>>>>>> ca9e51b1d945b41611c6cc3f5cac9006b5a5ff89
+
+ 
+ I. vig‧or /ˈvɪɡə $ -ər/ BrE  AmE  noun [uncountable]
+the American spelling of ↑vigour
+II. vig‧our BrE  AmE  British English, vigor American English /ˈvɪɡə $ -ər/ noun [uncountable]
+physical or mental energy and determination
+with vigour
+ He began working with renewed vigour.
+ 
+ rein
+I. rein1 /reɪn/ BrE  AmE  noun
+[Date: 1200-1300; Language: Old French; Origin: rene, from Latin retinere; ⇨ ↑retain]
+1. [countable usually plural] a long narrow band of leather that is fastened around a horse’s head in order to control it ⇨ bridle
+2. give (full/free) rein to something to allow an emotion or feeling to be expressed freely:
+ He gave free rein to his imagination.
+3. give somebody (a) free rein to give someone complete freedom to do a job in whatever way they choose
+4. keep a tight rein on somebody/something to control something strictly:
+ The finance director keeps a tight rein on spending.
+5. take/hand over the reins to take or give someone control over an organization or country:
+ Owens will officially take over the reins in a few weeks.
+II. rein2 BrE  AmE  verb
+rein something ↔ in (also rein something ↔ back British English) phrasal verb
+1. to start to control a situation more strictly:
+ The government is reining in public expenditure.
+2. to make a horse go more slowly by pulling on the reins
+
+variable
+I. var‧i‧a‧ble1 AC /ˈveəriəbəl $ ˈver-/ BrE  AmE  adjective
+[Word Family: noun: ↑variable, ↑variance, ↑variant, ↑variety, ↑variability, ↑variation; adjective: ↑variable ≠ ↑invariable, ↑varied, ↑various; adverb: ↑variably ≠ ↑invariably, ↑variously; verb: ↑vary]
+1. likely to change often ⇨ vary:
+ Expect variable cloudiness and fog tomorrow.
+ Interest rates can be highly variable.
+variable in size/shape/colour etc
+ These fish are highly variable in color and pattern.
+2. sometimes good and sometimes bad:
+ The quality of pork is often less variable than beef.
+3. able to be changed:
+ The heater has variable temperature settings.
+—variably adverb
+—variability /ˌveəriəˈbɪləti, ˌveəriəˈbɪlɪti $ ˌver-/ noun [uncountable]
+II. variable2 AC BrE  AmE  noun [countable]
+[Word Family: noun: ↑variable, ↑variance, ↑variant, ↑variety, ↑variability, ↑variation; adjective: ↑variable ≠ ↑invariable, ↑varied, ↑various; adverb: ↑variably ≠ ↑invariably, ↑variously; verb: ↑vary]
+1. something that may be different in different situations, so that you cannot be sure what will happen OPP constant:
+ There are too many variables in the experiment to predict the result accurately.
+2. technical a mathematical quantity which can represent several different amounts OPP constant
+
+lingo
+lin‧go /ˈlɪŋɡəʊ $ -ɡoʊ/ BrE  AmE  noun [countable usually singular] informal
+[Date: 1600-1700; Language: Provençal; Origin: lingo 'tongue' or Portuguese lingoa, both from Latin lingua]
+1. a language, especially a foreign one:
+ I’d like to go to Greece, but I don’t speak the lingo.
+2. words or expressions used only by a particular group of people, or at a particular period of time:
+ academic lingo
+ 
+ adverseadverse
+ad‧verse /ˈædvɜːs $ -ɜːrs/ BrE  AmE  adjective
+[Date: 1300-1400; Origin: Early French advers, from Latin adversus, past participle of advertere; ⇨ ↑advert]
+1. not good or favourable:
+ They fear it could have an adverse effect on global financial markets.
+ Miller’s campaign has received a good deal of adverse publicity.
+2. adverse conditions conditions that make it difficult for something to happen or exist:
+ The expedition was abandoned because of adverse weather conditions.
+—adversely adverb:
+ developments which had adversely affected their business
+ 
+ secretive
+se‧cre‧tive /ˈsiːkrətɪv, ˈsiːkrɪtɪv, sɪˈkriːtɪv/ BrE  AmE  adjective
+[Word Family: noun: ↑secrecy, ↑secret, ↑secretiveness; adverb: ↑secretly, ↑secretively; adjective: ↑secret, ↑secretive; verb: ↑secrete]
+a secretive person or organization likes to keep their thoughts, intentions, or actions hidden from others OPP open:
+ The government has been accused of being secretive and undemocratic.
+secretive about
+ Carla was always very secretive about her work.
+—secretively adverb
+—secretiveness noun [uncountable]
+
+complicity
+com‧plic‧i‧ty /kəmˈplɪsəti, kəmˈplɪsɪti/ BrE  AmE  noun [uncountable] formal
+[Date: 1600-1700; Language: French; Origin: complicité, from Old French complice; ⇨ ↑accomplice]
+1. involvement in a crime, together with other people
+complicity in
+ Jennings denied complicity in the murder.
+2. involvement in or knowledge of a situation, especially one that is morally wrong or dishonest
+complicity with
+ His complicity with the former government had led to his downfall.
+—complicit adjective:
+ The careers of officers complicit in the cover-up were ruined.
+ 
+ colour
+shade • hue • tint • tinge
+These words all describe the appearance of things, resulting from the way in which they reflect light.
+colour/color • the appearance that things have, resulting from the way in which they reflect light. Red, green and blue are colours: ▪ What's your favourite colour? ◇ ▪ bright/dark/light colours
+shade • a particular form of a colour, especially when describing how light or dark it is. Sky blue is a shade of blue.
+hue • (literary or technical) a colour or a particular shade of a colour: ▪ His face took on an unhealthy, whitish hue.
+tint • a shade or small amount of a particular colour; a faint colour covering a surface: ▪ leaves with red and gold autumn tints
+tinge • a small amount of a colour: ▪ There was a pink tinge to the sky.
+tint or tinge?
+You can say: ▪ a reddish tint/tinge or: ▪ a tinge of red but not: a tint of red. Tint is often used in the plural, but tinge is almost always singular.
+a warm/rich colour/shade/hue/tint
+a bright/vivid/vibrant/dark/deep colour/shade/hue
+a pale/pastel/soft/subtle/delicate colour/shade/hue
+a light/strong/neutral/natural colour/shade
+
+) ,off the `cuff without previous thought or preparation 未经思考; 未经准备: make a remark off the cuff 即席发言 * [attrib 作定语] an ,off-the-cuff `joke, `remark, etc 随口而出的笑话、言语等.
+
+worked up
+ˌworked ˈup BrE  AmE  adjective [not before noun]
+informal very upset or excited about something
+worked up about/over
+ You shouldn’t get so worked up about it.
+⇨ work up at ↑work1
+work up
+work up phrasal verb (see also ↑work)
+1. work up enthusiasm/interest/courage etc to make yourself feel interested, brave etc:
+ I’m trying to work up enough courage to go to the dentist.
+2. work up an appetite/a thirst/a sweat to make yourself hungry or ↑thirsty, or make yourself ↑sweat, especially by doing physical exercise:
+ You can work up a really big thirst playing tennis.
+3. work somebody up to make someone very angry, excited, or upset about something
+work yourself up
+ You’re working yourself up again.
+ She had worked herself up into a state. ⇨ ↑worked up
+4. work something ↔ up to develop and improve something such as a project or a piece of writing:
+ Jack took notes which he would work up into a report later.
+ 
+ not mince (your) words
+not mince (your) words idiom
+to say what you mean clearly and directly, even if you upset people by doing this
+• The report does not mince words, describing the situation as 'ludicrous'.
+
+long ˌshot noun countable usually singular [long shots] UK  US 
+something you try although it is unlikely to be successful
+• It's a long shot, but you could try phoning him at home.
+
+slump
+I. slump1 /slʌmp/ BrE  AmE  verb [intransitive]
+[Date: 1600-1700; Origin: Probably from a Scandinavian language]
+1. to fall or lean against something because you are not strong enough to stand
+slump against/over/back etc
+ She slumped against the wall.
+ Carol slumped back in her chair, defeated.
+ Ben staggered and slumped onto the floor.
+2. to suddenly go down in price, value, or number OPP soar:
+ Sales slumped by 20% last year.
+slump to
+ The currency slumped to a record low.
+3. (also be slumped) if your shoulders or head slump or are slumped, they bend forward because you are unhappy, tired, or unconscious:
+ Her shoulders slumped and her eyes filled with tears.
