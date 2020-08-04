@@ -438,6 +438,7 @@ snap‧py /ˈsnæpi/ BrE  AmE  adjective
  We need a snappy title for the book.
  Keep your answer short and snappy.
 
+<<<<<<< HEAD
  close-knit
 close-knit /ˌkləʊs ˈnɪt◂ $ ˌkloʊs-/ BrE  AmE  (also ˌclosely-ˈknit) adjective
 a close-knit group of people is one in which everyone knows each other well and gives each other support when they need it:
@@ -1103,6 +1104,502 @@ Middle English: from Old French forclos, past participle of forclore, from for- 
  
 Collocations:
 Moving house
+=======
+
+ mellow
+I. mel‧low1 /ˈmeləʊ $ -loʊ/ BrE  AmE  adjective
+[Date: 1400-1500; Origin: Perhaps from Old English melu; ⇨ ↑meal]
+1. NOT BRIGHT a mellow colour or light looks soft, warm, and not too bright:
+ the mellow golden light of early evening
+2. NOT LOUD OR HARSH a mellow sound is pleasant and smooth:
+ a warm, mellow voice
+3. NOT STRONG IN FLAVOUR mellow wine or fruit has a smooth pleasant taste:
+ its smooth, mellow flavour
+rigorous
+rig‧or‧ous /ˈrɪɡərəs/ BrE  AmE  adjective
+1. careful, thorough, and exact:
+ a rigorous analysis of defence needs
+ the rigorous standards required by the college
+2. very severe or strict:
+ rigorous army training
+—rigorously adverb
+rigour
+rig‧our BrE  AmE  British English, rigor American English /ˈrɪɡə $ -ər/ noun
+1. the rigours of something the problems and difficulties of a situation:
+ all the rigors of a Canadian winter
+ the stresses and rigours of modern life
+2. [uncountable] great care and thoroughness in making sure that something is correct:
+ Their research seems to me to be lacking in rigour.
+ 
+ 
+ I. vet2 BrE  AmE  verb (past tense and past participle vetted, present participle vetting) [transitive]
+[Date: 1800-1900; Origin: ⇨ ↑vet1(1)]
+1. British English to check someone’s past activities, relationships etc in order to make sure that person is suitable for a particular job, especially an important one:
+ All candidates are carefully vetted by Central Office.
+2. to check a report, speech etc carefully to make sure it is acceptable:
+ The author vets every script for the new TV series.
+ • All goods are carefully vetted for quality before they leave the factory.
+• We are introducing new security vetting procedures.
+
+standstill
+stand‧still /ˈstændˌstɪl/ BrE  AmE  noun [singular]
+a situation in which there is no movement or activity at all
+come to a standstill/bring something to a standstill
+ Strikers brought production to a standstill.
+at a standstill
+ Traffic was at a standstill.
+
+ 
+ I. vig‧or /ˈvɪɡə $ -ər/ BrE  AmE  noun [uncountable]
+the American spelling of ↑vigour
+II. vig‧our BrE  AmE  British English, vigor American English /ˈvɪɡə $ -ər/ noun [uncountable]
+physical or mental energy and determination
+with vigour
+ He began working with renewed vigour.
+ 
+ rein
+I. rein1 /reɪn/ BrE  AmE  noun
+[Date: 1200-1300; Language: Old French; Origin: rene, from Latin retinere; ⇨ ↑retain]
+1. [countable usually plural] a long narrow band of leather that is fastened around a horse’s head in order to control it ⇨ bridle
+2. give (full/free) rein to something to allow an emotion or feeling to be expressed freely:
+ He gave free rein to his imagination.
+3. give somebody (a) free rein to give someone complete freedom to do a job in whatever way they choose
+4. keep a tight rein on somebody/something to control something strictly:
+ The finance director keeps a tight rein on spending.
+5. take/hand over the reins to take or give someone control over an organization or country:
+ Owens will officially take over the reins in a few weeks.
+II. rein2 BrE  AmE  verb
+rein something ↔ in (also rein something ↔ back British English) phrasal verb
+1. to start to control a situation more strictly:
+ The government is reining in public expenditure.
+2. to make a horse go more slowly by pulling on the reins
+
+variable
+I. var‧i‧a‧ble1 AC /ˈveəriəbəl $ ˈver-/ BrE  AmE  adjective
+[Word Family: noun: ↑variable, ↑variance, ↑variant, ↑variety, ↑variability, ↑variation; adjective: ↑variable ≠ ↑invariable, ↑varied, ↑various; adverb: ↑variably ≠ ↑invariably, ↑variously; verb: ↑vary]
+1. likely to change often ⇨ vary:
+ Expect variable cloudiness and fog tomorrow.
+ Interest rates can be highly variable.
+variable in size/shape/colour etc
+ These fish are highly variable in color and pattern.
+2. sometimes good and sometimes bad:
+ The quality of pork is often less variable than beef.
+3. able to be changed:
+ The heater has variable temperature settings.
+—variably adverb
+—variability /ˌveəriəˈbɪləti, ˌveəriəˈbɪlɪti $ ˌver-/ noun [uncountable]
+II. variable2 AC BrE  AmE  noun [countable]
+[Word Family: noun: ↑variable, ↑variance, ↑variant, ↑variety, ↑variability, ↑variation; adjective: ↑variable ≠ ↑invariable, ↑varied, ↑various; adverb: ↑variably ≠ ↑invariably, ↑variously; verb: ↑vary]
+1. something that may be different in different situations, so that you cannot be sure what will happen OPP constant:
+ There are too many variables in the experiment to predict the result accurately.
+2. technical a mathematical quantity which can represent several different amounts OPP constant
+
+lingo
+lin‧go /ˈlɪŋɡəʊ $ -ɡoʊ/ BrE  AmE  noun [countable usually singular] informal
+[Date: 1600-1700; Language: Provençal; Origin: lingo 'tongue' or Portuguese lingoa, both from Latin lingua]
+1. a language, especially a foreign one:
+ I’d like to go to Greece, but I don’t speak the lingo.
+2. words or expressions used only by a particular group of people, or at a particular period of time:
+ academic lingo
+ 
+ adverseadverse
+ad‧verse /ˈædvɜːs $ -ɜːrs/ BrE  AmE  adjective
+[Date: 1300-1400; Origin: Early French advers, from Latin adversus, past participle of advertere; ⇨ ↑advert]
+1. not good or favourable:
+ They fear it could have an adverse effect on global financial markets.
+ Miller’s campaign has received a good deal of adverse publicity.
+2. adverse conditions conditions that make it difficult for something to happen or exist:
+ The expedition was abandoned because of adverse weather conditions.
+—adversely adverb:
+ developments which had adversely affected their business
+ 
+ secretive
+se‧cre‧tive /ˈsiːkrətɪv, ˈsiːkrɪtɪv, sɪˈkriːtɪv/ BrE  AmE  adjective
+[Word Family: noun: ↑secrecy, ↑secret, ↑secretiveness; adverb: ↑secretly, ↑secretively; adjective: ↑secret, ↑secretive; verb: ↑secrete]
+a secretive person or organization likes to keep their thoughts, intentions, or actions hidden from others OPP open:
+ The government has been accused of being secretive and undemocratic.
+secretive about
+ Carla was always very secretive about her work.
+—secretively adverb
+—secretiveness noun [uncountable]
+
+complicity
+com‧plic‧i‧ty /kəmˈplɪsəti, kəmˈplɪsɪti/ BrE  AmE  noun [uncountable] formal
+[Date: 1600-1700; Language: French; Origin: complicité, from Old French complice; ⇨ ↑accomplice]
+1. involvement in a crime, together with other people
+complicity in
+ Jennings denied complicity in the murder.
+2. involvement in or knowledge of a situation, especially one that is morally wrong or dishonest
+complicity with
+ His complicity with the former government had led to his downfall.
+—complicit adjective:
+ The careers of officers complicit in the cover-up were ruined.
+ 
+ colour
+shade • hue • tint • tinge
+These words all describe the appearance of things, resulting from the way in which they reflect light.
+colour/color • the appearance that things have, resulting from the way in which they reflect light. Red, green and blue are colours: ▪ What's your favourite colour? ◇ ▪ bright/dark/light colours
+shade • a particular form of a colour, especially when describing how light or dark it is. Sky blue is a shade of blue.
+hue • (literary or technical) a colour or a particular shade of a colour: ▪ His face took on an unhealthy, whitish hue.
+tint • a shade or small amount of a particular colour; a faint colour covering a surface: ▪ leaves with red and gold autumn tints
+tinge • a small amount of a colour: ▪ There was a pink tinge to the sky.
+tint or tinge?
+You can say: ▪ a reddish tint/tinge or: ▪ a tinge of red but not: a tint of red. Tint is often used in the plural, but tinge is almost always singular.
+a warm/rich colour/shade/hue/tint
+a bright/vivid/vibrant/dark/deep colour/shade/hue
+a pale/pastel/soft/subtle/delicate colour/shade/hue
+a light/strong/neutral/natural colour/shade
+
+) ,off the `cuff without previous thought or preparation 未经思考; 未经准备: make a remark off the cuff 即席发言 * [attrib 作定语] an ,off-the-cuff `joke, `remark, etc 随口而出的笑话、言语等.
+
+worked up
+ˌworked ˈup BrE  AmE  adjective [not before noun]
+informal very upset or excited about something
+worked up about/over
+ You shouldn’t get so worked up about it.
+⇨ work up at ↑work1
+work up
+work up phrasal verb (see also ↑work)
+1. work up enthusiasm/interest/courage etc to make yourself feel interested, brave etc:
+ I’m trying to work up enough courage to go to the dentist.
+2. work up an appetite/a thirst/a sweat to make yourself hungry or ↑thirsty, or make yourself ↑sweat, especially by doing physical exercise:
+ You can work up a really big thirst playing tennis.
+3. work somebody up to make someone very angry, excited, or upset about something
+work yourself up
+ You’re working yourself up again.
+ She had worked herself up into a state. ⇨ ↑worked up
+4. work something ↔ up to develop and improve something such as a project or a piece of writing:
+ Jack took notes which he would work up into a report later.
+ 
+ not mince (your) words
+not mince (your) words idiom
+to say what you mean clearly and directly, even if you upset people by doing this
+• The report does not mince words, describing the situation as 'ludicrous'.
+
+long ˌshot noun countable usually singular [long shots] UK  US 
+something you try although it is unlikely to be successful
+• It's a long shot, but you could try phoning him at home.
+
+slump
+I. slump1 /slʌmp/ BrE  AmE  verb [intransitive]
+[Date: 1600-1700; Origin: Probably from a Scandinavian language]
+1. to fall or lean against something because you are not strong enough to stand
+slump against/over/back etc
+ She slumped against the wall.
+ Carol slumped back in her chair, defeated.
+ Ben staggered and slumped onto the floor.
+2. to suddenly go down in price, value, or number OPP soar:
+ Sales slumped by 20% last year.
+slump to
+ The currency slumped to a record low.
+3. (also be slumped) if your shoulders or head slump or are slumped, they bend forward because you are unhappy, tired, or unconscious:
+ Her shoulders slumped and her eyes filled with tears.
+ 
+ rag
+I. rag1 /ræɡ/ BrE  AmE  noun
+[Sense 1-4,6: Date: 1300-1400; Language: Old Norse; Origin: rögg 'rough hairiness']
+[Sense 5: Date: 1800-1900; Origin: ragtime]
+1. CLOTH [uncountable and countable] a small piece of old cloth, for example one used for cleaning things:
+ He wiped his boots dry with an old rag.
+ an oily rag
+2. NEWSPAPER [countable] informal a newspaper, especially one that you think is not particularly important or of good quality:
+ He writes for the local rag.
+3. in rags wearing old torn clothes:
+ Children in rags begged money from the tourists.
+4. from rags to riches becoming very rich after starting your life very poor:
+ He likes to tell people of his rise from rags to riches. ⇨ ↑rags-to-riches
+5. MUSIC [countable] a piece of ↑ragtime music
+6. STUDENTS’ EVENT [countable] British English an event organized by students every year in order to make money for people who are poor, sick etc:
+ rag week
+ 
+ rug
+ British English a large piece of material that you can wrap around yourself, especially when you are travelling
+3. pull the rug (out) from under somebody/sb’s feet informal to suddenly take away something that someone was depending on to achieve what they wanted
+
+sweep something under the rug (third-person singular simple present sweeps something under the rug, present participle sweeping something under the rug, simple past and past participle swept something under the rug)
+(idiomatic) To conceal a problem expediently, rather than remedy it thoroughly.
+Synonyms[edit]
+
+bare
+I. bare1 /beə $ ber/ BrE  AmE  adjective
+[Language: Old English; Origin: bær]
+1. WITHOUT CLOTHES not covered by clothes SYN naked:
+ a ragged child with bare feet
+ She felt the warm sun on her bare arms.
+bare-headed/bare-chested/bare-legged etc
+2. LAND/TREES not covered by trees or grass, or not having any leaves:
+ The trees soon gave way to bare rock.
+3. NOT COVERED/EMPTY empty, not covered by anything, or not having any decorations:
+ She looked round her tiny bare room.
+ a bare wood staircase
+4. the bare facts a statement that tells someone only what they need to know, with no additional details:
+ The newspaper had simply published the bare facts.
+5. SMALLEST AMOUNT NECESSARY [only before noun] the very least amount of something that you need to do something:
+ He got 40% – a bare pass.
+ The room had the bare minimum (=the smallest amount possible) of furniture.
+the bare essentials/necessities
+ Her bag was light, packed with only the bare essentials.
+ If you ask her about herself, she gives only the barest (=the smallest amount possible) of details.
+6. the bare bones the most important parts or facts of something without any detail:
+ We have outlined only the bare bones of the method.
+7. lay something bare
+a) to uncover something that was previously hidden:
+ When the river is low, vast stretches of sand are laid bare.
+b) to make known something that was secret:
+ historical writing which seeks to lay bare the true nature of an event
+8. with your bare hands without using a weapon or a tool:
+ He had killed a man with his bare hands.
+ 
+ concede
+con‧cede /kənˈsiːd/ BrE  AmE  verb
+[Date: 1400-1500; Language: French; Origin: concéder, from Latin concedere, from com- ( ⇨ COM-) + cedere (, ↑cede)]
+1. ADMIT SOMETHING IS TRUE [intransitive and transitive] to admit that something is true or correct, although you wish it were not true ⇨ concession:
+ ‘That’s the only possible solution.’ ‘Yes, I suppose so,’ Charles conceded.
+concede (that)
+ I conceded that I had made a number of errors.
+2. ADMIT DEFEAT [intransitive and transitive] to admit that you are not going to win a game, argument, battle etc ⇨ concession:
+ The Georgian forces defended the capital but were finally obliged to concede.
+ In May 1949, Stalin conceded defeat and reopened land access to Berlin.
+3. concede a goal/point/penalty to not be able to stop your opponent from getting a ↑goal etc during a game:
+ The team has conceded only 19 goals in 28 games.
+ 
+ leeway
+lee‧way /ˈliːweɪ/ BrE  AmE  noun [uncountable]
+1. freedom to do things in the way you want to
+leeway in
+ The government does not have much leeway in foreign policy.
+leeway to do something
+ Try to give teenagers more leeway to make their own decisions.
+ 
+give
+▪ In fact, the anomalous status gave him greater leeway.
+▪ A single bat was created and given leeway to automatically flap its wings.
+▪ He says he would add tougher penalties for non-workers the moment Clinton gave him the necessary leeway.
+▪ The bank was usually very understanding, and generally gave us some leeway until we were able to sell something.
+▪ Again, it pays to give yourself plenty of leeway.
+▪ Sid gave plenty of leeway, right up to Christmas.
+EXAMPLES FROM OTHER ENTRIES
+▪ States now have more leeway to restrict the sale of guns.
+
+verse
+verse /vɜːs $ vɜːrs/ BrE  AmE  noun
+[Date: 900-1000; Language: Old French; Origin: vers, from Latin versus 'turning, verse', from vertere 'to turn']
+1. [countable] a set of lines that forms one part of a song, poem, or a book such as the Bible or the Quran (Koran):
+ Let’s sing the last verse again.
+ Learn the first two verses of the poem by heart.
+ Genesis chapter 3, verse 13
+2. [uncountable] words arranged in the form of poetry:
+ a book of comic verse
+in verse
+ Written in verse, the play was set in the Middle Ages.
+ verses [pl] (dated 旧) poetry 诗: a book of humorous verses 一本幽默诗集. 
+ [C] any one of the short numbered divisions of a chapter in the Bible （《圣经》的）节. 
+ (idm 习语) chapter and verse => chapter.
+ 
+ chapter
+chap‧ter S3 W1 AC /ˈtʃæptə $ -ər/ BrE  AmE  noun [countable]
+[Date: 1100-1200; Language: Old French; Origin: chapitre, from Late Latin capitulum, from Latin caput 'head']
+1. one of the parts into which a book is divided:
+ Read Chapter 11 as your homework.
+ This chapter discusses power, and how people use it.
+2. a particular period or event in someone’s life or in history ⇨ era
+chapter of
+ a new chapter of peace and cooperation
+chapter in
+ the noblest chapter in our history
+3. all the priests belonging to a ↑cathedral, or a meeting of these priests
+4. the local members of a large organization such as a club:
+ the local chapter of the American Legion
+5. give/quote somebody chapter and verse to give someone exact details about where to find some information
+6. a chapter of accidents British English a series of unlucky events coming one after another
+
+canopy
+can·opy [canopy canopies canopied canopying] BrE [ˈkænəpi]  NAmE [ˈkænəpi]  noun (pl. can·opies)
+1. a cover that is fixed or hangs above a bed, seat, etc. as a shelter or decoration
+2. a layer of sth that spreads over an area like a roof, especially branches of trees in a forest
+• a canopy of leaves
+• a glorious canopy of stars
+• We could see the sky through gaps in the forest canopy.
+3. (especially NAmE) a roof that is supported on posts and is sometimes also attached at one side to a building
+• a new steel entrance canopy for the building
+• a fabric canopy to provide shade in the backyard
+4. a cover for the ↑cockpit of an aircraft
+
+grim
+grim /ɡrɪm/ BrE  AmE  adjective
+[Language: Old English; Origin: grimm]
+1. making you feel worried or unhappy SYN harsh:
+ the grim reality of rebuilding the shattered town
+ When he lost his job, his future looked grim.
+ Millions of Britons face the grim prospect (=something bad that will probably happen) of dearer home loans.
+ We received the grim news in silence.
+2. looking or sounding very serious:
+ ‘I’ll survive,’ he said with a grim smile.
+ The child hung on to her arm with grim determination.
+ The police officers were silent and grim-faced.
+3. British English informal very bad, ugly, or unpleasant:
+ The weather forecast is pretty grim.
+ They painted a grim picture of what life used to be like there.
+ a grim industrial town
+4. [not before noun] informal ill:
+ Juliet felt grim through the early months of her pregnancy.
+ 
+ infectious
+in‧fec‧tious /ɪnˈfekʃəs/ BrE  AmE  adjective
+[Word Family: noun: ↑infection, ↑disinfectant; adjective: ↑infectious, ↑infected; verb: ↑infect ≠ ↑disinfect; adverb: ↑infectiously]
+1. an infectious illness can be passed from one person to another, especially through the air you breathe:
+ infectious diseases
+ Flu is highly infectious.
+2. someone who is infectious has an illness and could pass it to other people
+3. infectious feelings or laughter spread quickly from one person to another:
+ an infectious smile
+ infectious enthusiasm
+ 
+ cli‧mac‧tic /klaɪˈmæktɪk/ BrE  AmE  adjective
+[Date: 1800-1900; Origin: climax]
+forming a very exciting or important part of an event or story, especially near the end of it ⇨ climax:
+ a climactic moment
+ 
+ churn
+I. churn1 /tʃɜːn $ tʃɜːrn/ BrE  AmE  verb
+1. [intransitive] if your stomach churns, you feel sick because you are nervous or frightened:
+ My stomach was churning on the day of the exam.
+2. [intransitive and transitive] (also churn up) if water, mud etc churns, or if something churns it, it moves about violently:
+ We watched the ocean churn.
+3. [intransitive] if a machine, engine, wheel etc churns, it or its parts begin to move:
+ I pressed the gas pedal, and slowly the wheels began to churn.
+4. [transitive] to make milk by using a churn
+churn something ↔ out phrasal verb
+to produce large quantities of something, especially without caring about quality:
+ She’s been churning out novels for 20 years.
+churn somebody/something ↔ up phrasal verb
+1. churn something ↔ up to damage the surface of the ground, especially by walking on it or driving a vehicle over it:
+ The lawn had been churned up by the tractor.
+2. churn something ↔ up to move water, mud etc around violently:
+ The oars had churned up the mud, clouding the water.
+3. British English to make someone upset or angry:
+ Though she looked calm, in reality she was churned up inside.
+ 
+ skid2 BrE  AmE  noun [countable]
+[Date: 1600-1700; Origin: Perhaps from a Scandinavian language]
+1. SLIDING MOVEMENT a sudden sliding movement of a vehicle that you cannot control:
+ Turn the car towards the skid if you lose control of it.
+ He slammed on the brakes and we went into a long skid (=started to skid).
+2. on the skids informal in a situation that is bad and getting worse:
+ He’s been on the skids since losing his job.
+3. put the skids under something British English informal to make it likely or certain that something will fail:
+ The recession put the skids under his plans for starting a new business.
+4. SPORT [usually singular] American English a period of time during which a person or team is not successful – used in news reports:
+ The Red Sox victory ended a six-game skid.
+5. AIRCRAFT a flat narrow part that is under some aircraft such as ↑helicopters, and is used in addition to wheels for landing
+6. USED TO LIFT/MOVE [usually plural] a piece of wood that is put under a heavy object to lift or move it
+
+catering
+ca‧ter‧ing /ˈkeɪtərɪŋ/ BrE  AmE  noun [uncountable]
+the activity of providing and serving food and drinks at parties, meetings etc for money ⇨ self-catering:
+ Who did the catering?
+catering business/service etc
+
+panacea
+pan‧a‧cea /ˌpænəˈsɪə/ BrE  AmE  noun [countable]
+[Date: 1500-1600; Language: Latin; Origin: Greek panakeia, from pan- ( ⇨ ↑pan-) + akeisthai 'to cure']
+something that people think will make everything better and solve all their problems SYN cure-all ⇨ solution
+panacea for
+ There is no panacea for the country’s economic problems.
+ 
+ noun
+EXAMPLES FROM OTHER ENTRIES
+▪ Electoral reform is not a panacea. It causes almost as many problems as it solves.
+▪ Librarians welcomed computerization as the panacea for all their cataloguing problems.
+EXAMPLES FROM CORPUS
+▪ Free trade, however, is not a panacea.
+▪ His head ached, the cool air no panacea, and his thoughts, too, were disturbed.
+▪ In the nineteenth century, economic expansion through imperialism was seen as the panacea for the mounting social problems.
+▪ It is only a partial remedy, not a panacea.
+▪ That was the rich man's panacea for the litany of ills of the poor.
+▪ The issues discussed should make demands on members, require understanding, discussion of the panacea, introduce, inform, involve.
+▪ This suggests that, while disulfiram is not a panacea, it does have a useful role in selected patients.
+
+arsenal
+ar‧se‧nal /ˈɑːsənəl $ ˈɑːr-/ BrE  AmE  noun [countable]
+[Date: 1500-1600; Language: Italian; Origin: arsenale, from Arabic dar sina'ah 'house where things are made']
+1. a large group of weapons that someone has:
+ Britain’s nuclear arsenal
+arsenal of
+ an arsenal of guns
+2. a building where weapons are stored
+3. the equipment, methods etc that someone can use to help them achieve something:
+ a software package that’s now part of our arsenal
+arsenal of
+ He has a whole arsenal of cameras.
+ scrimp
+scrimp /skrɪmp/ BrE  AmE  verb [intransitive]
+[Date: 1700-1800; Origin: Probably from a Scandinavian language]
+to try to save as much money as you can, even though you have very little:
+ They scrimped and saved for years to buy their own home.
+ • There is a risk that the debt-ridden airline may be tempted to scrimp on maintenance or security.
+Thesaurus+: ↑Saving and savings accounts ↑Budgeting and saving money
+2. scrimp and save
+If you scrimp and save, you manage to live on very little money in order to pay for something.
+• I've been scrimping and saving all year to pay for our holiday.
+Thesaurus+: ↑Saving and savings accounts ↑Budgeting and saving money
+
+screech
+screech /skriːtʃ/ BrE  AmE  verb
+[Date: 1500-1600; Origin: scritch 'to screech' (13-20 centuries), from the sound]
+1. [intransitive and transitive] to shout loudly in an unpleasant high voice because you are angry, afraid, or excited SYN shriek, scream:
+ ‘Look out!’ she screeched.
+ They screeched with laughter.
+screech at
+ She screeched at me to take off my muddy shoes.
+2.   [intransitive] if a vehicle screeches, its wheels make a high unpleasant noise as it moves along or stops:
+ A van screeched onto the road in front of me.
+ The car screeched to a halt.
+—screech noun [countable]:
+ a screech of laughter
+ the screech of tyres
+ 
+ iffy
+if‧fy /ˈɪfi/ BrE  AmE  adjective informal
+[Date: 1900-2000; Origin: if]
+1. British English not very good:
+ That meat smells a bit iffy to me.
+2. not certain to happen SYN doubtful:
+ The July date is still rather iffy.
+ ripple
+I. rip‧ple1 /ˈrɪpəl/ BrE  AmE  verb
+[Date: 1600-1700; Origin: Probably from rip]
+1. [intransitive and transitive] to move in small waves, or to make something move in this way:
+ fields of grain rippling in the soft wind
+ I could see the muscles rippling under his shirt.
+2. [intransitive always + adverb/preposition] to pass from one person to another like a wave
+ripple through
+ Panic rippled through Hollywood as the murders were discovered.
+ripple around
+ Enthusiastic applause rippled around the tables.
+3. [intransitive always + adverb/preposition] if a feeling ripples through you, you feel it strongly
+ripple through
+ Anger was rippling through him so fiercely that his whole body shook.
+4. [intransitive] to make a noise like water that is flowing gently:
+ The water rippled over the stones.
+ a rippling brook
+ 
+ . a small low wave on the surface of a liquid:
+ ripples on the surface of the pond
+ She dived into the pool, making scarcely a ripple.
+2.  a sound that gets gradually louder and softer:
+ A ripple of laughter ran through the audience.
+ a ripple of applause
+3. a feeling that spreads through a person or a group because of something that has happened:
+ A ripple of excitement went through the crowd as he came on stage.
+4. a shape or pattern that looks like a wave:
+ ripples on the sand
+5. raspberry ripple/chocolate ripple etc a type of ↑ice cream that has different coloured bands of fruit, chocolate etc in it
+6. ripple effect a situation in which one action causes another, which then causes a third etc SYN domino effect:
+ The increase had a ripple effect through the whole financial market.
+ 
+ Moving house
+>>>>>>> 568181338d0004ecb867fe30ead9d06272052d29
 Renting
 live in a rented/(especially NAmE) rental property
 rent/share/move into a furnished house/(BrE) flat/(especially NAmE) apartment
@@ -1135,6 +1632,7 @@ Selling
 put your house/property on the market/up for sale/up for auction
 increase/lower your price/the asking price
 have/hold/hand over the deed/(especially BrE) deeds of/to the house, land, etc.
+<<<<<<< HEAD
 
 . ring hollow if something that someone says rings hollow, you do not feel that it is true or sincere:
  Assurances that things have changed ring hollow in many ears.
@@ -4494,3 +4992,709 @@ discourse on/upon
 II. dis‧course2 /dɪsˈkɔːs $ -ɔːrs/ BrE  AmE  verb
 discourse on/upon something phrasal verb formal
 to make a long formal speech about something, or to discuss something seriously
+=======
+ 
+Example Bank:
+• He argued that the arts have great social utility.
+• This computer is of low utility for the home user.
+• a privatized electricity utility
+• regulatory agencies such as public utility commissions
+• Legislation will be introduced to regulate the privatized utilities.
+• Public utilities such as water, gas and electricity come under the control of the government.
+ 
+adjective only before noun
+that can be used for several different purposes
+• an all-round utility player (= one who can play equally well in several different positions in a sport)
+
+pander to somebody/something phrasal verb
+to give someone anything they want in order to please them, even if it seems unreasonable or unnecessary – used to show disapproval:
+ Some newspapers feel they have to pander to the prejudices of their readers.
+ Highly trained staff will pander to your every whim.
+ 
+ matter-of-fact
+ˌmatter-of-ˈfact BrE  AmE  adjective
+showing no emotion when you are talking about something exciting, frightening, upsetting etc
+matter-of-fact about
+ Jan was surprisingly matter-of-fact about her divorce.
+matter-of-fact voice/tone
+ Use a matter-of-fact tone when disciplining your children.
+—matter-of-factly adverb
+
+tongue-in-cheek
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ a tongue-in-cheek rock video
+EXAMPLES FROM CORPUS
+▪ It is the trick of the big-stage musical number but applied to circus with finesse and much tongue-in-cheek humour.
+▪ Kate's tongue-in-cheek interview was given half a page, and the Globe immediately asked her for more articles.
+▪ The way I use them is slightly tongue-in-cheek.
+▪ This is not a merely tongue-in-cheek reaction to such arguments as that of Meillassoux.
+
+long-running
+ˌlong-ˈrunning BrE  AmE  adjective [only before noun]
+used to talk about something that has been continuing for a long time:
+ a long-running saga
+long-running dispute/battle/debate/feud etc
+ She was involved in a long-running legal battle.
+long-running show/musical/soap opera etc
+• • •
+
+. head1 S1 W1 /hed/ BrE  AmE  noun
+[Word Family: noun: ↑head, ↑heading, ↑overhead, ↑header, ↑headship; adjective: ↑overhead, ↑heady, ↑headless, ↑headed; verb: ↑head, ↑behead; adverb: ↑overhead]
+[Language: Old English; Origin: heafod]
+1. TOP OF BODY [countable] the top part of your body that has your face at the front and is supported by your neck:
+ He kissed the top of her head.
+ Alan fell asleep as soon as he put his head on the pillow.
+ They dived head first into the water.
+ She was dressed in black from head to toe (=over all her body).
+ He still has a full head of hair (=has all his hair, even though he is getting rather old).
+2. MIND [countable] your mind or mental ability:
+ The problem only exists inside his head.
+do something in your head (=calculate something mentally)
+ I can’t do those figures in my head.
+ Use your head to work out the answer.
+come into/pop into your head
+ Jackie said the first thing that came into her head.
+get something into your head (=understand something)
+ ‘It’s over, Jake,’ she said. ‘Try and get that into your head.’
+take/get it into your head (to do something) (=decide to do something, especially something stupid)
+ At about two in the morning, Alan took it into his head to go for a swim.
+get/put something out of your head (=stop thinking or worrying about something)
+ Try to put it out of your head for the time being.
+put something into sb’s head (=make someone think or believe something)
+ What’s put that idea into her head?
+get your head round something British English (=be able to understand something)
+ I just can’t get my head round what’s been going on here.
+3. CALM/SENSIBLE
+a) keep your head to remain calm and sensible in a difficult or frightening situation:
+ We need a candidate who can keep his or her head even when clients get aggressive.
+keep a clear/cool/calm head
+ Get to sleep early tonight – you’ll need to keep a clear head tomorrow at the trial.
+b) lose your head to become unable to behave calmly or sensibly in a difficult or frightening situation:
+ You’ll be OK as long as you don’t lose your head and forget he’s the real enemy.
+c) have your head screwed on (straight/right) informal to be sensible and able to deal with difficult situations:
+ He wondered what Gemma thought about it all. She seemed to have her head screwed on.
+4. PERSON IN CHARGE [countable]
+a) a leader or person in charge of a group or organization
+head of
+ You should discuss the matter with your head of department.
+ A meeting of Commonwealth heads of state will be held next month.
+head waiter/chef/gardener etc (=the person in charge of a group of waiters etc)
+b) (also head teacher) British English the person in charge of a school SYN principal American English:
+ From now on all violent incidents should be reported directly to the head. ⇨ ↑crowned head, ↑head boy, ↑head girl, ↑headmaster, ↑headmistress
+5. FRONT/LEADING POSITION [singular] the front or the most important position
+(at) the head of something
+ Jenny marched proudly at the head of the procession.
+ At the head of the table (=the place where the most important person sits) sat the senior partners.
+at sth’s/sb’s head
+ The band of soldiers marched into the yard, their defeated captain at their head.
+6. CRAZY [countable usually singular] used in particular phrases to talk about someone being crazy or very stupid:
+ People going out in conditions like this need their heads examined.
+be off your head British English:
+ You must be off your head if you think that.
+ If I walk in looking like that, they’ll think I’m not right in the head.
+7. a head/per head for each person:
+ Dinner works out at $30 a head.
+ average incomes per head
+8. RIVER/VALLEY [countable usually singular] the place where a river, valley etc begins
+9. come to a head (also bring something to a head) if a problem or difficult situation comes to a head, or something brings it to a head, it suddenly becomes worse and has to be dealt with quickly:
+ Things came to a head in the summer of 1997.
+10. FLOWER/PLANT [countable] the top of a plant where its flowers or leaves grow:
+ She was outside cutting the dead heads off the roses.
+head of
+ a head of lettuce
+11. HEIGHT/DISTANCE [singular] the length of a head, used to measure height or distance:
+ She saw her father, a head above the rest of the crowd.
+by a (short) head (=used to say that a horse won or lost a race but only by a small amount)
+12. COIN heads the side of a coin that has a picture of a person’s head on it
+heads or tails? British English spoken (=used to decide something, by asking someone which side of a coin they guess will be showing when you throw it in the air and it lands) ⇨ tails at ↑tail1(5b)
+13. laugh/shout/scream etc your head off informal to laugh, shout etc very loudly:
+ Fans were screaming their heads off.
+14. have a good/fine/thick etc head of hair to have a lot of hair on your head
+15. get/put your head down informal
+a) to start working in a quiet determined way:
+ It’s time you got your head down and did some revision.
+b) British English to sleep
+16. keep your head down to try to avoid being noticed or getting involved in something:
+ Do what you’re told and keep your head down.
+17. as soon as your head hits the pillow if you fall asleep as soon as your head hits the pillow, you fall asleep as soon as you lie down
+18. be out of/off your head informal
+to not know what you are doing because you have taken drugs or drunk too much alcohol:
+ He was off his head on various drugs.
+19. go to sb’s head informal
+a) if alcohol goes to your head, it quickly makes you feel drunk
+b) if success goes to someone’s head, it makes them feel more important than they really are:
+ She never let fame go to her head.
+20. TOOL [countable usually singular] the wide end of a long narrow tool or piece of equipment
+21. put your heads together to discuss a difficult problem together:
+ The next morning, we all put our heads together to decide what should be done.
+22. go over sb’s head
+a) to be too difficult for someone to understand:
+ The explanation went completely over my head.
+b) to do something without discussing it with a particular person or organization first, especially when you should have discussed it with them
+23. can’t make head or/nor tail of something informal to be completely unable to understand something
+24. have your head in the clouds to think about something in a way that is not practical or sensible, especially when you think things are much better than they really are
+25. have a (good) head for figures/facts/business etc to be naturally good at doing calculations, remembering facts etc
+26. head for heights the ability to look down from high places without feeling ill or nervous
+27. a big head informal the opinion that you are much better, more important, more skilful etc than you really are:
+ I suppose I did do OK, but I’d be silly to get a big head about it.
+28. keep your head above water to manage to continue to live on your income or keep your business working when this is difficult because of financial problems:
+ For years they struggled to keep their heads above water.
+29. be/stand head and shoulders above somebody to be much better than other people:
+ One contestant stood head and shoulders above the rest.
+30. hold up your head (also hold your head high) to show pride or confidence, especially in a difficult situation:
+ If you do this, you’ll never be able to hold your head up again.
+31. be (like) banging/bashing etc your head against a brick wall spoken used to say that you are making no progress at all in what you are trying hard to do:
+ I’ve tried to talk some sense into them, but it’s like banging my head against a brick wall.
+32. bang/knock sb’s heads together spoken used to say that two people or groups should be forced to stop arguing and start to behave sensibly
+33. bite/snap sb’s head off to talk to someone very angrily with no good reason:
+ I offered to help her, but she just bit my head off.
+34. turn/stand something on its head to make people think about something in the opposite way to the way it was originally intended:
+ The attorney quickly turned his main defense argument on its head.
+35. give somebody their head to give someone the freedom to do what they want to do
+36. be/fall head over heels in love to love or suddenly start to love someone very much:
+ Sam was head over heels in love with his new bride.
+37. heads will roll spoken used to say that someone will be punished severely for something that has happened:
+ Heads will roll for this!
+38. on your own head be it spoken used to tell someone that they will be blamed if the thing they are planning to do goes wrong
+39. do your head in British English spoken informal to make you feel confused and annoyed:
+ Turn that noise down – it’s doing my head in!
+40. be/get in over your head to be or get involved in something that is too difficult for you to deal with:
+ In business, start small and don’t get in over your head.
+41. be over your head in debt American English to owe so much money that there is no possibility of paying it all back
+42. go head to head with somebody to deal with or oppose someone in a very direct and determined way:
+ Rather than go head to head with their main rivals, they decided to try a more subtle approach.
+43. heads up! American English spoken used to warn people that something is falling from above
+44. BEER [countable] the layer of small white ↑bubbles on the top of a glass of beer
+45. ELECTRONICS [countable] a piece of equipment that changes information on a recording tape, a computer ↑hard disk etc into electrical messages that electronic equipment can use
+46. head of cattle/sheep etc [plural] a particular number of cows, sheep etc:
+ a farm with 20 head of cattle
+47. head of water/steam pressure that is made when water or steam is kept in an enclosed space
+48. get/build up a head of steam to become very active after starting something slowly
+49. LAND [singular] British English a high area of land that sticks out into the sea – used in names:
+ Beachy Head
+50. INFECTION [countable] the centre of a swollen spot on your skin
+51. give (somebody) head informal to perform ↑oral sex on someone
+⇨ bury your head in the sand at ↑bury(8), ⇨ knock something on the head at ↑knock1(16), ⇨ off the top of your head at ↑top1(18), ⇨ somebody can do something standing on their head at ↑stand1(40), ⇨ turn sb’s head at ↑turn1(18), ⇨ two heads are better than one at ↑two(8)
+• • •
+COLLOCATIONS
+■ verbs
+▪ turn your head John turned his head to look at the boy.
+▪ shake your head (=move it from side to side, especially to show disagreement) ‘It’s too much,’ he said, shaking his head.
+▪ nod your head (=move it up and down, especially to show agreement) The audience nodded their heads enthusiastically.
+▪ sb’s head hurts/aches/throbs Her head was throbbing and she needed to lie down.
+▪ raise/lift your head (=look up) Tom raised his head to listen, then went back to his book.
+▪ bow/bend/lower your head (=look down) He bowed his head and tried not not to look at her.
+▪ hang your head (=look down, especially because you are ashamed) She hung her head, not sure how to reply.
+▪ scratch your head (=especially because you do not understand something) He scratched his head and started looking through the drawers again.
+▪ cock your head (=hold your head at an angle) The big dog cocked his head to one side and raised his ears.
+■ adjectives
+▪ bare The sun beat down on her bare head.
+▪ bald His bald head shone with sweat.
+▪ sb’s blonde/dark/grey etc head (=with blonde etc hair) I saw my son’s blond head sticking out from the car window.
+■ head + NOUN
+▪ head injury Wearing a helmet reduces the risk of head injuries.
+II. head2 S2 W2 BrE  AmE  verb
+[Word Family: noun: ↑head, ↑heading, ↑overhead, ↑header, ↑headship; adjective: ↑overhead, ↑heady, ↑headless, ↑headed; verb: ↑head, ↑behead; adverb: ↑overhead]
+1. GO TOWARDS (also be headed) [intransitive always + adverb/preposition] to go or travel towards a particular place, especially in a deliberate way
+head for/towards/back etc
+ The ship was heading for Cuba.
+ It’s about time we were heading home.
+head north/south etc
+ We headed south towards the capital.
+ Where are you guys headed?
+2. FUTURE be heading (also be headed) [intransitive always + adverb/preposition] if you are heading for a particular situation, especially a bad one, it seems likely to happen
+be heading for
+ Forecasters predict the region’s economy is heading for disaster.
+ Where is your life heading?
+3. BE IN CHARGE (also head up) [transitive] to be in charge of a team, government, organization etc:
+ David was asked to head up the technical team.
+ an interim government headed by the former Prime Minister
+4. AT TOP [transitive]
+a) to be at the top of a list or group of people or things:
+ The movie heads the list of Oscar nominations.
+b) be headed if a page is headed with a particular name, title, image etc, it has it on the top:
+ The page was headed ‘Expenses’.
+ officially-headed writing paper
+5. AT FRONT [transitive] to be at the front of a line of people:
+ a procession headed by the Queen
+6. FOOTBALL [intransitive, transitive always + adverb/preposition] to hit the ball with your head, especially in football
+head off phrasal verb
+1. to leave to go to another place:
+ I’m heading off now.
+2. head something ↔ off to prevent something from happening, especially something bad:
+ The President intervened to head off the conflict.
+3. head somebody ↔ off to stop someone going somewhere by moving in front of them:
+ Soldiers headed them off at the border.
+ 
+ underlying
+un‧der‧ly‧ing AC /ˌʌndəˈlaɪ-ɪŋ◂ $ -ər-/ BrE  AmE  adjective
+[Word Family: verb: ↑underlie; adjective: ↑underlying]
+underlying cause/principle/problem etc the cause, idea etc that is the most important, although it is not easily noticed:
+ the underlying causes of her depression
+ There is an underlying assumption that younger workers are easier to train.
+• • •
+COLLOCATIONS
+■ nouns
+▪ the underlying cause/reason Stress is the underlying cause of many illnesses.
+▪ an underlying assumption There is an underlying assumption that new technology is always a good thing.
+▪ an underlying principle Their actions, he argued, went against the underlying principles of Christian morality.
+▪ an underlying problem Little is being done to correct the system's underlying problems.
+▪ an underlying theme Death and rebirth are underlying themes in all of his novels.
+▪ an underlying message The underlying message of his speech was that the economic good times are over.
+
+resurrect
+res‧ur‧rect /ˌrezəˈrekt/ BrE  AmE  verb [transitive]
+[Date: 1700-1800; Origin: resurrection]
+to bring back an old activity, belief, idea etc that has not existed for a long time:
+ The Home Office have resurrected plans to build a new prison just outside London.
+ another failed attempt to resurrect his career
+From CALD3 - Paracel & Spratly Islands - Van Lang - Viet Nam
+resurrect
+resurrect UK  [ˌrez. ə rˈekt] US  [-əˈrekt] verb transitive [resurrects resurrecting resurrected]
+1. to bring someone back to life
+• Almost all Christians believe that Jesus was resurrected from the dead.
+Thesaurus+: ↑Restoring and reviving
+2. to bring back something into use or existence that had disappeared or ended
+• Several members of the party have resurrected the idea of constitutional change.
+• She has been busily trying to resurrect her Hollywood career.
+Thesaurus+: ↑Restoring and reviving
+
+whittle
+whit‧tle /ˈwɪtl/ BrE  AmE  verb
+[Date: 1500-1600; Origin: whittle 'large knife' (15-19 centuries), from thwittle (14-19 centuries), from thwite 'to whittle' (11-19 centuries), from Old English thwitan]
+1. (also whittle down) [transitive] to gradually make something smaller by taking parts away:
+ We need to whittle down the list of guests for the party.
+2. [intransitive and transitive] to cut a piece of wood into a particular shape by cutting off small pieces with a knife ⇨ carve
+whittle away phrasal verb
+to gradually reduce the amount or effectiveness of something, especially something that you think should not be reduced
+whittle something ↔ away
+ The museum is worried that government funding will be whittled away.
+whittle away at
+ Congress is whittling away at our freedom of speech.
+ 
+ preposterous
+pre‧pos‧ter‧ous /prɪˈpɒstərəs $ -ˈpɑːs-/ BrE  AmE  adjective formal
+[Date: 1500-1600; Language: Latin; Origin: praeposterus 'with the back part in front', from prae- ( ⇨ ↑pre-) + posterus (, ↑posterior1)]
+completely unreasonable or silly SYN absurd:
+ The whole idea sounds absolutely preposterous!
+—preposterously adverb
+—preposterousness noun [uncountable]
+
+over-the-top
+ˌover-the-ˈtop BrE  AmE  adjective British English informal
+(abbreviation OTT) remarks, behaviour etc that are over-the-top are so extreme or unreasonable that they seem stupid or offensive:
+ It’s a bit over-the-top to call him a fascist.
+From Longman DOCE5 Extras (En-En)
+over-the-top
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ She specializes in over-the-top satirical comedy.
+EXAMPLES FROM CORPUS
+▪ All too often supposedly top officials turn highly entertaining games into a farce with over-the-top bookings.
+▪ Could it be the hysterical over-the-top camerawork, proving any amount of slow-motion and soft-focus still do not actually score as style.
+▪ His raptures over pretty strangers and their come-hither designer clothes were as over-the-top as his enthusiasm for a new cocktail.
+▪ It made me cringe at its over-the-top violence.
+
+knack
+knack /næk/ BrE  AmE  noun informal
+[Date: 1300-1400; Origin: Perhaps from Dutch or Low German knak '(sound of) a sudden blow', from the sound]
+1. [singular] a natural skill or ability ⇨ talent
+knack for doing something
+ Some people seem to have a knack for making money.
+knack of doing something
+ Thomson’s knack of scoring vital goals makes him important to the team.
+2. have a knack of doing something British English to have a tendency to do something:
+ He has a knack of saying the wrong thing.
+• • •
+COLLOCATIONS
+■ verbs
+▪ have a knack He seems to have a knack for getting people to agree with him.
+▪ get the knack Once you've got the knack, you'll never forget how to do it.
+▪ lose the knack He proved that he hadn't lost the knack for scoring goals.
+■ adjectives
+▪ an uncanny knack (=an ability that seems surprising or strange) She has an uncanny knack for knowing what you're really thinking.
+▪ an unhappy knack (=a knack that you would not want) He had the unhappy knack of making enemies.
+
+poke
+I. poke1 /pəʊk $ poʊk/ BrE  AmE  verb
+1. WITH A FINGER/STICK ETC [intransitive and transitive] to quickly push your finger or some other pointed object into something or someone
+poke somebody/something with something
+ Andy poked the fish with his finger to see if it was still alive.
+poke somebody in the eye/arm/ribs etc
+ Be careful with that umbrella or you’ll poke someone in the eye.
+poke at
+ He was poking at the dust with a stick, making little patterns.
+2. THROUGH A SPACE/HOLE [transitive always + adverb/preposition] to move or push something through a space or opening
+poke something in/into/through something
+ He poked a hand into one of his pockets.
+ One of the nurses poked her head around the door.
+3. BE SEEN [intransitive always + adverb/preposition] if something is poking through or out of something else, you can see part of it but not all of it
+poke out
+ Ella looked at the tiny face poking out of the blanket.
+poke through
+ Weeds had started poking through the cracks in the patio.
+4. poke a hole to make a hole or hollow area in something by pushing something pointed into or through it
+poke a hole into/in/through
+ Poke a hole in the dough, and then form it into a rounded shape.
+5. poke holes in something to find mistakes or problems in a plan or in what someone has said:
+ Defense attorneys tried to poke holes in Rodger’s story.
+6. poke fun at somebody to make fun of someone in an unkind way:
+ Some of the kids were poking fun at Judy because of the way she was dressed.
+7. poke your nose into something informal to take an interest or get involved in someone else’s private affairs, in a way that annoys them:
+ I’m sick of your mother poking her nose into our marriage.
+8. poke the fire to move coal or wood in a fire with a stick to make it burn better
+9. ON THE INTERNET [transitive] to show someone on a ↑social networking site that you want to communicate with them
+10. SEX [transitive] spoken not polite to have sex with a woman
+poke along phrasal verb American English informal
+to move very slowly:
+ He kept the car in the slow lane, poking along at about 40 miles an hour.
+poke around (also poke about British English) phrasal verb informal
+1. to look for something, especially by moving a lot of things around
+poke around in
+ James began poking about in the cupboard, looking for the sugar.
+2. to try to find out information about other people’s private lives, business etc, in a way that annoys them
+poke around in
+ Stop poking around in my business!
+3. poke around (something) to spend time in shops, markets etc looking at nothing in particular SYN browse:
+ I spent Sunday afternoon poking around an old bookshop.
+poke into something phrasal verb informal
+to try to find out information about other people’s private lives, business etc, in a way that annoys them
+• • •
+THESAURUS
+▪ push to make something or someone move by pressing them with your hands, arms etc: Push the door, don’t pull it. | She pushed him away and walked out.
+▪ shove to push someone or something in a rough or careless way: People were shoving to get to the front of the queue. | Tom shoved his suitcase under the bed.
+▪ stuff informal to push something quickly and carelessly into a small space: She stuffed a few clothes into a bag and left.
+▪ poke to push someone or something with your finger or something sharp: I poked the snake with a stick but it was dead.
+▪ nudge to push someone beside you gently with your elbow to get their attention: Toby nudged me and pointed out of the window.
+▪ roll to push something round or something on wheels so that it moves forward: They rolled the logs down the hill. | The car still didn’t start so we tried to roll it off the road.
+▪ wheel to push something with wheels, for example a bicycle or a ↑trolley, so that it moves forward, while guiding it with your hands: Rob wheeled his bike round the back of the house.
+II. poke2 BrE  AmE  noun [countable]
+1. give somebody/something a poke to quickly push your fingers, a stick etc into something or someone:
+ Vanessa gave me a playful poke in the ribs.
+2. American English informal a criticism of someone or something:
+ Bennett took a poke at the President’s refusal to sign the bill.
+3. the act of showing someone on a ↑social networking site that you want to communicate with them
+
+radical
+I. rad‧i‧cal1 W3 AC /ˈrædɪkəl/ BrE  AmE  adjective
+[Word Family: noun: ↑radical, ↑radicalism; verb: ↑radicalize; adverb: ↑radically; adjective: ↑radical]
+[Date: 1300-1400; Language: Late Latin; Origin: radicalis, from Latin radix 'root']
+1. CHANGE/DIFFERENCE a radical change or difference is very big and important OPP slight:
+ They are proposing radical changes to the way the company is run.
+ a radical reform of the tax system
+ There are radical differences between the two organizations.
+2. OPINIONS radical ideas are very new and different, and are against what most people think or believe ⇨ conservative:
+ He has put forward some very radical ideas.
+ I was shocked by her radical views.
+ a radical approach to education
+3. PEOPLE someone who is radical has ideas that are very new and different, and against what most people think or believe:
+ a radical left-wing politician
+ a radical feminist
+4. GOOD American English informal very good or enjoyable:
+ That was one radical party last night!
+—radically /-kli/ adverb:
+ a radically different method of production
+ a radically new approach to the problem
+• • •
+COLLOCATIONS
+■ nouns
+▪ a radical change If that offer is serious, it will mark a radical change in policy.
+▪ a radical transformation (=a complete change in appearance, especially when this is an improvement) The city has undergone a radical transformation.
+▪ radical measures (=extreme actions) Instead of retreating, he suggested even more radical measures.
+▪ radical reform (=big changes to a system or organization in order to improve it) He said the institution was in need of radical reform.
+▪ a radical overhaul (=big changes in order to improve something) government plans for a radical overhaul of the health care system
+▪ a radical difference There is a radical difference between this and other dieting methods.
+▪ a radical departure (=something very different) The design of the building is a radical departure from tradition.
+▪ a radical rethink (=when you think about a plan or idea again in a very different way) The Conservative Party leader called for a radical rethink of economic policy.
+II. radical2 AC BrE  AmE  noun [countable]
+[Word Family: noun: ↑radical, ↑radicalism; verb: ↑radicalize; adverb: ↑radically; adjective: ↑radical]
+someone who has new and different ideas, especially someone who wants complete social and political change ⇨ conservative:
+ radicals on the extreme left wing of the party
+—radicalism noun [uncountable]
+• • •
+THESAURUS
+▪ right-wing adjective a right-wing person or group wants low taxes, a strong army and police force, and the individual to be free from government interference as much as possible: right-wing political parties | Some of his supporters are very right-wing. | right-wing policies on gun control
+▪ left-wing adjective a left-wing person or group wants the government to make society more equal by increasing taxes for rich people, and taking control of important industries and services: a left-wing newspaper | His views are very left-wing.
+▪ green adjective [usually before noun] supporting policies and principles which will protect the environment: green politicians | the Green Party | The government is under pressure to improve its green credentials (=to seem more like it wants to protect the environment).
+▪ radical adjective supporting political ideas that will involve great change: radical politicians | a radical economic reform programme
+▪ liberal adjective supporting political ideas that will allow people to have greater freedom: They want the government to have a more liberal policy on drugs.
+▪ moderate adjective having political opinions which are not extreme: People generally become more moderate as they get older. | The bill is supported by moderate Republicans.
+▪ extreme adjective having political opinions which are considered to be very unreasonable by many people: His views on immigration are very extreme. | an extreme right-wing organization
+
+radicalize
+rad·ic·al·ize (BrE also -ise) [radicalize radicalizes radicalized radicalizing] BrE [ˈrædɪkəlaɪz]  NAmE [ˈrædɪkəlaɪz]  verb ~ sb/sth
+to make people more willing to consider new and different policies, ideas, etc; to make people more ↑radical in their political opinions
+• Recent events have radicalized opinion on educational matters.
+
+keep (one's) cards close to (one's) chest
+To keep one's plans, intentions, or tactics secret from everyone else. Refers to holding one's playing cards close to one's chest in a card game, so as not to allow other players to see one's hand.
+We're all curious about what the boss has been discussing in those meetings with the lawyers, but she's keeping her cards close to her chest.
+Sorry for not being more straightforward about my plans, but I'm keeping my cards close to my chest for the time being.
+
+strong-arm
+ˈstrong-arm BrE  AmE  adjective [only before noun]
+strong-arm tactics/methods etc the use of force or violence, especially when this is not necessary
+—strong-arm verb [transitive]
+soup kitchen
+ˈsoup ˌkitchen BrE  AmE  noun [countable]
+a place where people with no money and no homes can get free food
+
+mismatch
+mis‧match /ˈmɪsmætʃ/ BrE  AmE  noun [countable]
+a combination of things or people that do not work well together or are not suitable for each other
+mismatch between
+ the mismatch between the demand for health care and the supply
+—mismatched /ˌmɪsˈmætʃt◂/ adjective:
+ a mismatched couple
+ 
+ wary
+war‧y /ˈweəri $ ˈweri/ BrE  AmE  adjective
+[Date: 1400-1500; Origin: ware 'careful' (11-20 centuries), from Old English wær]
+someone who is wary is careful because they think something might be dangerous or harmful
+be wary of (doing) something
+ I’m a bit wary of driving in this fog.
+wary of
+ We must teach children to be wary of strangers.
+ Keep a wary eye on the weather before you set sail.
+ She had a wary expression on her face.
+—wariness noun [singular, uncountable]:
+ a wariness in her voice
+—warily adverb:
+ She eyed him warily.
+ 
+ raisin
+rai‧sin /ˈreɪzən/ BrE  AmE  noun [countable]
+[Date: 1300-1400; Language: French; Origin: 'grape', from Latin racemus 'bunch of grapes']
+a dried ↑grape
+
+batter2 BrE  AmE  noun
+[Sense 1: Date: 1400-1500; Origin: Probably from ⇨ ↑batter1]
+[Sense 2: Date: 1800-1900; Origin: ⇨ ↑bat2]
+1. [uncountable and countable] a mixture of flour, eggs, milk etc, used in cooking and for making bread, cakes etc:
+ Fry the fish in batter.
+ pancake batter
+2. [countable] the person who is trying to hit the ball in ↑baseball
+
+come around
+come around phrasal verb (see also ↑come)
+1. (also come round British English) to come to someone’s home or the place where they work in order to visit them SYN come over:
+ I’ll come around later and see how you are.
+ Why don’t you come round for lunch?
+2. (also come round British English) to change your opinion so that you now agree with someone or are no longer angry with them
+come around to
+ It took him a while to come around to the idea.
+ Don’t worry – she’ll come round eventually.
+3. (also come round British English) if a regular event comes around, it happens as usual:
+ By the time the summer came around, Kelly was feeling much better.
+4. American English to become conscious again after you have been unconscious SYN come round British English:
+ When she came around her mother was sitting by her bed.
+come around from
+ You might feel a little sick when you come around from the anesthetic.
+ 
+ 5. DIFFICULT SITUATION [singular] a difficult situation that you cannot easily escape from
+back/box/force/push somebody into a corner (=put someone into a situation where they do not have any choices about what to do)
+ Don’t let your enemies back you into a corner.
+ The writers have painted themselves into a corner by killing off all the most popular characters in the first series.
+ He found himself in a tight corner (=a very difficult situation) looking for a way to get out.
+6. SPORTS [countable]
+a) a kick or hit that one team is allowed to take from one of the corners of their opponent’s end of the field
+b) any of the four corners of the area in which the competitors fight in ↑boxing or ↑wrestling, especially one of the two corners where the competitors go in between ↑rounds
+7. DISTANT PLACE [countable] a distant place in another part of the world
+corner of
+ She’s gone off to work in some remote corner of the world.
+ People came from the four corners of the world (=from lots of different places) to make America their new home.
+8. see something out of the corner of your eye to notice something accidentally, without turning your head towards it or looking for it:
+ Out of the corner of her eye she saw the dog running towards her.
+9. (just) around/round the corner
+a) near:
+ There’s a bus stop just around the corner.
+b) likely to happen soon:
+ Economic recovery is just around the corner.
+10. turn the corner to start to become successful or to feel better or happier, after a time when you have been unsuccessful, ill, or unhappy:
+ We knew Dad had turned the corner when he started complaining about the hospital food.
+11. fight your corner/fight sb’s corner British English to try very hard to defend yourself in a discussion or argument, or to do this for someone else:
+ My line manager supports me, and says she’s willing to fight my corner.
+12. cut corners to save time, money, or energy by doing things quickly and not as carefully as you should:
+ Don’t try to cut corners when you’re decorating.
+13. cut a corner to go across the corner of something, especially a road, instead of staying next to the edges
+14. have/get a corner on something to be the only company, organization etc that has a particular product, ability, advantage etc:
+ London does not have a corner on film festivals.
+ The company admitted reducing prices to get a corner on the market.
+ 
+ 
+ whip up
+whip somebody/something ↔ up phrasal verb (see also ↑whip)
+1. to try to make people feel strongly about something
+whip up interest/opposition/support etc
+ They’ll do anything to whip up a bit of interest in a book.
+ an attempt to whip up the masses
+2. to quickly make something to eat:
+ Mother was in the kitchen whipping up a batch of cakes.
+From English Wiktionary
+English[edit]
+Verb[edit]
+whip up (third-person singular simple present whips up, present participle whipping up, simple past and past participle whipped up)
+(transitive) To produce (something) quickly, especially food.
+(transitive) To beat (stir) (a liquid) quickly so to introduce air and form foam.
+(transitive) To arouse or excite
+His speech whipped the crowd up into a frenzy.
+
+
+fad
+fad /fæd/ BrE  AmE  noun [countable]
+[Date: 1800-1900; Origin: Perhaps from fiddle-faddle]
+something that people like or do for a short time, or that is fashionable for a short time:
+ Interest in organic food is not a fad, it’s here to stay.
+—faddish adjective
+—faddishness noun [uncountable]
+• • •
+THESAURUS
+▪ fashion noun [uncountable and countable] a style of clothes, hair, behaviour etc that is fashionable. Fashion is also used as an uncountable noun, when talking about all of these styles in general: the latest fashions from Donna Karan | changing fashions in popular music | I'm not interested in fashion.
+▪ vogue noun [singular,uncountable] if there is a vogue for something, or it is in vogue, it is fashionable. Vogue sounds more formal and typical of the language that more educated speakers use than fashion: the current vogue for realistic animated films | There was a vogue for cream furniture in the 1920s. | His pictures are very much in vogue these days.
+▪ trend noun [countable] a way of doing something or a way of thinking that is becoming fashionable or popular: The magazine focuses on the latest trends in contemporary design. | The trend is for people to wait longer to marry and have children.
+▪ craze/fad noun [countable] informal a fashion, activity, type of music etc that suddenly becomes very popular, but only remains popular for a short time – often used about things that you think are rather silly: a new fitness craze | the current fad for bare white walls and uncomfortable-looking metal furniture | I'm sure it's just a passing fad (=something that will soon stop being fashionable). | fad diets
+▪ something is all the rage formal used when saying that something is very popular and fashionable for a short time: The game was all the rage at her school.
+
+dusty
+dust‧y /ˈdʌsti/ BrE  AmE  adjective
+1. covered with dust:
+ Adrian cycled along the dusty road.
+ Everything’s really dusty.
+2. dusty blue/pink etc blue etc that is not bright but is slightly grey:
+ The curtains had faded to a dusty pink.
+• • •
+THESAURUS
+▪ dirty not clean: His clothes were untidy and he had dirty hands.
+▪ filthy very dirty: Each year filthy water causes millions of cases of illness.
+▪ muddy covered with mud: It had been raining hard and the path was muddy.
+▪ dusty covered with dust: the dusty shelves in the attic
+▪ greasy covered with oil or grease: Greasy food is bad for your health.
+▪ grubby (also mucky British English) informal fairly dirty and needing to be cleaned or washed: He was wearing a grubby white T-shirt. | mucky fingers
+▪ grimy covered with thick dirt or dirt that has been there a long time: I couldn’t see much out of the grimy windows of the train.
+▪ dingy /ˈdɪndʒi/ looking dark, dirty, and unpleasant. Used about rooms, houses, and buildings: We worked in a dingy little office behind the station.
+▪ polluted used about land, water, or air that has been made dirty: 85% of city dwellers breathe heavily polluted air.
+▪ contaminated made dirty by a dangerous substance or bacteria: The virus is mainly spread through contaminated food.
+▪ squalid /ˈskwɒləd, ˈskwɒlɪd $ ˈskwɑː-/ formal extremely dirty and unpleasant. Used about the place or conditions in which someone lives: People are living in squalid conditions, with little water and no sanitation.
+▪ unhygienic /ʌnhaɪˈdʒiːnɪk◂ $ -ˈdʒe-, -ˈdʒiː-/ formal used about dirty conditions that are likely to cause disease, especially conditions in kitchens, restaurants, and hospitals: The food was prepared under unhygienic conditions.
+▪ unsanitary (also insanitary British English) formal used about dirty conditions that are likely to cause disease, especially because there is not a good system for getting rid of waste: People’s health is being threatened by overcrowded and insanitary homes. | They work for long hours in unsanitary conditions.
+▪ soiled formal made dirty, especially by waste from your body: Soiled nappies should be changed as quickly as possible.
+
+take (somebody/something) back
+take somebody/something ↔ back phrasal verb (see also ↑take)
+1. take something ↔ back to admit that you were wrong to say something:
+ You’d better take back that remark!
+2. take something ↔ back to take something you have bought back to a shop because it is not suitable:
+ If the shirt doesn’t fit, take it back.
+3. to make you remember a time in the past:
+ Having the grandchildren around takes me back to the days when my own children were small.
+ 
+ aint
+I. faint1 /feɪnt/ BrE  AmE  adjective
+[Date: 1200-1300; Language: Old French; Origin: faindre, feindre 'to pretend'; ⇨ ↑feign]
+1. difficult to see, hear, smell etc:
+ She gave a faint smile.
+ a very faint noise
+ the faint light of dawn
+2. a faint hope/possibility/chance etc a very small or slight hope etc:
+ a faint hope that they might be alive
+3. not have the faintest idea to not know anything at all about something:
+ I don’t have the faintest idea what you’re talking about.
+4. feeling weak and as if you are about to become unconscious because you are very ill, tired, or hungry:
+ The heat made him feel quite faint.
+faint with
+ I was faint with hunger.
+—faintly adverb:
+ Everyone looked faintly surprised.
+ The sun shone faintly through the clouds.
+—faintness noun [uncountable]
+⇨ damn somebody/something with faint praise at ↑damn4(6)
+• • •
+THESAURUS
+■ a quiet sound or voice
+▪ quiet not making a loud sound: I heard a quiet voice behind me. | a car with a quiet engine
+▪ low quiet – especially because you do not want people to hear or be disturbed: Doug was on the phone, speaking in a low voice. | I turned the volume down low.
+▪ soft quiet and pleasant to listen to: Soft music was playing in the background. | His voice was soft and gentle.
+▪ silent not making any sound at all: a silent prayer | silent laughter | The machines were virtually silent.
+▪ hushed deliberately quiet because you do not want people to hear – used about people’s voices: They were talking about money in hushed tones. | The doctor’s voice was hushed and urgent.
+▪ faint quiet and difficult to hear because it comes from a long way away: The men went ahead and their voices got fainter and fainter. | the faint sound of bells
+▪ muffled difficult to hear, for example because the sound comes from another room or someone’s mouth is covered by something: Muffled voices were coming from downstairs. | the muffled sound of someone crying
+▪ dull [only before noun] a dull sound is not loud – used especially about the sound of something hitting another thing: He hit the ground with a dull thud.
+▪ inaudible too quiet to hear: The sound is inaudible to the human ear. | Her answer came in an almost inaudible whisper.
+II. faint2 BrE  AmE  verb [intransitive]
+1. to suddenly become unconscious for a short time SYN pass out:
+ Several fans fainted in the blazing heat.
+2. I nearly/almost fainted spoken used to say that you were very surprised by something:
+ I nearly fainted when they told me the price.
+III. faint3 BrE  AmE  noun [singular]
+
+COLLOCATIONS FROM OTHER ENTRIES
+a dizzy/fainting spell (=one when you feel unable to stand steadily and your head feels unclear)
+▪ She must have had a dizzy spell and fallen.
+a faint/soft click (=not loud)
+▪ There was only a faint click from the gun's trigger mechanism.
+a light/slight/faint breeze
+▪ The curtains lifted in the light breeze.
+a little/faint/slight smile
+▪ She gave him an apologetic little smile.
+a remote/faint possibility (=something that is not very likely)
+▪ There's no point worrying about such a remote possibility.
+a slight/faint accent
+▪ He has a very slight accent.
+a slight/faint resemblance (=not strong)
+▪ Don't you think she has a slight resemblance to that blonde singer in Abba?
+damn (sb/sth) with faint praise (=show that you think someone or something is not good by only praising them a little)
+faint praise (=comments that seem to praise someone, but in a way that does not really give them much praise)
+▪ He wins faint praise as ‘the only candidate with a grain of sense’.
+faint
+▪ the faint perfume of a spring woodland
+faint (=not strong)
+▪ I noticed a faint smell of perfume.
+faint
+▪ The star is faint but visible.
+faint/soft (=not loud)
+▪ The sound was so faint I wasn’t sure what it was at first.
+mild/faint amusement
+▪ Daniel looked at her with mild amusement.
+not have the faintest/foggiest notion (=not know or understand something at all)
+▪ He had not the foggiest notion how far he might have to walk.
+weak/faint
+▪ The boy's pulse was very weak.
+weak/faint
+▪ The signals were too weak for the receiver to pick up.
+COLLOCATIONS FROM CORPUS
+■ NOUN
+echo
+▪ The exalted status of peers such as the Duke of Norfolk is a faint echo of this power in the land.
+▪ There was the faint echo of voices rolling up to the highest balcony seats.
+▪ From somewhere far-off in the building, he could hear a faint echo of the nurses' choir.
+glimmer
+▪ He looked across the sea: a faint glimmer of pale light was rising in the midnight-blue sky.
+▪ On her face appeared the faint glimmer of a smile.
+▪ There was a faint glimmer of light from her window; it was from the night-light which she kept burning.
+▪ But through the murk there was a faint glimmer of light.
+glow
+▪ A few emergency circuits gave off a faint glow.
+
+flinch
+flinch /flɪntʃ/ BrE  AmE  (also flinch away) verb [intransitive]
+[Date: 1500-1600; Language: Old French; Origin: flenchir 'to turn aside']
+1. to move your face or body away from someone or something because you are in pain, frightened, or upset
+flinch at
+ She flinched at the touch of his hand.
+flinch from
+ The boy flinched away from him.
+2. to feel embarrassed or upset
+flinch at
+ Jo flinched at her sister’s insensitivity.
+3. not flinch from (doing) something to be willing to do something even though it is difficult or unpleasant:
+ He never flinched from doing his duty.
+⇨ unflinching
+From CALD3 - Paracel & Spratly Islands - Van 
+
+homage
+hom‧age /ˈhɒmɪdʒ $ ˈhɑː-/ BrE  AmE  noun [singular]
+[Date: 1200-1300; Language: Old French; Origin: hommage, from homme 'man, man who owes duty to a ruler']
+formal something you do to show respect for someone or something you think is important:
+ The film pays homage to Martin Scorsese’s ‘Mean Streets’.
+>>>>>>> 568181338d0004ecb867fe30ead9d06272052d29
