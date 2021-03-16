@@ -1,0 +1,22 @@
+[
+    {
+        "distinct_id":"2b0a6f51a3cd6775",
+        "time":1434556935000,
+        "type":"track",
+        "event":"ViewProduct",
+        "properties":{
+            "product_name":"苹果",
+            "product_classify":"水果",
+            "product_price":14
+        }
+    },
+    {
+        "distinct_id":"12345",
+        "type":"profile_set",
+        "time":1435290195610,
+        "properties":{
+            "Age":33,
+            "IncomeLevel":"3000~5000"
+        }
+    }
+]
