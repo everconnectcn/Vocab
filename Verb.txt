@@ -105,6 +105,12 @@ sift [sift sifts sifted sifting] BrE [sɪft]  NAmE [sɪft]  verb
 • He sifted the relevant data from the rest.
 • She looked quickly through the papers, sifting out from the pile anything that looked interesting.
 
+attain
+at·tain AW [attain attains attained attaining] BrE [əˈteɪn]  NAmE [əˈteɪn]  verb (formal)
+1. ~ sth to succeed in getting sth, usually after a lot of effort
+• Most of our students attained five ‘A’ grades in their exams.
+2. ~ sth to reach a particular age, level or condition
+• The cheetah can attain speeds of up to 97 kph.
 
 discriminate
 dis·crim·in·ate AW [discriminate discriminates discriminated discriminating] BrE [dɪˈskrɪmɪneɪt]  NAmE [dɪˈskrɪmɪneɪt]  verb
@@ -197,3 +203,10 @@ verb
 3. ~ sth | ~ how, what, etc… to calculate sth approximately
 • We were able to gauge the strength of the wind from the movement of the trees.
 • It is impossible to gauge the extent of the damage.
+
+chide
+chide [chide chides chided chid chiding chidden] BrE [tʃaɪd]  NAmE [tʃaɪd]  verb (formal)
+to criticize or blame sb because they have done sth wrong
+Syn: ↑rebuke
+• ~ sb/yourself (for sth/for doing sth) She chided herself for being so impatient with the children.
+• ~ (sb) + speech ‘Isn't that a bit selfish?’ he chided.
