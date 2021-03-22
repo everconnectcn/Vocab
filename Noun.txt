@@ -136,6 +136,7 @@ a precaution/safeguard/defence against sth
 as a precaution/safeguard/defence
 an adequate precaution/safeguard/defence
 
+<<<<<<< HEAD
 1. uncountable a mixture of sand, water, ↑lime and ↑cement used in building for holding bricks and stones together
 2. countable a heavy gun that fires bombs and ↑shells high into the air; the bombs that are fired by this gun
 • to come under mortar fire/attack
@@ -167,3 +168,281 @@ atheism
 
  > atheist / 5eIWIIst; `eWIIst/ n person who believes that there is no God 无神论者. Cf 参看 heathen, pagan.
  atheistic / 9eIWI5IstIk; 9eWI`IstIk/ adj.
+=======
+severity
+se·ver·ity [severity severities] BrE [sɪˈverəti] ; NAmE [sɪˈverəti]  noun uncountable
+• A prison sentence should match the severity of the crime.
+• The chances of a full recovery will depend on the severity of her injuries.
+• the severity of the problem
+• He frowned with mock severity.
+• The elaborate facade contrasts strongly with the severity of the interior.
+Main entry: ↑severederived
+
+
+oun
+1. uncountable the possibility of sth happening or being developed or used
+• ~ (for) the potential for change
+• ~ (for doing sth) The European marketplace offers excellent potential for increasing sales.
+2. uncountable qualities that exist and can be developed
+Syn: ↑promise
+• All children should be encouraged to realize their full potential.
+• She has great potential as an artist.
+• He has the potential to become a world-class musician.
+• The house has a lot of potential.
+3. uncountable, countable (physics) the difference in ↑voltage between two points in an electric field or ↑circuit
+ 
+Word Origin:
+late Middle English: from late Latin potentialis, from potentia ‘power’, from potent- ‘being able’, from the verb posse. The noun dates from the early 19th cent.
+ 
+Thesaurus:
+potential noun U
+• She has great potential as an artist.
+possibilities • • prospects • • promise •
+potential/possibilities/prospects for sth
+sb/sth with potential/possibilities/prospects/promise
+commercial/development/economic potential/possibilities/prospects
+have potential/possibilities/prospects/promise
+Potential or possibilities? People or things can have potential, especially people; things, but not usually people, can have possibilities.
+
+ a mature skill 
+ 
+  school age pupils 
+ 
+ absence
+ab·sence [absence absences] BrE [ˈæbsəns]  NAmE [ˈæbsəns]  noun
+1. uncountable, countable the fact of sb being away from a place where they are usually expected to be; the occasion or period of time when sb is away
+• The decision was made in my absence (= while I was not there).
+• We did not receive any news during his long absence.
+• ~ from … absence from work
+• repeated absences from school
+see also ↑leave
+2. uncountable the fact of sb/sth not existing or not being available; a lack of sth
+• The case was dismissed in the absence of any definite proof.
+• the absence of any women on the board of directors
+Opp: ↑presence
+more at conspicuous by your absence at ↑conspicuous
+Idiom: ↑absence makes the heart grow fonder
+ 
+Word Origin:
+late Middle English: from Old French, from Latin absentia, from absens, absent- ‘being absent’, present participle of abesse, from ab- ‘from, away’ + esse ‘to be’.
+ 
+Example Bank:
+• He asked for leave of absence from his job.
+• In the absence of stone, most houses in the area are built of wood.
+• My father did all the cooking in my mother's absence.
+• Nobody had noticed her absence.
+• When it came to clearing up after the party, Anne was conspicuous by her absence.
+• You will not be paid for the full period of absence.
+• Your son has had too many absences from school.
+• a conspicuous absence of evidence
+• I was surprised by the absence of any women on the board of directors.
+
+childminder
+child·mind·er [childminder childminders] BrE [ˈtʃaɪldmaɪndə(r)]  NAmE [ˈtʃaɪldmaɪndər]  noun (BrE)
+a person who is paid to care for children while their parents are at work. A childminder usually does this in his or her own home.
+see also ↑babysitter
+
+cycle noun C
+• This cycle of events continually repeats itself.
+pattern • • rhythm •
+a/an regular/irregular cycle/pattern/rhythm
+a natural cycle/rhythm
+break a cycle/pattern/rhythm
+the cycle/rhythm of the seasons
+Cycle, pattern or rhythm? Pattern is used especially to talk about people's work and behaviour; cycle is used especially to talk about events in the natural world; rhythm is used especially to talk about how people's bodies adapt to changing conditions.
+
+
+transpiration
+tran‧spi‧ra‧tion /ˌtrænspəˈreɪʃən, ˌtrænspɪˈreɪʃən/ BrE  AmE  noun [uncountable]
+technical the process of passing water through the surface of a plant’s leaves ⇨ respiration
+transpire
+tran‧spire /trænˈspaɪə $ -ˈspaɪr/ BrE  AmE  verb
+[Date: 1400-1500; Language: Old French; Origin: transpirer, from Latin spirare 'to breathe']
+1. it transpires that formal if it transpires that something is true, you discover that it is true:
+ It now transpires that he kept all the money for himself.
+2. [transitive] formal to happen:
+ Exactly what transpired remains unknown.
+3. [intransitive and transitive] technical when a plant transpires, water passes through the surface of its leaves
+
+
+soil erosion
+
+logging
+log·ging [logging] BrE [ˈlɒɡɪŋ]  NAmE [ˈlɔːɡɪŋ]  NAmE [ˈlɑːɡɪŋ]  noun uncountable
+the work of cutting down trees for their wood
+
+dumping
+dump·ing [dumping] BrE [ˈdʌmpɪŋ]  NAmE [ˈdʌmpɪŋ]  noun uncountable
+the act or practice of dumping sth, especially dangerous substances
+• a ban on the dumping of radioactive waste at sea
+
+poaching = illegally hunting and killing animals
+habitat loss 
+dwindling numbers 
+
+hydrosphere
+
+
+atmosphere noun C, U
+• The hotel offers a friendly atmosphere.
+mood • • feeling • • feel • • aura • • spirit • • climate • • tone • |BrE flavour • |AmE flavor •
+a general atmosphere/mood/feeling/feel/spirit/climate/tone/flavour
+an international atmosphere/feel/climate/flavour
+create a/an atmosphere/mood/feeling/feel/aura/spirit/climate/mood
+capture the atmosphere/mood/feeling/spirit/tone/spirit/flavour of sth
+Atmosphere or mood? An atmosphere belongs especially to a place; a mood belongs to a group of people:  ✗ The hotel offers a friendly mood.:
+• a leader who can gauge the popular mood
+ ✗ a leader who can gauge the popular atmosphere
+ 
+ 
+ aura
+aura [aura auras aurae] BrE [ˈɔːrə]  NAmE [ˈɔːrə]  noun ~ (of sth)
+a feeling or particular quality that is very noticeable and seems to surround a person or place
+• She always has an aura of confidence.
+• The mountains have a magical aura.
+ 
+Word Origin:
+late Middle English (originally denoting a gentle breeze): via Latin from Greek, breeze, breath. Current senses date from the 18th cent.
+ 
+Example Bank:
+• I felt an evil aura radiating from him.
+• The picture seemed to take on the aura of an ancient work of art.
+• The sunlight created an aura of beauty around her.
+• There was always a faint aura of mystery about her.
+
+
+downpour
+down·pour [downpour downpours] BrE [ˈdaʊnpɔː(r)]  NAmE [ˈdaʊnpɔːr]  noun usually singular
+a heavy fall of rain that often starts suddenly
+ 
+Example Bank:
+• We got caught in a torrential downpour.
+• For the past six hours the downpour had been continuous and torrential.
+• The suddenness of the downpour had caught the three of them by surprise.
+From Longman DOCE 5th Ed. (En-En)
+downpour
+down‧pour /ˈdaʊnpɔː $ -pɔːr/ BrE  AmE  noun [countable usually singular]
+a lot of rain that falls in a short time
+• • •
+THESAURUS
+▪ rain noun [uncountable] water that falls in small drops from clouds in the sky: The rain has stopped at last. | There had been heavy rain during the night.
+▪ drizzle noun [uncountable] light rain with very small drops of water: A light drizzle was falling as I left the house.
+▪ shower noun [countable] a short period of rain that can be heavy or light: More heavy showers are forecast for tonight. | a light shower of rain
+▪ downpour noun [countable usually singular] a short period of very heavy rain that starts suddenly: A sudden downpour sent us running for shelter. | a torrential downpour
+▪ hail noun [uncountable] frozen rain that falls in the form of ↑hailstones (=small balls of ice): The hail and high winds have destroyed many of the county’s crops.
+▪ sleet noun [uncountable] a mixture of snow and rain: The rain had turned to sleet | Sleet and snow fell.
+▪ the rains noun [plural] heavy rain that falls during a particular period in the year in tropical countries: The farmers are waiting for the rains to come.
+▪ monsoon noun [countable ] the heavy rain that falls between April and October in India and other southern Asian countries: The monsoon is late this year. | the monsoon season
+
+
+East Asian rainy season (梅雨)
+
+
+
+noun
+1. a stone or metal model of a person's head, shoulders and chest
+• a marble bust of Napoleon
+2. (used especially when talking about clothes or measurements) a woman's breasts or the measurement around the breasts and back
+• What is your bust measurement, Madam?
+• The dress was too big in the bust.
+• exercises to tone the bust
+3. (informal) an unexpected visit made by the police in order to arrest people for doing sth illegal
+• a drug bust
+4. (NAmE) a thing that is not good
+• As a show it was a bust.
+
+
+Collocations:
+Fine arts
+Creating art
+make a work of art/a drawing/a sketch/a sculpture/a statue/engravings/etchings/prints
+do an oil painting/a self-portrait/a line drawing/a rough sketch
+create a work of art/an artwork/paintings and sculptures
+produce paintings/portraits/oil sketches/his most celebrated work/a series of prints
+paint a picture/landscape/portrait/mural/in oils/in watercolours/(especially US) in watercolors/on canvas
+draw a picture/a portrait/a cartoon/a sketch/a line/a figure/the human form/in charcoal/in ink
+sketch a preliminary drawing/a figure/a shape
+carve a figure/an image/a sculpture/an altarpiece/reliefs/a block of wood
+sculpt a portrait bust/a statue/an abstract figure
+etch a line/a pattern/a design/a name into the glass
+mix colours/(especially US) colors/pigments/paints
+add/apply thin/thick layers of paint/colour/(especially US) color/pigment
+use oil pastels/charcoal/acrylic paint/a can of spray paint
+work in bronze/ceramics/stone/oils/pastels/watercolour/a wide variety of media
+Describing art
+paint/depict a female figure/a biblical scene/a pastoral landscape/a domestic interior
+depict/illustrate a traditional/mythological/historical/religious theme
+create an abstract composition/a richly textured surface/a distorted perspective
+paint dark/rich/skin/flesh tones
+use broad brush strokes/loose brushwork/vibrant colours/a limited palette/simple geometric forms
+develop/adopt/paint in a stylized manner/an abstract style
+Showing and selling art
+commission an altarpiece/a bronze bust of sb/a portrait/a religious work/an artist to paint sth
+frame a painting/portrait
+hang art/a picture/a painting
+display/exhibit modern art/sb's work/a collection/original artwork/ drawings/sculptures/a piece
+be displayed/hung in a gallery/museum
+install/place a sculpture in/at/on sth
+erect/unveil a bronze/marble/life-size statue
+hold/host/mount/open/curate/see (especially BrE) an exhibition/(NAmE usually) exhibit
+be/go on (BrE) exhibition/(NAmE) exhibit
+feature/promote/showcase a conceptual artist/contemporary works
+collect African art/modern British paintings/Japanese prints
+restore/preserve a fresco/great works of art
+ 
+Synonyms:
+picture
+painting • drawing • portrait • print • sketch
+These are all words for a scene, person or thing that has been represented on paper by drawing, painting, etc.
+picture • a scene, person or thing that has been represented on paper using a pencil, a pen or paint: ▪ The children were drawing pictures of their pets.
+painting • a picture that has been made using paint: ▪ a collection of paintings by American artists
+drawing • a picture that has been made using a pencil or pen, not paint: ▪ a pencil/charcoal drawing
+portrait • a painting, drawing or photograph of a person, especially of the head and shoulders: ▪ Vermeer's ‘Portrait of the artist in his studio’ ◇ ▪ a self-portrait ▪ (= a painting that you do of yourself)
+print • a picture that has been copied from a painting using photography: ▪ a Renoir print
+sketch • a simple picture that is drawn quickly and does not have many details: ▪ I usually do a few very rough sketches before I start on a painting.
+to draw a picture/portrait/sketch
+to paint a picture/portrait
+to make a painting/drawing/portrait/print/sketch
+to do a painting/drawing/portrait/sketch
+
+
+
+
+
+furnishings
+fur·nish·ings [furnishings] BrE [ˈfɜːnɪʃɪŋz]  NAmE [ˈfɜːrnɪʃɪŋz]  noun plural
+the furniture, carpets, curtains, etc. in a room or house
+• soft furnishings
+• The wallpaper should match the furnishings.
+
+
+meme
+meme 7 BrE [miːm]  NAmE [miːm]  noun (biology)
+a type of behaviour that is passed from one member of a group to another, not in the ↑genes but by another means such as people copying it
+ 
+Word Origin:
+[meme] 1970s: from Greek mimēma ‘that which is imitated’, on the pattern of gene.
+From Longman DOCE 5th Ed. (En-En)
+meme
+meme /miːm/ BrE  AmE  noun [countable] technical
+a type of behaviour or an idea that spreads to other members of a group:
+ Memes such as tunes and catch-phrases travel through a culture almost like a virus.
+ 
+ 
+ Synonyms:
+land
+lot • ground • space • plot
+These words all mean an area of land that is used for a particular purpose.
+land • an area of ground, especially one that is used for a particular purpose: ▪ agricultural land
+lot • (NAmE) a piece of land that is used or intended for a particular purpose: ▪ building lots ◇ ▪ a parking lot
+ground • an area of land that is used for a particular purpose: ▪ The kids were playing on waste ground near the school. ◇ ▪ the site of an ancient burial ground
+land, lot or ground?
+Land is used for large areas of open land in the country, especially when it is used for farming. A lot is often a smaller piece of land in a town or city, especially one intended for building or parking on. Ground is any area of open land; a ground is an area of land designed or used for a particular purpose or activity.
+space • a large area of land that has no buildings on it: ▪ The city has plenty of open space. ◇ ▪ the ▪ wide open spaces ▪ of the Canadian prairies
+plot • a small piece of land used or intended for a particular purpose: ▪ She bought a small ▪ plot of land ▪ to build a house. ◇ ▪ a vegetable plot
+lot or plot?
+Either a lot or a plot can be used for building on. Only a plot can also be used for growing vegetables or burying people.
+an open space
+open/empty/vacant/waste/derelict land/ground
+a/an empty/vacant lot/plot
+>>>>>>> 1eaa08e893358596a85be05c55830ec7c7bdab29
