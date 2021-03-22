@@ -42,3 +42,5 @@ Example Bank:
 • global emissions of carbon dioxide
 • measures to reduce harmful emissions from traffic
 • the Kyoto protocol on cutting greenhouse gas emissions
+
+pollutant particles 

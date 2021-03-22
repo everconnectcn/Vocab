@@ -197,3 +197,72 @@ verb
 3. ~ sth | ~ how, what, etc… to calculate sth approximately
 • We were able to gauge the strength of the wind from the movement of the trees.
 • It is impossible to gauge the extent of the damage.
+
+rectify
+rect·ify [rectify rectifies rectified rectifying] BrE [ˈrektɪfaɪ]  NAmE [ˈrektɪfaɪ]  verb (rec·ti·fies, rec·ti·fy·ing, rec·ti·fied, rec·ti·fied)~ sth (formal)
+to put right sth that is wrong
+Syn: ↑correct
+• to rectify a fault
+• We must take steps to rectify the situation.
+Derived Words: ↑rectifiable ▪ ↑rectification
+
+
+verb
+1. transitive, intransitive ~ (sb/sth) (with sth) to reply to sb by trying to prove that what they said is not true
+• ~ sb/sth Such arguments are not easily countered.
+• ~ that… I tried to argue but he countered that the plans were not yet finished.
+• ~ (sb) + speech ‘But I was standing right here!’ he countered.
+• ~ with sth Butler has countered with a lawsuit against the firm.
+2. transitive ~ sth to do sth to reduce or prevent the bad effects of sth
+Syn: ↑counteract
+• Businesses would like to see new laws to counter late payments of debts.
+Verb forms: 
+ 
+Word Origin:
+n. senses 1 to 4 Middle English Old French conteor medieval Latin computatorium Latin computare ‘calculate’ com- ‘together’ putare ‘to settle (an account)’
+n. sense 5 and v. adj. late Middle English Old French contre Latin contra ‘against’ ↑counter-
+ 
+Example Bank:
+• Businesses would like to see more laws to counter late payments of debts.
+• It's often necessary to counter negative images with positive images.
+• The effects of job losses in manufacturing were countered by the creation of more jobs in the service industries.
+• We need more imaginative policies to counter global warming.
+ 
+adverb ~ to sth
+in the opposite direction to sth; in opposition to sth
+• The government's plans run counter to agreed European policy on this issue.
+
+exacerbate
+ex‧a‧cer‧bate /ɪɡˈzæsəbeɪt $ -sər-/ BrE  AmE  verb [transitive]
+[Date: 1600-1700; Language: Latin; Origin: past participle of exacerbare, from acerbus 'bitter']
+to make a bad situation worse:
+ The recession has exacerbated this problem.
+ I don’t want to exacerbate the situation.
+—exacerbation /ɪɡˌzæsəˈbeɪʃən $ -sər-/ noun [uncountable]
+
+exacerbated (= to exacerbate = to make an existing problem worse, accidentally or
+deliberately)
+
+conserve
+I. con‧serve1 /kənˈsɜːv $ -ɜːrv/ BrE  AmE  verb [transitive]
+[Date: 1300-1400; Language: Old French; Origin: conserver, from Latin conservare, from com- ( ⇨ COM-) + servare 'to keep, guard']
+1. to protect something and prevent it from changing or being damaged SYN preserve ⇨ conservation:
+ We must conserve our woodlands for future generations.
+ efforts to conserve fish stocks
+2. to use as little water, energy etc as possible so that it is not wasted ⇨ conservation:
+ the need to conserve energy
+II. con‧serve2 /ˈkɒnsɜːv $ ˈkɑːnsɜːrv/ BrE  AmE  noun [uncountable and countable] formal
+fruit that is preserved by being cooked with sugar SYN jam:
+ strawberry conserve
+ 
+ COLLOCATIONS FROM OTHER ENTRIES
+conserve energy (=not waste any energy)
+▪ An efficient boiler will conserve energy and save you money.
+conserve energy (=use as little energy as possible)
+▪ The lions spend much of the day sleeping, conserving energy for the hunt.
+conserve the environmentformal (= protect it and prevent it from changing or being damaged)
+▪ People need to live in harmony with nature and conserve the environment.
+conserve/protect a habitat (=prevent it from changing or being damaged)
+▪ These measures will protect the habitat of endangered species such as wolves.
+protect/conserve the countryside (=stop people building on it or spoiling its beauty)
+▪ How can we protect the countryside for future generations?
