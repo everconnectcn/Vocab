@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 zap
 zap [zap zaps zapped zapping] BrE [zæp]  NAmE [zæp]  verb (-pp-)(informal)
 1. transitive to destroy, kill or hit sb/sth suddenly and with force
@@ -10,3 +11,19 @@ zap [zap zaps zapped zapping] BrE [zæp]  NAmE [zæp]  verb (-pp-)(informal)
 4. intransitive, transitive ~ (sb/sth) + adv./prep. to move, or make sb/sth move, very fast in the direction mentioned
 Syn: ↑zip
 • The racing cars zapped past us.
+=======
+wipe out
+ˌwipe ˈout derived
+(informal) to fall over, especially when you are doing a sport such as ↑skiing or ↑surfing
+• She wiped out at the third gate in the slalom race.
+Main entry: ↑wipederived
+From Longman DOCE 5th Ed. (En-En)
+wipe out
+wipe out phrasal verb (see also ↑wipe)
+1. wipe something ↔ out to destroy, remove, or get rid of something completely:
+ Whole villages were wiped out by the floods.
+ Nothing could wipe out his bitter memories of the past.
+2. wipe somebody ↔ out informal to make you feel extremely tired:
+ The heat had wiped us out. ⇨ ↑wiped out
+3. American English to fall or hit another object when driving a car, riding a bicycle etc
+>>>>>>> 14594e96df1b3f4a089cf8056975dd6854be5a72

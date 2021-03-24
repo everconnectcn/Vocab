@@ -136,6 +136,39 @@ a precaution/safeguard/defence against sth
 as a precaution/safeguard/defence
 an adequate precaution/safeguard/defence
 
+<<<<<<< HEAD
+1. uncountable a mixture of sand, water, ↑lime and ↑cement used in building for holding bricks and stones together
+2. countable a heavy gun that fires bombs and ↑shells high into the air; the bombs that are fired by this gun
+• to come under mortar fire/attack
+3. countable a small hard bowl in which you can crush substances such as seeds and grains into powder with a special object (called a ↑pestle)
+see bricks and mortar at ↑brick n.
+
+
+shiver2 BrE  AmE  noun [countable]
+1. a slight shaking movement of your body caused by cold or fear SYN tremble:
+ A shiver ran through (=went through) me.
+shiver of
+ She felt a shiver of apprehension.
+2. give you the shivers informal to make you feel afraid
+⇨ send shivers (up and) down your spine at ↑send(10)
+
+
+atheism
+athe·ism BrE [ˈeɪθiɪzəm]  NAmE [ˈeɪθiɪzəm]  noun uncountable
+the belief that God does not exist
+Opp: ↑theism
+Derived Word: ↑atheistic
+ 
+Word Origin:
+[atheism atheistic] late 16th cent.: from French athéisme, from Greek atheos, from a- ‘without’ + theos ‘god’.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+atheism
+
+ / 5eIWIIzEm; `eWI9IzEm/ n [U] belief that there is no God 无神论.
+
+ > atheist / 5eIWIIst; `eWIIst/ n person who believes that there is no God 无神论者. Cf 参看 heathen, pagan.
+ atheistic / 9eIWI5IstIk; 9eWI`IstIk/ adj.
+=======
 severity
 se·ver·ity [severity severities] BrE [sɪˈverəti] ; NAmE [sɪˈverəti]  noun uncountable
 • A prison sentence should match the severity of the crime.
@@ -412,6 +445,7 @@ Either a lot or a plot can be used for building on. Only a plot can also be used
 an open space
 open/empty/vacant/waste/derelict land/ground
 a/an empty/vacant lot/plot
+<<<<<<< HEAD
 
 social memes = social habits or patterns which are transmitted between people
  
@@ -444,3 +478,6 @@ shot at (doing) something
  I decided to have a shot at decorating the house myself.
  I didn’t think I had much chance of winning the race, but I thought I’d give it a shot (=try to do it).
  The network finally gave Keaton a shot at presenting his own show
+=======
+>>>>>>> 1eaa08e893358596a85be05c55830ec7c7bdab29
+>>>>>>> 14594e96df1b3f4a089cf8056975dd6854be5a72

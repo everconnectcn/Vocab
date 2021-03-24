@@ -65,6 +65,50 @@ Example Bank:
 • a prolific author/writer/composer
 • a prolific scorer/striker
 
+<<<<<<< HEAD
+predatory economic practices, 
+
+
+prudent
+pru·dent BrE [ˈpruːdnt]  NAmE [ˈpruːdnt]  adjective (formal)
+sensible and careful when you make judgements and decisions; avoiding unnecessary risks
+• a prudent businessman
+• a prudent decision/investment
+• It might be more prudent to get a second opinion before going ahead.
+Opp: ↑imprudent
+Derived Words: ↑prudence ▪ ↑prudently
+ 
+Word Origin:
+[prudence prudent prudently] late Middle English: from Old French, or from Latin prudent-, contraction of provident- ‘foreseeing, attending to’, from the verb providere ‘foresee, attend to’, from pro- ‘before’ + videre ‘to see’.
+ 
+Synonyms:
+care
+caution • prudence
+These are all words for attention or thought that you give to sth in order to avoid mistakes or accidents.
+care • attention or thought that you give to sth that you are doing so that you will do it well and avoid mistakes or damage: ▪ She chose her words with care.
+caution • care that you take in order to avoid danger or mistakes; not taking any risks: ▪ The utmost caution must be exercised when handling explosives.
+prudence • (rather formal) being sensible and careful when you make judgements and decisions; avoiding unnecessary risks: ▪ As a matter of prudence, keep a record of all your financial transactions.
+Prudence is used particularly in financial contexts.
+to do sth with care/caution/prudence
+great/extreme care/caution/prudence
+to use/exercise care/caution/prudence
+to proceed with care/caution
+ 
+Example Bank:
+• We thought it prudent to telephone first.
+• He had borrowed a little more than was prudent.
+• I think you made a prudent choice.
+• Most prudent employers see the benefit of having an organized workforce.
+• She has always been a prudent businesswoman.
+• The minister had a reputation for being prudent and discreet.
+• What do you think is the most prudent course of action?
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+prudent
+
+ / 5pru:dnt; `prudnt/ adj acting with or showing care and foresight; showing good judgement 审慎的; 有先见之明的; 判断力强的: prudent housekeeping 精明的治家 * a prudent saver of money 很会精打细算的储蓄者 * It would be prudent to save some of the money. 存点钱是有远见的. * That was a prudent decision. 那是一个审慎的决定.
+
+ > prudence / -dns; -dns/ n [U] (fml 文) (quality of) being prudent; forethought or wisdom 审慎; 远见; 智慧: One can rely on the prudence of his decisions. 可以相信他所作的决定, 都是非常英明的.
+=======
 adequate
 ad·equate AW BrE [ˈædɪkwət]  NAmE [ˈædɪkwət]  adjective
 enough in quantity, or good enough in quality, for a particular purpose or need
@@ -194,6 +238,7 @@ ground‧ed /ˈɡraʊndəd, ˈɡraʊndɪd/ BrE  AmE  adjective
 2. someone who is grounded understands their own character and knows what is really important:
  Simmons says that her family keeps her grounded.
 3. someone, especially a child, who is grounded is kept indoors as a punishment
+<<<<<<< HEAD
 
 
 inadequate
@@ -387,3 +432,6 @@ impertinent • (rather formal) not showing respect for sb who is older or more 
 discourteous • (formal) having bad manners and not showing respect: ▪ He didn't wish to appear discourteous.
 rude/cheeky/disrespectful/impolite/discourteous to sb
 rude/impolite/impertinent to do sth
+=======
+>>>>>>> 1eaa08e893358596a85be05c55830ec7c7bdab29
+>>>>>>> 14594e96df1b3f4a089cf8056975dd6854be5a72

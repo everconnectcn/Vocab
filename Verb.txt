@@ -105,6 +105,12 @@ sift [sift sifts sifted sifting] BrE [sɪft]  NAmE [sɪft]  verb
 • He sifted the relevant data from the rest.
 • She looked quickly through the papers, sifting out from the pile anything that looked interesting.
 
+attain
+at·tain AW [attain attains attained attaining] BrE [əˈteɪn]  NAmE [əˈteɪn]  verb (formal)
+1. ~ sth to succeed in getting sth, usually after a lot of effort
+• Most of our students attained five ‘A’ grades in their exams.
+2. ~ sth to reach a particular age, level or condition
+• The cheetah can attain speeds of up to 97 kph.
 
 discriminate
 dis·crim·in·ate AW [discriminate discriminates discriminated discriminating] BrE [dɪˈskrɪmɪneɪt]  NAmE [dɪˈskrɪmɪneɪt]  verb
@@ -198,6 +204,14 @@ verb
 • We were able to gauge the strength of the wind from the movement of the trees.
 • It is impossible to gauge the extent of the damage.
 
+<<<<<<< HEAD
+chide
+chide [chide chides chided chid chiding chidden] BrE [tʃaɪd]  NAmE [tʃaɪd]  verb (formal)
+to criticize or blame sb because they have done sth wrong
+Syn: ↑rebuke
+• ~ sb/yourself (for sth/for doing sth) She chided herself for being so impatient with the children.
+• ~ (sb) + speech ‘Isn't that a bit selfish?’ he chided.
+=======
 rectify
 rect·ify [rectify rectifies rectified rectifying] BrE [ˈrektɪfaɪ]  NAmE [ˈrektɪfaɪ]  verb (rec·ti·fies, rec·ti·fy·ing, rec·ti·fied, rec·ti·fied)~ sth (formal)
 to put right sth that is wrong
@@ -266,6 +280,7 @@ conserve/protect a habitat (=prevent it from changing or being damaged)
 ▪ These measures will protect the habitat of endangered species such as wolves.
 protect/conserve the countryside (=stop people building on it or spoiling its beauty)
 ▪ How can we protect the countryside for future generations?
+<<<<<<< HEAD
 
 preserve
 I. pre‧serve1 W3 /prɪˈzɜːv $ -ɜːrv/ BrE  AmE  verb [transitive]
@@ -371,3 +386,6 @@ counter an argument/an allegation/a criticism etc
  He was determined to counter the bribery allegations.
 2. [transitive] to do something in order to prevent something bad from happening or to reduce its bad effects:
  Exercise helps to counter the effects of stress.
+=======
+>>>>>>> 1eaa08e893358596a85be05c55830ec7c7bdab29
+>>>>>>> 14594e96df1b3f4a089cf8056975dd6854be5a72

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 because of
 Explaining reasons
 ▪ The number of people with diabetes is growing, partly because of ▪ an increase in levels of obesity.
@@ -27,3 +28,26 @@ added to this …
 used to introduce another fact that helps to emphasize a point you have already made
 • Add to this the excellent service and you can see why it's the most popular hotel on the island.
 Main entry: ↑addidiom
+=======
+Conversely
+substantial
+sub·stan·tial BrE [səbˈstænʃl]  NAmE [səbˈstænʃl]  adjective
+1. large in amount, value or importance
+Syn: ↑considerable
+• substantial sums of money
+• a substantial change
+• Substantial numbers of people support the reforms.
+• He ate a substantial breakfast.
+• There are substantial differences between the two groups.
+• Their share of the software market is substantial.
+2. usually before noun (formal) large and solid; strongly built
+• a substantial house
+• a street of substantial Victorian villas
+ 
+Word Origin:
+[substantial] Middle English: from Old French substantiel or Christian Latin substantialis, from substantia ‘being, essence’, from substant- ‘standing firm’, from the verb substare.
+ 
+Example Bank:
+• There were substantial sums of money involved.
+• We were able to see a substantial improvement.
+>>>>>>> 14594e96df1b3f4a089cf8056975dd6854be5a72
