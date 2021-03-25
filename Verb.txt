@@ -386,6 +386,12 @@ counter an argument/an allegation/a criticism etc
  He was determined to counter the bribery allegations.
 2. [transitive] to do something in order to prevent something bad from happening or to reduce its bad effects:
  Exercise helps to counter the effects of stress.
-=======
->>>>>>> 1eaa08e893358596a85be05c55830ec7c7bdab29
->>>>>>> 14594e96df1b3f4a089cf8056975dd6854be5a72
+
+ instigate
+in‧sti‧gate /ˈɪnstəɡeɪt, ˈɪnstɪɡeɪt/ BrE  AmE  verb [transitive]
+[Date: 1500-1600; Language: Latin; Origin: past participle of instigare]
+1. to make a process start, especially one relating to law or politics:
+ Charles instigated a programme of reforms.
+2. to persuade someone to do something bad or violent:
+ He accused union leaders of instigating the disturbances.
+—instigator noun [countable]

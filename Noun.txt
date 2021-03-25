@@ -478,6 +478,22 @@ shot at (doing) something
  I decided to have a shot at decorating the house myself.
  I didn’t think I had much chance of winning the race, but I thought I’d give it a shot (=try to do it).
  The network finally gave Keaton a shot at presenting his own show
-=======
->>>>>>> 1eaa08e893358596a85be05c55830ec7c7bdab29
->>>>>>> 14594e96df1b3f4a089cf8056975dd6854be5a72
+
+ understanding
+under·stand·ing [understanding understandings] noun, adjective BrE [ˌʌndəˈstændɪŋ]  NAmE [ˌʌndərˈstændɪŋ] 
+noun
+1. uncountable, singular ~ (of sth) the knowledge that sb has about a particular subject or situation
+• The committee has little or no understanding of the problem.
+• The existence of God is beyond human understanding (= humans cannot know whether God exists or not).
+• Most of the students have a sound understanding of English grammar.
+2. countable, usually singular an informal agreement
+• We finally came to an understanding about what hours we would work.
+• We have this understanding that nobody talks about work over lunch.
+3. uncountable, singular the ability to understand why people behave in a particular way and the willingness to forgive them when they do sth wrong
+• We must tackle the problem with sympathy and understanding.
+• We are looking for a better understanding between the two nations.
+• Try to show a little more understanding.
+4. uncountable, countable ~ (of sth) the particular way in which sb understands sth
+Syn: ↑interpretation
+• My understanding of the situation is…
+• The statement is open to various understandings.
