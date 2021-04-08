@@ -468,6 +468,7 @@ mediate
  > mediation / 9mi:dI5eIFn; 9midI`eFEn/ n [U]: All offers of mediation were rejected. 所有调解的建议均遭拒绝.
  mediator n person, organization, etc that mediates 调解人; 调停人; 斡旋者; 仲裁组织.
  
+<<<<<<< HEAD
  prick
 prick [prick pricks pricked pricking] verb, noun BrE [prɪk]  NAmE [prɪk] 
 verb
@@ -649,3 +650,89 @@ acclimatize, acclimatise
 
  / E5klaImEtaIz; E`klaImE9taIz/ v [I, Ipr, Tn, Tn.pr] ~ (oneself/sb/sth) (to sth) get (oneself, animals, plants, etc) used to a new climate or a new environment, new conditions, etc; become or make accustomed (to sth) 使（自己、动物、植物等）习惯于新的气候或新的环境、新的形势等; 使适应（某事物）; 服水土: It takes many months to acclimatize/become acclimatized to life in a tropical climate. 要用许多月的时间才能适应热带的生活.
  > acclimatization, -isation / E9klaImEtaI5zeIFn; ?@ -tI5z-; E9klaImEtE`zeFEn/ n [U].
+=======
+ excavate
+ex‧ca‧vate /ˈekskəveɪt/ BrE  AmE  verb [intransitive and transitive]
+[Date: 1500-1600; Language: Latin; Origin: past participle of excavare, from cavus 'hollow']
+1. if a scientist or ↑archaeologist excavates an area of land, they dig carefully to find ancient objects, bones etc:
+ Schliemann excavated the ancient city of Troy.
+2. formal to make a hole in the ground by digging up soil etc
+—excavation /ˌekskəˈveɪʃən/ noun [uncountable and countable]
+• • •
+THESAURUS
+▪ dig to make a hole in the ground using your hands, a tool, or a machine: Some workmen were digging a trench at the side of the road. | In Africa, the people know where to dig for water.
+▪ make a hole to dig a hole in the ground, using your hands or a tool: Make a hole just big enough for the plant’s roots.
+▪ burrow /ˈbʌrəʊ $ ˈbɜːroʊ/ if an animal burrows, it makes a hole or a passage in the ground by digging the earth with its feet, nose etc: The rabbits had burrowed a hole under the fence.
+▪ plough British English, plow American English /plaʊ/ to turn over the soil using a machine or a tool pulled by animals, to prepare the soil for planting seeds: The farmers here still plough their fields using buffaloes.
+▪ excavate /ˈekskəveɪt/ formal to dig a large hole in the ground, especially as a preparation for building something: The men began excavating the hole for the pool.
+▪ bore to make a deep round hole in the ground using a special machine, especially in order to look for oil or water: Companies need a special licence to bore for oil.
+
+dwelt
+dwelt /dwelt/ BrE  AmE 
+a past tense and past participle of ↑dwell
+dwell
+dwell /dwel/ BrE  AmE  verb (past tense and past participle dwelt /dwelt/ or dwelled) [intransitive always + adverb/preposition]
+[Language: Old English; Origin: dwellan]
+literary to live in a particular place:
+ They dwelt in the forest.
+dwell on/upon something phrasal verb
+to think or talk for too long about something, especially something unpleasant:
+ That is not a subject I want to dwell on.
+ 
+ 
+ teethe
+teethe /tiːð/ BrE  AmE  verb [intransitive]
+[Date: 1400-1500; Origin: teeth]
+be teething if a baby is teething, its first teeth are growing
+来自Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+teethe
+
+ / ti:T; tiT/ v [I] (usu in the continuous tenses, or as a gerund or present participle 通常用于进行时态或用作动名词或现在分词) (of a baby) have its first teeth starting to grow through the gums （指幼儿）长牙, 出牙: Babies like to chew something when they're teething. 幼儿长牙时爱咬东西.
+ 
+ writhe
+writhe /raɪð/ BrE  AmE  verb [intransitive]
+[Language: Old English; Origin: writhan 'to twist']
+to twist your body from side to side violently, especially because you are suffering pain
+writhe in pain/agony etc
+ He lay writhing in pain.
+来自Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+writhe
+
+ / raIT; raIT/ v 
+ [I, Ip] (of sb or sb's body) twist or roll about, esp because of great pain （指某人或身体）扭动或翻滚（尤指因巨痛）: the writhing coils of a snake 蛇身体扭动盘绕成的圈 * The patient was writhing (about) on the bed in agony. 病人疼得在床上直打滚. 
+ [I, Ipr] ~ (at/under sth); ~ (with sth) suffer mental agony(because of sth) （因某事物）遭受精神痛苦: writhe under sb's insults 因遭某人侮辱而苦恼 * Her remarks made him writhe with shame. 她的话羞得他十分难堪.
+
+ # `teething troubles (fig 比喻) minor problems occurring in the early stages of an enterprise 创业初期遇到的小问题.
+ 
+ 
+ knead
+knead /niːd/ BrE  AmE  verb [transitive]
+[Language: Old English; Origin: cnedan]
+1. to press a mixture of flour and water many times with your hands:
+ Knead the dough for three minutes.
+2. to press someone’s muscles many times to help cure pain or to help them relax
+• • •
+THESAURUS
+■ preparing food
+▪ grate to cut cheese, carrot etc into small pieces by rubbing it against a special tool: Grate the cheese and sprinkle it over the top of the pasta.
+▪ melt to make butter, chocolate etc become liquid: Melt the butter, chocolate, and 1 teaspoon of cream over a low heat.
+▪ sieve British English, sift American English to put flour or other powders through a ↑sieve (=tool like a net made of wire, which you use for removing larger grains or pieces): Sift the flour and cocoa before adding to the rest of the mixture.
+▪ chop to cut something into pieces, especially using a big knife: Chop up the vegetables.
+▪ dice to cut vegetables or meat into small square pieces: Dice the carrots and then fry them in butter.
+▪ season to add salt, pepper etc to food: Season the meat before grilling.
+▪ crush to use a lot of force to break something such as seeds into very small pieces or into a powder: Add one clove of crushed garlic.
+▪ mix to combine different foods together: Mix together all the ingredients in one bowl.
+▪ beat/whisk to mix food together quickly with a fork or other tool: Whisk the egg whites until they form soft peaks.
+▪ stir to turn food around with a spoon: Stir the sauce gently to prevent burning.
+▪ fold something in to gently mix another substance into a mixture: Fold in the beaten egg whites.
+▪ knead to press ↑dough (=a mixture of flour and water) many times with your hands when you are making bread: Knead the dough for ten minutes, until smooth.
+▪ drizzle to slowly pour a small amount of a liquid onto something: Drizzle with olive oil.
+▪ let something stand to leave something somewhere, before you do something else with it: Let the mixture stand for a couple of hours so that it cools naturally.
+▪ serve to put different foods together as part of a meal: Serve with rice and a salad. | Serve the aubergines on a bed of lettuce.
+来自Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+knead
+
+ / ni:d; nid/ v 
+ [Tn, Tn.pr] press and stretch (bread dough, wet clay, etc) with the hands to form a firm smooth paste 揉, 捏（面团、湿黏土等）: Knead the dough (into a ball) 把面团揉成球形. 
+ [Tn] massage (muscles, etc) firmly to relieve tension or pain 按摩, 揉捏（肌肉等）.
+>>>>>>> e7d050cf2155b6394a0e8c9a7d04b048cdc24222

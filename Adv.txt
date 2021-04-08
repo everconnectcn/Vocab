@@ -62,6 +62,7 @@ Negative sentences are formed with not or the short form -n’t and do not use d
 You will find more help with how to use modal verbs at the dictionary entries for each verb.
 Idiom: ↑might is right
 
+<<<<<<< HEAD
 
 previous [previous previous to previously] adj.
 1. only before noun
@@ -95,3 +96,52 @@ im·mi·nent BrE [ˈɪmɪnənt]  NAmE [ˈɪmɪnənt]  adjective
 • The system is in imminent danger of collapse.
 • An announcement about his resignation is imminent.
 Derived Words: ↑imminence ▪ ↑imminently
+=======
+flat out
+flat ˈout idiom
+(informal)
+1. as fast or as hard as possible
+• Workers are working flat out to meet the rise in demand for new cars.
+2. (especially NAmE) in a definite and direct way; completely
+• I told him flat out ‘No’.
+• It's a 30-year mortgage we just flat out can't handle.
+see also ↑flat-out adj.
+Main entry: ↑flatidiom
+
+coalition 
+■ verbs
+▪ form a coalition The Social Democrats rejected their offer to form a coalition.
+▪ join a coalition The Greens of Slovenia agreed to join the coalition led by the Liberal Democratic party.
+▪ lead/head a coalition The coalition was led by the Christian Democrats and the Socialists.
+▪ a coalition collapses/breaks up Austria's ruling government coalition collapsed.
+■ ADJECTIVES/NOUN + coalition
+▪ the ruling/governing coalition The March elections may weaken the ruling coalition.
+▪ the opposition coalition (=forming an opposition party to the government) The opposition coalition's strength increased from 37 to 53 seats.
+▪ a political coalition a political coalition of centre parties
+▪ a two-party/three-party etc coalition The composition of the three-party coalition remains unchanged.
+▪ a left-wing/right-wing etc coalition The left-wing coalition was led by the former guerrilla movement.
+■ coalition + NOUN
+▪ a coalition government There is little enthusiasm among voters for a coalition government.
+▪ a coalition partner There were fundamental differences between the two main coalition partners.
+▪ a coalition member Some coalition members are unhappy with the proposal.
+▪ a coalition party The treaty required the backing of both governing coalition parties.
+来自Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+coalition
+
+ / 9kEUE5lIFn; 9koE`lIFEn/ n 
+ [U] action of uniting into one body or group 结合; 联合. 
+ [CGp] temporary alliance between political parties, usu in order to form a government 政党间的暂时联合（通常为成立联合政府的）: form a coalition 结成同盟 * a left-wing coalition 左翼联盟 * [attrib 作定语] a coalition government 联合政府.
+ 
+ unilateral
+u‧ni‧lat‧e‧ral /ˌjuːnəˈlætərəl◂, ˌjuːnɪˈlætərəl◂/ BrE  AmE  adjective formal
+a unilateral action or decision is done by only one of the groups involved in a situation ⇨ bilateral, multilateral:
+ a unilateral declaration of independence
+unilateral disarmament (=when one country gets rid of its own ↑nuclear weapons without waiting for other countries to do the same)
+—unilateralism noun [uncountable]
+—unilaterally adverb
+来自Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+unilateral
+
+ / 9ju:nI5lAtrEl; 9junI`lAtErEl/ adj [usu attrib 通常作定语] done by or affecting one person, group, country, etc and not another; one-sided 单方面做出的; 仅影响一方的; 单方面的; 单边的: unilateral decisions, agreements, declarations, etc 单方面的决定、协议、宣布等 * unilateral (nuclear) disarmament, ie voluntary removalor dismantling by a country of its (nuclear) weapons单方面（核）裁军. Cf 参看 bilateral, multilateral.
+ > unilaterally / -rElI; -rElI/ adv.
+>>>>>>> e7d050cf2155b6394a0e8c9a7d04b048cdc24222

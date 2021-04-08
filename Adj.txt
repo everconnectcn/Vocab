@@ -451,6 +451,7 @@ THESAURUS
 ▪ ubiquitous /juːˈbɪkwətəs, juːˈbɪkwɪtəs/ formal very common and seen in many different places – often used humorously in written descriptions: He was carrying the ubiquitous MP3 player. | In Britain, CCTV cameras are ubiquitous.
 ▪ something is everywhere especially spoken used when saying that you can see something a lot in many different places: Images of the dictator were everywhere. | Microchips seem to be everywhere these days – even in washing machines. | One of the first things you notice in Amsterdam are the bicycles – they’re everywhere.
 
+<<<<<<< HEAD
 authoritative
 au·thori·ta·tive AW [authoritative authoritatively] BrE [ɔːˈθɒrətətɪv]  NAmE [əˈθɔːrəteɪtɪv]  NAmE [əˈθɑːrəteɪtɪv]  adjective
 1. showing that you expect people to obey and respect you
@@ -699,3 +700,17 @@ connected with ↑genes (= the units in the cells of a living thing that control
 • genetic abnormalities
 Derived Word: ↑genetically
  
+=======
+dyslexia
+dys‧lex‧i‧a /dɪsˈleksiə/ BrE  AmE  noun [uncountable]
+[Date: 1800-1900; Origin: dys- 'bad' (from Greek) + Greek lexis 'word, speech']
+a condition that makes it difficult for someone to read and spell
+—dyslexic adjective:
+ Two of the children in the class are dyslexic.
+来自Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+dyslexia
+
+ / dIs5leksIE; dIs`lZksIE/ n [U] (medical 医) (also word-blindness) abnormal difficulty in reading and spelling, caused by a brain condition 诵读困难.
+
+ > dyslexic / dIs5leksIk; dIs`lZksIk/ n, adj (person) suffering from dyslexia 患诵读困难症的（人）.
+>>>>>>> e7d050cf2155b6394a0e8c9a7d04b048cdc24222
