@@ -573,7 +573,6 @@ incense 1
 
 1 / 5Insens; `InsZns/ n [U] (smoke from a) substance that produces a pleasant smell when burnt, used esp in religious ceremonies 香（尤指宗教仪式上用的）; （香冒出的）烟.
 
-<<<<<<< HEAD
 mural
 
  / 5mjUErEl; `mjJrEl/ n (usu large) painting done on a wall （通常指大型的）壁画.
@@ -1263,5 +1262,78 @@ intimate 2
 2 / 5IntImeIt; `IntE9met/ v [Tn, Tf, Tw, Dn.pr, Dpr.f, Dpr.w] ~ sth (to sb) (fml 文) make sth known (to sb), esp discreetly or indirectly 将某事透露（给某人）; （尤指谨慎地或间接地）示意; 暗示: He intimated his wishes with a slight nod of his head. 他微微颔首示意. * She has intimated (to us) that she no longer wishes to be considered for the post. 她已（向我们）透露希望不再考虑让她担任该职. * The judge has not intimated (to the jury) whether they will be allowed to reach a majority verdict. 法官没有指示（陪审团）他们可否达成大多数裁定.
 
  > intimation / 9IntI5meIFn; 9IntE`meFEn/ n (fml 文) (a) [U] intimating 透露; 示意; 暗示. (b) [C] ~ (of sth/that...) something intimated; hint; notification 透露的事; 暗示; 通知: He has given us no intimation of his intentions/what he intends to do. 他没有向我们透露他的意图.
->>>>>>> e7d050cf2155b6394a0e8c9a7d04b048cdc24222
->>>>>>> 829514e2391124ebb6fb9c89837abd3344e8b234
+
+ offence
+
+ (US offense) / E5fens; E`fZns/ n 
+ [C] ~
+ (against sth) breaking of a rule or law; illegal act; crime 犯规; 犯法; 违法行为; 罪行: commit an offence 犯过错 * an offence against society, humanity, the state, etc 违反社会、人性、国家等的罪行 * a capital offence, ie one punishable by death 死罪 * sexual offences 性犯罪 * be charged with a serious offence 被控犯重罪 * Because it was his first offence (ie the first crime of which he'd been found guilty), the punishment wasn't too severe. 他因属初犯而获从轻惩处. 
+ [U] ~ (to sb/sth) (act or cause of) upsetting or annoying (sb); insult 使（某人）不悦, 恼怒（的行为或原因）; 冒犯: I'm sorry; I intended no offence when I said that. 对不起, 我说那事并无恶意. * I'm sure he didn't mean to cause offence (to you). 我肯定他并非有意得罪你. * The anti-British propaganda gave (ie caused) much offence. 反英宣传触犯了众怒. 
+ [C] ~ (to sb/sth) (fml 文) thing that causes displeasure, annoyance or anger 使人不悦、讨厌或生气的事物: The new shopping centre is an offence to the eye, ie unpleasant to look at. 新购物中心很不顺眼. 
+ [U] (fml 文) attack 攻击: weapons of offence rather than defence 攻击型的而不是防御型的武器. 
+ (idm 习语) no of`fence (to sb) (used to explain that one does/did not intend to upset or annoy sb 用以解释自己无意冒犯或触怒某人): I'm moving out no offence to you or the people who live here, but I just don't like the atmosphere. 我要搬出去了--请你或住在这里的人不要见怪, 我只不过是不喜欢这里的空气罢了. take of`fence (at sth) feel hurt, upset or offended (by sth) 觉得受到（某事物的）伤害、烦扰或招惹: She's quick to take offence, ie easily offended. 她动不动就生气.
+
+
+deterrent
+▪ I. de·ter·rent [deterrent deterrents] BrE [dɪˈterənt]  NAmE [dɪˈtɜːrənt]  noun ~ (to sb/sth)
+a thing that makes sb less likely to do sth (= that ↑deters them)
+• Hopefully his punishment will act as a deterrent to others.
+• the country's nuclear deterrents (= nuclear weapons that are intended to stop an enemy from attacking)
+Derived Word: ↑deterrence
+ 
+Word Origin:
+early 19th cent.: from Latin deterrent- ‘deterring’, from the verb deterrere, from de- ‘away from’ + terrere ‘frighten’.
+ 
+Example Bank:
+• Defenders of the death penalty regard it as the ultimate deterrent.
+• The bodies of executed criminals were hung on the city gates as a deterrent.
+• There is no effective deterrent for these young criminals.
+• They stressed the need for an independent nuclear deterrent.
+• They were arguing about the deterrent effect of nuclear weapons.
+• a deterrent against cheating
+• a deterrent to all but the most determined attacker
+• a deterrent to crime
+• a punishment that will act as a deterrent to other offenders
+ 
+▪ II. de·ter·rent adjective
+• a deterrent effect
+Main entry: ↑deterrentderived
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+deterrent
+
+ / dI5terEnt; ?@ -5t\:-; dI`t[rEnt/ n, adj (thing) that deters or is meant to deter 起制止作用的（事物）; 遏止的（因素）; 威慑的（力量）: His punishment will be a deterrent to others. 惩罚他以儆效尤. * deterrent weapons, measures 具威慑性的武器、遏制性的手段. 
+
+ > deterrence / dI5terEns; ?@ -5t\:-; dI`t[rEns/ n [U] action of deterring 阻止; 遏止; 威慑: nuclear deterrence, ie (a policy of) having nuclear weapons in order to make an enemy too frightened to attack 核威慑.
+ 
+ detergent
+de·ter·gent [detergent detergents] BrE [dɪˈtɜːdʒənt]  NAmE [dɪˈtɜːrdʒənt]  noun uncountable, countable
+a liquid or powder that helps remove dirt, for example from clothes or dishes
+ 
+Word Origin:
+early 17th cent. (as an adjective): from Latin detergent- ‘wiping away’, from the verb detergere, from de- ‘away from’ + tergere ‘to wipe’.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+detergent
+
+ / dI5t\:dVEnt; dI`t[dVEnt/ n [U, C], adj (substance) that removes dirt, eg from the surface of clothes or dishes 洗涤剂; 去污剂; 洗涤的; 去污的: Most synthetic detergents are in the form of powder or liquid. 大多数合成洗涤剂呈粉状或液态.
+ 
+ exposé
+ex·posé [exposé exposés] BrE [ekˈspəʊzeɪ]  NAmE [ˌekspoʊˈzeɪ]  noun
+an account of the facts of a situation, especially when these are shocking or have deliberately been kept secret
+• a damning exposé of police corruption
+ 
+Word Origin:
+late Middle English: from Old French exposer, from Latin exponere ‘put out’ (from ex- ‘out’ + ponere ‘put’), but influenced by Latin expositus ‘put or set out’ and Old French poser ‘to place’.
+From Longman DOCE 5th Ed. (En-En)
+exposé
+ex‧po‧sé /ekˈspəʊzeɪ $ ˌekspəˈzeɪ/ BrE  AmE  noun [countable]
+[Date: 1800-1900; Language: French; Origin: past participle of exposer; ⇨ ↑expose]
+a story in a newspaper or on television that shows the truth about something, especially something dishonest or shocking
+exposé of
+ an exposé of corrupt practices by lawyers
+ 
+Louvre
+Louvre, the /ˈluːvrə, luːv/ BrE  AmE 
+the most famous French ↑museum, which is in Paris and has many important paintings, including the ↑Mona Lisa, and ↑statues, including Nike or the Winged Victory
+
+-umble 1不清楚地说话 2笨拙-ump 笨重 凸起-oom 隆隆声-op 向下随便举几个栗子给大家sl-滑： slip 滑   slide 滑梯   slick 光滑的   slippery 滑的   sleek 圆滑的   slope 滑坡   slippy 光滑的   slider 滑行者   sliding 滑行的   slidable 滑动的   slicken 光滑的   slickly 滑地   sleeky 光滑的   sleekit 光滑的   sleekly 光滑地   slickness 滑溜瘦： slender 苗条的   slim 苗条的   slenderly 苗条地   slimly 苗条地gl-光： glare 炫光   gleam 闪光   glory 光荣   gloss 光彩   glorious 光荣的   glossy光泽的   gleamy 发光的   glary 光辉的   gloriole 光轮   glow 发光发热tw-扭： twist 扭曲   twine 扭绕   twiddle 捻（使扭到一起）   tweak 扭   twisty 扭曲的二： two 二   twice 二次   twin 二胞胎的   twa 二个   twain 二个   twifold 二倍的gru-咕哝 抱怨： grumble 抱怨   grunt 咕哝   grump 抱怨发牢骚   grudge 嫉妒   gruff 粗哑的   grumbling 抱怨的   grunter 咕哝者   grutch 抱怨   gruntle 咕哝cl-紧密结合： clamp 钳子 夹紧   clasp 扣子 扣紧   clench 握紧   cling 黏着 抱紧   clip 夹子 夹紧   close 紧密的-umble不清楚地说话： grumble 嘟囔   stumble 结巴   mumble 含糊地说   rumble 隆隆作响笨拙： fumble 笨拙地做   bumble 弄糟 犯错   jumble 弄乱   stumble 犯错   tumble 弄乱-ump笨重： clump 笨重的脚步声   stump 笨重地行走   thump 笨重的击打   chump 笨蛋   gump 笨蛋   whump 笨重的撞击凸起： bump 凸起物   hump 驼峰 凸起物   lump 瘤 肿块   plump 凸起的   rump 臀部   tump 凸起的小丘-oom隆隆声&嗡嗡声：boom 隆隆声   zoom 嗡嗡声   voom 轰隆声   vroom 隆隆声   varoom 隆隆声-op向下： drop 落下   flop 啪嗒摔下   plop 扑通落下   slop 溅下   chop 砍下   lop 下垂
+

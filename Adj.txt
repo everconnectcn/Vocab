@@ -322,9 +322,6 @@ THESAURUS
 ▪ sleepy wanting to sleep very soon, so that your eyes start to close: I’m feeling quite sleepy. I think I’ll go to bed. | She rubbed her sleepy eyes.
 ▪ drowsy starting to sleep because you are in a warm place, have drunk too much alcohol, or have taken medicine: The tablets can make you feel drowsy. | She was beginning to feel a little drowsy after all the food and wine she had consumed.
 ▪ can’t keep your eyes open/can hardly keep your eyes open to feel so tired that you find it difficult to stay awake: I’d better get some rest – I can’t keep my eyes open. | He had been driving all night, and he could hardly keep his eyes open.
-=======
-<<<<<<< HEAD
-
 
 inadequate
 in·ad·equate AW BrE [ɪnˈædɪkwət]  NAmE [ɪnˈædɪkwət]  adjective
@@ -785,7 +782,6 @@ connected with ↑genes (= the units in the cells of a living thing that control
 • genetic abnormalities
 Derived Word: ↑genetically
  
-=======
 dyslexia
 dys‧lex‧i‧a /dɪsˈleksiə/ BrE  AmE  noun [uncountable]
 [Date: 1800-1900; Origin: dys- 'bad' (from Greek) + Greek lexis 'word, speech']
@@ -798,5 +794,114 @@ dyslexia
  / dIs5leksIE; dIs`lZksIE/ n [U] (medical 医) (also word-blindness) abnormal difficulty in reading and spelling, caused by a brain condition 诵读困难.
 
  > dyslexic / dIs5leksIk; dIs`lZksIk/ n, adj (person) suffering from dyslexia 患诵读困难症的（人）.
->>>>>>> e7d050cf2155b6394a0e8c9a7d04b048cdc24222
->>>>>>> 829514e2391124ebb6fb9c89837abd3344e8b234
+
+petty
+
+ / 5petI; `pZtI/ adj (-ier, -iest) (derog 贬) 
+ small or trivial; unimportant 小的; 琐碎的; 不重要的: petty details, petty queries, regulations, troubles 细节、小问题、琐碎的规章、小麻烦. 
+ (a) concerned with small and unimportant matters 注重琐事的: petty observance of the regulations 遵守规章制度上的细节. (b) having or showing a small mind; mean 狭隘的; 器量小的; 小气的: petty and childish behaviour 小心眼和孩子气的行为 * petty spite 心胸狭窄的怨恨 * a petty desire to have her revenge 她想要报复的狭隘念头 * petty about money 金钱上很小气.
+ > pettily / 5petIlI; `pZtIlI/ adv. pettiness n [U]: The pettiness of their criticisms enraged him. 他们鸡毛蒜皮地挑剔, 他十分气愤.
+
+ # ,petty `cash (usu small) amount of money kept in an office from or for small payments （通常指小额的）零用现金.
+ ,petty `larceny theft of articles of small value 小偷小摸.
+ ,petty `officer (abbr 缩写 PO) senior non-commissionedofficer in the navy 海军士官. =>App 9 见附录9.
+ 
+ petty
+pet‧ty /ˈpeti/ BrE  AmE  adjective
+[Date: 1300-1400; Language: Old French; Origin: peti 'small']
+1. a petty problem, detail etc is small and unimportant SYN trivial:
+ petty squabbles
+ petty restrictions
+2. unkind and caring too much about small unimportant things:
+ How can she be so petty?
+ petty jealousy and spitefulness
+3. petty crime a crime that is not serious, for example stealing things that are not very valuable
+4. petty criminal/thief etc a criminal whose crimes are not very serious
+5. a petty official is not important – used especially when they use their power as if they were important:
+ Some petty bureaucrat wanted all the documents in triplicate.
+—pettiness noun [uncountable]:
+ the pettiness of Hollywood
+ 
+
+
+elusive
+elu·sive BrE [iˈluːsɪv]  NAmE [iˈluːsɪv]  adjective
+difficult to find, define, or achieve
+• Eric, as elusive as ever, was nowhere to be found.
+• the elusive concept of ‘literature’
+• A solution to the problem of toxic waste is proving elusive.
+Derived Words: ↑elusively ▪ ↑elusiveness
+ 
+Word Origin:
+[elusive elusively elusiveness] early 18th cent.: from Latin elus- ‘eluded’ (from the verb eludere) + ↑-ive.
+ 
+Example Bank:
+• Further movie roles have proved somewhat elusive for the young actor.
+• He was searching for the ever elusive ‘perfect job’.
+• Sleep was strangely elusive.
+• The murderer remained frustratingly elusive.
+• Truth is a notoriously elusive quality.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+elusive
+
+ / I5lu:sIv; I`lusIv/ adj (a) tending to escape or disappear; difficult to capture 逃避的; 躲避的; 难以捕捉的: a most elusive criminal 极难逮捕的罪犯. (b) difficult to remember or understand 难以记忆的; 难以理解的; 难以捉摸的: an elusive perfume 难以捉摸的香味 * an elusive word 难记的词
+ 
+ 
+ sensation
+
+ / sen5seIFn; sZn`seFEn/ n 
+ (a) [C] feeling in one's body resulting from sth that happens or is done to it 感觉; 感受: a sensation of warmth, dizziness, falling 温暖、眩晕、下降的感觉 * Massage produces wonderful sensations. 按摩可产生舒适的感觉. (b) [C] general awareness or impression not caused by anything that can be seen or defined 下意识的感觉: I had the sensation that I was being watched. 我觉得有人监视着我. (c) [U] ability to feel through the sense of touch 知觉; 触觉: lose all sensation in one's legs 腿部完全失去知觉 * Some sensation is coming back to my arm. 我的胳膊逐渐恢复一些知觉. 
+ [C, U] state of great surprise, excitement, interest, etc among many people 轰动; 群情激动: The news caused a great sensation. 这个消息十分轰动. * (derog 贬) Sensation-seeking newspapers tried to cash in on her misery. 专登危言耸听内容的报纸竭力渲染她的苦境来卖钱.
+
+ > sensational / -FEnl; -FEnl/ adj 
+ (a) causing a sensation(2) 轰动的; 群情激动的: a sensational crime, victory, etc 骇人听闻的罪案、轰轰烈烈的胜利. (b) (derog 贬) trying to cause a sensation(2) 耸人听闻的: a sensational newspaper, writer 刊登耸动视听消息的报纸、写耸人听闻内容的作家. 
+ (infml 口) extraordinarily good; wonderful 极好的; 绝妙的: You look sensational in that dress. 你穿着那件连衣裙漂亮极了. * That music is sensational! 这段乐曲太优美了! sensationalism/ -FEnElIzEm; -FEnl9IzEm/ n [U] (derog 贬) deliberate use of shocking words, scandalous stories, etc in order to produce a sensation(2) 为耸动视听而使用的词语、描绘的丑事等: Avoid sensationalism in reporting crime.报道罪案时要避免使用耸动视听的手段. * the sensationalism of the popular press 为大众服务的新闻界所使用的耸动视听的做法. sensationalist / -FEnElIst; -FEnlIst/ n. sensationalize, -ise / -FEnElaIz; -FEnE9laIz/ v [Tn] (derog 贬) treat (sth) in a way that is likely to cause public excitement 用耸动视听的方法处理（某事物）: a sensationalized account of a squalid crime 用耸人听闻的方式描绘的卑劣罪行. sensationally / -FEnElI;-FEnlI/ adv: Newspapers reported the incident sensationally, making it appear worse than it really was. 报纸大肆渲染这件事, 描述得更不像话.
+ 
+ sensational
+sen·sa·tion·al [sensational sensationally] BrE [senˈseɪʃənl]  NAmE [senˈseɪʃənl]  adjective
+1. causing great surprise, excitement, or interest
+Syn: ↑thrilling
+• The result was a sensational 4–1 victory.
+• The affair was the most sensational political sex scandal of the century.
+2. (disapproving) (of a newspaper, etc.) trying to get your interest by presenting facts or events as worse or more shocking than they really are
+• sensational news stories
+3. (informal) extremely good; wonderful
+Syn: ↑fantastic
+• You look sensational in that dress!
+Derived Word: ↑sensationally
+ 
+Example Bank:
+• publishing a deliberately sensational and misleading news story
+• It was a sensational result with Labour almost losing some of its safest seats.
+• It was the most sensational 24 hours of the jockey's career.
+• Police have uncovered sensational new evidence.
+
+pervasive
+per·va·sive BrE [pəˈveɪsɪv]  NAmE [pərˈveɪsɪv]  adjective
+existing in all parts of a place or thing; spreading gradually to affect all parts of a place or thing
+• a pervasive smell of damp
+• Her influence is all-pervasive (= it affects everyone and everything).
+• A sense of social change is pervasive in her novels.
+Derived Words: ↑pervasively ▪ ↑pervasiveness
+ 
+Word Origin:
+[pervasive pervasively pervasiveness] mid 18th cent.: from Latin pervas- ‘passed through’ (from the verb pervadere) + ↑-ive.
+ 
+Example Bank:
+• the increasingly pervasive subculture in modern society
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+pervasive
+
+ / pE5veIsIv; pL`vesIv/ adj present and perceived everywhere; pervading 无处不在的; 遍布的; 充斥各处的: pervasive smell, dust, damp etc 到处都有的气味、尘埃、湿气等 * the pervasive mood of pessimism 普遍存在的悲观情绪.
+ > pervasively adv. pervasiveness n [U].
+ 
+  artificial
+
+ / 9B:tI5fIFl; 9BrtE`fIFEl/ adj 
+ made or produced by man in imitation of sth natural; not real 人造的; 人工的; 假的: artificial flowers, light, limbs, pearls 假花、人造光、义肢、假珍珠. 
+ affected; insincere; not genuine 做作的; 虚假的; 假的: Her artificial gaiety disguised an inner sadness. 她以矫揉造作的快乐掩饰着内心的悲痛.
+ > artificiality / 9B:tIfIFI5lEtI; 9BrtI9fIFI`AlEtI/ n [U]. artificially / 9B:tI5fIFElI; 9BrtE`fIFElI/ adv.
+
+ # ,artificial insemi`nation injection of semen into the womb (esp of animals) artificially, so that conception can occur without sexual intercourse 人工授精（尤指施于动物的）.
+ ,artificial in`telligence (abbr 缩写 AI) (study of) the capacity of machines to simulate intelligent human behaviour 人工智能（的研究）.
+ ,artificial respi`ration process of forcing air into and out of the lungs to stimulate natural breathing again when it has failed, eg in a person who has almost drowned 人工呼吸.
