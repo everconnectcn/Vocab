@@ -1,3 +1,34 @@
+<<<<<<< HEAD
+because of
+Explaining reasons
+▪ The number of people with diabetes is growing, partly because of ▪ an increase in levels of obesity.
+▪ The number of overweight children has increased dramatically in recent years, largely as a result of ▪ changes in diet and lifestyle.
+▪ The increase in childhood obesity is largely due to ▪ / the result of ▪ changes in lifestyle and diet over the last twenty years.
+▪ Many obese children are bullied at school on account of ▪ their weight.
+▪ Part of the problem with treating childhood obesity stems from ▪ the fact that parents do not always recognize that their children are obese.
+▪ Childhood obesity may be caused by ▪ genetic factors, as well as environmental ones.
+
+
+incline
+in·cline AW [incline inclines inclined inclining] verb, noun
+verb BrE [ɪnˈklaɪn] ; NAmE [ɪnˈklaɪn]  (formal)
+1. intransitive, transitive to tend to think or behave in a particular way; to make sb do this
+• ~ to/towards sth I incline to the view that we should take no action at this stage.
+• Young people incline towards individualistic behaviour.
+• ~ to do sth The government is more effective than we incline to think.
+• ~ sb to/towards sth Lack of money inclines many young people towards crime.
+• ~ sb to do sth His obvious sincerity inclined me to trust him.
+2. transitive ~ your head to bend your head forward, especially as a sign of agreement, welcome, etc
+• He inclined his head in acknowledgement.
+3. intransitive, transitive ~ (sth) (to/towards sth) to lean or slope in a particular direction; to make sth lean or slope
+• The land inclined gently towards the shore.
+
+added to this …
+ˈadded to this… | ˈadd to this… idiom
+used to introduce another fact that helps to emphasize a point you have already made
+• Add to this the excellent service and you can see why it's the most popular hotel on the island.
+Main entry: ↑addidiom
+=======
 Conversely
 substantial
 sub·stan·tial BrE [səbˈstænʃl]  NAmE [səbˈstænʃl]  adjective
@@ -20,6 +51,7 @@ Example Bank:
 • There were substantial sums of money involved.
 • We were able to see a substantial improvement.
 
+<<<<<<< HEAD
 Language Bank:
 define
 Defining terms
@@ -32,3 +64,16 @@ The term ▪ ‘carbon footprint’ refers to ▪ the amount of carbon dioxide r
 ▪ Scientists suggest that increased carbon dioxide in the atmosphere will result in an increase in global temperatures, and the term ▪ ‘global warming’ is used ▪ to describe this phenomenon.
 Language Bank at ↑first
 Language Bank at ↑first
+=======
+needless
+need‧less /ˈniːdləs/ BrE  AmE  adjective
+[Word Family: noun: ↑need, needs, the needy; adjective: ↑needless, ↑needy; verb: ↑need; adverb: ↑needlessly]
+1. needless to say used when you are telling someone something that they probably know or expect:
+ Needless to say, any contributions of money will be gratefully received.
+2. needless troubles, suffering, loss etc are unnecessary because they could easily have been avoided SYN unnecessary:
+ The report caused needless anxiety to women who have attended the clinic.
+ We need to bring to an end these needless deaths.
+ Charles hates needless waste.
+—needlessly adverb:
+ People are dying needlessly every year of heart attacks.
+>>>>>>> 829514e2391124ebb6fb9c89837abd3344e8b234
