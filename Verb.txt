@@ -204,7 +204,6 @@ verb
 • We were able to gauge the strength of the wind from the movement of the trees.
 • It is impossible to gauge the extent of the damage.
 
-<<<<<<< HEAD
 chide
 chide [chide chides chided chid chiding chidden] BrE [tʃaɪd]  NAmE [tʃaɪd]  verb (formal)
 to criticize or blame sb because they have done sth wrong

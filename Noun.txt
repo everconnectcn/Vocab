@@ -136,7 +136,6 @@ a precaution/safeguard/defence against sth
 as a precaution/safeguard/defence
 an adequate precaution/safeguard/defence
 
-<<<<<<< HEAD
 1. uncountable a mixture of sand, water, ↑lime and ↑cement used in building for holding bricks and stones together
 2. countable a heavy gun that fires bombs and ↑shells high into the air; the bombs that are fired by this gun
 • to come under mortar fire/attack
@@ -445,4 +444,73 @@ Either a lot or a plot can be used for building on. Only a plot can also be used
 an open space
 open/empty/vacant/waste/derelict land/ground
 a/an empty/vacant lot/plot
->>>>>>> 1eaa08e893358596a85be05c55830ec7c7bdab29
+
+excavate
+
+ / 5ekskEveIt; `ZkskE9vet/ v [Tn] 
+ (fml 文) make (a hole or channel) by digging; remove (soil, etc) by digging 挖掘（洞或水道、河床）; 掘出（土等）: excavate a trench 挖壕沟. 
+ uncover or extract by digging (esp sth from earlier times) 发掘（尤指古物）: excavate a buried city, a Greek vase 发掘出一地下城市、一希腊花瓶.
+
+ > excavation / 9ekskE5veIFn; 9ZkskE`veFEn/ n 
+ [U] activity of excavating 挖掘; 挖土; 发掘: Excavation of the site will begin tomorrow. 明天开始挖掘工作. 
+ [C] excavations [pl] place that is being or has been excavated 挖掘的地方: visit the excavations 参观挖掘现场.
+ excavator n person engaged in or machine used forexcavating 挖掘者; 挖掘机: excavators on an archaeological site 考古场地上的挖掘者 * mechanical excavators 挖掘机.
+ 
+ ex‧ca‧va‧tor /ˈekskəveɪtə $ -ər/ BrE  AmE  noun [countable]
+1. British English a large machine that digs and moves earth and soil SYN steam shovel American English
+2. someone who digs to find things that have been buried under the ground for a long time
+excavate
+ex‧ca‧vate /ˈekskəveɪt/ BrE  AmE  verb [intransitive and transitive]
+[Date: 1500-1600; Language: Latin; Origin: past participle of excavare, from cavus 'hollow']
+1. if a scientist or ↑archaeologist excavates an area of land, they dig carefully to find ancient objects, bones etc:
+ Schliemann excavated the ancient city of Troy.
+2. formal to make a hole in the ground by digging up soil etc
+—excavation /ˌekskəˈveɪʃən/ noun [uncountable and countable]
+• • •
+THESAURUS
+▪ dig to make a hole in the ground using your hands, a tool, or a machine: Some workmen were digging a trench at the side of the road. | In Africa, the people know where to dig for water.
+▪ make a hole to dig a hole in the ground, using your hands or a tool: Make a hole just big enough for the plant’s roots.
+▪ burrow /ˈbʌrəʊ $ ˈbɜːroʊ/ if an animal burrows, it makes a hole or a passage in the ground by digging the earth with its feet, nose etc: The rabbits had burrowed a hole under the fence.
+▪ plough British English, plow American English /plaʊ/ to turn over the soil using a machine or a tool pulled by animals, to prepare the soil for planting seeds: The farmers here still plough their fields using buffaloes.
+▪ excavate /ˈekskəveɪt/ formal to dig a large hole in the ground, especially as a preparation for building something: The men began excavating the hole for the pool.
+▪ bore to make a deep round hole in the ground using a special machine, especially in order to look for oil or water: Companies need a special licence to bore for oil.
+
+
+tiptoe
+
+ / 5tIptEU; `tIp9to/ n (idm 习语) on `tiptoe on the tips of one's toes; with one's heels not touching the ground 踮着脚: stand on tiptoe to see over the crowd 踮 着脚隔着人群看 * creep around on tiptoe to avoid making a noise 踮着脚走以免弄出声音.
+
+ > tiptoe v [I, Ipr, Ip] walk quietly and carefully on tiptoe 踮着脚悄悄地走: She tiptoed (across) to the bed where the child lay asleep. 孩子睡着了, 她踮着脚走到他床前. =>Usage at prowl 用法见prowl.
+ 
+ sleep
+doze • nap • snooze
+These words all mean to rest with your eyes closed and your mind and body not active.
+sleep • to rest with your eyes shut and your mind and body not active: ▪ Did you sleep well? ◇ ▪ I couldn't sleep last night.
+It is more usual to say that sb is asleep than that they are sleeping; but if you use an adverb to say how they are sleeping, use sleeping: ▪ ‘What's Ashley doing?’ ‘Sh! She's asleep.’ ◇ ▪ The baby was sleeping peacefully. ◇ The baby was asleep peacefully.
+doze • to sleep lightly, waking up easily, often when you are not in bed: ▪ He was dozing in front of the TV.
+nap • to sleep for a short time, especially during the day.
+snooze • (informal) to sleep lightly for a short time, especially during the day and usually not in bed: ▪ My brother was snoozing on the sofa.
+to sleep/doze lightly/fitfully
+to doze/snooze gently
+
+languid
+
+ / 5lANgwId; `lAN^wId/ adj lacking vigour or energy; slow-moving 不活泼的; 无精打采的; 迟缓的: languid movements 懒洋洋的动作 * speak with a languid drawl 慢吞吞拉着长调说话.
+languid
+lan‧guid /ˈlæŋɡwɪd/ BrE  AmE  adjective literary
+[Date: 1500-1600; Language: French; Origin: languide, from Latin languidus, from languere; ⇨ ↑languish]
+1. moving slowly and involving very little energy:
+ He greeted Charles with a languid wave of his hand.
+2. slow and not involving any activity:
+ We spent a languid afternoon by the pool.
+—languidly adverb
+• • •
+THESAURUS
+▪ slow not moving quickly or not doing something quickly: I was always one of the slowest runners in my class. | My computer’s really slow compared to the ones at school.
+▪ gradual happening, developing, or changing slowly over a long period of time: a gradual rise in the Earth’s temperature | I’ve noticed a gradual improvement in his work.
+▪ leisurely especially written moving or doing something slowly, especially because you are enjoying what you are doing and do not have to hurry: a leisurely breakfast | They walked at a leisurely pace.
+▪ unhurried especially written moving or doing something in a slow and calm way, without rushing at all: She continued to listen, seeming relaxed and unhurried. | the doctor’s calm unhurried manner
+▪ sluggish moving or reacting more slowly than usual, especially because of a loss of power or energy. Also used when business, sales, or the economy seem very slow: The car seems rather sluggish going uphill. | The drink was making her sluggish. | the company’s sluggish performance this year | Sales have been sluggish.
+▪ lethargic moving slowly, because you feel as if you have no energy and no interest in doing anything: She woke up feeling heavy and lethargic. | His son seemed depressed and lethargic.
+▪ languid literary slow and with very little energy or activity – used about people, actions, or periods of time: She lifted her hand in a languid wave. | a long languid afternoon in the middle of summer | He was pale and had rather a languid air about him.
+▪ glacial literary extremely slow – used especially about the speed at which something happens: Things are changing, but at a glacial pace.
