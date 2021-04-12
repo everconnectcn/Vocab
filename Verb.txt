@@ -1061,3 +1061,15 @@ EXAMPLES FROM CORPUS
 ▪ And we can share best practices so that every educator and employer does not have to recreate effective strategies from scratch.
 ▪ As I do this, Miles and Evan often chime in, so we work together to recreate the story.
 ▪ Fidelity is a dynamic, positive posture that needs renewing and recreating constantly.
+
+slop
+
+ / slCp; slBp/ v (-pp-) 
+ [Ipr, Ip] (of liquids) spill over the edge, esp of a container （指液体）溢出, 泼出（尤指从容器中）: I dropped the bucket, and water sloppedout (of it). 我把桶掉在地上, 水都洒了出来. * The tea slopped (over) into the saucer. 茶溢出流到茶托里了. 
+ [Tn, Tn.pr, Tn.p] cause (sth) to spill 使（某物）溢出或泼出: slop the beer, paint, etc carelessly (all over the floor) 不小心把啤酒、油漆等洒了一地 * She slopped the dirty water (out) onto the grass. 她把污水泼在草地上了. 
+ (phr v) slop about/around (of liquids) move around in a small space, esp a container （指液体）晃荡（尤指在容器里）: Water was slopping around in the bottom of the boat. 水在船底晃晃荡荡的. slop about/around (in sth) (of people) splash around （指人）用手或脚溅水: Why do some children like slopping around in puddles? 为什么有些儿童爱在水坑里泼水玩? slop out empty slops (slop n 1, 2) 倒污水; 倒（尿桶、便盆等）.
+
+ > slop n (usu pl 通常作复数) 
+ dirty waste water from sinks, baths, etc （洗涤槽、浴缸等的）污水. 
+ urine, excrement and waste water contained in a bucket in prison cells that have no toilet or sink （在无 T生设备的牢房里用便桶盛的）粪便与废水: [attrib 作定语] a `slop-bucket 便桶. 
+ (a) swill for pigs （喂猪的）剩菜屑. (b) liquid food (eg milk, soup) esp for sick people 流质食物（如牛奶、汤等, 尤指供病人食用的）.
