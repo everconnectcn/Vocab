@@ -713,4 +713,94 @@ dyslexia
  / dIs5leksIE; dIs`lZksIE/ n [U] (medical 医) (also word-blindness) abnormal difficulty in reading and spelling, caused by a brain condition 诵读困难.
 
  > dyslexic / dIs5leksIk; dIs`lZksIk/ n, adj (person) suffering from dyslexia 患诵读困难症的（人）.
->>>>>>> e7d050cf2155b6394a0e8c9a7d04b048cdc24222
+
+
+ > inventive / In5ventIv; In`vZntIv/ adj 
+ [attrib 作定语] of or for invention 发明的; 创造的: using one's inventive powers 发挥自己的发明创造才能. 
+ (approv 褒) having or showing the ability to invent things and think originally 善于发明创造的; 具有创造性思考能力的: an inventive mind 有发明创造力的头脑 * an inventive design 独创性的设计.
+ inventor n person who invents things 发明者; 发明家; 创造者.
+ 
+ far-flung
+ˌfar-ˈflung [far-flung] BrE   NAmE   adjective usually before noun (literary)
+1. a long distance away
+• expeditions to the far-flung corners of the world
+2. spread over a wide area
+• a newsletter that helps to keep all our far-flung graduates in touch
+From Longman DOCE 5th Ed. (En-En)
+far-flung
+ˌfar-ˈflung BrE  AmE  adjective
+1. very distant
+far-flung corners/places/regions etc
+ expeditions to far-flung corners of the globe
+ people flying to far-flung destinations
+2. spread out over a very large area:
+ Email enables far-flung friends to keep in touch.
+ 
+ stagger
+
+ / 5stAgE(r); `stA^L/ v 
+ [I, Ipr, Ip] walk or move unsteadily as if about to fall (from carrying sth heavy, being weak or drunk, etc) 蹒跚; 踉跄; 摇晃着移动: She staggered and fell. 她踉跄了几步, 跌倒在地. * stagger to one's feet, across the room, from side to side 摇摇晃晃地站起来、走到房间的另一边、忽左忽右 * staggering along, around, about, etc 摇摇摆摆地走着、转来转去、四处走等. =>Usage at shuffle 用法见shuffle. 
+ [Tn usu passive 通常用于被动语态] (of news, etc) shock (sb) deeply; cause (sb) astonishment, worry or confusion （指消息等）使（某人）震惊、担心或慌乱: I was staggered to hear/on hearing/when I heard of his death. 我听到他死的消息大吃一惊. 
+ [Tn usu passive 通常用于被动语态] place (sth) in a zigzag or alternating arrangement 交错安排（某事物）; 使（某事物）错开: a staggered junction, ie a cross-roads where the side-roads are not directly opposite each other 旁侧路口不相对的交叉处. 
+ [Tn] arrange (the times of events) so that they do not occur together 错开（时间）: staggered office hours, ie arranged so that employees are not all using buses, trains, etc at the same time 错开的办公时间（以减低使用交通工具的拥挤现象） * stagger the annual holidays 错开年假.
+
+ > stagger n unsteady staggering movement 蹒跚; 踉跄; 摇晃不稳的动作: He picked up the heavy suitcase and set off with a stagger. 他提起沉重的箱子, 打个趔趄就走了.
+ staggering / 5stAgErIN; `stA^ErIN/ adj astonishing; shocking 令人吃惊的; 惊人的: a staggering achievement 惊人的成就 * I find their decision simply staggering. 我觉得他们的决定简直太惊人了. staggeringly adv: She's staggeringly beautiful.
+ pressing
+press·ing [pressing pressings] adjective, noun BrE [ˈpresɪŋ]  NAmE [ˈpresɪŋ] 
+adjective usually before noun
+1. needing to be dealt with immediately
+Syn: ↑urgent
+• I'm afraid I have some pressing business to attend to.
+• There is a pressing need for more specialist nurses.
+• The government seems to think that international problems are more pressing than domestic ones.
+2. difficult to refuse or to ignore
+• a pressing invitation
+
+futile
+
+ / 5fju:taIl; ?@ -tl; `fjutl/ adj producing no result; useless; pointless 无效的; 无用的; 无意义的: a futile attempt/exercise 无效的尝试[练习] * Their efforts to revive him were futile. 他们对他抢救无效. * What a futile (ie unnecessarily silly) remark! 纯属废话!
+futile
+fu·tile BrE [ˈfjuːtaɪl]  NAmE [ˈfjuːtl]  adjective
+having no purpose because there is no chance of success
+Syn: ↑pointless
+• a futile attempt/exercise/gesture
+• Their efforts to revive him were futile.
+• It would be futile to protest.
+• My appeal proved futile.
+Derived Words: ↑futilely ▪ ↑futility
+ 
+Word Origin:
+mid 16th cent.: from Latin futilis ‘leaky, futile’, apparently from fundere ‘pour’.
+ 
+Example Bank:
+• She could see the utter futility of trying to protest.
+• This demonstrates the futility of resisting temptation.
+ 
+Example Bank:
+• Their attempts were impressive but ultimately futile.
+• an utterly futile struggle for justice
+• It was a futile gesture as the real damage had already been done.
+• It would be futile to protest.
+• She made one last futile effort to unlock the door.
+• She wrapped her arms around her in a futile attempt to keep warm.
+From Longman DOCE 5th Ed. (En-En)
+futile
+fu‧tile /ˈfjuːtaɪl $ -tl/ BrE  AmE  adjective
+[Date: 1500-1600; Language: Latin; Origin: futilis 'that pours out easily, useless']
+actions that are futile are useless because they have no chance of being successful SYN pointless OPP worthwhile
+a futile attempt/effort
+ a futile attempt to save the paintings from the flames
+ My efforts to go back to sleep proved futile.
+it is futile to do something
+ It was futile to continue the negotiations.
+—futility /fjuːˈtɪləti, fjuːˈtɪlɪti/ noun [uncountable]:
+ This sums up Owen’s thoughts on the futility of war.
+• • •
+THESAURUS
+▪ pointless not likely to have a useful result: She knew it would be pointless to argue with him. | The meeting was a pointless exercise.
+▪ futile completely pointless because there is no chance at all of being successful: She shut the door in a futile attempt to keep the smell out. | Their efforts proved futile (=did not have any success).
+▪ useless not useful or effective in any way: I knew it was useless to try to explain to him what had happened. | The map we had been given was useless.
+▪ hopeless having no hope of being successful or effective: It was a hopeless task. | He was jumping up and down in a hopeless attempt to keep warm.
+▪ be a waste of time/money/effort to be not worth the time, money etc that you use because you do not achieve anything: The whole process was a complete waste of time. | The scheme was a waste of money.
+ > futility / fju:5tIlEtI; fju`tIlEtI/ n [U] uselessness; pointlessness 无效; 无用; 无益: the futility of war 战争的无谓.

@@ -735,4 +735,156 @@ knead
  / ni:d; nid/ v 
  [Tn, Tn.pr] press and stretch (bread dough, wet clay, etc) with the hands to form a firm smooth paste 揉, 捏（面团、湿黏土等）: Knead the dough (into a ball) 把面团揉成球形. 
  [Tn] massage (muscles, etc) firmly to relieve tension or pain 按摩, 揉捏（肌肉等）.
->>>>>>> e7d050cf2155b6394a0e8c9a7d04b048cdc24222
+ 
+ haul
+
+ / hR:l; hRl/ v 
+ [I, Ipr, Ip, Tn, Tn.pr, Tn.p] pull or drag (sth) with effort or force 用力拖或拉（某物）: sailors hauling (away) (on the ropes) 拽着（绳索）（不放）的水手 * elephants hauling logs 拖运木材的象 * haul a car out of the mud 把小汽车从烂泥里拽出来 * They hauled the boat up the beach. 他们把船拖上岸. =>Usage at pull2 用法见pull2. 
+ [Tn] transport (sth) by lorry, etc 用卡车等运送（某物）. 
+ (idm 习语) ,haul sb over the `coals (infml 口) reprimand sb severely 严厉斥责某人: I was hauled over the coals for being late. 我因迟到而受到了严厉的训斥. 
+ (phr v) haul sb up (before sb) (infml 口) bring sb to be tried or reprimanded 把某人带上来审问或训斥: He was hauled up before the local magistrates for disorderly conduct. 他因妨害治安被送交地方法官究办.
+
+ > haul n 
+ act of hauling 拖; 拉; 运送. 
+ (usu sing 通常作单数) distance to be travelled 移动的距离: short/medium/long haul aircraft 短程[中程/远程]运输飞机 * Our camp is only a short haul from here. 我们的营地近在咫尺. 
+ (a) quantity of fish caught in a net at one time 一网的捕鱼量: The fishermen had a good haul. 渔民捕得满满一网鱼. (b) (fig 比喻) amount gained by effort 经努力获得的数量: The thief got away with a huge haul. 那个贼偷走了大量财物. 
+ (idm 习语) a long haul => long1.
+ 
+ give way
+▪ I. give ˈway idiom
+to break or fall down
+• The pillars gave way and a section of the roof collapsed.
+• Her numb leg gave way beneath her and she stumbled clumsily.
+Main entry: ↑wayidiom
+ 
+▪ II. give ˈway (to sb/sth) idiom
+1. to stop resisting sb/sth; to agree to do sth that you do not want to do
+• He refused to give way on any of the points.
+2. (BrE) to allow sb/sth to be or go first
+• Give way to traffic already on the roundabout.
+Main entry: ↑wayidiom
+
+condemn
+
+ / kEn5dem; kEn`dZm/ v 
+ [Tn, Tn.pr, Cn.n/a] ~ sb/sth (for/as sth) say that one disapproves of sb/sth 谴责; 责备; 指摘: We all condemn cruelty to children. 我们一致谴责虐待儿童的行为. * The papers were quick to condemn him for his mistake. 报纸及时地指摘他的错误. * She is often condemned as uncaring. 她常因不关心别人而受到责难. 
+ [Tn, Cn.n/a] ~ sth (as sth) say officially that (sth) is faulty or not fit for use 官方宣称（某事物）有缺陷或不宜使用: The meat was condemned as unfit for human consumption. 这种肉已宣布不适宜人们食用. * a condemned building 已公布为不宜使用的建筑物. 
+ (a) [Tn, Tn.pr, Cn.t] ~ sb (to sth/to do sth) (law 律) say what sb's punishment is to be; sentence sb (esp to death) 宣告某人要受的惩罚; 判某人刑（尤指死刑）: condemn sb to death/hard labour 判处某人死刑[劳役] * He was found guilty and condemned to be shot. 他被判有罪, 处以枪决. (b) [Tn] make (sb) appear guilty 使（某人）显示出有罪: His nervous looks condemned him. 他神色紧张, 显出有罪的样子. 
+ [esp passive 尤用于被动语态: Tn.pr, Cn.t] ~ sb to sth/to do sth make sb take or accept sth unwelcome or unpleasant; doom sb 使某人接受不好的某事物; 使某人注定: an unhappy worker, condemned to a job he hates 闷闷不乐的工作者, 无奈何要做他厌恶的工作 * As an old person, one is often condemned to live alone. 老年人常出于无奈而独自生活.
+
+ > condemnation / 9kCndem5neIFn; 9kBndZm`neFEn/ n (a) [U] condemning or being condemned 谴责; 判罪; 注定. (b) [C] instance of this 谴责; 判罪; 注定: many condemnations of her action 对她行为的多方谴责.
+ con,demned `cell cell where a person who has been sentenced to death is kept 死囚牢房.
+ 
+ devise
+de‧vise /dɪˈvaɪz/ BrE  AmE  verb [transitive]
+[Date: 1200-1300; Language: Old French; Origin: deviser, from Latin divisus, past participle of dividere 'to divide']
+to plan or invent a new way of doing something:
+ She devised a method for quicker communications between offices.
+• • •
+COLLOCATIONS
+■ nouns
+▪ devise a method/way Our aim is to devise a way to improve quality and reduce costs.
+▪ devise a means (=think of a way) We must devise a means of transport that does not pollute the atmosphere.
+▪ devise a system How do you devise a system of testing students that is completely fair?
+▪ devise a plan/scheme Together they devised a clever plan to escape.
+▪ devise a strategy The region is keen to devise a strategy to develop tourism.
+▪ devise a solution Representatives met to discuss the crisis and devise solutions.
+▪ devise a programme Your trainer will devise an exercise programme for you to follow.
+▪ devise an experiment/test He devised a series of experiments to test his theory.
+• • •
+THESAURUS
+▪ invent to think of an idea for a new product, machine etc, and design it or make it: The telephone was invented by Alexander Graham Bell. | Who invented the Internet?
+▪ create to make or design something new and original: We decided to create the software ourselves. | For her latest book, she has created a whole new group of characters.
+▪ think of something/think up something to produce a new idea, plan, method, excuse etc by thinking: I’ve thought of an idea. | They’re always trying to think up new ways to improve efficiency.
+▪ come up with something to produce a new idea, a way of dealing with something etc, especially a good one: How did you come up with that idea? | Ellis came up with the solution to the problem immediately.
+▪ make something up to invent a story, song, game, excuse etc: My mother used to make up bedtime stories for us. | I didn’t want to go to the class, so I decided to make up an excuse.
+▪ dream something up to think of an idea or plan, especially one that seems unusual or even crazy: It can’t be easy dreaming up new advertisements all the time. | I wonder who dreamt up that idea!
+▪ devise formal to invent a way of doing something, especially one that is clever or complicated: This system was devised as a way of measuring students’ progress.
+▪ conceive formal to think of a new idea, plan etc and develop it in your mind: The project was originally conceived by a Dutch businessman two years ago.
+
+awash
+awash [awash] BrE [əˈwɒʃ]  NAmE [əˈwɔːʃ]  NAmE [əˈwɑːʃ]  adjective not before noun
+1. ~ (with water) covered with water
+• The river had burst its banks and the road was awash.
+2. ~ with sth having sth in large quantities
+• The city is awash with drugs.
+• The computer market is awash with software for every kind of computer.
+• The village is awash with history, legends and local charm.
+
+envisage
+en‧vis‧age /ɪnˈvɪzɪdʒ/ BrE  AmE  verb [transitive]
+[Date: 1800-1900; Language: French; Origin: envisager, from visage; ⇨ ↑visage]
+to think that something is likely to happen in the future:
+ The scheme cost a lot more than we had originally envisaged.
+envisage doing something
+ I don’t envisage working with him again.
+• • •
+THESAURUS
+▪ imagine to form a picture or idea in your mind about what something might be like: When I think of Honolulu, I imagine long white beaches and palm trees. | I can’t really imagine being a millionaire.
+▪ visualize to form a picture of someone or something in your mind, especially something that is definitely going to happen or exist in the future: Anna visualized meeting Greg again at the airport. | The finished house may be hard to visualize.
+▪ picture to form a clear picture of something or someone in your mind: I can still picture my father, even though he died a long time ago. | The town was just how she had pictured it from his description.
+▪ envisage /ɪnˈvɪzɪdʒ/ especially British English, envision to imagine something as possible or likely to happen in the future: How do you envisage your career developing over the next ten years? | They had envisioned the creation of a single armed force, small but efficient.
+▪ conceive of something formal to imagine a situation, especially one that is difficult to imagine: For many people, music is so important that they cannot conceive of life without it.
+▪ fantasize to imagine something exciting that you would like to happen, but that is very unlikely to happen: I used to fantasize about becoming a film star.
+▪ daydream to imagine pleasant things, so that you forget where you are and what you should be doing: Mark began to daydream, and didn’t even hear the teacher’s question.
+▪ hallucinate to imagine that you are seeing things that are not really there, especially because you are ill or have taken drugs: The drug that can cause some people to hallucinate. | When I saw the walls moving, I thought I must be hallucinating.
+imagine
+think • see • envisage • envision
+These words all mean to form an idea in your mind of what sb/sth might be like.
+imagine • to form an idea in your mind of what sb/sth might be like: ▪ The house was just as she had imagined it.
+think • to imagine sth that might happen or might have happened: ▪ We couldn't think where you'd gone. ◇ ▪ Just think ▪ — this time tomorrow we'll be lying on a beach.
+see • to consider sth as a future possibility; to imagine sb as sth: ▪ I can't see her changing her mind. ◇ ▪ His colleagues see him as a future director.
+envisage • (especially BrE) to imagine what will happen in the future: ▪ I don't envisage working with him again.
+The usual word for this in American English is envision (see below).
+envision • to imagine what a situation will be like in the future, especially a situation that you intend to work towards: ▪ They envision an equal society, free from poverty and disease.
+Envision is used especially in business and political contexts. In North American English it is also used as another form of the word envisage: ▪ I don't envision working with him again.
+to imagine/see/envisage/envision sb/sth as sth
+to imagine/see/envisage/envision (sb) doing sth
+to imagine/think/see/envisage/envision who/what/how…
+to imagine/think/envisage/envision that…
+
+tribute
+
+ / 5trIbju:t; `trIbjut/ n 
+ [C, U] action, statement or gift that is meant to show one's respect or admiration 表示敬意或称赞的行动、言语或礼物: floral tributes, ie gifts of flowers 献礼的花 * Tributes to the dead leader have been received from all around the world. 世界各地的人们向已故领袖表示哀悼. * The mourners stood in silent tribute as the coffin was laid to rest. 灵柩下葬时, 送葬者默立致哀. 
+ [sing] a ~ (to sth) indication of the effectiveness of sth 有效性的标示: His recovery is a tribute to the doctors' skill. 他能够康复充分说明该医师医术高超. 
+ [C, U] (esp formerly) payment made by one country or ruler to another, esp to avoid war （尤指旧时）（一国向他国交纳的）贡品, 贡金, 贡（尤指为避免战争）.
+ 
+ brutalize
+bru‧tal‧ize BrE  AmE  (also brutalise British English) /ˈbruːtəl-aɪz/ verb [transitive usually passive]
+1. to affect someone so badly that they lose their normal human feelings:
+ He was brutalized by his experiences in jail.
+2. to treat someone in a cruel or violent way:
+ Demonstrators claimed they had been brutalized by police officers.
+—brutalization /ˌbruːtl-aɪˈzeɪʃən $ -tl-ə-/ noun [uncountable]
+brutal
+brutal
+
+ / 5bru:tl; `brutl/ adj cruel; savage; merciless 残忍的; 野蛮的; 冷酷无情的: a brutal tyrant, dictator, murderer, etc 残忍的暴君、独裁者、谋杀犯等 * a brutal attack, murder, punishment 野蛮的进攻、谋杀、惩罚.
+
+ > brutality / bru:5tAlEtI; bru`tAlEtI/ n 
+ [U] brutal behaviour; cruelty; savagery 野蛮的行为; 残忍; 野蛮. 
+ [C] brutal act 暴行: the brutalities of war 战争的暴行.
+ brutalize, -ise v [Tn usu passive 通常用于被动语态] make (sb) brutal or insensitive 使（某人）变得残酷无情: soldiers brutalized by a long war 因长期战争而变得残忍的士兵.
+ brutally / 5bru:tElI; `brutlI/ adv.
+ 
+ compound 1
+
+1 / 5kCmpaUnd; `kBmpaJnd/ n 
+ (a) thing made up of two or more separate things combined together 复合物. (b) substance consisting of two or more elements chemically combined 化合物: Common salt is a compound of sodium and chlorine. 食盐是钠和氯的化合物. Cf 参看 element 3, mixture 3. 
+ (grammar) noun, adjective, etc composed of two or more words or parts of words (written as one or more words, or joined by a hyphen) 复合词: `Bus conductor', `dark-haired' and `policeman' are compounds. bus conductor dark-haired policeman都是复合词.
+ > compound adj [attrib 作定语]: an insect's compound eye 昆虫的复眼 * compound nouns, adjectives, etc 复合名词、复合形容词.
+
+ # ,compound `fracture breaking of a bone in which part of the bone comes through the skin 有创骨折.
+ ,compound `interest interest paid on both the original capital and the interest added to it 复利. Cf 参看 simple interest (simple).
+ ,compound `sentence (grammar) sentence containingtwo or more co-ordinate clauses (linked by and, but, etc) 并列复合句.
+compound 2
+
+2 / kEm5paUnd; kEm`paJnd/ v 
+ (a) [Tn] mix (sth) together 将（某物）混合, 搀合: the vat in which the chemicals are compounded 混合化学药品用的大桶. (b) [usu passive 通常用于被动语态: Tn, Tn.pr] ~ sth (of/from sth) make sth by mixing （用混合方法）制造（某物）: a medicine compounded of (ie made of) herbs 用草药混合制成的药 * (fig 比喻) Her character was compounded in equal parts of meanness and generosity. 她的为人慷慨吝啬参半. 
+ [Tn] make (sth bad) worse by causing further harm （因进一步伤害）使（坏事）更坏: Initial planning errors were compounded by carelessness in carrying the plan out. 计划原来就有错误, 再加上执行中的粗心大意就更糟了. 
+ [I, Ipr, Tn] ~ (with sb) (for sth) (commerce 商) reach an agreement (about sth); settle (a debt, etc) （就某事）达成协议; 和解妥协; 了结（债务等）: He compounded with his creditors for a postponement of payment. 他与债权人达成协议延期付款. 
+ [Tn] (law 律) agree not to reveal (a crime), thus seeming not to disapprove of it 同意不揭发（罪行）（似并不反对该行为）; 私了: guilty of compounding a felony 对重罪案件私了罪.
+compound 3
+
+3 / 5kCmpaUnd; `kBmpaJnd/ n (a) area enclosed by buildings, esp in a military camp or a prison camp 有建筑物围绕的场地（尤指军营、监狱中的）. (b) (in India, China, etc) area enclosed by a fence, etc, in which a house or factory stands （在印度、中国等）用围墙等圈起来的场地（内有房屋或工厂）; 院子.

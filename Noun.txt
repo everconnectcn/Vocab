@@ -1198,4 +1198,202 @@ intimate 2
 2 / 5IntImeIt; `IntE9met/ v [Tn, Tf, Tw, Dn.pr, Dpr.f, Dpr.w] ~ sth (to sb) (fml 文) make sth known (to sb), esp discreetly or indirectly 将某事透露（给某人）; （尤指谨慎地或间接地）示意; 暗示: He intimated his wishes with a slight nod of his head. 他微微颔首示意. * She has intimated (to us) that she no longer wishes to be considered for the post. 她已（向我们）透露希望不再考虑让她担任该职. * The judge has not intimated (to the jury) whether they will be allowed to reach a majority verdict. 法官没有指示（陪审团）他们可否达成大多数裁定.
 
  > intimation / 9IntI5meIFn; 9IntE`meFEn/ n (fml 文) (a) [U] intimating 透露; 示意; 暗示. (b) [C] ~ (of sth/that...) something intimated; hint; notification 透露的事; 暗示; 通知: He has given us no intimation of his intentions/what he intends to do. 他没有向我们透露他的意图.
->>>>>>> e7d050cf2155b6394a0e8c9a7d04b048cdc24222
+
+ timber
+
+ / 5tImbE(r); `tImbL/ n 
+ (US lumber) [U] wood prepared for use in building or carpentry （建筑或木工用的）木材, 木料: dressed timber, ie sawn, shaped and planed ready for use 刨好的木材 * [attrib 作定语] a `timber-merchant 木材商 * a `timber-yard, ie where timber is stored, bought and sold, etc 木材场. 
+ [U] trees suitable for this 用材林: standing (ie growing) timber 未伐的树木 * cut down/fell timber 伐木 * put a hundred acres of land under timber, ie plant it with trees 种植一百英亩用材林. 
+ [C] piece of wood, esp a beam, used in constructing a house or ship （造房屋或船用的）木料, （尤指）大梁: roof/floor timbers 房檩[地板龙骨].
+
+ > timber interj (used as a warning that a tree is about to fall after being cut 伐木工在树木将倒时示警的呼喊声).
+ timbered / 5tImbEd; `tImbLd/ adj 
+ (of buildings) built of wooden beams or with a framework of these （指建筑物）木造的, 木结构的. 
+ (of land) planted with trees; wooded （指土地）生长着树木的, 有林木的.
+
+ # `timber-line n [sing] = tree-line (tree).
+
+ hoist
+
+ / hRIst; hRIst/ v 
+ [Tn, Tn.pr, Tn.p] raise (sth) by means of ropes, special apparatus, etc （用绳索、专门器械等）提升（某物）: hoist a flag, the sails 升旗、帆 * hoisting crates aboard ship 将板条箱吊上船 * hoist in the boats, ie raise them from the water up to the deck 将小船从水面吊至甲板上 * The fireman hoisted the boy (up) onto his shoulders. 消防队员把那男孩举到自己的双肩上. 
+ (idm 习语) (be) hoist with one's own petard/ pe5tB:d; pI`tBrd/ (be) caught or injured by what one intended as a trick for others 自食其果; 害人反害己.
+
+ > hoist n 
+ (usu sing 通常作单数) pull or push up; lift 吊起; 举起; 提升: Give me a hoist (up), eg when climbing a wall. 往上推我一下（如爬墙时）. 
+ apparatus for hoisting things 起重器械.
+ 
+ shaft
+
+ / FB:ft; ?@ FAft; FAft/ n 
+ [C] (a) long slender stem of an arrow or a spear 箭杆; 矛杆. (b) [C] (arch 古) arrow; spear 箭; 矛. 
+ [C] ~ (of sth) (fig 比喻) remark intended to wound or stimulate 旨在伤人或刺激人的话: shafts of malice 恶意挖苦人的话 * her brilliant shafts of wit 她的机智犀利的词锋.
+ [C] long handle of an axe or other tool, or eg of a golf-club 长柄（如斧、高尔夫球杆等用具的）. 
+ [C] either of the two bars or poles between which a horse is harnessed to pull a cart, etc 辕; 辕子. 
+ [C] main part of a column, between the base and the capital 柱身. => illus at column 见column插图. 
+ [C] (often in compounds 常用以构成复合词) bar or rod joining parts of a machine or transmitting power in a machine （机器的）连杆, 传动轴, 旋转轴: a `crankshaft * a `drive-shaft.
+ [C] (often in compounds 常用以构成复合词) long narrow (usu vertical) space, eg for a lift to move up and down in, for entry into a mine, or for ventilation 通道（通常指垂直的, 如为电梯、矿井升降机等上下移动的, 或通风用的）: a `lift-shaft 升降机井 * a `mine-shaft 井筒 * sink a shaft 挖竖井. Cf 参看 gallery 6. 
+ the shaft [sing] (US infml 口) unfair treatment; trickery 苛待; 诡计: give sb/get the shaft 亏待某人[受到亏待] * We were given the shaft, and lost a lot of money. 我们上了大当, 损失了很多钱. 
+ [C] ~ (of sth) long thin beam (of light, etc) （光线等的）束: a shaft of light/sunlight/moonlight/lightning 一道光[阳光/月光/闪光].
+
+ > shaft v [Tn] (US infml 口) treat (sb) unfairly or harshly; cheat 苛待（某人）; 欺骗.
+ 
+ contraption
+
+ / kEn5trApFn; kEn`trApFEn/ n (infml 口) apparatus or device, esp a strange or complicated one 器械或装置（尤指新奇或复杂的玩意儿）: a peculiar contraption for removing pips from oranges 可以除去柑橘的子的稀奇玩意儿.
+ contraption
+con‧trap‧tion /kənˈtræpʃən/ BrE  AmE  noun [countable]
+[Date: 1800-1900; Origin: Perhaps from contrivance + trap + invention]
+a piece of equipment or machinery that looks funny, strange, and unlikely to work well:
+ a bizarre contraption
+• • •
+THESAURUS
+▪ machine a piece of equipment with moving parts that uses power such as electricity to do a particular job: a washing machine | an X-ray machine | Staff are trained to operate the machine.
+▪ appliance formal a machine or piece of electrical equipment, usually a large one, that people use in the home: The store sells kitchen appliances such as refrigerators, dishwashers, and toasters. | We carry out repairs on a range of household appliances.
+▪ device a piece of equipment, usually a small electronic one, that does a special job: electronic listening devices | 50,000 people downloaded the music to computers or portable devices such as iPods. | The device is fitted to the car and can detect stationary objects ahead.
+▪ gadget a small, useful, and cleverly-designed tool or machine: high-tech gadgets | He buys all the latest gadgets.
+▪ contraption a machine or piece of equipment that looks strange or complicated: There was a bizarre contraption for polishing the floor.
+
+landmark
+land‧mark /ˈlændmɑːk $ -mɑːrk/ BrE  AmE  noun [countable]
+1. something that is easy to recognize, such as a tall tree or building, and that helps you know where you are:
+ One of Belfast’s most famous landmarks, the Grosvenor Hall, has been demolished.
+2. one of the most important events, changes, or discoveries that influences someone or something:
+ The discovery of penicillin was a landmark in the history of medicine.
+landmark decision/case/ruling
+ The Supreme Court issued a landmark decision in January 2001.
+• • •
+COLLOCATIONS
+■ ADJECTIVES/NOUN + landmark
+▪ a famous/well-known landmark The Eiffel Tower is probably the most famous landmark in Paris.
+▪ a historic landmark Rome is crammed with historic landmarks such as the Colosseum.
+▪ a prominent landmark (=one that is very noticeable) The castle sits on a hill above the town and is a prominent landmark.
+▪ a familiar landmark It was so dark we could not see any familiar landmarks.
+▪ a local landmark This oddly shaped rock is a well-known local landmark.
+▪ a major/significant landmark (=an important one) From Parliament Hill, you can see most of London's major landmarks.
+▪ a London/New York/Paris etc landmark Buckingham Palace is a London Landmark.
+
+guise
+guise [guise guises] BrE [ɡaɪz]  NAmE [ɡaɪz]  noun
+a way in which sb/sth appears, often in a way that is different from usual or that hides the truth about them/it
+• His speech presented racist ideas under the guise of nationalism.
+• The story appears in different guises in different cultures.
+• She had been invited to the conference in her guise as a professional counsellor.
+ (arch 古) style of dress 装束: in the guise of a knight 作骑士装束. 
+ outward manner or appearance, esp put on in order to conceal the truth 态度; 相貌; （尤指）伪装: under the guise (ie pretence) of friendship 以友谊为掩饰 * an ancient tale which appears in various guises in several European languages 以几种欧洲语言叙述的一个古老故事.
+ 
+ percent
+I. per‧cent1 AC BrE  AmE  (also per cent British English) /pəˈsent $ pər-/ adjective, adverb
+[Word Family: noun: precent, ↑percentage; adverb: ↑percent; adjective: ↑percent]
+1. 5 percent (5%)/10 percent (10%) etc equal to five, ten etc parts out of a total of 100 parts:
+ a 10% increase in house prices
+ a company with a 40 percent stake in the project
+2. a/one hundred percent completely:
+ I agree with you a hundred percent.
+II. percent2 S3 W2 AC BrE  AmE  (also per cent British English) noun
+5 percent (5%)/10 percent (10%) etc an amount equal to five, ten etc parts out of a total of 100 parts:
+ The bank charges interest at 14%.
+5 percent (5%)/10 percent (10%) etc of
+ Eighty percent of the population voted.
+► Percent is only used after a number. If you are referring more generally to part of an amount, use percentage: A high percentage (NOT percent) of the population was illiterate.
+
+multicultural
+multi·cul·tural [multicultural] BrE [ˌmʌltiˈkʌltʃərəl]  NAmE [ˌmʌltiˈkʌltʃərəl]  adjective
+for or including people of several different races, religions, languages and traditions
+• We live in a multicultural society.
+• a multicultural approach to education
+ 
+Collocations:
+Race and immigration
+Prejudice and racism
+experience/encounter racism/discrimination/prejudice/anti-semitism
+face/suffer persecution/discrimination
+fear/escape from/flee racial/political/religious persecution
+constitute/be a form of racial/race discrimination
+reflect/reveal/show/have a racial/cultural bias
+be biased/be prejudiced against (especially BrE) black people/(both especially NAmE) people of color/African Americans/Asians/Africans/Indians, etc.
+discriminate against minority groups/minorities
+perpetuate/conform to/fit/defy a common/popular/traditional/negative stereotype
+overcome/be blinded by deep-seated/racial/(especially NAmE) race prejudice
+entrench/perpetuate racist attitudes
+hurl/shout (especially BrE) racist abuse; (especially NAmE) a racist/racial/ethnic slur
+challenge/confront racism/discrimination/prejudice
+combat/fight (against)/tackle blatant/overt/covert/subtle/institutional/systemic racism
+Race and society
+damage/improve (especially BrE) race relations
+practise/ (especially US) practice (racial/religious) tolerance/segregation
+bridge/break down/transcend cultural/racial barriers
+encourage/promote social integration
+outlaw/end discrimination/slavery/segregation
+promote/embrace/celebrate cultural diversity
+conform to/challenge/violate (accepted/established/prevailing/dominant) social/cultural norms
+live in a multicultural society
+attack/criticize multiculturalism
+fight for/struggle for/promote racial equality
+perpetuate/reinforce economic and social inequality
+introduce/be for/be against (BrE) positive discrimination/(especially NAmE) affirmative action
+support/be active in/play a leading role in the civil rights movement
+Immigration
+control/restrict/limit/encourage immigration
+attract/draw a wave of immigrants
+assist/welcome refugees
+house/shelter refugees and asylum seekers
+smuggle illegal immigrants into the UK
+deport/repatriate illegal immigrants/failed asylum seekers
+assimilate/integrate new immigrants
+employ/hire migrant workers
+exploit/rely on (cheap/illegal) immigrant labour/(especially US) labor
+apply for/gain/obtain/be granted/be denied (full) citizenship
+have/hold dual citizenship
+
+Revegetation is the process of replanting and rebuilding the soil of disturbed land. This may be a natural process produced by plant colonization and succession, manmade rewilding projects, 
+decaffeinated
+de‧caf‧fein‧a‧ted /diːˈkæfəneɪtəd, diːˈkæfɪneɪtəd/ BrE  AmE  adjective
+coffee or tea that is decaffeinated does not contain ↑caffeine (=the substance that keeps you awake)\
+
+waterway
+water·way [waterway waterways] BrE [ˈwɔːtəweɪ]  NAmE [ˈwɔːtərweɪ] NAmE [ˈwɑːtərweɪ]  noun
+a river, ↑canal, etc. along which boats can travel
+• inland waterways
+• a navigable waterway
+ 
+Example Bank:
+• The River Severn is the major navigable waterway in the South West of England.
+• The Waterways Board controls over 3 600 km of inland waterways.
+
+insoluble
+in‧sol‧u‧ble /ɪnˈsɒljəbəl, ɪnˈsɒljʊbəl $ ɪnˈsɑːl-/ BrE  AmE  adjective
+[Word Family: noun: ↑solution, ↑solvent, ↑solubility, ↑insolvency; adjective: ↑soluble ≠ ↑insoluble, ↑unsolved, ↑solvent ≠ ↑insolvent, ↑solvable ≠ ↑insolvable; verb: ↑solve; adverb: ↑insolvably]
+1. an insoluble problem is or seems impossible to solve:
+ insoluble conflicts within the department
+2. an insoluble substance does not become a liquid when you put it into a liquid OPP soluble ⇨ dissolve
+insurmountable
+
+ / 9InsE5maUntEbl; 9InsL`maJntEbl/ adj (fml 文) (of obstacles, difficulties, etc) that cannot be overcome （指障碍、困难等）无法超越的, 不能克服的: The problems are not insurmountable. 问题不是无法解决的. Cf 参看 insuperable.
+ 
+ omnipresent
+omni·pres·ent BrE [ˌɒmnɪˈpreznt]  NAmE [ˌɑːmnɪˈpreznt]  adjective (formal)
+present everywhere
+• These days the media are omnipresent.
+Derived Word: ↑omnipresence
+ omnipresent
+
+ / 9CmnI5preznt; 9BmnI`prZznt/ adj (fml 文) present everywhere 无处不在的; 普遍存在的: the omnipresent squalor, dread 普遍存在的污秽、恐惧.
+Word Origin:
+[omnipresence omnipresent] early 17th cent.: from medieval Latin omnipraesent-.
+ 
+Example Bank:
+• She slipped on the omnipresent mud and broke her ankle.
+• They believe that God is omnipresent.
+
+pervasive
+per·va·sive BrE [pəˈveɪsɪv]  NAmE [pərˈveɪsɪv]  adjective
+existing in all parts of a place or thing; spreading gradually to affect all parts of a place or thing
+• a pervasive smell of damp
+• Her influence is all-pervasive (= it affects everyone and everything).
+• A sense of social change is pervasive in her novels.
+Derived Words: ↑pervasively ▪ ↑pervasiveness
+pervasive
+
+ / pE5veIsIv; pL`vesIv/ adj present and perceived everywhere; pervading 无处不在的; 遍布的; 充斥各处的: pervasive smell, dust, damp etc 到处都有的气味、尘埃、湿气等 * the pervasive mood of pessimism 普遍存在的悲观情绪.
+ > pervasively adv. pervasiveness n [U].

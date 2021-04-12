@@ -144,4 +144,20 @@ unilateral
 
  / 9ju:nI5lAtrEl; 9junI`lAtErEl/ adj [usu attrib 通常作定语] done by or affecting one person, group, country, etc and not another; one-sided 单方面做出的; 仅影响一方的; 单方面的; 单边的: unilateral decisions, agreements, declarations, etc 单方面的决定、协议、宣布等 * unilateral (nuclear) disarmament, ie voluntary removalor dismantling by a country of its (nuclear) weapons单方面（核）裁军. Cf 参看 bilateral, multilateral.
  > unilaterally / -rElI; -rElI/ adv.
->>>>>>> e7d050cf2155b6394a0e8c9a7d04b048cdc24222
+
+ subsequent
+sub·se·quent AW BrE [ˈsʌbsɪkwənt]  NAmE [ˈsʌbsɪkwənt]  adjective (formal)
+happening or coming after sth else
+Opp: ↑previous
+• subsequent generations
+• Subsequent events confirmed our doubts.
+• Developments on this issue will be dealt with in a subsequent report.
+ 
+Word Origin:
+[subsequent] late Middle English: from Old French, or from Latin subsequent- ‘following after’ (from the verb subsequi).
+
+per annum
+per an‧num /pər ˈænəm/ BrE  AmE  (written abbreviation p.a.) adverb
+[Date: 1600-1700; Language: Latin; Origin: 'by the year']
+formal for each year:
+ a salary of $40,000 per annum
