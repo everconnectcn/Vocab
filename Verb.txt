@@ -985,4 +985,79 @@ rec‧ti‧fy /ˈrektəfaɪ, ˈrektɪfaɪ/ BrE  AmE  verb (past tense and past p
 formal to correct something that is wrong SYN put right:
  I did my best to rectify the situation, but the damage was already done.
 —rectification /ˌrektəfəˈkeɪʃən, ˌrektɪfəˈkeɪʃən/ noun [uncountable and countable]
->>>>>>> b636d0480d8cd6ecbbb93d0255a1e81abc02e00d
+
+transcend
+
+ / trAn5send; trAn`sZnd/ v (fml 文) 
+ [Tn] be or go beyond the range of (human experience, belief, powers of description, etc) 超出或超越（经验、信念、描写能力等）的范围: Such matters transcend man's knowledge, ie We cannot know about them. 这些问题人类是无法了解的. 
+ [Tn, Tn.pr] ~ sb/sth (in sth) be much better or greater than sb/sth; surpass 优于或胜过某人[某事物]: She far transcends the others in beauty and intelligence. 她才貌出众.
+
+ 
+ transcend
+verb
+COLLOCATIONS FROM OTHER ENTRIES
+cross/transcend a boundary
+▪ These are practical problems that cross political boundaries.
+cross/transcend barriers (=avoid barriers that usually exist)
+▪ Music has the great advantage of crossing cultural barriers.
+COLLOCATIONS FROM CORPUS
+■ NOUN
+boundary
+▪ The functional qualities of a product are very much the same everywhere and transcend most boundaries.
+▪ Many of the partnerships transcended school district boundaries because companies operate regionally, but they all had strong community roots.
+▪ Economic transnational practices Economic transnational practices are economic practices that transcend national boundaries.
+▪ Its significance transcends the boundaries of the United States, for it offers a lesson and example to peoples throughout the world.
+▪ This principle is not the special prerogative of anthropology, and it transcends all the boundaries of traditional academic disciplines.
+limitation
+▪ Here I thought Tan at his best in transcending any hint of limitation in the instrument's expressive range.
+▪ But the insects have, in another way, transcended even the limitation of 
+
+cultured
+cul·tured AW [cultured] BrE [ˈkʌltʃəd]  NAmE [ˈkʌltʃərd]  adjective
+1. (of people) well educated and able to understand and enjoy art, literature, etc.
+Syn: ↑cultivated, Opp: ↑uncultured
+• Mrs Ramsay was a cultured woman who travelled a great deal.
+2. (of cells or bacteria) grown for medical or scientific study
+• cultured cells
+3. (of ↑pearls) grown artificially
+ 
+Example Bank:
+• He spoke with a cultured accent.
+• She was a deeply cultured woman who had travelled a great deal.
+
+consist
+con‧sist W3 AC /kənˈsɪst/ BrE  AmE  verb
+[Date: 1500-1600; Language: Latin; Origin: consistere 'to stand still or firm, exist', from com- ( ⇨ COM-) + sistere 'to stand']
+consist in something phrasal verb [not in progressive] formal
+to be based on or depend on something:
+ Happiness does not consist in how many possessions you own.
+consist of something phrasal verb [not in progressive]
+to be formed from two or more things or people:
+ The buffet consisted of several different Indian dishes.
+consist mainly/largely/primarily of somebody/something
+ The audience consisted mainly of teenagers.
+consist entirely/solely of somebody/something
+ The area does not consist entirely of rich people, despite popular belief.
+► Do not say that something ‘is consisted of’ or ‘consists’ things or people. Say that it consists of things or people.
+• • •
+THESAURUS
+▪ consist of/be made up of to be formed from two or more things or people: Lunch consisted of sandwiches and fruit. | The apartment consisted of three rooms. | The audience was largely made up of families.
+▪ be composed of to consist of something – used especially when saying which natural substances something contains, or what kind of people are in a group: Every chemical element is composed of atoms. | Venus’ atmosphere is mainly composed of carbon dioxide. | The team was composed of leading scientists from around the world.
+▪ comprise /kəmˈpraɪz/ formal to consist of the things mentioned. Comprise can also be used to talk about the people or things which form something: The event comprises a champagne reception, two-course lunch, and a fashion show. | Men still comprise the majority of people who have the disease.
+▪ make up (also constitute formal) to be the things or people that form something: Women constitute a significant part of the workforce. | Toys make up about 10% of the company’s sales.
+
+recreate
+verb
+COLLOCATIONS FROM CORPUS
+■ VERB
+try
+▪ Again and again he tried to recreate that moment.
+▪ They just clean up and try to recreate the buzz rush of drugs through art.
+▪ That chance has faded, but we must try to recreate it.
+▪ In them he tried to recreate the characters of people who had meant much to him.
+EXAMPLES FROM OTHER ENTRIES
+▪ Arjelo's novel vividly recreates 15th-century Spain.
+EXAMPLES FROM CORPUS
+▪ And we can share best practices so that every educator and employer does not have to recreate effective strategies from scratch.
+▪ As I do this, Miles and Evan often chime in, so we work together to recreate the story.
+▪ Fidelity is a dynamic, positive posture that needs renewing and recreating constantly.
