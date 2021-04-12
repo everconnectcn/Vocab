@@ -204,7 +204,6 @@ verb
 • We were able to gauge the strength of the wind from the movement of the trees.
 • It is impossible to gauge the extent of the damage.
 
-<<<<<<< HEAD
 chide
 chide [chide chides chided chid chiding chidden] BrE [tʃaɪd]  NAmE [tʃaɪd]  verb (formal)
 to criticize or blame sb because they have done sth wrong
@@ -736,6 +735,7 @@ knead
  [Tn, Tn.pr] press and stretch (bread dough, wet clay, etc) with the hands to form a firm smooth paste 揉, 捏（面团、湿黏土等）: Knead the dough (into a ball) 把面团揉成球形. 
  [Tn] massage (muscles, etc) firmly to relieve tension or pain 按摩, 揉捏（肌肉等）.
  
+<<<<<<< HEAD
  haul
 
  / hR:l; hRl/ v 
@@ -888,3 +888,101 @@ compound 2
 compound 3
 
 3 / 5kCmpaUnd; `kBmpaJnd/ n (a) area enclosed by buildings, esp in a military camp or a prison camp 有建筑物围绕的场地（尤指军营、监狱中的）. (b) (in India, China, etc) area enclosed by a fence, etc, in which a house or factory stands （在印度、中国等）用围墙等圈起来的场地（内有房屋或工厂）; 院子.
+=======
+ imprison
+
+ / Im5prIzn; Im`prIzn/ v [esp passive 尤用于被动语态: Tn, Tn.pr] ~ sb (in sth) put or keep sb in or as if in prison 监禁某人; 似监禁般束缚某人: Several of the rioters were imprisoned for causing a disturbance. 有几个暴乱者因制造动乱被关押在狱. * conditions in which young mothers feel virtually imprisoned in their own homes 年轻的母亲感到的居家如坐牢一般的处境.
+
+ > imprisonment / -mEnt; -mEnt/ n [U] state of being imprisoned 关押; 监禁; 坐牢: sentenced to one year's, ten years', life, etc imprisonment 被判处一年、十年、终身监禁等.
+From Longman DOCE 5th Ed. (En-En)
+imprison
+im‧pris‧on /ɪmˈprɪzən/ BrE  AmE  verb [transitive]
+[Word Family: noun: ↑prison, ↑prisoner, ↑imprisonment; verb: ↑imprison; adjective: imprisonable]
+1. to put someone in prison or to keep them somewhere and prevent them from leaving:
+ The government imprisoned all opposition leaders.
+ She was imprisoned within his strong arms.
+2. if a situation or feeling imprisons people, it restricts what they can do:
+ Many elderly people feel imprisoned in their own homes.
+
+
+fit
+I. fit1 S1 W2 /fɪt/ BrE  AmE  verb (past tense and past participle fitted also fit American English, present participle fitting)
+1. CLOTHES
+a) [intransitive, transitive not in progressive] if a piece of clothing fits you, it is the right size for your body:
+ His clothes did not fit him very well.
+ The uniform fitted her perfectly.
+ The jacket’s fine, but the trousers don’t fit.
+ I know this dress is going to fit you like a glove (=fit you very well).
+► Use fit to say that clothes are not too big or too small. Use suit to say that clothes look attractive on someone: The dress fits, but it doesn’t suit me.
+b) [transitive usually passive] to try a piece of clothing on someone to see if it is the right size for them, or to make sure a special piece of equipment is right for them
+fit somebody for something
+ I’m being fitted for a new suit tomorrow.
+fit somebody with something
+ He may need to be fitted with a hearing aid.
+2. RIGHT SIZE/SHAPE
+a) [intransitive and transitive] if something fits in a place, it is the right size or shape to go there:
+ I couldn’t find a key which fitted the lock.
+ Most cookers are designed to fit level with your work tops.
+fit in/into/under etc
+ The plastic cover fits neatly over the frame.
+b) [transitive always + adverb/preposition] to put something carefully into a place that is the right size or shape for it:
+ She fitted the last piece into the jigsaw puzzle.
+3. ENOUGH SPACE [intransitive and transitive] if something fits into a place, there is enough space for it:
+ I wanted to put the wardrobe behind the door, but I don’t think it’ll fit.
+ You might be able to fit some small flowering plants between the larger bushes.
+fit somebody/something in/into something
+ I don’t think we’ll be able to fit any more people into the car.
+ We should be able to fit one more in.
+4. EQUIPMENT/PART [transitive] to put a piece of equipment into a place, or a new part onto a machine, so that it is ready to be used
+fit something on/to etc something
+ I need to fit a lock on the door.
+ Anti-theft devices are fitted to all our cars.
+be fitted with something
+ The windows are all fitted with security locks.
+5. MATCH/BE SUITABLE [intransitive and transitive] if something fits another thing, it is similar to it or suitable for it:
+ The punishment should fit the crime.
+ Police said the car fits the description of the stolen vehicle.
+ Scientists often select facts to fit their theories.
+ He didn’t fit the conventional image of a banker.
+fit with
+ The rhythm should fit with the meaning of a poem.
+ 
+ abide
+
+ / E5baId; E`baId/ v (pt, pp abided; in sense 3 用于下述第3义时作 abode / E5bEUd; E`bod/) 
+ [Tn] (esp with can/could, in negative sentences or questions 尤于否定句或疑问句中与can/could连用) tolerate (sb/sth); endure; bear 容忍（某人[某事物]）; 忍受; 忍耐: I can't abide that man. 我对那个人忍无可忍. * How could you abide such conditions? 这种环境你怎么受得了呢? 
+ [Ipr] ~ by sth act in accordance with sth; be faithful to sth 遵守某事物; 忠于某事物: abide by (ie keep) a promise 遵守诺言 * abide by (ie observe) an agreement, verdict, ruling, etc 履行协议、服从裁决、遵从裁定w * You'll have to abide by (ie accept) the referee's decision. 你得遵从裁判的决定. 
+ [Ipr] (arch 古) remain; continue; stay 逗留; 延续; 居留; 停留: abide at a place 住在某地 * abide with sb 和某人同住.
+
+ > abiding adj enduring; permanent 持久的; 永久的: an abiding friendship, hatred, mistrust, etc 永恒的友谊、永世的仇恨、积久的疑忌.
+From Longman DOCE 5th Ed. (En-En)
+abide
+a‧bide /əˈbaɪd/ BrE  AmE  verb
+[Language: Old English; Origin: abidan, from bidan; ⇨ ↑bide]
+1. somebody can’t abide somebody/something used to say that someone dislikes someone or something very much:
+ I can’t abide that man – he’s so self-satisfied.
+2. (past tense abode /əˈbəʊd $ əˈboʊd/) [intransitive always + adverb/preposition] old use to live somewhere
+abide by something phrasal verb
+to accept and obey a decision, rule, agreement etc, even though you may not agree with it:
+ You have to abide by the referee’s decision.
+ 
+ rectify
+
+ / 5rektIfaI; `rZktE9faI/ v (pt, pp -fied) 
+ [Tn] put (sth) right; correct 改正（某事物）; 纠正: rectify an error, omission, etc 修订错处、疏漏处等 * mistakes that cannot be rectified 无法改正的错误. 
+ [Tn esp passive 尤用于被动语态] (chemistry 化) purify or refine, esp by repeated distillation 净化或精炼; （尤指）分馏, 精馏: rectified spirits 精馏酒精. 
+ [Tn] convert (alternating current) to direct current 将（交流电）变成直流电; 整（流）.
+
+ > rectifiable / -faIEbl, also 9rektI5faIEbl; -9faIEbl/ adj that can be rectified 可改正的; 可精馏的; 可整流的: an error that is easily rectifiablei 容易改正的错误.
+ rectification / 9rektIfI5keIFn; 9rZktEfE`keFEn/ n 
+ [U] rectifying or being rectified 改正; 精炼; 整流: the rectification of errors, alcohol 错误的改正、酒精的精馏. 
+ [C] thing that has been rectified; correction 被改正的事物; 经过精炼之物; 矫正.
+ rectifier n device that converts alternating current to direct current 整流器.
+From Longman DOCE 5th Ed. (En-En)
+rectify
+rec‧ti‧fy /ˈrektəfaɪ, ˈrektɪfaɪ/ BrE  AmE  verb (past tense and past participle rectified, present participle rectifying, third person singular rectifies) [transitive]
+[Date: 1300-1400; Language: French; Origin: rectifier, from Medieval Latin rectificare, from Latin rectus 'right, straight']
+formal to correct something that is wrong SYN put right:
+ I did my best to rectify the situation, but the damage was already done.
+—rectification /ˌrektəfəˈkeɪʃən, ˌrektɪfəˈkeɪʃən/ noun [uncountable and countable]
+>>>>>>> b636d0480d8cd6ecbbb93d0255a1e81abc02e00d

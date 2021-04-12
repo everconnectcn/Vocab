@@ -136,7 +136,6 @@ a precaution/safeguard/defence against sth
 as a precaution/safeguard/defence
 an adequate precaution/safeguard/defence
 
-<<<<<<< HEAD
 1. uncountable a mixture of sand, water, ↑lime and ↑cement used in building for holding bricks and stones together
 2. countable a heavy gun that fires bombs and ↑shells high into the air; the bombs that are fired by this gun
 • to come under mortar fire/attack
@@ -447,6 +446,30 @@ open/empty/vacant/waste/derelict land/ground
 a/an empty/vacant lot/plot
 <<<<<<< HEAD
 
+excavate
+
+ / 5ekskEveIt; `ZkskE9vet/ v [Tn] 
+ (fml 文) make (a hole or channel) by digging; remove (soil, etc) by digging 挖掘（洞或水道、河床）; 掘出（土等）: excavate a trench 挖壕沟. 
+ uncover or extract by digging (esp sth from earlier times) 发掘（尤指古物）: excavate a buried city, a Greek vase 发掘出一地下城市、一希腊花瓶.
+
+ > excavation / 9ekskE5veIFn; 9ZkskE`veFEn/ n 
+ [U] activity of excavating 挖掘; 挖土; 发掘: Excavation of the site will begin tomorrow. 明天开始挖掘工作. 
+ [C] excavations [pl] place that is being or has been excavated 挖掘的地方: visit the excavations 参观挖掘现场.
+ excavator n person engaged in or machine used forexcavating 挖掘者; 挖掘机: excavators on an archaeological site 考古场地上的挖掘者 * mechanical excavators 挖掘机.
+ 
+ ex‧ca‧va‧tor /ˈekskəveɪtə $ -ər/ BrE  AmE  noun [countable]
+1. British English a large machine that digs and moves earth and soil SYN steam shovel American English
+2. someone who digs to find things that have been buried under the ground for a long time
+excavate
+ex‧ca‧vate /ˈekskəveɪt/ BrE  AmE  verb [intransitive and transitive]
+[Date: 1500-1600; Language: Latin; Origin: past participle of excavare, from cavus 'hollow']
+1. if a scientist or ↑archaeologist excavates an area of land, they dig carefully to find ancient objects, bones etc:
+ Schliemann excavated the ancient city of Troy.
+2. formal to make a hole in the ground by digging up soil etc
+—excavation /ˌekskəˈveɪʃən/ noun [uncountable and countable]
+=======
+<<<<<<< HEAD
+
 social memes = social habits or patterns which are transmitted between people
  
 In Britain, punctuality is a social meme.
@@ -550,7 +573,6 @@ incense 1
 
 1 / 5Insens; `InsZns/ n [U] (smoke from a) substance that produces a pleasant smell when burnt, used esp in religious ceremonies 香（尤指宗教仪式上用的）; （香冒出的）烟.
 
-<<<<<<< HEAD
 mural
 
  / 5mjUErEl; `mjJrEl/ n (usu large) painting done on a wall （通常指大型的）壁画.
@@ -859,6 +881,7 @@ burrow something into/against etc something
 3. [intransitive always + adverb/preposition] to search for something that is hidden in a container or under other things SYN rummage
 burrow in/into/through etc
  Helen burrowed in her bag for a handkerchief.
+>>>>>>> 829514e2391124ebb6fb9c89837abd3344e8b234
 • • •
 THESAURUS
 ▪ dig to make a hole in the ground using your hands, a tool, or a machine: Some workmen were digging a trench at the side of the road. | In Africa, the people know where to dig for water.
@@ -868,6 +891,47 @@ THESAURUS
 ▪ excavate /ˈekskəveɪt/ formal to dig a large hole in the ground, especially as a preparation for building something: The men began excavating the hole for the pool.
 ▪ bore to make a deep round hole in the ground using a special machine, especially in order to look for oil or water: Companies need a special licence to bore for oil.
 
+<<<<<<< HEAD
+
+tiptoe
+
+ / 5tIptEU; `tIp9to/ n (idm 习语) on `tiptoe on the tips of one's toes; with one's heels not touching the ground 踮着脚: stand on tiptoe to see over the crowd 踮 着脚隔着人群看 * creep around on tiptoe to avoid making a noise 踮着脚走以免弄出声音.
+
+ > tiptoe v [I, Ipr, Ip] walk quietly and carefully on tiptoe 踮着脚悄悄地走: She tiptoed (across) to the bed where the child lay asleep. 孩子睡着了, 她踮着脚走到他床前. =>Usage at prowl 用法见prowl.
+ 
+ sleep
+doze • nap • snooze
+These words all mean to rest with your eyes closed and your mind and body not active.
+sleep • to rest with your eyes shut and your mind and body not active: ▪ Did you sleep well? ◇ ▪ I couldn't sleep last night.
+It is more usual to say that sb is asleep than that they are sleeping; but if you use an adverb to say how they are sleeping, use sleeping: ▪ ‘What's Ashley doing?’ ‘Sh! She's asleep.’ ◇ ▪ The baby was sleeping peacefully. ◇ The baby was asleep peacefully.
+doze • to sleep lightly, waking up easily, often when you are not in bed: ▪ He was dozing in front of the TV.
+nap • to sleep for a short time, especially during the day.
+snooze • (informal) to sleep lightly for a short time, especially during the day and usually not in bed: ▪ My brother was snoozing on the sofa.
+to sleep/doze lightly/fitfully
+to doze/snooze gently
+
+languid
+
+ / 5lANgwId; `lAN^wId/ adj lacking vigour or energy; slow-moving 不活泼的; 无精打采的; 迟缓的: languid movements 懒洋洋的动作 * speak with a languid drawl 慢吞吞拉着长调说话.
+languid
+lan‧guid /ˈlæŋɡwɪd/ BrE  AmE  adjective literary
+[Date: 1500-1600; Language: French; Origin: languide, from Latin languidus, from languere; ⇨ ↑languish]
+1. moving slowly and involving very little energy:
+ He greeted Charles with a languid wave of his hand.
+2. slow and not involving any activity:
+ We spent a languid afternoon by the pool.
+—languidly adverb
+• • •
+THESAURUS
+▪ slow not moving quickly or not doing something quickly: I was always one of the slowest runners in my class. | My computer’s really slow compared to the ones at school.
+▪ gradual happening, developing, or changing slowly over a long period of time: a gradual rise in the Earth’s temperature | I’ve noticed a gradual improvement in his work.
+▪ leisurely especially written moving or doing something slowly, especially because you are enjoying what you are doing and do not have to hurry: a leisurely breakfast | They walked at a leisurely pace.
+▪ unhurried especially written moving or doing something in a slow and calm way, without rushing at all: She continued to listen, seeming relaxed and unhurried. | the doctor’s calm unhurried manner
+▪ sluggish moving or reacting more slowly than usual, especially because of a loss of power or energy. Also used when business, sales, or the economy seem very slow: The car seems rather sluggish going uphill. | The drink was making her sluggish. | the company’s sluggish performance this year | Sales have been sluggish.
+▪ lethargic moving slowly, because you feel as if you have no energy and no interest in doing anything: She woke up feeling heavy and lethargic. | His son seemed depressed and lethargic.
+▪ languid literary slow and with very little energy or activity – used about people, actions, or periods of time: She lifted her hand in a languid wave. | a long languid afternoon in the middle of summer | He was pale and had rather a languid air about him.
+▪ glacial literary extremely slow – used especially about the speed at which something happens: Things are changing, but at a glacial pace.
+=======
 burrow
 
  / 5bQrEU; `bQro/ n hole made in the ground and used as a home or shelter by rabbits, foxes, etc （兔、狐等掘的）地洞.
@@ -1199,6 +1263,7 @@ intimate 2
 
  > intimation / 9IntI5meIFn; 9IntE`meFEn/ n (fml 文) (a) [U] intimating 透露; 示意; 暗示. (b) [C] ~ (of sth/that...) something intimated; hint; notification 透露的事; 暗示; 通知: He has given us no intimation of his intentions/what he intends to do. 他没有向我们透露他的意图.
 
+<<<<<<< HEAD
  timber
 
  / 5tImbE(r); `tImbL/ n 
@@ -1397,3 +1462,79 @@ pervasive
 
  / pE5veIsIv; pL`vesIv/ adj present and perceived everywhere; pervading 无处不在的; 遍布的; 充斥各处的: pervasive smell, dust, damp etc 到处都有的气味、尘埃、湿气等 * the pervasive mood of pessimism 普遍存在的悲观情绪.
  > pervasively adv. pervasiveness n [U].
+=======
+ offence
+
+ (US offense) / E5fens; E`fZns/ n 
+ [C] ~
+ (against sth) breaking of a rule or law; illegal act; crime 犯规; 犯法; 违法行为; 罪行: commit an offence 犯过错 * an offence against society, humanity, the state, etc 违反社会、人性、国家等的罪行 * a capital offence, ie one punishable by death 死罪 * sexual offences 性犯罪 * be charged with a serious offence 被控犯重罪 * Because it was his first offence (ie the first crime of which he'd been found guilty), the punishment wasn't too severe. 他因属初犯而获从轻惩处. 
+ [U] ~ (to sb/sth) (act or cause of) upsetting or annoying (sb); insult 使（某人）不悦, 恼怒（的行为或原因）; 冒犯: I'm sorry; I intended no offence when I said that. 对不起, 我说那事并无恶意. * I'm sure he didn't mean to cause offence (to you). 我肯定他并非有意得罪你. * The anti-British propaganda gave (ie caused) much offence. 反英宣传触犯了众怒. 
+ [C] ~ (to sb/sth) (fml 文) thing that causes displeasure, annoyance or anger 使人不悦、讨厌或生气的事物: The new shopping centre is an offence to the eye, ie unpleasant to look at. 新购物中心很不顺眼. 
+ [U] (fml 文) attack 攻击: weapons of offence rather than defence 攻击型的而不是防御型的武器. 
+ (idm 习语) no of`fence (to sb) (used to explain that one does/did not intend to upset or annoy sb 用以解释自己无意冒犯或触怒某人): I'm moving out no offence to you or the people who live here, but I just don't like the atmosphere. 我要搬出去了--请你或住在这里的人不要见怪, 我只不过是不喜欢这里的空气罢了. take of`fence (at sth) feel hurt, upset or offended (by sth) 觉得受到（某事物的）伤害、烦扰或招惹: She's quick to take offence, ie easily offended. 她动不动就生气.
+
+
+deterrent
+▪ I. de·ter·rent [deterrent deterrents] BrE [dɪˈterənt]  NAmE [dɪˈtɜːrənt]  noun ~ (to sb/sth)
+a thing that makes sb less likely to do sth (= that ↑deters them)
+• Hopefully his punishment will act as a deterrent to others.
+• the country's nuclear deterrents (= nuclear weapons that are intended to stop an enemy from attacking)
+Derived Word: ↑deterrence
+ 
+Word Origin:
+early 19th cent.: from Latin deterrent- ‘deterring’, from the verb deterrere, from de- ‘away from’ + terrere ‘frighten’.
+ 
+Example Bank:
+• Defenders of the death penalty regard it as the ultimate deterrent.
+• The bodies of executed criminals were hung on the city gates as a deterrent.
+• There is no effective deterrent for these young criminals.
+• They stressed the need for an independent nuclear deterrent.
+• They were arguing about the deterrent effect of nuclear weapons.
+• a deterrent against cheating
+• a deterrent to all but the most determined attacker
+• a deterrent to crime
+• a punishment that will act as a deterrent to other offenders
+ 
+▪ II. de·ter·rent adjective
+• a deterrent effect
+Main entry: ↑deterrentderived
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+deterrent
+
+ / dI5terEnt; ?@ -5t\:-; dI`t[rEnt/ n, adj (thing) that deters or is meant to deter 起制止作用的（事物）; 遏止的（因素）; 威慑的（力量）: His punishment will be a deterrent to others. 惩罚他以儆效尤. * deterrent weapons, measures 具威慑性的武器、遏制性的手段. 
+
+ > deterrence / dI5terEns; ?@ -5t\:-; dI`t[rEns/ n [U] action of deterring 阻止; 遏止; 威慑: nuclear deterrence, ie (a policy of) having nuclear weapons in order to make an enemy too frightened to attack 核威慑.
+ 
+ detergent
+de·ter·gent [detergent detergents] BrE [dɪˈtɜːdʒənt]  NAmE [dɪˈtɜːrdʒənt]  noun uncountable, countable
+a liquid or powder that helps remove dirt, for example from clothes or dishes
+ 
+Word Origin:
+early 17th cent. (as an adjective): from Latin detergent- ‘wiping away’, from the verb detergere, from de- ‘away from’ + tergere ‘to wipe’.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+detergent
+
+ / dI5t\:dVEnt; dI`t[dVEnt/ n [U, C], adj (substance) that removes dirt, eg from the surface of clothes or dishes 洗涤剂; 去污剂; 洗涤的; 去污的: Most synthetic detergents are in the form of powder or liquid. 大多数合成洗涤剂呈粉状或液态.
+ 
+ exposé
+ex·posé [exposé exposés] BrE [ekˈspəʊzeɪ]  NAmE [ˌekspoʊˈzeɪ]  noun
+an account of the facts of a situation, especially when these are shocking or have deliberately been kept secret
+• a damning exposé of police corruption
+ 
+Word Origin:
+late Middle English: from Old French exposer, from Latin exponere ‘put out’ (from ex- ‘out’ + ponere ‘put’), but influenced by Latin expositus ‘put or set out’ and Old French poser ‘to place’.
+From Longman DOCE 5th Ed. (En-En)
+exposé
+ex‧po‧sé /ekˈspəʊzeɪ $ ˌekspəˈzeɪ/ BrE  AmE  noun [countable]
+[Date: 1800-1900; Language: French; Origin: past participle of exposer; ⇨ ↑expose]
+a story in a newspaper or on television that shows the truth about something, especially something dishonest or shocking
+exposé of
+ an exposé of corrupt practices by lawyers
+ 
+Louvre
+Louvre, the /ˈluːvrə, luːv/ BrE  AmE 
+the most famous French ↑museum, which is in Paris and has many important paintings, including the ↑Mona Lisa, and ↑statues, including Nike or the Winged Victory
+
+-umble 1不清楚地说话 2笨拙-ump 笨重 凸起-oom 隆隆声-op 向下随便举几个栗子给大家sl-滑： slip 滑   slide 滑梯   slick 光滑的   slippery 滑的   sleek 圆滑的   slope 滑坡   slippy 光滑的   slider 滑行者   sliding 滑行的   slidable 滑动的   slicken 光滑的   slickly 滑地   sleeky 光滑的   sleekit 光滑的   sleekly 光滑地   slickness 滑溜瘦： slender 苗条的   slim 苗条的   slenderly 苗条地   slimly 苗条地gl-光： glare 炫光   gleam 闪光   glory 光荣   gloss 光彩   glorious 光荣的   glossy光泽的   gleamy 发光的   glary 光辉的   gloriole 光轮   glow 发光发热tw-扭： twist 扭曲   twine 扭绕   twiddle 捻（使扭到一起）   tweak 扭   twisty 扭曲的二： two 二   twice 二次   twin 二胞胎的   twa 二个   twain 二个   twifold 二倍的gru-咕哝 抱怨： grumble 抱怨   grunt 咕哝   grump 抱怨发牢骚   grudge 嫉妒   gruff 粗哑的   grumbling 抱怨的   grunter 咕哝者   grutch 抱怨   gruntle 咕哝cl-紧密结合： clamp 钳子 夹紧   clasp 扣子 扣紧   clench 握紧   cling 黏着 抱紧   clip 夹子 夹紧   close 紧密的-umble不清楚地说话： grumble 嘟囔   stumble 结巴   mumble 含糊地说   rumble 隆隆作响笨拙： fumble 笨拙地做   bumble 弄糟 犯错   jumble 弄乱   stumble 犯错   tumble 弄乱-ump笨重： clump 笨重的脚步声   stump 笨重地行走   thump 笨重的击打   chump 笨蛋   gump 笨蛋   whump 笨重的撞击凸起： bump 凸起物   hump 驼峰 凸起物   lump 瘤 肿块   plump 凸起的   rump 臀部   tump 凸起的小丘-oom隆隆声&嗡嗡声：boom 隆隆声   zoom 嗡嗡声   voom 轰隆声   vroom 隆隆声   varoom 隆隆声-op向下： drop 落下   flop 啪嗒摔下   plop 扑通落下   slop 溅下   chop 砍下   lop 下垂
+
+>>>>>>> b636d0480d8cd6ecbbb93d0255a1e81abc02e00d
