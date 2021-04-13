@@ -1062,6 +1062,20 @@ EXAMPLES FROM CORPUS
 ▪ As I do this, Miles and Evan often chime in, so we work together to recreate the story.
 ▪ Fidelity is a dynamic, positive posture that needs renewing and recreating constantly.
 
+<<<<<<< HEAD
+feign
+verb
+COLLOCATIONS FROM OTHER ENTRIES
+feign interest (=pretend to be interested)
+▪ Ted scanned the report, feigning interest.
+EXAMPLES FROM OTHER ENTRIES
+▪ Bernstein returned to his desk, feigning unconcern.
+EXAMPLES FROM CORPUS
+▪ At decision-making time these consequences are simply left unmentioned, allowing organizational leaders to feign surprise when qualitative costs finally assert themselves.
+▪ I know I should be kind and concerned and that I should at least feign pathos.
+▪ I saw that her reluctance to be taken had been feigned, or part-feigned.
+▪ The silence I feigned does not mean you are not in my thoughts.
+=======
 slop
 
  / slCp; slBp/ v (-pp-) 
