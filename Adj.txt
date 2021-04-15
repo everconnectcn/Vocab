@@ -6,7 +6,7 @@ efficacious
  efficacy / 5efIkEsI; `ZfEkEsI/ n [U] state or quality of being efficacious 有效性; 效能; 功效: test the efficacy of a new drug 测试新药的效能.
  
  
- repulsive
+repulsive
 re‧pul‧sive /rɪˈpʌlsɪv/ BrE  AmE  adjective
 1. extremely unpleasant, in a way that almost makes you feel sick SYN revolting, disgusting:
  Many people find slugs repulsive.
@@ -65,9 +65,7 @@ Example Bank:
 • a prolific author/writer/composer
 • a prolific scorer/striker
 
-<<<<<<< HEAD
 predatory economic practices, 
-
 
 prudent
 pru·dent BrE [ˈpruːdnt]  NAmE [ˈpruːdnt]  adjective (formal)
@@ -104,11 +102,9 @@ Example Bank:
 • What do you think is the most prudent course of action?
 From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 prudent
-
  / 5pru:dnt; `prudnt/ adj acting with or showing care and foresight; showing good judgement 审慎的; 有先见之明的; 判断力强的: prudent housekeeping 精明的治家 * a prudent saver of money 很会精打细算的储蓄者 * It would be prudent to save some of the money. 存点钱是有远见的. * That was a prudent decision. 那是一个审慎的决定.
-
  > prudence / -dns; -dns/ n [U] (fml 文) (quality of) being prudent; forethought or wisdom 审慎; 远见; 智慧: One can rely on the prudence of his decisions. 可以相信他所作的决定, 都是非常英明的.
-=======
+
 adequate
 ad·equate AW BrE [ˈædɪkwət]  NAmE [ˈædɪkwət]  adjective
 enough in quantity, or good enough in quality, for a particular purpose or need
@@ -120,10 +116,8 @@ enough in quantity, or good enough in quality, for a particular purpose or need
 • ~ to do sth training that is adequate to meet the future needs of industry
 Opp: ↑inadequate
 Derived Words: ↑adequacy ▪ ↑adequately
- 
 Word Origin:
 early 17th cent.: from Latin adaequatus ‘made equal to’, past participle of the verb adaequare, from ad- ‘to’ + aequus ‘equal’.
- 
 Thesaurus:
 adequate [adequacy adequate adequately] adj.
 • The room was small but adequate.
@@ -134,7 +128,7 @@ a/an adequate/acceptable/satisfactory/reasonable/decent/respectable level/degree
 a/an adequate/acceptable/satisfactory/reasonable/decent/respectable/solid/sound performance
 The level/standard/performance is all right/not bad/OK.
 
-dam·aging [damaging] BrE [ˈdæmɪdʒɪŋ]  NAmE [ˈdæmɪdʒɪŋ]  adjective
+damaging [damaging] BrE [ˈdæmɪdʒɪŋ]  NAmE [ˈdæmɪdʒɪŋ]  adjective
 causing damage; having a bad effect on sb/sth
 • damaging consequences/effects
 • ~ to sb/sth Lead is potentially damaging to children's health.
@@ -161,7 +155,6 @@ dwindle to
  The stream has dwindled to a trickle.
 —dwindling adjective:
  dwindling resources
-• • •
 THESAURUS
 ▪ decrease to become less in number or amount: The average rainfall has decreased by around 30 percent.
 ▪ go down to decrease. Go down is less formal than decrease and is the usual word to use in conversation: Unemployment has gone down in the past few months.
@@ -173,14 +166,12 @@ THESAURUS
 ▪ dwindle /ˈdwɪndl/ to gradually decrease until there is very little left of something, especially numbers or amounts, popularity, or importance: Support for the theory is dwindling.
 ▪ taper off /ˈteɪpə $ -ər/ if a number or the amount of an activity that is happening tapers off, it gradually decreases, especially so that it stops completely: Political violence tapered off after the elections.
  
- 
- catastrophic
+catastrophic
 cata·stroph·ic BrE [ˌkætəˈstrɒfɪk] ; NAmE [ˌkætəˈstrɑːfɪk] 
 Syn: ↑disastrous adjective
 • catastrophic effects/losses/results
 • (US) a catastrophic illness (= one that costs a very large amount to treat)
 Main entry: ↑catastrophederived
-
 catastrophe
 
 exacerbated
@@ -192,10 +183,8 @@ Syn: ↑commendable
 • Her dedication to her work was admirable.
 • He made his points with admirable clarity.
 Derived Word: ↑admirably
- 
 Word Origin:
 [admirable admirably] late Middle English: via Old French from Latin admirabilis to be wondered at, from admirari, from ad- ‘at’ + mirari ‘wonder’.
- 
 Example Bank:
 • He made his point with admirable clarity.
 • Her dedication to her work is admirable.
@@ -207,10 +196,8 @@ deserving praise and approval
 • commendable honesty
 • She showed commendable loyalty to the family firm.
 Derived Word: ↑commendably
- 
 Word Origin:
 [commendable commendably] late Middle English: via Old French from Latin commendabilis, from commendare, from com- (expressing intensive force) + mandare ‘commit, entrust’.
- 
 Example Bank:
 • He wasn't always successful, but he made a commendable effort.
 • The boy showed a commendable desire to defend his mother.
@@ -220,7 +207,6 @@ mythological
 mytho·logic·al [mythological] BrE [ˌmɪθəˈlɒdʒɪkl]  NAmE [ˌmɪθəˈlɑːdʒɪkl]  adjective usually before noun
 connected with ancient ↑myths
 • mythological subjects/figures/stories
- 
 Example Bank:
 • historical and mythological subjects
 mythology
@@ -238,8 +224,6 @@ ground‧ed /ˈɡraʊndəd, ˈɡraʊndɪd/ BrE  AmE  adjective
 2. someone who is grounded understands their own character and knows what is really important:
  Simmons says that her family keeps her grounded.
 3. someone, especially a child, who is grounded is kept indoors as a punishment
-<<<<<<< HEAD
->>>>>>> 1eaa08e893358596a85be05c55830ec7c7bdab29
 
 nocturnal
 noc·tur·nal BrE [nɒkˈtɜːnl]  NAmE [nɑːkˈtɜːrnl]  adjective
@@ -247,10 +231,8 @@ noc·tur·nal BrE [nɒkˈtɜːnl]  NAmE [nɑːkˈtɜːrnl]  adjective
 Opp: ↑diurnal
 2. (formal) happening during the night
 • a nocturnal visit
- 
 Word Origin:
 [nocturnal] late 15th cent.: from late Latin nocturnalis, from Latin nocturnus ‘of the night’, from nox, noct- ‘night’.
- 
 Example Bank:
 • These animals are strictly nocturnal.
 • These insects are largely nocturnal.
@@ -291,7 +273,6 @@ THESAURUS
 
 
 deceit
-
  / dI5si:t; dI`sit/ n 
  [U] deliberately leading sb to believe or accept sth that is false, usu so as to get sth for oneself; deceiving 欺骗; 欺诈: practice deceit on sb 对某人进行欺骗 * She won her promotion by deceit. 她用欺骗手段得以晋升. 
  [C] dishonest act or statement 不诚实的行为或言语: She got them to hand over all their money by a wicked deceit. 她用卑鄙的手段使他们把所有的钱移交给她.
@@ -301,7 +282,6 @@ deceit
  intended to mislead 有意误导的: deceitful words, behaviour 使人 受骗的话、行为. deceitfully / -fUlI; -fElI/ adv. deceitfulness n [U].
 
 drowsy
-
  / 5draUzI; `draJzI/ adj (-ier, -iest) 
  half asleep; feeling sleepy 半醒半睡的; 昏昏欲睡的; 困: I'd just woken up and was still drowsy. 我刚醒, 还觉得困. * This drug can make you drowsy. 这种药会使你昏昏欲睡. 
  making one feel sleepy 使人发困的; 使人昏昏欲睡的: drowsy summer weather 使人困倦的夏季天气. 
@@ -316,7 +296,6 @@ drow‧sy /ˈdraʊzi/ BrE  AmE  adjective
  a drowsy summer afternoon
 —drowsily adverb
 —drowsiness noun [uncountable]
-• • •
 THESAURUS
 ■ almost asleep
 ▪ sleepy wanting to sleep very soon, so that your eyes start to close: I’m feeling quite sleepy. I think I’ll go to bed. | She rubbed her sleepy eyes.
@@ -334,11 +313,10 @@ Opp: ↑adequate
 Syn: ↑incompetent
 • I felt totally inadequate as a parent.
 Derived Word: ↑inadequately
- 
 Thesaurus:
 inadequate [inadequate inadequately] adj.
 • The food supplies were quite inadequate for 1 000 people.
-lacking • • scant • • paltry • |BrE meagre • |AmE meager • |formal insufficient • • deficient •
+lacking • • scant • • paltry • |BrE meagre • |AmE meager • |formal insufficient •  deficient •
 Opp: adequate
 inadequate/insufficient for sth
 inadequate/insufficient to do sth
@@ -346,7 +324,6 @@ a/an inadequate/meagre/paltry/insufficient amount/level/number
 Inadequate or insufficient? Insufficient emphasizes the quantity or strength of sth; inadequate often emphasizes the quality as well as the quantity
 • insufficient money/attention
 • inadequate understanding/training
- 
 Example Bank:
 • His wages were pitifully inadequate for the needs of his growing family.
 • I felt dreadfully inadequate.
@@ -416,7 +393,6 @@ a lively/busy/bustling/vibrant/crowded city
 a lively/busy/bustling/crowded place/town/resort/port/harbour/market/bar
 a lively/busy/crowded pub
 
-
 frightened [frightened] adj.
 • I'm frightened— please stay with me.
 afraid • • scared • • terrified • • petrified • • paranoid • • alarmed • • worried • • nervous • • anxious • • startled • • intimidated • |formal fearful •
@@ -427,7 +403,6 @@ Frightened, afraid or scared? Scared is more informal, more common in speech, an
 • a frightened child
 • a scared expression
  ✗ an afraid child/expression
- 
 Synonyms:
 afraid
 frightened • scared • terrified • alarmed • paranoid
@@ -445,7 +420,6 @@ frightened/scared/paranoid about …
 afraid/frightened/scared/terrified that …
 afraid/frightened/scared to open the door, etc.
 Don't be afraid/frightened/scared/alarmed.
-
 
 painful
 sore • raw • inflamed • excruciating • burning • itchy
@@ -468,10 +442,8 @@ a painful, often red, place on your body where there is a wound or an infection
 Syn: ↑wound
 • open sores
 see also ↑bedsore, ↑canker sore, ↑cold sore
- 
 Word Origin:
 Old English sār (noun and adjective), sāre (adverb), of Germanic origin; related to Dutch zeer ‘sore’ and German sehr ‘very’.
- 
 Example Bank:
 • I have a recurrent cold sore on my lip.
 • The border dispute was a running sore in relations between the countries.
@@ -481,12 +453,9 @@ Example Bank:
 • The illness left them with open sores all over their backs.
 • The patient should be helped to change position every two hours, to stop pressure sores developing.
 
-
-
 high
 high [high highs higher highest] adjective, noun, adverb BrE [haɪ]  NAmE [haɪ] 
 adjective (high·er, high·est) 
- 
 FROM BOTTOM TO TOP
 1. measuring a long distance from the bottom to the top
 • What's the highest mountain in the US?
@@ -498,7 +467,6 @@ Which Word?:
 high / tall
 High is used to talk about the measurement from the bottom to the top of something: ▪ The fence is over five metres high. ◇ ▪ He has climbed some of the world’s highest mountains. You also use high to describe the distance of something from the ground: ▪ How high was the plane when the engine failed?
 Tall is used instead of high to talk about people: ▪ My brother’s much taller than me. Tall is also used for things that are high and narrow such as trees: ▪ She ordered cold beer in a tall glass. ◇ ▪ tall factory chimneys. Buildings can be high or tall.
-
 
 Synonyms:
 rude
@@ -523,7 +491,6 @@ seeming to be everywhere – sometimes used humorously:
  a French film, starring the ubiquitous Gérard Depardieu
 —ubiquitously adverb
 —ubiquity noun [uncountable]
-• • •
 THESAURUS
 ▪ common if something is common, there are a lot of them: Jones is a very common name in Great Britain. | Foxes are common in the area. | Personal computers are nearly as common in American homes as televisions.
 ▪ widespread happening in a lot of places or done by a lot of people: Racism is much more widespread than people imagine. | The report claimed that the problem of police brutality was widespread. | the widespread availability of antibiotics
@@ -533,7 +500,6 @@ THESAURUS
 ▪ ubiquitous /juːˈbɪkwətəs, juːˈbɪkwɪtəs/ formal very common and seen in many different places – often used humorously in written descriptions: He was carrying the ubiquitous MP3 player. | In Britain, CCTV cameras are ubiquitous.
 ▪ something is everywhere especially spoken used when saying that you can see something a lot in many different places: Images of the dictator were everywhere. | Microchips seem to be everywhere these days – even in washing machines. | One of the first things you notice in Amsterdam are the bicycles – they’re everywhere.
 
-<<<<<<< HEAD
 authoritative
 au·thori·ta·tive AW [authoritative authoritatively] BrE [ɔːˈθɒrətətɪv]  NAmE [əˈθɔːrəteɪtɪv]  NAmE [əˈθɑːrəteɪtɪv]  adjective
 1. showing that you expect people to obey and respect you
@@ -541,7 +507,6 @@ au·thori·ta·tive AW [authoritative authoritatively] BrE [ɔːˈθɒrətətɪv
 2. that you can trust and respect as true and correct
 • the most authoritative book on the subject
 Derived Word: ↑authoritatively
- 
 Example Bank:
 • A very authoritative voice shouted, ‘Get back inside.’
 • He is credited with writing the most authoritative and up-to-date book on the subject.
@@ -549,19 +514,15 @@ Example Bank:
 • She began to resent his authoritative manner.
 
 permissive
-
  / pE5mIsIv; pL`mIsIv/ adj [usu attrib 通常作定语] (often derog 常作贬义) (a) allowing great freedomof behaviour, esp to children or in sexual matters 纵容的, 放任的（尤指对儿童或性关系）: a permissive upbringing 放任的教养 * permissive parents 纵容子女的父母. (b) showing this freedom 显示纵容或放任的（尤指对儿童或性关系）: permissive attitudes, behaviour 放任的态度、行为 * the permissive society, ie the one resulting from social changes that began in the 1960s, with eg greater freedom of sexual behaviour, lessening of censorship, etc 放任的社会（60年代社会变化的产物, 如性解放、放宽审查尺度等）.
-
  permissive
 per·mis·sive BrE [pəˈmɪsɪv]  NAmE [pərˈmɪsɪv]  adjective
 allowing or showing a freedom of behaviour that many people do not approve of, especially in sexual matters
 • permissive attitudes
 • permissive parents (= who allow their children a lot of freedom)
 Derived Word: ↑permissiveness
- 
 Word Origin:
 [permissive permissiveness] late 15th cent. (in the sense ‘tolerated, allowed’): from Old French, or from medieval Latin permissivus, from permiss- ‘allowed’, from the verb permittere, from per- ‘through’ + mittere ‘send, let go’.
- 
 Example Bank:
 • a highly permissive attitude
 • a society that is sexually permissive
@@ -581,11 +542,9 @@ punishment that involves hitting someone, especially in schools and prisons ⇨ 
  Corporal punishment was abolished in Britain in 1986.
  
  frivolous
-
  / 5frIvElEs; `frIvElEs/ adj 
  (of people, their character, etc) not sensible or serious; foolish and light-hearted （指人、性格等）不明事理的, 不严肃的, 漫不经心的, 轻率的, 肤浅的: At 18, he's still rather frivolous and needs to grow up. 他到了18岁仍然很不懂事、很不成熟. * frivolous comments, objections, criticisms, etc 肤浅的评论、轻率的反对、不严肃的批评等. 
  (of activities) silly or wasteful （指活动）无聊的; 浪费的: She thought that reading romantic novels was a frivolous way of spending her time. 她认为看浪漫小说是虚度时光.
-
  > frivolity / frI5vClEtI; frI`vBlEtI/ n 
  [U] frivolous behaviour 轻浮的举止: Iyouthful frivolity 年轻人的心浮气躁. 
  [C usu pl 通常作复数] frivolous activity or comment 无聊的活动或议论: I can't waste time on such frivolities. 我不能在这种无聊的事情上浪费时间.
@@ -598,7 +557,6 @@ frivo·lous BrE [ˈfrɪvələs]  NAmE [ˈfrɪvələs]  adjective (disapproving)
 2. having no useful or serious purpose
 • frivolous pastimes/pleasures
 Derived Word: ↑frivolously
- 
 Word Origin:
 [frivolous frivolously] late Middle English: from Latin frivolus ‘silly, trifling’ + ↑-ous.
  
@@ -632,10 +590,8 @@ com·pos·ition [composition compositions] BrE [ˌkɒmpəˈzɪʃn]  NAmE [ˌkɑ�
 • to study composition
 5. countable a short text that is written as a school exercise; a short essay
 6. uncountable (art) the arrangement of people or objects in a painting or photograph
- 
 Word Origin:
 late Middle English: via Old French from Latin compositio(n-), from componere ‘put together’.
- 
 Synonyms:
 structure
 framework • form • composition • construction • fabric
@@ -657,43 +613,26 @@ motor
 • Both motor and sensory functions are affected.
 
 quaint
-
  / kweInt; kwent/ adj attractively odd or old-fashioned 离奇有趣的; 古色古香的: quaint old customs 稀奇古怪的旧风俗 * quaint little cottages on the village green 在村中草地上的古朴的小房子.
  > quaintly adv. quaintness n [U].
- quaint
+quaint
 quaint [quaint quainter quaintest] BrE [kweɪnt]  NAmE [kweɪnt]  adjective
 attractive in an unusual or old-fashioned way
 • quaint old customs
 • a quaint seaside village
 Derived Words: ↑quaintly ▪ ↑quaintness
- 
 Word Origin:
 Middle English: from Old French cointe, from Latin cognitus ‘ascertained’, past participle of cognoscere. The original sense was ‘wise, clever’, also ‘ingenious, cunningly devised’, hence ‘out of the ordinary’ and the current sense (late 18th cent.).
- 
 Example Bank:
 • The village looks rather quaint.
 • a quaint little town well worth a visit
 • Why not stay a night in this quaint seaside village?
 
 scenic
-
  / 5si:nIk; `sinIk/ adj [usu attrib 通常作定语] 
  having or showing beautiful natural scenery 风景优美的: the scenic splendours of the Rocky Mountains 落基山脉的壮丽景色 * a scenic route across the Alps 穿越阿尔卑斯山的风景优美的路径 * a scenic railway 游览小铁路. 
  
- nought
-
- / nR:t; nRt/ n 
- the figure 0 零; 0: write three noughts on the blackboard 在黑板上写三个0 * nought point one (0.1) 零点一（0.1）. =>App 4 见附录4. 
- (also naught) (arch 古) nothing 无; 无物: His crime has gained him naught. 他既犯了罪又一无所获.
-
- # ,noughts and `crosses (US ,tick-tack-`toe) game played by writing 0s and Xs on a grid of nine squares, attempting to complete a row of three 0s or three Xs 圈叉游戏（在井字形九格中各画0或X, 先将三个连成一行者胜）.
-
- NOTE ON USAGE 用法: The figure 0 has several different names in British English. 在英式英语中
- 这一数字有几个名称. 1 In speaking about temperature and in the language of science zero is used 说到温度时以及在科学术语中用zero: The temperature rarely falls below zero here. 这里的温度很少降到0度以下. 
- Nought is commonly used when referring to the figure 0 as part of a number *nought一般用作数字中的0: A million is 1 followed by six noughts (1000000). 一百万是1后面有六个0（1000000）. 3 When reading a telephone or bank account number (ie when the number does not represent a quantity) we say the letter `O' / EU; o/ 读电话号码或银行帐号（即该数字不表示量）时, 将0读作字母O的名称: The account number is 0-two-0-four-three-eight-one(0204381). 该帐号是/ EU-tu: -EU-fR: -Wri:-eIt-wQn; o-tu-o-fRr-Wri-et-wQn/ (0204381). * Their phone number is four-seven-double 0-five (47005). 他们的电话号码是/ fR:-`sevn-`dQbl EU-faIv; fRr-`sZvn-`dQblo-faIv/ (47005). 4 In reporting the score in a team game we use nil or nothing 说分队比赛项目的比分时, 用nil或nothing表示0: The final score was three nil/nothing (3-0). 最后比分是三比零（3-0）. * Wales won 28-nil. 威尔士队以28比0获胜. In US English zero is commonly used in all these cases. 在上述情况下, 美式英语一概用zero表示0.
- 
  sumptuous
-
  / 5sQmptFUEs; `sQmptFJEs/ adj looking expensive and splendid 华贵的; 豪华的; 奢华的: a sumptuous feast 盛宴 * sumptuous clothes 华贵的服装.
  sumptuous
 sump‧tu‧ous /ˈsʌmptʃuəs/ BrE  AmE  adjective
@@ -706,7 +645,6 @@ very impressive and expensive:
  > sumptuously adv. sumptuousness n [U].
  
  breathtaking
-
  / 5breWteIkIN; `brZW9tekIN/ adj very exciting; spectacular 非常激动人心的; 壮观的: a breathtaking view, mountain-range, waterfall 壮丽的景色、山脉、瀑布 * Her beauty was breathtaking. 她艳丽动人.
  > breathtakingly adv.
  
@@ -721,17 +659,14 @@ be captivated by somebody/something
  He was captivated by her beauty.
  
  turquoise
-
  / 5t\:kwRIz; `t[kwRIz/ n 
  [C, U] type of greenish-blue precious stone 绿松石: [attrib 作定语] a turquoise brooch 绿松石的胸针. 
  [U] greenish-blue colour 青绿色: pale turquoise 浅淡的青绿色.
-
  # turquoise adj of this colour 青绿色的: a turquoise dress 青绿色的连衣裙.
   I. tur·quoise [turquoise turquoises] BrE [ˈtɜːkwɔɪz]  NAmE [ˈtɜːrkwɔɪz] noun
 1. countable, uncountable a blue or greenish-blue semi-precious stone
 • a turquoise brooch
 2. uncountable a greenish-blue colour
- 
 Word Origin:
 late Middle English: from Old French turqueise ‘Turkish (stone)’.
 
@@ -745,7 +680,6 @@ consecutive numbers or periods of time follow one after the other without any in
  Number the pages consecutively.
  
  arid
-
  / 5ArId; `ArId/ adj 
  (of land or climate) having little or no rainfall; dry （指土壤或气候）干旱的, 干燥的: the arid deserts of Africa 非洲的干旱沙漠 * Nothing grows in these arid conditions. 在这些干旱环境中, 寸草不生. 
  dull; uninteresting 枯燥的; 无趣味的: have long, arid discussions about unimportant matters 对鸡毛蒜皮的事进行的冗长而枯燥的讨论.
@@ -762,16 +696,12 @@ Derived Word: ↑aridity
 
 
 genetic
-
  / dVI5netIk; dVE`nZtIk/ adj of genes; of genetics 基因的; 遗传学的: genetic information, material, etc 遗传信息、物质等.
-
  > genetically / -klI; -klI/ adv: genetically determined, linked, etc 由基因决定的、与遗传有关的.
  geneticist / dVI5netIsIst; dVE`nZtEsIst/ n specialist in genetics 遗传学家.
  genetics / dVI5netIks; dVE`nZtIks/ n [sing v] scientific study of the ways in which characteristics are passed from parents (or, in plants, from parent stock) to their offspring 遗传学.
-
  # ge,netic `code system of storage of genetic information in chromosomes 遗传密码.
  ge,netic ,engi`neering deliberate changes made to hereditary features by altering the structure or position of individual genes 遗传工程.
- 
  genetics
 gen·et·ics [genetics] BrE [dʒəˈnetɪks]  NAmE [dʒəˈnetɪks]  noun uncountable
 the scientific study of the ways in which different characteristics are passed from each generation of living things to the next
@@ -792,10 +722,7 @@ a condition that makes it difficult for someone to read and spell
 dyslexia
 
  / dIs5leksIE; dIs`lZksIE/ n [U] (medical 医) (also word-blindness) abnormal difficulty in reading and spelling, caused by a brain condition 诵读困难.
-
  > dyslexic / dIs5leksIk; dIs`lZksIk/ n, adj (person) suffering from dyslexia 患诵读困难症的（人）.
-
-<<<<<<< HEAD
 
  > inventive / In5ventIv; In`vZntIv/ adj 
  [attrib 作定语] of or for invention 发明的; 创造的: using one's inventive powers 发挥自己的发明创造才能. 
@@ -819,7 +746,6 @@ far-flung corners/places/regions etc
  Email enables far-flung friends to keep in touch.
  
  stagger
-
  / 5stAgE(r); `stA^L/ v 
  [I, Ipr, Ip] walk or move unsteadily as if about to fall (from carrying sth heavy, being weak or drunk, etc) 蹒跚; 踉跄; 摇晃着移动: She staggered and fell. 她踉跄了几步, 跌倒在地. * stagger to one's feet, across the room, from side to side 摇摇晃晃地站起来、走到房间的另一边、忽左忽右 * staggering along, around, about, etc 摇摇摆摆地走着、转来转去、四处走等. =>Usage at shuffle 用法见shuffle. 
  [Tn usu passive 通常用于被动语态] (of news, etc) shock (sb) deeply; cause (sb) astonishment, worry or confusion （指消息等）使（某人）震惊、担心或慌乱: I was staggered to hear/on hearing/when I heard of his death. 我听到他死的消息大吃一惊. 
@@ -840,7 +766,6 @@ Syn: ↑urgent
 • a pressing invitation
 
 futile
-
  / 5fju:taIl; ?@ -tl; `fjutl/ adj producing no result; useless; pointless 无效的; 无用的; 无意义的: a futile attempt/exercise 无效的尝试[练习] * Their efforts to revive him were futile. 他们对他抢救无效. * What a futile (ie unnecessarily silly) remark! 纯属废话!
 futile
 fu·tile BrE [ˈfjuːtaɪl]  NAmE [ˈfjuːtl]  adjective
@@ -851,14 +776,11 @@ Syn: ↑pointless
 • It would be futile to protest.
 • My appeal proved futile.
 Derived Words: ↑futilely ▪ ↑futility
- 
 Word Origin:
 mid 16th cent.: from Latin futilis ‘leaky, futile’, apparently from fundere ‘pour’.
- 
 Example Bank:
 • She could see the utter futility of trying to protest.
 • This demonstrates the futility of resisting temptation.
- 
 Example Bank:
 • Their attempts were impressive but ultimately futile.
 • an utterly futile struggle for justice
@@ -878,7 +800,7 @@ it is futile to do something
  It was futile to continue the negotiations.
 —futility /fjuːˈtɪləti, fjuːˈtɪlɪti/ noun [uncountable]:
  This sums up Owen’s thoughts on the futility of war.
-• • •
+
 THESAURUS
 ▪ pointless not likely to have a useful result: She knew it would be pointless to argue with him. | The meeting was a pointless exercise.
 ▪ futile completely pointless because there is no chance at all of being successful: She shut the door in a futile attempt to keep the smell out. | Their efforts proved futile (=did not have any success).
@@ -886,14 +808,12 @@ THESAURUS
 ▪ hopeless having no hope of being successful or effective: It was a hopeless task. | He was jumping up and down in a hopeless attempt to keep warm.
 ▪ be a waste of time/money/effort to be not worth the time, money etc that you use because you do not achieve anything: The whole process was a complete waste of time. | The scheme was a waste of money.
  > futility / fju:5tIlEtI; fju`tIlEtI/ n [U] uselessness; pointlessness 无效; 无用; 无益: the futility of war 战争的无谓.
-=======
-petty
 
+petty
  / 5petI; `pZtI/ adj (-ier, -iest) (derog 贬) 
  small or trivial; unimportant 小的; 琐碎的; 不重要的: petty details, petty queries, regulations, troubles 细节、小问题、琐碎的规章、小麻烦. 
  (a) concerned with small and unimportant matters 注重琐事的: petty observance of the regulations 遵守规章制度上的细节. (b) having or showing a small mind; mean 狭隘的; 器量小的; 小气的: petty and childish behaviour 小心眼和孩子气的行为 * petty spite 心胸狭窄的怨恨 * a petty desire to have her revenge 她想要报复的狭隘念头 * petty about money 金钱上很小气.
  > pettily / 5petIlI; `pZtIlI/ adv. pettiness n [U]: The pettiness of their criticisms enraged him. 他们鸡毛蒜皮地挑剔, 他十分气愤.
-
  # ,petty `cash (usu small) amount of money kept in an office from or for small payments （通常指小额的）零用现金.
  ,petty `larceny theft of articles of small value 小偷小摸.
  ,petty `officer (abbr 缩写 PO) senior non-commissionedofficer in the navy 海军士官. =>App 9 见附录9.
@@ -913,8 +833,6 @@ pet‧ty /ˈpeti/ BrE  AmE  adjective
  Some petty bureaucrat wanted all the documents in triplicate.
 —pettiness noun [uncountable]:
  the pettiness of Hollywood
- 
-
 
 elusive
 elu·sive BrE [iˈluːsɪv]  NAmE [iˈluːsɪv]  adjective
@@ -923,10 +841,8 @@ difficult to find, define, or achieve
 • the elusive concept of ‘literature’
 • A solution to the problem of toxic waste is proving elusive.
 Derived Words: ↑elusively ▪ ↑elusiveness
- 
 Word Origin:
 [elusive elusively elusiveness] early 18th cent.: from Latin elus- ‘eluded’ (from the verb eludere) + ↑-ive.
- 
 Example Bank:
 • Further movie roles have proved somewhat elusive for the young actor.
 • He was searching for the ever elusive ‘perfect job’.
@@ -935,16 +851,13 @@ Example Bank:
 • Truth is a notoriously elusive quality.
 From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 elusive
-
  / I5lu:sIv; I`lusIv/ adj (a) tending to escape or disappear; difficult to capture 逃避的; 躲避的; 难以捕捉的: a most elusive criminal 极难逮捕的罪犯. (b) difficult to remember or understand 难以记忆的; 难以理解的; 难以捉摸的: an elusive perfume 难以捉摸的香味 * an elusive word 难记的词
- 
  
  sensation
 
  / sen5seIFn; sZn`seFEn/ n 
  (a) [C] feeling in one's body resulting from sth that happens or is done to it 感觉; 感受: a sensation of warmth, dizziness, falling 温暖、眩晕、下降的感觉 * Massage produces wonderful sensations. 按摩可产生舒适的感觉. (b) [C] general awareness or impression not caused by anything that can be seen or defined 下意识的感觉: I had the sensation that I was being watched. 我觉得有人监视着我. (c) [U] ability to feel through the sense of touch 知觉; 触觉: lose all sensation in one's legs 腿部完全失去知觉 * Some sensation is coming back to my arm. 我的胳膊逐渐恢复一些知觉. 
  [C, U] state of great surprise, excitement, interest, etc among many people 轰动; 群情激动: The news caused a great sensation. 这个消息十分轰动. * (derog 贬) Sensation-seeking newspapers tried to cash in on her misery. 专登危言耸听内容的报纸竭力渲染她的苦境来卖钱.
-
  > sensational / -FEnl; -FEnl/ adj 
  (a) causing a sensation(2) 轰动的; 群情激动的: a sensational crime, victory, etc 骇人听闻的罪案、轰轰烈烈的胜利. (b) (derog 贬) trying to cause a sensation(2) 耸人听闻的: a sensational newspaper, writer 刊登耸动视听消息的报纸、写耸人听闻内容的作家. 
  (infml 口) extraordinarily good; wonderful 极好的; 绝妙的: You look sensational in that dress. 你穿着那件连衣裙漂亮极了. * That music is sensational! 这段乐曲太优美了! sensationalism/ -FEnElIzEm; -FEnl9IzEm/ n [U] (derog 贬) deliberate use of shocking words, scandalous stories, etc in order to produce a sensation(2) 为耸动视听而使用的词语、描绘的丑事等: Avoid sensationalism in reporting crime.报道罪案时要避免使用耸动视听的手段. * the sensationalism of the popular press 为大众服务的新闻界所使用的耸动视听的做法. sensationalist / -FEnElIst; -FEnlIst/ n. sensationalize, -ise / -FEnElaIz; -FEnE9laIz/ v [Tn] (derog 贬) treat (sth) in a way that is likely to cause public excitement 用耸动视听的方法处理（某事物）: a sensationalized account of a squalid crime 用耸人听闻的方式描绘的卑劣罪行. sensationally / -FEnElI;-FEnlI/ adv: Newspapers reported the incident sensationally, making it appear worse than it really was. 报纸大肆渲染这件事, 描述得更不像话.
@@ -961,7 +874,7 @@ Syn: ↑thrilling
 Syn: ↑fantastic
 • You look sensational in that dress!
 Derived Word: ↑sensationally
- 
+
 Example Bank:
 • publishing a deliberately sensational and misleading news story
 • It was a sensational result with Labour almost losing some of its safest seats.
@@ -975,31 +888,25 @@ existing in all parts of a place or thing; spreading gradually to affect all par
 • Her influence is all-pervasive (= it affects everyone and everything).
 • A sense of social change is pervasive in her novels.
 Derived Words: ↑pervasively ▪ ↑pervasiveness
- 
 Word Origin:
 [pervasive pervasively pervasiveness] mid 18th cent.: from Latin pervas- ‘passed through’ (from the verb pervadere) + ↑-ive.
- 
 Example Bank:
 • the increasingly pervasive subculture in modern society
 From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 pervasive
-
  / pE5veIsIv; pL`vesIv/ adj present and perceived everywhere; pervading 无处不在的; 遍布的; 充斥各处的: pervasive smell, dust, damp etc 到处都有的气味、尘埃、湿气等 * the pervasive mood of pessimism 普遍存在的悲观情绪.
  > pervasively adv. pervasiveness n [U].
  
   artificial
-
  / 9B:tI5fIFl; 9BrtE`fIFEl/ adj 
  made or produced by man in imitation of sth natural; not real 人造的; 人工的; 假的: artificial flowers, light, limbs, pearls 假花、人造光、义肢、假珍珠. 
  affected; insincere; not genuine 做作的; 虚假的; 假的: Her artificial gaiety disguised an inner sadness. 她以矫揉造作的快乐掩饰着内心的悲痛.
  > artificiality / 9B:tIfIFI5lEtI; 9BrtI9fIFI`AlEtI/ n [U]. artificially / 9B:tI5fIFElI; 9BrtE`fIFElI/ adv.
-
  # ,artificial insemi`nation injection of semen into the womb (esp of animals) artificially, so that conception can occur without sexual intercourse 人工授精（尤指施于动物的）.
  ,artificial in`telligence (abbr 缩写 AI) (study of) the capacity of machines to simulate intelligent human behaviour 人工智能（的研究）.
  ,artificial respi`ration process of forcing air into and out of the lungs to stimulate natural breathing again when it has failed, eg in a person who has almost drowned 人工呼吸.
 
  curvaceous
-
  / k\:5veIFEs; k[`veFEs/ adj (esp sexist 尤含性别偏见) (of a woman) having an attractively rounded figure （指女子）标致丰腴的.
 curvaceous
 cur‧va‧ceous /kɜːˈveɪʃəs $ kɜːr-/ BrE  AmE  adjective
@@ -1017,7 +924,6 @@ bur·geon [burgeon burgeons burgeoned burgeoning] BrE [ˈbɜːdʒən]  NAmE [ˈb
 to begin to grow or develop rapidly
 Derived Word: ↑burgeoning
 burgeon
-
  / 5b\:dVEn; `b[dVEn/ v [I] 
  (arch 古) (of a plant) put out leaves; sprout （指植物）发芽, 萌发. 
  (fml 文) begin to grow rapidly; flourish 开始迅速成长; 茂盛: a burgeoning population 迅速增长的人口 * a burgeoning talent 迅速增长的才干.
@@ -1032,9 +938,7 @@ definitive study/work/guide etc
 —definitively adverb
 
 periodic
-
  / 9pIErI5CdIk; 9pIrI`BdIk/ adj occurring or appearing at (esp regular) intervals 定期的; 周期的: periodic attacks of dizziness 眩晕的周期性发作 * a periodic review of expenditure 对支出的定期核查.
-
  > periodical / -kl; -kl/ n, adj (magazine or other publication) that is published at regular intervals, eg weekly or monthly 定期出版的; 期刊. periodically/-klI; -klI/ adv at (esp regular) intervals 定期地; 周期地.
 
  # ,periodic `table (chemistry 化) arrangement of chemical elements according to their atomic weights 周期表. =>App 10 见附录10.
@@ -1094,10 +998,8 @@ frivo·lous BrE [ˈfrɪvələs]  NAmE [ˈfrɪvələs]  adjective (disapproving)
 2. having no useful or serious purpose
 • frivolous pastimes/pleasures
 Derived Word: ↑frivolously
- 
 Word Origin:
 [frivolous frivolously] late Middle English: from Latin frivolus ‘silly, trifling’ + ↑-ous.
- 
 Example Bank:
 • Her words seemed utterly frivolous.
 From Longman DOCE 5th Ed. (En-En)
@@ -1119,3 +1021,15 @@ frivolous
  [U] frivolous behaviour 轻浮的举止: Iyouthful frivolity 年轻人的心浮气躁. 
  [C usu pl 通常作复数] frivolous activity or comment 无聊的活动或议论: I can't waste time on such frivolities. 我不能在这种无聊的事情上浪费时间.
  frivolously adv.
+ 
+ sardonic
+sar·don·ic BrE [sɑːˈdɒnɪk]  NAmE [sɑːrˈdɑːnɪk]  adjective (disapproving)
+showing that you think that you are better than other people and do not take them seriously
+Syn: ↑mocking
+• a sardonic smile
+Derived Word: ↑sardonically
+Word Origin:
+[sardonic sardonically] mid 17th cent.: from French sardonique, earlier sardonien, via Latin from Greek sardonios ‘of Sardinia’, alteration of sardanios, used by Homer to describe bitter or scornful laughter.
+Example Bank:
+• He looked at her with sardonic amusement.
+• Her voice had a sardonic, mocking tone that frightened Connie.

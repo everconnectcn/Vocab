@@ -142,7 +142,6 @@ an adequate precaution/safeguard/defence
 3. countable a small hard bowl in which you can crush substances such as seeds and grains into powder with a special object (called a ↑pestle)
 see bricks and mortar at ↑brick n.
 
-
 shiver2 BrE  AmE  noun [countable]
 1. a slight shaking movement of your body caused by cold or fear SYN tremble:
  A shiver ran through (=went through) me.
@@ -151,13 +150,11 @@ shiver of
 2. give you the shivers informal to make you feel afraid
 ⇨ send shivers (up and) down your spine at ↑send(10)
 
-
 atheism
 athe·ism BrE [ˈeɪθiɪzəm]  NAmE [ˈeɪθiɪzəm]  noun uncountable
 the belief that God does not exist
 Opp: ↑theism
 Derived Word: ↑atheistic
- 
 Word Origin:
 [atheism atheistic] late 16th cent.: from French athéisme, from Greek atheos, from a- ‘without’ + theos ‘god’.
 From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
@@ -167,7 +164,7 @@ atheism
 
  > atheist / 5eIWIIst; `eWIIst/ n person who believes that there is no God 无神论者. Cf 参看 heathen, pagan.
  atheistic / 9eIWI5IstIk; 9eWI`IstIk/ adj.
-=======
+ 
 severity
 se·ver·ity [severity severities] BrE [sɪˈverəti] ; NAmE [sɪˈverəti]  noun uncountable
 • A prison sentence should match the severity of the crime.
@@ -176,7 +173,6 @@ se·ver·ity [severity severities] BrE [sɪˈverəti] ; NAmE [sɪˈverəti]  nou
 • He frowned with mock severity.
 • The elaborate facade contrasts strongly with the severity of the interior.
 Main entry: ↑severederived
-
 
 oun
 1. uncountable the possibility of sth happening or being developed or used
@@ -203,11 +199,11 @@ commercial/development/economic potential/possibilities/prospects
 have potential/possibilities/prospects/promise
 Potential or possibilities? People or things can have potential, especially people; things, but not usually people, can have possibilities.
 
- a mature skill 
+a mature skill 
  
-  school age pupils 
+school age pupils 
  
- absence
+absence
 ab·sence [absence absences] BrE [ˈæbsəns]  NAmE [ˈæbsəns]  noun
 1. uncountable, countable the fact of sb being away from a place where they are usually expected to be; the occasion or period of time when sb is away
 • The decision was made in my absence (= while I was not there).
@@ -221,10 +217,8 @@ see also ↑leave
 Opp: ↑presence
 more at conspicuous by your absence at ↑conspicuous
 Idiom: ↑absence makes the heart grow fonder
- 
 Word Origin:
 late Middle English: from Old French, from Latin absentia, from absens, absent- ‘being absent’, present participle of abesse, from ab- ‘from, away’ + esse ‘to be’.
- 
 Example Bank:
 • He asked for leave of absence from his job.
 • In the absence of stone, most houses in the area are built of wood.
@@ -263,11 +257,9 @@ tran‧spire /trænˈspaɪə $ -ˈspaɪr/ BrE  AmE  verb
  Exactly what transpired remains unknown.
 3. [intransitive and transitive] technical when a plant transpires, water passes through the surface of its leaves
 
-
 soil erosion
-
 logging
-log·ging [logging] BrE [ˈlɒɡɪŋ]  NAmE [ˈlɔːɡɪŋ]  NAmE [ˈlɑːɡɪŋ]  noun uncountable
+logging [logging] BrE [ˈlɒɡɪŋ]  NAmE [ˈlɔːɡɪŋ]  NAmE [ˈlɑːɡɪŋ]  noun uncountable
 the work of cutting down trees for their wood
 
 dumping
@@ -280,7 +272,6 @@ habitat loss
 dwindling numbers 
 
 hydrosphere
-
 
 atmosphere noun C, U
 • The hotel offers a friendly atmosphere.
@@ -309,7 +300,6 @@ Example Bank:
 • The sunlight created an aura of beauty around her.
 • There was always a faint aura of mystery about her.
 
-
 downpour
 down·pour [downpour downpours] BrE [ˈdaʊnpɔː(r)]  NAmE [ˈdaʊnpɔːr]  noun usually singular
 a heavy fall of rain that often starts suddenly
@@ -322,7 +312,7 @@ From Longman DOCE 5th Ed. (En-En)
 downpour
 down‧pour /ˈdaʊnpɔː $ -pɔːr/ BrE  AmE  noun [countable usually singular]
 a lot of rain that falls in a short time
-• • •
+
 THESAURUS
 ▪ rain noun [uncountable] water that falls in small drops from clouds in the sky: The rain has stopped at last. | There had been heavy rain during the night.
 ▪ drizzle noun [uncountable] light rain with very small drops of water: A light drizzle was falling as I left the house.
@@ -335,8 +325,6 @@ THESAURUS
 
 
 East Asian rainy season (梅雨)
-
-
 
 noun
 1. a stone or metal model of a person's head, shoulders and chest
@@ -1679,3 +1667,32 @@ the upper/middle/lower register
 4. MACHINE [countable] a ↑cash register
 5. HEATING CONTROL [countable] American English a movable metal plate that controls the flow of air in a ↑heating or ↑cooling system SYN vent
 II. register2 S3 W3 AC BrE  AmE  verb
+
+ nought
+ / nR:t; nRt/ n 
+ the figure 0 零; 0: write three noughts on the blackboard 在黑板上写三个0 * nought point one (0.1) 零点一（0.1）. =>App 4 见附录4. 
+ (also naught) (arch 古) nothing 无; 无物: His crime has gained him naught. 他既犯了罪又一无所获.
+ # ,noughts and `crosses (US ,tick-tack-`toe) game played by writing 0s and Xs on a grid of nine squares, attempting to complete a row of three 0s or three Xs 圈叉游戏（在井字形九格中各画0或X, 先将三个连成一行者胜）.
+ NOTE ON USAGE 用法: The figure 0 has several different names in British English. 在英式英语中
+ 这一数字有几个名称. 1 In speaking about temperature and in the language of science zero is used 说到温度时以及在科学术语中用zero: The temperature rarely falls below zero here. 这里的温度很少降到0度以下. 
+ Nought is commonly used when referring to the figure 0 as part of a number *nought一般用作数字中的0: A million is 1 followed by six noughts (1000000). 一百万是1后面有六个0（1000000）. 3 When reading a telephone or bank account number (ie when the number does not represent a quantity) we say the letter `O' / EU; o/ 读电话号码或银行帐号（即该数字不表示量）时, 将0读作字母O的名称: The account number is 0-two-0-four-three-eight-one(0204381). 该帐号是/ EU-tu: -EU-fR: -Wri:-eIt-wQn; o-tu-o-fRr-Wri-et-wQn/ (0204381). * Their phone number is four-seven-double 0-five (47005). 他们的电话号码是/ fR:-`sevn-`dQbl EU-faIv; fRr-`sZvn-`dQblo-faIv/ (47005). 4 In reporting the score in a team game we use nil or nothing 说分队比赛项目的比分时, 用nil或nothing表示0: The final score was three nil/nothing (3-0). 最后比分是三比零（3-0）. * Wales won 28-nil. 威尔士队以28比0获胜. In US English zero is commonly used in all these cases. 在上述情况下, 美式英语一概用zero表示0.
+
+equilibrium
+e‧qui‧lib‧ri‧um /ˌiːkwəˈlɪbriəm, ˌiːkwɪˈlɪbriəm/ BrE  AmE  noun [singular, uncountable]
+[Date: 1600-1700; Language: Latin; Origin: aequilibrium, from aequi- (EQUI-) + libra 'weight, balance']
+1. a balance between different people, groups, or forces that compete with each other, so that none is stronger than the others and a situation is not likely to change suddenly:
+ The government is anxious not to upset the economic equilibrium.
+2. a state in which you are calm and not angry or upset:
+ She struggled to recover her equilibrium.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+equilibrium
+
+ / 9i:kwI5lIbrIEm, also9ek-; 9ikwE`lIbrIEm, Zk-/n [U] 
+ state of being balanced 平衡; 均势: This pair of scales is not in equilibrium. 这个天平不平衡. * He can't maintain enough equilibrium to ride a bike. 他骑自行车不能保持平衡. 
+ (fig 比喻) balanced state of mind, feelings, etc （心情、感情等）平静: She lost her usual equilibrium and shouted at him angrily. 她一反常态, 向他愤怒地叫喊.
+ 
+ propaganda
+propa·ganda BrE [ˌprɒpəˈɡændə]  NAmE [ˌprɑːpəˈɡændə]  noun uncountable (usually disapproving)
+ideas or statements that may be false or exaggerated and that are used in order to gain support for a political leader, party, etc
+• enemy propaganda
+• a propaganda campaign

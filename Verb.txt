@@ -734,10 +734,8 @@ knead
  / ni:d; nid/ v 
  [Tn, Tn.pr] press and stretch (bread dough, wet clay, etc) with the hands to form a firm smooth paste 揉, 捏（面团、湿黏土等）: Knead the dough (into a ball) 把面团揉成球形. 
  [Tn] massage (muscles, etc) firmly to relieve tension or pain 按摩, 揉捏（肌肉等）.
- 
-<<<<<<< HEAD
- haul
 
+ haul
  / hR:l; hRl/ v 
  [I, Ipr, Ip, Tn, Tn.pr, Tn.p] pull or drag (sth) with effort or force 用力拖或拉（某物）: sailors hauling (away) (on the ropes) 拽着（绳索）（不放）的水手 * elephants hauling logs 拖运木材的象 * haul a car out of the mud 把小汽车从烂泥里拽出来 * They hauled the boat up the beach. 他们把船拖上岸. =>Usage at pull2 用法见pull2. 
  [Tn] transport (sth) by lorry, etc 用卡车等运送（某物）. 
@@ -888,9 +886,8 @@ compound 2
 compound 3
 
 3 / 5kCmpaUnd; `kBmpaJnd/ n (a) area enclosed by buildings, esp in a military camp or a prison camp 有建筑物围绕的场地（尤指军营、监狱中的）. (b) (in India, China, etc) area enclosed by a fence, etc, in which a house or factory stands （在印度、中国等）用围墙等圈起来的场地（内有房屋或工厂）; 院子.
-=======
- imprison
 
+ imprison
  / Im5prIzn; Im`prIzn/ v [esp passive 尤用于被动语态: Tn, Tn.pr] ~ sb (in sth) put or keep sb in or as if in prison 监禁某人; 似监禁般束缚某人: Several of the rioters were imprisoned for causing a disturbance. 有几个暴乱者因制造动乱被关押在狱. * conditions in which young mothers feel virtually imprisoned in their own homes 年轻的母亲感到的居家如坐牢一般的处境.
 
  > imprisonment / -mEnt; -mEnt/ n [U] state of being imprisoned 关押; 监禁; 坐牢: sentenced to one year's, ten years', life, etc imprisonment 被判处一年、十年、终身监禁等.
@@ -1062,7 +1059,6 @@ EXAMPLES FROM CORPUS
 ▪ As I do this, Miles and Evan often chime in, so we work together to recreate the story.
 ▪ Fidelity is a dynamic, positive posture that needs renewing and recreating constantly.
 
-<<<<<<< HEAD
 feign
 verb
 COLLOCATIONS FROM OTHER ENTRIES
@@ -1075,9 +1071,8 @@ EXAMPLES FROM CORPUS
 ▪ I know I should be kind and concerned and that I should at least feign pathos.
 ▪ I saw that her reluctance to be taken had been feigned, or part-feigned.
 ▪ The silence I feigned does not mean you are not in my thoughts.
-=======
-slop
 
+slop
  / slCp; slBp/ v (-pp-) 
  [Ipr, Ip] (of liquids) spill over the edge, esp of a container （指液体）溢出, 泼出（尤指从容器中）: I dropped the bucket, and water sloppedout (of it). 我把桶掉在地上, 水都洒了出来. * The tea slopped (over) into the saucer. 茶溢出流到茶托里了. 
  [Tn, Tn.pr, Tn.p] cause (sth) to spill 使（某物）溢出或泼出: slop the beer, paint, etc carelessly (all over the floor) 不小心把啤酒、油漆等洒了一地 * She slopped the dirty water (out) onto the grass. 她把污水泼在草地上了. 
@@ -1087,3 +1082,53 @@ slop
  dirty waste water from sinks, baths, etc （洗涤槽、浴缸等的）污水. 
  urine, excrement and waste water contained in a bucket in prison cells that have no toilet or sink （在无 T生设备的牢房里用便桶盛的）粪便与废水: [attrib 作定语] a `slop-bucket 便桶. 
  (a) swill for pigs （喂猪的）剩菜屑. (b) liquid food (eg milk, soup) esp for sick people 流质食物（如牛奶、汤等, 尤指供病人食用的）.
+ 
+ ridicule
+I. rid‧i‧cule1 /ˈrɪdəkjuːl, ˈrɪdɪkjuːl/ BrE  AmE  noun [uncountable]
+[Date: 1600-1700; Language: French; Origin: Latin ridiculum 'something funny', from ridere 'to laugh']
+unkind laughter or remarks that are intended to make someone or something seem stupid:
+ the ridicule of his peers
+ The government’s proposals were held up to ridicule (=suffered ridicule) by opposition ministers.
+ He had become an object of ridicule among the other teachers.
+II. ridicule2 BrE  AmE  verb [transitive]
+to laugh at a person, idea etc and say that they are stupid SYN mock:
+ At the time, his ideas were ridiculed.
+• • •
+THESAURUS
+▪ mock formal to laugh at and say unkind things about a person, institution, belief etc, to show that you do not have a high opinion of them. Mock is a formal word - in everyday English people usually say make fun of: The press mocked his attempts to appeal to young voters. | She was mocked by other pupils in her class. | You shouldn’t mock the afflicted! (=you should not make fun of people who cannot help having problems - used especially ↑ironically, when really you think it is funny too)
+▪ make fun of somebody/something to make someone or something seem stupid by making unkind jokes about them: Peter didn’t seem to realize that they were making fun of him. | It used to be fashionable to make fun of the European Parliament.
+▪ laugh at somebody/something to make unkind or funny remarks about someone or something, because they seem stupid or strange: I don’t want the other kids to laugh at me. | People would laugh at the idea nowadays.
+▪ poke fun at somebody/something to make someone or something seem silly by making jokes about them, especially in a way that is funny but not really cruel: a TV series that regularly poked fun at the government | He’s in no position to poke fun at other people’s use of English!
+▪ ridicule formal to make unkind remarks that make someone or something seem stupid: Catesby ridiculed his suggestion. | His ideas were widely ridiculed at the time. | Scientists ridiculed him for doubting the existence of the greenhouse effect.
+▪ deride formal to make remarks that show you think that something is stupid or useless - often used when you think that the people who do this are wrong: Some forms of alternative medicine – much derided by doctors – have been shown to help patients. | the system that Marxists previously derided as ‘bourgeois democracy’
+
+
+disseminate
+dis·sem·in·ate [disseminate disseminates disseminated disseminating] BrE [dɪˈsemɪneɪt]  NAmE [dɪˈsemɪneɪt]  verb ~ sth (formal)
+to spread information, knowledge, etc. so that it reaches many people
+• Their findings have been widely disseminated.
+Derived Word: ↑dissemination
+Verb forms: 
+ 
+Word Origin:
+late Middle English: from Latin disseminat- ‘scattered’, from the verb disseminare, from dis- ‘abroad’ + semen, semin- ‘seed’.
+From Longman DOCE 5th Ed. (En-En)
+disseminate
+dis‧sem‧i‧nate /dɪˈseməneɪt, dɪˈsemɪneɪt/ BrE  AmE  verb [transitive] formal
+[Date: 1400-1500; Language: Latin; Origin: disseminare, from seminare 'to plant seed']
+to spread information or ideas to as many people as possible:
+ Her findings have been widely disseminated.
+—dissemination /dɪˌseməˈneɪʃən, dɪˌsemɪˈneɪʃən/ noun [uncountable]:
+ the dissemination of information
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+disseminate
+
+ / dI5semIneIt; dI`sZmE9net/ v [Tn] spread (ideas, beliefs, etc) widely 散布, 广为传播（思想、信仰等）: They use the press to disseminate right-wing views. 他们利用报刊来传播右翼观点.
+ > dissemination/ dI9semI5neIFn; dI9sZmE`neFEn/ n [U].
+From Cambridge Advanced Learners Dictionary 3th Ed.
+disseminate
+disseminate UK  US  [dɪˈsem.ɪ.neɪt] formal verb transitive [disseminates disseminating disseminated]
+to spread or give out something, especially news, information, ideas, etc., to a lot of people
+• One of the organization's aims is to disseminate information about the disease.
+Thesaurus+: ↑Announcing, informing and stating ↑Spreading and scattering
+Derived: dissemination

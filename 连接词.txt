@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 because of
 Explaining reasons
 ▪ The number of people with diabetes is growing, partly because of ▪ an increase in levels of obesity.
@@ -7,7 +6,6 @@ Explaining reasons
 ▪ Many obese children are bullied at school on account of ▪ their weight.
 ▪ Part of the problem with treating childhood obesity stems from ▪ the fact that parents do not always recognize that their children are obese.
 ▪ Childhood obesity may be caused by ▪ genetic factors, as well as environmental ones.
-
 
 incline
 in·cline AW [incline inclines inclined inclining] verb, noun
@@ -23,12 +21,12 @@ verb BrE [ɪnˈklaɪn] ; NAmE [ɪnˈklaɪn]  (formal)
 3. intransitive, transitive ~ (sth) (to/towards sth) to lean or slope in a particular direction; to make sth lean or slope
 • The land inclined gently towards the shore.
 
-added to this …
+added to this
 ˈadded to this… | ˈadd to this… idiom
 used to introduce another fact that helps to emphasize a point you have already made
 • Add to this the excellent service and you can see why it's the most popular hotel on the island.
 Main entry: ↑addidiom
-=======
+
 Conversely
 substantial
 sub·stan·tial BrE [səbˈstænʃl]  NAmE [səbˈstænʃl]  adjective
@@ -43,15 +41,12 @@ Syn: ↑considerable
 2. usually before noun (formal) large and solid; strongly built
 • a substantial house
 • a street of substantial Victorian villas
- 
 Word Origin:
 [substantial] Middle English: from Old French substantiel or Christian Latin substantialis, from substantia ‘being, essence’, from substant- ‘standing firm’, from the verb substare.
- 
 Example Bank:
 • There were substantial sums of money involved.
 • We were able to see a substantial improvement.
 
-<<<<<<< HEAD
 Language Bank:
 define
 Defining terms
@@ -64,7 +59,7 @@ The term ▪ ‘carbon footprint’ refers to ▪ the amount of carbon dioxide r
 ▪ Scientists suggest that increased carbon dioxide in the atmosphere will result in an increase in global temperatures, and the term ▪ ‘global warming’ is used ▪ to describe this phenomenon.
 Language Bank at ↑first
 Language Bank at ↑first
-=======
+
 needless
 need‧less /ˈniːdləs/ BrE  AmE  adjective
 [Word Family: noun: ↑need, needs, the needy; adjective: ↑needless, ↑needy; verb: ↑need; adverb: ↑needlessly]
@@ -76,4 +71,13 @@ need‧less /ˈniːdləs/ BrE  AmE  adjective
  Charles hates needless waste.
 —needlessly adverb:
  People are dying needlessly every year of heart attacks.
->>>>>>> 829514e2391124ebb6fb9c89837abd3344e8b234
+
+ however
+Ways of saying ‘but’
+▪ Politicians have promised to improve road safety. So far, however ▪, little has been achieved.
+Despite ▪ clear evidence from road safety studies, no new measures have been introduced.
+▪ Politicians have promised to improve road safety. In spite of this ▪ / Despite this ▪, little has been achieved so far.
+Although ▪ politicians have promised to improve road safety, little has been achieved so far.
+▪ Some politicians claim that the new transport policy has been a success. In fact ▪, it has been a total disaster.
+▪ Government campaigns have had a measure of success, but the fact remains that ▪ large numbers of accidents are still caused by careless drivers.
+Language Bank at ↑nevertheless
