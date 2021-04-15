@@ -962,6 +962,27 @@ EXAMPLES FROM CORPUS
 ▪ You could try of course, but after a colossal, tiring ridge-walk you would be a dingbat even to think of it.
 ▪ You think the Red Cross is the savior during colossal natural disasters like earthquakes and hurricanes and floods and tornadoes.
 
+<<<<<<< HEAD
+disgruntled
+dis·grun·tled BrE [dɪsˈɡrʌntld]  NAmE [dɪsˈɡrʌntld]  adjective
+annoyed or disappointed because sth has happened to upset you
+• disgruntled employees
+• ~ at sb/sth I left feeling disgruntled at the way I'd been treated.
+ 
+Word Origin:
+[disgruntled] mid 17th cent.: from ↑dis- (as an intensifier) + dialect gruntle ‘utter little grunts’, from ↑grunt.
+ 
+Example Bank:
+• He's feeling very disgruntled with his boss.
+• She was rather disgruntled at the way she had been treated.
+• I left feeling disgruntled at the way I'd been treated.
+• Police believe it was probably sabotage by a disgruntled employee.
+• Some ministers were openly disgruntled with her style of leadership.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+disgruntled
+
+ / dIs5grQntld; dIs`^rQntld/ adj ~ (at/about sth); ~ (with sb) resentful because sth has happened to displease one 不高兴的; 不满的: a disgruntled look, frown, scowl, etc 不悦的样子、因不满而皱眉、怒容 * She's still disgruntled about missing the party. 她因错过了这一聚会而仍耿耿于怀.
+=======
 crusty
 crusty [crusty crusties crustier crustiest] adjective, noun BrE [ˈkrʌsti]  NAmE [ˈkrʌsti] 
 adjective (crust·ier, crusti·est)
@@ -1021,6 +1042,7 @@ frivolous
  [U] frivolous behaviour 轻浮的举止: Iyouthful frivolity 年轻人的心浮气躁. 
  [C usu pl 通常作复数] frivolous activity or comment 无聊的活动或议论: I can't waste time on such frivolities. 我不能在这种无聊的事情上浪费时间.
  frivolously adv.
+<<<<<<< HEAD
  
  sardonic
 sar·don·ic BrE [sɑːˈdɒnɪk]  NAmE [sɑːrˈdɑːnɪk]  adjective (disapproving)
@@ -1033,3 +1055,6 @@ Word Origin:
 Example Bank:
 • He looked at her with sardonic amusement.
 • Her voice had a sardonic, mocking tone that frightened Connie.
+=======
+>>>>>>> 9b09b3d793fe8d38ba51b8474081ce251ce3ee69
+>>>>>>> 51179e4626e9cadaa15e588a01199ac0c131e025
