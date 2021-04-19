@@ -1132,3 +1132,10 @@ to spread or give out something, especially news, information, ideas, etc., to a
 • One of the organization's aims is to disseminate information about the disease.
 Thesaurus+: ↑Announcing, informing and stating ↑Spreading and scattering
 Derived: dissemination
+
+embezzle
+
+ / Im5bezl; Im`bZzl/ v [Tn] use (money placed in one's care) in a wrong way to benefit oneself 盗用, 挪用（款项）: embezzle the pension fund 挪用抚恤金 * The treasurer embezzled 2000 of the club's money. 司库盗用了俱乐部2000英镑.
+
+ > embezzlement n [C, U] (instance of) embezzling 盗用; 挪用: petty embezzlements 少量的盗用公款 * He was found guilty of embezzlement. 他被判盗用公款罪.
+ embezzler / Im5bezlE(r); Im`bZzlL/ n person who embezzles 盗用者; 挪用公款者.
