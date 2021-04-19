@@ -323,7 +323,6 @@ THESAURUS
 ▪ the rains noun [plural] heavy rain that falls during a particular period in the year in tropical countries: The farmers are waiting for the rains to come.
 ▪ monsoon noun [countable ] the heavy rain that falls between April and October in India and other southern Asian countries: The monsoon is late this year. | the monsoon season
 
-
 East Asian rainy season (梅雨)
 
 noun
@@ -432,7 +431,6 @@ Either a lot or a plot can be used for building on. Only a plot can also be used
 an open space
 open/empty/vacant/waste/derelict land/ground
 a/an empty/vacant lot/plot
-<<<<<<< HEAD
 
 excavate
 
@@ -455,8 +453,6 @@ ex‧ca‧vate /ˈekskəveɪt/ BrE  AmE  verb [intransitive and transitive]
  Schliemann excavated the ancient city of Troy.
 2. formal to make a hole in the ground by digging up soil etc
 —excavation /ˌekskəˈveɪʃən/ noun [uncountable and countable]
-=======
-<<<<<<< HEAD
 
 social memes = social habits or patterns which are transmitted between people
  
@@ -1696,3 +1692,195 @@ propa·ganda BrE [ˌprɒpəˈɡændə]  NAmE [ˌprɑːpəˈɡændə]  noun uncou
 ideas or statements that may be false or exaggerated and that are used in order to gain support for a political leader, party, etc
 • enemy propaganda
 • a propaganda campaign
+
+handicraft
+hand‧i‧craft /ˈhændikrɑːft $ -kræft/ BrE  AmE  (also craft) noun [countable usually plural]
+[Date: 1200-1300; Origin: handcraft 'handicraft' (10-21 centuries), on the model of handiwork]
+1. an activity such as sewing or making baskets, in which you use your hands in a skilful way to make things
+2. something that someone has made in a skilful way using their hands:
+ a shop selling handicrafts
+ 
+ dung
+dung UK  US  [dʌŋ] noun uncountable
+solid waste from animals, especially cattle and horses; manure
+Thesaurus+: ↑Excrement and its excretion
+
+excrement
+excrement UK  US  [ˈek.skrɪ.mənt] formal noun uncountable
+the solid waste which is released from the bowels of a person or animal
+• human excrement
+Thesaurus+: ↑Excrement and its excretion
+
+pharmaceuticals
+phar‧ma‧ceu‧ti‧cals /ˌfɑːməˈsjuːtɪkəlz $ ˌfɑːrməˈsuː-/ BrE  AmE  noun [plural] technical
+drugs and medicines
+pharmaceutical
+phar‧ma‧ceu‧ti‧cal /ˌfɑːməˈsjuːtɪkəl◂ $ ˌfɑːrməˈsuː-/ BrE  AmE  adjective [only before noun]
+[Date: 1600-1700; Language: Late Latin; Origin: pharmaceuticus, from Greek, from pharmakeuein 'to give drugs'; ⇨ ↑pharmacy]
+relating to the production of drugs and medicines:
+ the pharmaceutical industry
+ pharmaceutical products
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+pharmaceutical
+
+ / 9fB:mE5sju:tIkl; ?@ -5su:-; 9fBrmE`sutIkl/ adj of or connected with the making and distribution of drugs and medicines 制药的; 配药的: the pharmaceutical industry 制药工业.
+ > pharmaceutics/-Iks; -Iks/ n [sing v] = pharmacy 1.
+ 
+ booster
+boost·er [booster boosters] BrE [ˈbuːstə(r)]  NAmE [ˈbuːstər]  noun
+1. (also ˈbooster rocket) a ↑rocket that gives a ↑spacecraft extra power when it leaves the earth, or that makes a ↑missile go further
+2. a device that gives extra power to a piece of electrical equipment
+3. an extra small amount of a drug that is given to increase the effect of one given earlier, for example to protect you from a disease for longer
+• a tetanus booster
+4. a thing that helps, encourages or improves sb/sth
+• a morale/confidence booster
+5. (especially NAmE) a person who gives their support to sb/sth, especially in politics
+• a meeting of Republican boosters
+
+chemotherapy
+chemotherapy UK  [ˌkiː.mə ʊ ˈθer.ə.pi] US  [-moʊ-] noun uncountable
+the treatment of diseases using chemicals
+• Chemotherapy is often used in the treatment of cancer.
+
+elixir
+elixir UK  [ɪˈlɪk.sɪə r ] US  [-sjɚ] literary noun countable usually singular [elixirs]
+a substance, usually a liquid, with a magical power to cure, improve or preserve
+• It's yet another health product claiming to be the elixir of life/youth (= something to make you live longer/stay young).
+
+medicated
+
+ / 5medIkeItId; `mZdI9ketId/ adj containing a medicinal substance 含药物的; 药制的: medicated shampoo, soap, gauze, etc 药制洗发剂、药皂、药制纱布.
+
+ > medication / 9medI5keIFn; 9mZdI`keFEn/ n 
+ [U] adding or giving of medicinal substances 敷药; 施药;药物治疗: need, prescribe, administer medication 需要、医嘱、施行药物治疗. 
+ [C] medicinal substance; medicine 药物; 药: What is the best medication for this condition? 这种病用什么药最好?
+ 
+ pick-me-up
+pick-me-up UK  US  [ˈpɪk.mɪ.ʌp] noun countable
+something which makes you feel better, often a drink or a tonic (= a type of medicine)
+• It is traditional around here to drink brandy with coffee as a morning pick-me-up.
+
+radiotherapy
+radiotherapy UK  [ˌreɪ.di.əʊˈθer.ə.pi] US  [-oʊ-] noun uncountable
+the use of controlled amounts of radiation (= a form of energy) aimed at a particular part of the body, to treat disease
+
+petrochemical
+
+ / 9petrEU5kemIkl; 9pZtro`kZmIkEl/ n [U, C] any of various chemical substances obtained from petroleum or natural gas 石油化学产品: [attrib 作定语] the petrochemical industry 石油化学工业.
+ petrochemical
+petrochemical UK  [ˌpet.rə ʊ ˈkem.ɪ.k ə l] US  [-roʊ-] noun countable [petrochemicals]
+any chemical substance obtained from petroleum or natural gas
+• the petrochemical industry
+
+additive
+additive UK  [ˈæd.ɪ.tɪv] US  [-ə.t ̬ɪv] noun countable [additives]
+a substance which is added to food in order to improve its taste or appearance or to preserve it
+• food additives
+• This margarine is full of additives - just look at the label!
+
+Diet and exercise
+Weight
+put on/gain/lose weight/a few kilos/a few pounds
+watch/control/struggle with your weight
+be/become seriously overweight/underweight
+be/become clinically/morbidly obese
+achieve/facilitate/promote/stimulate weight loss
+slim down to 70 kilos/(BrE) 11 stone/(especially NAmE) 160 pounds
+combat/prevent/tackle/treat obesity
+develop/have/suffer from/struggle with/recover from anorexia/bulimia/an eating disorder
+be on/go on/follow a crash/strict diet
+have/suffer from a negative/poor body image
+have/develop a positive/healthy body image
+Healthy eating
+eat a balanced diet/healthily/sensibly
+get/provide/receive adequate/proper nutrition
+contain/get/provide essential nutrients/vitamins/minerals
+be high/low in calories/fat/fibre/(especially US) fiber/protein/vitamin D/Omega-3 fatty acids
+contain (no)/use/be full of/be free from additives/chemical preservatives/artificial sweeteners
+avoid/cut down on/cut out alcohol/caffeine/fatty foods
+stop/give up/ (especially NAmE) quit smoking
+Exercise
+(BrE) take regular exercise
+do moderate/strenuous/vigorous exercise
+play football/hockey/tennis
+go cycling/jogging/running
+go to/visit/ (especially NAmE) hit/work out at the gym
+strengthen/tone/train your stomach muscles
+contract/relax/stretch/use/work your lower-body muscles
+build (up)/gain muscle
+improve/increase your stamina/energy levels/physical fitness
+burn/consume/expend calories
+Staying healthy
+be/get/keep/stay healthy/in shape/(especially BrE) fit
+lower your cholesterol/blood pressure
+boost/stimulate/strengthen your immune system
+prevent/reduce the risk of heart disease/high blood pressure/diabetes/osteoporosis
+reduce/relieve/manage/combat stress
+enhance/promote relaxation/physical and mental well-being
+
+body image (countable and uncountable, plural body images)
+The subjective inner picture of one's outward physical appearance.
+
+preservative
+preservative UK  [prɪˈzɜː.və.tɪv] US  [-ˈzɝː.və.t ̬ɪv] noun [preservatives]
+1. countable or uncountable a substance used to prevent decay in wood
+• a timber/wood preservative
+• The fence has been treated with preservative.
+Thesaurus+: ↑Carpentry and joinery
+2. countable a chemical used to stop food from decaying
+• This bread is completely free from artificial preservatives.
+• No added preservatives.
+• natural preservatives
+
+sweeten
+sweet‧en /ˈswiːtn/ BrE  AmE  verb
+[Word Family: noun: ↑sweet, ↑sweetener, ↑sweetness, ↑sweetie; verb: ↑sweeten; adverb: ↑sweetly; adjective: ↑sweet]
+1. [intransitive and transitive] to make something sweeter, or become sweeter:
+ Sweeten the mixture with a little honey.
+2. [transitive] (also sweeten somebody ↔ up) informal to try to persuade someone to do what you want, by giving them presents or money or promising them something:
+ a cash bonus to sweeten the deal ⇨ ↑sweetener(2)
+3. [transitive] literary to make someone kinder, gentler etc:
+ Old age had not sweetened her.
+⇨ sweeten the pill at ↑pill1(4)
+sweetener
+sweet‧ener /ˈswiːtnə $ -ər/ BrE  AmE  noun
+[Word Family: noun: ↑sweet, ↑sweetener, ↑sweetness, ↑sweetie; verb: ↑sweeten; adverb: ↑sweetly; adjective: ↑sweet]
+1. [uncountable and countable] a substance used to make food or drink taste sweeter:
+ No artificial sweeteners are used in this product.
+2. [countable] informal something that you give to someone to persuade them to do something, especially to accept a business deal:
+ These tax cuts are just a pre-election sweetener.
+ 
+ II. spill2 BrE  AmE  noun
+[Date: 1800-1900; Origin: ⇨ ↑spill1]
+1. [uncountable and countable] when you spill something, or an amount of something that is spilled:
+ the enormous oil spill off the southern tip of the Shetland Islands
+2. [countable] a fall from a horse, bicycle etc:
+ Tyson broke a rib when he took a spill on his motorcycle.
+ 
+ calorie
+cal‧o‧rie /ˈkæləri/ BrE  AmE  noun [countable]
+[Date: 1800-1900; Language: French; Origin: Latin calor 'heat']
+1. a unit for measuring the amount of ↑energy that food will produce:
+ A potato has about 90 calories.
+ a calorie-controlled diet
+low-calorie/high-calorie
+ a low-calorie snack
+ I need to burn off a few calories (=lose some weight by exercising).
+ My wife convinced me to finally start counting calories (=control my weight by being careful about what I eat).
+2. technical the amount of heat that is needed to raise the temperature of one gram of water by one degree Celsius. It is used as a unit for measuring energy.
+—caloric /kəˈlɒrɪk, ˈkælərɪk $ kəˈlɔːrɪk/ adjective
+• • •
+COLLOCATIONS
+■ verbs
+▪ something has/contains calories These yoghurts have approximately 90 calories per pot.
+▪ count calories (=control your weight by eating fewer calories) Women tend to count calories more than men.
+▪ burn (up/off) calories (=use up the calories you have eaten) Even walking will help you to burn up calories.
+■ adjectives
+▪ low-calorie She's on a low-calorie diet at the moment.
+▪ high-calorie High-calorie foods are usually fatty.
+▪ be high/low in calories (=contain a lot of/few calories) Sweets and chocolates are very high in calories.
+▪ somebody's daily calories (=that someone eats every day) Americans get 22% of their daily calories from snacks.
+▪ empty calories (=that do not contain anything good for your body) Sugary drinks are full of empty calories.
+■ calorie + NOUN
+▪ calorie intake (=the amount of calories someone eats) There are several ways you can reduce your calorie intake.
+▪ calorie content Pizzas have a very high calorie content.
