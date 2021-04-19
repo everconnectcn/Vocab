@@ -1042,7 +1042,6 @@ frivolous
  [U] frivolous behaviour 轻浮的举止: Iyouthful frivolity 年轻人的心浮气躁. 
  [C usu pl 通常作复数] frivolous activity or comment 无聊的活动或议论: I can't waste time on such frivolities. 我不能在这种无聊的事情上浪费时间.
  frivolously adv.
-<<<<<<< HEAD
  
  sardonic
 sar·don·ic BrE [sɑːˈdɒnɪk]  NAmE [sɑːrˈdɑːnɪk]  adjective (disapproving)
@@ -1055,6 +1054,103 @@ Word Origin:
 Example Bank:
 • He looked at her with sardonic amusement.
 • Her voice had a sardonic, mocking tone that frightened Connie.
-=======
->>>>>>> 9b09b3d793fe8d38ba51b8474081ce251ce3ee69
->>>>>>> 51179e4626e9cadaa15e588a01199ac0c131e025
+
+cloak-and-dagger
+cloak-and-dagger UK  [ˌkləʊk.ənˈdæg.ə r ] US  [ˌkloʊk.ənˈdæg.ɚ] adjective
+describes an exciting story involving secrecy and mystery, often about spies, or something which makes you think of this
+• I'm tired of all these cloak-and-dagger (= secretive) meetings - let's discuss the issues openly.
+
+interpretive
+I. in‧ter‧pre‧ta‧tive AC /ɪnˈtɜːprətətɪv, ɪnˈtɜːprɪtətɪv $ ɪnˈtɜːrprəteɪtɪv/ BrE AmE  (also interpretive) adjective
+[Word Family: noun: ↑interpretation, ↑interpreter; adjective: ↑interpretative, ↑interpretive; verb: ↑interpret]
+1. relating to, explaining, or understanding the meaning of something:
+ Reading is an interpretative process.
+2. relating to how feelings are expressed through music, dance, art etc:
+ interpretive dance
+ 
+ ▪ a good/positive influence Television can have a positive influence on young people.
+▪ a bad/negative influence He thought her friends were a bad influence.
+▪ a big/great influence The goalkeeper’s injury had a big influence on the match.
+▪ an important/significant/major influence Parents have an important influence on children's development. | He was a major influence on my musical tastes.
+▪ considerable influence Well-organized pressure groups can exert considerable influence on the government.
+▪ a strong/powerful influence The press can have a powerful influence on the way people vote.
+▪ a deep/profound influence His writings had a profound influence on the Romantic poets.
+▪ a growing influence Many people are worried about the growing influence of these websites.
+▪ a lasting influence (=continuing for a long time) His travels in Africa had a lasting influence on his work.
+▪ a direct/indirect influence The Cubist painters had a direct influence on his work. | The federal government has an indirect influence on investment through its control of bank credits.
+▪ a calming/soothing influence The music seemed to have a calming influence.
+▪ sb’s personal influence Frank used his personal influence to get his son a job at the newspaper.
+▪ political/cultural/economic influence French political influence began to dominate the country.
+▪ outside/external influence (=happening from outside a country or a situation) They must make their own decisions, free from external influence. | The US remains the biggest outside influence on the country.
+▪ undue influence (=too much influence) He felt that the United States wielded undue influence in Europe.
+• • •
+THESAURUS
+▪ effect a change that is caused by an event, action etc: The people in this area are still suffering from the effects of the famine. | The treatment had little or no effect.
+▪ impact an effect that happens as a result of something important, especially a big and permanent effect: Changes in technology have had a massive impact on the way we work. | the environmental impact of industrial activity
+▪ influence the effect that something has on people’s opinions or behaviour, or on how something develops: American television has had a big influence on popular culture in the west. | His ideas had a lot of influence at the time.
+▪ side effect an unwanted and unplanned effect that something has – used especially about drugs and medical treatment: Common side effects of the drug may include headaches and muscle pains.
+▪ after-effects British English, aftereffects American English bad effects that continue for a long time after the thing that caused them: A traumatic experience can have severe psychological after-effects. | the after-effects of the war
+▪ repercussions /ˌriːpəˈkʌʃəns $ -pər-// the effects that happen later as a result of an event or decision, especially a range of effects that continue for a long time: The scandal could have serious repercussions for her career. | The judge’s decision is likely to have important repercussions for future cases of this kind.
+▪ a knock-on effect British English used when something has an effect on something, which then has an effect on something else: Higher oil prices have a knock-on effect on other fuels.
+▪ footprint the effect that human activities have on the environment, caused by using up its natural resources, pollution, waste etc: Businesses all over the world must attempt to reduce their environmental footprint. | The house has a low carbon footprint (=it uses very little energy from carbon and therefore is good for the environment).
+
+apprenticeship
+ap‧pren‧tice‧ship /əˈprentəsʃɪp, əˈprentɪsʃɪp/ BrE  AmE  noun [uncountable and countable]
+the job of being an apprentice, or the period of time in which you are an apprentice:
+ He’s serving an apprenticeship as a printer.
+ a five-year apprenticeship
+apprentice
+ap‧pren‧tice /əˈprentəs, əˈprentɪs/ BrE  AmE  noun [countable]
+[Date: 1300-1400; Language: Old French; Origin: aprentis, from aprendre 'to learn', from Latin apprehendere; ⇨ ↑apprehend]
+someone who works for an employer for a fixed period of time in order to learn a particular skill or job:
+ She works in the hairdresser’s as an apprentice.
+ an apprentice electrician
+—apprentice verb [transitive usually passive]:
+ He was apprenticed to a local architect.
+ 
+ concerted
+concerted UK  [kənˈsɜː.tɪd] US  [-ˈsɝː.t ̬ɪd] adjective usually before noun
+1. planned or done together for a shared purpose
+• The richer countries of the world should take concerted action to help the poorer countries.
+• The D-Day invasion was a concerted exercise by the armed forces of Britain, the US and Canada.
+Thesaurus+: ↑Acting, being or existing together
+2. describes an effort or attempt that is determined and serious
+• There has been a concerted campaign against the proposals.
+• He's making a concerted effort to improve his appearance.
+Thesaurus+: ↑Strong-willed
+concerted
+ / kEn5s\:tId; kEn`s[tId/ adj [usu attrib 通常作定语] arranged or done in co-operation 共同筹划的; 合作的: a concerted effort, attack, campaign 共同努力、联合攻击、协同作战 * concerted action by several police forces 警方数部门的联合行动.
+ 
+ ubiquitous
+ubiquitous UK  [juːˈbɪk.wɪ.təs] US  [-wə.t ̬əs] formal or humorous adjective
+seeming to be in all places
+• Leather is very much in fashion this season, as of course is the ubiquitous denim.
+• The Swedes are not alone in finding their language under pressure from the ubiquitous spread of English.
+• The radio, that most ubiquitous of consumer-electronic appliances, is about to enter a new age.
+
+from pillar to post
+from pillar to post idiom
+If someone goes from pillar to post, they are forced to keep moving from one place to another
+• My parents were always on the move and so my childhood was spent being dragged from pillar to post.
+Mandarin: 东奔西跑 (zh), 四处奔走, 到处漂泊
+ploy
+ploy /plɔɪ/ BrE  AmE  noun [countable]
+[Date: 1600-1700; Origin: Probably from employ]
+a clever and dishonest way of tricking someone so that you can get an advantage:
+ His usual ploy is to pretend he’s ill.
+ploy to do something
+ a smart ploy to win votes
+ploy
+ / plRI; plRI/ n words or actions, eg in a game, intended to win an advantage over one's opponent （克敌制胜的）策略, 手法（如在比赛中的）: It was all a ploy to distract attention from his real aims. 
+ 
+ sparse
+
+ / spB:s; spBrs/ adj not dense, thick or crowded; thinly scattered 稀少的; 稀疏的; 稀落的: a sparse population 稀少的人口 * a sparse beard 稀疏的胡须 * The television coverage of the event was rather sparse. 电视上对这件事报道得很少.
+ > sparsely adv: a sparsely furnished room, ie one with little furniture 陈设简陋的房间 * sparsely spread financial resources 分散的财力. sparseness (also sparsity / 5spB:sEtI; `spBrsEtI/) n [U]: the sparseness of trees on the landscape 景物中树木寥寥无几.
+ sparse
+sparse UK  [spɑːs] US  [spɑːrs] adjective [sparser sparsest]
+small in numbers or amount, often scattered over a large area
+• a sparse population/audience
+• sparse vegetation/woodland
+• a sparse beard
+• Information coming out of the disaster area is sparse.

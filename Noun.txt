@@ -1526,7 +1526,6 @@ derma·tol·ogy [dermatological dermatology] BrE [ˌdɜːməˈtɒlədʒi]  NAmE 
 the scientific study of skin diseases
 Derived Word: ↑dermatological
 
-
 choreography
 noun
 EXAMPLES FROM OTHER ENTRIES
@@ -1884,3 +1883,27 @@ COLLOCATIONS
 ■ calorie + NOUN
 ▪ calorie intake (=the amount of calories someone eats) There are several ways you can reduce your calorie intake.
 ▪ calorie content Pizzas have a very high calorie content.
+
+coronary
+
+ / 5kCrEnrI; ?@ 5kR:rEnerI; `kRrE9nZrI/ adj (anatomy 解) of the arteries supplying blood to the heart 冠状动脉的: coronary arteries 冠状动脉.
+
+ # ,coronary throm`bosis (also infml 口语亦作 coronary) blocking of a coronary artery by a clot of blood, damaging the heart and possibly causing death; heart attack 冠状动脉血栓; 心脏病发作.
+ 
+ 
+ validity
+val·id·ity AW [validity] BrE [vəˈlɪdəti]  NAmE [vəˈlɪdəti]  noun uncountable
+1. the state of being legally or officially acceptable
+• The period of validity of the agreement has expired.
+2. the state of being logical and true
+• We had doubts about the validity of their argument.
+ 
+Example Bank:
+• His reputation lends a certain validity to the approach that it might not deserve.
+• The judges upheld the validity of the previous judgement.
+• The legal validity of the claims has been challenged.
+• The results are of doubtful validity.
+• The theory has the face validity of being consistent with recent findings.
+• the theory's validity for parent-child relationships
+• to assess the scientific validity of new treatments
+• Of course we recognize the validity of that argument.
