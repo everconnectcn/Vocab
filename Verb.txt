@@ -1133,6 +1133,14 @@ to spread or give out something, especially news, information, ideas, etc., to a
 Thesaurus+: ↑Announcing, informing and stating ↑Spreading and scattering
 Derived: dissemination
 
+<<<<<<< HEAD
+embezzle
+
+ / Im5bezl; Im`bZzl/ v [Tn] use (money placed in one's care) in a wrong way to benefit oneself 盗用, 挪用（款项）: embezzle the pension fund 挪用抚恤金 * The treasurer embezzled 2000 of the club's money. 司库盗用了俱乐部2000英镑.
+
+ > embezzlement n [C, U] (instance of) embezzling 盗用; 挪用: petty embezzlements 少量的盗用公款 * He was found guilty of embezzlement. 他被判盗用公款罪.
+ embezzler / Im5bezlE(r); Im`bZzlL/ n person who embezzles 盗用者; 挪用公款者.
+=======
 formulate
 for‧mu‧late AC /ˈfɔːmjəleɪt, ˈfɔːmjʊleɪt $ ˈfɔːr-/ BrE  AmE  verb [transitive]
 1. to develop something such as a plan or a set of rules, and decide all the details of how it will be done
@@ -1144,6 +1152,7 @@ formulate an idea/theory
  We are studying the situation but have not formulated any response yet.
 —formulation /ˌfɔːmjəˈleɪʃən, ˌfɔːmjʊˈleɪʃən $ ˌfɔːr-/ noun [uncountable and countable]:
  the formulation of clear objectives
+<<<<<<< HEAD
  
  fulfil
 ful·fil [fulfil fulfils fulfilled fulfilling] (BrE) (NAmE ful·fill)BrE [fʊlˈfɪl]  NAmE [fʊlˈfɪl]  verb (ful·fill·ing, ful·filled, ful·filled)
@@ -1251,3 +1260,6 @@ III. slick3 BrE  AmE  verb
 slick something ↔ down/back phrasal verb
 to make hair smooth and shiny by putting oil, water etc on it:
  His hair had been combed back and slicked down with something to make it neat.
+=======
+>>>>>>> a5a8e7fdaf0bed922c95f23825e179a4df5dd3c5
+>>>>>>> e1eb379111c5b75e2d919989391c6168b6af707b

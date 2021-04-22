@@ -1692,6 +1692,34 @@ ideas or statements that may be false or exaggerated and that are used in order 
 • enemy propaganda
 • a propaganda campaign
 
+<<<<<<< HEAD
+substance abuse
+ˈsubstance aˌbuse BrE  AmE  noun [uncountable]
+the habit of taking too many illegal drugs, in a way that harms your health SYN drug abuse
+From CALD3 - Paracel & Spratly Islands - Van Lang - Viet Nam
+substance abuse
+ˈsubstance aˌbuse formal noun uncountable UK  US 
+the use of a drug to get pleasure, or to improve a person's performance of an activity, or because a person cannot stop using it
+Thesaurus+: ↑Drugs - general words ↑Specific types of drug
+Derived: substance abuser
+
+courier
+▪ I. cour·ier [courier couriers] BrE [ˈkʊriə(r)]  NAmE [ˈkʊriər]  noun
+1. a person or company whose job is to take packages or important papers somewhere
+• We sent the documents by courier.
+2. (BrE) a person who is employed by a travel company to give advice and help to a group of tourists on holiday
+ 
+Word Origin:
+late Middle English (denoting a person sent to run with a message): originally from Old French coreor; later from French courier (now courrier), from Italian corriere; based on Latin currere ‘to run’.
+ 
+Example Bank:
+• I'll send a courier with the blueprints.
+• Urgent deliveries of medicine may be sent by motorcycle courier.
+ 
+▪ II. cour·ier verb
+• ~ sth Courier that letter— it needs to get there today (= send it by ↑courier ).
+Main entry: ↑courierderived
+=======
 handicraft
 hand‧i‧craft /ˈhændikrɑːft $ -kræft/ BrE  AmE  (also craft) noun [countable usually plural]
 [Date: 1200-1300; Origin: handcraft 'handicraft' (10-21 centuries), on the model of handiwork]
@@ -1907,6 +1935,7 @@ Example Bank:
 • the theory's validity for parent-child relationships
 • to assess the scientific validity of new treatments
 • Of course we recognize the validity of that argument.
+<<<<<<< HEAD
 
 health care
 ˈhealth care [health care] BrE   NAmE   noun uncountable
@@ -2099,3 +2128,6 @@ Example Bank:
 • In some parts of the country raw sewage is pumped straight in the ocean.
 • Sewage should be treated in a proper disposal system.
 • a sewage treatment plant
+=======
+>>>>>>> a5a8e7fdaf0bed922c95f23825e179a4df5dd3c5
+>>>>>>> e1eb379111c5b75e2d919989391c6168b6af707b
