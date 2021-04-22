@@ -1133,7 +1133,6 @@ to spread or give out something, especially news, information, ideas, etc., to a
 Thesaurus+: ↑Announcing, informing and stating ↑Spreading and scattering
 Derived: dissemination
 
-<<<<<<< HEAD
 embezzle
 
  / Im5bezl; Im`bZzl/ v [Tn] use (money placed in one's care) in a wrong way to benefit oneself 盗用, 挪用（款项）: embezzle the pension fund 挪用抚恤金 * The treasurer embezzled 2000 of the club's money. 司库盗用了俱乐部2000英镑.
@@ -1152,4 +1151,3 @@ formulate an idea/theory
  We are studying the situation but have not formulated any response yet.
 —formulation /ˌfɔːmjəˈleɪʃən, ˌfɔːmjʊˈleɪʃən $ ˌfɔːr-/ noun [uncountable and countable]:
  the formulation of clear objectives
->>>>>>> a5a8e7fdaf0bed922c95f23825e179a4df5dd3c5
