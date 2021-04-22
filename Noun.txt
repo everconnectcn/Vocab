@@ -1934,6 +1934,7 @@ Example Bank:
 • the theory's validity for parent-child relationships
 • to assess the scientific validity of new treatments
 • Of course we recognize the validity of that argument.
+<<<<<<< HEAD
 
 
 impediment
@@ -1950,3 +1951,466 @@ late Middle English: from Latin impedimentum, from impedire ‘shackle the feet 
 Example Bank:
 • Their boycott of the talks constitutes a serious impediment to peace negotiations.
 • There are no legal impediments to their appealing against the decision.
+=======
+<<<<<<< HEAD
+
+health care
+ˈhealth care [health care] BrE   NAmE   noun uncountable
+the service of providing medical care
+• the costs of health care for the elderly
+• health care workers/professionals
+From Longman DOCE 5th Ed. (En-En)
+health care
+ˈhealth care BrE  AmE  noun [uncountable]
+the service that is responsible for looking after the health of all the people in a country or an area:
+ The government has promised wide-ranging health care for all.
+ health care workers
+From Longman DOCE5 Extras (En-En)
+health care
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ a health-care plan
+EXAMPLES FROM CORPUS
+▪ Also, there is a need on the part of decision makers to assess the relative value for money from competing health care interventions.
+▪ Despite initial euphoria, backers of mental health care know that the obstacles to final passage are large.
+▪ In the past 10 years, health care has become increasingly profit-driven.
+▪ The 20-question survey had seven so-called positive questions about health care, which had correct or incorrect answers.
+▪ This chapter examines the contribution of the health care agencies.
+▪ This is because health and the quality and availability of health care often become the focus of community struggle.
+▪ This should focus our attention more on the nature of health care commissioning activity.
+
+healthcare (usually uncountable, plural healthcares)
+Alternative spelling of health care
+1985, William J. Winston, “Mission and Future Applications of the Proceedings”, in Professional Practice in Health Care Marketing: Proceedings of the American College of Healthcare Marketing:
+There are many groups trying to claim healthcare marketing as part of their activity.
+1990, Scott Alan Stewart, Videodiscs in Healthcare: A Guide to the Industry:
+All in all, a terrific burden is being placed on employers, especially in healthcare, as legislation regulating safety in the workplace proliferates, and it appears that OSHA is beginning to take training and other violations seriously as well.
+2011, Bruce S. Jansson, Improving Healthcare through Advocacy‎[1], John Wiley & Sons, →ISBN, page 3:
+Healthcare patients or consumers often need help in addressing these seven problems.
+
+
+advent
+ad·vent [advent advents] BrE [ˈædvent]  NAmE [ˈædvent]  noun
+1. singular the ~ of sth/sb the coming of an important event, person, invention, etc
+• the advent of new technology
+2. Advent uncountable (in the Christian religion) the period of approximately four weeks before Christmas
+ 
+Word Origin:
+Old English, from Latin adventus ‘arrival’, from advenire, from ad- ‘to’ + venire ‘come’.
+ 
+Example Bank:
+• Before the advent of the railways, communications were slow and difficult.
+• She succeeded in a profession which, until her advent, had been entirely male.
+• The advent of the child had caused problems in their relationship.
+• The advent of the new government resulted in many changes.
+• The advent of the new regime led to a marked decline in women's rights.
+• The fighting continued until the advent of winter.
+• With the advent of John Hume came a change of direction.
+
+hazard
+hazard UK  [ˈhæz.əd] US  [-ɚd] noun countable [hazards]
+something that is dangerous and likely to cause damage
+• a health/fire hazard
+• The busy traffic entrance was a hazard to pedestrians.
+Thesaurus+: ↑Dangers and threats
+verb transitive
+1. to risk doing something, especially making a guess, suggestion, etc
+• I wouldn't like to hazard a guess.
+Thesaurus+: ↑Taking risks ↑Gambling and bookmaking ↑Guessing, supposing and suspecting
+2. formal to risk doing something which might cause harm to someone or something else
+• The policy hazarded the islands and put the lives of the inhabitants at risk.
+
+haphazard
+ / hAp5hAzEd; 9hAp`hAzLd/ adj without plan or order; random 无计画的; 无秩序的; 任意的: books piled on shelves in a haphazard fashion 乱七八糟地堆在书架上的书籍.
+ > haphazardly adv.
+ 
+ polyester
+ / 9pClI5estE(r); ?@ 5pCli:estEr; 9pBli`ZstL/ n [U, C] artificial fabric used for making clothes, etc 聚酯纤维: [attrib 作定语] a polyester shirt 聚酯纤维衬衫.
+ polyester
+poly·es·ter [polyester polyesters] BrE [ˌpɒliˈestə(r)]  NAmE [ˌpɑːliˈestər]  NAmE [ˈpɑːliestər]  noun uncountable
+a strong material made of ↑fibres (called polyesters) which are produced by chemical processes, often mixed with other materials and used especially for making clothes
+• a cotton and polyester shirt
+Example Bank:
+• trousers made from a 50% cotton, 50% polyester mix
+
+hangar
+ / 5hANE(r); `hANL/ n large shed in which aircraft are kept 飞机棚; 飞机库.
+hanger
+hanger UK  [ˈhæŋ.ə r ] US  [-ɚ] noun countable or (also clothes hanger , also coat hanger) [hangers]
+a curved piece of wire, wood or plastic on which clothes are hung while they are being stored
+Thesaurus+: ↑Frames and structures
+
+
+ 1. British English a container for putting waste in ⇨ trash can, waste paper basket:
+ Throw it in the bin. ⇨ ↑dustbin, ↑litter bin
+2. a large container for storing things, such as goods in a shop or substances in a factory
+• • •
+COLLOCATIONS
+■ types of bin
+▪ a rubbish/waste bin The rubbish bin is full.
+▪ a litter bin (=a bin in a public place) Please put all your rubbish in the litter bin.
+▪ a wastepaper bin (=for paper you throw away) I threw the letter straight in the wastepaper bin.
+▪ a pedal bin (=that you open by pressing a lever with your foot) There is a pedal bin in the bathroom.
+▪ a wheelie bin (=a big bin on wheels kept outside a house) They come to empty the wheelie bins on Friday.
+▪ a recycling bin (=for rubbish that you can recycle) Those plastic cartons can go in the recycling bin.
+■ verbs
+▪ put/throw something in the bin (also chuck something in the bin informal) Shall I put this old bread in the bin?
+■ bin + NOUN
+▪ a bin bag/liner (=that you use inside a bin to keep it clean) We need some more bin liners for the kitchen bin.
+▪ the bin men (=the people who take your rubbish away) Which day do the bin men come?
+
+pedestal
+ped‧es‧tal /ˈpedəstəl, ˈpedɪstəl/ BrE  AmE  noun [countable]
+[Date: 1500-1600; Language: French; Origin: piédestal, from Old Italian piedestallo, from pie di stallo 'foot of the stall']
+1. the base on which a ↑pillar or ↑statue stands:
+ a Grecian bust on a pedestal
+2. a solid vertical post that supports something such as a table:
+ the pedestal of the dentist’s chair
+pedestal basin British English (=a bowl to wash your hands in, supported by a pedestal)
+3. put/place somebody on a pedestal to admire someone so much that you treat them or talk about them as though they are perfect:
+ Women are both put on a pedestal and treated like second-class citizens.
+ 
+ crawl
+TRY TO PLEASE
+2. intransitive informal disapproving to try hard to please in order to get an advantage
+• I don't like people who crawl.
+• UK He crawled to the group leader because he wanted a promotion.
+4. intransitive ~ (to sb) (informal, disapproving) to be too friendly or helpful to sb in authority, in a way that is not sincere, especially in order to get an advantage from them
+Thesaurus+: ↑Praising insincerely or too eagerly
+MOVEMENT
+2. only singular a very slow speed
+• Traffic moved forward at a crawl.
+• She's always crawling to the boss.
+
+cast-off
+▪ I. ˈcast-off [cast-off cast-offs] BrE   NAmE   (especially BrE) (also ˈhand-me-down especially in NAmE) noun usually plural
+a piece of clothing that the original owner no longer wants to wear
+• She used to wear her sister's cast-offs.
+See also: ↑hand-me-down
+
+all-in-one
+all-in-one UK  [ˌɔːl.ɪnˈwʌn] US [ˌɑːl-] UK adjective
+doing the work of two or more usually separate parts
+• an all-in-one cleaner and polish
+Thesaurus+: ↑Complete and whole ↑Very and extreme
+ 
+noun countable
+a piece of clothing that covers the whole body rather than being divided into a separate top and bottom part
+• She wears a pink Lycra all-in-one for her aerobics class.
+ costumier / kC5stju:mIE(r); ?@ -5stu:-; kBs`tumIL/ n person who makes, deals in, or hires out costumes, esp for theatrical performances 服装制作人经销商或出租商（尤指戏装）: a theatrical costumier 舞台服装制作人.
+
+ # `costume jewellery jewellery made with artificial gems 人造珠宝饰物.
+ 
+ bale
+bale [bale bales baled baling] noun, verb BrE [beɪl]  NAmE [beɪl] 
+noun
+a large amount of a light material pressed tightly together and tied up
+• bales of hay/straw/cotton/wool
+ 
+Word Origin:
+Middle English: probably from Middle Dutch, from Old French; ultimately of Germanic origin and related to ↑ball ‘spherical object’.
+savannah
+sa·van·nah [savannah savannahs] (also sa·vanna)BrE [səˈvænə]  NAmE [səˈvænə]  noun countable, uncountable
+a wide flat open area of land, especially in Africa, that is covered with grass but has few trees
+
+undertone
+under·tone [undertone undertones] BrE [ˈʌndətəʊn]  NAmE [ˈʌndərtoʊn] noun ~ (of sth)
+a feeling, quality or meaning that is not expressed directly but is still noticeable from what sb says or does
+Syn: ↑undercurrent
+• His soft words contained an undertone of warning.
+• The play does not have the political undertones of the novel.
+compare ↑overtone
+Idioms: ↑in an undertone ▪ ↑in undertones
+Example Bank:
+• His voice carried bitter undertones.
+• The article was full of racist undertones.
+• The couple at the next table were speaking in undertones.
+• There are hints of political undertones throughout the movie.
+undertone
+ / 5QndEtEUn; `QndL9ton/ n 
+ (often pl 常作复数) low, quiet or subdued tone 低调; 低声; 低音: speak, murmur, etc in an undertone 低声说话、低语 * threatening, sympathetic, sibilant undertones 威胁的、同情的、y y的低声调. 
+ ~ (of sth) underlying feeling, quality, implication, etc; undercurrent 潜在的感情、特质、意义等; 暗流: There were undertones of relief as the visitors left. 客人走后大家都暗暗松了口气. Cf 参看 overtone. 
+ thin or subdued colour 淡色; 浅色; 柔和的色调: pink with an undertone of mauve 略带淡紫色的粉红.
+ 
+ sewage
+sew·age BrE [ˈsuːɪdʒ]  BrE [ˈsjuːɪdʒ]  NAmE [ˈsuːɪdʒ]  noun uncountable
+used water and waste substances that are produced by human bodies, that are carried away from houses and factories through special pipes (= ↑sewers )
+• a ban on the dumping of raw sewage (= that has not been treated with chemicals) at sea
+• sewage disposal
+compare ↑wastewater
+ 
+Word Origin:
+[sewage] mid 19th cent.: from ↑sewer, by substitution of the suffix ↑-age.
+Example Bank:
+• In some parts of the country raw sewage is pumped straight in the ocean.
+• Sewage should be treated in a proper disposal system.
+• a sewage treatment plant
+
+tremor
+trem‧or /ˈtremə $ -ər/ BrE  AmE  noun [countable]
+[Date: 1300-1400; Language: Old French; Origin: tremour, from Latin tremor, from tremere; ⇨ ↑tremble]
+1. a small ↑earthquake in which the ground shakes slightly:
+ an earth tremor
+2. a slight shaking movement in your body that you cannot control, especially because you are ill, weak, or upset
+• • •
+THESAURUS
+▪ earthquake a sudden shaking of the earth’s surface: The earthquake destroyed homes, telephone lines and roads.
+▪ quake informal an earthquake – used especially in journalism: More than 2000 people died when a quake hit the island of Flores.
+▪ tremor a small movement in the earth’s surface in which the ground shakes slightly: He was awoken by a series of tremors during the night.
+▪ aftershock further movements in the earth’s surface that happen after a larger earthquake: In the days after the earthquake, the area suffered a series of aftershocks.
+▪ tsunami an ocean wave caused by an earthquake under the water: There was no warning of the approaching tsunami.
+
+The weather
+Good weather
+be bathed in/bask in/be blessed with/enjoy bright/brilliant/glorious sunshine
+the sun shines/warms sth/beats down (on sth)
+the sunshine breaks/streams through sth
+fluffy/wispy clouds drift across the sky
+a gentle/light/stiff/cool/warm/sea breeze blows in/comes in off the sea
+the snow crunches beneath/under sb's feet/boots
+Bad weather
+thick/dark/storm clouds form/gather/roll in/cover the sky/block out the sun
+the sky darkens/turns black
+a fine mist hangs in the air
+a dense/heavy/thick fog rolls in
+the rain falls/comes down (in buckets/sheets)/pours down
+snow falls/comes down/covers sth
+the wind blows/whistles/howls/picks up/whips through sth/sweeps across sth
+strong/gale-force winds blow/gust (up to 80 mph)
+a storm is approaching/is moving inland/hits/strikes/rages
+thunder rolls/rumbles/sounds
+(forked/sheet) lightning strikes/hits/flashes
+a (blinding/snow) blizzard hits/strikes/blows/rages
+a tornado touches down/hits/strikes/destroys sth/rips through sth
+forecast/expect/predict rain/snow/a category-four hurricane
+(NAmE) pour (down)/ (BrE) pour (down) with rain
+get caught in/seek shelter from/escape the rain
+be covered/shrouded in mist/a blanket of fog
+be in for/brave/shelter from a/the storm
+hear rolling/distant thunder
+be battered/buffeted by strong winds
+(BrE) be blowing a gale
+battle against/brave the elements
+The weather improves
+the sun breaks through the clouds
+the sky clears/brightens (up)/lightens (up)
+the clouds part/clear
+the rain stops/lets up/holds off
+the wind dies down
+the storm passes
+the mist/fog lifts/clears
+
+■ adjectives
+▪ strong The wind was so strong he could hardly stand.
+▪ light/gentle (=not strong) Winds tomorrow will be light.
+▪ high winds (=strong wind) High winds are making driving conditions difficult.
+▪ a cold/chill wind There was a cold wind this afternoon.
+▪ an icy/biting/bitter wind (=very cold) She shivered in the icy wind.
+▪ a gusty/blustery wind (=not blowing steadily) A blustery wind was sending light flurries of rain against the window.
+▪ a fresh wind British English (=quite cold and strong) It will feel colder in places exposed to a fresh northeasterly wind.
+▪ a 20-/40-mile-an-hour wind The walkers struggled in 35-mile-an-hour winds.
+▪ gale force/hurricane force winds (=very strong) He was buffeted by the gale force winds.
+▪ the north/south etc wind (=coming from the north etc) They sought shelter from the north wind.
+▪ a northerly/southerly etc wind (=coming from the north etc) A fresh northerly wind was speeding the ship southwards.
+▪ the prevailing wind (=the most frequent wind in an area) The prevailing wind comes from the west.
+■ verbs
+▪ the wind blows A cold wind was blowing.
+▪ the wind picks up (also the wind gets up British English) (=becomes stronger) The rain beat down and the wind was picking up.
+▪ the wind drops/dies down (=becomes less strong) The wind had dropped a little.
+▪ the wind howls (=makes a lot of noise) The wind howled round the house all night.
+▪ the wind changes (=starts blowing from a different direction) The wind had to change before his fighting ships could sail against the Spanish.
+■ phrases
+▪ a gust of wind A gust of wind rattled the window.
+▪ be blowing/swaying/flapping etc in the wind The trees were all swaying in the wind.
+■ wind + NOUN
+▪ wind speed Wind speeds of up to 80 miles an hour were recorded.
+
+horticulture
+
+ / 5hR:tIkQltFE(r); `hRrtI9kQltFL/ n [U] art of growing flowers, fruit and vegetables; gardening 园艺; 园艺学.
+
+ > horticultural / 9hR:tI5kQltFErEl; 9hRrtI`kQltFErEl/ adj: a horticultural show, society, expert 园艺展览、协会、专家.
+ horticulturist / 9hR:tI5kQltFErIst; 9hRrtI`kQltFErIst/ personwho practises horticulture; skilled gardener 园艺家; 园艺学家.
+ 
+ counselor
+counselor UK [ˈkaʊn t.s ə l.ə r ] US  [-ɚ] US noun countable [counselors]
+1. a lawyer
+• as form of address I don't think that question is relevant, counselor.
+Thesaurus+: ↑Lawyers and legal officials
+2. someone who looks after children at a summer camp
+Thesaurus+: ↑Parenting and caring for children
+ 
+• He hired Jeffrys as his counselor.
+• His counselor made the case very forcibly.
+
+hotcake
+ˌhot ˈcake BrE  AmE  British English, hot‧cake American English /ˈhɒtkeɪk $ ˈhɑːt-/ noun [countable]
+1. be selling/going like hot cakes if things are selling like hot cakes, they are very popular and people are buying a lot of them very quickly:
+ Copies of the book are selling like hot cakes.
+2. American English a ↑pancake
+
+
+washer
+
+ / 5wCFE(r); ?@ 5wR:-; `wRFL/ n 
+ small flat ring made of rubber, metal, plastic, etc placed between two surfaces (eg under a nut) to make a screw or joint tight, prevent leakage, etc 垫圈（橡胶、金属、塑料等的小扁环, 垫在被连接件如螺母下使之更紧、防漏等）. =>illus at bolt 见bolt插图. 
+ (infml 口) automatic machine for washing clothes 洗衣机.
+ 
+ chuck 1
+1 / tFQk; tFQk/ v 
+ [Tn, Tn.pr, Tn.p, Dn.n] (infml 口) throw (sth) carelessly or casually （胡乱地或随便地）扔、抛（某物）: Chuck it in the bin! 把它扔到垃圾桶里去! * chuck old clothes away/out 把旧衣服扔掉[出去] * Chuck me (over) the newspaper if you've finished reading it. 你看完了报就扔给我. 
+ [Tn, Tn.p] ~ sb/sth (in/up) (infml 口) give up sb/sth; abandon 放弃某人[某事物]; 抛弃: She's just chucked her boy-friend, ie ended her relationship with him. 她刚刚甩了男朋友. * He chucked in his job last week. 上星期他辞掉了工作. 
+ (idm 习语) chuck it (sl 俚) stop doing sth immediately 立即停止做某事物: I'm sick of your sarcastic remarks just chuck it (ie stop making them), will you? 我已经听腻了你的冷嘲热讽--别说了, 行吗? chuck sb under the chin touch or stroke sb lovingly or playfully under the chin 爱抚或抚弄某人的下巴. 
+ (phr v) chuck sb out (of sth) (infml 口) force sb to leave (a place) 迫使某人离开（某地）; 撵走: They were chucked out of the pub for being too rowdy. 他们因为太吵闹被撵出酒馆. * He failed his exams and was chucked out of university. 他考试不及格, 被大学开除.
+ > chuck n 
+ playful touch or stroke under the chin 抚弄或抚摸下巴. 
+ (idm 习语) give sb/get the chuck (infml 口) dismiss or reject sb/be dismissed or rejected 辞退或拒绝某人[被辞退或拒绝].
+ # chucker-out / 9tFQkEr 5aUt; 9tFQkL`aJt/ n (infml 口) person whose job is to remove troublesome people from public-houses, meetings, etc （受雇从酒馆、会议等中撵走捣乱者的）保安人员.
+chuck 2
+2 / tFQk; tFQk/ n (a) part of a lathe that grips the object to be worked on 卡盘, 夹盘（车床上用以夹住工件的部分）. (b) part of a drill that grips the bit 夹头（钻或钻床上用以夹住钻头的部分）. =>illus at drill 见drill之插图.
+chuck 3
+3 / tFQk; tFQk/ n [U] (also `chuck steak) cut2(5) of beef taken from the neck to the ribs （牛的从颈到肋骨的）颈肉.
+
+chuck
+I. chuck1 S3 /tʃʌk/ BrE  AmE  verb [transitive] especially British English informal
+[Date: 1500-1600; Origin: Perhaps from Old French chuquer 'to knock']
+1. to throw something in a careless or relaxed way
+chuck something on/out of/into etc something
+ Tania chucked her bag down on the sofa.
+ I chucked a few things into a suitcase and left.
+chuck somebody something
+ Chuck me that pen, would you?
+2. to throw something away because you do not want it any more:
+ I think I might have chucked it by mistake.
+3. (also chuck something ↔ in) to leave your job:
+ You haven’t chucked your job, have you?
+4. British English to end a romantic relationship with someone:
+ Why did Judy chuck him?
+5. chuck it down to rain very heavily:
+ It chucked it down all afternoon.
+6. chuck somebody under the chin to gently touch someone under their chin in a friendly way
+chuck something ↔ away phrasal verb informal
+to throw something away because you do not want it any more:
+ I chucked all my old clothes away when we moved house.
+chuck something ↔ in phrasal verb
+to leave your job:
+ He had a job but he chucked it in.
+ I decided to chuck it all in and go to Australia.
+chuck somebody off something phrasal verb informal
+1. to make someone leave a place or stop using something:
+ He’ll chuck you off his land if he finds you.
+2. chuck yourself off something to jump from somewhere that is very high:
+ She tried to chuck herself off the bridge twice last week.
+chuck somebody/something ↔ out phrasal verb informal
+1. to throw something away because you do not want it any more:
+ It was broken so I chucked it out.
+2. to make someone leave a place or a job:
+ Their landlord chucked them out when they couldn’t pay the rent.
+chuck somebody/something ↔ out of
+ They got chucked out of the pub for fighting.
+II. chuck2 BrE  AmE  noun
+[Date: 1700-1800; Origin: chuck 'large awkward-shaped piece' (17-19 centuries), probably from chock]
+1. [countable] part of a machine that holds something firmly so that it does not move
+2. [singular] spoken a friendly word used to address someone in some parts of Northern England
+
+trick of the trade
+trick of the trade idiom
+a clever method used by people who are experienced in a particular type of work or activity
+• Newspapers often improve photographs before they print them - it's one of the tricks of the trade.
+Thesaurus+: ↑Ways of achieving things
+Main entry: trickidiom
+
+antique
+I. an‧tique1 /ˌænˈtiːk◂/ BrE  AmE  adjective [usually before noun]
+[Date: 1400-1500; Language: French; Origin: Latin antiquus, from ante 'before']
+antique furniture, jewellery etc is old and often valuable:
+ an antique rosewood desk
+ vintage
+vintage UK  [ˈvɪn.tɪdʒ] US  [-t ̬ɪdʒ] adjective
+ 
+HIGH QUALITY
+1. of high quality and lasting value, or showing the best and most typical characteristics of a particular type of thing, especially from the past
+• a vintage aircraft
+• a vintage comic book
+• This film is vintage (= has the best characteristics typical of films made by) Disney.
+• She loves buying vintage clothing.
+
+half-measures
+half-measures UK  [ˌhɑːfˈmeʒ.əz] US  [ˌhæfˈmeʒ.ɚz] plural noun disapproving
+actions which only achieve part of what they are intended to achieve
+• I'm not interested in half-measures.
+
+cutback
+cut‧back /ˈkʌtbæk/ BrE  AmE  noun [countable usually plural]
+a reduction in something, such as the number of workers in a company or the amount of money a government or company spends:
+ The shortage of teachers was blamed on government cutbacks.
+cutback in
+ cutbacks in funding for libraries
+ A fall in donations has forced the charity to make cutbacks.
+sharp/drastic/severe cutback
+ sharp cutbacks in the military budget
+⇨ ↑cut back(1)
+
+amalgamate
+a‧mal‧ga‧mate /əˈmælɡəmeɪt/ BrE  AmE  verb formal
+1. [intransitive and transitive] if two organizations amalgamate, or if one amalgamates with another, they join and make one big organization SYN merge
+amalgamate something with/into/under something
+ The agency is expected to amalgamate with the National Rivers Authority.
+2. [transitive] to combine two or more things together to make one thing:
+ Stir until the ingredients are amalgamated.
+amalgamate something with/into something
+ The editors will amalgamate all the information into one article.
+—amalgamation /əˌmælɡəˈmeɪʃən/ noun [uncountable and countable]:
+ an amalgamation between two companies
+ 
+ distress
+dis·tress [distress distresses distressed distressing] noun, verb BrE [dɪˈstres]  NAmE [dɪˈstres] 
+noun uncountable
+1. a feeling of great worry or unhappiness; great suffering
+• The newspaper article caused the actor considerable distress.
+• She was obviously in distress after the attack.
+• deep emotional distress
+2. suffering and problems caused by not having enough money, food, etc.
+Syn: ↑hardship
+• economic/financial distress
+• The charity aims to relieve poverty and distress caused by natural disasters.
+3. a situation in which a ship, plane, etc. is in danger or difficulty and needs help
+• a distress signal (= a message asking for help)
+• It is a rule of the sea to help another boat in distress.
+see damsel in distress at ↑damsel
+ 
+Word Origin:
+Middle English: from Old French destresce (noun), destrecier (verb), based on Latin distringere ‘stretch apart’.
+ 
+Thesaurus:
+distress noun U
+• He was obviously in distress after the attack.
+pain • • suffering • • misery • • agony • |informal hurt • • torture • |formal anguish •
+distress/pain/misery/hurt/anguish at sth
+in distress/pain/misery/agony/anguish
+cause (sb) distress/pain/suffering/misery/agony/hurt/anguish
+Distress, pain or suffering? These are all words for a feeling of great unhappiness. Distress can also be a feeling of worry. Pain is often used when the hurt is individual and the cause more personal, such as the death of a loved one. Suffering often refers to sth on a large scale that affects many people, such as a war or natural disaster.
+ 
+Example Bank:
+• Grief over ageing is a source of distress to men and women.
+• Hall expressed his distress at the court's failure to uphold his rights.
+• He dropped out of college, to his family's distress.
+• He tried to conceal his distress, but the tremor in his voice was unmistakable.
+• Sensing her distress, Luke walked over and patted her shoulder.
+• She seemed calm and showed no signs of distress.
+• The animals suffer great pain and distress when hunted.
+• The causes of social distress include inadequate housing.
+• The child was clearly in distress.
+• The president issued a statement expressing her distress over the affair.
+• The sinking ship sent out a distress call.
+• a ship in distress
+• an unhappy young couple in acute relationship distress
+• her obvious distress at hearing such bad news
+• medieval ballads about a knight saving a damsel in distress
+• the distress that she felt when her parents argued
+• the personal distress associated with unemployment
+• the physical distress of hunger
+• Any price increases will cause even more financial distress.
+• He was obviously in distress after the attack.
+• She went through a period of deep emotional distress in her teens.
+>>>>>>> 09bd2db153b6a2f47c0696fa4998f542143967c0
