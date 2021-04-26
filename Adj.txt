@@ -1646,6 +1646,7 @@ install/be fitted with/be powered by solar panels
  
 Example Bank:
 • Most plastics are not readily biodegradable.
+<<<<<<< HEAD
 
 petrify
 
@@ -1686,3 +1687,70 @@ fiddly
 fid‧dly /ˈfɪdli/ BrE  AmE  adjective British English informal
 difficult to do, especially because you have to deal with very small objects:
  Fixing the TV was a fiddly job.
+=======
+<<<<<<< HEAD
+
+hardened
+hard‧ened /ˈhɑːdnd $ ˈhɑːr-/ BrE  AmE  adjective
+[Word Family: noun: ↑hardship, ↑hardness, ↑hardiness; adjective: ↑hard, ↑hardened, ↑hardy; adverb: ↑hard, ↑hardly; verb: ↑harden]
+1. hardened criminal/police officer etc a criminal, police officer etc who has had a lot of experience of things that are shocking and is therefore less affected by them
+2. become hardened (to something) to become used to something shocking because you have seen it many times
+harden
+hard‧en /ˈhɑːdn $ ˈhɑːrdn/ BrE  AmE  verb [intransitive and transitive]
+[Word Family: noun: ↑hardship, ↑hardness, ↑hardiness; adjective: ↑hard, ↑hardened, ↑hardy; adverb: ↑hard, ↑hardly; verb: ↑harden]
+1. to become firm or stiff, or to make something firm or stiff OPP soften:
+ It will take about 24 hours for the glue to harden.
+2. if your attitude hardens, or if something hardens it, you become more strict and determined and less sympathetic OPP soften:
+ Attitudes towards the terrorists have hardened even more since the attack.
+3. written if your face or voice hardens, or if something hardens it, you look or sound less sympathetic or happy OPP soften:
+ His face hardened momentarily, then he looked away.
+4. harden your heart to make yourself not feel pity or sympathy for someone
+
+all for
+Completely in favour of.
+I'm all for people being able to speak their minds.
+(of an undertaking) Merely for the sake of.
+Esau sold Jacob his birthright all for a bowl of lentil stew.
+
+preoccupied
+pre‧oc‧cu‧pied /priːˈɒkjəpaɪd, priːˈɒkjʊpaɪd $ -ˈɑːk-/ BrE  AmE  adjective
+thinking about something a lot, with the result that you do not pay attention to other things:
+ What’s wrong with Cindy? She seems a little preoccupied.
+preoccupied with
+ He’s completely preoccupied with all the wedding preparations at the moment.
+ 
+ inflammatory
+in‧flam‧ma‧to‧ry /ɪnˈflæmətəri $ -tɔːri/ BrE  AmE  adjective
+1. an inflammatory speech, piece of writing etc is likely to make people feel angry:
+ inflammatory remarks
+2. medical an inflammatory disease or medical condition causes inflammation:
+ inflammatory bowel disease
+ 
+ vilify
+vilify UK  US  [ˈvɪl.ɪ.faɪ] formal verb transitive [vilifies vilifying vilified]
+to say or write unpleasant things about someone or something, in order to cause other people to have a bad opinion of them
+• He was vilified by the press as a monster of perversity.
+Thesaurus+: ↑Damaging reputation ↑Disapproving and criticizing
+
+spartan
+spar‧tan /ˈspɑːtn $ -ɑːr-/ BrE  AmE  adjective
+[Date: 1600-1700; Origin: Spartan 'of Sparta' (16-21 centuries), from Sparta city in ancient Greece whose people lived simply]
+spartan conditions or ways of living are simple and without any comfort:
+ spartan accommodation
+ a spartan existence
+• • •
+THESAURUS
+▪ plain without anything added, or without decoration: a plain shirt | The fireplace was plain apart from a small design at the top.
+▪ simple not having a lot of decoration or unnecessary things, but attractive: She was wearing a simple black dress. | The accommodation is simple but clean.
+▪ austere very plain and with very little decoration, or very little in it – used about a room or place that does not make you feel welcome: He dreaded having dinner in that austere dining room. | The building was grey and a little austere. | the austere beauty and grandeur of mountain scenery
+▪ spartan plain and without anything that would make life easier or more comfortable – used especially about rooms, conditions, or ways of living: Her apartment is quite spartan. | They had a very spartan life.
+▪ stark very plain in a surprising way, with very little colour or decoration – used about rooms and places: Sam sat looking at the stark white walls. | It is a landscape of stark beauty.
+▪ bare empty, or not covered by any decorations: Her office seemed very bare now that her desk had gone. | He was tired of looking at the bare walls of his prison cell.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+spartan
+
+ / 5spB:tn; `spBrtn/ adj (fml 文) (of conditions) simple and harsh; without luxury or comforts （指环境）简陋而艰苦的, 清苦的: lead a spartan life in the mountains 在山里过清苦的生活 * a spartan meal, ie a very simple one 一顿简单的饭.
+=======
+>>>>>>> 09bd2db153b6a2f47c0696fa4998f542143967c0
+>>>>>>> 4653f3012fa3a419fac46f0983f287b84591425f
+>>>>>>> 59336027f7dd8b97cce6215a72421b1731b3bebd
