@@ -1151,6 +1151,8 @@ formulate an idea/theory
 —formulation /ˌfɔːmjəˈleɪʃən, ˌfɔːmjʊˈleɪʃən $ ˌfɔːr-/ noun [uncountable and countable]:
  the formulation of clear objectives
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
  
  fulfil
 ful·fil [fulfil fulfils fulfilled fulfilling] (BrE) (NAmE ful·fill)BrE [fʊlˈfɪl]  NAmE [fʊlˈfɪl]  verb (ful·fill·ing, ful·filled, ful·filled)
@@ -1456,6 +1458,7 @@ take somebody/something ↔ on phrasal verb (see also ↑take)
  He was prepared to take on anyone who laid a finger on us.
 5. take something ↔ on if a plane or ship takes on people or things, they come onto it:
  We stopped to take on fuel.
+<<<<<<< HEAD
  
   condone
 
@@ -1478,3 +1481,6 @@ Main entry: clockidiom
 ▪ II. against time/the clock idiom
 If you do something against time/the clock, you do it as fast as possible and try to finish it before a certain time
 • It was a real race against time to get all the costumes sewn for the play.
+=======
+>>>>>>> 09bd2db153b6a2f47c0696fa4998f542143967c0
+>>>>>>> 4653f3012fa3a419fac46f0983f287b84591425f

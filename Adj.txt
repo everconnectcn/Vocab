@@ -1155,6 +1155,25 @@ small in numbers or amount, often scattered over a large area
 • a sparse beard
 • Information coming out of the disaster area is sparse.
 
+<<<<<<< HEAD
+obtuse
+
+ / Eb5tju:s; ?@ -5tu:s; Eb`tus/ adj (fml derog 文, 贬) slow to understand; stupid 迟钝的; 愚笨的: He's being deliberately obtuse. 他装糊涂. * She cannot possibly be so obtuse. 她不可能如此迟钝.
+ > obtusely adv. obtuseness n [U].
+
+ # obtuse `angle (geometry 几) angle between 90 and 180 钝角（90-180之间者）. =>illus at angle 见angle插图.
+ 
+ disconcerting
+dis·con·cert·ing BrE [ˌdɪskənˈsɜːrtɪŋ] ; NAmE [ˌdɪskənˈsɜːrtɪŋ]  adjective
+• She had the disconcerting habit of saying exactly what she thought.
+Main entry: ↑disconcertderived
+disconcert
+dis·con·cert [disconcert disconcerts disconcerted disconcerting] BrE [ˌdɪskənˈsɜːt]  NAmE [ˌdɪskənˈsɜːrt]  verb ~ sb
+to make sb feel anxious, confused or embarrassed
+Syn: ↑disturb
+• His answer rather disconcerted her.
+Derived Words: ↑disconcerted ▪ ↑disconcerting ▪ ↑disconcertingly
+=======
 ir‧re‧spon‧si‧ble /ˌɪrɪˈspɒnsəbəl◂, ˌɪrɪˈspɒnsɪbəl◂ $ -ˈspɑːn-/ BrE  AmE  adjective
 [Word Family: noun: ↑responsibility ≠ ↑irresponsibility; adverb: ↑responsibly ≠ ↑irresponsibly; adjective: ↑responsible ≠ ↑irresponsible]
 doing careless things without thinking or worrying about the possible bad results OPP responsible
@@ -1627,6 +1646,7 @@ install/be fitted with/be powered by solar panels
  
 Example Bank:
 • Most plastics are not readily biodegradable.
+<<<<<<< HEAD
 
 hardened
 hard‧ened /ˈhɑːdnd $ ˈhɑːr-/ BrE  AmE  adjective
@@ -1688,3 +1708,6 @@ From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 spartan
 
  / 5spB:tn; `spBrtn/ adj (fml 文) (of conditions) simple and harsh; without luxury or comforts （指环境）简陋而艰苦的, 清苦的: lead a spartan life in the mountains 在山里过清苦的生活 * a spartan meal, ie a very simple one 一顿简单的饭.
+=======
+>>>>>>> 09bd2db153b6a2f47c0696fa4998f542143967c0
+>>>>>>> 4653f3012fa3a419fac46f0983f287b84591425f
