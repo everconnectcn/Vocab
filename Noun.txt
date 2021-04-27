@@ -2463,6 +2463,21 @@ railing
 railing UK  US  [ˈreɪ.lɪŋ] noun countable usually plural [railings]
 a vertical, usually metal or wooden post, which is used together with other such posts to form a fence
 • Tourists pressed their faces against the palace railings.
-=======
->>>>>>> 09bd2db153b6a2f47c0696fa4998f542143967c0
->>>>>>> 4653f3012fa3a419fac46f0983f287b84591425f
+
+rampage
+ / rAm5peIdV; rAm`pedV/ v [Ipr, Ip] rush around wildly or violently 狂暴地乱冲乱闯: The mob rampaged through the village. 这伙暴徒在村中横冲直撞.
+ > rampage n (idm 习语) be/go on the `rampage go about behaving violently or destructively 到处进行暴力或破坏活动: drunken soldiers on the rampage 喝醉酒而到处闹事的大兵.
+ rampage
+rampage verb intransitive UK  US  [ræmˈpeɪdʒ] [rampages rampaging rampaged]
+to go through an area making a lot of noise and causing damage
+• The demonstrators rampaged through the town, smashing windows and setting fire to cars.
+• Several villages were destroyed by rampaging soldiers.
+
+rampant
+ram·pant BrE [ˈræmpənt]  NAmE [ˈræmpənt]  adjective
+1. (of sth bad) existing or spreading everywhere in a way that cannot be controlled
+Syn: ↑unchecked
+• rampant inflation
+• Unemployment is now rampant in most of Europe.
+2. (of plants) growing thickly and very fast in a way that cannot be controlled
+Derived Word: ↑rampantly

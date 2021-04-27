@@ -1687,8 +1687,6 @@ fiddly
 fid‧dly /ˈfɪdli/ BrE  AmE  adjective British English informal
 difficult to do, especially because you have to deal with very small objects:
  Fixing the TV was a fiddly job.
-=======
-<<<<<<< HEAD
 
 hardened
 hard‧ened /ˈhɑːdnd $ ˈhɑːr-/ BrE  AmE  adjective
@@ -1750,7 +1748,171 @@ From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 spartan
 
  / 5spB:tn; `spBrtn/ adj (fml 文) (of conditions) simple and harsh; without luxury or comforts （指环境）简陋而艰苦的, 清苦的: lead a spartan life in the mountains 在山里过清苦的生活 * a spartan meal, ie a very simple one 一顿简单的饭.
-=======
->>>>>>> 09bd2db153b6a2f47c0696fa4998f542143967c0
->>>>>>> 4653f3012fa3a419fac46f0983f287b84591425f
->>>>>>> 59336027f7dd8b97cce6215a72421b1731b3bebd
+
+unsanitary
+un‧san‧i‧ta‧ry /ʌnˈsænətəri, ʌnˈsænɪtəri $ -teri/ BrE  AmE  adjective
+dirty and likely to cause disease SYN insanitary OPP hygienic:
+ unsanitary conditions
+• • •
+THESAURUS
+▪ dirty not clean: His clothes were untidy and he had dirty hands.
+▪ filthy very dirty: Each year filthy water causes millions of cases of illness.
+▪ muddy covered with mud: It had been raining hard and the path was muddy.
+▪ dusty covered with dust: the dusty shelves in the attic
+▪ greasy covered with oil or grease: Greasy food is bad for your health.
+▪ grubby (also mucky British English) informal fairly dirty and needing to be cleaned or washed: He was wearing a grubby white T-shirt. | mucky fingers
+▪ grimy covered with thick dirt or dirt that has been there a long time: I couldn’t see much out of the grimy windows of the train.
+▪ dingy /ˈdɪndʒi/ looking dark, dirty, and unpleasant. Used about rooms, houses, and buildings: We worked in a dingy little office behind the station.
+▪ polluted used about land, water, or air that has been made dirty: 85% of city dwellers breathe heavily polluted air.
+▪ contaminated made dirty by a dangerous substance or bacteria: The virus is mainly spread through contaminated food.
+▪ squalid /ˈskwɒləd, ˈskwɒlɪd $ ˈskwɑː-/ formal extremely dirty and unpleasant. Used about the place or conditions in which someone lives: People are living in squalid conditions, with little water and no sanitation.
+▪ unhygienic /ʌnhaɪˈdʒiːnɪk◂ $ -ˈdʒe-, -ˈdʒiː-/ formal used about dirty conditions that are likely to cause disease, especially conditions in kitchens, restaurants, and hospitals: The food was prepared under unhygienic conditions.
+▪ unsanitary (also insanitary British English) formal used about dirty conditions that are likely to cause disease, especially because there is not a good system for getting rid of waste: People’s health is being threatened by overcrowded and insanitary homes. | They work for long hours in unsanitary conditions.
+▪ soiled formal made dirty, especially by waste from your body: Soiled nappies should be changed as quickly as possible.
+
+uncontaminated
+un·con·tam·in·ated [uncontaminated] BrE [ˌʌnkənˈtæmɪneɪtɪd]  NAmE [ˌʌnkənˈtæmɪneɪtɪd]  adjective
+not harmed or spoilt by sth (for example, dangerous substances)
+• uncontaminated water
+Opp: contaminated
+Example Bank:
+• The equipment is sterilized to ensure that the blood remains uncontaminated.
+• The problems were made worse by the inadequate provision of medical help and uncontaminated milk.
+
+fertile
+fer‧tile /ˈfɜːtaɪl $ ˈfɜːrtl/ BrE  AmE  adjective
+[Date: 1400-1500; Language: French; Origin: Latin ferre 'to carry, bear']
+1. fertile land or soil is able to produce good crops:
+ 800 acres of fertile cropland
+2. able to produce babies, young animals, or new plants OPP infertile:
+ Most men remain fertile into old age.
+3. a fertile imagination/mind/brain an imagination, mind etc that is able to produce a lot of interesting and unusual ideas
+4. [only before noun] a fertile situation is one in which something can easily develop and succeed:
+ the fertile Philadelphia music scene
+ 
+ infertile
+infertile UK  [ɪnˈfɜː.taɪl] US  [-ˈfɝː.t ̬ ə l] adjective
+1. An infertile person, animal or plant cannot reproduce
+• It has been estimated that one in eight couples is infertile.
+Thesaurus+: ↑Animal reproduction
+2. Infertile land or soil is not good enough for plants or crops to grow well there
+• Poor farmers have little option but to try to grow food on these infertile soils.
+Thesaurus+: ↑Fertile or infertile land
+Derived: infertility
+
+sterile
+ster‧ile /ˈsteraɪl $ -rəl/ BrE  AmE  adjective
+[Date: 1400-1500; Language: Latin; Origin: sterilis]
+1. a person or animal that is sterile cannot produce babies SYN infertile OPP fertile
+make/render/leave somebody sterile
+ Radiotherapy has left her permanently sterile.
+2. completely clean and not containing any ↑bacteria that might cause infection
+sterile equipment/water/bandages etc
+ Rinse the eye with sterile water.
+3. lacking new ideas, interest, or imagination OPP productive
+sterile argument/debate etc
+ the increasingly sterile debate on political reform
+4. a sterile building, room etc is not interesting or attractive and is often very plain:
+ The classrooms are sterile, with no artwork on the walls.
+5. sterile land cannot be used to grow crops SYN barren
+—sterility /stəˈrɪləti, stəˈrɪlɪti/ noun [uncountable]
+• • •
+THESAURUS
+▪ clean without any dirt or marks: They need clean water to drink. | I don’t have any clean clothes.
+▪ pure water or air that is pure does not contain any dirt, pollution, or bacteria: I breathed in the pure mountain air.
+▪ sterile /ˈsteraɪl $ -rəl/ completely clean, with no bacteria, and therefore safe for medical or scientific use: Place a sterile bandage on the wound. | sterile needles
+▪ spotless completely clean – used mainly about rooms and clothes: Her kitchen is always spotless.
+▪ pristine /ˈprɪstiːn/ completely clean and new-looking: He wore a pristine white shirt.
+▪ immaculate as clean and tidy as it is possible to be: The soldiers’ uniforms have to be immaculate.
+▪ spick and span [not before noun] informal clean and tidy, especially after having just been cleaned: By the end of the day, the whole place was spick and span.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+sterile
+
+ / 5steraIl; ?@ 5sterEl; `stZrEl/ adj 
+ (of plants, animals or humans) not producing or not able to produce seeds, young or children （指植物、动物或人）不产生种子的, 不能生殖的, 不育的: Medical tests showed that he was sterile. 医学检查表明他没有生育能力. 
+ (of land) that cannot produce crops; barren （指土地）不能长庄稼的, 不毛的, 荒瘠的. 
+ (fig 比喻) (of discussion, communication, etc) producing no useful results; unproductive （指讨论、联系等）无结果的, 无效果的: a sterile debate 毫无结果的辩论. 
+ free from germs, bacteria, etc 无菌的; 消过毒的: sterile bandages 无菌绷带 * An operating theatre should be completely sterile. 手术室应该完全无菌. Cf 参看 fertile.
+
+ > sterility / stE5rIlEtI; stE`rIlEtI/ n [U] state or quality of being sterile 不产生种子; 无生殖力; 荒瘠; 无结果; 无菌.
+ sterilize, -ise / 5sterElaIz; `stZrE9laIz/ v [Tn] 
+ make (sth) sterile(4) or free from bacteria 为（某物）消毒或杀菌: sterilized milk 消毒牛奶 * sterilized surgical instruments消过毒的外科手术器械. 
+ make (a person or an animal) unable to produce young or children (esp by removal or obstruction of the reproductive organs) 使（人）绝育; 使（动物）失去生殖能力: After her fourth child she decided to be/have herself sterilized. 她生了第四个孩子后决定做绝育手术. sterilization, -isation/ 9sterElaI5zeIFn; US -lI5z-; 9stZrElE`zeFEn/ n [U].
+ 
+ sterilize
+ster‧il‧ize BrE  AmE  (also sterilise British English) /ˈsterəlaɪz, ˈsterɪlaɪz/ verb [transitive]
+1. to make something completely clean by killing any ↑bacteria in it:
+ Sterilize the bottles with boiling water.
+ sterilized milk
+ sterilizing solution
+2. if a person or animal is sterilized, they have an operation to stop them producing babies
+—sterilizer noun [countable]:
+ an electric sterilizer
+—sterilization /ˌsterəlaɪˈzeɪʃən, ˌsterɪlaɪˈzeɪʃən $ -lə-/ noun [uncountable and countable]
+
+Considerable or substantial? Considerable is not used to talk about solid things, such as meals or buildings. Substantial is not used to talk about emotions or personal qualities, such as anger, concern or efficiency:
+• Caring for elderly relatives requires considerable moral courage.
+ ✗ substantial moral courage:
+• He ate a substantial breakfast.
+ ✗ a considerable breakfast
+ 
+ substandard
+substandard UK  [sʌbˈstæn.dəd] US  [-dɚd] adjective
+below a satisfactory standard
+• substandard housing/accommodation
+• substandard work/goods
+Thesaurus+: ↑Not good enough
+
+well-kept
+well-kept UK  US  [ˌwelˈkept] adjective
+ 
+TIDY
+1. clean, tidy and cared for
+• Saunders said his guest was astonished to find pleasant public parks, nice streets and well-kept houses.
+Thesaurus+: ↑Clean and tidy
+ 
+HIDDEN
+2. A well-kept secret has not been told or shown to anyone
+• The details of the new car were a well-kept secret.
+Thesaurus+: ↑Safe and secure
+From Longman DOCE 5th Ed. (En-En)
+well-kept
+ˌwell-ˈkept BrE  AmE  adjective
+1. a well-kept building or garden is very well cared for and looks neat and clean
+2. a well-kept secret is known only to a few people
+• • •
+THESAURUS
+▪ tidy British English a place, room etc that is tidy looks nice because everything has been arranged and put in the right place: a tidy desk | I want to leave the place clean and tidy before we go.
+▪ neat use this about things that are carefully arranged in a way that is nice to look at: a neat pile of towels | The room was neat and tidy.
+▪ immaculate /ɪˈmækjələt, ɪˈmækjʊlət/ a place or thing that is immaculate is perfectly clean and neat – use this to emphasize how clean something looks: Our house was always immaculate.
+▪ well-kept a well-kept building or garden is very well cared for and looks neat and clean: a large house on well-kept grounds
+▪ orderly arranged or organized in a sensible or neat way: The room was orderly and uncluttered.
+
+attentive
+at‧ten‧tive /əˈtentɪv/ BrE  AmE  adjective
+[Word Family: noun: ↑attention, ↑attendant, ↑attentiveness ≠ ↑inattentiveness; verb: ↑attend; adverb: ↑attentively ≠ ↑inattentively; adjective: ↑attentive ≠ ↑inattentive]
+1. listening to or watching someone carefully because you are interested OPP inattentive:
+ an attentive audience
+2. making sure someone has everything they need
+attentive to
+ Customers want companies that are attentive to their needs.
+—attentively adverb
+—attentiveness noun [uncountable]
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+attentive
+
+ / E5tentIv; E`tZntIv/ adj ~ (to sb/sth) giving attention (to sb/sth); alert and watchful （对某人[某事物]）注意的; 留心的; 警惕的: an attentive audience 聚精会神的听众[观众] * A good hostess is always attentive to the needs of her guests. 好客的女主人能随时留心客人的需要.
+ > attentively adv: listening attentively to the speaker 专心地听着演讲人的话.
+ 
+ ascribe
+as‧cribe /əˈskraɪb/ BrE  AmE  verb
+[Date: 1400-1500; Language: Old French; Origin: ascrivre, from Latin ascribere, from ad- 'to' + scribere 'to write']
+ascribe something to somebody/something phrasal verb written
+1. to claim that something is caused by a particular person, situation etc:
+ The report ascribes the rise in childhood asthma to the increase in pollution.
+2. to claim that something has been written, said, made etc by a particular person:
+ a quotation that’s often been ascribed to Marilyn Monroe
+3. to believe that something or someone has a particular quality:
+ Local people ascribe healing properties to this fruit.
+—ascribable adjective:
+ Most of the accidents were ascribable to the bad weather.
