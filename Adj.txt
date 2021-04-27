@@ -1648,6 +1648,48 @@ Example Bank:
 • Most plastics are not readily biodegradable.
 <<<<<<< HEAD
 
+petrify
+
+ / 5petrIfaI; `pZtrE9faI/ v (pt, pp -fied) 
+ [esp passive 尤用于被动语态: Tn, Tn.pr] ~ sb (with sth) make sb unable to think, move, act, etc because of fear, surprise, etc 使某人惊呆或吓呆: The idea of making a speech in public petrified him. 一想到要在大庭广众面前讲演, 他就紧张得不知所措. * I was absolutely petrified (with fear). 我完全吓傻了. 
+ [I, Tn] (cause sth to) change into stone （使某物）石化.
+
+ > petrifaction / 9petrI5fkFn; 9pZtrE`fAkFEn/ n [U] petrifying or being petrified 惊呆; 吓呆; 石化.
+petrified
+pet‧ri‧fied /ˈpetrəfaɪd, ˈpetrɪfaɪd/ BrE  AmE  adjective
+[Date: 1400-1500; Language: French; Origin: pétrifier, from Greek petra 'rock']
+1. extremely frightened, especially so frightened that you cannot move or think
+petrified of
+ I’m petrified of spiders.
+petrified with fright/fear
+ He was petrified with fear when he saw the gun.
+2. petrified wood/trees etc wood, trees etc that have changed into stone over a long period of time
+—petrify verb [transitive]
+• • •
+THESAURUS
+■ very frightened
+▪ terrified very frightened: He looked terrified as the plane took off. | James was absolutely terrified of losing his only child. | He dragged the terrified woman into his car.
+▪ petrified very frightened – used especially when you are so frightened that you cannot think or move: She’s absolutely petrified of spiders.
+▪ scared stiff/scared to death informal very frightened: I had to make a speech, and I was scared stiff. | She was scared to death of her father.
+▪ in terror written if you do something in terror, you do it because you are very frightened: People fled in terror as the building went up in flames.
+
+fiddly
+fid·dly [fiddly fiddlier fiddliest] BrE [ˈfɪdli]  NAmE [ˈfɪdli]  adjective (BrE, informal)(fid·dlier, fid·dli·est)
+difficult to do or use because small objects are involved
+• Changing a fuse is one of those fiddly jobs I hate.
+• Zips are less fiddly than buttons.
+• It was very fiddly to do with gloves on.
+ 
+Example Bank:
+• Stringing the beads looked a bit fiddly.
+From Longman DOCE 5th Ed. (En-En)
+fiddly
+fid‧dly /ˈfɪdli/ BrE  AmE  adjective British English informal
+difficult to do, especially because you have to deal with very small objects:
+ Fixing the TV was a fiddly job.
+=======
+<<<<<<< HEAD
+
 hardened
 hard‧ened /ˈhɑːdnd $ ˈhɑːr-/ BrE  AmE  adjective
 [Word Family: noun: ↑hardship, ↑hardness, ↑hardiness; adjective: ↑hard, ↑hardened, ↑hardy; adverb: ↑hard, ↑hardly; verb: ↑harden]
@@ -1711,3 +1753,4 @@ spartan
 =======
 >>>>>>> 09bd2db153b6a2f47c0696fa4998f542143967c0
 >>>>>>> 4653f3012fa3a419fac46f0983f287b84591425f
+>>>>>>> 59336027f7dd8b97cce6215a72421b1731b3bebd
