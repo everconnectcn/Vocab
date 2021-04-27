@@ -1458,7 +1458,6 @@ take somebody/something ↔ on phrasal verb (see also ↑take)
  He was prepared to take on anyone who laid a finger on us.
 5. take something ↔ on if a plane or ship takes on people or things, they come onto it:
  We stopped to take on fuel.
-<<<<<<< HEAD
  
   condone
 
@@ -1481,6 +1480,24 @@ Main entry: clockidiom
 ▪ II. against time/the clock idiom
 If you do something against time/the clock, you do it as fast as possible and try to finish it before a certain time
 • It was a real race against time to get all the costumes sewn for the play.
-=======
->>>>>>> 09bd2db153b6a2f47c0696fa4998f542143967c0
->>>>>>> 4653f3012fa3a419fac46f0983f287b84591425f
+
+squander
+squan‧der /ˈskwɒndə $ ˈskwɑːndər/ BrE  AmE  verb [transitive]
+to carelessly waste money, time, opportunities etc:
+ The home team squandered a number of chances in the first half.
+squander something on something
+ They squandered the profits on expensive cars.
+• • •
+THESAURUS
+▪ spend to use money to buy things: I bought two skirts and a T-shirt and I only spent $50. | How much do you spend a week on food?
+▪ go through something (also get through something British English) to spend all of an amount of money over a period of time – used especially when saying that someone spends a lot of money: I got through all my money in less than a month, and had to get my parents to send me more.
+▪ go to great expense to spend a lot of money in order to do something, because you think it is important or special: The party was wonderful – they had obviously gone to great expense. | There’s no need to go to great expense.
+▪ squander /ˈskwɒndə $ ˈskwɑːndər/ to waste money on unnecessary things, instead of saving it or using it carefully: His son had squandered the family fortune on gambling and women.
+▪ splash out British English informal to spend a lot of money on something you really want or will enjoy: Let’s splash out on a bottle of champagne. | People often splash out for Christmas and then regret it later.
+▪ blow informal to spend a lot of money on something, especially on something that you do not really need: Her husband blew all their savings on a new sports car.
+▪ economize to spend less money: We’re trying to economize by eating at home instead of going out for meals.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+squander
+
+ / 5skwCndE(r); `skwBndL/ v [Tn, Tn.pr] ~ sth (on sb/sth) waste (time, money, etc); use sth wastefully 浪费（时间、金钱等）; 挥霍: He's squandered all his savings on drink. 他把存的钱全买酒喝了. * (fig 比喻) Don't squander your affection on him he'll never love you. 别把感情耗在他身上了--他永远不会爱你的.
+ > squanderer n.
