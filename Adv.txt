@@ -62,8 +62,6 @@ Negative sentences are formed with not or the short form -n’t and do not use d
 You will find more help with how to use modal verbs at the dictionary entries for each verb.
 Idiom: ↑might is right
 
-<<<<<<< HEAD
-
 previous [previous previous to previously] adj.
 1. only before noun
 • She is his daughter from a previous marriage.
@@ -209,3 +207,89 @@ Thesaurus+: ↑Not sleeping and not unconscious
 2. to become familiar with something or to make someone familiar with something
 • The chance meeting awoke the old passion between them.
 • Young people need to awake to the risks involved in casual sex.
+
+conveniently
+con·veni·ent·ly BrE [kənˈviːniəntli] ; NAmE [kənˈviːniəntli]  adverb
+• The report can be conveniently divided into three main sections.
+• The hotel is conveniently situated close to the beach.
+• She conveniently forgot to mention that her husband would be at the party, too (= because it suited her not to say).
+Main entry: ↑convenientderived
+convenient
+con·veni·ent BrE [kənˈviːniənt]  NAmE [kənˈviːniənt]  adjective
+1. ~ (for sb/sth) useful, easy or quick to do; not causing problems
+• It is very convenient to pay by credit card.
+• You'll find these meals quick and convenient to prepare.
+• Fruit is a convenient source of vitamins and energy.
+• A bicycle is often more convenient than a car in towns.
+• I can't see him now— it isn't convenient.
+• I'll call back at a more convenient time.
+• (disapproving) He used his wife's birthday as a convenient excuse for not going to the meeting.
+2. near to a particular place; easy to get to: (BrE) ~ (for sth) The house is very convenient for several schools.
+• (NAmE) ~ (to sth) The hotel is convenient to downtown.
+Opp: ↑inconvenient
+Derived Word: ↑conveniently
+ 
+Word Origin:
+late Middle English (in the sense ‘befitting, becoming, suitable’): from Latin convenient- ‘assembling, agreeing, fitting’, from the verb convenire ‘assemble, agree, fit’, from con- ‘together’ + venire ‘come’.
+ 
+Thesaurus:
+convenient [convenient conveniently] adj.
+• I can't see them now. It's not convenient.
+appropriate • • suitable • • good •
+Opp: inconvenient
+convenient/appropriate/suitable/good for sb/sth
+convenient/appropriate/suitable/good to do sth
+a/an convenient/appropriate/suitable/good time to do sth/place for sth
+Example Bank:
+• The house is convenient to downtown.
+• The house is quite convenient for the shops.
+• We arranged a mutually convenient time to meet.
+• Would this be convenient for you?
+• He used his wife's birthday as a convenient excuse for not going to the meeting.
+• Holding the debate at that time was not politically convenient.
+• I can't see them now. It's not convenient.
+• Wait for a convenient moment to talk to her.
+• We'll arrange a mutually convenient meeting place.
+• You'll find these meals quick and convenient to prepare.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+convenient
+ / kEn5vi:nIEnt; kEn`vinjEnt/ adj ~ (for sb/sth) 1 fitting in well with people's needs or plans; giving no trouble or difficulty; suitable 适合需要的; 方便的; 省心的; 省事的; 合适的: I can't see him now; it's not convenient. 我现在不便见他. * Will it be convenient for you to start work tomorrow? 你明天开始工作方便吗? * We must arrange a convenient time and place for the meeting. 我们必须安排一个合适的时间和地点开会. * A bicycle's often far more convenient than a car in busy cities. 在热闹的都市里骑自行车往往比坐汽车方便得多. 
+ situated nearby; easily accessible 近便的; 容易到达的: (infml 口) a house that is convenient for (ie is near) the shops 靠近店铺的房屋 * It's useful to have a convenient supermarket. 附近有家超级市场实在方便.
+
+ > conveniently adv in a convenient manner 方便地: My house is conveniently near a bus-stop. 我家离公共汽车站不远, 非常方便.
+ 
+invariably
+invariably UK  US  [ɪnˈveə.ri.ə.bli] adverb
+always
+• The train is invariably late.
+Thesaurus+: ↑Always and never
+ 
+  at your fingertips
+at your fingertips idiom
+If you have something at your fingertips, you can get it and use it very easily
+• He has all the latest statistics at his fingertips.
+Thesaurus+: ↑Understanding and comprehending
+
+TIME
+3. available to do what you want with rather than work
+• He's studying music in his spare time.
+• I haven't had a spare moment this morning. 
+in one's spare time
+in one's extra time; in the time not reserved for work or doing something else. I write novels in my spare time. I'll try to paint the house in my spare time.
+
+quintessential
+quintessential UK  US  [ˌkwɪn.tɪˈsen t.ʃ ə l] formal adjective
+being the most typical example or most important part of something
+• Roasted garlic with sheep's milk cheese is the quintessential Corsican meal.
+Thesaurus+: ↑Typifying, illustrating and exemplifying ↑Meaning and significance
+Derived: quintessentially
+quintessential
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ New York is the quintessential big city.
+EXAMPLES FROM CORPUS
+▪ And this august body of quintessential back-room people must now press loudly and firmly for this to happen.
+▪ In Paris, the quintessential city of freedom and discretion, he could lead a double life.
+▪ It was the quintessential Knight roster: No superstars, but balanced, cohesive and, above all, consistent.
+▪ They stood, she thought, the quintessential family, looking out from their sanctuary into the vague but hopeful unknown.
+▪ Thus Rosalind Krauss can argue that photography is the quintessential surrealist art form.
