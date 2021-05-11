@@ -3422,3 +3422,114 @@ macrobiotic
 macrobiotic UK  [ˌmæk.rəʊ.baɪˈɒt.ɪk] US  [-roʊ.baɪˈɑː.t ̬ɪk] adjective
 describes food that is arranged into groups according to special principles, grown without chemicals, and is thought to be very healthy
 • A macrobiotic diet consists mainly of whole grains and certain kinds of vegetables.
+
+stroll
+stroll /strəʊl $ stroʊl/ BrE  AmE  verb [intransitive]
+[Date: 1600-1700; Origin: Probably from German dialect strollen]
+to walk somewhere in a slow relaxed way
+stroll down/over/along
+ We were strolling along, laughing and joking.
+—stroll noun [countable]:
+ They went for a stroll in the park.
+• • •
+THESAURUS
+■ to walk for pleasure
+▪ take a walk (also go for a walk) to walk somewhere for pleasure: We went for a walk in the park.
+▪ stroll (also go for a stroll) to walk in a relaxed way, especially for pleasure: People were strolling along beside the river. | On Sunday, they went for a stroll in the park.
+▪ hike (also go hiking) to walk a long way in the mountains or countryside as an activity you enjoy: We’re going hiking in Scotland this summer. | They hiked around the Lake District. | Pat likes doing active things like hiking and horse-riding.
+▪ trek (also go trekking) to go for a walk lasting several days or weeks in a faraway place, carrying your clothes with you: I’ve always wanted to go trekking in Nepal. | They trekked up to Everest Base Camp.
+▪ I. stroll UK  [strəʊl] US  [stroʊl] verb intransitive [strolls strolling strolled]
+to walk in a slow relaxed manner, especially for pleasure
+• We could stroll into town if you like.
+Thesaurus+: ↑Moving gently on foot
+ 
+▪ II.
+stroll UK  US  noun countable
+• The whole family was enjoying a leisurely stroll in the sunshine.
+
+ pedestrian walk; promenade 
+ 
+ citizen
+cit‧i‧zen S2 W2 /ˈsɪtəzən, ˈsɪtɪzən/ BrE  AmE  noun [countable]
+[Date: 1200-1300; Language: Anglo-French; Origin: citezein, from Old French citeien, from cité ( ⇨ ↑city); probably influenced by denizen]
+1. someone who lives in a particular town, country, or state:
+ We need our schools to teach students to be good citizens.
+ The mayor urged citizens to begin preparing for a major storm. ⇨ ↑senior citizen
+2. someone who legally belongs to a particular country and has rights and responsibilities there, whether they are living there or not ⇨ national:
+ At the time, there were over 2,000 British citizens living in Iraq.
+3. second-class citizen someone who is made to feel unimportant because of the way people treat them
+• • •
+COLLOCATIONS (for Meaning 1 )
+■ adjectives
+▪ a good citizen One of the aims of education is to produce good citizens.
+▪ a law-abiding citizen (=never breaking the law) Most of the people in this town are law-abiding citizens.
+▪ a respectable/decent citizen (=good and honest) There are gangs on the streets who are terrorizing respectable citizens.
+▪ an upstanding/upright citizen (=honest and responsible) The rest of his family are honest upright citizens.
+▪ a model citizen (=a very good one) His neighbours described him as a model citizen.
+▪ an ordinary citizen (also a regular citizen American English) The government is not aware of the views of ordinary citizens.
+▪ a senior citizen (=someone over 60 years old, or someone who has retired) There are special clubs for senior citizens.
+▪ sb’s fellow citizens (=people who live in the same town, country etc as you) 70% of our fellow citizens live in poverty.
+▪ a private citizen (=an ordinary citizen without a public position) Laws exist to protect private citizens.
+▪ a leading/prominent citizen (=an important one) The protests were led by leading citizens in the community.
+• • •
+THESAURUS
+▪ citizen someone who lives in a particular town, country, or state: In order to become a US citizen, you need to have a Permanent Resident card. | All British citizens have the right to live in the UK. | Good citizens understand that they have a responsibility to the community.
+▪ national a citizen of a country who is living in another country: She insisted that foreign nationals were safe in the country. | Russians nationals were ordered to leave. | Her husband is a French national.
+▪ resident someone who lives in a particular street or area: There have been complaints by local residents about the building work. | She was a resident of Chicago for many years.
+▪ native someone who was born in a particular country but moved to another country – used when describing a person or their life: Picasso was a native of Spain, although he spent much of his life in France.
+▪ subject someone who was born in a country that has a king or queen, and has a right to live there: Northern Ireland citizens are British subjects.
+▪ alien formal someone who is not a legal citizen of the country they are living or working in - used in official contexts: Employers cannot hire illegal aliens.
+
+3. keep a/the lid on something to control a situation very carefully, especially so that it does not cause problems:
+ keeping the lid on inflation
+ Kline keeps a very tight lid on his private life.
+4. put a/the lid on something informal to do something that finally stops something or ruins or ends someone’s plans or hopes:
+ Let’s put a lid on all these rumours.
+5. take the lid off something (also lift the lid on something) to let people know the true facts about a bad or shocking situation:
+ a documentary that takes the lid off the world of organized crime
+THESAURUS
+▪ cover something that is put on or over something else to protect it, for example a piece of metal, plastic, or glass: a manhole cover | the cover that goes over the barbecue
+▪ covering a layer of something, or a sheet of something, that covers something else: There was light covering of snow on the ground. | The hard shell acts as a protective covering. | the cloth coverings on the altar
+▪ lid a cover for a container such as a pan or a box: the lid of the box | a saucepan lid
+▪ top/cap the thing that you put on top of a bottle, tube, or pen, in order to prevent the liquid or other things inside from coming out: I can’t find the cap for the pen. | Put the top back on the milk! | the cap that goes on the toothpaste
+▪ cork the top part that you put on top of a bottle of wine: Can you take off the cork for me?
+▪ wrapping (also wrap especially American English) a sheet of paper, plastic etc that is put around something in order to cover or protect it: John tore the wrapping off his presents. | The lamp was still in its wrapping.
+▪ wrapper a piece of paper or plastic that is put around something you buy, especially a small object: Put the candy wrappers in your pocket. | He took the drinking straw out of its wrapper.
+
+loop
+I. loop1 /luːp/ BrE  AmE  noun [countable]
+[Date: 1300-1400; Origin: Perhaps from Scottish Gaelic lub 'loop, bend']
+1. SHAPE OR LINE a shape like a curve or a circle made by a line curving back towards itself, or a piece of wire, string etc that has this shape
+loop of wire/rope/string etc
+ A loop of wire held the gate shut.
+belt loop (=a loop of material for holding a belt on trousers etc)
+2. COMPUTER a set of operations in a computer program that are continuously repeated
+3. FILM/MUSIC a film or music loop contains images or sounds that are continuously repeated
+4. be in the loop/be out of the loop informal to be or not be part of a group of people who make important decisions
+5. knock/throw somebody for a loop American English informal to surprise and upset someone
+6. ROAD/RAILWAY British English a road or railway line that leaves the main road or track and then joins it again further on
+
+lightning 1
+
+1 / 5laItnIN; `laItnIN/ n 
+ [U] flash of brilliant light in the sky produced by natural electricity passing between clouds or from clouds to the ground, usu followed by thunder 闪电: be struck by lightning 遭雷电击中 * a flash of lightning 一道闪电. 
+ (idm 习语) lightning never strikes in the same place twice (saying 谚) an unusual event, or one that happens by chance, is not likely to occur again in exactly the same circumstances or to the same people 偶发的事不会在同一环境或同一人身上重演. like (greased) `lightning; like a streak of lightning; (as) quick as `lightning very fast 很快.
+
+ # `lightning-bug n (US) firefly 萤火虫.
+ `lightning conductor (Brit) (US lightning rod) metal rod or wire fixed to an exposed part of a building, etc to prevent damage by lightning 避雷针.
+ 
+ II. blindfold3 BrE  AmE  British English (also blind‧fold‧ed /ˈblaɪndfəʊldəd, ˈblaɪndfəʊldɪd $ -foʊld-/) adverb
+1. with your eyes covered by a piece of cloth
+2. can do something blindfold informal used to say that it is very easy for you to do something because you have done it so often
+
+METHOD
+2. countable usually singular a way of achieving, producing or expressing something
+• The conference was seen as an ideal vehicle for increased cooperation between the member states.
+• Corporate America has embraced the Web as a new vehicle for advertising.
+Thesaurus+: ↑Ways of achieving things
+3. countable usually singular a show, film, exhibition, etc. that is used to show the special skills or qualities of one particular performer or artist
+• The play seems to be little more than a vehicle for its director and star.
+
+tertiary education
+ˌtertiary eduˈcation BrE  AmE  noun [uncountable]
+formal education at a college, university etc SYN higher education
