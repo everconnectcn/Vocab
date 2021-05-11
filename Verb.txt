@@ -414,7 +414,6 @@ pressurize, pressurise
  [C] thing that entices 诱惑物: There were so many enticements offered that I could not refuse the job. 这项工作有那么多优惠待遇, 使我难以拒绝.
  enticing adj attractive or tempting 有吸引力的; 迷人的; 诱人的: quite an enticing offer 很诱人的条件 * An enticing smell came from the bakery. 从面包房里飘出了诱人的香味. enticingly adv.
  
- 
  cultivate
 cul‧ti‧vate /ˈkʌltəveɪt, ˈkʌltɪveɪt/ BrE  AmE  verb [transitive]
 [Date: 1600-1700; Language: Medieval Latin; Origin: past participle of cultivare, from cultivus 'used for crops', from Latin cultus, past participle of colere 'to cultivate']
@@ -463,11 +462,9 @@ mediate
  / 5mi:dIeIt; `midI9et/ v 
  [I, Ipr] ~ (between sb and sb) act as a peacemaker or go-between for two or more people, groups, etc who disagree 调停; 调解; 斡旋: mediate in an industrial dispute 调解一劳资纠纷 * mediate between two countries which are at war 在两交战国间斡旋. 
  [Tn] bring about (sth) by doing this 居间促成（某事）: mediate a peace, settlement, etc 居间促成和平、某事的解决等.
-
  > mediation / 9mi:dI5eIFn; 9midI`eFEn/ n [U]: All offers of mediation were rejected. 所有调解的建议均遭拒绝.
  mediator n person, organization, etc that mediates 调解人; 调停人; 斡旋者; 仲裁组织.
  
-<<<<<<< HEAD
  prick
 prick [prick pricks pricked pricking] verb, noun BrE [prɪk]  NAmE [prɪk] 
 verb
@@ -1480,6 +1477,7 @@ Main entry: clockidiom
 If you do something against time/the clock, you do it as fast as possible and try to finish it before a certain time
 • It was a real race against time to get all the costumes sewn for the play.
 
+<<<<<<< HEAD
 trample
 tram·ple [trample tramples trampled trampling] BrE [ˈtræmpl] NAmE [ˈtræmpl]  verb
 1. transitive, intransitive to step heavily on sb/sth so that you crush or harm them/it with your feet
@@ -1604,11 +1602,30 @@ to waste money, time, etc. in a stupid or careless way
 • He squandered all his money on gambling.
 • She squandered her chances of winning.
 • He just squandered his talent.
+=======
+squander
+squan‧der /ˈskwɒndə $ ˈskwɑːndər/ BrE  AmE  verb [transitive]
+to carelessly waste money, time, opportunities etc:
+ The home team squandered a number of chances in the first half.
+squander something on something
+ They squandered the profits on expensive cars.
+• • •
+THESAURUS
+▪ spend to use money to buy things: I bought two skirts and a T-shirt and I only spent $50. | How much do you spend a week on food?
+▪ go through something (also get through something British English) to spend all of an amount of money over a period of time – used especially when saying that someone spends a lot of money: I got through all my money in less than a month, and had to get my parents to send me more.
+▪ go to great expense to spend a lot of money in order to do something, because you think it is important or special: The party was wonderful – they had obviously gone to great expense. | There’s no need to go to great expense.
+▪ squander /ˈskwɒndə $ ˈskwɑːndər/ to waste money on unnecessary things, instead of saving it or using it carefully: His son had squandered the family fortune on gambling and women.
+▪ splash out British English informal to spend a lot of money on something you really want or will enjoy: Let’s splash out on a bottle of champagne. | People often splash out for Christmas and then regret it later.
+▪ blow informal to spend a lot of money on something, especially on something that you do not really need: Her husband blew all their savings on a new sports car.
+▪ economize to spend less money: We’re trying to economize by eating at home instead of going out for meals.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+>>>>>>> 8ad8b2d0fdeca145b70c16151f68722420bf23cc
 squander
 
  / 5skwCndE(r); `skwBndL/ v [Tn, Tn.pr] ~ sth (on sb/sth) waste (time, money, etc); use sth wastefully 浪费（时间、金钱等）; 挥霍: He's squandered all his savings on drink. 他把存的钱全买酒喝了. * (fig 比喻) Don't squander your affection on him he'll never love you. 别把感情耗在他身上了--他永远不会爱你的.
  > squanderer n.
  
+<<<<<<< HEAD
  linger over
 verb
 delay
@@ -3045,3 +3062,616 @@ EXAMPLES FROM CORPUS
 ▪ Sylvia had started to hallucinate, seeing creepy-crawlies on her bed, and the houseman had to come and sort her out.
 ▪ Thought processes become distorted and you hallucinate.
 ▪ While in his medicated, pain-saturated state, he begins to hallucinate.
+=======
+keep one's head above water
+phrase of head
+avoid succumbing to difficulties, typically debt.
+
+keep back phrasal verb
+1. keep something ↔ back to deliberately not tell someone all that you know about something:
+ I got the feeling he was keeping something back.
+2. keep something ↔ back to not show your feelings, even though you want to very much:
+ She was struggling to keep back the tears.
+3. keep somebody ↔ back to prevent someone from being as successful as they could be SYN hold back:
+ Fear and stereotypes have kept women back for centuries.
+4. keep something ↔ back especially British English to not give or pay something that you were going to give:
+ They kept back some of his wages to pay for the damage.
+keep somebody/something ↔ down phrasal verb
+1. to prevent the size, cost, or quantity of something from increasing or being too great:
+ We need to keep costs down.
+2. to succeed in keeping food in your stomach, instead of bringing it up again out of your mouth, when you are ill:
+ I could hardly keep anything down for about three days.
+3. used to ask someone to make less noise:
+ Keep your voice down – she’ll hear you!
+ Can you keep it down – I’m trying to work.
+4. to prevent a group of people from becoming as successful and powerful as the other people in a society:
+ Plantation owners kept slaves down by refusing them an education.
+ keep one's head above water (third-person singular simple present keeps one's head above water, present participle keeping one's head above water, simple past and past participle kept one's head above water)
+(idiomatic) To survive or endure, especially in a situation in which one is struggling to avoid being overwhelmed by adverse financial circumstances.
+1650, Edward Marbury, A Commentarie, or Exposition upon the Prophecie of Habakkuk, London, p. 195:
+Blessed be God that ministreth ever some comfort to sweeten the calamities of life, and to keep the soul from fainting, to keep the head above water, that the deep waters swallow us not up.
+1764, M. C., A Lady of Quality, Each Sex in their Humour or, The Histories of the Families of Brightley, Finch, Fortescue, Shelburne and Stevens, London, p. 20:
+I endeavoured to obtain a mitigation of this severe sentence, by offering myself to engage for the payment of the remaining sum, to preserve my mother's small salary unencumbered; but he interrupted me with the utmost cruelty, by saying . . . it would be pretty well if, for some years, I could keep my own head above water.
+1863, James Robert Gilmore (writing as Edmund Kirke), My Southern Friends, Tribune Assoc., ch. 17 [1]:
+Besides, I have had to borrow ten thousand dollars of him to keep my head above water.
+1932 Aug. 15, "The Press: Broken Mirror," Time (quoting farewell editorial in Detroit Mirror):
+The capitalist system being one under which a profit must be made by any enterprise that is to keep its head above water, we are forced to call off the fight in this case.
+2008 March 24, Ruthie Ackerman, "Tiffany Goes International," Forbes (retrieved 19 Oct 2009):
+Strong sales in Europe and Asia are helping Tiffany keep its head above water at a time when US consumers are holding onto their wallets.
+
+call on (third-person singular simple present calls on, present participle calling on, simple past and past participle called on)
+(idiomatic, transitive) To visit (a person); to pay a call to.
+Synonyms: pay a visit, visit, wait on
+I really should call on my aunt more often.
+(idiomatic, transitive) To select (a student in a classroom, etc.) to provide an answer.
+He sat there, baffled, hoping nobody would call on him.
+2007, Barbara Seranella, Deadman's Switch, Thomas Dunne Books, →ISBN, pages 33–4:
+“Mr. Rayney, Mr. Rayney,” the reporters clamored, and hands shot up. ¶ Charlotte called on the reporter from the L.A. Times, promising herself that she would lead with the OC Register reporter next time.
+(idiomatic, transitive) (also call upon) To request or ask something of (a person); to select for a task.
+The king called on his subjects to take up arms and defend the kingdom.
+1909 October 14, Edward Kimball Hall, speech, in The Inauguration of Ernest Fox Nichols, D.Sc., LL.D., as president of Dartmouth College, The Rumford Press, page 88:
+The alma mater had again called on her sons in her hour of need and again they had responded.
+1974, Bruce Thordarson, Lester Pearson: Diplomat and Politician,[1] Oxford University Press, →ISBN, page 120:
+President Kennedy imposed a naval blockade on Cuba to prevent delivery of the missiles and called on his allies for support.
+2002, Bruno Coppieters, “Legitimate Authority”, chapter 2 of Bruno Coppieters and Nick Fotion (editors), Moral Constraints on War: Principles and Cases, Lexington Books, →ISBN, page 46:
+De Gaulle called on the military to break with their hierarchical superiors and on the other French citizens to distance themselves from their government.
+(idiomatic, transitive) (also call upon) To have recourse to.
+Synonym: summon up
+Exhausted, he called on his last ounce of strength.
+(idiomatic) To correct; to point out an error or untruth.
+Synonym: correct
+The salesman persisted in quoting a rate higher than was listed, until we called him on it.
+
+contend
+con‧tend /kənˈtend/ BrE  AmE  verb
+[Date: 1400-1500; Language: Old French; Origin: contendre, from Latin contendere, from com- ( ⇨ COM-) + tendere 'to stretch']
+1. [intransitive] to compete against someone in order to gain something
+contend for
+ Three armed groups are contending for power.
+ Inevitably, fights break out between the members of contending groups.
+2. [transitive] to argue or state that something is true SYN insist
+contend (that)
+ Some astronomers contend that the universe may be younger than previously thought.
+contend with something phrasal verb
+to have to deal with something difficult or unpleasant SYN cope with:
+ The rescue team also had bad weather conditions to contend with.
+• • •
+THESAURUS
+▪ claim to say that something is true, even though it has not been proved: He claims that he didn’t see anything. | She claims to be a descendant of Charles Dickens.
+▪ allege to claim that someone did something wrong or illegal, although you do not give any proof: It is alleged that he murdered his wife. | Patients allege that the two firms failed to warn doctors about the dangers of taking the drugs over a long period.
+▪ maintain to repeatedly say that something is true, especially when other people do not believe you: He continued to maintain his innocence, even after he was sent to prison. | My mother always maintains that I learned to talk at six months.
+▪ insist to say very firmly that something is true: She insists that Tom was there, although he denies it. | Turkey insists that there is more than enough water in the two rivers for all three countries.
+▪ assert formal to state that something is true – used especially in formal writing when reporting someone’s opinion: They assert that children work better on their own. | The Environment Minister asserted that one third of the country’s cities had major pollution problems.
+▪ contend formal to claim that something is true, especially when other people disagree with you: Lawyers contend that his back problems were due to an existing injury, not the accident. | It is possible, as Kennedy contends, that her medical condition is caused by her work.
+
+impede
+ / Im5pi:d; Im`pid/ v [Tn] hinder or obstruct the progress or movement of (sb/sth) 阻碍, 妨碍, 阻止（某人[某事物]）: The development of the project was seriouslyimpeded by a reduction in funds. 由于基金削减工程进度严重受阻.
+ 
+ impede
+impede UK  US  [ɪmˈpiːd] formal verb transitive [impedes impeding impeded]
+to slow down or cause problems for the achievement or finishing of something
+• Although he's shy, it certainly hasn't impeded his career in any way.
+Thesaurus+: ↑Preventing and impeding ↑Limiting and restricting
+
+avert
+avert [avert averts averted averting] BrE [əˈvɜːt]  NAmE [əˈvɜːrt]  verb
+1. ~ sth to prevent sth bad or dangerous from happening
+• A disaster was narrowly averted.
+• He did his best to avert suspicion.
+• Talks are taking place in an attempt to avert a strike.
+2. ~ your eyes/gaze/face (from sth) to turn your eyes, etc. away from sth that you do not want to see
+• She averted her eyes from the terrible scene in front of her.
+
+ bitch2 BrE  AmE  verb [intransitive] informal
+1. to make unpleasant remarks about someone
+bitch about
+ He never bitches about other members of the team.
+2. American English to complain continuously:
+ Stop bitching!
+bitch at
+ He’s always bitching at me.
+ 
+ de‧ter /dɪˈtɜː $ -ˈtɜːr/ BrE  AmE  verb (past tense and past participle deterred, present participle deterring) [transitive]
+[Date: 1500-1600; Language: Latin; Origin: deterrere, from terrere 'to frighten']
+to stop someone from doing something, by making them realize it will be difficult or have bad results ⇨ deterrent:
+ The company’s financial difficulties have deterred potential investors.
+deter somebody from (doing) something
+ The security camera was installed to deter people from stealing.
+REGISTER
+In everyday English, people usually say put someone off rather than deter someone:
+▪ Don’t let a few problems put you off.
+
+taint
+I. taint1 /teɪnt/ BrE  AmE  verb [transitive usually passive]
+[Date: 1500-1600; Origin: Partly from Anglo-French teinter 'to color', from Latin tingere ( ⇨ ↑tinge2); partly from Old French ataint, from ataindre (, ↑attain)]
+1. if something bad taints a situation or person, it makes the person or situation seem bad:
+ Baker argues that his trial was tainted by negative publicity.
+2. to damage something by adding an unwanted substance to it
+taint something with something
+ The water had been tainted with a deadly toxin.
+II. taint2 BrE  AmE  noun [singular]
+the appearance of being related to something bad or morally wrong
+taint of
+ The city has suffered for many years under the taint of corruption.
+ taint
+
+ / teInt; tent/ n [C, U] trace of some bad quality or decay or infection （坏的、腐败的或感染的）迹象, 痕迹, 因素: a taint of insanity in the family 家族中有精神病遗传素质 * meat free from taint 新鲜的肉.
+
+ > taint v [esp passive 尤用于被动语态: Tn, Tn.pr] ~ sth (with sth) affect sth with a taint （坏的因素）影响某事物: tainted meat 腐肉 * His reputation was tainted by the scandal. 那一丑闻玷污了他的名声.
+ taintless adj without taint; pure 无污点的; 纯洁的.
+ 
+ fidgety
+fid‧get‧y /ˈfɪdʒəti, ˈfɪdʒɪti/ BrE  AmE  adjective informal
+unable to stay still, especially because of being bored or nervous:
+ The boys get fidgety if they can’t play outside.
+fidget
+I. fid‧get1 /ˈfɪdʒət, ˈfɪdʒɪt/ BrE  AmE  verb [intransitive]
+[Date: 1600-1700; Origin: fidge 'to move uncontrollably' (16-19 centuries)]
+to keep moving your hands or feet, especially because you are bored or nervous:
+ The kids had started to fidget.
+fidget with
+ Stop fidgeting with your pens!
+THESAURUS
+▪ move to go to a different place, or change the position of your body: Sarah moved away from the window. | Every time I move I get a pain in my left shoulder.
+▪ sway to move slowly from one side to the other: The branches swayed in the wind. | Donny swayed drunkenly as he walked back to his car.
+▪ rock to move repeatedly from one side to another, with small gentle movements: He rocked backward and forward in his chair. | The boat rocked from side to side with the waves.
+▪ wobble to move unsteadily from side to side: The bike wobbled a bit, but she soon got it under control.
+▪ fidget to keep moving or playing with your fingers, hands, feet etc, because you are bored or nervous: Diana fidgeted nervously with her pencil.
+▪ squirm to make very small movements from side to side with your body, especially because you feel uncomfortable: By the end of the hour, most of the children were squirming in their seats.
+▪ wriggle to make small movements from side to side, especially in order to get into or out of something: The dog wriggled under the fence and escaped into the street. | She managed to wriggle into the dress, but it was much too tight.
+▪ twitch if part of your body twitches, it makes small movements that you cannot control: A muscle on Yang’s face twitched.
+▪ stir written to make a movement – used especially when describing a situation in which no one moves, or someone wakes up: In the village a dog barked but no one stirred | The sleeping child stirred and opened her eyes.
+▪ budge to move – used when you are trying hard to make something move, often without success: The piano wouldn’t budge.
+
+
+shun
+shun /ʃʌn/ BrE  AmE  verb (past tense and past participle shunned, present participle shunning) [transitive]
+[Language: Old English; Origin: scunian]
+to deliberately avoid someone or something:
+ a shy woman who shunned publicity
+ Victims of the disease found themselves shunned by society.
+ 
+don BrE  AmE  verb (past tense and past participle donned, present participle donning) [transitive] literary
+[Date: 1300-1400; Origin: do on 'to put on' (10-17 centuries)]
+to put on a hat, coat etc
+
+hippy
+hippie, hippy UK  US  [ˈhɪp.i] noun countable [hippies]
+a person, typically young, especially in the late 1960s and early 1970s, who believed in peace, was opposed to many of the accepted ideas about how to live, had long hair, and often lived in groups and took drugs
+
+laggard
+ / 5lAgEd; `lA^Ld/ n person who lags behind 迟到者; 落后者: He's no laggard when it comes to asking for more money, ie He is very quick to do this. 到多要钱时他可不甘后人.
+ 
+ entourage
+ / 9CntU5rB:V; 9BntJ`rBV/ n [CGp] all those who accompany and attend an important person 随从; 随行人员: the President and his entourage 总统及其随从 * (fig 比喻) She always has an entourage of admiring young men. 她周围总是簇拥着追求她的年轻人.
+ 
+ rebuke
+ / rI5bju:k; rI`bjuk/ v [Tn, Tn.pr] ~ sb (for sth) express sharp or severe disapproval to sb, esp officially; reprove sb 指摘或非难某人: My boss rebuked me for coming to work late. 我的上司指摘我上班迟到.
+
+ > rebuke n act of rebuking sb; reproof 指摘; 非难; 责难: administer a stern rebuke 予以严厉的谴责.
+ 
+  censure
+cen·sure [censure censures censured censuring] noun, verb BrE [ˈsenʃə(r)] NAmE [ˈsenʃər] 
+noun uncountable (formal)
+strong criticism
+• a vote of censure on the government's foreign policy
+Word Origin:
+late Middle English (in the sense ‘judicial sentence’): from Old French censurer (verb), censure (noun), from Latin censura ‘judgement, assessment’, from censere ‘assess’.
+
+Example Bank:
+• He could face censure from his colleagues.
+• It was unavoidable that some artists would face official censure.
+• Right-wing parties tabled a motion of censure against the government.
+• Her dishonest behaviour came under severe censure.
+• The opposition forced a vote of censure on the government's foreign policy.
+verb ~ sb (for sth) (formal)
+to criticize sb severely, and often publicly, because of sth they have done
+Syn: ↑rebuke
+• He was censured for leaking information to the press.
+
+refute
+re‧fute /rɪˈfjuːt/ BrE  AmE  verb [transitive] formal
+[Date: 1500-1600; Language: Latin; Origin: refutare, from -futare 'to hit']
+1. to prove that a statement or idea is not correct SYN rebut
+refute a hypothesis/a claim/an idea etc
+ an attempt to refute Darwin’s theories
+2. to say that a statement is wrong or unfair SYN deny
+refute an allegation/a suggestion etc
+ She refuted any allegations of malpractice.
+—refutable adjective
+—refutation /ˌrefjʊˈteɪʃən/ noun [uncountable and countable]
+
+backtrack
+back‧track /ˈbæktræk/ BrE  AmE  verb [intransitive]
+1. to change an opinion or promise that you gave so that it is not as strong as it was earlier ⇨ backpedal
+backtrack on
+ The President is backtracking on his promise to increase health care spending.
+2. to return by the same way that you came:
+ We had to backtrack about a mile.
+ 
+ change your tune
+change your tune idiom disapproving
+to change your opinion completely, especially because you know it will bring you an advantage
+• He was against the idea to start with, but he soon changed his tune when he realized how much money he'd get.
+
+debunk
+ / 9di:5bQNk; di`bQNk/ v [Tn] show that the reputation of (a person, an idea, an institution, etc) is undeserved or exaggerated 揭穿（某人、某思想、某机构等）名不副实: debunk fashionable opinions 指出流行一时的说法的不是.
+ debunk
+explode/dispel/debunk a myth (=show that it is not true)
+▪ Our goal is to debunk the myth that science is boring.
+EXAMPLES FROM OTHER ENTRIES
+▪ In her book she debunks a lot of the claims made by astrologers.
+▪ Payton wants to debunk the myth that economics is a science.
+▪ The study debunks the myth that men are better at math than women.
+
+▪ argument a situation in which people speak angrily to each other because they disagree about something: an argument between two drivers over who had right of way | A 29-year-old man was shot and killed today after an argument over a gambling debt.
+▪ row British English, fight especially American English a loud angry argument with someone, especially your boyfriend, girlfriend, or someone in your family. Row is also used about a serious disagreement between politicians about important public issues: There were always fights between my parents. | the continuing row over tax increases | A few months ago they had a big row, and Steve drove off and spent the weekend in London.
+▪ disagreement a situation in which people disagree with each other, but without shouting or getting angry: There were the occasional disagreements about money, but mostly we got on well. | Ginny had left the company after a disagreement with her boss.
+▪ quarrel especially British English an argument, especially one in which people get angry and that lasts a long time. Quarrel sounds more formal and more serious than argument or row: a bitter family quarrel
+▪ feud /fjuːd/ a very bitter argument between two groups, especially families, which lasts for many years and causes people to hate each other: The feud between the Hatfields and the McCoys raged for 20 years.
+▪ dispute a public or legal argument about something, especially one which continues for a long time: Morris has been involved in a long legal dispute with his publisher. | The settlement will resolve a long-running dispute over the country’s nuclear program.
+▪ war/battle of words an argument in which two people or groups criticize each other continuously in public: The war of words over construction delays at the airport has erupted again.
+▪ bust-up British English informal a very bad argument, especially one in which people decide to separate from each other: He had a bust-up with the team manager.
+▪ shouting match an angry argument in which people shout at each other: He got into a shouting match with another driver.
+▪ slanging match British English informal an argument in which people insult each other: He was sacked after a slanging match with a colleague.
+II. dis‧pute2 /dɪˈspjuːt/ BrE  AmE  verb
+[Date: 1500-1600; Language: Old French; Origin: desputer, from Latin disputare 'to discuss', from putare 'to think']
+1. [transitive] to say that something such as a fact or idea is not correct or true:
+ The main facts of the book have never been disputed.
+dispute that
+ Few would dispute that travel broadens the mind.
+2. [intransitive and transitive] formal to argue or disagree with someone
+dispute (something) with somebody
+ Hazlitt, though much younger, was soon disputing with Wordsworth on equal terms.
+ What happened next is hotly disputed.
+3. [transitive] to try to get control of something or win something:
+ Soviet forces disputed every inch of ground.
+ 
+ An oxymoron (usual plural oxymorons, more rarely oxymora) is a rhetorical device that uses an ostensible self-contradiction to illustrate a rhetorical point or to reveal a paradox.
+ 
+ 
+ 3. GROUP [countable] a group of people who work together to do a particular job or who are together for a particular purpose:
+ The British Medical Association is the doctors’ professional body.
+body of
+ There were reports of a large body of armed men near the border.
+ Kaplan served on the governing body of the museum (=the group who control the museum).
+ The student body (=all the students in a school or college) numbers 5,000.
+ The research will be used by government departments and other public bodies (=groups whose work is connected to the government).
+in a body (=as a group, together)
+ The women moved towards the building in a body.
+  # `body-blow n 
+ (in boxing) blow to the body(3) （拳击中）（向对手身体的）打击. 
+ (fig 比喻) severe disappointment or set-back （极大的）失望, 挫折: The death of its leader was a body-blow to the party. 领袖的逝世对党是巨大的损失.
+ `body-building n [U] strengthening the muscles of the body through exercise （通过锻炼）增强体质.
+ `body clock biological mechanism that automatically controls various recurring functions of the human body, eg the need to sleep 生物钟（自动控制人体各种周期性节律的生物机制, 如睡眠的需要）: I only arrived in London yesterday and my body clock is still on New York time. 我昨天刚到伦敦, 而我的生物钟仍然是纽约时间.
+ `body language expressing how one feels by the way one sits, stands, moves, etc rather than by words 身势语, 身体语言（通过坐、站、移动等动作表达意思）.
+ `bodyline n [U] (in cricket) type of bowling in which the ball is aimed at the batsman's body rather than at the wicket （板球）瞄准击球员身体（而不瞄准三柱门）的投球.
+ `body odour (abbr 缩写 BO) smell of the human body, esp when unwashed, often regarded as unpleasant 人体的气味（尤指未沐浴者, 常指难闻的）; 体臭; 狐臭.
+ the ,body `politic the State as an organized group of citizens 国家（政治上组织起来的全体人民）.
+ `body-snatcher n (formerly) person stealing corpses from graves and selling them for dissection （旧时）掘墓盗尸者（将尸体出卖供解剖用）.
+ `body stocking woman's undergarment covering the body(3) and legs （女用）全身内衣.
+ 
+ sew
+sew S3 /səʊ $ soʊ/ BrE  AmE  verb (past tense sewed, past participle sewn /səʊn $ soʊn/ or sewed) [intransitive and transitive]
+[Language: Old English; Origin: siwian]
+to use a needle and thread to make or repair clothes or to fasten something such as a button to them:
+ I learned to sew at school.
+sew something on something
+ Can you sew a patch on my jeans?
+sew something together
+ She sewed the two sides together.
+sew something ↔ up phrasal verb
+1. to close or repair something by sewing it:
+ Could you sew up this hole in my trousers?
+2. [usually passive] informal to finish a business agreement or plan and get the result you want:
+ The deal should be sewn up in a week.
+3. have something sewn up to have gained control over a situation so that you are sure to win or get what you want:
+ It looks like the Democrats have the election sewn up.
+  / sEU; so/ v (pt sewed, pp sewn / sEUn; son/ or sewed) 
+ (a) [I, Ipr] make stitches in cloth, etc with a needle and thread （用针线）缝: sitting sewing by the fire 坐在火炉旁不停地缝着 * sew by hand/by machine 用手[用机器]缝 * sew round the hem 缝边 * sew over the seam again 在缝合处再缝一次. (b) [Tn, Tn.pr, Tn.p] make or attach or fasten (sth) by stitching 缝制或缝上或缝合（某物）: sew a dress, skirt, etc 缝制连衣裙、裙子等 * a hand-sewn shirt 手工缝的衬衫 * sew a button onto the shirt 把钮扣缝在衬衫上 * sew the parts of the shirt together 把衬衫各部分缝在一起 * sew the flap of the pocket down 缝上衣服口袋的盖儿. 
+ (phr v) sew sth in/into sth enclose sth by sewing 将某物缝进去: sew money into the lining of a coat 把钱缝在大衣的衬里儿里. sew sth up (a) join or mend sth by sewing 缝合或缝补某物: sew up a hole in a sock 把袜子上的洞缝补好 * The suit was sewn up along the seams by hand. 这套衣服是手工缝的. (b) (esp passive 尤用于被动语态) (infml 口) arrange sth; settle sth 安排或解决某事: sew up a deal, project, etc 安排一交易、计画等 * By the end of the meeting everything should be nicely sewn up. 到会议结束时, 一切均应妥善解决.
+ > sewer / 5sEUE(r); `soL/ n. sewing n [U] 
+ activity of sewing （用针线的）缝, 缝合, 缝纫. 
+ work (clothes, etc) that is being sown 缝制的东西（衣物等）: Where is my sewing? 我的针线活儿在哪儿呢? * I've got a pile of sewing to do. 我有很多东西要缝. * a sewing table, basket, etc 裁缝案子、篮子等. `sewing-machine n machine for sewing 缝纫机.
+ 
+ reap
+reap /riːp/ BrE  AmE  verb
+[Language: Old English; Origin: reopan]
+1. [transitive] to get something, especially something good, as a result of what you have done
+reap the benefit/reward/profit (of something)
+ Those who do take risks often reap the rewards.
+2. you reap what you sow used to say that if you do bad things, bad things will happen to you, and if you do good things, good things will happen to you
+3. [intransitive and transitive] old-fashioned to cut and collect a crop of grain ⇨ harvest
+—reaper noun [countable]
+
+debunk
+de‧bunk /ˌdiːˈbʌŋk/ BrE  AmE  verb [transitive]
+[Date: 1900-2000; Origin: ⇨ ↑bunk1(2)]
+to show that an idea or belief is false:
+ His claims were later debunked by fellow academics.
+—debunker noun [countable]
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+debunk
+
+ / 9di:5bQNk; di`bQNk/ v [Tn] show that the reputation of (a person, an idea, an institution, etc) is undeserved or exaggerated 揭穿（某人、某思想、某机构等）名不副实: debunk fashionable opinions 指出流行一时的说法的不是.
+ 
+ revise verb
+1. T
+• I had to revise my opinions of his work.
+modify • • adjust • • amend • • change • • alter • • qualify • • shift •
+revise/modify/adjust/change/alter your ideas
+revise/modify/adjust/change/alter/shift your/sb's attitude/opinion
+revise/modify/amend/change/alter a text
+2. T
+• Have you got the revised edition of this book?
+edit • • rewrite • • rephrase •
+revise/edit/rewrite a text/report/book
+revise/edit a document/manuscript
+revise/rewrite a theory
+3. T, I (BrE)
+• She's revising for exams at the moment.
+study • • learn • |especially AmE review •
+revise/study/review (sth) for sth
+revise/study/learn/review a subject
+revise/study/learn/review geography/biology, etc.
+
+1. transitive ~ sth to change your opinions or plans, for example because of sth you have learned
+• I can see I will have to revise my opinions of his abilities now.
+• The government may need to revise its policy in the light of this report.
+2. transitive ~ sth to change sth, such as a book or an estimate, in order to correct or improve it
+• a revised edition of a textbook
+• I'll prepare a revised estimate for you.
+• We may have to revise this figure upwards.
+3. intransitive, transitive (BrE) to prepare for an exam by looking again at work that you have done
+• I spent the weekend revising for my exam.
+• I can't come out tonight. I have to revise.
+• ~ sth I'm revising Geography today.
+
+condemn
+3. FORCE TO DO SOMETHING if a particular situation condemns someone to something, it forces them to live in an unpleasant way or to do something unpleasant
+condemn somebody to (do) something
+ people condemned to a life of poverty
+ His occupation condemned him to spend long periods of time away from his family.
+4. NOT SAFE to state officially that something is not safe enough to be used:
+ an old house that had been condemned
+condemn something as something
+ The pool was closed after being condemned as a health hazard.
+ 
+ • We need to get the roof repaired.
+fix • • patch sth up • • overhaul • • patch • |especially BrE mend •
+repair/fix/mend a road/fence/roof/bike/puncture
+repair/fix a car/television/fault/defect/leak
+repair/patch/mend shoes/clothes
+have/get sth repaired/fixed/overhauled/mended
+Repair or fix? The most general word in British English is repair. Fix is less formal and used to talk about repairing machines and equipment. In American English fix is the usual word to talk about repairing sth that is damaged or broken, and repair sounds rather formal.
+2. T
+• They moved quickly to repair relations between the two countries.
+mend • • patch sth up • • resolve • • straighten sth out • |especially BrE, especially spoken sort sth out • • sort •
+repair/mend/patch up a rift/the damage/relations
+resolve/straighten out/sort out a problem/situation
+repair/mend/patch up/resolve/straighten out/sort out/sort things
+
+off-gas (third-person singular simple present off-gasses, present participle off-gassing, simple past and past participle off-gassed)
+(of a solid or liquid) To emit gases, especially noxious ones.
+2004, Old-House Journal, page 86
+Since solvent-based paints can off-gas for a long time as they dry, when trapped in a tightly sealed building they can contribute to an unhealthy cocktail of chemicals in the air.
+ Verb[edit]
+get in the way (third-person singular simple present gets in the way, present participle getting in the way, simple past got in the way, past participle (UK) got in the way or (US) gotten in the way)
+(intransitive) to obstruct, hinder, or interfere
+Chinese:
+Mandarin: 妨礙 (zh), 妨碍 (zh) (fáng'ài), 阻礙 (zh), 阻礙 (zh) (zǔ'ài)
+
+sidetrack
+side‧track /ˈsaɪdtræk/ BrE  AmE  verb [transitive usually passive]
+1. to make someone stop doing what they should be doing, or stop talking about what they started talking about, by making them interested in something else:
+ Don’t get sidetracked by the audience’s questions.
+2. American English to delay or stop the progress of something:
+ An effort to improve security was sidetracked by budget problems.
+ 
+ entice
+en‧tice /ɪnˈtaɪs/ BrE  AmE  verb [transitive]
+[Date: 1200-1300; Language: Old French; Origin: enticier, from Latin titio 'large burning piece of wood']
+to persuade someone to do something or go somewhere, usually by offering them something that they want
+entice into/away/from etc
+ The birds were enticed back into Britain 40 years ago.
+entice somebody/something to do something
+ Our special offers are intended to entice people to buy.
+—enticement noun [uncountable and countable]
+entice
+ / In5taIs; In`taIs/ v [Tn, Tn.pr, Tn.p, Cn.t] ~ sb (away) (from sth); ~ sb (into sth/doing sth) try to tempt or persuade sb, usu by offering sth pleasant or a reward 诱惑; 诱使; 怂恿: Advertisements are designed to entice people into spending money/to spend money. 广告宣传的目的是诱使人花钱. * He enticed the young girl away from home. 他把那小女孩诱惑得离开了家.
+ > enticement n 
+ [U] enticing or being enticed 诱惑; 怂恿: the enticement of a child into a car 把一小孩哄进汽车里. 
+ [C] thing that entices 诱惑物: There were so many enticements offered that I could not refuse the job. 这项工作有那么多优惠待遇, 使我难以拒绝.
+ enticing adj attractive or tempting 有吸引力的; 迷人的; 诱人的: quite an enticing offer 很诱人的条件 * An enticing smell came from the bakery. 从面包房里飘出了诱人的香味. enticingly adv.
+ 
+ shut out
+shut out phrasal verb (see also ↑shut)
+1. shut somebody out to deliberately not let someone join you in an activity or share your thoughts and feelings:
+ How can I help you if you just keep shutting me out all the time?
+shut somebody out from
+ I felt I was being shut out from all the family’s affairs.
+2. shut somebody/something ↔ out to prevent someone or something from entering a place:
+ heavy curtains that shut out the sunlight
+shut somebody/something ↔ out from
+ The door closed firmly, shutting me out from the warmth inside.
+3. shut something ↔ out to stop yourself from thinking about or noticing something, so that you are not affected by it:
+ People close their windows at night in a vain attempt to shut out the sound of gunfire.
+ She shut out memories of James.
+ Jenny closed her eyes and tried to shut everything out.
+4. shut out somebody American English to defeat an opposing sports team and prevent them from getting any points:
+ Colorado shut out Kansas City 3–0.
+ 
+ catch on
+catch on phrasal verb (see also ↑catch)
+1. to become popular and fashionable:
+ The idea of glasses being a fashion item has been slow to catch on.
+2. to begin to understand or realize something
+catch on to
+ It was a long time before the police caught on to what he was really doing.
+ 
+ start off
+start off phrasal verb (see also ↑start)
+1. to begin something in a particular way, or to begin in a particular way
+start something ↔ off with something/by doing something
+ The theater company started off their new season with a Shakespeare play.
+start off with something/by doing something
+ I started off by drawing the flowers I had collected.
+2. to be a particular thing or have a particular quality at the beginning of something, especially when this changes later:
+ The puppies start off white, and get their black spots later.
+start off as
+ The games start off as a social event, but players soon become competitive.
+ I started off as a drummer.
+3. start something ↔ off to make something begin happening:
+ We’re not sure what starts the process off.
+4. start somebody ↔ off to help someone begin an activity
+start somebody ↔ off with
+ He started me off with some stretching exercises.
+5. to begin going somewhere:
+ I sat in the car for a few minutes before starting off.
+start off to/towards/back etc
+ She started off to school in her new uniform.
+6. start somebody off British English informal to make someone get angry or start laughing, by saying something:
+ Don’t say that; that’ll just start him off.
+start somebody off doing something
+ He made her jump, and that started her off giggling.
+ 
+ decrypt
+decrypt UK  US  [dɪˈkrɪpt] verb transitive [decrypts decrypting decrypted]
+to change electronic information or signals that were stored, written or sent in the form of a secret code (= system of letters, numbers or symbols) back into a form that you can understand and use normally
+• Messages encrypted using the public key can be decrypted only by someone with the private key.
+
+II. com‧mune2 /kəˈmjuːn/ BrE  AmE  verb
+[Date: 1300-1400; Language: Old French; Origin: communier, from Latin communicare; ⇨ ↑communicate]
+commune with somebody/something phrasal verb formal
+1. to communicate with a person, god, or animal, especially in a mysterious ↑spiritual way
+2. commune with nature to spend time outside in a natural place, enjoying it in a quiet peaceful way:
+ Take time to relax and commune with nature.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+commune 1
+1 / kE5mju:n; kE`mjun/ v [I, Ipr, Ip] ~ (with sb/sth); ~ (together) talk to sb intimately; feel close to sb/sth 与某人亲密地交谈; 与某人[某事物]亲近: commune with one's friends 和朋友亲密谈心 * commune with God in prayer 祈祷时与上帝作灵的沟通 * walking in the woods, communing with nature 在林中散步, 沉浸于大自然中 * friends communing together 在一起亲密交谈的朋友 .
+
+trample
+tram‧ple /ˈtræmpəl/ BrE  AmE  verb [intransitive always + adverb/preposition, transitive]
+[Date: 1300-1400; Origin: tramp]
+1. to step heavily on something, so that you crush it with your feet
+trample on/over/through etc
+ There was a small fence to stop people trampling on the flowers.
+trample somebody/something underfoot
+ The children were in danger of being trampled underfoot in the crowd.
+trample somebody to death (=kill someone by stepping heavily on them)
+ Several people were nearly trampled to death in the rush to get out.
+2. to behave in a way that shows that you do not care about someone’s rights or feelings
+trample on/over somebody/something
+ Don’t let people trample all over you.
+ Their interests and rights had been trampled underfoot.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+trample
+ / 5trAmpl; `trAmpl/ v 
+ [Tn, Tn.pr, Tn.p] ~ sth/sb (down) tread heavily on sth/sb so as to cause damage or destruction 踩坏或踩伤某物[某人]: The campers had trampled the corn (down). 野营的人踩坏了庄稼. * The crowd panicked and ten people were trampled to death. 人群惊慌失措, 踩死了十个人. 
+ [Ipr] ~ on sth/sb (a) crush or harm sth by treading on it 踩碎、踩坏或踩伤某物: trample on sb's toes 踩着某人的脚趾.(b) (fig 比喻) disregard sb unfeelingly or contemptuously无视或蔑视某人: trample on sb's feelings/rights 伤害某人的感情[侵犯某人的权利] * I refuse to be trampled on any longer! W别人要再小看我那可不行! 
+ [Ipr, Ip] walk with heavy or crushing steps 重踏步行走或踩过: I don't want all those people trampling about all over my flower beds. 我可不能让那些人都在我的花坛里到处乱踩.
+ 
+ stumble
+stumble UK  US  [ˈstʌm.bl ̩] verb [stumbles stumbling stumbled]
+WALK
+1. intransitive to step awkwardly while walking or running and fall or begin to fall
+• Running along the beach, she stumbled on a log and fell on the sand.
+• In the final straight Meyers stumbled, and although he didn't fall it was enough to lose him first place.
+Thesaurus+: ↑Falling and dropping ↑Moving downwards ↑Moving unsteadily or with difficulty
+2. intransitive usually + adverb or preposition to walk in a way which does not seem controlled
+• We could hear her stumbling about/around the bedroom in the dark.
+• He pulled on his clothes and stumbled into the kitchen.
+Thesaurus+: ↑Moving unsteadily or with difficulty
+PAUSE
+3. intransitive to make a mistake, such as repeating something or pausing for too long, while speaking or playing a piece of music
+• When the poet stumbled over a line in the middle of a poem, someone in the audience corrected him.
+stumble
+▪ I. stum·ble [stumble stumbles stumbled stumbling] BrE [ˈstʌmbl]  NAmE [ˈstʌmbl]  verb
+1. intransitive to hit your foot against sth while you are walking or running and almost fall
+Syn: ↑trip
+• The child stumbled and fell.
+• ~ over/on sth I stumbled over a rock.
+2. intransitive + adv./prep. to walk or move in an unsteady way
+• Max stumbled out of bed sleepily.
+• We were stumbling around in the dark looking for a candle.
+3. intransitive ~ (over/through sth) to make a mistake or mistakes and stop while you are speaking, reading to sb or playing music
+• In her nervousness she stumbled over her words.
+• I stumbled through the piano piece with difficulty.
+THESAURUS
+▪ fall (also fall over, fall down) to suddenly go down onto the floor when standing, walking, or running: She fell on the stairs and broke her ankle. | Children are always falling over.
+▪ trip on/over something to fall or almost fall when you hit your foot against something: Someone might trip over those toys. | I tripped on a piece of wood.
+▪ slip to fall or almost fall when you are walking on a wet or very smooth surface: She slipped and hurt her ankle. | I was scared I would slip on the highly polished floor.
+▪ stumble to almost fall when you put your foot down in an awkward way: He stumbled and almost fell. | One of our porters stumbled on the rough ground.
+▪ collapse to fall suddenly and heavily to the ground, especially when you become unconscious: One of the runners collapsed halfway through the race.
+▪ lose your balance to become unsteady so that you start to fall over: She lost her balance on the first step and fell down the stairs. | Have something to hold onto, in case you lose your balance.
+▪ fall flat on your face to fall forwards so you are lying on your front on the ground: She fell flat on her face getting out of the car.
+stumble on/across/upon something phrasal verb
+to find or discover something by chance and unexpectedly SYN come across:
+ Researchers have stumbled across a drug that may help patients with Parkinson’s disease.
+ stumble
+ / 5stQmbl; `stQmbl/ v [I, Ipr] 
+ ~ (over sth) strike one's foot against sth and almost fall 绊脚: stumble and fall 绊倒 * I stumbled over a tree root. 树根绊了我的脚. 
+ ~ (over sth); ~ through sth make a mistake or mistakes as one speaks, plays music, etc （说话、演奏等）出错: She stumbled briefly (over the unfamiliar word) but then continued. 她（碰到不认识的字）愣了一下, 接着又往下念. * The child stumbled through a piece by Chopin. 那孩子演奏萧邦的曲子很不流畅. 
+ (phr v) stumble about, along, around, etc move or walk unsteadily (in the specified direction) （朝某方向）摇摇晃晃地移动或步履蹒跚: A drunk stumbled past us. 有个喝醉的人跌跌撞撞地从我们身边走过. * stumbling around in the dark 在黑暗中瞎闯. =>Usage at shuffle 用法见shuffle. stumble across/on sb/sth find sb/sth unexpectedly or by chance 意外地或偶然地发现某人[某事物]: Police investigating tax fraud stumbledacross a drugs ring. 警方在调查瞒税案件时意外地发现了一个贩毒集团.
+
+ > stumble n act of stumbling 绊脚; 出错.
+
+ # `stumbling-block n thing that causes difficulty or hesitation; obstacle 造成困难或引起疑虑的事物; 障碍物; 绊脚石: The failure to agree on manning levels is a major stumbling-block to progress in the talks. 人员配备情况未能达成协议是会谈进行中的主要障碍.
+ 
+ . pool2 BrE  AmE  verb [transitive]
+to combine your money, ideas, skills etc with those of other people so that you can all use them:
+ Investors agreed to pool their resources to develop the property.
+ The students worked together, pooling their knowledge.
+ 
+ peel off phrasal verb
+1. peel something ↔ off to take your clothes off:
+ Tom peeled off his wet T-shirt and shorts.
+2. peel off $20/£50 etc informal to take a piece of paper money from the top of a pile of paper money:
+ Manville peeled off a 20, and pressed it into the man’s hand.
+3. to leave a moving group of vehicles, aircraft etc and go in a different direction:
+ Two motorcycles peeled off from the line.
+ 
+ fumble
+fumble UK  US  [ˈfʌm.bl ̩] verb [fumbles fumbling fumbled]
+ 
+DO STH AWKWARDLY
+1. intransitive usually + adverb or preposition to do something awkwardly, especially when using your hands
+• I fumbled with the lock.
+• He fumbled in his pockets for some change.
+• She fumbled around/about in her handbag, looking for her key.
+• They fumbled around/about (= moved awkwardly) in the dark, trying to find their way out of the cinema.
+Thesaurus+: ↑Inability and awkwardness
+ 
+SPORT
+2. transitive in sport, to fail to catch a ball
+• If Wilson hadn't fumbled that catch, we might have won the match.
+Thesaurus+: ↑Failing and doing badly
+ 
+THINK OF A WORD
+3. intransitive usually + adverb or preposition to have difficulty saying or thinking of suitable words
+• I was fumbling for the right word.
+Thesaurus+: ↑Experiencing difficulties
+
+▪ defer formal to delay doing something until a later date, usually because something else needs to happen first: The decision had been deferred until after a meeting of the directors. | She decided to defer her university application for a year so that she could go travelling.
+
+dilute
+di·lute [dilute dilutes diluted diluting] verb, adjective BrE [daɪˈluːt]  BrE [daɪˈljuːt]  NAmE [daɪˈluːt] 
+verb
+1. ~ sth (with sth) to make a liquid weaker by adding water or another liquid to it
+Syn: water down
+• The paint can be diluted with water to make a lighter shade.
+2. ~ sth to make sth weaker or less effective
+Syn: water down
+• Large classes dilute the quality of education that children receive.
+
+fully
+▪ The specialty-chemicals company plans to take a fourth-quarter restructuring charge of 28 cents to 30 cents a fully diluted share.
+further
+▪ If this also causes aggravation, the remedy can be further diluted in a third cup, and so on.
+▪ That water flows into the Sacramento River, where it is further diluted by water from Shasta Dam.
+▪ What was 3C is now further diluted 1:50,000.
+▪ The effect of this will be to dilute further the value of the company's existing shares.
+▪ For each study the aliquot was further diluted in 0.9% NaCl solution.
+▪ This solution is then diluted further for use.
+▪ The right is further diluted because licences are available as of right during the last five years.
+>>>>>>> 8ad8b2d0fdeca145b70c16151f68722420bf23cc

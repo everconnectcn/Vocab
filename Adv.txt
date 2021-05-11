@@ -208,6 +208,7 @@ Thesaurus+: ↑Not sleeping and not unconscious
 • The chance meeting awoke the old passion between them.
 • Young people need to awake to the risks involved in casual sex.
 
+<<<<<<< HEAD
 conveniently
 con·veni·ent·ly BrE [kənˈviːniəntli] ; NAmE [kənˈviːniəntli]  adverb
 • The report can be conveniently divided into three main sections.
@@ -293,3 +294,93 @@ EXAMPLES FROM CORPUS
 ▪ It was the quintessential Knight roster: No superstars, but balanced, cohesive and, above all, consistent.
 ▪ They stood, she thought, the quintessential family, looking out from their sanctuary into the vague but hopeful unknown.
 ▪ Thus Rosalind Krauss can argue that photography is the quintessential surrealist art form.
+=======
+readily
+read‧i‧ly W3 /ˈredəli, ˈredɪli/ BrE  AmE  adverb
+[Word Family: noun: ↑readiness, the ready; adverb: ↑readily, ↑ready; verb: ↑ready; adjective: ↑ready]
+1. quickly and easily:
+ Boats are readily available to visitors.
+ The information is readily accessible on the Internet.
+2. quickly, willingly, and without complaining:
+ Jack readily agreed to help.
+ 
+nuisance
+nui‧sance S3 /ˈnjuːsəns $ ˈnuː-/ BrE  AmE  noun
+[Date: 1400-1500; Language: Anglo-French; Origin: nusaunce, from Old French nuisir 'to harm']
+1. [countable usually singular] a person, thing, or situation that annoys you or causes problems
+a real/awful/terrible etc nuisance
+ The dogs next door are a real nuisance.
+What a nuisance! British English:
+ What a nuisance! I’ve forgotten my ticket.
+I hate to be a nuisance .../Sorry to be a nuisance ...
+ I hate to be a nuisance, but could you move your car to the other side of the street?
+ Stop making a nuisance of yourself (=annoying other people with your behaviour)!
+ It’s a nuisance having to get up that early on a Sunday morning.
+2. [uncountable and countable] law the use of a place or property in a way that causes public annoyance:
+ The nightclub has been declared a public nuisance.
+ 
+ invariably
+in·vari·ably AW [invariably] BrE [ɪnˈveəriəbli]  NAmE [ɪnˈveriəbli]  adverb
+always
+Syn: ↑without fail
+• This acute infection of the brain is almost invariably fatal.
+• This is not invariably the case.
+• Invariably the reply came back, ‘Not now!’
+invariable
+in‧var‧i‧a‧ble AC /ɪnˈveəriəbəl $ -ˈver-/ BrE  AmE  adjective
+[Word Family: noun: ↑variable, ↑variance, ↑variant, ↑variety, ↑variability, ↑variation; adjective: ↑variable ≠ ↑invariable, ↑varied, ↑various; adverb: ↑variably ≠ ↑invariably, ↑variously; verb: ↑vary]
+1. always happening in the same way, at the same time etc:
+ His invariable answer was ‘Wait and see.’
+2. technical never changing OPP variable:
+ Mass, unlike weight, is invariable.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+invariable
+ / In5veErIEbl; In`vZrIEbl/ adj never changing; always the same; constant 永不变的; 始终如一的; 恒定的: an invariable pressure, temperature, amount 恒定的压力、温度、数量 * a noun with an invariable plural 复数形式不变的名词 * his invariable courtesy 他那一贯的谦恭有礼.
+ > invariability / In9veErIE5bIlEtI; In9vZrIE`bIlEtI/ n [U]. invariably / In5veErIEblI; In`vZrIEblI/ adv: She invariably (ie always) arrives late. 她老是迟到.
+ 
+ day in day out
+day in day out idiom
+(especially of something boring) done or happening every day for a long period of time
+• I have to do the same boring jobs day in day out.
+Thesaurus+: ↑Continually and repeatedly
+
+objectively
+ob·ject·ive·ly BrE [əbˈdʒektɪvli] ; NAmE [əbˈdʒektɪvli]  adverb
+• Looked at objectively, the situation is not too bad.
+• Can these effects be objectively measured?
+• I was too upset to see things objectively.
+Main entry: ↑objectivederived
+
+dispassionate
+
+ / dI5spAFEnEt; dIs`pAFEnIt/ adj (approv 褒) not influenced by emotion; impartial 不动感情的; 冷静的; 公平的: a dispassionate view, observer, judgement 客观公正的见解、观察家、评判.
+ > dispassionately adv: She listened dispassionately but with great interest to both arguments. 她平心静气地听着, 然而对双方的理由都极为注意.
+From Longman DOCE5 Extras (En-En)
+dispassionate
+
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ Weber's report provides a dispassionate analysis of the conflict.
+EXAMPLES FROM CORPUS
+▪ Finally, the engineer's dispassionate voice came through.
+▪ How could the authorities treat children in this heartless and dispassionate manner?
+▪ It could be twee, but as we jump from image to image a dispassionate view of the world emerges.
+ objective2 S3 AC BrE  AmE  adjective
+[Word Family: noun: ↑objectivity; adverb: ↑objectively; adjective: ↑objective]
+1. based on facts, or making a decision that is based on facts rather than on your feelings or beliefs OPP subjective
+objective assessment/measurement/description etc
+ It’s hard to give an objective opinion about your own children.
+ Scientists need to be objective when doing research.
+purely/totally/completely objective
+ the importance of a completely objective, independent press
+2. formal existing outside the mind as something real, not only as an idea:
+ The world has an objective reality.
+—objectivity /ˌɒbdʒekˈtɪvəti, ˌɒbdʒekˈtɪvɪti $ ˌɑːb-/ noun [uncountable]
+
+recuperate
+recuperate UK  [rɪˈk j uː.p ə r.eɪt] US  [-ˈkuː.pə.reɪt] slightly formal verb intransitive [recuperates recuperating recuperated]
+to become well again after an illness; to get back your strength, health, etc
+• She spent a month in the country recuperating from/after the operation.
+Thesaurus+: ↑Recovering from illness
+Derived: recuperation
+>>>>>>> 8ad8b2d0fdeca145b70c16151f68722420bf23cc

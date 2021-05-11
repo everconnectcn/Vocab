@@ -1686,8 +1686,6 @@ fiddly
 fid‧dly /ˈfɪdli/ BrE  AmE  adjective British English informal
 difficult to do, especially because you have to deal with very small objects:
  Fixing the TV was a fiddly job.
-=======
-<<<<<<< HEAD
 
 hardened
 hard‧ened /ˈhɑːdnd $ ˈhɑːr-/ BrE  AmE  adjective
@@ -1750,6 +1748,7 @@ spartan
 
  / 5spB:tn; `spBrtn/ adj (fml 文) (of conditions) simple and harsh; without luxury or comforts （指环境）简陋而艰苦的, 清苦的: lead a spartan life in the mountains 在山里过清苦的生活 * a spartan meal, ie a very simple one 一顿简单的饭.
 
+<<<<<<< HEAD
 runaway
 run·away [runaway runaways] adjective, noun BrE [ˈrʌnəweɪ] NAmE [ˈrʌnəweɪ] 
 adjective only before noun
@@ -2835,3 +2834,566 @@ slippery
  (infml 口) (of a situation, topic, problem, etc) difficult to deal with （指形势、话题、问题等）难处理的, 棘手的: the rather slippery subject of race relations 相当棘手的种族关系问题 * be on slippery ground, ie be dealing with a subject that needs tact, care, etc 处于难以处理的局面. 
  (idm 习语) the slippery `slope (infml 口) course of action that can easily lead to disaster, failure, etc 易导致失败、灾难等的情况: A one-party state can be the start of the slippery slope towards fascism. 一党专政有可能是滑向法西斯主义的起点.
  > slipperiness n [U].
+=======
+unsanitary
+un‧san‧i‧ta‧ry /ʌnˈsænətəri, ʌnˈsænɪtəri $ -teri/ BrE  AmE  adjective
+dirty and likely to cause disease SYN insanitary OPP hygienic:
+ unsanitary conditions
+• • •
+THESAURUS
+▪ dirty not clean: His clothes were untidy and he had dirty hands.
+▪ filthy very dirty: Each year filthy water causes millions of cases of illness.
+▪ muddy covered with mud: It had been raining hard and the path was muddy.
+▪ dusty covered with dust: the dusty shelves in the attic
+▪ greasy covered with oil or grease: Greasy food is bad for your health.
+▪ grubby (also mucky British English) informal fairly dirty and needing to be cleaned or washed: He was wearing a grubby white T-shirt. | mucky fingers
+▪ grimy covered with thick dirt or dirt that has been there a long time: I couldn’t see much out of the grimy windows of the train.
+▪ dingy /ˈdɪndʒi/ looking dark, dirty, and unpleasant. Used about rooms, houses, and buildings: We worked in a dingy little office behind the station.
+▪ polluted used about land, water, or air that has been made dirty: 85% of city dwellers breathe heavily polluted air.
+▪ contaminated made dirty by a dangerous substance or bacteria: The virus is mainly spread through contaminated food.
+▪ squalid /ˈskwɒləd, ˈskwɒlɪd $ ˈskwɑː-/ formal extremely dirty and unpleasant. Used about the place or conditions in which someone lives: People are living in squalid conditions, with little water and no sanitation.
+▪ unhygienic /ʌnhaɪˈdʒiːnɪk◂ $ -ˈdʒe-, -ˈdʒiː-/ formal used about dirty conditions that are likely to cause disease, especially conditions in kitchens, restaurants, and hospitals: The food was prepared under unhygienic conditions.
+▪ unsanitary (also insanitary British English) formal used about dirty conditions that are likely to cause disease, especially because there is not a good system for getting rid of waste: People’s health is being threatened by overcrowded and insanitary homes. | They work for long hours in unsanitary conditions.
+▪ soiled formal made dirty, especially by waste from your body: Soiled nappies should be changed as quickly as possible.
+
+uncontaminated
+un·con·tam·in·ated [uncontaminated] BrE [ˌʌnkənˈtæmɪneɪtɪd]  NAmE [ˌʌnkənˈtæmɪneɪtɪd]  adjective
+not harmed or spoilt by sth (for example, dangerous substances)
+• uncontaminated water
+Opp: contaminated
+Example Bank:
+• The equipment is sterilized to ensure that the blood remains uncontaminated.
+• The problems were made worse by the inadequate provision of medical help and uncontaminated milk.
+
+fertile
+fer‧tile /ˈfɜːtaɪl $ ˈfɜːrtl/ BrE  AmE  adjective
+[Date: 1400-1500; Language: French; Origin: Latin ferre 'to carry, bear']
+1. fertile land or soil is able to produce good crops:
+ 800 acres of fertile cropland
+2. able to produce babies, young animals, or new plants OPP infertile:
+ Most men remain fertile into old age.
+3. a fertile imagination/mind/brain an imagination, mind etc that is able to produce a lot of interesting and unusual ideas
+4. [only before noun] a fertile situation is one in which something can easily develop and succeed:
+ the fertile Philadelphia music scene
+ 
+ infertile
+infertile UK  [ɪnˈfɜː.taɪl] US  [-ˈfɝː.t ̬ ə l] adjective
+1. An infertile person, animal or plant cannot reproduce
+• It has been estimated that one in eight couples is infertile.
+Thesaurus+: ↑Animal reproduction
+2. Infertile land or soil is not good enough for plants or crops to grow well there
+• Poor farmers have little option but to try to grow food on these infertile soils.
+Thesaurus+: ↑Fertile or infertile land
+Derived: infertility
+
+sterile
+ster‧ile /ˈsteraɪl $ -rəl/ BrE  AmE  adjective
+[Date: 1400-1500; Language: Latin; Origin: sterilis]
+1. a person or animal that is sterile cannot produce babies SYN infertile OPP fertile
+make/render/leave somebody sterile
+ Radiotherapy has left her permanently sterile.
+2. completely clean and not containing any ↑bacteria that might cause infection
+sterile equipment/water/bandages etc
+ Rinse the eye with sterile water.
+3. lacking new ideas, interest, or imagination OPP productive
+sterile argument/debate etc
+ the increasingly sterile debate on political reform
+4. a sterile building, room etc is not interesting or attractive and is often very plain:
+ The classrooms are sterile, with no artwork on the walls.
+5. sterile land cannot be used to grow crops SYN barren
+—sterility /stəˈrɪləti, stəˈrɪlɪti/ noun [uncountable]
+• • •
+THESAURUS
+▪ clean without any dirt or marks: They need clean water to drink. | I don’t have any clean clothes.
+▪ pure water or air that is pure does not contain any dirt, pollution, or bacteria: I breathed in the pure mountain air.
+▪ sterile /ˈsteraɪl $ -rəl/ completely clean, with no bacteria, and therefore safe for medical or scientific use: Place a sterile bandage on the wound. | sterile needles
+▪ spotless completely clean – used mainly about rooms and clothes: Her kitchen is always spotless.
+▪ pristine /ˈprɪstiːn/ completely clean and new-looking: He wore a pristine white shirt.
+▪ immaculate as clean and tidy as it is possible to be: The soldiers’ uniforms have to be immaculate.
+▪ spick and span [not before noun] informal clean and tidy, especially after having just been cleaned: By the end of the day, the whole place was spick and span.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+sterile
+
+ / 5steraIl; ?@ 5sterEl; `stZrEl/ adj 
+ (of plants, animals or humans) not producing or not able to produce seeds, young or children （指植物、动物或人）不产生种子的, 不能生殖的, 不育的: Medical tests showed that he was sterile. 医学检查表明他没有生育能力. 
+ (of land) that cannot produce crops; barren （指土地）不能长庄稼的, 不毛的, 荒瘠的. 
+ (fig 比喻) (of discussion, communication, etc) producing no useful results; unproductive （指讨论、联系等）无结果的, 无效果的: a sterile debate 毫无结果的辩论. 
+ free from germs, bacteria, etc 无菌的; 消过毒的: sterile bandages 无菌绷带 * An operating theatre should be completely sterile. 手术室应该完全无菌. Cf 参看 fertile.
+
+ > sterility / stE5rIlEtI; stE`rIlEtI/ n [U] state or quality of being sterile 不产生种子; 无生殖力; 荒瘠; 无结果; 无菌.
+ sterilize, -ise / 5sterElaIz; `stZrE9laIz/ v [Tn] 
+ make (sth) sterile(4) or free from bacteria 为（某物）消毒或杀菌: sterilized milk 消毒牛奶 * sterilized surgical instruments消过毒的外科手术器械. 
+ make (a person or an animal) unable to produce young or children (esp by removal or obstruction of the reproductive organs) 使（人）绝育; 使（动物）失去生殖能力: After her fourth child she decided to be/have herself sterilized. 她生了第四个孩子后决定做绝育手术. sterilization, -isation/ 9sterElaI5zeIFn; US -lI5z-; 9stZrElE`zeFEn/ n [U].
+ 
+ sterilize
+ster‧il‧ize BrE  AmE  (also sterilise British English) /ˈsterəlaɪz, ˈsterɪlaɪz/ verb [transitive]
+1. to make something completely clean by killing any ↑bacteria in it:
+ Sterilize the bottles with boiling water.
+ sterilized milk
+ sterilizing solution
+2. if a person or animal is sterilized, they have an operation to stop them producing babies
+—sterilizer noun [countable]:
+ an electric sterilizer
+—sterilization /ˌsterəlaɪˈzeɪʃən, ˌsterɪlaɪˈzeɪʃən $ -lə-/ noun [uncountable and countable]
+
+Considerable or substantial? Considerable is not used to talk about solid things, such as meals or buildings. Substantial is not used to talk about emotions or personal qualities, such as anger, concern or efficiency:
+• Caring for elderly relatives requires considerable moral courage.
+ ✗ substantial moral courage:
+• He ate a substantial breakfast.
+ ✗ a considerable breakfast
+ 
+ substandard
+substandard UK  [sʌbˈstæn.dəd] US  [-dɚd] adjective
+below a satisfactory standard
+• substandard housing/accommodation
+• substandard work/goods
+Thesaurus+: ↑Not good enough
+
+well-kept
+well-kept UK  US  [ˌwelˈkept] adjective
+ 
+TIDY
+1. clean, tidy and cared for
+• Saunders said his guest was astonished to find pleasant public parks, nice streets and well-kept houses.
+Thesaurus+: ↑Clean and tidy
+ 
+HIDDEN
+2. A well-kept secret has not been told or shown to anyone
+• The details of the new car were a well-kept secret.
+Thesaurus+: ↑Safe and secure
+From Longman DOCE 5th Ed. (En-En)
+well-kept
+ˌwell-ˈkept BrE  AmE  adjective
+1. a well-kept building or garden is very well cared for and looks neat and clean
+2. a well-kept secret is known only to a few people
+• • •
+THESAURUS
+▪ tidy British English a place, room etc that is tidy looks nice because everything has been arranged and put in the right place: a tidy desk | I want to leave the place clean and tidy before we go.
+▪ neat use this about things that are carefully arranged in a way that is nice to look at: a neat pile of towels | The room was neat and tidy.
+▪ immaculate /ɪˈmækjələt, ɪˈmækjʊlət/ a place or thing that is immaculate is perfectly clean and neat – use this to emphasize how clean something looks: Our house was always immaculate.
+▪ well-kept a well-kept building or garden is very well cared for and looks neat and clean: a large house on well-kept grounds
+▪ orderly arranged or organized in a sensible or neat way: The room was orderly and uncluttered.
+
+attentive
+at‧ten‧tive /əˈtentɪv/ BrE  AmE  adjective
+[Word Family: noun: ↑attention, ↑attendant, ↑attentiveness ≠ ↑inattentiveness; verb: ↑attend; adverb: ↑attentively ≠ ↑inattentively; adjective: ↑attentive ≠ ↑inattentive]
+1. listening to or watching someone carefully because you are interested OPP inattentive:
+ an attentive audience
+2. making sure someone has everything they need
+attentive to
+ Customers want companies that are attentive to their needs.
+—attentively adverb
+—attentiveness noun [uncountable]
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+attentive
+
+ / E5tentIv; E`tZntIv/ adj ~ (to sb/sth) giving attention (to sb/sth); alert and watchful （对某人[某事物]）注意的; 留心的; 警惕的: an attentive audience 聚精会神的听众[观众] * A good hostess is always attentive to the needs of her guests. 好客的女主人能随时留心客人的需要.
+ > attentively adv: listening attentively to the speaker 专心地听着演讲人的话.
+ 
+ ascribe
+as‧cribe /əˈskraɪb/ BrE  AmE  verb
+[Date: 1400-1500; Language: Old French; Origin: ascrivre, from Latin ascribere, from ad- 'to' + scribere 'to write']
+ascribe something to somebody/something phrasal verb written
+1. to claim that something is caused by a particular person, situation etc:
+ The report ascribes the rise in childhood asthma to the increase in pollution.
+2. to claim that something has been written, said, made etc by a particular person:
+ a quotation that’s often been ascribed to Marilyn Monroe
+3. to believe that something or someone has a particular quality:
+ Local people ascribe healing properties to this fruit.
+—ascribable adjective:
+ Most of the accidents were ascribable to the bad weather.
+ 
+ obligatory
+ob‧lig‧a‧to‧ry /əˈblɪɡətəri $ -tɔːri/ BrE  AmE  adjective
+1. formal something that is obligatory must be done because of a law, rule etc SYN compulsory, mandatory
+it is obligatory for somebody (to do something)
+ It is obligatory for companies to provide details of their industrial processes.
+2. [only before noun] used humorously to describe something that is always done or included in a particular situation:
+ She offered him the obligatory cup of tea.
+ 
+grueling
+gru‧el‧ling BrE  AmE  British English, grueling American English /ˈɡruːəlɪŋ/ adjective
+[Date: 1800-1900; Origin: gruel 'to punish' (1800-1900), from gruel 'food'; because people were given gruel as a punishment]
+very difficult and tiring:
+ The cast took a break from their gruelling schedule.
+ a grueling journey
+• • •
+THESAURUS
+▪ tiring making you feel that you want to sleep or rest: The journey was really tiring. | I’ve had such a tiring day. | It was tiring work.
+▪ exhausting extremely tiring: I had to drive nine hours without a break – it was exhausting. | an exhausting week of singing, acting, and dancing
+▪ hard very tiring and difficult – used about days, journeys etc: a hard day at work | The last part of the journey was very hard.
+▪ wearing /ˈweərɪŋ $ ˈwer-/ tiring because you have to use a lot of your mental energy, and often become bored – used about people, situations etc: I find her constant questions rather wearing. | Kids of that age can be very wearing. | His films always tend to have the same plots, which does get rather wearing after a while.
+▪ gruelling British English, grueling American English (also punishing) very tiring physically or mentally – used when you have to keep doing something for a long time: a gruelling journey across the desert | a gruelling race | a punishing schedule | a punishing exercise regime
+▪ backbreaking backbreaking work is extremely tiring and needs a lot of physical effort: Clearing the land was slow backbreaking work. | Laborers were paid $2 a day for backbreaking farm work.
+▪ something is a killer informal used when saying that something is extremely tiring: Today was a real killer.
+▪ fatiguing formal making you feel very tired: Factory work was repetitive and fatiguing.
+
+consequential
+con‧se‧quen‧tial /ˌkɒnsəˈkwenʃəl◂, ˌkɒnsɪˈkwenʃəl◂ $ ˌkɑːn-/ BrE  AmE  adjective [usually before noun] formal
+[Word Family: adverb: ↑consequently, ↑inconsequentially; adjective: ↑consequent, ↑consequential ≠ ↑inconsequential; noun: ↑consequence]
+1. happening as a direct result of a particular event or situation:
+ redundancy and the consequential loss of earnings
+2. important SYN significant OPP inconsequential:
+ a consequential decision
+—consequentially adverb
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+consequential
+
+ / 9kCnsI5kwenFl; 9kBnsE`kwZnFEl/ adj (fml 文) 
+ following as a result or an effect (esp indirect) 随之发生的（尤指间接发生的）; 余波所及的: She was injured and suffered a consequential loss of earnings. 她受了伤因而收入受损. 
+ (a) of far-reaching importance 有深远重要性的. (b) (derog 贬) (of a person) self-important; pompous （指人）自高自大的, 自负的.
+ > consequentially / -FElI; -FElI/ adv.
+ 
+ living
+I. liv‧ing1 /ˈlɪvɪŋ/ BrE  AmE  adjective
+[Word Family: verb: ↑live, ↑outlive, ↑relive, ↑liven, ↑up; adjective: ↑live, ↑lively, ↑living, ↑liveable; noun: ↑liveliness, ↑living, ↑livelihood; adverb: ↑live]
+1. alive now OPP dead:
+ He’s one of the greatest living composers.
+ The sun affects all living things (=people, animals, and plants).
+ a living language (=one that people still use)
+2. living proof if someone is living proof of a particular fact, they are a good example of how true it is
+living proof (that)
+ I’m living proof that you don’t need a college degree to be successful.
+living proof of
+ the living proof of government economic incompetence
+3. in/within living memory during the time that anyone can remember:
+ It was the worst storm in living memory.
+4. a living death a life that is so unpleasant that it seems better to be dead
+5. a living hell a very unpleasant situation that makes you suffer for a long time:
+ These past few days have been a living hell.
+6. living legend someone who is famous for being extremely good at something, and who still does that activity:
+ His music has made him a living legend.
+⇨ scare/frighten the (living) daylights out of somebody at ↑daylight(3), ⇨ beat/knock the (living) daylights out of somebody/something at ↑daylight(4)
+
+biodegradable
+biodegradable UK  [ˌbaɪ.ə ʊ.dɪˈgreɪ.dɪ.bl ̩] US  [-oʊ-] adjective
+able to decay naturally and in a way that is not harmful
+• Biodegradable packaging helps to limit the amount of harmful chemicals released into the atmosphere.
+
+impromptu
+im‧promp‧tu /ɪmˈprɒmptjuː $ ɪmˈprɑːmptuː/ BrE  AmE  adjective
+[Date: 1600-1700; Language: French; Origin: Latin in promptu 'in readiness']
+done or said without any preparation or planning
+impromptu speech/party/meeting etc
+ The band gave an impromptu concert.
+—impromptu adverb
+EXAMPLES FROM OTHER ENTRIES
+▪ an impromptu performance
+▪ Jem's impromptu speech met with thunderous applause.
+▪ We finished the day with an impromptu game of football in a nearby field.
+EXAMPLES FROM CORPUS
+▪ But if friends descended, would you be ready to rustle up an impromptu supper?
+▪ But in the final hour he did deliver the goods, taking impromptu questions from the audience.
+▪ From that point, the forum became an impromptu tribute to Jim Maier.
+▪ He had failed because of a lack of talent for impromptu speaking, considered essential for the task he was contemplating.
+▪ I could then have pretended to notice him for the first time and have engaged him in conversation in an impromptu manner.
+▪ Schwarm disputed the witness' story last week in an impromptu press conference outside court.
+▪ The drunken revel of the Roman leaders has the right air of impromptu festivity.
+▪ The remarks of both Clintons were, at least in part, impromptu.
+
+imperishable
+im‧per‧ish‧a‧ble /ɪmˈperɪʃəbəl/ BrE  AmE  adjective formal
+existing or continuing for a long time or for ever:
+ a set of imperishable truths
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+imperishable
+ / Im5perIFEbl; Im`pZrIFEbl/ adj (fml 文) that will not decay; that will never disappear 不腐烂的; 不灭的: imperishable goods 不腐烂的商品 * (fig 比喻) imperishable glory 不朽的光荣.
+ 
+ everlasting
+ev‧er‧last‧ing /ˌevəˈlɑːstɪŋ◂ $ ˌevərˈlæ-/ BrE  AmE  adjective formal
+continuing for ever, even after someone has died SYN eternal:
+ everlasting fame
+ a symbol of God’s everlasting love
+ a belief in life everlasting
+THESAURUS
+▪ permanent continuing forever, for a very long time, or for the rest of your life: She has permanent damage to her eyesight. | the search for a permanent solution to the problem | They’ve offered her the job on a permanent basis.
+▪ lasting continuing for a very long time – used especially when something continues to affect someone or something for a long time: The experience left a lasting impression on him. | Things that happen in early childhood can have a lasting effect on your life. | Shelley was to have a lasting influence on him. | Is there any hope for a lasting peace in the Middle East?
+▪ never-ending continuing so long that you think it will never end – used especially when something needs a lot of effort: Keeping the house clean is a never-ending battle. | It was a never-ending task. | The search was never-ending.
+▪ perpetual a perpetual state or feeling seems to be there all the time – used especially about something that is very annoying, worrying, or tiring: For many working mothers, balancing the demands of children and job is a perpetual challenge. | The people live in a perpetual state of fear.
+▪ everlasting continuing forever – used especially in the following phrases: Gold is the symbol of everlasting love. | He promised them everlasting life.
+▪ eternal continuing forever – used especially in the following phrases: Do you believe in eternal life? | the secret of eternal youth | She has my eternal gratitude (=I will always be grateful to her). | You’re always the eternal optimist. (=you always think that good things will happen)
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+everlasting
+
+ / 9evE5lB:stIN; ?@ -5lAst-; 9ZvL`lAstIN/ adj 
+ going on or lasting for ever 永久的; 永恒的: everlasting fame, glory 永久的声誉、光荣 * everlasting life 永生. 
+ lasting a long time 持久的: everlasting flowers, ie flowers keeping shape and colour when dried 干后形状和颜色不变的花. 
+ (derog 贬) repeated too often; lasting too long 多次重复的; 持续过长的: I'm tired of his everlasting complaints. 我厌倦了他没完没了的抱怨. 
+ the Everlasting God 上帝.
+ > everlastingly adv (infml 口) in an everlasting(3) manner 多次重复地; 持续过长地: everlastingly complaining 喋喋不休地抱怨.
+ 
+ disposable
+dis·pos·able AW [disposable disposables] BrE [dɪˈspəʊzəbl]  NAmE [dɪˈspoʊzəbl]  adjective usually before noun
+1. made to be thrown away after use
+• disposable gloves/razors
+• (BrE) disposable nappies
+• (NAmE) disposable diapers
+2. (finance) available for use
+• disposable assets/capital/resources
+• a person's disposable income (= money they are free to spend after paying taxes, etc.)
+ disposable
+ / dI5spEUzEbl; dI`spozEbl/ adj [esp attrib 尤作定语] 
+ made to be thrown away after use 用完即可丢弃的; 一次性的: disposable razors, nappies, syringes, plates 一次性的剃刀、尿片、注射器、盘子. 
+ (finance 财) available for use 可动用的: disposable assets, capital, resources, etc 可支配的资产、资本、资源等 * disposable income, ie that one can spend oneself after paying one's income tax, social security contributions, etc 可支配收入（缴纳所得税、社会福利金等之后自己可以动用的部分）.
+ 
+ ecological
+e‧co‧lo‧gi‧cal /ˌiːkəˈlɒdʒɪkəl◂ $ -ˈlɑː-/ BrE  AmE  adjective [only before noun]
+1. connected with the way plants, animals, and people are related to each other and to their environment ⇨ environmental:
+ an ecological disaster
+2. interested in preserving the environment ⇨ environment:
+ ecological groups
+—ecologically /-kli/ adverb:
+ an ecologically-sound production process
+ 
+ ecology
+
+ / i:5kClEdVI; i`kBlEdVI/ n [U] (scientific study of) the relation of plants and living creatures to each other and to their surroundings 生态; 生态学: Chemicals in the factory's sewage system have changed the ecology of the whole area. 这座工厂排出的化学物质改变了整个地区的生态.
+
+ > ecological / 9i:kE5lCdVIkl; 9ikE`lBdVIkl/ adj of ecology 生态的; 生态学的: the dangerous ecological effects of industry, eg the pollution of the atmosphere, of rivers, etc 工业对生态的危害（如空气、河流等的污染等）. ecologically / -klI; -klI/ adv.
+ ecologist / i:5kClEdVIst; i`kBlEdVIst/ n student of or expert in ecology 生态学研究者; 生态学家.
+ 
+ real-life
+ˌreal-ˈlife [real-life] BrE   NAmE   adjective only before noun
+actually happening or existing in life, not in books, stories or films/movies
+• a novel based on real-life events
+• a real-life Romeo and Juliet
+Opp: ↑fictional
+Example Bank:
+• The local press has been referring to them as a real-life Romeo and Juliet.
+• The novel is a political thriller based on real-life events.
+From Longman DOCE 5th Ed. (En-En)
+real-life
+ˈreal-life BrE  AmE  adjective [only before noun]
+actually happening in life, not invented in a book:
+ a real-life drama
+ real-life problems
+ 
+ on the job
+on the ˈjob idiom
+1. while doing a particular job
+• No sleeping on the job!
+• on-the-job training
+2. (BrE, slang) having sex
+Main entry: ↑jobidiom
+From WordNet® 3.0 (En-En)
+on the job
+adjective
+actively engaged in paid work (Freq. 7)
+- the working population
+- the ratio of working men to unemployed
+- a working mother
+- robots can be on the job day and night
+
+vocation
+vo·ca·tion [vocation vocations] BrE [vəʊˈkeɪʃn]  NAmE [voʊˈkeɪʃn]  noun
+1. countable a type of work or way of life that you believe is especially suitable for you
+Syn: ↑calling
+• Nursing is not just a job— it's a vocation.
+• She believes that she has found her true vocation in life.
+• You missed your vocation— you should have been an actor.
+2. countable, uncountable ~ (for sth) a belief that a particular type of work or way of life is especially suitable for you
+• He has a vocation for teaching.
+• She is a doctor with a strong sense of vocation.
+3. countable, uncountable a belief that you have been chosen by God to be a priest or ↑nun
+• a vocation to the priesthood
+ 
+ (to) be reckoned with
+to be reckoned with idiom
+Someone or something to be reckoned with is difficult to deal with because they are strong or powerful
+• Since the government limited their powers, the unions are no longer a force to be reckoned with (= they are no longer very strong).
+Thesaurus+: ↑Physically strong and powerful
+Main entry: reckonidiom
+
+almighty
+al‧might‧y /ɔːlˈmaɪti $ ɒːl-/ BrE  AmE  adjective
+[Language: Old English; Origin: ealmihtig, from eall 'completely' + mihtig 'powerful']
+1. the Almighty/Almighty God/Almighty Father expressions used to talk about God that emphasize His power
+2. God/Christ Almighty an expression used when you are angry or upset. Some people consider this use offensive.
+3. almighty din/crash/row etc British English old-fashioned informal a very loud noise, argument etc:
+ There was an almighty bang and the car came to a halt.
+ 
+ elemental
+elemental UK  US  [ˌel.ɪˈmen.t ə l] adjective
+1. literary showing the strong power of nature
+• elemental force/fury
+Thesaurus+: ↑Stormy weather ↑Wind and winds ↑Physically strong and powerful
+2. basic or most simple, but strong
+• elemental needs/desires/feelings
+Thesaurus+: ↑Crude and basic ↑Essential or necessary
+
+hardy
+
+ / 5hB:dI; `hBrdI/ adj (-ier, -iest) 
+ able to endure cold or difficult conditions; tough, robust 耐寒的; 能吃苦的; 强壮的; 坚强的: A few hardy people swam in the icy water. 有几个不怕冷的人在冰冷的水里游泳.
+ (of a plant) that can grow in the open air all through the winter （指植物）可在露天过冬的, 耐寒的.
+ > hardiness n [U].
+
+ # ,hardy `annual 1 annual plant strong enough to be grown in the open air 耐寒的一年生植物. 
+ (fig joc 比喻, 谑) subject that is mentioned or discussed regularly 周期性地提出来的老问题.
+ 
+ shatterproof
+shatterproof UK  [ˈʃæt.ə.pruːf] US  [ˈʃæt ̬.ɚ-] adjective
+Shatterproof glass or plastic, etc. is made so that it will not break into small pieces
+• a shatterproof windscreen
+Thesaurus+: ↑Glass ↑Plastics and rubber ↑Physically strong and powerful
+
+universal
+u‧ni‧ver‧sal W3 /ˌjuːnəˈvɜːsəl◂, ˌjuːnɪˈvɜːsəl◂ $ -ɜːr-/ BrE  AmE  adjective
+1. involving everyone in the world or in a particular group:
+ free universal health care
+ These stories have universal appeal.
+ a topic of universal interest
+ a democracy based on universal suffrage (=when every adult has the right to vote)
+2. true or suitable in every situation:
+ a universal truth
+ 
+ affect 2
+2 / E5fekt; E`fZkt/ v 
+ [Tn] (often derog 常作贬义) make an obvious show of using, wearing or liking (sth) 炫耀（所使用、穿戴或爱好的事物）: affect bright colours, bow ties 炫耀鲜艳的颜色、蝶形领结 * He affects a pretentious use of language, ie tries to impress people by using obscure words, etc. 他爱卖弄词藻. 
+ (a) [Tn, Tt] pretend to have or feel (sth) 装作; 假装: affect not to know sth/affect ignorance of sth 装作不知道某事[装作对某事物一无所知] * She affected a foreign accent. 她装出外国腔调. (b) [Ln] (fml 文) pretend to be (sth); pose as 装成; 扮成: She affects the helpless female. 她装成柔弱女性.
+
+ > affected / E5fektId; E`fZktId/ adj not natural or genuine; pretended; artificial 不自然的; 不真实的; 装扮的; 做作的: an affected politeness, cheerfulness, etc 虚伪的礼貌、强作欢颜 * a highly affected style of writing 极为矫揉造作的写作风格 * Do try not to be so affected. 千万别这么装模作样的.
+ • She has so many little affectations.
+• His manner reeks of affectation.
+• "It doesn't concern me, " he said with an affectation of nonchalance.
+ affectation
+af‧fec‧ta‧tion /ˌæfekˈteɪʃən/ BrE  AmE  noun [uncountable and countable]
+a way of behaving, speaking etc that is not sincere or natural:
+ Calling everyone ‘darling’ is just an affectation.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+affectation
+ / 9Afek5teIFn; 9AfZk`teFEn/ n 
+ [C, U] (instance of) unnatural behaviour, manner of speaking, etc, intended to impress others 为给人留有印象而作出不自然的样子; 做作: His little affectations irritated her. 他做作的小动作激怒了她. * I detest all affectation. 我厌恶一切矫揉造作的行为. 
+ [C] ~ (of sth) pretence; deliberate display (of sth that is not truly felt) 假装; 故意表现（不是真正感觉的事物）: an affectation of interest, indifference, etc 装作有兴趣、假装不在乎.
+
+ formative
+for‧ma‧tive /ˈfɔːmətɪv $ ˈfɔːr-/ BrE  AmE  adjective [only before noun]
+having an important influence on the way someone or something develops
+formative years/period/stages etc (=the period when someone’s character develops)
+ He exposed his children to music throughout their formative years.
+formative influence/effect etc
+ International politics were a formative influence on the party.
+ formative
+formative UK  [ˈfɔː.mə.tɪv] US  [ˈfɔːr.mə.t ̬ɪv] adjective formal
+relating to the time when someone or something is starting to develop in character
+• She spent her formative years in Africa.
+• a formative experience
+• a formative period
+
+impulsive
+impulsive UK  US  [ɪmˈpʌl.sɪv] adjective
+showing behaviour in which you do things suddenly without any planning and without considering the effects they may have
+• Don't be so impulsive - think before you act.
+• an impulsive man/decision/gesture
+Thesaurus+: ↑Doing things without fear or proper thought
+Derived: impulsively
+
+touchy
+touch‧y /ˈtʌtʃi/ BrE  AmE  adjective
+[Word Family: adjective: ↑touched, ↑untouched, ↑touching, ↑touchy, ↑untouchable; noun: ↑touch, ↑untouchable; verb: ↑touch; adverb: ↑touchingly]
+1. easily becoming offended or annoyed SYN sensitive
+touchy about
+ She is very touchy about her past.
+2. touchy subject/question etc a subject etc that needs to be dealt with very carefully, especially because it may offend people SYN sensitive:
+ Asking about a reporter’s sources can be a touchy business.
+—touchiness noun [uncountable]
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+touchy
+
+ / 5tQtFI; `tQtFI/ adj (-ier, -iest) 
+ easily offended 易生气的: Don't be so touchy! 别动不动就生气! 
+ (of asubject, situation, etc) requiring careful handling becauseof potential controversy or offence （指问题、情况等）需小心处理的（因可能引起争议或不悦）: Racism remains a touchy issue. 种族主义可是个要小心处理的问题.
+ > touchily / -IlI; -IlI/ adv. touchiness n [U].
+ 
+ in and out (of something)
+ˌin and ˈout (of sth) idiom
+going regularly to a place
+• He was in and out of jail for most of his life.
+
+(the) ins and outs (of something)
+the ˌins and ˈouts (of sth) idiom
+all the details, especially the complicated or difficult ones
+• the ins and outs of the problem
+• He quickly learned the ins and outs of the job.
+Main entry: ↑inidiom
+
+heart-warming感人 (zh) (gǎnrén)
+It was a heart-warming movie about a child overcoming adversity.
+ˈheart-warming [heart-warming] BrE   NAmE   adjective
+causing feelings of happiness and pleasure
+• a heart-warming story
+• It's heart-warming to hear of the success you've had with the appeal.
+
+spot on
+ˌspot ˈon [spot on] BrE   NAmE   adjective not before noun (BrE, informal)
+exactly right
+• His assessment of the situation was spot on.
+ 
+Example Bank:
+• His guess was spot on.
+• The weather forecast was spot on— it rained all day!
+
+whole-hearted
+whole-heart‧ed /ˌhəʊl ˈhɑːtəd◂ $ ˌhoʊlˈhɑːr-/ BrE  AmE  adjective [usually before noun]
+involving all your feelings, interest etc
+whole-hearted support/acceptance/cooperation etc
+ Montgomery’s new style of leadership met with Leslie’s whole-hearted approval.
+—whole-heartedly adverb:
+ I agree whole-heartedly with the mayor on this issue.
+ 
+ -hearted
+-hearted UK  [-hɑː.tɪd] US  [-hɑːr.t ̬ɪd] suffix
+having a character or feelings of the stated type
+• a light-hearted play
+light-hearted
+light-hearted UK  [ˌlaɪtˈhɑː.tɪd] US  [-ˈhɑːr.t ̬ɪd] adjective
+happy and not serious
+• It was a fairly light-hearted discussion.
+
+ > -hearted (in compound adjs 用以构成复合形容词) having feelings or a nature as specified 有某种心情或天性的: kind-hearted * faint-hearted.
+ heartless adj unkind; without pity 无情的; 残忍的. heartlessly adv. heartlessness n [U].
+ not for the faint-hearted
+ˌnot for the ˌfaint-ˈhearted idiom
+not suitable for people who lack confidence or who get frightened easily
+• The climb is not for the faint-hearted (= is only for people who are brave).
+faint-hearted
+ˌfaint-ˈhearted [faint-hearted] adjective, noun BrE   NAmE  
+adjective
+lacking confidence and not brave; afraid of failing
+Syn: ↑cowardly
+• He tried not to appear faint-hearted.
+Idiom: ↑not for the faint-hearted
+noun
+From Longman DOCE 5th Ed. (En-En)
+faint-hearted
+faint-heart‧ed /ˌfeɪnt ˈhɑːtəd $ -ɑːr-/ BrE  AmE  adjective
+1. not trying very hard, because you do not want to do something, or you are not confident that you can succeed SYN half-hearted:
+ She made a rather faint-hearted attempt to stop him from leaving.
+2. something is not for the faint-hearted used humorously to say that something is difficult and needs a lot of effort
+
+censor
+to remove the parts of a book, film/movie, etc. that are considered to be offensive, immoral or a political threat
+• The news reports had been heavily censored.
+▪ As time passed, however, the Church censors began to act as if the distinction were of no importance.
+▪ However, Kahn may have had the last laugh in spite of his censors.
+▪ In this form the censor permitted the book to pass.
+▪ Ironically, SurfWatch has become something of a censor itself, since the company decides which sites to block.
+▪ Party censors stamped out any arts they did not like.
+▪ They know that his letters home will be read by censors, and that any indication of his whereabouts will be expunged.
+
+political
+▪ Any attempt to stifle or fetter such criticism amounts to political censorship of the most insidious and objectionable kind.
+EXAMPLES FROM OTHER ENTRIES
+▪ Angry journalists accused the government of censorship of free speech.
+▪ Any films that are shown here have to pass government censorship.
+▪ Many community leaders have called for censorship of the Internet.
+EXAMPLES FROM CORPUS
+▪ But this lack of censorship, self or otherwise, should be celebrated for the hard-won battle that it is.
+▪ De jure censorship is an unquestioned evil in itself.
+▪ It is for this reason that totalitarian governments, and even quasi-totalitarian governments, employ censorship.
+▪ Newspapers had been muzzled by wartime censorship.
+▪ Partial censorship will become complete censorship.
+▪ Smith attended Oxford, where he complained about poor teaching and academic censorship.
+▪ The law dominated the field, but it did not operate through the simple mechanisms of censorship and repression.
+▪ Yet while some regulations are equivalent to censorship, others are not.
+>>>>>>> 8ad8b2d0fdeca145b70c16151f68722420bf23cc
