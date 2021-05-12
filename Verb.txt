@@ -3062,7 +3062,7 @@ EXAMPLES FROM CORPUS
 ▪ Sylvia had started to hallucinate, seeing creepy-crawlies on her bed, and the houseman had to come and sort her out.
 ▪ Thought processes become distorted and you hallucinate.
 ▪ While in his medicated, pain-saturated state, he begins to hallucinate.
-=======
+
 keep one's head above water
 phrase of head
 avoid succumbing to difficulties, typically debt.
@@ -3674,4 +3674,46 @@ further
 ▪ For each study the aliquot was further diluted in 0.9% NaCl solution.
 ▪ This solution is then diluted further for use.
 ▪ The right is further diluted because licences are available as of right during the last five years.
->>>>>>> 8ad8b2d0fdeca145b70c16151f68722420bf23cc
+
+hump
+ / hQmp; hQmp/ n 
+ (a) round projecting part on the back of a camel, etc （骆驼等的）峰. =>illus at camel 见camel插图. (b) deformity on a person's back, where there is an abnormal curvature of the spine （人的）驼背. 
+ rounded raised mound of earth, etc （圆形的）土墩, 小丘, 冈: a dangerous hump in the road 道路上危险的隆起物. 
+ (idm 习语) give sb the `hump (Brit infml 口) make sb feel depressed or annoyed 使某人感到沮丧或烦恼. over the `hump past the most difficult part (of a task, etc) 渡过（任务等的）最艰难阶段或完成最困难部分.
+ > hump v 
+ [Tn, Tn.p] ~ sth (up) form sth into a hump 使某物隆起: hump up the bedclothes 隆起被子. 
+ [Tn.pr, Tn.p] carry (sth) on one's shoulder or back 扛或背（某物）: I don`t enjoy humping heavy furniture around all day. 一天到晚扛重家具我可受不了. =>Usage at carry 用法见carry. 
+ [Tn] ( sl 讳, 俚 ) have sexual intercourse with (sb) 与（某人）性交.
+ # `humpback n = hunchback (hunch). `humpbackedadj = hunchbacked (hunch). ,humpback `bridge small bridge with an arch that rises and falls steeply 驼峰桥; 弓形桥.
+hump
+I. hump1 /hʌmp/ BrE  AmE  noun
+[Date: 1600-1700; Origin: Perhaps from Dutch homp or Low German humpe]
+1. [countable] a large round shape that rises above the surface of something:
+ the hump of a hill
+2. speed/traffic humps British English a series of humps in the road, designed to make traffic slow down
+3. 
+[countable] a raised part on the back of a ↑camel
+4. [countable] a raised part on someone’s back that is caused by an unusually curved ↑spine ⇨ hunchback
+5. be over the hump to have finished the most difficult part of something
+6. give somebody the hump/get the hump British English spoken to make someone feel angry or upset, or to feel angry or upset
+II. hump2 BrE  AmE  verb informal
+1. [transitive] British English to carry something heavy from one place to another with difficulty SYN heave, lug ⇨ drag
+hump something down/along/across etc
+ I managed to hump the suitcases upstairs.
+2. [intransitive and transitive] not polite to have sex with someone
+
+. grade2 AC BrE  AmE  verb [transitive]
+[Word Family: verb: ↑grade; noun: ↑grade; adjective: ↑graded]
+1. to say what level of a quality something has, or what standard it is
+grade something according to something
+ Pencils are graded according to softness.
+ All the parks are regularly checked and graded by tourist board inspectors.
+2. especially American English to give a mark to an examination paper or to a piece of school work SYN mark:
+ Ted is grading papers in his office.
+3. to give a particular rank and level of pay to a job
+
+graded
+graded 7 AW [graded] BrE [ˈɡreɪdɪd]  NAmE [ˈɡreɪdɪd]  adjective
+arranged in order or in groups according to difficulty, size, etc
+• graded tests for language students
+• graded doses of a drug

@@ -4627,10 +4627,9 @@ cruel and not worrying about other people
 • Don't be so heartless!
 
 antler
-
  / 5AntlE(r); `AntlL/ n branched horn of a stag or of some other deer 鹿角: a fine pair of antlers 一对完美的鹿角. =>illus at deer 见deer之插图.
  > antlered adj.
-=======
+ 
 rampage
  / rAm5peIdV; rAm`pedV/ v [Ipr, Ip] rush around wildly or violently 狂暴地乱冲乱闯: The mob rampaged through the village. 这伙暴徒在村中横冲直撞.
  > rampage n (idm 习语) be/go on the `rampage go about behaving violently or destructively 到处进行暴力或破坏活动: drunken soldiers on the rampage 喝醉酒而到处闹事的大兵.
@@ -5677,7 +5676,6 @@ belt loop (=a loop of material for holding a belt on trousers etc)
 6. ROAD/RAILWAY British English a road or railway line that leaves the main road or track and then joins it again further on
 
 lightning 1
-
 1 / 5laItnIN; `laItnIN/ n 
  [U] flash of brilliant light in the sky produced by natural electricity passing between clouds or from clouds to the ground, usu followed by thunder 闪电: be struck by lightning 遭雷电击中 * a flash of lightning 一道闪电. 
  (idm 习语) lightning never strikes in the same place twice (saying 谚) an unusual event, or one that happens by chance, is not likely to occur again in exactly the same circumstances or to the same people 偶发的事不会在同一环境或同一人身上重演. like (greased) `lightning; like a streak of lightning; (as) quick as `lightning very fast 很快.
@@ -5700,4 +5698,150 @@ Thesaurus+: ↑Ways of achieving things
 tertiary education
 ˌtertiary eduˈcation BrE  AmE  noun [uncountable]
 formal education at a college, university etc SYN higher education
->>>>>>> 8ad8b2d0fdeca145b70c16151f68722420bf23cc
+
+grade UK  US  [greɪd] noun countable [grades]
+ 
+LEVEL
+1. <A > a level of quality, size, importance, etc
+• He's suffering from some kind of low-grade (= slight) infection, which he can't seem to get rid of.
+• There's some really high-grade (= high quality) musicianship on this recording.
+• Bill has been UK on/US at the same grade (= his job has been of the same level of importance, or he has had the same level of pay) for several years now.
+Thesaurus+: ↑Quality and standard
+↑Quality and standard
+Quality and standard Thesaurus+ Level 2 (31)
+-rate suffix
+-star suffix
+benchmark noun
+cachet noun
+calibre noun 1 quality
+class noun 5 rank; noun 9 rank
+conform to something phrasal verb
+criterion noun
+distinction noun 2 high quality
+grade noun 1 level
+ideal noun 1 principle
+level noun 3 ability
+mark noun 6 level
+notch noun 2 position
+plane noun 3 level
+prestige noun
+qualitative adjective 1 standard; adjective 2 characteristic
+qualitatively adverb
+quality noun 1 standard
+quality control noun
+rank noun 2 position
+rate verb 2 judge
+standard noun 1 quality
+starred adjective 2 rank
+status noun 2 respect
+style noun 5 high quality
+take first place idiom
+up to the mark idiom
+upscale adjective
+-rate
+-rate UK  US  [-reɪt] suffix
+used with words such as first, second, etc to show how good you think something is
+• His suggestions are always first-rate (= very good).
+• This company produces second/third-rate (= not very good) goods.
+
+streak
+streak [streak streaks streaked streaking] noun, verb BrE [striːk]  NAmE [striːk] 
+noun
+1. a long thin mark or line that is a different colour from the surface it is on
+• There was a streak of blood on his face.
+• streaks of grey in her hair
+• dirty streaks on the window
+• streaks of sunlight
+2. a part of a person's character, especially an unpleasant part
+• a ruthless/vicious/mean streak
+• a streak of cruelty
+3. a series of successes or failures, especially in a sport or in gambling
+• a streak of good luck
+• to hit (= have) a winning streak
+• to be on a winning/losing streak
+• a lucky/unlucky streak
+ 
+Word Origin:
+Old English strica, of Germanic origin; related to Dutch streek and German Strich, also to ↑strike. The sense ‘run naked’ was originally US slang.
+ 
+Synonyms:
+mark
+stain • fingerprint • streak • speck • blot • smear • spot
+These are all words for a small area of dirt or another substance on a surface.
+mark • a small area of dirt or other substance on the surface of sth, especially one that spoils its appearance: ▪ The kids left dirty marks all over the kitchen floor.
+stain • a dirty mark on sth that is difficult to remove, especially one made by a liquid: ▪ blood stains
+fingerprint • a mark on a surface made by the pattern of lines on the end of a person's finger, often used by the police to identify criminals: ▪ Her fingerprints were all over the gun.
+streak • a long thin mark or line that is a different colour from the surface it is on: ▪ She had streaks of grey in her hair.
+speck • a very small mark, spot or piece of a substance on sth: ▪ There isn't a ▪ speck of dust ▪ anywhere in the house.
+blot • a spot or dirty mark left on sth by a substance such as ink or paint being dropped on a surface
+smear • a mark made by sth such as oil or paint being spread or rubbed on a surface
+spot • a small dirty mark on sth: ▪ There were grease spots all over the walls.
+a streak/speck/blot/smear/spot of sth
+a greasy mark/stain/smear
+a/an ink mark/stain/blot/spot
+a/an grease mark/stain/spot
+to leave a mark/stain/fingerprint/streak/speck/blot/smear
+
+elective
+elect·ive [elective electives] adjective, noun BrE [ɪˈlektɪv]  NAmE [ɪˈlektɪv] 
+adjective usually before noun (formal)
+1. using or chosen by election
+• an elective democracy
+• an elective assembly
+• an elective member
+• He had never held elective office (= a position which is filled by election).
+2. having the power to elect
+• an elective body
+3. (of medical treatment) that you choose to have; that is not urgent
+Syn: ↑optional
+• elective surgery
+• an elective operation
+4. (of a course or subject) that a student can choose
+Syn: ↑optional
+ 
+Word Origin:
+late Middle English: from Old French electif, -ive, from late Latin electivus, from elect- ‘picked out’, from the verb eligere, from e- (variant of ex-) ‘out’ + legere ‘to pick’.
+ 
+Example Bank:
+• There are long waiting lists for elective surgery.
+ 
+noun (especially NAmE)
+a course or subject at a college or school which a student can choose to do
+• Students can choose from a range of electives offered by the science department.
+
+correspondence
+
+ / 9kCrI5spCndEns; ?@ 9kR:r-; 9kRrE`spBndEns/ n 
+ [C, U] ~ (with sth/between sth and
+ sth) agreement; similarity 一致; 相似: a close/not much correspondence between the two accounts 两种叙述接近[不太]一致. 
+ [U] ~ (with sb) letter-writing; letters 通信; 信件: She has a lot of correspondence to deal with. 她有大批信件需要处理. * I refused to enter into any correspondence (ie exchange letters) with him about it. 我决不就这一问题与他通信. * Is commercial correspondence taught at the school? 学校里是否教授商业函件?
+
+ # corre`spondence course course of study using books, exercises, etc sent by post 函授课程.
+From Longman DOCE 5th Ed. (En-En)
+correspondence
+cor‧re‧spon‧dence AC /ˌkɒrəˈspɒndəns, ˌkɒrɪˈspɒndəns $ ˌkɔːrəˈspɑːn-, ˌkɑː-/ BrE  AmE  noun [uncountable]
+1. the letters that someone sends and receives, especially official or business letters:
+ A secretary came in twice a week to deal with his correspondence.
+2. the process of sending and receiving letters:
+ The magazine is unable to enter into any correspondence on medical matters.
+(be in) correspondence with somebody
+ He had been in correspondence with her for several years before they finally met.
+ All correspondence between us must cease.
+3. a relationship or connection between two or more ideas or facts
+correspondence between
+ There was no correspondence between the historical facts and Johnson’s account of them.
+ 
+ learning
+learning UK  [ˈlɜː.nɪŋ] US  [ˈlɝː-] noun uncountable
+1. <I > the activity of obtaining knowledge
+• This technique makes learning fun.
+• For the first month in her new job she was on a steep learning curve (= she learnt a lot quickly).
+Thesaurus+: ↑Knowing and learning
+2. knowledge obtained by study
+• His friends praised his generosity, wit and learning.
+Thesaurus+: ↑Knowing and learning
+• I'm afraid anything that involves language learning has always defeated me.
+• Some students have a more analytical approach to learning.
+• The idea with young children is to integrate learning with play.
+• Children are encouraged to take an investigative approach to learning.
+• I prefer teaching methods that actively involve students in learning.
