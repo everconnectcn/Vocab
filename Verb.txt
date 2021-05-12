@@ -1457,7 +1457,6 @@ take somebody/something ↔ on phrasal verb (see also ↑take)
  We stopped to take on fuel.
  
   condone
-
  / kEn5dEUn; kEn`don/ v [Tn, Tg, Tsg] treat or regard (an offence) as if it were not serious or wrong; overlook; forgive 容忍（过失）; 宽恕; 原谅: condone violence, adultery, fraud, etc 宽恕暴行、奸情、欺诈行为等 * Not punishing them amounts to condoning their crime. 不惩罚他们就等于纵容他们的罪行.
  > condonation / 9kCndEU5neIFn; 9kBndo`neFEn/ n [U] (fml 文).
  condone
@@ -1478,6 +1477,132 @@ Main entry: clockidiom
 If you do something against time/the clock, you do it as fast as possible and try to finish it before a certain time
 • It was a real race against time to get all the costumes sewn for the play.
 
+<<<<<<< HEAD
+trample
+tram·ple [trample tramples trampled trampling] BrE [ˈtræmpl] NAmE [ˈtræmpl]  verb
+1. transitive, intransitive to step heavily on sb/sth so that you crush or harm them/it with your feet
+• ~ sb/sth People were trampled underfoot in the rush for the exit.
+• He was trampled to death by a runaway horse.
+• ~ sb/sth down The campers had trampled the corn down.
+• ~ on/over sth Don't trample on the flowers!
+2. intransitive ~ (on/over) sb/sth to ignore sb's feelings or rights and treat them as if they are not important
+• The government is trampling on the views of ordinary people.
+• She would not let him trample over her any longer.
+
+
+tread
+
+ / tred; trZd/ v (pt trod / trCd; trBd/, pp trodden/ 5trCdn; `trBdn/ or trod) 
+ [I, Ipr] ~ (on, etc sth/sb) (a) set one's foot down; walk or step 踩; 行走; 踏: She trod lightly so as not to wake the baby. 她步子很轻, 以免惊醒孩子. * explorers going where no man had trod (ie been) before 前往杳无人迹之处的勘探者 * tread on sb's toe 踩在某人的脚趾上 * Mind you don't tread in that puddle. 小心, 别踩着那水坑. * (fig 比喻) It is a sensitive issue so we must tread (ie speak, proceed) carefully. 这是个敏感的问题, 绝不可掉以轻心. (b) (of a foot) be setdown （指脚）踩下, 踏下. 
+ [Tn, Tn.pr, Tn.p] ~ sth (in/down/out) press or crush sth with the feet 踩紧或踩碎某物: tread grapes, ie to make wine 踩碎葡萄（制酒） * Don't tread your ash into my carpet! 别把你的烟灰踩到我的地毯里! * tread the earth down around the roots 把根部周围的泥土踩实 * tread out fire in the grass 把草地上的火踩灭. 
+ [Tn, Tn.pr] make (a path, etc) by walking 踩出（一条路等）: The cattle had trodden a path to the pond. 牛群踩出了一条通往池塘的小径. 
+ (idm 习语) ,tread the `boards (rhet or joc 修辞或谑) be an actor 当演员. ,tread on `air feel very happy 欢天喜地. ,tread on sb's `corns/`toes (infml 口) offend or annoy sb 冒犯或得罪某人: I don't want to tread on anybody's toes so I won't say what I think. 我谁也不想得罪, 所以我不把想法说出来. ,tread on sb's `heels follow sb closely 紧跟某人. ,tread/,walk a `tightrope => tightrope. ,tread `water keep oneself upright in deep water by making treading movements with the legs 踩水（游泳动作）.
+
+ > tread n 
+ [sing] manner or sound of walking 步法; 步态; 脚步声: walk with a heavy tread 脚步沉重地行走. 
+ [C] upper surface of a step or stair （台阶或楼梯的）踏面, 梯面. 
+ [C, U] outer grooved surface of a tyre that is in contact with the road （轮胎的）踏面, 胎面: Driving with worn tread(s) can be dangerous. 轮胎胎面磨损的汽车开着有危险.
+
+ # `treadmill n 
+ mill-wheel turned by the weight of people or animals treading on steps round its inside edge (formerly worked by prisoners as a punishment) （人力或畜力的）踏车（旧时用以惩治囚犯）. 
+ (fig 比喻) tiring or monotonous routine work; drudgery 累人的或单调的例行工作; 繁重乏味的工作: I can't get off the office treadmill. 我无法摆脱单调的坐班工作.
+ 
+ noun
+1. singular the way that sb walks; the sound that sb makes when they walk
+• I heard his heavy tread on the stairs.
+2. countable, uncountable the raised pattern on the surface of a tyre on a vehicle
+• The tyres were worn below the legal limit of 1.6 mm of tread.
+3. countable the upper surface of a step or stair
+compare ↑riser
+ 
+Word Origin:
+Old English tredan (as a verb), of West Germanic origin; related to Dutch treden and German treten.
+ 
+Example Bank:
+• I heard his heavy tread moving about upstairs.
+• The streets have echoed to the tread of feet for more than ten centuries.
+• The tyre tread has been worn below the legal limit.
+• His tread was measured and stately.
+• I could hear his heavy tread on the stairs.
+• She moved with the light tread of a dancer.
+• The ground shook beneath the weight of their tread.
+
+retrace
+re·trace [retrace retraces retraced retracing] BrE [rɪˈtreɪs]  NAmE [rɪˈtreɪs]  verb
+1. ~ sth to go back along exactly the same path or route that you have come along
+• She turned around and began to retrace her steps towards the house.
+2. ~ sth to make the same trip that sb else has made in the past
+• They are hoping to retrace the epic voyage of Christopher Columbus.
+• (figurative) Her mind retraced (= remembered) the dramatic events of the previous night.
+3. ~ sth to find out what sb has done or where they have been
+• Detectives are trying to retrace her movements on the night she disappeared.
+
+flit
+flit /flɪt/ BrE  AmE  verb (past tense and past participle flitted, present participle flitting) [intransitive always + adverb/preposition]
+[Date: 1100-1200; Language: Old Norse; Origin: flytja 'to carry around']
+to move lightly or quickly and not stay in one place for very long:
+ Birds flitted about in the trees above them.
+ She seemed to spend her life flitting from one country to another.
+ His eyes flitted to his watch.
+ 
+ despise
+des·pise [despise despises despised despising] BrE [dɪˈspaɪz]  NAmE [dɪˈspaɪz]  verb ~ sb/sth
+(not used in the progressive tenses) to dislike and have no respect for sb/sth
+• She despised gossip in any form.
+• He despised himself for being so cowardly.
+Verb forms: 
+ 
+Word Origin:
+Middle English: from Old French despire, from Latin despicere, from de- ‘down’ + specere ‘look at’.
+ 
+Synonyms:
+hate
+dislike • can't stand • despise • can't bear • loathe • detest
+These words all mean to have a strong feeling of dislike for sb/sth.
+hate • to have a strong feeling of dislike for sb/sth. Although hate is generally a very strong verb, it is also commonly used in spoken or informal English to talk about people or things that you dislike in a less important way, for example a particular type of food: ▪ He hates violence in any form. ◇ ▪ I've always hated cabbage.
+dislike • (rather formal) to not like sb/sth. Dislike is a rather formal word; it is less formal, and more usual, to say that you don't like sb/sth, especially in spoken English: ▪ I don't like it when you phone me so late at night.
+can't stand • (rather informal) used to emphasize that you really do not like sb/sth: ▪ I can't stand his brother. ◇ ▪ She couldn't stand being kept waiting.
+despise • to dislike and have no respect for sb/sth: ▪ He despised himself for being so cowardly.
+can't bear • used to say that you dislike sth so much that you cannot accept or deal with it: ▪ I can't bear having cats in the house.
+can't stand or can't bear?
+In many cases you can use either word, but can't bear is slightly stronger and slightly more formal than can't stand.
+loathe • to hate sb/sth very much: ▪ They loathe each other.
+Loathe is generally an even stronger verb than hate, but it can also be used more informally to talk about less important things, meaning ‘really don't like’: ▪ Whether you ▪ love or loathe ▪ their music, you can't deny their talent.
+detest • (rather formal) to hate sb/sth very much: ▪ They absolutely detest each other.
+I hate/dislike/can't stand/can't bear/loathe/detest doing sth.
+I hate/can't bear to do sth.
+I hate/dislike/can't stand/can't bear it when…
+I really hate/dislike/can't stand/despise/can't bear/detest sb/sth
+I absolutely hate/can't stand/loathe/detest sb/sth
+ 
+Example Bank:
+• She thoroughly despised him for his weakness.
+• I don't know why they despise me so much.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+despise
+
+ / dI5spaIz; dI`spaIz/ v [Tn, Tn.pr] ~ sb/sth (for sth) feel contempt for sb/sth; consider sb/sth as worthless 鄙视、藐视、看不起某人[某事物]: despise his hypocrisy, meanness, conceit, etc 鄙视他的虚伪、吝啬、自负等 * Strike-breakers are often despised by their workmates. 破坏罢工的人常为同事所不齿.
+From Longman DOCE 5th Ed. (En-En)
+despise
+de‧spise /dɪˈspaɪz/ BrE  AmE  verb [transitive not in progressive]
+[Date: 1200-1300; Language: Old French; Origin: despire, from Latin despicere 'to look down on', from specere 'to look']
+to dislike and have a low opinion of someone or something:
+ She despised her neighbours.
+• • •
+THESAURUS
+▪ hate verb [transitive not in progressive] to dislike someone or something very much: Billy hated his stepfather. | He hated the fact that his wife was more successful than he was. | She hates people being late.
+▪ can’t stand/can’t bear to hate someone or something. Can’t stand is less formal than hate, and is very common in everyday English: She’s OK, but I can’t stand her husband. | He couldn’t bear the thought of life without Nicole. | She can’t stand being on her own.
+▪ loathe /ləʊð $ loʊð//detest verb [transitive not in progressive] to hate something or someone very much. Loathe and detest are a little more formal than hate: He loathed housework. | Greg had detested his brother for as long as he could remember. | She evidently loathes her ex-husband.
+▪ despise verb [transitive not in progressive] to hate someone or something very much and have no respect for them: He despised the man and could never forgive him for what he had done. | They despised the wealth and consumerism of the West.
+▪ abhor /əbˈhɔː $ əbˈhɔːr, æb-/ verb [transitive not in progressive] formal to hate something because you think it is morally wrong: He abhorred violence. | We abhor racism in any form.
+
+squander
+squan·der [squander squanders squandered squandering] BrE [ˈskwɒndə(r)]  NAmE [ˈskwɑːndər]  verb ~ sth (on sb/sth)
+to waste money, time, etc. in a stupid or careless way
+• He squandered all his money on gambling.
+• She squandered her chances of winning.
+• He just squandered his talent.
+=======
 squander
 squan‧der /ˈskwɒndə $ ˈskwɑːndər/ BrE  AmE  verb [transitive]
 to carelessly waste money, time, opportunities etc:
@@ -1494,11 +1619,1450 @@ THESAURUS
 ▪ blow informal to spend a lot of money on something, especially on something that you do not really need: Her husband blew all their savings on a new sports car.
 ▪ economize to spend less money: We’re trying to economize by eating at home instead of going out for meals.
 From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+>>>>>>> 8ad8b2d0fdeca145b70c16151f68722420bf23cc
 squander
 
  / 5skwCndE(r); `skwBndL/ v [Tn, Tn.pr] ~ sth (on sb/sth) waste (time, money, etc); use sth wastefully 浪费（时间、金钱等）; 挥霍: He's squandered all his savings on drink. 他把存的钱全买酒喝了. * (fig 比喻) Don't squander your affection on him he'll never love you. 别把感情耗在他身上了--他永远不会爱你的.
  > squanderer n.
  
+<<<<<<< HEAD
+ linger over
+verb
+delay
+• Syn: ↑dwell on
+dwell on something
+ˈdwell on/upon sth derived
+1. to think or talk a lot about sth, especially sth it would be better to forget
+• So you made a mistake, but there's no need to dwell on it.
+2. to look at sth for a long time
+Main entry: ↑dwellderived
+
+victimize
+vic·tim·ize (BrE also -ise) [victimize victimizes victimized victimizing] BrE [ˈvɪktɪmaɪz]  NAmE [ˈvɪktɪmaɪz]  verb often passive ~ sb
+to make sb suffer unfairly because you do not like them, their opinions, or sth that they have done
+• For years the family had been victimized by racist neighbours.
+• The union claimed that some of its members had been victimized for taking part in the strike.
+Derived Word: ↑victimization
+
+grovel
+
+ / 5grCvl; `^rBvl/ v (-ll-; US -l-) (derog 贬) 
+ [I, Ipr] ~ (to/before sb) lie or crawl with the face downwards in a show of humility or fear 趴伏, 匍匐（作谦卑或恐惧状）: Those who wished a favour of the emperor had to grovel on hands and knees before him. 凡希望受到皇帝恩宠的人都要拜倒在他面前. 
+ (fig 比喻) [I, Ipr] ~ (to sb) (for sth) behave with a show of humility or shame 带着谦卑或羞愧的样子行事: You will just have to grovel to the bank manager for a loan. 你只得低声下气地向银行经理借贷. 
+ (phr v) grovel about/around move about on one's hands and knees; crawl about 四处爬行; 爬来爬去: grovelling around under the table looking for a pin 在桌子下爬来爬去寻找一根针.
+
+ > grovelling / 5grCvElIN; `^rBvlIN/ adj excessively humble; abject 过分谦逊的; 可鄙的: a grovelling apology 低声下气的道歉.
+From Longman DOCE 5th Ed. (En-En)
+grovel
+grov‧el /ˈɡrɒvəl $ ˈɡrɑː-, ˈɡrʌ-/ BrE  AmE  verb (past tense and past participle grovelled, present participle grovelling British English, groveled, groveling American English)
+[Date: 1800-1900; Origin: groveling 'lying face downward' (16-19 centuries), from groof 'on the face' (14-19 centuries), from Old Norse grufu]
+1. [intransitive] to praise someone a lot or behave with a lot of respect towards them because you think that they are important and will be able to help you in some way – used to show disapproval SYN crawl
+grovel to
+ I had to really grovel to the bank manager to get a loan.
+2. [intransitive always + adverb/preposition] to move along the ground on your hands and knees:
+ I saw him grovelling in the road for his hat.
+—grovelling adjective:
+ a grovelling apology
+ 
+  ridicule
+
+ / 5rIdIkju:l; `rIdIkjul/ n [U] (process of) making sb/sth appear foolish or absurd; scorn 嘲弄; 戏弄; 嘲笑: incur ridicule 遭受嘲弄 * attempt to escape ridicule 力图避免他人耻笑 * be held up to ridicule 被嘲弄 * He's become an object of ridicule, ie People say he is foolish/absurd. 他成了大家嘲笑的对象.
+
+ > ridicule v [Tn] make fun of (sb/sth); mock 嘲弄 （某人[某事物]）; 嘲笑: The opposition ridiculed the government's proposals, saying they offered nothing new. 反对派揶揄政府的建议, 说成是老调重弹.
+From Longman DOCE 5th Ed. (En-En)
+ridicule
+I. rid‧i‧cule1 /ˈrɪdəkjuːl, ˈrɪdɪkjuːl/ BrE  AmE  noun [uncountable]
+[Date: 1600-1700; Language: French; Origin: Latin ridiculum 'something funny', from ridere 'to laugh']
+unkind laughter or remarks that are intended to make someone or something seem stupid:
+ the ridicule of his peers
+ The government’s proposals were held up to ridicule (=suffered ridicule) by opposition ministers.
+ He had become an object of ridicule among the other teachers.
+II. ridicule2 BrE  AmE  verb [transitive]
+to laugh at a person, idea etc and say that they are stupid SYN mock:
+ At the time, his ideas were ridiculed.
+ 
+ petty
+
+ / 5petI; `pZtI/ adj (-ier, -iest) (derog 贬) 
+ small or trivial; unimportant 小的; 琐碎的; 不重要的: petty details, petty queries, regulations, troubles 细节、小问题、琐碎的规章、小麻烦. 
+ (a) concerned with small and unimportant matters 注重琐事的: petty observance of the regulations 遵守规章制度上的细节. (b) having or showing a small mind; mean 狭隘的; 器量小的; 小气的: petty and childish behaviour 小心眼和孩子气的行为 * petty spite 心胸狭窄的怨恨 * a petty desire to have her revenge 她想要报复的狭隘念头 * petty about money 金钱上很小气.
+ > pettily / 5petIlI; `pZtIlI/ adv. pettiness n [U]: The pettiness of their criticisms enraged him. 他们鸡毛蒜皮地挑剔, 他十分气愤.
+
+ # ,petty `cash (usu small) amount of money kept in an office from or for small payments （通常指小额的）零用现金.
+ ,petty `larceny theft of articles of small value 小偷小摸.
+ ,petty `officer (abbr 缩写 PO) senior non-commissionedofficer in the navy 海军士官. =>App 9 见附录9.
+From Longman DOCE 5th Ed. (En-En)
+petty
+pet‧ty /ˈpeti/ BrE  AmE  adjective
+[Date: 1300-1400; Language: Old French; Origin: peti 'small']
+1. a petty problem, detail etc is small and unimportant SYN trivial:
+ petty squabbles
+ petty restrictions
+2. unkind and caring too much about small unimportant things:
+ How can she be so petty?
+ petty jealousy and spitefulness
+3. petty crime a crime that is not serious, for example stealing things that are not very valuable
+4. petty criminal/thief etc a criminal whose crimes are not very serious
+5. a petty official is not important – used especially when they use their power as if they were important:
+ Some petty bureaucrat wanted all the documents in triplicate.
+—pettiness noun [uncountable]:
+ the pettiness of Hollywood
+ 
+ surmise
+
+ / sE5maIz; sL`maIz/ v [Tn, Tf, Tw] (fml 文) suppose (sth) without having evidence that makes it certain; guess 猜测（某事物）; 猜想; 揣测: With no news from the explorers we can only surmise their present position/where they are. 我们没有探险者的消息, 只能猜测他们现在所处的位置. * We surmised that he must have had an accident. 我们猜想他一定出事了.
+
+ > surmise / 5s\:maIz; `s[maIz/ n [C, U] (fml 文) guess(ing) 猜测; 猜想: Your first surmise was right. 你第一次猜得对. * This is pure surmise. 这纯属臆测.
+From Longman DOCE 5th Ed. (En-En)
+surmise
+sur‧mise /səˈmaɪz $ sər-/ BrE  AmE  verb [transitive]
+[Date: 1500-1600; Language: Old French; Origin: past participle of surmetre 'to accuse', from Latin supermettere 'to throw on', from mittere 'to send']
+formal to guess that something is true, using the information you know already
+surmise that
+ When he came in, he didn’t look up, so she surmised that he was in a bad mood.
+—surmise noun [uncountable and countable]:
+ Charles was glad to have his surmise confirmed.
+ 
+ stigmatize, stigmatise
+
+ / 5stIgmEtaIz; `stI^mE9taIz/ v [Cn.n/a usu passive 通常用于被动语态] ~ sb/sth as sth (fml 文) describe or consider sb/sth as sth disgraceful or shameful 将某人[某事物]形容为、视为可耻之物: stigmatized as a coward and a liar 被指责为胆小鬼和说谎的人.
+From Longman DOCE 5th Ed. (En-En)
+stigmatize
+stig‧ma‧tize BrE  AmE  (also stigmatise British English) /ˈstɪɡmətaɪz/ verb
+be stigmatized to be treated by society as if you should feel ashamed of your situation or behaviour:
+ Single mothers often feel that they are stigmatized by society.
+—stigmatization /ˌstɪɡmətaɪˈzeɪʃən $ -tə-/ noun [uncountable]
+
+outdo
+
+ / 9aUt5du:; aJt`du/ v (3rd pers sing pres t -does/- 5dQz; -`dQz/, pt -did / -5dId; -`dId/, pp -done / -5dQn;-`dQn/) [Tn] do more or better than (sb) 比（某人）做得多或做得好; 超过; 胜过: determined to outdo her brother at work and games 决心在工作和体育活动中胜过她的哥哥 * Not to be outdone (ie Not wanting to let sb else do better) she tried again. 她很好强, 又试了一次.
+From Longman DOCE 5th Ed. (En-En)
+outdo
+out‧do /aʊtˈduː/ BrE  AmE  verb (past tense outdid /-ˈdɪd/, past participle outdone /-ˈdʌn/, third person singular outdoes /-ˈdʌz/) [transitive]
+[Word Family: verb: ↑do, ↑outdo, ↑overdo, ↑redo, ↑undo; noun: ↑deed ≠ ↑misdeed, ↑do, ↑doing; adjective: ↑done, ↑overdone, ↑undone]
+1. to be better or more successful than someone else at doing something:
+ When it comes to speed of response, a small firm can outdo a big company.
+outdo somebody in something
+ skaters trying to outdo each other in grace and speed
+2. not to be outdone in order not to let someone else do better or seem better than you:
+ Not to be outdone, other computer manufacturers are also donating machines to schools.
+ 
+ make up
+▪ I. ˌmake ˈup | ˌmake yourself/sbˈup derived
+to put powder, ↑lipstick, etc. on your/sb's face to make it more attractive or to prepare for an appearance in the theatre, on television, etc.
+related noun ↑make-up (1)
+Main entry: ↑makederived
+ 
+▪ II. ˌmake ˈup (with sb) derived
+(BrE also ˌmake it ˈup) to end a disagreement with sb and become friends again
+• Why don't you two kiss and make up?
+• Has he made it up with her yet?
+• Have they made it up yet?
+Main entry: ↑makederived
+
+ˈmake-up [make-up make-ups] BrE   NAmE   noun 
+1. uncountable substances used especially by women to make their faces look more attractive, or used by actors to change their appearance
+• eye make-up
+• to put on your make-up
+• She never wears make-up.
+• a make-up artist (= a person whose job is to put make-up on the faces of actors and models)
+2. singular the different qualities that combine to form sb's character or being
+• Jealousy is not part of his make-up.
+• The final act exposes the fatal flaws in his make-up.
+• a person's genetic make-up
+• The report studies the psychological make-up of a serial killer.
+3. singular ~ (of sth) the different things, people, etc. that combine to form sth; the way in which they combine
+• the make-up of a TV audience
+• (technical) the page make-up of a text (= the way in which the words and pictures are arranged on a page)
+4. countable (NAmE) a special exam taken by students who missed or failed an earlier one
+ 
+Collocations:
+Clothes and fashion
+Clothes
+be wearing a new outfit/bright colours/fancy dress/fur/uniform
+be (dressed) in black/red/jeans and a T-shirt/your best suit/leather/silk/rags (= very old torn clothes)
+be dressed for work/school/dinner/a special occasion
+be dressed as a man/woman/clown/pirate
+wear/dress in casual/designer/second-hand clothes
+wear jewellery/(especially US) jewelry/accessories/a watch/glasses/contact lenses/perfume
+have a cowboy hat/red dress/blue suit on
+put on/take off your clothes/coat/shoes/helmet
+pull on/pull off your coat/gloves/socks
+change into/get changed into a pair of jeans/your pyjamas/(especially US) your pajamas
+Appearance
+change/enhance/improve your appearance
+create/get/have/give sth a new/contemporary/retro look
+brush/comb/shampoo/wash/blow-dry your hair
+have/get a haircut/your hair cut/a new hairstyle
+have/get a piercing/your nose pierced
+have/get a tattoo/a tattoo done (on your arm)/a tattoo removed
+have/get a makeover/cosmetic surgery
+use/wear/apply/put on make-up/cosmetics
+Fashion
+follow/keep up with (the) fashion/the latest fashions
+spend/waste money on designer clothes
+be fashionably/stylishly/well dressed
+have good/great/terrible/awful taste in clothes
+update/revamp your wardrobe
+be in/come into/go out of fashion
+be (back/very much) in vogue
+create a style/trend/vogue for sth
+organize/put on a fashion show
+show/unveil a designer's spring/summer collection
+sashay/strut down the catwalk/(NAmE also) runway
+be on/do a photo/fashion shoot
+ 
+Example Bank:
+• He was given an Oscar for his make-up work on the film.
+• I never wear make-up.
+• She was checking her make-up in the mirror.
+• You don't wear full make-up to go swimming.
+• a tearful girl with make-up running down her face
+• the make-up effects for the film
+• the unique make-up of each person
+• Ireland did show up a number of flaws in the England team's make-up.
+• The final act reveals the flaws in his make-up.
+• the genetic make-up of plants and animals
+From Longman DOCE 5th Ed. (En-En)
+make-up
+ˈmake-up BrE  AmE , make‧up /ˈmeɪkʌp/ noun
+1. FOR YOUR FACE [uncountable] coloured substances that are put on your face to improve or change your appearance:
+ I don’t usually wear much make-up. ⇨ make up at ↑make1
+2. PEOPLE IN A GROUP [singular] the make-up of a group or team is the combination of people that are in it
+make-up of
+ We should change the make-up of the team.
+3. CHARACTER sb’s make-up the qualities that a person has, which form their character:
+ Pride has always been an important part of his make-up.
+sb’s genetic/psychological make-up
+ a possible link between genetic make-up and criminal behaviour
+4. TEST [countable] (also make-up test) American English a test that you take in school when you were not able to take a previous test
+• • •
+COLLOCATIONS
+■ verbs
+▪ wear make-up They’re not allowed to wear make-up to school.
+▪ have make-up on (=be wearing make-up) She had no make-up on.
+▪ use make-up She rarely uses make-up.
+▪ put on make-up (also apply make-up formal) Gloria watched her mother put on her make-up.
+▪ do your make-up (=put on make-up) I’ll do your make-up for you, if you want.
+▪ take off make-up (also remove make-up formal) Take off eye make-up gently, using a cotton ball.
+▪ touch up/fix your make-up (=put a little more make-up on after some has come off) She went into the bathroom to touch up her makeup.
+▪ smudge your make-up (=accidentally rub it so that it spreads to areas where you do not want it) Grace wiped her eyes, smudging her make-up.
+■ ADJECTIVES/NOUN + make-up
+▪ heavy make-up (=a lot of make-up) a girl in high heels and heavy make-up
+▪ eye make-up She was wearing far too much eye make-up.
+▪ stage make-up (=make-up that actors wear in plays) the elaborate stage make-up for ‘The Lion King’
+▪ pancake make-up (=very thick make-up worn by actors) His face was covered by thick pancake makeup.
+■ make-up + NOUN
+▪ a make-up artist (=someone whose job is to put make-up on actors) the chief make-up artist on the film
+• • •
+THESAURUS
+▪ make-up coloured substances that are put on your face to improve or change your appearance: I don’t usually wear much make-up.
+▪ cosmetics creams, powders etc that you use on your face and body in order to look more attractive: a range of cosmetics and toiletries
+▪ lipstick a substance you use for adding colour to your lips, in the shape of a small stick: She was wearing bright red lipstick.
+▪ eyeshadow coloured cream or powder that you put on your eyelids
+▪ eyeliner something you use for adding a line of colour at the edges of your eyelids to make your eyes look bigger or more noticeable
+▪ mascara a dark substance you use to colour your eyelashes and make them look thicker
+▪ blusher (also blush American English, rouge old-fashioned) red or pink cream or powder used for making your cheeks look slightly more pink
+▪ foundation a cream the same colour as your skin that you put on your face before the rest of your make-up
+
+hit me up
+slang Contact me.
+I gave that cute boy my number and told him to hit me up sometime.
+See also: hit, up
+hit up
+1. slang To go to a particular place.
+Let's hit up the mall—I'm sure we can find a present for her there.
+2. slang To contact someone or something. In this usage, a noun or pronoun can be used between "hit" and "up."
+Hit me up whenever you need help.
+3. slang To ask someone for something, usually money. In this usage, a noun or pronoun can be used between "hit" and "up."
+Stop hitting me up for money when you already owe me $500!
+overlay
+ / 9EUvE5leI; 9ovL`le/ v (pt, pp overlaid / -5leId;-`led/) [usu passive 通常用于被动语态: Tn, Tn.pr] ~ sth (with sth) put a thin layer over the surface of (sth) 在（某物）表面上铺一薄层: wood overlaid with gold 敷金箔的木 * He overlaid the walls with hessian. 他在墙上贴了一层麻布.
+
+ > overlay / 5EUvEleI; `ovL9le/ n thing laid over sth 覆盖物: a table covered with a copper overlay 包铜桌子.
+From Longman DOCE 5th Ed. (En-En)
+overlay
+I. o‧ver‧lay1 /ˌəʊvəˈleɪ $ ˌoʊvər-/ BrE  AmE  verb (past tense and past participle overlaid) [transitive]
+1. to cover or be on top of something
+be overlaid with something
+ The wood is overlaid with silver.
+2. if one quality, sound etc overlays another, it is added to it and is often stronger or more noticeable:
+ The roar of the engines was overlaid by a loud banging.
+II. o‧ver‧lay2 /ˈəʊvəleɪ $ ˈoʊvər-/ BrE  AmE  noun [countable]
+1. something which covers something else:
+ the brass fire surround with its decorative overlay
+2. a transparent sheet with a picture or drawing on it which is put on top of another picture to change it
+3. an additional quality or feeling:
+ sad stories with an overlay of humour
+overlie
+o‧ver‧lie /ˌəʊvəˈlaɪ $ ˌoʊvər-/ BrE  AmE  verb (past tense overlay /-ˈleɪ/, past participle overlain /-ˈleɪn/, present participle overlying) [transitive] technical
+to lie over something:
+ Clay overlies chalk in the southern mountains.
+
+dupe
+I. dupe1 /djuːp $ duːp/ BrE  AmE  noun [countable]
+[Date: 1600-1700; Language: French; Origin: perhaps from Old French huppe type of bird considered stupid]
+someone who is tricked, especially into becoming involved in something illegal
+II. dupe2 BrE  AmE  verb [transitive usually passive]
+to trick or deceive someone
+dupe somebody into doing something
+ Consumers are being duped into buying faulty electronic goods.
+• • •
+THESAURUS
+▪ deceive especially written to make someone who trusts you believe something that is not true: This was a deliberate attempt to deceive the public.
+▪ trick to make someone believe something that is not true, in order to get something from them or make them do something: A man posing as an insurance agent had tricked her out of thousands of dollars.
+▪ fool to make someone believe something that is not true by using a clever but simple trick: His hairpiece doesn’t fool anyone.
+▪ mislead to make people believe something that is not true, by deliberately not giving them all the facts, or by saying something that is only partly true: The company was accused of misleading customers about the nutritional value of the product.
+▪ dupe informal to trick or deceive someone, especially so that they become involved in someone else’s dishonest activity without realizing it: The spies duped government and military officials alike.
+▪ con informal to trick someone, especially by telling them something that is not true: I’m pretty good at judging people; I didn’t think he was trying to con me.
+
+belittle
+
+ / bI5lItl; bI`lItl/ v [Tn] make (a person or an action) seem unimportant or of little value 轻视; 贬低: Don't belittle yourself, ie Don't be too modest about your abilities or achievements. 不要小看你自己.
+
+ > belittlement n [U].
+ belittling adj making sb seem unimportant or worthless 轻视某人的; 小看某人的: I find it belittling to be criticized by someone so much younger than me. 有个比我年轻许多的人批评了我, 我觉得是小看了我.
+From Longman DOCE 5th Ed. (En-En)
+belittle
+be‧lit‧tle /bɪˈlɪtl/ BrE  AmE  verb [transitive]
+formal to make someone or something seem small or unimportant:
+ He tends to belittle her efforts.
+ 
+judicial
+
+ / dVu:5dIFl; dVu`dIFEl/ adj [attrib 作定语] 
+ of or by a court of law; of a judge or of judgement 法庭的; 司法的; 法官的; 审判的: a judicial inquiry, review, system 法庭的审讯、覆审、司法制度 * the judicial process 审判的程序 * take judicial proceedings against sb, ie bring a case against him in court 提起诉讼控告某人. 
+ able to judge things wisely; critical; impartial 善于判断的; 有判断力的; 明断的; 公正的: a judicial mind 公正的心.
+ > judicially / -FElI; -FElI/ adv.
+
+ # ju,dicial `murder (law 律) sentence of death that is legal but considered unjust 虽合法但被认为不公正的死刑判决.
+ ju,dicial sepa`ration (law 律) order that forbids a man and wife to live together but does not end the marriage 经裁定的夫妇分居（夫妻不得同居但不结束婚姻关系）.
+From Longman DOCE 5th Ed. (En-En)
+judicial
+ju‧di‧cial /dʒuːˈdɪʃəl/ BrE  AmE  adjective
+[Date: 1300-1400; Language: Latin; Origin: judicialis, from judicium 'judgment', from judex; ⇨ ↑judge1]
+relating to the law, judges, or their decisions ⇨ legislative:
+ the judicial system
+—judicially adverb
+
+shed 1
+
+1 / Fed; FZd/ n (often in compounds 常用以构成复合词) one-storey building used for storing things, sheltering animals, vehicles, etc or as a workshop （用以储物、关牲口、停车辆等或作车间的）平房, 棚: a `tool-shed 工具房 * a `wood-shed 柴房 * a `coal-shed 煤库 * a `cattle-shed 牲口棚 * an `engine-shed 机车库 * a `bicycle-shed 自行车棚. =>illus at App 1 见附录1插图, page vii. Cf 参看 hut.
+shed 2
+
+2 / Fed; FZd/ v (-dd-; pt, pp shed) 
+ [Tn] lose (sth) by its falling off; let (sth) fall or come off 使（某物）脱落、剥落、蜕下或脱下: Trees shed their leaves and flowers shed their petals. 到时候树就落叶、花就掉瓣. * Some kinds of deer shed their horns. 鹿有些种类能脱换鹿角. * The snake sheds its skin regularly. 蛇到时候会蜕皮. * The lorry has shed its load, ie Its load has accidentally fallen off onto the road. 那辆卡车把货物掉在路上了. 
+ [Tn] (fml 文) allow (sth) to pour out 使（某物）流出: shed tears, ie weep 流泪 * shed blood, ie wound or kill another person or other people 流血（使他人受伤或丧命） * shed one's blood, ie be wounded or killed 流血（受伤或被杀死）. 
+ [Tn] take or throw (sth) off; remove 去掉（某物）; 除掉: shedding one's clothes on a hot day 天热时脱掉衣服 * The duck's feathers shed water immediately. 鸭子的羽毛沾不住水. * (fig 比喻) You must learn to shed (ie get rid of) your inhibitions. 你应该尽量摆脱抑制心态. 
+ [Tn, Tn.pr] ~ sth (on sb/sth) spread or send sth out 散发出（某物）: a fire shedding warmth 向外散热的火 * The lamp shed soft light on the desk. 台灯柔和的光线照射在桌面上. * (fig 比喻) She sheds happiness all around her. 她焕发着喜悦的神采. 
+ (idm 习语) cast/shed/throw light on sth => light1.
+From Longman DOCE 5th Ed. (En-En)
+shed
+I. shed1 S3 /ʃed/ BrE  AmE  noun [countable]
+[Date: 1400-1500; Origin: Probably from shade]
+1. a small building, often made of wood, used especially for storing things:
+ a tool shed
+ a cattle shed
+2. a large industrial building where work is done, large vehicles are kept, machinery is stored etc
+• • •
+THESAURUS
+■ areas and structures in a garden
+▪ lawn [countable] an area of short grass in a garden: They were sitting on the front lawn of the house.
+▪ flowerbed [countable] an area of ground where you grow flowers: The flowerbeds were well maintained.
+▪ rockery [countable] British English an area of a garden where there are rocks with small flowers growing between them
+▪ hedge [countable] a row of small bushes or trees growing close together, used for dividing one garden from another: a beech hedge
+▪ vegetable patch/plot [countable] (also kitchen garden British English) a part of a garden where you grow vegetables
+▪ patio [countable] a flat stone area next to a house, where people sit outside
+▪ decking [uncountable] a flat wooden area in a garden, where people can sit
+▪ pond [countable] a small area of water in a garden
+▪ water feature [countable] a small pool or structure with water running through it, used to make a garden look more attractive
+▪ greenhouse [countable] a glass building where you can grow plants that need protection from the weather
+▪ shed [countable] a small wooden building in a garden, where you can store things
+II. shed2 BrE  AmE  verb (past tense and past participle shed, present participle shedding) [transitive]
+[Language: Old English; Origin: sceadan 'to divide, separate']
+1. GET RID OF to get rid of something that you no longer need or want:
+ The company is planning to shed about a quarter of its workforce.
+ The magazine is desperately trying to shed its old-fashioned image.
+ a diet to help you shed pounds
+REGISTER
+Shed is used especially in journalism. In everyday English, people usually say that someone or something gets rid of something.
+2. shed light
+a) to make something easier to understand, by providing new or better information
+shed light on
+ Recent research has shed light on the causes of the disease.
+ Investigators hope to shed light on what started the fire.
+b) if something sheds light, it lights the area around it:
+ The lamp shed a harsh yellow light.
+3. PLANTS/ANIMALS if a plant sheds its leaves or if an animal sheds skin or hair, they fall off as part of a natural process:
+ The trees were starting to shed their leaves.
+ As it grows, a snake will regularly shed its skin.
+4. DROP/FALL to drop something or allow it to fall:
+ He strode across the bathroom, shedding wet clothes as he went.
+shed a load British English:
+ A lorry shed its load of steel bars on the M25.
+5. shed blood to kill or injure people, especially during a war or a fight:
+ Too much blood has already been shed in this conflict. ⇨ ↑bloodshed
+6. shed tears especially literary to cry:
+ She had not shed a single tear during the funeral.
+7. WATER if something sheds water, the water flows off its surface, instead of sinking into it
+• • •
+COLLOCATIONS
+■ nouns
+▪ shed jobs/workers/staff etc The bank continued to shed workers.
+▪ shed weight (=lose weight from your body) Doing exercise is the best way to shed surplus weight.
+▪ shed pounds/kilos (=to lose this amount of weight) I needed to shed a few pounds.
+▪ shed an image (=change people's opinion about someone or something) Has the industry finally shed its negative image?
+▪ shed your inhibitions (=stop worrying about what other people will think of your behaviour) As the party went on, people began to shed their inhibitions.
+sh
+sh BrE  AmE , shh /ʃ/ interjection
+used to tell someone to be quiet:
+ Sh! I’m trying to sleep.
+ 
+ afterward
+afterwards UK  [ˈɑːf.tə.wədz] US  [ˈæf.tɚ.wɚdz] (US also afterward) adverb
+<E > after the time mentioned; later
+• We had tea, and afterwards we sat in the garden for a while.
+• They separated, and soon/shortly afterwards Jane left the country.
+Thesaurus+: ↑Before, after and already ↑After and behind
+ 
+• We agreed on a price but afterwards they wanted £10 extra.
+• If you're a good boy at the doctor's I'll take you swimming afterwards.
+• Everyone would go into the hall for assembly and then afterwards we'd go to our respective classes.
+• I vote (that) we go to the cinema first and eat afterwards.
+• He said he had to go to a meeting now, but that afterwards he'd come and discuss the problem.
+From Oxford Advanced Learners Dictionary 8th Ed.
+afterward
+after·wards BrE [ˈɑːftəwədz]  NAmE [ˈæftərwərdz]  (especially BrE) (NAmE usually after·ward) adverb
+at a later time; after an event that has already been mentioned
+• Afterwards she was sorry for what she'd said.
+• Let's go out now and eat afterwards.
+• Shortly afterwards he met her again.
+ 
+Word Origin:
+[afterwards] Old English æftewearde, from æftan ‘aft’ + -wards (see ↑-ward), influenced by ↑after.
+From Longman DOCE 5th Ed. (En-En)
+afterward
+af‧ter‧wards S2 W3 /ˈɑːftəwədz $ ˈæftərwərdz/ BrE  AmE  adverb (also afterward)
+after an event or time that has already been mentioned:
+ Charles arrived shortly afterwards.
+days/weeks etc afterwards
+ The experience haunted me for years afterwards.
+ She died not long afterwards.
+ Afterwards, I was asked to write a book.
+ 
+ got into
+ 8. ENJOY informal to begin to enjoy something or be interested in it:
+ I first got into jazz when I was at college.
+9. CLOTHING informal to put on a piece of clothing, especially when this is difficult because the piece of clothing is too small for you:
+ I don’t know how she managed to get into those trousers.
+10. what’s got into somebody? spoken used to express surprise that someone is behaving very differently from the way they usually behave:
+ I don’t know what’s got into Sally recently.
+ get into (something)
+get into something (see also ↑get)
+1. ENTER to enter a place, especially when this is difficult:
+ The door was locked and we couldn’t get into the house.
+2. ARRIVE to arrive at a place:
+ What time do we get into New York?
+3. BE ELECTED to be elected to a Parliament:
+ He first got into Parliament in 1982.
+4. COLLEGE/UNIVERSITY to be allowed to be a student at a university, college etc:
+ She got into UCLA.
+5. TEAM to be made a member of a team:
+ Do you think you might get into the Olympic team this year?
+6. START DOING SOMETHING to start doing or feeling something, or being in a particular situation:
+ He’s started getting into trouble at school.
+ My parents were always terrified of getting into debt.
+ She got into the habit of going for long walks by herself.
+ He got into a terrible temper and started throwing things around.
+7. BECOME INVOLVED to begin to be involved in doing something:
+ How did you first get into script writing?
+ She was starting to get into politics.
+ 
+ lament
+ / lE5ment; lE`mZnt/ v (a) [I, Ipr, Tn] ~ (for/over sb/sth) feel or express great sorrow or regret for (sb/sth) 为（某人[某事物]）感到悲痛; 哀悼; 痛惜: lament loudly 哀嚎 * lament (for) a dead friend 哀悼亡友 * lament (over) one's misfortunes 悲叹自己的不幸 * lament the passing of old ways 浩叹古风的沉沦. (b) [I, Tn] complain (about sth) 抱怨（某事）: She's always lamenting the lack of sports facilities in town. 她总是抱怨伦敦缺少体育设施.
+ > lament n 
+ strong expression of grief 悲恸. 
+ song or poem expressing grief; dirge 挽歌; 哀诗: a funeral lament 挽歌.
+ lamentable / 5lAmEntEbl; `lAmEntEbl/ adj regrettable; deplorable 惋惜的; 可悲的: a lamentable loss of life, lack of foresight 令人悲叹的生命损失、缺乏远见. `lamentably / -EblI; -EblI/ adv.
+ lamentation / 9lAmen5teIFn; 9lAmEn`teFEn/ n 
+ [U] lamenting 悲痛; 哀悼; 痛惜; 抱怨: Much lamentation followed the death of the old king. 老国王晏驾, 人们悲恸不已. 
+ [C] expression of grief; lament 悲叹; 挽歌; 哀诗.
+ lamented adj (rhet or joc 修辞或谑) mourned for; regretted 悲叹的; 痛惜的: the much lamented pound note 那张令人痛惜的一镑的钞票 * our late lamented friend 令我们惋惜的故友.
+From Longman DOCE 5th Ed. (En-En)
+lament
+I. la‧ment1 /ləˈment/ BrE  AmE  verb written
+[Date: 1500-1600; Language: French; Origin: lamenter, from Latin lamentari, from lamentum 'a lament']
+1. [intransitive and transitive] to express feelings of great sadness about something:
+ The nation lamented the death of its great war leader.
+2. [transitive] to express annoyance or disappointment about something you think is unsatisfactory or unfair
+lament that
+ He lamented that people had expected too much of him too soon.
+ She lamented the fact that manufacturers did not produce small packs for single-person households.
+lament the lack/absence/decline etc of something
+ Steiner lamented the lack of public interest in the issue.
+II. lament2 BrE  AmE  noun [countable]
+a song, piece of music, or something that you say, that expresses a feeling of sadness:
+ A lone piper played a lament.
+lament for
+ a lament for the dead
+ 
+ rattle (something) off
+rattle something ↔ off phrasal verb (see also ↑rattle)
+to say several pieces of information or a list quickly and easily from memory:
+ Chris rattled off some statistics about the teams.
+ 
+ rattle
+
+ / 5rAtl; `rAtl/ v 
+ [I, Tn] (cause sth to) make short sharp sounds quickly, one after the other; (cause sth to) shake while making such sounds （使某物）发出一连串的短促而尖利的声音; （使某物）颤动出声: The windows were rattling in the wind. 风刮得窗户格格作响. * Hailstones rattled on the tin roof. 冰雹落在铁皮屋顶上发出砰砰声. * The wind rattled the windows. 风把窗户刮得颤悠悠地格格作响. 
+ [Tn esp passive 尤用于被动语态] (infml 口) make (sb) nervous; frighten or alarm 使（某人）紧张; 使恐惧; 使惊慌: The policeman's visit really got her rattled. 警察来访可把她吓了一跳. 
+ (phr v) rattle along, off, past, etc move with a rattling sound 移动时发出嘈杂声: The old bus rattled along the stony road. 那辆旧公共汽车格登格登地沿碎石路行驶. * A cart rattled past (us). 一辆大车发出嘎吱嘎吱声经过我们身边. rattle away/on talk idly and at length; chatter 神聊; 喋喋不休: He rattled on about his job, not noticing how bored she was. 他只顾喋喋不休地说自己工作上的事, 没注意到她有多么腻烦. rattle sth off say or repeat sth quickly and meaninglessly 急促而不假思索地说或重述某事: The child rattled off the poem he had learnt. 那孩子把学到的那首诗背得滚瓜烂熟. rattle through sth tell (a story), repeat (a list, etc) quickly 急急巴巴地讲（故事）或念（表册等）: He rattled through the list of names. 他口中像爆豆一般念那名单.
+
+ > rattle n 
+ [U, C] rattling sound 一连串的短促而尖利的声音: the rattle of bottles, chains, etc 瓶子 G匡啷 G匡啷响、链子当啷当啷响 * the harsh rattle of machine-gun fire 机关枪射击时的刺耳的格格声 * The car has several irritating rattles at the back. 这辆汽车后部有几处发出烦人的嘈杂声. 
+ [C] toy or device for producing a rattling sound 产生连续声音的玩具或器具: a baby's rattle 拨浪鼓 * Football fans sounded their rattles. 足球迷们弄响了他们那用来助阵的发声器. 
+ [C] horny rings on a rattlesnake's tail that make a rattling noise when shaken 响环（响尾蛇尾部的角质环, 摆动时格格作响）.
+ rattling / 5rAtlIN; `rAtlIN/ adj [attrib 作定语] (dated infml 旧, 口) fast or brisk 快的; 轻快的: set a rattling pace 定出快速. adv very 非常: spin a rattling good yarn, ie tell a very good story 讲一个非常好听的故事.
+
+ # `rattlesnake (also US infml 美式口语作 rattler / 5rAtlE(r); `rAtlL/) n poisonous American snake that makes a rattling noise with its tail when alarmed or threatened 响尾蛇（美洲毒蛇）.
+From Longman DOCE 5th Ed. (En-En)
+Rattle
+Rattle, Sir Simon BrE  AmE 
+(1955–) a British ↑conductor (=someone who directs a group of musicians), known especially for working with the City of Birmingham Symphony Orchestra (1980–1997). In 2002 he became the chief conductor of the Berlin Philharmonic.
+rattle
+I. rat‧tle1 /ˈrætl/ BrE  AmE  verb
+[Date: 1300-1400; Origin: Probably from Middle Low German ratelen]
+1.   [intransitive and transitive] if you rattle something, or if it rattles, it shakes and makes a quick series of short sounds:
+ Dan banged on her door and rattled the handle.
+ The window rattled in the wind.
+ Bottles rattled as he stacked the beer crates.
+2. [intransitive] if a vehicle rattles somewhere, it travels there while making a rattling sound
+rattle along/past/over etc
+ The cart rattled along the stony road.
+ An old blue van rattled into view.
+3. [transitive] informal to make someone lose confidence or become nervous:
+ His mocking smile rattled her more than his anger.
+ It was hard not to get rattled when the work piled up.
+ His confidence was rattled by the accident.
+4. rattle sb’s cage spoken informal to annoy someone – used humorously:
+ Who rattled your cage?
+rattle around phrasal verb British English
+to live in a building that is much too big for you
+rattle around in
+ Dad and I rattled around miserably in the house after Mum died.
+rattle something ↔ off phrasal verb
+to say several pieces of information or a list quickly and easily from memory:
+ Chris rattled off some statistics about the teams.
+rattle on phrasal verb British English informal
+to talk quickly for a long time about boring things SYN go on
+rattle on about
+ Nancy would rattle on for hours about her grandchildren.
+rattle through something phrasal verb British English informal
+to do something quickly because you want to finish it
+rattle up something phrasal verb British English
+if a sports player rattles up a number of points, they get that number of points very quickly:
+ The West Indies had rattled up 411 for 5 when rain stopped play.
+• • •
+THESAURUS
+■ object/vehicle/the ground etc
+▪ shake to move suddenly from side to side or up and down, usually with a lot of force: The floor shook from a distant explosion. | The walls were still shaking. | The trees were shaking in the wind.
+▪ rattle to shake and make a noise: The windows rattled in the wind. | The train was rattling over the bridge.
+▪ vibrate to shake continuously with small fast movements: The music was so loud that the whole room vibrated. | The atoms vibrate at different frequencies.
+▪ wobble to move unsteadily from side to side: The bike began to wobble alarmingly as she fought to control it. | The cup wobbled and he grabbed it to stop it from falling.
+▪ rock to move gently backwards and forwards or from side to side: The trailer rocked in the wind. | The boat was rocking from side to side with the waves.
+▪ shudder (also judder especially British English) if a vehicle or machine shudders, it shakes for a short time.: The lift shuddered then began to descend. | The engine shuddered into life (=it shook and then started working). | The car juddered to a halt (=it shook and then stopped) outside the house.
+
+You might see advocate and instantly think of the idiom "to play the devil's advocate," meaning to generate some good, thorough discussion of an idea by pretending to criticize it. In that case, you're advocating (or speaking in favor of) a position that you don't actually hold.
+
+speak out
+speak out/up phrasal verb [spoke out/up spoken out/up spoken out/up speaks out/up speaking out/up]
+<A > to give your opinion about something in public, especially on a subject which you have strong feelings about
+• If no one has the courage to speak out against the system, things will never improve.
+Thesaurus+: ↑Expressing and asking opinions ↑Remarks and remarking ↑Controlling emotions
+ 
+• They spoke out against the proposed legislation.
+• Someone needs to speak up for women's rights.
+• Several parents spoke out against the use of corporal punishment.
+• If you have a problem with anything I've told you, then speak up now.
+Main entry: speakphrasal verb
+
+strangle
+
+ / 5strANgl; `strAN^l/ v 
+ [Tn] kill (sb) by squeezing or gripping the throat tightly; throttle 扼死, 勒死, 绞死, 掐死（某人）; 使窒息: He strangled her with her own scarf. 他用她的围巾把她勒死了. * (infml 口) I could cheerfully strangle you for getting me into this mess! 你让我这样难堪, 我恨不得掐死你! * (fig 比喻) This stiff collar is strangling me, ie making it difficult for me tobreathe. 这硬领把我的脖子卡得喘不过气来. 
+ (a) [Tn]restrict or prevent the proper growth, operation or development of (sth) 限制或阻止（某事物）的正常生长、操作或发展: She felt her creativity was being strangled.她觉得她的创造力难以发挥. (b) [Tn usu passive 通常用于被动语态] restrict the utterance of (sth) 限制（某事物）的发声: a strangled (ie partly suppressed) cry 哽咽.
+
+ > strangler n person who strangles sb 扼死他人的人; 压制者.
+
+ # `stranglehold n (a) strangling grip 扼制; 压制; 束缚. (b) (usu sing 通常作单数) ~ (on sth) (fig 比喻) firm control, making it impossible for sth to grow or develop properly 控制某事物; 使某事物不能正常成长或发展: The new tariffs have put a stranglehold on trade. 新的关税制对开展贸易极为不利.
+From Longman DOCE 5th Ed. (En-En)
+strangle
+stran‧gle /ˈstræŋɡəl/ BrE  AmE  verb [transitive]
+[Date: 1200-1300; Language: Old French; Origin: estrangler, from Latin strangulare; ⇨ ↑strangulation]
+1. to kill someone by pressing their throat with your hands, a rope etc ⇨ choke
+strangle with
+ The victim had been strangled with a belt.
+2. to limit or prevent the growth or development of something:
+ Mills argues that high taxation strangles the economy.
+—strangler noun [countable]
+
+
+over-
+over- UK  [əʊ.və r -] US  [oʊ.vɚ-] prefix
+ 
+TOO MUCH
+1. too much or more than usual
+• The children got rather over-excited (= too excited).
+Thesaurus+: ↑Too much and unnecessary
+ 
+MORE THAN
+2. more than
+• a club for the over-50s
+Thesaurus+: ↑Describing age and birthdays
+ 
+ACROSS
+3. across
+• Of course, the overland route is much slower than going by air.
+Thesaurus+: ↑Above and over
+ 
+HIGHER POSITION
+4. above
+• She was knocked off her bicycle by an overhanging branch.
+Thesaurus+: ↑Above and over
+From Oxford Advanced Learners Dictionary 8th Ed.
+over-
+over- [over-] BrE [ˈəʊvə(r)]  NAmE [ˈoʊvər]  prefix
+(in nouns, verbs, adjectives and adverbs)
+1. more than usual; too much
+• overproduction
+• overload
+• over-optimistic
+• overconfident
+• overanxious
+2. completely
+• overjoyed
+3. upper; outer; extra
+• overcoat
+• overtime
+4. over; above
+• overcast
+• overhang
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+over-
+
+pref 前缀 
+ (with ns forming ns, vs, adjs and advs 与名词结合构成名词、动词、形容词和副词) above; outside; across 在上; 在外; 越过: overcoat * overhang * overall * overhead. Cf 参看 super-. 
+ (used widely with vs, ns, adjs and advs 与许多动词、名词、形容词和副词连用) to excess; too much 过度; 过多: overeat * overwork * overtime * over-rich * over-aggressively. Cf 参看 hyper-.
+From Longman DOCE 5th Ed. (En-En)
+over-
+over- /əʊvə $ oʊvər/ BrE  AmE  prefix
+1. too much:
+ overpopulation
+ overcooked vegetables
+ overweight
+2. above; beyond; across:
+ overhanging branches
+ overhead telephone wires
+ the overland route (=not by sea or air)
+3. outer:
+ an overcoat
+4. additional:
+ We were working overtime (=working beyond the usual time).
+ 
+ fall through
+ˌfall ˈthrough derived
+to not be completed, or not happen
+• Our plans fell through because of lack of money.
+Main entry: ↑fallderived
+
+beware
+
+ / bI5weE(r); bI`wZr/ v [I, Ipr] (used only in the infinitive and imperative 仅用于不定式及祈使句) ~ (of sb/sth) be cautious (of sb/sth); take care (about sb/sth) 谨防（某人[某事物]）; 当心（某人[某事物]）: He told us to beware (of pickpockets, the dog, icy roads). 他告诉我们要当心（小偷、狗、结冰的道路）. * Beware wet paint! 注意--油漆未干!
+From Longman DOCE 5th Ed. (En-En)
+beware
+be‧ware /bɪˈweə $ -ˈwer/ BrE  AmE  verb [intransitive, transitive only in imperative and infinitive]
+[Date: 1200-1300; Origin: be + ware 'careful' (11-19 centuries) (from Old English wær)]
+used to warn someone to be careful because something is dangerous
+beware of
+ Beware of the dog!
+beware of doing something
+ They should beware of making hasty decisions.
+ Police warned drivers to beware.
+ 
+ promise
+I. prom‧ise1 S2 W2 /ˈprɒməs, ˈprɒmɪs $ ˈprɑː-/ BrE  AmE  verb
+1. [intransitive and transitive] to tell someone that you will definitely do or provide something or that something will happen:
+ Last night the headmaster promised a full investigation.
+promise to do something
+ She’s promised to do all she can to help.
+promise (that)
+ Hurry up – we promised we wouldn’t be late.
+promise somebody (that)
+ You promised me the car would be ready on Monday.
+ ‘Promise me you won’t do anything stupid.’ ‘I promise.’
+promise something to somebody
+ I’ve promised that book to Ian, I’m afraid.
+promise somebody something
+ The company promised us a bonus this year.
+ ‘I’ll be back by 1.00.’ ‘Promise?’ ‘Yes! Don’t worry.’
+ He reappeared two hours later, as promised.
+2. [transitive] to show signs of something
+promise to be something
+ Tonight’s meeting promises to be a difficult one.
+ dark clouds promising showers later
+3. promise somebody the moon/the earth to promise to give someone something that is impossible for you to give
+4. I can’t promise (anything) spoken used to tell someone that you will try to do what they want, but may not be able to:
+ I’ll try my best to get tickets, but I can’t promise anything.
+5. I promise you spoken used to emphasize a promise, warning, or statement:
+ I promise you, it does work!
+• • •
+THESAURUS
+▪ promise to tell someone that you will definitely do something, or that something will happen: He promised to give the book back. | The organisers have promised that this year’s event will take place.
+▪ swear to make a very serious and sincere promise, for example in a law court: He had sworn to tell the truth. | I would never do that, I swear.
+▪ give somebody your word especially spoken to promise sincerely that you will do something or that something is true – often used when you are trying to persuade someone that they can trust you: I give you my word that your money is safe with me. | I’ll let you go out tonight if you give me your word that you’ll be home by 11.
+▪ vow to make a very serious promise, often to yourself: She vowed that she would never drink alcohol again. | They vowed to carry on their campaign for justice.
+▪ assure to promise someone that something will happen or that something is true, in order to try to make them feel less worried: Police have assured the public that they are doing everything they can to find the killer.
+▪ guarantee to promise that you will make sure that something will definitely happen, so that there is no question of it not happening: I guarantee that you will have the documents by tomorrow. | How can you guarantee that this won’t happen again?
+▪ pledge to promise publicly or officially that you will do something, for example to give help or money: The government has pledged to increase overseas aid to $4 billion over the next five years.
+▪ undertake formal to make an official or legal promise to do something: The government undertook to keep price increases to a minimum. | The two sides undertook to respect each other’s territory.
+▪ commit to something formal to make a firm and definite promise to do something important, which will affect you for a long time and which could result in serious effects if you fail: Bobby felt unready to commit to a romantic relationship. | A group of 11 companies has committed to developing a new passenger plane.
+II. promise2 S3 W2 BrE  AmE  noun
+[Date: 1300-1400; Language: Latin; Origin: promissum, from the past participle of promittere 'to send out, promise']
+1. [countable] a statement that you will definitely do or provide something or that something will definitely happen
+promise of
+ We received promises of support from several MPs.
+promise to
+ He would never break his promise to his father.
+promise to do something
+ She made a promise to visit them once a month.
+promise that
+ He promised that he’d pick me up.
+2. [uncountable] signs that something or someone will be good or successful:
+ a young man full of promise
+ Bill shows great promise as a goalkeeper.
+ She didn’t fulfil her early promise.
+3. [singular, uncountable] a sign that something, usually something good, may happen
+promise of
+ the promise of spring
+ The letter gave a promise of greater happiness.
+• • •
+COLLOCATIONS (for Meaning 1)
+■ verbs
+▪ make a promise I made a promise to my mother that I’d look after Dad.
+▪ keep a promise (also fulfil a promise British English, fulfill a promise American English formal) (=do what you promised to do) She said she would come back, and she kept her promise. | The mayor has fulfilled his promise to get tough on corruption.
+▪ break a promise (=not do what you promised to do) Once again, the government has broken its promises.
+▪ go back on your promise (=break it) They were angry that the company had gone back on its promise.
+▪ renege on a promise formal (=break it) It is tempting for the government to renege on its promise.
+▪ have sb’s promise (=they have promised you something) ‘It’ll remain a secret?’ ‘Yes, you have my promise.’
+▪ hold somebody to their promise (=make them keep it) The next day, Gareth held me to my promise to take him fishing.
+■ ADJECTIVES/NOUN + promise
+▪ a solemn promise As governor, I made a solemn promise to defend the laws of the Republic.
+▪ a firm promise (=definite) What had happened to all those firm promises of help?
+▪ a vague promise (=not definite) Larry made some vague promises to leave his wife.
+▪ a false/empty/hollow promise (=one that will not be kept) I didn’t make any false promises.
+▪ a broken promise (=one that has not been kept) There have been too many broken promises.
+▪ a campaign/election promise He was accused of breaking a campaign promise not to raise taxes.
+• • •
+COLLOCATIONS (for Meaning 2)
+■ verbs
+▪ show promise (=seem likely to be good or successful) She showed promise as a singer at an early age.
+▪ hold promise (=seem likely to be good or successful – used of things) The Internet clearly held great promise as an educational tool.
+▪ fulfil your/its promise (also live up to your/its promise) (=be as good as expected) This young player has begun to fulfil his promise. | The rest of this movie never quite lives up to the promise of that opening moment.
+■ adjectives
+▪ great promise He’d initially shown great promise as a goalkeeper.
+▪ early promise Tracey showed early promise in mathematics.
+• • •
+THESAURUS
+▪ promise a statement that you will definitely do or provide something, which may not be reliable: ‘I’ll call you tomorrow.’ ‘Is that a promise?’ | Politicians are always making promises.
+▪ pledge a public or official promise to do a particular thing in the future: The Government has fulfilled at least 50% of its election pledges. | We have received pledges of help from various organizations.
+▪ vow a very serious promise to do something or not to do something that you choose to make: He made a vow never to drink alcohol again. | your marriage vows
+▪ oath a formal promise, especially one that someone makes in a court of law: Witnesses swear a solemn oath to tell the truth. | Public officials must take an oath to support the US Constitution.
+▪ undertaking a serious or public promise to do something, especially something difficult which needs a lot of effort or money: The police have given an undertaking to reduce street crime in the city centre. | He was made to sign a written undertaking that he would not go within a mile of her house.
+▪ assurance a promise that something will happen or is true, made so that someone is less worried or more confident: You have my assurance that it won’t happen again. | The manager gave me his personal assurance that the goods would be delivered today.
+▪ guarantee a very definite promise that something will happen. A guarantee is also a formal written promise by a company to repair or replace a product free if it has a fault within a fixed period of time.: With any diet, there’s no guarantee of success. | I’m afraid I can’t give you a 100% guarantee. | Is the camera still under guarantee (=within the period during which it can be repaired or replaced free)?
+
+fend
+fend /fend/ BrE  AmE  verb
+[Date: 1200-1300; Origin: defend]
+fend for yourself to look after yourself without needing help from other people:
+ The kids had to fend for themselves while their parents were away.
+fend somebody/something off phrasal verb
+1. to defend yourself against someone who is attacking you SYN fight somebody ↔ off:
+ Tabitha threw up an arm to fend her attacker off.
+2. to defend yourself from something such as difficult questions, competition, or a situation you do not want to deal with:
+ She uses her secretary to fend off unwanted phone calls.
+ The company managed to fend off the hostile takeover bid.
+ 
+taken 
+ACTION
+26. transitive ~ sth to use a particular course of action in order to deal with or achieve sth
+• The government is taking action to combat drug abuse.
+• We need to take a different approach to the problem.
+27. transitive ~ sth used with nouns to say that sb is doing sth, performing an action, etc.
+• to take a step/walk/stroll
+• to take a bath/shower/wash
+• to take a look/glance
+• to take a bite/drink/sip
+• to take a deep breath
+• to take a break/rest
+• (BrE) No decision will be taken on the matter until next week.  
+ 
+FORM/POSITION
+28. transitive ~ sth to have a particular form, position or state
+• Our next class will take the form of a debate.
+• The new President takes office in January.  
+ 
+TIME
+29. transitive, no passive, intransitive to need or require a particular amount of time
+• ~ sth The journey to the airport takes about half an hour.
+• ~ sth to do sth It takes about half an hour to get to the airport.
+• That cut is taking a long time to heal.
+• The official seemed to take hours to examine my passport.
+• ~ sb sth (to do sth) It took her three hours to repair her bike.
+• It'll take her time to recover from the illness.
+• ~ sth for sb to do sth It'll take time (= take a long time) for her to recover from the illness.
+• + adv. I need a shower— I won't take long.  
+ 
+NEED
+30. transitive, no passive to need or require sth in order to happen or be done
+• ~ sb/sth to do sth It only takes one careless driver to cause an accident.
+• It doesn't take much to make her angry.
+• ~ sth (informal) He didn't take much persuading (= he was easily persuaded).
+31. transitive, no passive (not used in the progressive tenses) ~ sth (of machines, etc.) to use sth in order to work
+• All new cars take unleaded petrol.
+
+attentive
+at·ten·tive BrE [əˈtentɪv]  NAmE [əˈtentɪv]  adjective
+1. listening or watching carefully and with interest
+• an attentive audience
+2. helpful; making sure that people have what they need
+• The hotel staff are friendly and attentive.
+• ~ to sb/sth Ministers should be more attentive to the needs of families.
+Opp: ↑inattentive
+Derived Words: ↑attentively ▪ ↑attentiveness
+ 
+Word Origin:
+[attentive attentively attentiveness] late Middle English: from Old French attentif, -ive, from atendre ‘give one's attention to’, from Latin attendere, from ad- ‘to’ + tendere ‘stretch’.
+ 
+Example Bank:
+• His wife was most attentive.
+• He listened, quiet and attentive.
+• Never before had she had such an attentive audience.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+attentive
+
+ / E5tentIv; E`tZntIv/ adj ~ (to sb/sth) giving attention (to sb/sth); alert and watchful （对某人[某事物]）注意的; 留心的; 警惕的: an attentive audience 聚精会神的听众[观众] * A good hostess is always attentive to the needs of her guests. 好客的女主人能随时留心客人的需要.
+ > attentively adv: listening attentively to the speaker 专心地听着演讲人的话.
+ 
+ make it big
+make it big idiom informal
+to become famous or successful
+Thesaurus+: ↑Fame and famous ↑Succeeding, achieving and fulfilling
+Main entry: bigidiom
+
+propagate
+
+ / 5prCpEgeIt; `prBpE9^et/ v 
+ [Tn] increase the number of (plants, animals, etc) by a natural processfrom the parent stock 繁殖（动植物等）; 使增殖: propagate plants from seeds and cuttings 由种子和枝条繁殖植物 * propagate plants by taking cuttings 藉插枝繁殖植物. 
+ [I, Tn] (of plants) reproduce (themselves) （指植物）繁殖, 繁衍, 增殖: Plants won't propagate in these conditions.植物在这种条件下不能繁殖. * Trees propagate themselves by seeds. 树木靠种子繁衍. 
+ [Tn] (fml 文) spread (views, knowledge, beliefs, etc) more widely 传播（观点、知识、信仰等）: Missionaries went far afield to propagate their faith. 传教士到远方去传播其信仰. 
+ [Tn] (fml 文) cause or allow (sth) to pass through sth; transmit 促使或准许（某物）通过他物; 传导; 传送: propagate vibrations through rock 通过岩石传导震动.
+
+ > propagation / 9prCpE5geIFn; 9prBpE`^eFEn/ n [U] propagating or being propagated 繁殖; 增殖; 传播; 传送: the propagation of plants from cuttings 植物的插枝繁殖.
+ propagator person or thing that propagates 繁殖者; 传播者: tomato plants growing in a propagator 在繁育场中栽培的西红柿植株.
+From Longman DOCE 5th Ed. (En-En)
+propagate
+prop‧a‧gate /ˈprɒpəɡeɪt $ ˈprɑː-/ BrE  AmE  verb formal
+[Date: 1500-1600; Language: Latin; Origin: past participle of propagare 'to breed plants from shoots', from propago 'shoot from which a new plant is produced']
+1. [transitive] formal to spread an idea, belief etc to many people:
+ The group launched a website to propagate its ideas.
+2. [intransitive and transitive] if you propagate plants, or if they propagate, they start to grow from a parent plant to produce new plants:
+ Propagate your plants in fresh soil.
+3. [transitive] if an animal, insect etc propagates itself or is propagated, it increases in number SYN reproduce
+—propagation /ˌprɒpəˈɡeɪʃən $ ˌprɑː-/ noun [uncountable]
+
+ 
+ barge 1
+
+1 / bB:dV; bBrdV/ n 
+ large flat-bottomed boat for carrying goods and people on rivers, canals, etc 驳船（河流、运河等中载运客货的大型平底船）. 
+ large ornamental rowing-boat for ceremonial occasions （举行庆典时使用的）大型彩饰划艇, 画舫.
+
+ > bargee / bB:5dVi:; 9bBr`dVi/ n (Brit) (US bargeman)(a) person in charge of a barge 驳船或大划艇上撑船的人. (b) member of a barge's crew 驳船或大划艇的船夫.
+
+ # `barge-pole n 
+ long pole used for guiding a barge 驳船上用的撑篙. 
+ (idm 习语) not touch sb/sth with a barge-pole => touch2.
+barge 2
+
+2 / bB:dV; bBrdV/ v (infml 口) 
+ [I, Ipr, Ip] rush or bump heavily and clumsily 鲁莽而大力地冲撞: Stop barging (into people)! 别撞（人）! * He barged past me in the queue. 我在排队时他在我面前硬挤过去了. 
+ (phr v) barge about move about heavily and clumsily 到处乱闯. barge in/into sth enter or interrupt sth rudely or clumsily 蛮不讲理地闯入或打扰某事物: I tried to stop him coming through the door but he just barged (his way) in. 我想拦住他, 不让他进门, 可是他硬闯进来了. * Don't barge into the conversation. 别插嘴.
+From Longman DOCE 5th Ed. (En-En)
+barge
+I. barge1 /bɑːdʒ $ bɑːrdʒ/ BrE  AmE  noun
+[Date: 1200-1300; Language: Old French; Origin: Late Latin barca; ⇨ ↑barque]
+[countable] a large low boat with a flat bottom, used for carrying goods on a ↑canal or river
+II. barge2 BrE  AmE  verb [intransitive always + adverb/preposition, transitive]
+to move somewhere in a rough careless way, often hitting against things SYN push:
+ She ran outside, barging past bushes and shrubs.
+barge your way through/to etc something
+ She barged her way through the shopping crowds.
+barge in (also barge into something) phrasal verb
+to enter somewhere rudely, or to rudely interrupt someone:
+ George barged into my office without knocking.
+barge in on
+ ‘Sorry to barge in on your evening,’ James said.
+ 
+ fever
+
+ / 5fi:vE(r); `fivL/ n 
+ [C, U] abnormally high body temperature, esp as a sign of illness 发烧; 发热: He has a high fever. 他发高烧. * Aspirin can reduce fever. 阿司匹林可以退烧. 
+ [U] specified disease in which (a) fever occurs 热病: yellow, typhoid, rheumatic, etc fever 黄热病、伤寒、风湿热. 
+ [sing] (state of) nervous excitement or agitation 兴奋; 激动: He waited for her arrival in a fever of impatience. 他激动不安地等待她到来. 
+ (idm 习语) at/to `fever pitch at/to a high level of excitement 高度兴奋; 极为激动: The speaker brought the crowd to fever pitch. 演讲者激起群众高昂的情绪.
+
+ > fevered adj [attrib 作定语] 
+ affected by or suffering from a fever 发烧的; 发热的: She cooled her child's fevered brow. 她给孩子滚烫的额头降温. 
+ highly excited 激动的; 高度兴奋的: a fevered imagination 奔放的想像力.
+ feverish / 5fi:vErIF; `fivErIF/ adj 
+ having a fever; caused or accompanied by a fever 发烧的; 发烧引起的; 伴有发烧的: The child's body felt feverish. 这孩子身上发烧. * During her illness she had feverish dreams. 她生病期间因发烧而做梦. 
+ excited; restless 激动的; 焦躁不安的: with feverish haste 急匆匆地. feverishly adv very quickly or excitedly 心急如焚地: searching feverishly for her missing jewels 心急火燎地寻找她丢失的珠宝.
+ 
+ measly
+
+ / 5mi:zlI; `mizlI/ adj (infml derog 口, 贬) ridiculously small in size, amount or value （大小、数量或价值）微不足道的: He gave us measly little portions of cake. 他给了我们少得可怜的一点蛋糕. * What a measly birthday present! 多么小气的生日礼物哇!
+From Longman DOCE 5th Ed. (En-En)
+measly
+meas‧ly /ˈmiːzli/ BrE  AmE  adjective informal
+[Date: 1800-1900; Origin: measly 'suffering from measles, spotty' (17-19 centuries), from measles]
+very small and disappointing in size, quantity, or value – used to show disapproval:
+ All I got was a measly £5.
+ 
+ implicate
+
+ / 5ImplIkeIt; `ImplI9ket/ v [Tn, Tn.pr] ~ sb (in sth) show that sb is involved in sth, esp a crime 显示某人牵连于某事（尤指罪行）; 涉及: His enemies tried to implicate him (in the murder). 他的仇人竭力想把他牵扯进谋杀案中. * He was deeply implicated (ie involved) in the plot. 他与该阴谋牵涉颇深.
+From Longman DOCE 5th Ed. (En-En)
+implicate
+im‧pli‧cate AC /ˈɪmpləkeɪt, ˈɪmplɪkeɪt/ BrE  AmE  verb [transitive]
+[Word Family: verb: ↑implicate; noun: ↑implication]
+[Date: 1400-1500; Language: Latin; Origin: past participle of implicare 'to twist together, make complicated']
+1. to show or suggest that someone is involved in a crime or dishonest act:
+ The allegations implicated Abe to such an extent he was forced to resign.
+implicate somebody in something
+ Three police officers are implicated in the cover-up.
+2. [usually passive] formal if something is implicated in something bad or harmful, it is shown to be its cause
+be implicated in something
+ Viruses are known to be implicated in the development of some cancers.
+ 
+ snort
+
+ / snR:t; snRrt/ v 
+ [I] (usu of animals, esp horses) force air out through the nostrils with a loud noise （通常指动物, 尤指马）喷鼻息作声, 打响鼻. 
+ [I, Ipr] ~ (at sb/sth) (of people) do this to show impatience, contempt, disgust, amusement, etc （指人）发哼声（喷鼻息表示不耐烦、蔑视、厌恶、欢娱等）: snort with rage (at sb/sth) （对某人[某事物]）愤怒地哼了一声 * snort with mirth at the suggestion 对该建议高兴地哼了一声. 
+ (sl 俚) sniff (drugs) 从鼻孔吸入（毒品）: snort cocaine 从鼻孔吸入可卡因.
+
+ > snort n 
+ act or sound of snorting 喷鼻息; 打响鼻; 发哼声; （从鼻孔）吸毒: give a snort of contempt 轻蔑地哼了一声 * She could not conceal a snort of laughter. 她忍不住扑哧一笑. 
+ (infml 口) small drink of alcohol swallowed in one gulp （供一口喝下的）一小杯酒. 
+ (sl 俚) small amount of a drug that is sniffed （用鼻孔吸入的）少量毒品: a quick snort of cocaine 用鼻孔匆匆吸些可卡因.
+ snorter n (esp sing 尤作单数) (infml 口) thing that is remarkably impressive, violent, difficult, etc 极感人、激烈、困难...的事物: She sent me a real snorter of a letter. 她给我寄来一封异乎寻常的信.
+From Longman DOCE 5th Ed. (En-En)
+snort
+I. snort1 /snɔːt $ snɔːrt/ BrE  AmE  verb
+[Date: 1300-1400; Origin: Probably from the sound]
+1. [intransitive and transitive] to breathe air in a noisy way out through your nose, especially to show that you are annoyed or amused:
+ ‘Certainly not,’ he snorted.
+snort with
+ She snorted with laughter.
+ The horse snorted and stamped its hoof impatiently.
+2. [transitive] to take drugs by breathing them in through your nose ⇨ sniff:
+ snorting cocaine
+II. snort2 BrE  AmE  noun [countable]
+1. a loud sound made by breathing out through your nose, especially to show that you are annoyed or amused:
+ He gave a loud snort.
+ There were snorts of laughter from the audience.
+2. a small amount of a drug that is breathed in through the nose:
+ a snort of cocaine
+
+ (transitive, idiomatic) To release or let go; to permit (someone or something) to roam freely or to act freely. Don't turn the dog loose in the yard before you check whether the gate is closed. He's so creative, and I'd love to turn him loose in my garden sometime and see what he dreams up.
+turn (someone or something) loose
+To release or discharge someone or something, as from confinement.
+Due to a lack of evidence, the suspects were turned loose by police.
+Samantha was suspended for turning mice loose throughout the school.
+See also: loose, turn
+turn loose - Wiktionary
+
+commiserate
+
+ / kE5mIzEreIt; kE`mIzE9ret/ v [I, Ipr] ~ (with sb) (on/over sth) (fml 文) feel, or say that one feels, sympathy 同情; 怜悯: I commiserated with her on the loss of her job. 她失去了工作, 我很同情她.
+
+ > commiseration / kE9mIzE5reIFn; kE9mIzE`reFEn/ n [C usu pl, U 作可数名词时通常作复数, 亦作不可数名词] ~ (on/over sth) (fml or joc 文或谑) (expression of) sympathy for sb （对某人表示的）同情（的言语）: I expressed my commiserations on his misfortune. 我对他的不幸表示同情. * `I lost again.' `Commiserations (ie I am sorry)!' ‘我又赔钱了.’‘真遗憾! ’
+From Longman DOCE 5th Ed. (En-En)
+commiserate
+com‧mis‧e‧rate /kəˈmɪzəreɪt/ BrE  AmE  verb [intransitive + with] formal
+[Date: 1500-1600; Language: Latin; Origin: past participle of commiserari, from com- ( ⇨ COM-) + miserari 'to pity']
+to express your sympathy for someone who is unhappy about something
+From Longman DOCE5 Extras (En-En)
+commiserate
+verb
+EXAMPLES FROM OTHER ENTRIES
+▪ 'Poor Alistair!' she commiserated. 'Let me buy you lunch.'
+▪ In several of their letters, Hartley and Burns, commiserated about the problems of old age.
+▪ When he failed his driving test, I called him up and commiserated with him.
+EXAMPLES FROM CORPUS
+▪ I commiserate with my hon. Friend on his misfortune this evening, in finding himself inadvertently supporting us in the Lobby.
+▪ I just wanted to commiserate with you.
+▪ The programme was filmed in front of a live audience who had to clap, laugh and commiserate in all the appropriate places.
+
+covert 1
+
+1 / 5kQvEt; ?@ 5kEUv\:rt; `kovLt/ adj concealed; not open; secret 隐蔽的; 不公开的; 秘密的: covert glances, threats, payments 偷偷的一瞥、暗中的威胁、秘密的付款 * the covert activities of a spy 间谍的秘密活动.
+ > covertly adv. Cf 参看 overt.
+covert 2
+
+2 / 5kQvE(r); `kQvLt/ n area of thick low bushes, trees, etc in which animals, esp hunted animals, hide 动物（尤指猎物）藏身的矮树丛、树林等. Cf 参看 cover2 10.
+From Longman DOCE 5th Ed. (En-En)
+covert
+I. cov‧ert1 /ˈkʌvət, ˈkəʊvɜːt $ ˈkoʊvərt/ BrE  AmE  adjective
+[Date: 1200-1300; Language: Old French; Origin: past participle of covrir; ⇨ ↑cover1]
+secret or hidden OPP overt:
+ covert operations
+• • •
+THESAURUS
+▪ secret known about by only a few people, who have agreed not to tell anyone else: a secret meeting place | The details of the proposal must remain secret.
+▪ confidential used about information, especially in business or government, that is secret and not intended to be shown or told to other people: a highly confidential report | Employees’ personal details are treated as strictly confidential.
+▪ classified used about information that the government has ordered to be kept secret from most people: He was accused of passing on classified information to the Russians in the 1950s.
+▪ sensitive used about information that is kept secret because there would be problems if the wrong people knew it: A teenager managed to hack into sensitive US Air Force files.
+▪ covert [only before noun] used about things that are done secretly, especially by a government or official organization: a CIA covert operation
+▪ undercover [usually before noun] used about things that are done secretly by the police in order to catch criminals or find out information: Detectives arrested the suspect after a five-day undercover operation.
+▪ underground an underground organization or newspaper is one that operates or is produced secretly and opposes the government: Her father was a member of the underground resistance movement in France during World War II.
+▪ clandestine /klænˈdestən, klænˈdestɪn/ secret and often illegal or immoral: clandestine meetings | his involvement in a clandestine operation to sell arms to Iran | a clandestine love affair
+▪ hush-hush informal used about information or activities that are kept officially secret: He was put in charge of some hush-hush military project. | I’ve no idea what he does – it’s all very hush-hush.
+II. covert2 BrE  AmE  noun [countable]
+a group of thick bushes where animals can hide
+
+ cradle
+ / 5kreIdl; `kredl/ n 
+ small bed for a baby, usu shaped like a box with curved parts underneath so that it can move from side to side 摇篮: The mother rocked the baby to sleep in its cradle. 母亲摇动摇篮使婴儿入睡. =>illus at App 1 见附录1之插图, page xvi. 
+ ~ of sth (usu sing 通常作单数) (fig 比喻) place where sth begins 发源地; 策源地; 发祥地: Greece, the cradle of Western culture. 希腊, 西方文化的发源地. 
+ (a) framework that looks like or is used like a cradle, eg the structure on which a ship rests while it is being repaired or built 形状或用途近似摇篮的框架（如修造船舶时用以支承的托架）. (b) platform that can be moved up and down an outside wall by means of ropes and pulleys, used by window-cleaners, painters, etc （擦窗工人、油漆工人等使用的依靠绳索及滑轮可沿外墙上下移动的）吊架, 吊篮. 
+ part of a telephone on which the receiver rests （电话机的）听筒架, 叉簧. 
+ (idm 习语) from the ,cradle to the `grave from birth to death 从生到死; 一生.
+ > cradle v [Tn, Tn.pr] ~ sb/sth (in sth) place or hold sb/sth (as if) in a cradle 将某人[某物]（如同）置于摇篮中: cradle a child in one's arms, ie hold it gently, esp rocking it from side to side 把孩子抱在怀里轻轻摇晃.
+ 
+ 
+ come up with (something)
+come up with something phrasal verb (see also ↑come)
+1. to think of an idea, answer etc:
+ Is that the best excuse you can come up with?
+ We’ve been asked to come up with some new ideas.
+2. informal to produce an amount of money:
+ We wanted to buy the house but we couldn’t come up with the cash.
+ How am I supposed to come up with $10,000?
+ 
+ underpin
+ / 9QndE5pIn; 9QndL`pIn/ v (-nn-) [Tn] 
+ support (a wall, etc) from below with masonry, etc 用砖石结构等从下面支撑（墙等）; 加固（墙等）的基础. 
+ (fig 比喻) form the basis for (an argument, a claim, etc); strengthen 为（论据、主张等）打下基础; 加强; 巩固: The evidence underpinning his case was sound. 有利于他的证据是确凿的. * These developments are underpinned by solid progress in heavy industry. 重工业的稳固发展为这些进展打下了基础.
+From Longman DOCE 5th Ed. (En-En)
+underpin
+un‧der‧pin /ˌʌndəˈpɪn $ -ər-/ BrE  AmE  verb (past tense and past participle underpinned, present participle underpinning) [transitive]
+1. to give strength or support to something and to help it succeed:
+ the theories that underpin his teaching method
+ America’s wealth is underpinned by a global system which exploits the world’s poor.
+2. technical to put a solid piece of metal under a wall or house in order to make it stronger
+—underpinning noun [uncountable and countable]
+
+haphazard
+haphazard UK  [ˌhæpˈhæz.əd] US  [-ɚd] adjective disapproving
+not having an obvious order or plan
+• He tackled the problem in a typically haphazard manner.
+haphazard
+haphazard
+ / hAp5hAzEd; 9hAp`hAzLd/ adj without plan or order; random 无计画的; 无秩序的; 任意的: books piled on shelves in a haphazard fashion 乱七八糟地堆在书架上的书籍.
+ > haphazardly adv.
+From Longman DOCE 5th Ed. (En-En)
+haphazard
+hap‧haz‧ard /ˌhæpˈhæzəd◂ $ -ərd◂/ BrE  AmE  adjective
+[Date: 1500-1600; Origin: hap ( ⇨ ↑happy) + hazard]
+happening or done in a way that is not planned or organized
+a haphazard way/manner/fashion
+ I continued my studies in a rather haphazard way.
+ Educational provision in the country is haphazard.
+—haphazardly adverb:
+ bushes growing haphazardly here and there
+/hapˈhazəd/
+Learn to pronounce
+adjective
+lacking any obvious principle of organization.
+"the music business works in a haphazard fashion"
+haphazard
+adjective
+COLLOCATIONS FROM CORPUS
+■ NOUN
+fashion
+▪ After throwing things around in a very haphazard fashion she finally abandoned her search.
+▪ For three decades, water was released from the dam in haphazard fashion, depending on power needs in the Southwest.
+▪ This came about in an equally haphazard fashion.
+▪ Could one, Peters asked, expect children to learn in the somewhat haphazard fashion that unfettered child-centredness seemed to commend?
+▪ Over the years, the chalets were added to by their owners in haphazard fashion.
+manner
+▪ Ministry seems to have grown up in a haphazard manner, basically in response to the need that various functions be performed.
+▪ As a result the records were often distributed and accounts payable were collected in a haphazard manner.
+▪ In fact, on any view it started many years before that, though in a haphazard manner.
+way
+▪ Logging your time Many people operate in a haphazard way.
+▪ Most of us do this every day, though typically in a haphazard way.
+▪ Because of the haphazard way infertility is managed, thousands of couples are in a similar situation.
+▪ In this haphazard way we progressed into the afternoon, and started work on the long encircling fence.
+▪ In between, I continued my studies in a haphazard way for they never really interested me, knowing in advance my fate.
+▪ At present, the decisions are taken in a haphazard way.
+▪ Work on planning the Civic Centre began in a haphazard way.
+
+In adult discourse the phrase "connect the dots" can be used as a metaphor to illustrate an ability (or inability) to associate one idea with another, to find the "big picture", or salient feature, in a mass of data.[4]
+
+dot the i's and cross the t's
+dot the i's and cross the t's idiom
+to pay a great deal of attention to the details of something, especially when you are trying to complete a task
+• The negotiations are nearly finished, but we still have to dot the i's and cross the t's.
+
+choosy
+choos‧y BrE  AmE , choosey /ˈtʃuːzi/ adjective informal
+someone who is choosy will only accept things that they like a lot or they consider to be very good
+choosy about
+ She’s very choosy about clothes.
+From Longman DOCE5 Extras (En-En)
+choosy
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ I get offered a lot of work now, so I can be more choosy.
+▪ She's very choosy about what airline she travels on.
+▪ These days, the Marine Corps is very choosy about who joins.
+
+sneer
+ / snIE(r); snIr/ v [I, Ipr] ~ (at sb/sth) smile with the upper lip curled, to show contempt (for sb/sth); laugh scornfully 嗤笑（某人[某事物]）; 嘲笑; 讥笑: sneer at one's supposed inferiors 嘲笑自以为不如自己的人 * I resent the way he sneers at our efforts. 我们已十分努力而他却讥笑我们, 我很反感. =>Usage at smirk 用法见smirk.
+
+ > sneer n look, smile, word, phrase, etc that shows contempt 表示轻蔑的表情、微笑、词语等: sneers of disbelief 表示不相信的嘲笑 * You can wipe that sneer off your face! 你还是收起你讥笑人的嘴脸吧!
+ sneeringly / 5snIErINlI; `snIrINlI/ adv.
+From Longman DOCE 5th Ed. (En-En)
+sneer
+I. sneer1 /snɪə $ snɪr/ BrE  AmE  verb [intransitive and transitive]
+[Date: 1300-1400; Origin: Perhaps copying the action]
+to smile or speak in a very unkind way that shows you have no respect for someone or something:
+ ‘Is that your best outfit?’ he sneered.
+sneer at
+ She sneered at Tom’s musical tastes.
+—sneering adjective:
+ a sneering tone
+—sneeringly adverb
+II. sneer2 BrE  AmE  noun [countable]
+an unkind smile or remark that shows you have no respect for something or someone:
+ ‘You probably wouldn’t understand,’ he said with a sneer.
+• • •
+THESAURUS
+■ different types of expression
+▪ frown the expression on your face when you move your eyebrows together because you are angry, unhappy, or confused: With a frown, she asked, ‘So what’s wrong with that?’
+▪ smile an expression in which your mouth curves upwards, when you are being friendly or are happy or amused: She gave him a quick smile.
+▪ scowl an angry or disapproving expression: There was a scowl of irritation on his face.
+▪ glare a long angry look: He gave her a furious glare, but said nothing.
+▪ grimace an expression you make by twisting your face because you do not like something or because you are feeling pain: His face twisted into a grimace of anguish.
+▪ sneer an expression that shows you have no respect for something or someone: ‘That’s what you said last time,’ she said with a sneer.
+▪ smirk an expression in which you smile in an unpleasant way that shows you are pleased by someone else’s bad luck or that you think you are better than other people: He had a self-satisfied smirk on his face.
+▪ pout an expression in which you push out your lower lip because you are unhappy that you did not get what you want: ‘You’re going away?’ she said with a pout.
+
+gauntlet 1
+
+1 / 5gR:ntlIt; `^RntlIt/ n 
+ metal glove forming part of a suit of armour, worn by soldiers in the Middle Ages （中世纪武士铠甲的）金属手套. 
+ strong glove with a wide covering for the wrist, used for driving, fencing, etc （驾驶、击剑等用的）长手套, 防护手套: motorcyclists with leather gauntlets 戴着皮护手套的摩托车手. =>illus at glove 见glove插图. 
+ (idm 习语) pick up/take up the `gauntlet accept a challenge 接受挑战: He was quick to take up the gauntlet thrown down by the opposition. 他立刻接受了对方提出的挑战. throw down the `gauntlet challenge sb to do sth 向某人提出挑战.
+gauntlet 2
+
+2 / 5gR:ntlIt; `^RntlIt/ n (idm 习语) run the `gauntlet be exposed to danger, anger, or criticism 冒险; 受气; 受批评: Before getting the proposals accepted, the government had to run the gauntlet of hostility from its own supporters. 拥护政府的人对政府进行了尖锐的抨击之后, 这些建议才得以接受.
+From Longman DOCE 5th Ed. (En-En)
+gauntlet
+gaunt‧let /ˈɡɔːntlət, ˈɡɔːntlɪt $ ˈɡɒːnt-/ BrE  AmE  noun
+[Sense 1-2, 4-5: Date: 1400-1500; Language: French; Origin: gantelet, from gant 'glove']
+[Sense 3: Date: 1600-1700; Language: Swedish; Origin: gatlopp, from Old Swedish gata 'way, road' + lop 'course, run']
+1. throw down the gauntlet to invite someone to fight or compete over a disagreement
+2. pick up/take up the gauntlet to accept the invitation to fight or compete over a disagreement
+3. run the gauntlet to be criticized or attacked by a lot of people:
+ The foreign secretary ran the gauntlet of demonstrators.
+4. [countable] a long ↑glove that covers someone’s wrist and protects their hand, for example in a factory
+5. [countable] a ↑glove covered in metal, used for protection by soldiers in the past
+
+patronize, patronise
+
+ / 5pAtrEnaIz; ?@ 5peIt-; `petrEn9aIz/ v[Tn] 
+ treat (sb) as an inferior; treat (sb) in a condescending way 以高人一等的态度对待（某人）; 屈尊俯就对待（某人）: He resented the way she patronized him. 她待他那种屈尊纡贵的样子, 他十分愤恨. 
+ (fml 文) be a regular customer of (a shop, etc) 作为老主顾经常去（某商店等）; 经常光顾、惠顾: The restaurant is patronized by politicians and journalists. 这家饭馆常有政治家和记者光顾. 
+ act as a patron(1) to (sb/sth); support or encourage (sb/sth) 做（某人[某事物]）的赞助人; 资助、赞助或支持（某人[某事物]）.
+
+ > patronizing, -ising adj condescending 屈尊俯就的: a patronizing person, manner, attitude, smile, tone of voice 高人一等的人、派头、态度、笑容、腔调. patronizingly, -isingly adv.
+From Longman DOCE 5th Ed. (En-En)
+patronize
+pat‧ron‧ize /ˈpætrənaɪz $ ˈpeɪ-, ˈpæ-/ BrE  AmE  verb [transitive]
+1. to talk to someone in a way which seems friendly but shows that you think they are not as intelligent or do not know as much as you:
+ Don’t patronize me!
+ The program focuses on kids’ interests without patronizing them.
+2. formal to use or visit a shop, restaurant etc
+3. to support or give money to an organization or activity
+From Longman DOCE5 Extras (En-En)
+patronize
+verb
+COLLOCATIONS FROM OTHER ENTRIES
+patronizing/condescending (=showing that you think you are more important or intelligent than someone)
+▪ complaints about patronising attitudes towards women
+EXAMPLES FROM OTHER ENTRIES
+▪ It's a charming little restaurant which is mostly patronized by locals.
+▪ Just because you're older than me, it doesn't give you the right to patronize me.
+▪ Kid's don't like to be patronized any more than adults do.
+▪ She's almost 90, but she gets very annoyed with anyone who tries to patronize her.
+EXAMPLES FROM CORPUS
+▪ East Berliners feel they are patronized and their western cousins complain they are stuck with the bills for reunification.
+▪ It's nice to work without being patronized.
+▪ We patronize them for their incompleteness, for their tragic fate of having taking form so far below ourselves.
+▪ We thus had a perfect relationship: each of us felt that he could patronize the other.
+
+chant
+chant UK  [tʃɑːnt] US  [tʃænt] verb intransitive or transitive [chants chanting chanted]
+to repeat or sing a word or phrase continuously, or to sing a religious prayer or song to a simple tune
+• The crowd were chanting the name of their football team.
+• Demonstrators chanted anti-government slogans in the square.
+• We could hear the monks chanting.
+Thesaurus+: ↑Singing in general ↑Saying again ↑Saying and uttering
+ 
+noun countable
+a word or phrase that is repeated many times
+• The fans started to sing the familiar football chant, "Here we go, here we go, here we go!".
+Thesaurus+: ↑Sentences and expressions
+
+cliché
+cliché UK  [ˈkliː.ʃeɪ] US  [-ˈ-] noun countable or uncountable [clichés]
+a comment that is very often made and is therefore not original and not interesting
+• My wedding day - and I know it's a cliché - was just the happiest day of my life.
+Thesaurus+: ↑Sentences and expressions
+Derived: clichéd
+From Oxford Advanced Learners Dictionary 8th Ed.
+cliché
+cli·ché [cliché clichés] (also cliche) BrE [ˈkliːʃeɪ] ; NAmE [kliːˈʃeɪ]  noun (disapproving)
+1. countable a phrase or an idea that has been used so often that it no longer has much meaning and is not interesting
+• She trotted out the old cliché that ‘a trouble shared is a trouble halved.’
+• a cliché-ridden style
+• It has become a cliché to say that Prague is the most beautiful city in Europe.
+• tired clichés like ‘the information revolution’
+2. uncountable the use of clichés in writing or speaking
+• The article collapses under the sheer weight of cliché.
+Derived Word: ↑clichéd
+From Longman DOCE 5th Ed. (En-En)
+cliché
+cli‧ché /ˈkliːʃeɪ $ kliːˈʃeɪ/ BrE  AmE  noun [countable]
+[Date: 1800-1900; Language: French; Origin: past participle of clicher 'to print from a metal plate']
+an idea or phrase that has been used so much that it is not effective or does not have any meaning any longer:
+ There is plenty of truth in the cliché that a trouble shared is a trouble halved.
+—clichéd adjective
+• • •
+COLLOCATIONS
+■ adjectives
+▪ an old cliché He seemed to believe that old cliché about a woman’s place being in the home.
+▪ a tired cliché (=boring because it has been used so often) The story is based on a series of tired clichés.
+▪ a worn-out cliché (=very boring) His writing is full of worn-out clichés.
+▪ a popular cliché (=one used by a lot of people) The term 'information revolution' is a popular cliché.
+▪ a romantic cliché (=something romantic that is rather boring because many people do it) Giving a girl red roses is a bit of a romantic cliché.
+■ verbs
+▪ use a cliché 'Time marches on', to use the old cliché.
+▪ be full of clichés Sports reporting tends to be full of clichés.
+▪ avoid cliché/clichés Try and avoid clichés.
+▪ become a cliché It has become a cliché to say that Prague is the most beautiful city in Europe.
+
+grunt
+▪ I. grunt UK  US  [grʌnt] verb intransitive [grunts grunting grunted]
+1. (of a pig) to make a low rough noise
+• The pigs were grunting contentedly as they ate their food.
+Thesaurus+: ↑Animal (non-human) sounds
+2. (of a person) to make a short low sound instead of speaking, usually because of anger or pain
+• He hauled himself over the wall, grunting with the effort.
+• + speech "Too tired, " he grunted and sat down.
+
+-mouthed
+-mouthed UK  US  [-maʊðd] suffix
+having a mouth or way of talking of the stated type
+• a loud-mouthed teenager (= talking very loudly, especially to attract attention)
+• a foul-mouthed drunk (= often swearing)
+• We stared open-mouthed (= in surprise) as the elephant walked slowly down Fairview Close.
+
+-tongued
+-tongued UK  US  [-tʌŋd] suffix
+used to form adjectives that describe the way someone uses words to express their ideas and feelings
+• Coleman plays the part of the sharp-tongued (= severe and critical) lawyer.
+• He was younger than her, in his forties, and had a silver-tongued charm (= said charming things).
+
+elicit
+elicit UK  US  [ɪˈlɪs.ɪt] formal verb transitive [elicits eliciting elicited]
+to get or produce something, especially information or a reaction
+• Have you managed to elicit a response from them yet?
+• The questionnaire was intended to elicit information on eating habits.
+• They were able to elicit the support of the public.
+
+2. STATE YOUR OPINION [transitive] formal to officially state your opinion about something so that everyone knows what you think or feel:
+ The delegation registered a formal protest with US embassy officials Wednesday.
+3. REALIZE [intransitive usually in negatives, transitive] if something registers, or if you register it, you realize or notice it, and then remember it:
+ She had told me her name before, but I guess it didn’t register.
+ I’d been standing there for several minutes before he registered my presence.
+4. MEASUREMENT [intransitive and transitive] if an instrument registers an amount or if something registers on it, the instrument shows that amount:
+ The thermometer registered 98.6°.
+ The earthquake registered 7.2 on the Richter scale.
+5. SHOW A FEELING [transitive] formal to show or express a feeling:
+ Her face registered shock and anger.
+6. MAIL [transitive] British English to send a package, letter etc by ↑registered post:
+ Did you register the parcel?
+ 
+ mat
+mat UK  US  [mæt] noun countable [mats]
+FLOOR
+1. <A > a small piece of strong material which covers and protects part of a floor
+• Wipe your feet on the mat before you come inside.
+See also doormat
+Thesaurus+: ↑Carpets, rugs and other floor coverings
+• The dog lay drooling on the mat.
+• The electrician must have called (round) this morning when we were out - there's a note on the door mat.
+• There was a rush mat by the entrance.
+TABLE
+2. a small piece of cloth, cardboard or plastic which is put on a surface such as a table to protect it
+• a beer mat
+• a place mat
+Thesaurus+: ↑Table linen and accessories
+SPORT
+3. a piece of thick rubber or other soft material used in some sports for people to lie or fall on
+• Please remember to bring a mat and a towel with you to the next aerobics class.
+Thesaurus+: ↑Carpets, rugs and other floor coverings
+LAYER
+4. a thick layer of something, such as grass or hair, which is twisted together untidily
+• The top few buttons on his shirt were open, revealing a mat of dark hair on his chest.
+
+ensnare
+
+ / In5sneE(r); In`snZr/ v [Tn esp passive 尤用于被动语态, Tn.pr] ~ sb/sth (in sth) (often fig 常作比喻) catch sb/sth in, or as if in, a trap or snare 用陷阱或圈套捕捉某人[某物]: ensnared by love 陷入情网 * ensnare a rich husband 千方百计嫁予富翁.
+From Longman DOCE 5th Ed. (En-En)
+ensnare
+en‧snare /ɪnˈsneə $ -ˈsner/ BrE  AmE  verb [transitive]
+1. formal to trap someone in an unpleasant or illegal situation, from which they cannot escape
+ensnare in
+ Young girls were ensnared in prostitution rings.
+2. to catch an animal in a trap
+From Longman DOCE5 Extras (En-En)
+ensnare
+verb
+EXAMPLES FROM OTHER ENTRIES
+▪ Benson, who was ensnared in the investment scandal, received a short prison term.
+▪ Park rangers found three deer that had become ensnared in traps.
+EXAMPLES FROM CORPUS
+▪ And there was nothing in his present circumstances likely to ensnare him in sensuality.
+▪ Aphrodite using her power chiefly to ensnare and betray.
+
+subsist
+
+ / sEb5sIst; sEb`sIst/ v [I, Ipr] ~ (on sth) (fml 文) (continue to) stay alive, esp with little food or money; exist （继续）存活, 活下去; （尤指藉微少的食物或金钱）维持生活; 生存: How do they manage to subsist (on such a low wage)? 他们（区区这点工资）怎样餬口? * He subsisted mainly on vegetables and fruit. 他主要依靠蔬菜和水果维持生命.
+
+ > subsistence / -tEns; -tEns/ n [U] (means of) subsisting 存活; 生存; 生计; 维生之道: reduced to subsistence on bread and water 降到以面包和水维持生活 * [attrib 作定语] subsistence farming, ie farming that produces only enough crops for the farmer and his family to live on, leaving no surplus which could besold 自给农业（收成仅供自家食用, 无剩余出售者） * a subsistence wage, ie one that is only just enough to enable a worker to live 勉强餬口的工资.
+
+ # sub`sistence crop crop grown to be eaten by the grower 自给作物（供种植者自身食用的）. Cf 参看 cash crop (cash).
+ sub`sistence level standard of living that is only just high enough to support life 勉强餬口的生活水平.
+From Longman DOCE 5th Ed. (En-En)
+subsist
+sub‧sist /səbˈsɪst/ BrE  AmE  verb [intransitive]
+[Date: 1500-1600; Language: Latin; Origin: subsistere 'to come to a stop, remain, exist', from sistere 'to come to a stand']
+1. to stay alive when you only have small amounts of food or money SYN survive
+subsist on
+ We had to subsist on bread and water.
+ Old people often have to subsist on very low incomes.
+2. especially law to continue to exist SYN survive
+From Longman DOCE5 Extras (En-En)
+subsist
+verb
+EXAMPLES FROM CORPUS
+▪ He subsisted on welfare, on charity and on casual labour.
+▪ If I can subsist on mussels in place of meat, why not these greens in place of lettuce?
+▪ Indeed, many top athletes and even body-builders subsist on a vegetarian diet.
+▪ The islanders inhabit the coastal strip only, and subsist almost entirely on royalties from the mining.
+▪ They subsisted, from all appearances, on roots and insects; a live gecko made a fine repast.
+▪ They must subsist, he said, on one small portion of government-rationed meat per week.
+▪ Thus many primitive animals retain an ancient form and subsist to the present day.
+
+▪ I'm going to bleach these curtains and see if I can get the stains out.
+▪ I can't believe she bleached her hair.
+▪ The bones had been bleached in the desert sun.
+▪ To play the part, Kensit had to bleach her hair and gain 20 pounds.
+EXAMPLES FROM CORPUS
+▪ As for the remedies - try waxing, bleaching and shaving.
+▪ In the center of the kitchen was a large pine table, bleached by age, with benches on either side.
+▪ Neither do they need to be bleached.
+▪ Red noses, purple hands, hair bleached a premature white by anxiety and poverty.
+▪ The photo appears, the boys standing drunkenly at an angle, inert and bleached, the fish in darkness.
+
+snap out of (something)
+snap out of something phrasal verb (see also ↑snap)
+to stop being sad or upset and make yourself feel better:
+ Chantal’s been depressed for days. I wish she’d snap out of it.
+  (idm 习语) bite/snap sb's head off => head1. snap one's `fingers make a clicking noise by moving the second or third finger quickly against the thumb (eg to attract sb's attention, mark the beat of music, etc) 打榧子（用食指或中指捻碰拇指发声, 如为引人注意或打音乐拍子等）: He snapped his fingers to attract the waiter. 他打了个榧子招呼服务员. ,snap to at`tention come quickly and smartly to the position of attention(4) 利落地立正. ,snap `to it (infml 口) (usu as a command 通常作命令语) start moving, working, etc quickly; hurry up 快走; 快干; 赶快: `I want those bricks moved; come on, snap to it!' ‘那些砖得搬走; 来呀, 快!’ ,snap `out of it (infml 口) (often as a command 常作命令语) get (quickly) out of a (usu bad, unhappy, etc) mood （迅速）摆脱某种（通常指坏的、不愉快的...）情绪. 
+ (phr v) snap at sb speak to sb sharply and rudely 厉声对某人说: `Shut up!' she snapped (back) at him. ‘住嘴!’她厉声顶（回）了他一句. * I'm sorry I snapped at you just now. 对不起, 我刚才不该对你嚷嚷. snap at sth try to grasp sth with the teeth by closing them quickly and sharply around it 一下子咬住: The fish snapped at the bait. 那鱼一下子咬住了鱼饵. * (fig 比喻) They snapped at (ie accepted eagerly) the chance of a cheap holiday. 他们欣然抓住这一少花钱度假的机会. snap sth out exclaim sth in a sharp or unpleasant way 厉声喊出: The sergeant snapped out an order. 中士大声发出命令. snap sth up buy or seize sth quickly and eagerly 抢购或迅速抓取某物: The cheapest articles at the sale were quickly snapped up. 大减价货物中最便宜的物品很快抢购一空.
+snap 2
+2 / snAp; snAp/ n 
+ [C] act or sound of snapping （物体）断裂、开或关（的声音）; （人）厉声说（的）话; 拍照（的快门声）; 突然咬住（的声音）: The dog made an unsuccessful snap at the meat. 那条狗没咬住肉. * The lid shut with a snap. 盖子啪嗒一声合上了. * The oar broke with a snap. 桨喀吧一声断了. 
+ [C] short spell or period of (usu cold) weather 一阵（通常指寒冷的）天气: There was a cold snap after Christmas. 圣诞节后出现一段寒冷天气.
+ (also snapshot) [C] photograph (usu one taken quickly with a hand-held camera) 照片（通常指用手提照相机拍摄的）: She showed us her holidaysnaps. 她给我们看了她假期的照片. 
+ (usu in compounds通常用以构成复合词) type of small crisp biscuit 小的脆饼干: `ginger-snaps 姜味饼干 * `brandy-snaps 白兰地酒味饼干. 
+ Snap [U] (Brit) card game in which players call out `Snap' when two similar cards are laid down together 喊‘对儿’纸牌游戏（亮出相同两张牌时, 玩牌者竞先喊出‘对儿’）: play a game of Snap 玩喊‘对儿’游戏. 
+ [sing] (US infml 口) thing that is easy to do 轻而易举的事: This job's a snap. 这件工作很容易做.
+
+ > snap adj [attrib 作定语] (infml 口) done, made, etc quickly and with little or no warning 匆忙的; 仓促的: a snap election 临时的选举 * take a snap vote 匆匆表决 * a snap decision 仓促的决定.
+ snap interj (Brit infml 口) 
+ (said in the game of Snap2(5) when one notices that two similar cards have been laid down 玩喊‘对儿’纸牌游戏（Snap2(5)）时, 见到相同两张牌时的呼喊声). 
+ (said to draw attention to the similarity of two things 见到相同两事物时, 说snap以引起注意): Snap! You've got the same shoes as me. 嘿! 你的鞋跟我的一模一样.
+ snap adv with a snapping sound 伴有断裂、开或关等声音: Suddenly the oar went snap, ie made a snapping sound as it broke. 桨突然啪的一声断了.
+ snappish adj inclined to snap1(3); bad-tempered or irritable 厉声说话的; 脾气暴躁的; 易怒的: a snappish small terrier 暴躁的小狗 * a snappish old man 爱嚷嚷的男人.
+ snappy adj (-ier, -iest) 
+ inclined to snap1(3); irritable 厉声说话的; 易怒的: a snappy little dog 暴躁的小狗 * She's always snappy early in the morning. 她总是一大早就嚷嚷. 
+ (infml 口) lively; quick 活泼的; 利落的: snappy on her feet 她的脚步利索 * a snappy dancer 活泼的跳舞的人. 
+ (infml 口) [usu attrib 通常作定语] smart; trendy 帅气的; 漂亮的; 时髦的: a snappy outfit 漂亮的全套服装 * She's a very snappy dresser, ie She dresses very smartly and trendily. 她衣着很入时. 
+ (idm 习语) ,make it `snappy (also ,look `snappy) (infml 口) (often as a command 常作命令语) hurry up; be quick about it 赶快; 快点儿: Look snappy! The bus is coming. 快点儿! 公共汽车来了. * You'll have to make it snappy if you want to come too. 你也想来的话就得快点儿. snappily adv: `Go away,' she said snappily. ‘走开,’她厉声地说. snappiness n [U].
+
+ # `snap fastener (also `press stud, Brit infml 英式口语作 popper) device made of two small round metal or plastic parts that are pressed together to fasten dresses, skirts, etc 子母扣儿; 摁扣儿: the press stud on the collar of his evening shirt 他晚礼服衬衫领口上的摁扣儿 * the poppers on a child's pyjamas 儿童睡衣上的子母扣儿.
+ `snapshot n = snap 3.
+ 
+ diddle
+diddle UK  US  [ˈdɪd.l ̩] verb [diddles diddling diddled]
+ 
+TRICK
+1. transitive informal to get money from someone in a way which is not honest
+• He diddled me! He said that there were six in a bag, but there were only five.
+• I checked the bill and realized the restaurant had diddled me out of £5.
+Thesaurus+: ↑Cheating and tricking ↑Plotting and trapping
+ 
+PLAY
+2. intransitive or transitive US to work with something in a way which is not serious, or to play with something
+• He diddled with the washing machine, but it still wouldn't work.
+• I'm not much of a musician, I just like to diddle around.
+Thesaurus+: ↑Touching and feeling ↑Showing affection
+
+
+1. [singular] an event or a situation that is very badly organized or does not happen properly, in a way that is silly and unreasonable:
+ She admitted that the interview had been a complete farce from start to finish.
+2. [uncountable and countable] a humorous play or film in which the characters are involved in complicated and silly situations, or the style of writing or acting that is used
+
+hallucinate
+verb
+EXAMPLES FROM OTHER ENTRIES
+▪ After two days without food and water, Voss began to hallucinate.
+EXAMPLES FROM CORPUS
+▪ After hallucinating from oxygen deprivation in the Himalayas, Haver vowed to ski the Seven Summits.
+▪ Miguel walked through it as if hallucinating.
+▪ She wasn't hallucinating any more, she knew.
+▪ Sylvia had started to hallucinate, seeing creepy-crawlies on her bed, and the houseman had to come and sort her out.
+▪ Thought processes become distorted and you hallucinate.
+▪ While in his medicated, pain-saturated state, he begins to hallucinate.
+=======
 keep one's head above water
 phrase of head
 avoid succumbing to difficulties, typically debt.
@@ -2110,8 +3674,12 @@ further
 ▪ For each study the aliquot was further diluted in 0.9% NaCl solution.
 ▪ This solution is then diluted further for use.
 ▪ The right is further diluted because licences are available as of right during the last five years.
+<<<<<<< HEAD
 
 disseminate
 disseminate UK  US  [dɪˈsem.ɪ.neɪt] formal verb transitive [disseminates disseminating disseminated]
 to spread or give out something, especially news, information, ideas, etc., to a lot of people
 • One of the organization's aims is to disseminate information about the disease.
+=======
+>>>>>>> 8ad8b2d0fdeca145b70c16151f68722420bf23cc
+>>>>>>> 76f9851b9d15af142fae54a088cf529444929912
