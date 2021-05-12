@@ -3674,12 +3674,24 @@ further
 ▪ For each study the aliquot was further diluted in 0.9% NaCl solution.
 ▪ This solution is then diluted further for use.
 ▪ The right is further diluted because licences are available as of right during the last five years.
-<<<<<<< HEAD
 
 disseminate
 disseminate UK  US  [dɪˈsem.ɪ.neɪt] formal verb transitive [disseminates disseminating disseminated]
 to spread or give out something, especially news, information, ideas, etc., to a lot of people
 • One of the organization's aims is to disseminate information about the disease.
-=======
->>>>>>> 8ad8b2d0fdeca145b70c16151f68722420bf23cc
->>>>>>> 76f9851b9d15af142fae54a088cf529444929912
+ disseminate propaganda.
+ 
+ pass on
+pass on phrasal verb (see also ↑pass)
+1. pass something ↔ on to give someone a piece of information that someone else has given to you
+pass something ↔ on to
+ She said she’d pass the message on to the other students.
+2. pass something ↔ on
+a) to give something, especially a disease, to your children through your ↑genes
+b) to give a slight illness to someone else
+pass something ↔ on to
+ One catches the virus and they pass it on to the rest.
+3. pass something ↔ on to make someone else pay the cost of something
+pass something ↔ on to
+ Any increase in our costs will have to be passed on to the consumer.
+4. to die – use this when you want to avoid saying the word ‘die’

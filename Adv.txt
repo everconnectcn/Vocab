@@ -383,4 +383,9 @@ to become well again after an illness; to get back your strength, health, etc
 • She spent a month in the country recuperating from/after the operation.
 Thesaurus+: ↑Recovering from illness
 Derived: recuperation
->>>>>>> 8ad8b2d0fdeca145b70c16151f68722420bf23cc
+
+2. in a way that depends on differences in situations or amounts:
+ You will be paid according to the amount of work you do.
+3. in a way that agrees with a system or plan, or obeys a set of rules:
+ The game will be played according to rules laid down for the 1992 Cup.
+ Everything went according to plan, and we arrived on time.
