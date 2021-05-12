@@ -5683,6 +5683,9 @@ lightning 1
  (idm 习语) lightning never strikes in the same place twice (saying 谚) an unusual event, or one that happens by chance, is not likely to occur again in exactly the same circumstances or to the same people 偶发的事不会在同一环境或同一人身上重演. like (greased) `lightning; like a streak of lightning; (as) quick as `lightning very fast 很快.
 
  # `lightning-bug n (US) firefly 萤火虫.
+ firefly
+firefly UK  [ˈfaɪə.flaɪ] US  [ˈfaɪr-] noun countable [fireflies]
+an insect which is active during the night and whose tail shines on and off in the dark
  `lightning conductor (Brit) (US lightning rod) metal rod or wire fixed to an exposed part of a building, etc to prevent damage by lightning 避雷针.
  
  II. blindfold3 BrE  AmE  British English (also blind‧fold‧ed /ˈblaɪndfəʊldəd, ˈblaɪndfəʊldɪd $ -foʊld-/) adverb
@@ -5706,3 +5709,93 @@ ownership UK  [ˈəʊ.nə.ʃɪp] US  [ˈoʊ.nɚ-] noun uncountable
 when you own something
 • Do you have any proof of ownership of/for this car?
 • Rates of home ownership have remained relatively constant.
+
+decision-making
+deˈcision-making [decision-maker decision-making] BrE   NAmE   noun uncountable
+the process of deciding about sth important, especially in a group of people or in an organization
+• responsibility for decision-making
+• All the staff should be involved in the decision-making process.
+Derived Word: ↑decision-maker
+decision-maker
+deˈcision-ˌmaker BrE  AmE  noun [countable usually plural]
+a person in a large organization who is responsible for making important decisions:
+ the corporation’s key decision-makers
+ 
+ extra4 BrE  AmE  noun [countable]
+1. something which is added to a basic product or service that improves it and often costs more:
+ Tinted windows and a sunroof are optional extras (=something that you can choose to have or not).
+ Be careful, there may be hidden extras (=additional charges which you are not told about).
+ It’s got lots of useful little extras.
+2. an actor in a film who does not say anything but is part of a crowd:
+ He started his acting career as an extra.
+• • •
+THESAURUS
+▪ actor someone who performs in a play or film: Her son wants to be an actor. | Both my parents are actors.
+▪ actress a woman who performs in a play or film. Many women prefer to be called actors rather than actresses: Who was the actress who played Jane Eyre? | She’s one of my favourite actresses.
+▪ star a famous actor: Julia Roberts is a famous Hollywood star. | The hotel is popular with movie stars.
+▪ the star someone who plays the most important part in a play or film: Daniel Radcliffe is the star of the ‘Harry Potter’ films.
+▪ co-star one of two or more famous actors who have important parts in a play or film: Her co-star Jodie Foster won the Best Actress Award.
+▪ the lead the main acting part in a play or film: He will play the lead in a new version of ‘Dracula’.
+▪ extra an actor in a film who does not say anything but is part of a crowd: She started her career as an extra in TV soap operas.
+▪ understudy an actor who learns a part in a play so that they can act the part if the usual actor is ill: Vanessa had flu, and her place was taken by her understudy, Miss Lisa Fennell.
+
+anatomy
+anatomy UK  [əˈnæt.ə.mi] US  [-ˈnæt ̬-] noun
+1. uncountable the scientific study of the body and how its parts are arranged
+• An understanding of human anatomy is important to a dancer.
+• He later became professor of anatomy at Kiel.
+Thesaurus+: ↑Animal and plant biology - general words
+2. countable or uncountable the structure of an animal or plant
+• the female anatomy
+• the anatomy of a leaf
+Thesaurus+: ↑Frames and structures
+3. countable humorous a person's body
+• On which part of her anatomy is she tattooed?
+Thesaurus+: ↑The body
+4. countable formal a detailed examination of a subject
+• The whole play reads like an anatomy of evil.
+
+trust
+trust [trust trusts trusted trusting] noun, verb BrE [trʌst]  NAmE [trʌst] 
+noun
+1. uncountable ~ (in sb/sth) the belief that sb/sth is good, sincere, honest, etc. and will not try to harm or trick you
+• Her trust in him was unfounded.
+• a partnership based on trust
+• It has taken years to earn their trust.
+• If you put your trust in me, I will not let you down.
+• She will not betray your trust (= do sth that you have asked her not to do).
+• He was appointed to a position of trust (= a job involving a lot of responsibility, because people trust him).
+• a breach of trust
+• If I were you, I would not place too much trust in their findings.
+
+not in the least
+ˌnot in the ˈleast idiom
+not at all
+• Really, I'm not in the least tired.
+• ‘Do you mind if I put the television on?’ ‘No, not in the least.’
+not in any way
+• "Are you dissatisfied with the results?" "Not in the least."
+
+all or nothing
+all or nothing idiom
+relates to doing something either completely or not at all
+• She either loves you or hates you - it's all or nothing with her.
+• The Government has rejected the all-or-nothing approach in favour of a compromise solution.
+
+high note (plural high notes)
+(music) The highest and usually climactic note of a song or composition, especially one that is difficult to reach.
+After weeks of practice Alyssa was finally able to hit the high note of her song perfectly.
+(figuratively) A climax or best achievement.
+Used other than figuratively or idiomatically: see high,‎ note.
+
+understatement
+understatement UK  [ˌʌn.dəˈsteɪt.mənt] US  [-dɚ-] noun only singular or uncountable
+a statement that describes something in a way that makes it seem less important, serious, bad, etc. than it really is, or the practice of making such statements
+• To say that her resignation was a shock would be an understatement - it caused panic.
+• That New York City is not a peaceful place to live is the understatement of the year/month/century.
+Thesaurus+: ↑Exaggerating and playing down ↑Praising and applauding
+understate
+understate UK  [ˌʌn.dəˈsteɪt] US  [-dɚ-] verb transitive [understates understating understated]
+to state or describe something in a way that makes it seem less important, serious, bad, etc. than it really is
+• She believes the research understates the amount of discrimination women suffer.
+Thesaurus+: ↑Exaggerating and playing down ↑Praising and applauding

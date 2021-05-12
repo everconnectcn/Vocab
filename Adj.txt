@@ -3396,4 +3396,47 @@ EXAMPLES FROM CORPUS
 ▪ Smith attended Oxford, where he complained about poor teaching and academic censorship.
 ▪ The law dominated the field, but it did not operate through the simple mechanisms of censorship and repression.
 ▪ Yet while some regulations are equivalent to censorship, others are not.
->>>>>>> 8ad8b2d0fdeca145b70c16151f68722420bf23cc
+
+savage
+sav·age [savage savages savaged savaging] adjective, noun, verb BrE [ˈsævɪdʒ]  NAmE [ˈsævɪdʒ] 
+adjective
+1. aggressive and violent; causing great harm
+Syn: ↑brutal
+• savage dogs
+• She had been badly hurt in what police described as ‘a savage attack’.
+• savage public spending cuts
+2. involving very strong criticism
+• The article was a savage attack on the government's record.
+3. only before noun (old-fashioned, taboo) an offensive way of referring to groups of people or customs that are considered to be simple and not highly developed
+Syn: ↑primitive
+• a savage tribe
+
+salvage
+
+ The ship was beyond salvage.
+▪ I. salvage UK  US  [ˈsæl.vɪdʒ] verb transitive [salvages salvaging salvaged]
+1. to save goods from damage or destruction, especially from a ship that has sunk or been damaged or a building that has been damaged by fire or a flood
+• gold coins salvaged from a shipwreck
+• After the fire, there wasn't much furniture left worth salvaging.
+Thesaurus+: ↑Preserving and saving ↑Defending and protecting
+2. to try to make a bad situation better
+• It was a desperate attempt to salvage the situation.
+• After the fraud scandal he had to make great efforts to salvage his reputation.
+Thesaurus+: ↑Making things better ↑Becoming better ↑Restoring and reviving
+Derived: salvageable
+salvageable
+salvageable UK  US  [ˈsæl.vɪdʒ.ə.bl ̩] adjective
+• There is nothing that is salvageable in the building - we have lost everything.
+salvage
+I. sal‧vage1 /ˈsælvɪdʒ/ BrE  AmE  verb [transitive]
+1. to save something from an accident or bad situation in which other things have already been damaged, destroyed, or lost:
+ Divers hope to salvage some of the ship’s cargo.
+salvage something from something
+ They managed to salvage only a few of their belongings from the fire.
+2. to make sure that you do not lose something completely, or to make sure that something does not fail completely SYN save:
+ He fought to salvage the company’s reputation.
+II. salvage2 BrE  AmE  noun [uncountable]
+[Date: 1600-1700; Language: French; Origin: Old French salver; ⇨ ↑save1]
+1. when you save things from a situation in which other things have already been damaged, destroyed, or lost:
+ a massive salvage operation
+2. things that have been saved from an accident, especially when a ship has sunk
