@@ -41,12 +41,12 @@ See also: ↑co-ordinator
 From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 co-ordinate, coordinate
 
-2 / kEU5R:dIneIt; ko`Rrdn9et/ v [Tn, Tn.pr] ~ sth (with sth) cause (different parts, limbs, etc) to function together efficiently 使（各部分、肢体等）协调, 协同动作: co-ordinate one's movements when swimming 游泳时协调动作 * We must co-ordinate our efforts (ie work together) to help the flood victims. 我们应该同心协力以援助遭水灾的灾民. * The plan was not (ie Its parts were not) very well co-ordinated. 这计划的各部分配合得不够好.
+2 / kEU5R:dIneIt; ko`Rrdn9et/ v [Tn, Tn.pr] ~ sth (with sth) cause (different parts, limbs, etc) to function together efficiently （、）, : co-ordinate one's movements when swimming  * We must co-ordinate our efforts (ie work together) to help the flood victims. . * The plan was not (ie Its parts were not) very well co-ordinated. .
 
  > co-ordination / 9kEU9R:dI5neIFn; ko9Rrdn`eFEn/ n [U] 
- ~ (with sb/sth) action of co-ordinating 协调; 协同动作: the co-ordination of the work of several people 几个人的协作 * the perfect co-ordination of hand and eye 手和眼完美的协调动作 * a pamphlet produced by the Government in co-ordination with (ie working together with) the Sports Council 政府在体育协会的配合下发行的小册子. 
- ability to control one's movements properly 协调自己动作的能力: have good/poor co-ordination 善于[不善于]协调自己的动作 * You need excellent co-ordination for ball games. 做球类运动, 要善于协调自己的动作.
- co-ordinator n person who co-ordinates 协调人: The campaign needs an effective co-ordinator. 这个运动需要一个有能力的协调人.
+ ~ (with sb/sth) action of co-ordinating ; : the co-ordination of the work of several people  * the perfect co-ordination of hand and eye  * a pamphlet produced by the Government in co-ordination with (ie working together with) the Sports Council . 
+ ability to control one's movements properly : have good/poor co-ordination [] * You need excellent co-ordination for ball games. , .
+ co-ordinator n person who co-ordinates : The campaign needs an effective co-ordinator. .
  
  supplement
 sup·ple·ment AW [supplement supplements supplemented supplementing] noun, verb
@@ -158,13 +158,13 @@ From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 integral
 
  / 5IntIgrEl; `IntE^rEl/ adj 
- ~ (to sth) necessary for completeness 构成整体所必需的: The arms and legs are integral parts of the human body; they are integral to the human body. 手臂和腿是人体的组成部分, 是构成完整的人体必不可少的. 
- [usu attrib 通常作定语] having or containing all parts that are necessary for completeness; whole 具备构成整体所必需的所有部分的; 完整的: an integral design 完整的设计. 
- [usu attrib 通常作定语] included as part of the whole, rather than supplied from outside 作为整体的一部分的（并非来自外部的）: a machine with an integral power source 有内置电源的机器. 
- (mathematics 数) of or being an integer; made up of integers 整数的; 由整数组成的; 积分的.
+ ~ (to sth) necessary for completeness : The arms and legs are integral parts of the human body; they are integral to the human body. , . 
+ [usu attrib ] having or containing all parts that are necessary for completeness; whole ; : an integral design . 
+ [usu attrib ] included as part of the whole, rather than supplied from outside （）: a machine with an integral power source . 
+ (mathematics ) of or being an integer; made up of integers ; ; .
  > integrally / -grElI; -^rElI/ adv.
 
- # ,integral `calculus (mathematics 数) branch of calculus concerned with finding out the sum total of a lot of extremely small numbers, and with applying this knowledge to calculating areas, volumes, etc 积分学. Cf 参看 differential calculus (differential).
+ # ,integral `calculus (mathematics ) branch of calculus concerned with finding out the sum total of a lot of extremely small numbers, and with applying this knowledge to calculating areas, volumes, etc . Cf  differential calculus (differential).
  
  
  Thesaurus:
@@ -399,20 +399,20 @@ in‧sti‧gate /ˈɪnstəɡeɪt, ˈɪnstɪɡeɪt/ BrE  AmE  verb [transitive]
 pressurize, pressurise
 
  / 5preFEraIz; `prZFE9raIz/ (also pressure)v 
- [Tn.pr, Cn.t] ~ sb into sth/doing sth use force, influence or strong persuasion to make sb do sth 强使某人做某事: She was pressurized into agreeing to a merger. 她被迫同意将公司合并. * He felt that he was being pressurized to resign. 他感到有压力逼他辞职. 
- [Tn esp passive 尤用于被动语态] keep (the compartment of a submarine, the cabin of an aircraft, etc) at a constant atmospheric pressure 使（潜艇的水密舱、飞机的座舱等）保持恒定的气压: a pressurized cabin 增压舱 * The compartments are fully pressurized. 水密舱均已增压完毕.
+ [Tn.pr, Cn.t] ~ sb into sth/doing sth use force, influence or strong persuasion to make sb do sth : She was pressurized into agreeing to a merger. . * He felt that he was being pressurized to resign. . 
+ [Tn esp passive ] keep (the compartment of a submarine, the cabin of an aircraft, etc) at a constant atmospheric pressure （、）: a pressurized cabin  * The compartments are fully pressurized. .
  > pressurization, -isation / 9preFEraI5zeIFn; ?@-rI5z-; 9prZFErE`zeFEn/ n [U].
 
- # ,pressurized-`water reactor type of nuclear reactor that uses water under pressure as a coolant 压力水冷反应堆.
+ # ,pressurized-`water reactor type of nuclear reactor that uses water under pressure as a coolant .
  
  entice
 
- / In5taIs; In`taIs/ v [Tn, Tn.pr, Tn.p, Cn.t] ~ sb (away) (from sth); ~ sb (into sth/doing sth) try to tempt or persuade sb, usu by offering sth pleasant or a reward 诱惑; 诱使; 怂恿: Advertisements are designed to entice people into spending money/to spend money. 广告宣传的目的是诱使人花钱. * He enticed the young girl away from home. 他把那小女孩诱惑得离开了家.
+ / In5taIs; In`taIs/ v [Tn, Tn.pr, Tn.p, Cn.t] ~ sb (away) (from sth); ~ sb (into sth/doing sth) try to tempt or persuade sb, usu by offering sth pleasant or a reward ; ; : Advertisements are designed to entice people into spending money/to spend money. . * He enticed the young girl away from home. .
 
  > enticement n 
- [U] enticing or being enticed 诱惑; 怂恿: the enticement of a child into a car 把一小孩哄进汽车里. 
- [C] thing that entices 诱惑物: There were so many enticements offered that I could not refuse the job. 这项工作有那么多优惠待遇, 使我难以拒绝.
- enticing adj attractive or tempting 有吸引力的; 迷人的; 诱人的: quite an enticing offer 很诱人的条件 * An enticing smell came from the bakery. 从面包房里飘出了诱人的香味. enticingly adv.
+ [U] enticing or being enticed ; : the enticement of a child into a car . 
+ [C] thing that entices : There were so many enticements offered that I could not refuse the job. , .
+ enticing adj attractive or tempting ; ; : quite an enticing offer  * An enticing smell came from the bakery. . enticingly adv.
  
  cultivate
 cul‧ti‧vate /ˈkʌltəveɪt, ˈkʌltɪveɪt/ BrE  AmE  verb [transitive]
@@ -433,14 +433,14 @@ From WordNet® 3.0 (En-En)
 cultivate
 
  / 5kQltIveIt; `kQltE9vet/ v [Tn] 
- (a) prepare and use (land, soil, etc) for growing crops 耕（地等）; 耕作. (b) grow (crops) 种植（庄稼）. 
- (a) make (the mind, feelings, etc) more educated and refined 陶冶（思想、感情等）: reading the best authors in an attempt to cultivate her mind 她为陶冶情操而阅读最优秀作家的作品. (b) (sometimes derog 有时作贬义) (try to) acquire or develop (a relationship, an attitude, etc) （力求）建立或发展（某种关系）、采取（某种态度）: cultivating the friendship of influential people 巴结有权势的人 * cultivate an air of indifference 采取无动于衷的态度. (c) (sometimes derog 有时作贬义) (try to) win the friendship or support of (sb) （力求）获得（某人）的友谊或支持: You must cultivate people who can help you in business. 你得结交在业务上对你有用的人.
+ (a) prepare and use (land, soil, etc) for growing crops （）; . (b) grow (crops) （）. 
+ (a) make (the mind, feelings, etc) more educated and refined （、）: reading the best authors in an attempt to cultivate her mind . (b) (sometimes derog ) (try to) acquire or develop (a relationship, an attitude, etc) （）（）、（）: cultivating the friendship of influential people  * cultivate an air of indifference . (c) (sometimes derog ) (try to) win the friendship or support of (sb) （）（）: You must cultivate people who can help you in business. .
 
- > cultivated adj (of people, manners, etc) having or showing good taste and refinement （指人、态度等）趣味高雅的, 有修养的.
- cultivation / 9kQltI5veIFn; 9kQltE`veFEn/ n [U] cultivating (cultivate 1) or being cultivated 耕作; 耕种: the cultivation of the soil 耕作 * land that is under cultivation, ie is being cultivated 耕种的土地 * bring land into cultivation 开垦荒地.
+ > cultivated adj (of people, manners, etc) having or showing good taste and refinement （、）, .
+ cultivation / 9kQltI5veIFn; 9kQltE`veFEn/ n [U] cultivating (cultivate 1) or being cultivated ; : the cultivation of the soil  * land that is under cultivation, ie is being cultivated  * bring land into cultivation .
  cultivator / 5kQltIveItE(r); `kQltE9vetL/ n 
- machine for breaking up soil, destroying weeds, etc 耕耘机. 
- person who cultivates (cultivate 1) 耕种者.
+ machine for breaking up soil, destroying weeds, etc . 
+ person who cultivates (cultivate 1) .
 
  
  mediate
@@ -460,10 +460,10 @@ mediate in
 mediate
 
  / 5mi:dIeIt; `midI9et/ v 
- [I, Ipr] ~ (between sb and sb) act as a peacemaker or go-between for two or more people, groups, etc who disagree 调停; 调解; 斡旋: mediate in an industrial dispute 调解一劳资纠纷 * mediate between two countries which are at war 在两交战国间斡旋. 
- [Tn] bring about (sth) by doing this 居间促成（某事）: mediate a peace, settlement, etc 居间促成和平、某事的解决等.
- > mediation / 9mi:dI5eIFn; 9midI`eFEn/ n [U]: All offers of mediation were rejected. 所有调解的建议均遭拒绝.
- mediator n person, organization, etc that mediates 调解人; 调停人; 斡旋者; 仲裁组织.
+ [I, Ipr] ~ (between sb and sb) act as a peacemaker or go-between for two or more people, groups, etc who disagree ; ; : mediate in an industrial dispute  * mediate between two countries which are at war . 
+ [Tn] bring about (sth) by doing this （）: mediate a peace, settlement, etc 、.
+ > mediation / 9mi:dI5eIFn; 9midI`eFEn/ n [U]: All offers of mediation were rejected. .
+ mediator n person, organization, etc that mediates ; ; ; .
  
  prick
 prick [prick pricks pricked pricking] verb, noun BrE [prɪk]  NAmE [prɪk] 
@@ -600,10 +600,10 @@ eradicate/stamp out a disease
 eradicate/root out inefficiency
 eradicate
 
- / I5rAdIkeIt; I`rAdI9ket/ v [Tn] destroy (sth) completely; put an end to (sth) 根除, 消灭（某事物）; 结束（某事物）: Smallpox has almost been eradicated. 天花几乎已消灭. * attempts to eradicate crime 力图根除罪恶的行动.
+ / I5rAdIkeIt; I`rAdI9ket/ v [Tn] destroy (sth) completely; put an end to (sth) , （）; （）: Smallpox has almost been eradicated. . * attempts to eradicate crime .
 
  > eradication / I9rAdI5keIFn; I9rAdI`keFEn/ n [U].
- eradicator / I5rAdIkeItE(r); I`rAdI9ketL/ n [C, U]person or thing that eradicates, esp a chemical substance that removes ink marks 根除者; 消除物（尤指去墨水迹的化学物质）: a bottle of ink eradicator 一瓶消字灵.
+ eradicator / I5rAdIkeItE(r); I`rAdI9ketL/ n [C, U]person or thing that eradicates, esp a chemical substance that removes ink marks ; （）: a bottle of ink eradicator .
 
 eliminate
 elim·in·ate AW [eliminate eliminates eliminated eliminating] BrE [ɪˈlɪmɪneɪt] NAmE [ɪˈlɪmɪneɪt]  verb
@@ -621,9 +621,9 @@ Derived Word: ↑elimination
 eliminate
 
  / I5lImIneIt; I`lImE9net/ v 
- [Tn, Tn.pr] ~ sb/sth (from sth) remove (esp sb/sth that is not wanted or needed) 消除, 清除, 排除（尤指不必要或不需要的某人[某物]）: eliminate mistakes from one's writing 消除文字中的错误 * The police have eliminated two suspects (from their enquiry). 警方（从调查中）已排除了两名受嫌疑的人. * eliminate waste matter from the body 从体内排出废物. 
- [Tn] (infml 口) kill (sb) ruthlessly 干掉（某人）: The dictator had eliminated all his political opponents. 独裁者已将所有政敌干掉. 
- [esp passive 尤用于被动语态: Tn, Tn.pr] ~ sb (from sth) exclude sb from further stages in a competition, through defeat, etc 淘汰某人: He was eliminated (from the contest) in the fourth round. 他在第四轮（从比赛中）被淘汰.
+ [Tn, Tn.pr] ~ sb/sth (from sth) remove (esp sb/sth that is not wanted or needed) , , （[]）: eliminate mistakes from one's writing  * The police have eliminated two suspects (from their enquiry). （）. * eliminate waste matter from the body . 
+ [Tn] (infml ) kill (sb) ruthlessly （）: The dictator had eliminated all his political opponents. . 
+ [esp passive : Tn, Tn.pr] ~ sb (from sth) exclude sb from further stages in a competition, through defeat, etc : He was eliminated (from the contest) in the fourth round. （）.
  > elimination / I9lImI5neIFn; I9lImE`neFEn/ n [U].
  
  zero in (third-person singular simple present zeroes in or zeros in, present participle zeroing in, simple past and past participle zeroed in)
@@ -644,7 +644,7 @@ With 79 minutes gone, the most celebrated team of the modern age had been reduce
 
 acclimatize, acclimatise
 
- / E5klaImEtaIz; E`klaImE9taIz/ v [I, Ipr, Tn, Tn.pr] ~ (oneself/sb/sth) (to sth) get (oneself, animals, plants, etc) used to a new climate or a new environment, new conditions, etc; become or make accustomed (to sth) 使（自己、动物、植物等）习惯于新的气候或新的环境、新的形势等; 使适应（某事物）; 服水土: It takes many months to acclimatize/become acclimatized to life in a tropical climate. 要用许多月的时间才能适应热带的生活.
+ / E5klaImEtaIz; E`klaImE9taIz/ v [I, Ipr, Tn, Tn.pr] ~ (oneself/sb/sth) (to sth) get (oneself, animals, plants, etc) used to a new climate or a new environment, new conditions, etc; become or make accustomed (to sth) （、、）、; （）; : It takes many months to acclimatize/become acclimatized to life in a tropical climate. .
  > acclimatization, -isation / E9klaImEtaI5zeIFn; ?@ -tI5z-; E9klaImEtE`zeFEn/ n [U].
 =======
  excavate
@@ -680,10 +680,10 @@ to think or talk for too long about something, especially something unpleasant:
 teethe /tiːð/ BrE  AmE  verb [intransitive]
 [Date: 1400-1500; Origin: teeth]
 be teething if a baby is teething, its first teeth are growing
-来自Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 teethe
 
- / ti:T; tiT/ v [I] (usu in the continuous tenses, or as a gerund or present participle 通常用于进行时态或用作动名词或现在分词) (of a baby) have its first teeth starting to grow through the gums （指幼儿）长牙, 出牙: Babies like to chew something when they're teething. 幼儿长牙时爱咬东西.
+ / ti:T; tiT/ v [I] (usu in the continuous tenses, or as a gerund or present participle ) (of a baby) have its first teeth starting to grow through the gums （）, : Babies like to chew something when they're teething. .
  
  writhe
 writhe /raɪð/ BrE  AmE  verb [intransitive]
@@ -691,14 +691,14 @@ writhe /raɪð/ BrE  AmE  verb [intransitive]
 to twist your body from side to side violently, especially because you are suffering pain
 writhe in pain/agony etc
  He lay writhing in pain.
-来自Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 writhe
 
  / raIT; raIT/ v 
- [I, Ip] (of sb or sb's body) twist or roll about, esp because of great pain （指某人或身体）扭动或翻滚（尤指因巨痛）: the writhing coils of a snake 蛇身体扭动盘绕成的圈 * The patient was writhing (about) on the bed in agony. 病人疼得在床上直打滚. 
- [I, Ipr] ~ (at/under sth); ~ (with sth) suffer mental agony(because of sth) （因某事物）遭受精神痛苦: writhe under sb's insults 因遭某人侮辱而苦恼 * Her remarks made him writhe with shame. 她的话羞得他十分难堪.
+ [I, Ip] (of sb or sb's body) twist or roll about, esp because of great pain （）（）: the writhing coils of a snake  * The patient was writhing (about) on the bed in agony. . 
+ [I, Ipr] ~ (at/under sth); ~ (with sth) suffer mental agony(because of sth) （）: writhe under sb's insults  * Her remarks made him writhe with shame. .
 
- # `teething troubles (fig 比喻) minor problems occurring in the early stages of an enterprise 创业初期遇到的小问题.
+ # `teething troubles (fig ) minor problems occurring in the early stages of an enterprise .
  
  
  knead
@@ -725,25 +725,25 @@ THESAURUS
 ▪ drizzle to slowly pour a small amount of a liquid onto something: Drizzle with olive oil.
 ▪ let something stand to leave something somewhere, before you do something else with it: Let the mixture stand for a couple of hours so that it cools naturally.
 ▪ serve to put different foods together as part of a meal: Serve with rice and a salad. | Serve the aubergines on a bed of lettuce.
-来自Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 knead
 
  / ni:d; nid/ v 
- [Tn, Tn.pr] press and stretch (bread dough, wet clay, etc) with the hands to form a firm smooth paste 揉, 捏（面团、湿黏土等）: Knead the dough (into a ball) 把面团揉成球形. 
- [Tn] massage (muscles, etc) firmly to relieve tension or pain 按摩, 揉捏（肌肉等）.
+ [Tn, Tn.pr] press and stretch (bread dough, wet clay, etc) with the hands to form a firm smooth paste , （、）: Knead the dough (into a ball) . 
+ [Tn] massage (muscles, etc) firmly to relieve tension or pain , （）.
 
  haul
  / hR:l; hRl/ v 
- [I, Ipr, Ip, Tn, Tn.pr, Tn.p] pull or drag (sth) with effort or force 用力拖或拉（某物）: sailors hauling (away) (on the ropes) 拽着（绳索）（不放）的水手 * elephants hauling logs 拖运木材的象 * haul a car out of the mud 把小汽车从烂泥里拽出来 * They hauled the boat up the beach. 他们把船拖上岸. =>Usage at pull2 用法见pull2. 
- [Tn] transport (sth) by lorry, etc 用卡车等运送（某物）. 
- (idm 习语) ,haul sb over the `coals (infml 口) reprimand sb severely 严厉斥责某人: I was hauled over the coals for being late. 我因迟到而受到了严厉的训斥. 
- (phr v) haul sb up (before sb) (infml 口) bring sb to be tried or reprimanded 把某人带上来审问或训斥: He was hauled up before the local magistrates for disorderly conduct. 他因妨害治安被送交地方法官究办.
+ [I, Ipr, Ip, Tn, Tn.pr, Tn.p] pull or drag (sth) with effort or force （）: sailors hauling (away) (on the ropes) （）（） * elephants hauling logs  * haul a car out of the mud  * They hauled the boat up the beach. . =>Usage at pull2 pull2. 
+ [Tn] transport (sth) by lorry, etc （）. 
+ (idm ) ,haul sb over the `coals (infml ) reprimand sb severely : I was hauled over the coals for being late. . 
+ (phr v) haul sb up (before sb) (infml ) bring sb to be tried or reprimanded : He was hauled up before the local magistrates for disorderly conduct. .
 
  > haul n 
- act of hauling 拖; 拉; 运送. 
- (usu sing 通常作单数) distance to be travelled 移动的距离: short/medium/long haul aircraft 短程[中程/远程]运输飞机 * Our camp is only a short haul from here. 我们的营地近在咫尺. 
- (a) quantity of fish caught in a net at one time 一网的捕鱼量: The fishermen had a good haul. 渔民捕得满满一网鱼. (b) (fig 比喻) amount gained by effort 经努力获得的数量: The thief got away with a huge haul. 那个贼偷走了大量财物. 
- (idm 习语) a long haul => long1.
+ act of hauling ; ; . 
+ (usu sing ) distance to be travelled : short/medium/long haul aircraft [/] * Our camp is only a short haul from here. . 
+ (a) quantity of fish caught in a net at one time : The fishermen had a good haul. . (b) (fig ) amount gained by effort : The thief got away with a huge haul. . 
+ (idm ) a long haul => long1.
  
  give way
 ▪ I. give ˈway idiom
@@ -762,13 +762,13 @@ Main entry: ↑wayidiom
 condemn
 
  / kEn5dem; kEn`dZm/ v 
- [Tn, Tn.pr, Cn.n/a] ~ sb/sth (for/as sth) say that one disapproves of sb/sth 谴责; 责备; 指摘: We all condemn cruelty to children. 我们一致谴责虐待儿童的行为. * The papers were quick to condemn him for his mistake. 报纸及时地指摘他的错误. * She is often condemned as uncaring. 她常因不关心别人而受到责难. 
- [Tn, Cn.n/a] ~ sth (as sth) say officially that (sth) is faulty or not fit for use 官方宣称（某事物）有缺陷或不宜使用: The meat was condemned as unfit for human consumption. 这种肉已宣布不适宜人们食用. * a condemned building 已公布为不宜使用的建筑物. 
- (a) [Tn, Tn.pr, Cn.t] ~ sb (to sth/to do sth) (law 律) say what sb's punishment is to be; sentence sb (esp to death) 宣告某人要受的惩罚; 判某人刑（尤指死刑）: condemn sb to death/hard labour 判处某人死刑[劳役] * He was found guilty and condemned to be shot. 他被判有罪, 处以枪决. (b) [Tn] make (sb) appear guilty 使（某人）显示出有罪: His nervous looks condemned him. 他神色紧张, 显出有罪的样子. 
- [esp passive 尤用于被动语态: Tn.pr, Cn.t] ~ sb to sth/to do sth make sb take or accept sth unwelcome or unpleasant; doom sb 使某人接受不好的某事物; 使某人注定: an unhappy worker, condemned to a job he hates 闷闷不乐的工作者, 无奈何要做他厌恶的工作 * As an old person, one is often condemned to live alone. 老年人常出于无奈而独自生活.
+ [Tn, Tn.pr, Cn.n/a] ~ sb/sth (for/as sth) say that one disapproves of sb/sth ; ; : We all condemn cruelty to children. . * The papers were quick to condemn him for his mistake. . * She is often condemned as uncaring. . 
+ [Tn, Cn.n/a] ~ sth (as sth) say officially that (sth) is faulty or not fit for use （）: The meat was condemned as unfit for human consumption. . * a condemned building . 
+ (a) [Tn, Tn.pr, Cn.t] ~ sb (to sth/to do sth) (law ) say what sb's punishment is to be; sentence sb (esp to death) ; （）: condemn sb to death/hard labour [] * He was found guilty and condemned to be shot. , . (b) [Tn] make (sb) appear guilty （）: His nervous looks condemned him. , . 
+ [esp passive : Tn.pr, Cn.t] ~ sb to sth/to do sth make sb take or accept sth unwelcome or unpleasant; doom sb ; : an unhappy worker, condemned to a job he hates ,  * As an old person, one is often condemned to live alone. .
 
- > condemnation / 9kCndem5neIFn; 9kBndZm`neFEn/ n (a) [U] condemning or being condemned 谴责; 判罪; 注定. (b) [C] instance of this 谴责; 判罪; 注定: many condemnations of her action 对她行为的多方谴责.
- con,demned `cell cell where a person who has been sentenced to death is kept 死囚牢房.
+ > condemnation / 9kCndem5neIFn; 9kBndZm`neFEn/ n (a) [U] condemning or being condemned ; ; . (b) [C] instance of this ; ; : many condemnations of her action .
+ con,demned `cell cell where a person who has been sentenced to death is kept .
  
  devise
 de‧vise /dɪˈvaɪz/ BrE  AmE  verb [transitive]
@@ -840,9 +840,9 @@ to imagine/think/envisage/envision that…
 tribute
 
  / 5trIbju:t; `trIbjut/ n 
- [C, U] action, statement or gift that is meant to show one's respect or admiration 表示敬意或称赞的行动、言语或礼物: floral tributes, ie gifts of flowers 献礼的花 * Tributes to the dead leader have been received from all around the world. 世界各地的人们向已故领袖表示哀悼. * The mourners stood in silent tribute as the coffin was laid to rest. 灵柩下葬时, 送葬者默立致哀. 
- [sing] a ~ (to sth) indication of the effectiveness of sth 有效性的标示: His recovery is a tribute to the doctors' skill. 他能够康复充分说明该医师医术高超. 
- [C, U] (esp formerly) payment made by one country or ruler to another, esp to avoid war （尤指旧时）（一国向他国交纳的）贡品, 贡金, 贡（尤指为避免战争）.
+ [C, U] action, statement or gift that is meant to show one's respect or admiration 、: floral tributes, ie gifts of flowers  * Tributes to the dead leader have been received from all around the world. . * The mourners stood in silent tribute as the coffin was laid to rest. , . 
+ [sing] a ~ (to sth) indication of the effectiveness of sth : His recovery is a tribute to the doctors' skill. . 
+ [C, U] (esp formerly) payment made by one country or ruler to another, esp to avoid war （）（）, , （）.
  
  brutalize
 bru‧tal‧ize BrE  AmE  (also brutalise British English) /ˈbruːtəl-aɪz/ verb [transitive usually passive]
@@ -854,39 +854,39 @@ bru‧tal‧ize BrE  AmE  (also brutalise British English) /ˈbruːtəl-aɪz/ ve
 brutal
 brutal
 
- / 5bru:tl; `brutl/ adj cruel; savage; merciless 残忍的; 野蛮的; 冷酷无情的: a brutal tyrant, dictator, murderer, etc 残忍的暴君、独裁者、谋杀犯等 * a brutal attack, murder, punishment 野蛮的进攻、谋杀、惩罚.
+ / 5bru:tl; `brutl/ adj cruel; savage; merciless ; ; : a brutal tyrant, dictator, murderer, etc 、、 * a brutal attack, murder, punishment 、、.
 
  > brutality / bru:5tAlEtI; bru`tAlEtI/ n 
- [U] brutal behaviour; cruelty; savagery 野蛮的行为; 残忍; 野蛮. 
- [C] brutal act 暴行: the brutalities of war 战争的暴行.
- brutalize, -ise v [Tn usu passive 通常用于被动语态] make (sb) brutal or insensitive 使（某人）变得残酷无情: soldiers brutalized by a long war 因长期战争而变得残忍的士兵.
+ [U] brutal behaviour; cruelty; savagery ; ; . 
+ [C] brutal act : the brutalities of war .
+ brutalize, -ise v [Tn usu passive ] make (sb) brutal or insensitive （）: soldiers brutalized by a long war .
  brutally / 5bru:tElI; `brutlI/ adv.
  
  compound 1
 
 1 / 5kCmpaUnd; `kBmpaJnd/ n 
- (a) thing made up of two or more separate things combined together 复合物. (b) substance consisting of two or more elements chemically combined 化合物: Common salt is a compound of sodium and chlorine. 食盐是钠和氯的化合物. Cf 参看 element 3, mixture 3. 
- (grammar) noun, adjective, etc composed of two or more words or parts of words (written as one or more words, or joined by a hyphen) 复合词: `Bus conductor', `dark-haired' and `policeman' are compounds. bus conductor dark-haired policeman都是复合词.
- > compound adj [attrib 作定语]: an insect's compound eye 昆虫的复眼 * compound nouns, adjectives, etc 复合名词、复合形容词.
+ (a) thing made up of two or more separate things combined together . (b) substance consisting of two or more elements chemically combined : Common salt is a compound of sodium and chlorine. . Cf  element 3, mixture 3. 
+ (grammar) noun, adjective, etc composed of two or more words or parts of words (written as one or more words, or joined by a hyphen) : `Bus conductor', `dark-haired' and `policeman' are compounds. bus conductor dark-haired policeman.
+ > compound adj [attrib ]: an insect's compound eye  * compound nouns, adjectives, etc 、.
 
- # ,compound `fracture breaking of a bone in which part of the bone comes through the skin 有创骨折.
- ,compound `interest interest paid on both the original capital and the interest added to it 复利. Cf 参看 simple interest (simple).
- ,compound `sentence (grammar) sentence containingtwo or more co-ordinate clauses (linked by and, but, etc) 并列复合句.
+ # ,compound `fracture breaking of a bone in which part of the bone comes through the skin .
+ ,compound `interest interest paid on both the original capital and the interest added to it . Cf  simple interest (simple).
+ ,compound `sentence (grammar) sentence containingtwo or more co-ordinate clauses (linked by and, but, etc) .
 compound 2
 
 2 / kEm5paUnd; kEm`paJnd/ v 
- (a) [Tn] mix (sth) together 将（某物）混合, 搀合: the vat in which the chemicals are compounded 混合化学药品用的大桶. (b) [usu passive 通常用于被动语态: Tn, Tn.pr] ~ sth (of/from sth) make sth by mixing （用混合方法）制造（某物）: a medicine compounded of (ie made of) herbs 用草药混合制成的药 * (fig 比喻) Her character was compounded in equal parts of meanness and generosity. 她的为人慷慨吝啬参半. 
- [Tn] make (sth bad) worse by causing further harm （因进一步伤害）使（坏事）更坏: Initial planning errors were compounded by carelessness in carrying the plan out. 计划原来就有错误, 再加上执行中的粗心大意就更糟了. 
- [I, Ipr, Tn] ~ (with sb) (for sth) (commerce 商) reach an agreement (about sth); settle (a debt, etc) （就某事）达成协议; 和解妥协; 了结（债务等）: He compounded with his creditors for a postponement of payment. 他与债权人达成协议延期付款. 
- [Tn] (law 律) agree not to reveal (a crime), thus seeming not to disapprove of it 同意不揭发（罪行）（似并不反对该行为）; 私了: guilty of compounding a felony 对重罪案件私了罪.
+ (a) [Tn] mix (sth) together （）, : the vat in which the chemicals are compounded . (b) [usu passive : Tn, Tn.pr] ~ sth (of/from sth) make sth by mixing （）（）: a medicine compounded of (ie made of) herbs  * (fig ) Her character was compounded in equal parts of meanness and generosity. . 
+ [Tn] make (sth bad) worse by causing further harm （）（）: Initial planning errors were compounded by carelessness in carrying the plan out. , . 
+ [I, Ipr, Tn] ~ (with sb) (for sth) (commerce ) reach an agreement (about sth); settle (a debt, etc) （）; ; （）: He compounded with his creditors for a postponement of payment. . 
+ [Tn] (law ) agree not to reveal (a crime), thus seeming not to disapprove of it （）（）; : guilty of compounding a felony .
 compound 3
 
-3 / 5kCmpaUnd; `kBmpaJnd/ n (a) area enclosed by buildings, esp in a military camp or a prison camp 有建筑物围绕的场地（尤指军营、监狱中的）. (b) (in India, China, etc) area enclosed by a fence, etc, in which a house or factory stands （在印度、中国等）用围墙等圈起来的场地（内有房屋或工厂）; 院子.
+3 / 5kCmpaUnd; `kBmpaJnd/ n (a) area enclosed by buildings, esp in a military camp or a prison camp （、）. (b) (in India, China, etc) area enclosed by a fence, etc, in which a house or factory stands （、）（）; .
 
  imprison
- / Im5prIzn; Im`prIzn/ v [esp passive 尤用于被动语态: Tn, Tn.pr] ~ sb (in sth) put or keep sb in or as if in prison 监禁某人; 似监禁般束缚某人: Several of the rioters were imprisoned for causing a disturbance. 有几个暴乱者因制造动乱被关押在狱. * conditions in which young mothers feel virtually imprisoned in their own homes 年轻的母亲感到的居家如坐牢一般的处境.
+ / Im5prIzn; Im`prIzn/ v [esp passive : Tn, Tn.pr] ~ sb (in sth) put or keep sb in or as if in prison ; : Several of the rioters were imprisoned for causing a disturbance. . * conditions in which young mothers feel virtually imprisoned in their own homes .
 
- > imprisonment / -mEnt; -mEnt/ n [U] state of being imprisoned 关押; 监禁; 坐牢: sentenced to one year's, ten years', life, etc imprisonment 被判处一年、十年、终身监禁等.
+ > imprisonment / -mEnt; -mEnt/ n [U] state of being imprisoned ; ; : sentenced to one year's, ten years', life, etc imprisonment 、、.
 From Longman DOCE 5th Ed. (En-En)
 imprison
 im‧pris‧on /ɪmˈprɪzən/ BrE  AmE  verb [transitive]
@@ -942,12 +942,12 @@ fit with
  
  abide
 
- / E5baId; E`baId/ v (pt, pp abided; in sense 3 用于下述第3义时作 abode / E5bEUd; E`bod/) 
- [Tn] (esp with can/could, in negative sentences or questions 尤于否定句或疑问句中与can/could连用) tolerate (sb/sth); endure; bear 容忍（某人[某事物]）; 忍受; 忍耐: I can't abide that man. 我对那个人忍无可忍. * How could you abide such conditions? 这种环境你怎么受得了呢? 
- [Ipr] ~ by sth act in accordance with sth; be faithful to sth 遵守某事物; 忠于某事物: abide by (ie keep) a promise 遵守诺言 * abide by (ie observe) an agreement, verdict, ruling, etc 履行协议、服从裁决、遵从裁定w * You'll have to abide by (ie accept) the referee's decision. 你得遵从裁判的决定. 
- [Ipr] (arch 古) remain; continue; stay 逗留; 延续; 居留; 停留: abide at a place 住在某地 * abide with sb 和某人同住.
+ / E5baId; E`baId/ v (pt, pp abided; in sense 3 3 abode / E5bEUd; E`bod/) 
+ [Tn] (esp with can/could, in negative sentences or questions can/could) tolerate (sb/sth); endure; bear （[]）; ; : I can't abide that man. . * How could you abide such conditions? ? 
+ [Ipr] ~ by sth act in accordance with sth; be faithful to sth ; : abide by (ie keep) a promise  * abide by (ie observe) an agreement, verdict, ruling, etc 、、w * You'll have to abide by (ie accept) the referee's decision. . 
+ [Ipr] (arch ) remain; continue; stay ; ; ; : abide at a place  * abide with sb .
 
- > abiding adj enduring; permanent 持久的; 永久的: an abiding friendship, hatred, mistrust, etc 永恒的友谊、永世的仇恨、积久的疑忌.
+ > abiding adj enduring; permanent ; : an abiding friendship, hatred, mistrust, etc 、、.
 From Longman DOCE 5th Ed. (En-En)
 abide
 a‧bide /əˈbaɪd/ BrE  AmE  verb
@@ -962,15 +962,15 @@ to accept and obey a decision, rule, agreement etc, even though you may not agre
  rectify
 
  / 5rektIfaI; `rZktE9faI/ v (pt, pp -fied) 
- [Tn] put (sth) right; correct 改正（某事物）; 纠正: rectify an error, omission, etc 修订错处、疏漏处等 * mistakes that cannot be rectified 无法改正的错误. 
- [Tn esp passive 尤用于被动语态] (chemistry 化) purify or refine, esp by repeated distillation 净化或精炼; （尤指）分馏, 精馏: rectified spirits 精馏酒精. 
- [Tn] convert (alternating current) to direct current 将（交流电）变成直流电; 整（流）.
+ [Tn] put (sth) right; correct （）; : rectify an error, omission, etc 、 * mistakes that cannot be rectified . 
+ [Tn esp passive ] (chemistry ) purify or refine, esp by repeated distillation ; （）, : rectified spirits . 
+ [Tn] convert (alternating current) to direct current （）; （）.
 
- > rectifiable / -faIEbl, also 9rektI5faIEbl; -9faIEbl/ adj that can be rectified 可改正的; 可精馏的; 可整流的: an error that is easily rectifiablei 容易改正的错误.
+ > rectifiable / -faIEbl, also 9rektI5faIEbl; -9faIEbl/ adj that can be rectified ; ; : an error that is easily rectifiablei .
  rectification / 9rektIfI5keIFn; 9rZktEfE`keFEn/ n 
- [U] rectifying or being rectified 改正; 精炼; 整流: the rectification of errors, alcohol 错误的改正、酒精的精馏. 
- [C] thing that has been rectified; correction 被改正的事物; 经过精炼之物; 矫正.
- rectifier n device that converts alternating current to direct current 整流器.
+ [U] rectifying or being rectified ; ; : the rectification of errors, alcohol 、. 
+ [C] thing that has been rectified; correction ; ; .
+ rectifier n device that converts alternating current to direct current .
 From Longman DOCE 5th Ed. (En-En)
 rectify
 rec‧ti‧fy /ˈrektəfaɪ, ˈrektɪfaɪ/ BrE  AmE  verb (past tense and past participle rectified, present participle rectifying, third person singular rectifies) [transitive]
@@ -981,9 +981,9 @@ formal to correct something that is wrong SYN put right:
 
 transcend
 
- / trAn5send; trAn`sZnd/ v (fml 文) 
- [Tn] be or go beyond the range of (human experience, belief, powers of description, etc) 超出或超越（经验、信念、描写能力等）的范围: Such matters transcend man's knowledge, ie We cannot know about them. 这些问题人类是无法了解的. 
- [Tn, Tn.pr] ~ sb/sth (in sth) be much better or greater than sb/sth; surpass 优于或胜过某人[某事物]: She far transcends the others in beauty and intelligence. 她才貌出众.
+ / trAn5send; trAn`sZnd/ v (fml ) 
+ [Tn] be or go beyond the range of (human experience, belief, powers of description, etc) （、、）: Such matters transcend man's knowledge, ie We cannot know about them. . 
+ [Tn, Tn.pr] ~ sb/sth (in sth) be much better or greater than sb/sth; surpass []: She far transcends the others in beauty and intelligence. .
 
  
  transcend
@@ -1070,14 +1070,14 @@ EXAMPLES FROM CORPUS
 
 slop
  / slCp; slBp/ v (-pp-) 
- [Ipr, Ip] (of liquids) spill over the edge, esp of a container （指液体）溢出, 泼出（尤指从容器中）: I dropped the bucket, and water sloppedout (of it). 我把桶掉在地上, 水都洒了出来. * The tea slopped (over) into the saucer. 茶溢出流到茶托里了. 
- [Tn, Tn.pr, Tn.p] cause (sth) to spill 使（某物）溢出或泼出: slop the beer, paint, etc carelessly (all over the floor) 不小心把啤酒、油漆等洒了一地 * She slopped the dirty water (out) onto the grass. 她把污水泼在草地上了. 
- (phr v) slop about/around (of liquids) move around in a small space, esp a container （指液体）晃荡（尤指在容器里）: Water was slopping around in the bottom of the boat. 水在船底晃晃荡荡的. slop about/around (in sth) (of people) splash around （指人）用手或脚溅水: Why do some children like slopping around in puddles? 为什么有些儿童爱在水坑里泼水玩? slop out empty slops (slop n 1, 2) 倒污水; 倒（尿桶、便盆等）.
+ [Ipr, Ip] (of liquids) spill over the edge, esp of a container （）, （）: I dropped the bucket, and water sloppedout (of it). , . * The tea slopped (over) into the saucer. . 
+ [Tn, Tn.pr, Tn.p] cause (sth) to spill （）: slop the beer, paint, etc carelessly (all over the floor) 、 * She slopped the dirty water (out) onto the grass. . 
+ (phr v) slop about/around (of liquids) move around in a small space, esp a container （）（）: Water was slopping around in the bottom of the boat. . slop about/around (in sth) (of people) splash around （）: Why do some children like slopping around in puddles? ? slop out empty slops (slop n 1, 2) ; （、）.
 
- > slop n (usu pl 通常作复数) 
- dirty waste water from sinks, baths, etc （洗涤槽、浴缸等的）污水. 
- urine, excrement and waste water contained in a bucket in prison cells that have no toilet or sink （在无 T生设备的牢房里用便桶盛的）粪便与废水: [attrib 作定语] a `slop-bucket 便桶. 
- (a) swill for pigs （喂猪的）剩菜屑. (b) liquid food (eg milk, soup) esp for sick people 流质食物（如牛奶、汤等, 尤指供病人食用的）.
+ > slop n (usu pl ) 
+ dirty waste water from sinks, baths, etc （、）. 
+ urine, excrement and waste water contained in a bucket in prison cells that have no toilet or sink （ T）: [attrib ] a `slop-bucket . 
+ (a) swill for pigs （）. (b) liquid food (eg milk, soup) esp for sick people （、, ）.
  
  ridicule
 I. rid‧i‧cule1 /ˈrɪdəkjuːl, ˈrɪdɪkjuːl/ BrE  AmE  noun [uncountable]
@@ -1119,7 +1119,7 @@ to spread information or ideas to as many people as possible:
 From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 disseminate
 
- / dI5semIneIt; dI`sZmE9net/ v [Tn] spread (ideas, beliefs, etc) widely 散布, 广为传播（思想、信仰等）: They use the press to disseminate right-wing views. 他们利用报刊来传播右翼观点.
+ / dI5semIneIt; dI`sZmE9net/ v [Tn] spread (ideas, beliefs, etc) widely , （、）: They use the press to disseminate right-wing views. .
  > dissemination/ dI9semI5neIFn; dI9sZmE`neFEn/ n [U].
 From Cambridge Advanced Learners Dictionary 3th Ed.
 disseminate
@@ -1131,10 +1131,10 @@ Derived: dissemination
 
 embezzle
 
- / Im5bezl; Im`bZzl/ v [Tn] use (money placed in one's care) in a wrong way to benefit oneself 盗用, 挪用（款项）: embezzle the pension fund 挪用抚恤金 * The treasurer embezzled 2000 of the club's money. 司库盗用了俱乐部2000英镑.
+ / Im5bezl; Im`bZzl/ v [Tn] use (money placed in one's care) in a wrong way to benefit oneself , （）: embezzle the pension fund  * The treasurer embezzled 2000 of the club's money. 2000.
 
- > embezzlement n [C, U] (instance of) embezzling 盗用; 挪用: petty embezzlements 少量的盗用公款 * He was found guilty of embezzlement. 他被判盗用公款罪.
- embezzler / Im5bezlE(r); Im`bZzlL/ n person who embezzles 盗用者; 挪用公款者.
+ > embezzlement n [C, U] (instance of) embezzling ; : petty embezzlements  * He was found guilty of embezzlement. .
+ embezzler / Im5bezlE(r); Im`bZzlL/ n person who embezzles ; .
 
 formulate
 for‧mu‧late AC /ˈfɔːmjəleɪt, ˈfɔːmjʊleɪt $ ˈfɔːr-/ BrE  AmE  verb [transitive]
@@ -1261,11 +1261,11 @@ to make hair smooth and shiny by putting oil, water etc on it:
 prevail
 
  / prI5veIl; prI`vel/ v 
- [I] ~ (among/in sth/sb) exist or happen generally; be widespread 普遍存在; 普遍发生; 盛行; 流行: conditions prevailing in the region 该地区的普遍状况 * The use of horses for ploughing still prevails among the poorer farmers. 用马耕作的现象在贫苦农民中仍然十分普遍. 
- [I, Ipr] ~ (against/over sb/sth) (fml 文) fight successfully (against sb/sth); defeat 战胜（某人[某事物]）; 击败: Virtue will prevail against evil. 美德定将战胜邪恶. * The invaders prevailed over the native population. 入侵者打败了土著居民. 
- (phr v) prevail on sb to do sth (fml 文) persuade sb to do sth 劝说某人做某事: May I prevail on you to make a speech after dinner? 可以请你在用餐后讲几句话吗?
+ [I] ~ (among/in sth/sb) exist or happen generally; be widespread ; ; ; : conditions prevailing in the region  * The use of horses for ploughing still prevails among the poorer farmers. . 
+ [I, Ipr] ~ (against/over sb/sth) (fml ) fight successfully (against sb/sth); defeat （[]）; : Virtue will prevail against evil. . * The invaders prevailed over the native population. . 
+ (phr v) prevail on sb to do sth (fml ) persuade sb to do sth : May I prevail on you to make a speech after dinner? ?
 
- > prevailing adj [attrib 作定语] (a) most usual orwidespread 普遍的; 盛行的; 流行的: the prevailing customs,fashions, style, etc 流行的风俗、式样、款式等. (b) (of a wind) that blows in an area most frequently （指风）某一区域里最常刮的: The prevailing wind here is from the south-west. 这里最常刮的风是西南风.
+ > prevailing adj [attrib ] (a) most usual orwidespread ; ; : the prevailing customs,fashions, style, etc 、、. (b) (of a wind) that blows in an area most frequently （）: The prevailing wind here is from the south-west. .
  
  dwell on something
 dwell on sth phrasal verb [dwelt on sth dwelt on sth dwelt on sth dwelled on sth dwelled on sth dwelled on sth dwells on sth dwelling on sth]
@@ -1322,7 +1322,7 @@ avert [avert averts averted averting] BrE [əˈvɜːt]  NAmE [əˈvɜːrt]  verb
 
 desalinate
 
- / 9di:5sAlIneIt; di`sAlE9net/ v [Tn] remove salt from (esp sea-water) 从（尤指海水）中除去盐分; 使脱盐.
+ / 9di:5sAlIneIt; di`sAlE9net/ v [Tn] remove salt from (esp sea-water) （）; .
  > desalination / 9di:9slI5neIFn; 9disAlE`neFEn/ n [U].
  
  emit
@@ -1428,8 +1428,8 @@ to be influenced by something from a very early age:
  I was weaned on a diet of Hollywood fantasy.
  wean
  / wi:n; win/ v 
- [Tn, Tn.pr] ~ sb/sth (off sth) (on to sth) gradually stop feeding (a baby or young animal) with its mother's milk and start feeding it with solid food 使（婴儿或幼小动物）断奶. 
- (phr v) wean sb (away) from sth/doing sth cause sb to stop doing sth, esp gradually 使某人不继续做某事（尤指逐渐地）: wean sb (away) from drugs, drinking, gambling, etc 使某人渐渐戒毒、戒酒、戒赌等.
+ [Tn, Tn.pr] ~ sb/sth (off sth) (on to sth) gradually stop feeding (a baby or young animal) with its mother's milk and start feeding it with solid food （）. 
+ (phr v) wean sb (away) from sth/doing sth cause sb to stop doing sth, esp gradually （）: wean sb (away) from drugs, drinking, gambling, etc 、、.
  
  Verb[edit]
 childmind (third-person singular simple present childminds, present participle childminding, simple past and past participle childminded)
@@ -1457,8 +1457,8 @@ take somebody/something ↔ on phrasal verb (see also ↑take)
  We stopped to take on fuel.
  
   condone
- / kEn5dEUn; kEn`don/ v [Tn, Tg, Tsg] treat or regard (an offence) as if it were not serious or wrong; overlook; forgive 容忍（过失）; 宽恕; 原谅: condone violence, adultery, fraud, etc 宽恕暴行、奸情、欺诈行为等 * Not punishing them amounts to condoning their crime. 不惩罚他们就等于纵容他们的罪行.
- > condonation / 9kCndEU5neIFn; 9kBndo`neFEn/ n [U] (fml 文).
+ / kEn5dEUn; kEn`don/ v [Tn, Tg, Tsg] treat or regard (an offence) as if it were not serious or wrong; overlook; forgive （）; ; : condone violence, adultery, fraud, etc 、、 * Not punishing them amounts to condoning their crime. .
+ > condonation / 9kCndEU5neIFn; 9kBndo`neFEn/ n [U] (fml ).
  condone
 con·done [condone condones condoned condoning] BrE [kənˈdəʊn]  NAmE [kənˈdoʊn]  verb ~ sth | ~ (sb) doing sth
 to accept behaviour that is morally wrong or to treat it as if it were not serious
@@ -1493,19 +1493,19 @@ tram·ple [trample tramples trampled trampling] BrE [ˈtræmpl] NAmE [ˈtræmpl]
 tread
 
  / tred; trZd/ v (pt trod / trCd; trBd/, pp trodden/ 5trCdn; `trBdn/ or trod) 
- [I, Ipr] ~ (on, etc sth/sb) (a) set one's foot down; walk or step 踩; 行走; 踏: She trod lightly so as not to wake the baby. 她步子很轻, 以免惊醒孩子. * explorers going where no man had trod (ie been) before 前往杳无人迹之处的勘探者 * tread on sb's toe 踩在某人的脚趾上 * Mind you don't tread in that puddle. 小心, 别踩着那水坑. * (fig 比喻) It is a sensitive issue so we must tread (ie speak, proceed) carefully. 这是个敏感的问题, 绝不可掉以轻心. (b) (of a foot) be setdown （指脚）踩下, 踏下. 
- [Tn, Tn.pr, Tn.p] ~ sth (in/down/out) press or crush sth with the feet 踩紧或踩碎某物: tread grapes, ie to make wine 踩碎葡萄（制酒） * Don't tread your ash into my carpet! 别把你的烟灰踩到我的地毯里! * tread the earth down around the roots 把根部周围的泥土踩实 * tread out fire in the grass 把草地上的火踩灭. 
- [Tn, Tn.pr] make (a path, etc) by walking 踩出（一条路等）: The cattle had trodden a path to the pond. 牛群踩出了一条通往池塘的小径. 
- (idm 习语) ,tread the `boards (rhet or joc 修辞或谑) be an actor 当演员. ,tread on `air feel very happy 欢天喜地. ,tread on sb's `corns/`toes (infml 口) offend or annoy sb 冒犯或得罪某人: I don't want to tread on anybody's toes so I won't say what I think. 我谁也不想得罪, 所以我不把想法说出来. ,tread on sb's `heels follow sb closely 紧跟某人. ,tread/,walk a `tightrope => tightrope. ,tread `water keep oneself upright in deep water by making treading movements with the legs 踩水（游泳动作）.
+ [I, Ipr] ~ (on, etc sth/sb) (a) set one's foot down; walk or step ; ; : She trod lightly so as not to wake the baby. , . * explorers going where no man had trod (ie been) before  * tread on sb's toe  * Mind you don't tread in that puddle. , . * (fig ) It is a sensitive issue so we must tread (ie speak, proceed) carefully. , . (b) (of a foot) be setdown （）, . 
+ [Tn, Tn.pr, Tn.p] ~ sth (in/down/out) press or crush sth with the feet : tread grapes, ie to make wine （） * Don't tread your ash into my carpet! ! * tread the earth down around the roots  * tread out fire in the grass . 
+ [Tn, Tn.pr] make (a path, etc) by walking （）: The cattle had trodden a path to the pond. . 
+ (idm ) ,tread the `boards (rhet or joc ) be an actor . ,tread on `air feel very happy . ,tread on sb's `corns/`toes (infml ) offend or annoy sb : I don't want to tread on anybody's toes so I won't say what I think. , . ,tread on sb's `heels follow sb closely . ,tread/,walk a `tightrope => tightrope. ,tread `water keep oneself upright in deep water by making treading movements with the legs （）.
 
  > tread n 
- [sing] manner or sound of walking 步法; 步态; 脚步声: walk with a heavy tread 脚步沉重地行走. 
- [C] upper surface of a step or stair （台阶或楼梯的）踏面, 梯面. 
- [C, U] outer grooved surface of a tyre that is in contact with the road （轮胎的）踏面, 胎面: Driving with worn tread(s) can be dangerous. 轮胎胎面磨损的汽车开着有危险.
+ [sing] manner or sound of walking ; ; : walk with a heavy tread . 
+ [C] upper surface of a step or stair （）, . 
+ [C, U] outer grooved surface of a tyre that is in contact with the road （）, : Driving with worn tread(s) can be dangerous. .
 
  # `treadmill n 
- mill-wheel turned by the weight of people or animals treading on steps round its inside edge (formerly worked by prisoners as a punishment) （人力或畜力的）踏车（旧时用以惩治囚犯）. 
- (fig 比喻) tiring or monotonous routine work; drudgery 累人的或单调的例行工作; 繁重乏味的工作: I can't get off the office treadmill. 我无法摆脱单调的坐班工作.
+ mill-wheel turned by the weight of people or animals treading on steps round its inside edge (formerly worked by prisoners as a punishment) （）（）. 
+ (fig ) tiring or monotonous routine work; drudgery ; : I can't get off the office treadmill. .
  
  noun
 1. singular the way that sb walks; the sound that sb makes when they walk
@@ -1581,7 +1581,7 @@ Example Bank:
 From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 despise
 
- / dI5spaIz; dI`spaIz/ v [Tn, Tn.pr] ~ sb/sth (for sth) feel contempt for sb/sth; consider sb/sth as worthless 鄙视、藐视、看不起某人[某事物]: despise his hypocrisy, meanness, conceit, etc 鄙视他的虚伪、吝啬、自负等 * Strike-breakers are often despised by their workmates. 破坏罢工的人常为同事所不齿.
+ / dI5spaIz; dI`spaIz/ v [Tn, Tn.pr] ~ sb/sth (for sth) feel contempt for sb/sth; consider sb/sth as worthless 、、[]: despise his hypocrisy, meanness, conceit, etc 、、 * Strike-breakers are often despised by their workmates. .
 From Longman DOCE 5th Ed. (En-En)
 despise
 de‧spise /dɪˈspaɪz/ BrE  AmE  verb [transitive not in progressive]
@@ -1622,7 +1622,7 @@ From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 >>>>>>> 8ad8b2d0fdeca145b70c16151f68722420bf23cc
 squander
 
- / 5skwCndE(r); `skwBndL/ v [Tn, Tn.pr] ~ sth (on sb/sth) waste (time, money, etc); use sth wastefully 浪费（时间、金钱等）; 挥霍: He's squandered all his savings on drink. 他把存的钱全买酒喝了. * (fig 比喻) Don't squander your affection on him he'll never love you. 别把感情耗在他身上了--他永远不会爱你的.
+ / 5skwCndE(r); `skwBndL/ v [Tn, Tn.pr] ~ sth (on sb/sth) waste (time, money, etc); use sth wastefully （、）; : He's squandered all his savings on drink. . * (fig ) Don't squander your affection on him he'll never love you. --.
  > squanderer n.
  
 <<<<<<< HEAD
@@ -1646,12 +1646,12 @@ Derived Word: ↑victimization
 
 grovel
 
- / 5grCvl; `^rBvl/ v (-ll-; US -l-) (derog 贬) 
- [I, Ipr] ~ (to/before sb) lie or crawl with the face downwards in a show of humility or fear 趴伏, 匍匐（作谦卑或恐惧状）: Those who wished a favour of the emperor had to grovel on hands and knees before him. 凡希望受到皇帝恩宠的人都要拜倒在他面前. 
- (fig 比喻) [I, Ipr] ~ (to sb) (for sth) behave with a show of humility or shame 带着谦卑或羞愧的样子行事: You will just have to grovel to the bank manager for a loan. 你只得低声下气地向银行经理借贷. 
- (phr v) grovel about/around move about on one's hands and knees; crawl about 四处爬行; 爬来爬去: grovelling around under the table looking for a pin 在桌子下爬来爬去寻找一根针.
+ / 5grCvl; `^rBvl/ v (-ll-; US -l-) (derog ) 
+ [I, Ipr] ~ (to/before sb) lie or crawl with the face downwards in a show of humility or fear , （）: Those who wished a favour of the emperor had to grovel on hands and knees before him. . 
+ (fig ) [I, Ipr] ~ (to sb) (for sth) behave with a show of humility or shame : You will just have to grovel to the bank manager for a loan. . 
+ (phr v) grovel about/around move about on one's hands and knees; crawl about ; : grovelling around under the table looking for a pin .
 
- > grovelling / 5grCvElIN; `^rBvlIN/ adj excessively humble; abject 过分谦逊的; 可鄙的: a grovelling apology 低声下气的道歉.
+ > grovelling / 5grCvElIN; `^rBvlIN/ adj excessively humble; abject ; : a grovelling apology .
 From Longman DOCE 5th Ed. (En-En)
 grovel
 grov‧el /ˈɡrɒvəl $ ˈɡrɑː-, ˈɡrʌ-/ BrE  AmE  verb (past tense and past participle grovelled, present participle grovelling British English, groveled, groveling American English)
@@ -1666,9 +1666,9 @@ grovel to
  
   ridicule
 
- / 5rIdIkju:l; `rIdIkjul/ n [U] (process of) making sb/sth appear foolish or absurd; scorn 嘲弄; 戏弄; 嘲笑: incur ridicule 遭受嘲弄 * attempt to escape ridicule 力图避免他人耻笑 * be held up to ridicule 被嘲弄 * He's become an object of ridicule, ie People say he is foolish/absurd. 他成了大家嘲笑的对象.
+ / 5rIdIkju:l; `rIdIkjul/ n [U] (process of) making sb/sth appear foolish or absurd; scorn ; ; : incur ridicule  * attempt to escape ridicule  * be held up to ridicule  * He's become an object of ridicule, ie People say he is foolish/absurd. .
 
- > ridicule v [Tn] make fun of (sb/sth); mock 嘲弄 （某人[某事物]）; 嘲笑: The opposition ridiculed the government's proposals, saying they offered nothing new. 反对派揶揄政府的建议, 说成是老调重弹.
+ > ridicule v [Tn] make fun of (sb/sth); mock  （[]）; : The opposition ridiculed the government's proposals, saying they offered nothing new. , .
 From Longman DOCE 5th Ed. (En-En)
 ridicule
 I. rid‧i‧cule1 /ˈrɪdəkjuːl, ˈrɪdɪkjuːl/ BrE  AmE  noun [uncountable]
@@ -1683,14 +1683,14 @@ to laugh at a person, idea etc and say that they are stupid SYN mock:
  
  petty
 
- / 5petI; `pZtI/ adj (-ier, -iest) (derog 贬) 
- small or trivial; unimportant 小的; 琐碎的; 不重要的: petty details, petty queries, regulations, troubles 细节、小问题、琐碎的规章、小麻烦. 
- (a) concerned with small and unimportant matters 注重琐事的: petty observance of the regulations 遵守规章制度上的细节. (b) having or showing a small mind; mean 狭隘的; 器量小的; 小气的: petty and childish behaviour 小心眼和孩子气的行为 * petty spite 心胸狭窄的怨恨 * a petty desire to have her revenge 她想要报复的狭隘念头 * petty about money 金钱上很小气.
- > pettily / 5petIlI; `pZtIlI/ adv. pettiness n [U]: The pettiness of their criticisms enraged him. 他们鸡毛蒜皮地挑剔, 他十分气愤.
+ / 5petI; `pZtI/ adj (-ier, -iest) (derog ) 
+ small or trivial; unimportant ; ; : petty details, petty queries, regulations, troubles 、、、. 
+ (a) concerned with small and unimportant matters : petty observance of the regulations . (b) having or showing a small mind; mean ; ; : petty and childish behaviour  * petty spite  * a petty desire to have her revenge  * petty about money .
+ > pettily / 5petIlI; `pZtIlI/ adv. pettiness n [U]: The pettiness of their criticisms enraged him. , .
 
- # ,petty `cash (usu small) amount of money kept in an office from or for small payments （通常指小额的）零用现金.
- ,petty `larceny theft of articles of small value 小偷小摸.
- ,petty `officer (abbr 缩写 PO) senior non-commissionedofficer in the navy 海军士官. =>App 9 见附录9.
+ # ,petty `cash (usu small) amount of money kept in an office from or for small payments （）.
+ ,petty `larceny theft of articles of small value .
+ ,petty `officer (abbr  PO) senior non-commissionedofficer in the navy . =>App 9 9.
 From Longman DOCE 5th Ed. (En-En)
 petty
 pet‧ty /ˈpeti/ BrE  AmE  adjective
@@ -1710,9 +1710,9 @@ pet‧ty /ˈpeti/ BrE  AmE  adjective
  
  surmise
 
- / sE5maIz; sL`maIz/ v [Tn, Tf, Tw] (fml 文) suppose (sth) without having evidence that makes it certain; guess 猜测（某事物）; 猜想; 揣测: With no news from the explorers we can only surmise their present position/where they are. 我们没有探险者的消息, 只能猜测他们现在所处的位置. * We surmised that he must have had an accident. 我们猜想他一定出事了.
+ / sE5maIz; sL`maIz/ v [Tn, Tf, Tw] (fml ) suppose (sth) without having evidence that makes it certain; guess （）; ; : With no news from the explorers we can only surmise their present position/where they are. , . * We surmised that he must have had an accident. .
 
- > surmise / 5s\:maIz; `s[maIz/ n [C, U] (fml 文) guess(ing) 猜测; 猜想: Your first surmise was right. 你第一次猜得对. * This is pure surmise. 这纯属臆测.
+ > surmise / 5s\:maIz; `s[maIz/ n [C, U] (fml ) guess(ing) ; : Your first surmise was right. . * This is pure surmise. .
 From Longman DOCE 5th Ed. (En-En)
 surmise
 sur‧mise /səˈmaɪz $ sər-/ BrE  AmE  verb [transitive]
@@ -1725,7 +1725,7 @@ surmise that
  
  stigmatize, stigmatise
 
- / 5stIgmEtaIz; `stI^mE9taIz/ v [Cn.n/a usu passive 通常用于被动语态] ~ sb/sth as sth (fml 文) describe or consider sb/sth as sth disgraceful or shameful 将某人[某事物]形容为、视为可耻之物: stigmatized as a coward and a liar 被指责为胆小鬼和说谎的人.
+ / 5stIgmEtaIz; `stI^mE9taIz/ v [Cn.n/a usu passive ] ~ sb/sth as sth (fml ) describe or consider sb/sth as sth disgraceful or shameful []、: stigmatized as a coward and a liar .
 From Longman DOCE 5th Ed. (En-En)
 stigmatize
 stig‧ma‧tize BrE  AmE  (also stigmatise British English) /ˈstɪɡmətaɪz/ verb
@@ -1735,7 +1735,7 @@ be stigmatized to be treated by society as if you should feel ashamed of your si
 
 outdo
 
- / 9aUt5du:; aJt`du/ v (3rd pers sing pres t -does/- 5dQz; -`dQz/, pt -did / -5dId; -`dId/, pp -done / -5dQn;-`dQn/) [Tn] do more or better than (sb) 比（某人）做得多或做得好; 超过; 胜过: determined to outdo her brother at work and games 决心在工作和体育活动中胜过她的哥哥 * Not to be outdone (ie Not wanting to let sb else do better) she tried again. 她很好强, 又试了一次.
+ / 9aUt5du:; aJt`du/ v (3rd pers sing pres t -does/- 5dQz; -`dQz/, pt -did / -5dId; -`dId/, pp -done / -5dQn;-`dQn/) [Tn] do more or better than (sb) （）; ; : determined to outdo her brother at work and games  * Not to be outdone (ie Not wanting to let sb else do better) she tried again. , .
 From Longman DOCE 5th Ed. (En-En)
 outdo
 out‧do /aʊtˈduː/ BrE  AmE  verb (past tense outdid /-ˈdɪd/, past participle outdone /-ˈdʌn/, third person singular outdoes /-ˈdʌz/) [transitive]
@@ -1877,9 +1877,9 @@ Hit me up whenever you need help.
 3. slang To ask someone for something, usually money. In this usage, a noun or pronoun can be used between "hit" and "up."
 Stop hitting me up for money when you already owe me $500!
 overlay
- / 9EUvE5leI; 9ovL`le/ v (pt, pp overlaid / -5leId;-`led/) [usu passive 通常用于被动语态: Tn, Tn.pr] ~ sth (with sth) put a thin layer over the surface of (sth) 在（某物）表面上铺一薄层: wood overlaid with gold 敷金箔的木 * He overlaid the walls with hessian. 他在墙上贴了一层麻布.
+ / 9EUvE5leI; 9ovL`le/ v (pt, pp overlaid / -5leId;-`led/) [usu passive : Tn, Tn.pr] ~ sth (with sth) put a thin layer over the surface of (sth) （）: wood overlaid with gold  * He overlaid the walls with hessian. .
 
- > overlay / 5EUvEleI; `ovL9le/ n thing laid over sth 覆盖物: a table covered with a copper overlay 包铜桌子.
+ > overlay / 5EUvEleI; `ovL9le/ n thing laid over sth : a table covered with a copper overlay .
 From Longman DOCE 5th Ed. (En-En)
 overlay
 I. o‧ver‧lay1 /ˌəʊvəˈleɪ $ ˌoʊvər-/ BrE  AmE  verb (past tense and past participle overlaid) [transitive]
@@ -1918,10 +1918,10 @@ THESAURUS
 
 belittle
 
- / bI5lItl; bI`lItl/ v [Tn] make (a person or an action) seem unimportant or of little value 轻视; 贬低: Don't belittle yourself, ie Don't be too modest about your abilities or achievements. 不要小看你自己.
+ / bI5lItl; bI`lItl/ v [Tn] make (a person or an action) seem unimportant or of little value ; : Don't belittle yourself, ie Don't be too modest about your abilities or achievements. .
 
  > belittlement n [U].
- belittling adj making sb seem unimportant or worthless 轻视某人的; 小看某人的: I find it belittling to be criticized by someone so much younger than me. 有个比我年轻许多的人批评了我, 我觉得是小看了我.
+ belittling adj making sb seem unimportant or worthless ; : I find it belittling to be criticized by someone so much younger than me. , .
 From Longman DOCE 5th Ed. (En-En)
 belittle
 be‧lit‧tle /bɪˈlɪtl/ BrE  AmE  verb [transitive]
@@ -1930,13 +1930,13 @@ formal to make someone or something seem small or unimportant:
  
 judicial
 
- / dVu:5dIFl; dVu`dIFEl/ adj [attrib 作定语] 
- of or by a court of law; of a judge or of judgement 法庭的; 司法的; 法官的; 审判的: a judicial inquiry, review, system 法庭的审讯、覆审、司法制度 * the judicial process 审判的程序 * take judicial proceedings against sb, ie bring a case against him in court 提起诉讼控告某人. 
- able to judge things wisely; critical; impartial 善于判断的; 有判断力的; 明断的; 公正的: a judicial mind 公正的心.
+ / dVu:5dIFl; dVu`dIFEl/ adj [attrib ] 
+ of or by a court of law; of a judge or of judgement ; ; ; : a judicial inquiry, review, system 、、 * the judicial process  * take judicial proceedings against sb, ie bring a case against him in court . 
+ able to judge things wisely; critical; impartial ; ; ; : a judicial mind .
  > judicially / -FElI; -FElI/ adv.
 
- # ju,dicial `murder (law 律) sentence of death that is legal but considered unjust 虽合法但被认为不公正的死刑判决.
- ju,dicial sepa`ration (law 律) order that forbids a man and wife to live together but does not end the marriage 经裁定的夫妇分居（夫妻不得同居但不结束婚姻关系）.
+ # ju,dicial `murder (law ) sentence of death that is legal but considered unjust .
+ ju,dicial sepa`ration (law ) order that forbids a man and wife to live together but does not end the marriage （）.
 From Longman DOCE 5th Ed. (En-En)
 judicial
 ju‧di‧cial /dʒuːˈdɪʃəl/ BrE  AmE  adjective
@@ -1947,15 +1947,15 @@ relating to the law, judges, or their decisions ⇨ legislative:
 
 shed 1
 
-1 / Fed; FZd/ n (often in compounds 常用以构成复合词) one-storey building used for storing things, sheltering animals, vehicles, etc or as a workshop （用以储物、关牲口、停车辆等或作车间的）平房, 棚: a `tool-shed 工具房 * a `wood-shed 柴房 * a `coal-shed 煤库 * a `cattle-shed 牲口棚 * an `engine-shed 机车库 * a `bicycle-shed 自行车棚. =>illus at App 1 见附录1插图, page vii. Cf 参看 hut.
+1 / Fed; FZd/ n (often in compounds ) one-storey building used for storing things, sheltering animals, vehicles, etc or as a workshop （、、）, : a `tool-shed  * a `wood-shed  * a `coal-shed  * a `cattle-shed  * an `engine-shed  * a `bicycle-shed . =>illus at App 1 1, page vii. Cf  hut.
 shed 2
 
 2 / Fed; FZd/ v (-dd-; pt, pp shed) 
- [Tn] lose (sth) by its falling off; let (sth) fall or come off 使（某物）脱落、剥落、蜕下或脱下: Trees shed their leaves and flowers shed their petals. 到时候树就落叶、花就掉瓣. * Some kinds of deer shed their horns. 鹿有些种类能脱换鹿角. * The snake sheds its skin regularly. 蛇到时候会蜕皮. * The lorry has shed its load, ie Its load has accidentally fallen off onto the road. 那辆卡车把货物掉在路上了. 
- [Tn] (fml 文) allow (sth) to pour out 使（某物）流出: shed tears, ie weep 流泪 * shed blood, ie wound or kill another person or other people 流血（使他人受伤或丧命） * shed one's blood, ie be wounded or killed 流血（受伤或被杀死）. 
- [Tn] take or throw (sth) off; remove 去掉（某物）; 除掉: shedding one's clothes on a hot day 天热时脱掉衣服 * The duck's feathers shed water immediately. 鸭子的羽毛沾不住水. * (fig 比喻) You must learn to shed (ie get rid of) your inhibitions. 你应该尽量摆脱抑制心态. 
- [Tn, Tn.pr] ~ sth (on sb/sth) spread or send sth out 散发出（某物）: a fire shedding warmth 向外散热的火 * The lamp shed soft light on the desk. 台灯柔和的光线照射在桌面上. * (fig 比喻) She sheds happiness all around her. 她焕发着喜悦的神采. 
- (idm 习语) cast/shed/throw light on sth => light1.
+ [Tn] lose (sth) by its falling off; let (sth) fall or come off （）、、: Trees shed their leaves and flowers shed their petals. 、. * Some kinds of deer shed their horns. . * The snake sheds its skin regularly. . * The lorry has shed its load, ie Its load has accidentally fallen off onto the road. . 
+ [Tn] (fml ) allow (sth) to pour out （）: shed tears, ie weep  * shed blood, ie wound or kill another person or other people （） * shed one's blood, ie be wounded or killed （）. 
+ [Tn] take or throw (sth) off; remove （）; : shedding one's clothes on a hot day  * The duck's feathers shed water immediately. . * (fig ) You must learn to shed (ie get rid of) your inhibitions. . 
+ [Tn, Tn.pr] ~ sth (on sb/sth) spread or send sth out （）: a fire shedding warmth  * The lamp shed soft light on the desk. . * (fig ) She sheds happiness all around her. . 
+ (idm ) cast/shed/throw light on sth => light1.
 From Longman DOCE 5th Ed. (En-En)
 shed
 I. shed1 S3 /ʃed/ BrE  AmE  noun [countable]
@@ -2079,15 +2079,15 @@ get into something (see also ↑get)
  She was starting to get into politics.
  
  lament
- / lE5ment; lE`mZnt/ v (a) [I, Ipr, Tn] ~ (for/over sb/sth) feel or express great sorrow or regret for (sb/sth) 为（某人[某事物]）感到悲痛; 哀悼; 痛惜: lament loudly 哀嚎 * lament (for) a dead friend 哀悼亡友 * lament (over) one's misfortunes 悲叹自己的不幸 * lament the passing of old ways 浩叹古风的沉沦. (b) [I, Tn] complain (about sth) 抱怨（某事）: She's always lamenting the lack of sports facilities in town. 她总是抱怨伦敦缺少体育设施.
+ / lE5ment; lE`mZnt/ v (a) [I, Ipr, Tn] ~ (for/over sb/sth) feel or express great sorrow or regret for (sb/sth) （[]）; ; : lament loudly  * lament (for) a dead friend  * lament (over) one's misfortunes  * lament the passing of old ways . (b) [I, Tn] complain (about sth) （）: She's always lamenting the lack of sports facilities in town. .
  > lament n 
- strong expression of grief 悲恸. 
- song or poem expressing grief; dirge 挽歌; 哀诗: a funeral lament 挽歌.
- lamentable / 5lAmEntEbl; `lAmEntEbl/ adj regrettable; deplorable 惋惜的; 可悲的: a lamentable loss of life, lack of foresight 令人悲叹的生命损失、缺乏远见. `lamentably / -EblI; -EblI/ adv.
+ strong expression of grief . 
+ song or poem expressing grief; dirge ; : a funeral lament .
+ lamentable / 5lAmEntEbl; `lAmEntEbl/ adj regrettable; deplorable ; : a lamentable loss of life, lack of foresight 、. `lamentably / -EblI; -EblI/ adv.
  lamentation / 9lAmen5teIFn; 9lAmEn`teFEn/ n 
- [U] lamenting 悲痛; 哀悼; 痛惜; 抱怨: Much lamentation followed the death of the old king. 老国王晏驾, 人们悲恸不已. 
- [C] expression of grief; lament 悲叹; 挽歌; 哀诗.
- lamented adj (rhet or joc 修辞或谑) mourned for; regretted 悲叹的; 痛惜的: the much lamented pound note 那张令人痛惜的一镑的钞票 * our late lamented friend 令我们惋惜的故友.
+ [U] lamenting ; ; ; : Much lamentation followed the death of the old king. , . 
+ [C] expression of grief; lament ; ; .
+ lamented adj (rhet or joc ) mourned for; regretted ; : the much lamented pound note  * our late lamented friend .
 From Longman DOCE 5th Ed. (En-En)
 lament
 I. la‧ment1 /ləˈment/ BrE  AmE  verb written
@@ -2114,17 +2114,17 @@ to say several pieces of information or a list quickly and easily from memory:
  rattle
 
  / 5rAtl; `rAtl/ v 
- [I, Tn] (cause sth to) make short sharp sounds quickly, one after the other; (cause sth to) shake while making such sounds （使某物）发出一连串的短促而尖利的声音; （使某物）颤动出声: The windows were rattling in the wind. 风刮得窗户格格作响. * Hailstones rattled on the tin roof. 冰雹落在铁皮屋顶上发出砰砰声. * The wind rattled the windows. 风把窗户刮得颤悠悠地格格作响. 
- [Tn esp passive 尤用于被动语态] (infml 口) make (sb) nervous; frighten or alarm 使（某人）紧张; 使恐惧; 使惊慌: The policeman's visit really got her rattled. 警察来访可把她吓了一跳. 
- (phr v) rattle along, off, past, etc move with a rattling sound 移动时发出嘈杂声: The old bus rattled along the stony road. 那辆旧公共汽车格登格登地沿碎石路行驶. * A cart rattled past (us). 一辆大车发出嘎吱嘎吱声经过我们身边. rattle away/on talk idly and at length; chatter 神聊; 喋喋不休: He rattled on about his job, not noticing how bored she was. 他只顾喋喋不休地说自己工作上的事, 没注意到她有多么腻烦. rattle sth off say or repeat sth quickly and meaninglessly 急促而不假思索地说或重述某事: The child rattled off the poem he had learnt. 那孩子把学到的那首诗背得滚瓜烂熟. rattle through sth tell (a story), repeat (a list, etc) quickly 急急巴巴地讲（故事）或念（表册等）: He rattled through the list of names. 他口中像爆豆一般念那名单.
+ [I, Tn] (cause sth to) make short sharp sounds quickly, one after the other; (cause sth to) shake while making such sounds （）; （）: The windows were rattling in the wind. . * Hailstones rattled on the tin roof. . * The wind rattled the windows. . 
+ [Tn esp passive ] (infml ) make (sb) nervous; frighten or alarm （）; ; : The policeman's visit really got her rattled. . 
+ (phr v) rattle along, off, past, etc move with a rattling sound : The old bus rattled along the stony road. . * A cart rattled past (us). . rattle away/on talk idly and at length; chatter ; : He rattled on about his job, not noticing how bored she was. , . rattle sth off say or repeat sth quickly and meaninglessly : The child rattled off the poem he had learnt. . rattle through sth tell (a story), repeat (a list, etc) quickly （）（）: He rattled through the list of names. .
 
  > rattle n 
- [U, C] rattling sound 一连串的短促而尖利的声音: the rattle of bottles, chains, etc 瓶子 G匡啷 G匡啷响、链子当啷当啷响 * the harsh rattle of machine-gun fire 机关枪射击时的刺耳的格格声 * The car has several irritating rattles at the back. 这辆汽车后部有几处发出烦人的嘈杂声. 
- [C] toy or device for producing a rattling sound 产生连续声音的玩具或器具: a baby's rattle 拨浪鼓 * Football fans sounded their rattles. 足球迷们弄响了他们那用来助阵的发声器. 
- [C] horny rings on a rattlesnake's tail that make a rattling noise when shaken 响环（响尾蛇尾部的角质环, 摆动时格格作响）.
- rattling / 5rAtlIN; `rAtlIN/ adj [attrib 作定语] (dated infml 旧, 口) fast or brisk 快的; 轻快的: set a rattling pace 定出快速. adv very 非常: spin a rattling good yarn, ie tell a very good story 讲一个非常好听的故事.
+ [U, C] rattling sound : the rattle of bottles, chains, etc  G G、 * the harsh rattle of machine-gun fire  * The car has several irritating rattles at the back. . 
+ [C] toy or device for producing a rattling sound : a baby's rattle  * Football fans sounded their rattles. . 
+ [C] horny rings on a rattlesnake's tail that make a rattling noise when shaken （, ）.
+ rattling / 5rAtlIN; `rAtlIN/ adj [attrib ] (dated infml , ) fast or brisk ; : set a rattling pace . adv very : spin a rattling good yarn, ie tell a very good story .
 
- # `rattlesnake (also US infml 美式口语作 rattler / 5rAtlE(r); `rAtlL/) n poisonous American snake that makes a rattling noise with its tail when alarmed or threatened 响尾蛇（美洲毒蛇）.
+ # `rattlesnake (also US infml  rattler / 5rAtlE(r); `rAtlL/) n poisonous American snake that makes a rattling noise with its tail when alarmed or threatened （）.
 From Longman DOCE 5th Ed. (En-En)
 Rattle
 Rattle, Sir Simon BrE  AmE 
@@ -2189,12 +2189,12 @@ Main entry: speakphrasal verb
 strangle
 
  / 5strANgl; `strAN^l/ v 
- [Tn] kill (sb) by squeezing or gripping the throat tightly; throttle 扼死, 勒死, 绞死, 掐死（某人）; 使窒息: He strangled her with her own scarf. 他用她的围巾把她勒死了. * (infml 口) I could cheerfully strangle you for getting me into this mess! 你让我这样难堪, 我恨不得掐死你! * (fig 比喻) This stiff collar is strangling me, ie making it difficult for me tobreathe. 这硬领把我的脖子卡得喘不过气来. 
- (a) [Tn]restrict or prevent the proper growth, operation or development of (sth) 限制或阻止（某事物）的正常生长、操作或发展: She felt her creativity was being strangled.她觉得她的创造力难以发挥. (b) [Tn usu passive 通常用于被动语态] restrict the utterance of (sth) 限制（某事物）的发声: a strangled (ie partly suppressed) cry 哽咽.
+ [Tn] kill (sb) by squeezing or gripping the throat tightly; throttle , , , （）; : He strangled her with her own scarf. . * (infml ) I could cheerfully strangle you for getting me into this mess! , ! * (fig ) This stiff collar is strangling me, ie making it difficult for me tobreathe. . 
+ (a) [Tn]restrict or prevent the proper growth, operation or development of (sth) （）、: She felt her creativity was being strangled.. (b) [Tn usu passive ] restrict the utterance of (sth) （）: a strangled (ie partly suppressed) cry .
 
- > strangler n person who strangles sb 扼死他人的人; 压制者.
+ > strangler n person who strangles sb ; .
 
- # `stranglehold n (a) strangling grip 扼制; 压制; 束缚. (b) (usu sing 通常作单数) ~ (on sth) (fig 比喻) firm control, making it impossible for sth to grow or develop properly 控制某事物; 使某事物不能正常成长或发展: The new tariffs have put a stranglehold on trade. 新的关税制对开展贸易极为不利.
+ # `stranglehold n (a) strangling grip ; ; . (b) (usu sing ) ~ (on sth) (fig ) firm control, making it impossible for sth to grow or develop properly ; : The new tariffs have put a stranglehold on trade. .
 From Longman DOCE 5th Ed. (En-En)
 strangle
 stran‧gle /ˈstræŋɡəl/ BrE  AmE  verb [transitive]
@@ -2250,9 +2250,9 @@ over- [over-] BrE [ˈəʊvə(r)]  NAmE [ˈoʊvər]  prefix
 From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 over-
 
-pref 前缀 
- (with ns forming ns, vs, adjs and advs 与名词结合构成名词、动词、形容词和副词) above; outside; across 在上; 在外; 越过: overcoat * overhang * overall * overhead. Cf 参看 super-. 
- (used widely with vs, ns, adjs and advs 与许多动词、名词、形容词和副词连用) to excess; too much 过度; 过多: overeat * overwork * overtime * over-rich * over-aggressively. Cf 参看 hyper-.
+pref  
+ (with ns forming ns, vs, adjs and advs 、、) above; outside; across ; ; : overcoat * overhang * overall * overhead. Cf  super-. 
+ (used widely with vs, ns, adjs and advs 、、) to excess; too much ; : overeat * overwork * overtime * over-rich * over-aggressively. Cf  hyper-.
 From Longman DOCE 5th Ed. (En-En)
 over-
 over- /əʊvə $ oʊvər/ BrE  AmE  prefix
@@ -2277,7 +2277,7 @@ Main entry: ↑fallderived
 
 beware
 
- / bI5weE(r); bI`wZr/ v [I, Ipr] (used only in the infinitive and imperative 仅用于不定式及祈使句) ~ (of sb/sth) be cautious (of sb/sth); take care (about sb/sth) 谨防（某人[某事物]）; 当心（某人[某事物]）: He told us to beware (of pickpockets, the dog, icy roads). 他告诉我们要当心（小偷、狗、结冰的道路）. * Beware wet paint! 注意--油漆未干!
+ / bI5weE(r); bI`wZr/ v [I, Ipr] (used only in the infinitive and imperative ) ~ (of sb/sth) be cautious (of sb/sth); take care (about sb/sth) （[]）; （[]）: He told us to beware (of pickpockets, the dog, icy roads). （、、）. * Beware wet paint! --!
 From Longman DOCE 5th Ed. (En-En)
 beware
 be‧ware /bɪˈweə $ -ˈwer/ BrE  AmE  verb [intransitive, transitive only in imperative and infinitive]
@@ -2451,8 +2451,8 @@ Example Bank:
 From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 attentive
 
- / E5tentIv; E`tZntIv/ adj ~ (to sb/sth) giving attention (to sb/sth); alert and watchful （对某人[某事物]）注意的; 留心的; 警惕的: an attentive audience 聚精会神的听众[观众] * A good hostess is always attentive to the needs of her guests. 好客的女主人能随时留心客人的需要.
- > attentively adv: listening attentively to the speaker 专心地听着演讲人的话.
+ / E5tentIv; E`tZntIv/ adj ~ (to sb/sth) giving attention (to sb/sth); alert and watchful （[]）; ; : an attentive audience [] * A good hostess is always attentive to the needs of her guests. .
+ > attentively adv: listening attentively to the speaker .
  
  make it big
 make it big idiom informal
@@ -2463,13 +2463,13 @@ Main entry: bigidiom
 propagate
 
  / 5prCpEgeIt; `prBpE9^et/ v 
- [Tn] increase the number of (plants, animals, etc) by a natural processfrom the parent stock 繁殖（动植物等）; 使增殖: propagate plants from seeds and cuttings 由种子和枝条繁殖植物 * propagate plants by taking cuttings 藉插枝繁殖植物. 
- [I, Tn] (of plants) reproduce (themselves) （指植物）繁殖, 繁衍, 增殖: Plants won't propagate in these conditions.植物在这种条件下不能繁殖. * Trees propagate themselves by seeds. 树木靠种子繁衍. 
- [Tn] (fml 文) spread (views, knowledge, beliefs, etc) more widely 传播（观点、知识、信仰等）: Missionaries went far afield to propagate their faith. 传教士到远方去传播其信仰. 
- [Tn] (fml 文) cause or allow (sth) to pass through sth; transmit 促使或准许（某物）通过他物; 传导; 传送: propagate vibrations through rock 通过岩石传导震动.
+ [Tn] increase the number of (plants, animals, etc) by a natural processfrom the parent stock （）; : propagate plants from seeds and cuttings  * propagate plants by taking cuttings . 
+ [I, Tn] (of plants) reproduce (themselves) （）, , : Plants won't propagate in these conditions.. * Trees propagate themselves by seeds. . 
+ [Tn] (fml ) spread (views, knowledge, beliefs, etc) more widely （、、）: Missionaries went far afield to propagate their faith. . 
+ [Tn] (fml ) cause or allow (sth) to pass through sth; transmit （）; ; : propagate vibrations through rock .
 
- > propagation / 9prCpE5geIFn; 9prBpE`^eFEn/ n [U] propagating or being propagated 繁殖; 增殖; 传播; 传送: the propagation of plants from cuttings 植物的插枝繁殖.
- propagator person or thing that propagates 繁殖者; 传播者: tomato plants growing in a propagator 在繁育场中栽培的西红柿植株.
+ > propagation / 9prCpE5geIFn; 9prBpE`^eFEn/ n [U] propagating or being propagated ; ; ; : the propagation of plants from cuttings .
+ propagator person or thing that propagates ; : tomato plants growing in a propagator .
 From Longman DOCE 5th Ed. (En-En)
 propagate
 prop‧a‧gate /ˈprɒpəɡeɪt $ ˈprɑː-/ BrE  AmE  verb formal
@@ -2485,19 +2485,19 @@ prop‧a‧gate /ˈprɒpəɡeɪt $ ˈprɑː-/ BrE  AmE  verb formal
  barge 1
 
 1 / bB:dV; bBrdV/ n 
- large flat-bottomed boat for carrying goods and people on rivers, canals, etc 驳船（河流、运河等中载运客货的大型平底船）. 
- large ornamental rowing-boat for ceremonial occasions （举行庆典时使用的）大型彩饰划艇, 画舫.
+ large flat-bottomed boat for carrying goods and people on rivers, canals, etc （、）. 
+ large ornamental rowing-boat for ceremonial occasions （）, .
 
- > bargee / bB:5dVi:; 9bBr`dVi/ n (Brit) (US bargeman)(a) person in charge of a barge 驳船或大划艇上撑船的人. (b) member of a barge's crew 驳船或大划艇的船夫.
+ > bargee / bB:5dVi:; 9bBr`dVi/ n (Brit) (US bargeman)(a) person in charge of a barge . (b) member of a barge's crew .
 
  # `barge-pole n 
- long pole used for guiding a barge 驳船上用的撑篙. 
- (idm 习语) not touch sb/sth with a barge-pole => touch2.
+ long pole used for guiding a barge . 
+ (idm ) not touch sb/sth with a barge-pole => touch2.
 barge 2
 
-2 / bB:dV; bBrdV/ v (infml 口) 
- [I, Ipr, Ip] rush or bump heavily and clumsily 鲁莽而大力地冲撞: Stop barging (into people)! 别撞（人）! * He barged past me in the queue. 我在排队时他在我面前硬挤过去了. 
- (phr v) barge about move about heavily and clumsily 到处乱闯. barge in/into sth enter or interrupt sth rudely or clumsily 蛮不讲理地闯入或打扰某事物: I tried to stop him coming through the door but he just barged (his way) in. 我想拦住他, 不让他进门, 可是他硬闯进来了. * Don't barge into the conversation. 别插嘴.
+2 / bB:dV; bBrdV/ v (infml ) 
+ [I, Ipr, Ip] rush or bump heavily and clumsily : Stop barging (into people)! （）! * He barged past me in the queue. . 
+ (phr v) barge about move about heavily and clumsily . barge in/into sth enter or interrupt sth rudely or clumsily : I tried to stop him coming through the door but he just barged (his way) in. , , . * Don't barge into the conversation. .
 From Longman DOCE 5th Ed. (En-En)
 barge
 I. barge1 /bɑːdʒ $ bɑːrdʒ/ BrE  AmE  noun
@@ -2517,21 +2517,21 @@ barge in on
  fever
 
  / 5fi:vE(r); `fivL/ n 
- [C, U] abnormally high body temperature, esp as a sign of illness 发烧; 发热: He has a high fever. 他发高烧. * Aspirin can reduce fever. 阿司匹林可以退烧. 
- [U] specified disease in which (a) fever occurs 热病: yellow, typhoid, rheumatic, etc fever 黄热病、伤寒、风湿热. 
- [sing] (state of) nervous excitement or agitation 兴奋; 激动: He waited for her arrival in a fever of impatience. 他激动不安地等待她到来. 
- (idm 习语) at/to `fever pitch at/to a high level of excitement 高度兴奋; 极为激动: The speaker brought the crowd to fever pitch. 演讲者激起群众高昂的情绪.
+ [C, U] abnormally high body temperature, esp as a sign of illness ; : He has a high fever. . * Aspirin can reduce fever. . 
+ [U] specified disease in which (a) fever occurs : yellow, typhoid, rheumatic, etc fever 、、. 
+ [sing] (state of) nervous excitement or agitation ; : He waited for her arrival in a fever of impatience. . 
+ (idm ) at/to `fever pitch at/to a high level of excitement ; : The speaker brought the crowd to fever pitch. .
 
- > fevered adj [attrib 作定语] 
- affected by or suffering from a fever 发烧的; 发热的: She cooled her child's fevered brow. 她给孩子滚烫的额头降温. 
- highly excited 激动的; 高度兴奋的: a fevered imagination 奔放的想像力.
+ > fevered adj [attrib ] 
+ affected by or suffering from a fever ; : She cooled her child's fevered brow. . 
+ highly excited ; : a fevered imagination .
  feverish / 5fi:vErIF; `fivErIF/ adj 
- having a fever; caused or accompanied by a fever 发烧的; 发烧引起的; 伴有发烧的: The child's body felt feverish. 这孩子身上发烧. * During her illness she had feverish dreams. 她生病期间因发烧而做梦. 
- excited; restless 激动的; 焦躁不安的: with feverish haste 急匆匆地. feverishly adv very quickly or excitedly 心急如焚地: searching feverishly for her missing jewels 心急火燎地寻找她丢失的珠宝.
+ having a fever; caused or accompanied by a fever ; ; : The child's body felt feverish. . * During her illness she had feverish dreams. . 
+ excited; restless ; : with feverish haste . feverishly adv very quickly or excitedly : searching feverishly for her missing jewels .
  
  measly
 
- / 5mi:zlI; `mizlI/ adj (infml derog 口, 贬) ridiculously small in size, amount or value （大小、数量或价值）微不足道的: He gave us measly little portions of cake. 他给了我们少得可怜的一点蛋糕. * What a measly birthday present! 多么小气的生日礼物哇!
+ / 5mi:zlI; `mizlI/ adj (infml derog , ) ridiculously small in size, amount or value （、）: He gave us measly little portions of cake. . * What a measly birthday present! !
 From Longman DOCE 5th Ed. (En-En)
 measly
 meas‧ly /ˈmiːzli/ BrE  AmE  adjective informal
@@ -2541,7 +2541,7 @@ very small and disappointing in size, quantity, or value – used to show disapp
  
  implicate
 
- / 5ImplIkeIt; `ImplI9ket/ v [Tn, Tn.pr] ~ sb (in sth) show that sb is involved in sth, esp a crime 显示某人牵连于某事（尤指罪行）; 涉及: His enemies tried to implicate him (in the murder). 他的仇人竭力想把他牵扯进谋杀案中. * He was deeply implicated (ie involved) in the plot. 他与该阴谋牵涉颇深.
+ / 5ImplIkeIt; `ImplI9ket/ v [Tn, Tn.pr] ~ sb (in sth) show that sb is involved in sth, esp a crime （）; : His enemies tried to implicate him (in the murder). . * He was deeply implicated (ie involved) in the plot. .
 From Longman DOCE 5th Ed. (En-En)
 implicate
 im‧pli‧cate AC /ˈɪmpləkeɪt, ˈɪmplɪkeɪt/ BrE  AmE  verb [transitive]
@@ -2558,15 +2558,15 @@ be implicated in something
  snort
 
  / snR:t; snRrt/ v 
- [I] (usu of animals, esp horses) force air out through the nostrils with a loud noise （通常指动物, 尤指马）喷鼻息作声, 打响鼻. 
- [I, Ipr] ~ (at sb/sth) (of people) do this to show impatience, contempt, disgust, amusement, etc （指人）发哼声（喷鼻息表示不耐烦、蔑视、厌恶、欢娱等）: snort with rage (at sb/sth) （对某人[某事物]）愤怒地哼了一声 * snort with mirth at the suggestion 对该建议高兴地哼了一声. 
- (sl 俚) sniff (drugs) 从鼻孔吸入（毒品）: snort cocaine 从鼻孔吸入可卡因.
+ [I] (usu of animals, esp horses) force air out through the nostrils with a loud noise （, ）, . 
+ [I, Ipr] ~ (at sb/sth) (of people) do this to show impatience, contempt, disgust, amusement, etc （）（、、、）: snort with rage (at sb/sth) （[]） * snort with mirth at the suggestion . 
+ (sl ) sniff (drugs) （）: snort cocaine .
 
  > snort n 
- act or sound of snorting 喷鼻息; 打响鼻; 发哼声; （从鼻孔）吸毒: give a snort of contempt 轻蔑地哼了一声 * She could not conceal a snort of laughter. 她忍不住扑哧一笑. 
- (infml 口) small drink of alcohol swallowed in one gulp （供一口喝下的）一小杯酒. 
- (sl 俚) small amount of a drug that is sniffed （用鼻孔吸入的）少量毒品: a quick snort of cocaine 用鼻孔匆匆吸些可卡因.
- snorter n (esp sing 尤作单数) (infml 口) thing that is remarkably impressive, violent, difficult, etc 极感人、激烈、困难...的事物: She sent me a real snorter of a letter. 她给我寄来一封异乎寻常的信.
+ act or sound of snorting ; ; ; （）: give a snort of contempt  * She could not conceal a snort of laughter. . 
+ (infml ) small drink of alcohol swallowed in one gulp （）. 
+ (sl ) small amount of a drug that is sniffed （）: a quick snort of cocaine .
+ snorter n (esp sing ) (infml ) thing that is remarkably impressive, violent, difficult, etc 、、...: She sent me a real snorter of a letter. .
 From Longman DOCE 5th Ed. (En-En)
 snort
 I. snort1 /snɔːt $ snɔːrt/ BrE  AmE  verb
@@ -2595,9 +2595,9 @@ turn loose - Wiktionary
 
 commiserate
 
- / kE5mIzEreIt; kE`mIzE9ret/ v [I, Ipr] ~ (with sb) (on/over sth) (fml 文) feel, or say that one feels, sympathy 同情; 怜悯: I commiserated with her on the loss of her job. 她失去了工作, 我很同情她.
+ / kE5mIzEreIt; kE`mIzE9ret/ v [I, Ipr] ~ (with sb) (on/over sth) (fml ) feel, or say that one feels, sympathy ; : I commiserated with her on the loss of her job. , .
 
- > commiseration / kE9mIzE5reIFn; kE9mIzE`reFEn/ n [C usu pl, U 作可数名词时通常作复数, 亦作不可数名词] ~ (on/over sth) (fml or joc 文或谑) (expression of) sympathy for sb （对某人表示的）同情（的言语）: I expressed my commiserations on his misfortune. 我对他的不幸表示同情. * `I lost again.' `Commiserations (ie I am sorry)!' ‘我又赔钱了.’‘真遗憾! ’
+ > commiseration / kE9mIzE5reIFn; kE9mIzE`reFEn/ n [C usu pl, U , ] ~ (on/over sth) (fml or joc ) (expression of) sympathy for sb （）（）: I expressed my commiserations on his misfortune. . * `I lost again.' `Commiserations (ie I am sorry)!' ‘.’‘! ’
 From Longman DOCE 5th Ed. (En-En)
 commiserate
 com‧mis‧e‧rate /kəˈmɪzəreɪt/ BrE  AmE  verb [intransitive + with] formal
@@ -2617,11 +2617,11 @@ EXAMPLES FROM CORPUS
 
 covert 1
 
-1 / 5kQvEt; ?@ 5kEUv\:rt; `kovLt/ adj concealed; not open; secret 隐蔽的; 不公开的; 秘密的: covert glances, threats, payments 偷偷的一瞥、暗中的威胁、秘密的付款 * the covert activities of a spy 间谍的秘密活动.
- > covertly adv. Cf 参看 overt.
+1 / 5kQvEt; ?@ 5kEUv\:rt; `kovLt/ adj concealed; not open; secret ; ; : covert glances, threats, payments 、、 * the covert activities of a spy .
+ > covertly adv. Cf  overt.
 covert 2
 
-2 / 5kQvE(r); `kQvLt/ n area of thick low bushes, trees, etc in which animals, esp hunted animals, hide 动物（尤指猎物）藏身的矮树丛、树林等. Cf 参看 cover2 10.
+2 / 5kQvE(r); `kQvLt/ n area of thick low bushes, trees, etc in which animals, esp hunted animals, hide （）、. Cf  cover2 10.
 From Longman DOCE 5th Ed. (En-En)
 covert
 I. cov‧ert1 /ˈkʌvət, ˈkəʊvɜːt $ ˈkoʊvərt/ BrE  AmE  adjective
@@ -2644,12 +2644,12 @@ a group of thick bushes where animals can hide
 
  cradle
  / 5kreIdl; `kredl/ n 
- small bed for a baby, usu shaped like a box with curved parts underneath so that it can move from side to side 摇篮: The mother rocked the baby to sleep in its cradle. 母亲摇动摇篮使婴儿入睡. =>illus at App 1 见附录1之插图, page xvi. 
- ~ of sth (usu sing 通常作单数) (fig 比喻) place where sth begins 发源地; 策源地; 发祥地: Greece, the cradle of Western culture. 希腊, 西方文化的发源地. 
- (a) framework that looks like or is used like a cradle, eg the structure on which a ship rests while it is being repaired or built 形状或用途近似摇篮的框架（如修造船舶时用以支承的托架）. (b) platform that can be moved up and down an outside wall by means of ropes and pulleys, used by window-cleaners, painters, etc （擦窗工人、油漆工人等使用的依靠绳索及滑轮可沿外墙上下移动的）吊架, 吊篮. 
- part of a telephone on which the receiver rests （电话机的）听筒架, 叉簧. 
- (idm 习语) from the ,cradle to the `grave from birth to death 从生到死; 一生.
- > cradle v [Tn, Tn.pr] ~ sb/sth (in sth) place or hold sb/sth (as if) in a cradle 将某人[某物]（如同）置于摇篮中: cradle a child in one's arms, ie hold it gently, esp rocking it from side to side 把孩子抱在怀里轻轻摇晃.
+ small bed for a baby, usu shaped like a box with curved parts underneath so that it can move from side to side : The mother rocked the baby to sleep in its cradle. . =>illus at App 1 1, page xvi. 
+ ~ of sth (usu sing ) (fig ) place where sth begins ; ; : Greece, the cradle of Western culture. , . 
+ (a) framework that looks like or is used like a cradle, eg the structure on which a ship rests while it is being repaired or built （）. (b) platform that can be moved up and down an outside wall by means of ropes and pulleys, used by window-cleaners, painters, etc （、）, . 
+ part of a telephone on which the receiver rests （）, . 
+ (idm ) from the ,cradle to the `grave from birth to death ; .
+ > cradle v [Tn, Tn.pr] ~ sb/sth (in sth) place or hold sb/sth (as if) in a cradle []（）: cradle a child in one's arms, ie hold it gently, esp rocking it from side to side .
  
  
  come up with (something)
@@ -2663,8 +2663,8 @@ come up with something phrasal verb (see also ↑come)
  
  underpin
  / 9QndE5pIn; 9QndL`pIn/ v (-nn-) [Tn] 
- support (a wall, etc) from below with masonry, etc 用砖石结构等从下面支撑（墙等）; 加固（墙等）的基础. 
- (fig 比喻) form the basis for (an argument, a claim, etc); strengthen 为（论据、主张等）打下基础; 加强; 巩固: The evidence underpinning his case was sound. 有利于他的证据是确凿的. * These developments are underpinned by solid progress in heavy industry. 重工业的稳固发展为这些进展打下了基础.
+ support (a wall, etc) from below with masonry, etc （）; （）. 
+ (fig ) form the basis for (an argument, a claim, etc); strengthen （、）; ; : The evidence underpinning his case was sound. . * These developments are underpinned by solid progress in heavy industry. .
 From Longman DOCE 5th Ed. (En-En)
 underpin
 un‧der‧pin /ˌʌndəˈpɪn $ -ər-/ BrE  AmE  verb (past tense and past participle underpinned, present participle underpinning) [transitive]
@@ -2680,7 +2680,7 @@ not having an obvious order or plan
 • He tackled the problem in a typically haphazard manner.
 haphazard
 haphazard
- / hAp5hAzEd; 9hAp`hAzLd/ adj without plan or order; random 无计画的; 无秩序的; 任意的: books piled on shelves in a haphazard fashion 乱七八糟地堆在书架上的书籍.
+ / hAp5hAzEd; 9hAp`hAzLd/ adj without plan or order; random ; ; : books piled on shelves in a haphazard fashion .
  > haphazardly adv.
 From Longman DOCE 5th Ed. (En-En)
 haphazard
@@ -2741,9 +2741,9 @@ EXAMPLES FROM OTHER ENTRIES
 ▪ These days, the Marine Corps is very choosy about who joins.
 
 sneer
- / snIE(r); snIr/ v [I, Ipr] ~ (at sb/sth) smile with the upper lip curled, to show contempt (for sb/sth); laugh scornfully 嗤笑（某人[某事物]）; 嘲笑; 讥笑: sneer at one's supposed inferiors 嘲笑自以为不如自己的人 * I resent the way he sneers at our efforts. 我们已十分努力而他却讥笑我们, 我很反感. =>Usage at smirk 用法见smirk.
+ / snIE(r); snIr/ v [I, Ipr] ~ (at sb/sth) smile with the upper lip curled, to show contempt (for sb/sth); laugh scornfully （[]）; ; : sneer at one's supposed inferiors  * I resent the way he sneers at our efforts. , . =>Usage at smirk smirk.
 
- > sneer n look, smile, word, phrase, etc that shows contempt 表示轻蔑的表情、微笑、词语等: sneers of disbelief 表示不相信的嘲笑 * You can wipe that sneer off your face! 你还是收起你讥笑人的嘴脸吧!
+ > sneer n look, smile, word, phrase, etc that shows contempt 、、: sneers of disbelief  * You can wipe that sneer off your face! !
  sneeringly / 5snIErINlI; `snIrINlI/ adv.
 From Longman DOCE 5th Ed. (En-En)
 sneer
@@ -2774,12 +2774,12 @@ THESAURUS
 gauntlet 1
 
 1 / 5gR:ntlIt; `^RntlIt/ n 
- metal glove forming part of a suit of armour, worn by soldiers in the Middle Ages （中世纪武士铠甲的）金属手套. 
- strong glove with a wide covering for the wrist, used for driving, fencing, etc （驾驶、击剑等用的）长手套, 防护手套: motorcyclists with leather gauntlets 戴着皮护手套的摩托车手. =>illus at glove 见glove插图. 
- (idm 习语) pick up/take up the `gauntlet accept a challenge 接受挑战: He was quick to take up the gauntlet thrown down by the opposition. 他立刻接受了对方提出的挑战. throw down the `gauntlet challenge sb to do sth 向某人提出挑战.
+ metal glove forming part of a suit of armour, worn by soldiers in the Middle Ages （）. 
+ strong glove with a wide covering for the wrist, used for driving, fencing, etc （、）, : motorcyclists with leather gauntlets . =>illus at glove glove. 
+ (idm ) pick up/take up the `gauntlet accept a challenge : He was quick to take up the gauntlet thrown down by the opposition. . throw down the `gauntlet challenge sb to do sth .
 gauntlet 2
 
-2 / 5gR:ntlIt; `^RntlIt/ n (idm 习语) run the `gauntlet be exposed to danger, anger, or criticism 冒险; 受气; 受批评: Before getting the proposals accepted, the government had to run the gauntlet of hostility from its own supporters. 拥护政府的人对政府进行了尖锐的抨击之后, 这些建议才得以接受.
+2 / 5gR:ntlIt; `^RntlIt/ n (idm ) run the `gauntlet be exposed to danger, anger, or criticism ; ; : Before getting the proposals accepted, the government had to run the gauntlet of hostility from its own supporters. , .
 From Longman DOCE 5th Ed. (En-En)
 gauntlet
 gaunt‧let /ˈɡɔːntlət, ˈɡɔːntlɪt $ ˈɡɒːnt-/ BrE  AmE  noun
@@ -2795,11 +2795,11 @@ gaunt‧let /ˈɡɔːntlət, ˈɡɔːntlɪt $ ˈɡɒːnt-/ BrE  AmE  noun
 patronize, patronise
 
  / 5pAtrEnaIz; ?@ 5peIt-; `petrEn9aIz/ v[Tn] 
- treat (sb) as an inferior; treat (sb) in a condescending way 以高人一等的态度对待（某人）; 屈尊俯就对待（某人）: He resented the way she patronized him. 她待他那种屈尊纡贵的样子, 他十分愤恨. 
- (fml 文) be a regular customer of (a shop, etc) 作为老主顾经常去（某商店等）; 经常光顾、惠顾: The restaurant is patronized by politicians and journalists. 这家饭馆常有政治家和记者光顾. 
- act as a patron(1) to (sb/sth); support or encourage (sb/sth) 做（某人[某事物]）的赞助人; 资助、赞助或支持（某人[某事物]）.
+ treat (sb) as an inferior; treat (sb) in a condescending way （）; （）: He resented the way she patronized him. , . 
+ (fml ) be a regular customer of (a shop, etc) （）; 、: The restaurant is patronized by politicians and journalists. . 
+ act as a patron(1) to (sb/sth); support or encourage (sb/sth) （[]）; 、（[]）.
 
- > patronizing, -ising adj condescending 屈尊俯就的: a patronizing person, manner, attitude, smile, tone of voice 高人一等的人、派头、态度、笑容、腔调. patronizingly, -isingly adv.
+ > patronizing, -ising adj condescending : a patronizing person, manner, attitude, smile, tone of voice 、、、、. patronizingly, -isingly adv.
 From Longman DOCE 5th Ed. (En-En)
 patronize
 pat‧ron‧ize /ˈpætrənaɪz $ ˈpeɪ-, ˈpæ-/ BrE  AmE  verb [transitive]
@@ -2943,7 +2943,7 @@ LAYER
 
 ensnare
 
- / In5sneE(r); In`snZr/ v [Tn esp passive 尤用于被动语态, Tn.pr] ~ sb/sth (in sth) (often fig 常作比喻) catch sb/sth in, or as if in, a trap or snare 用陷阱或圈套捕捉某人[某物]: ensnared by love 陷入情网 * ensnare a rich husband 千方百计嫁予富翁.
+ / In5sneE(r); In`snZr/ v [Tn esp passive , Tn.pr] ~ sb/sth (in sth) (often fig ) catch sb/sth in, or as if in, a trap or snare []: ensnared by love  * ensnare a rich husband .
 From Longman DOCE 5th Ed. (En-En)
 ensnare
 en‧snare /ɪnˈsneə $ -ˈsner/ BrE  AmE  verb [transitive]
@@ -2963,12 +2963,12 @@ EXAMPLES FROM CORPUS
 
 subsist
 
- / sEb5sIst; sEb`sIst/ v [I, Ipr] ~ (on sth) (fml 文) (continue to) stay alive, esp with little food or money; exist （继续）存活, 活下去; （尤指藉微少的食物或金钱）维持生活; 生存: How do they manage to subsist (on such a low wage)? 他们（区区这点工资）怎样餬口? * He subsisted mainly on vegetables and fruit. 他主要依靠蔬菜和水果维持生命.
+ / sEb5sIst; sEb`sIst/ v [I, Ipr] ~ (on sth) (fml ) (continue to) stay alive, esp with little food or money; exist （）, ; （）; : How do they manage to subsist (on such a low wage)? （）? * He subsisted mainly on vegetables and fruit. .
 
- > subsistence / -tEns; -tEns/ n [U] (means of) subsisting 存活; 生存; 生计; 维生之道: reduced to subsistence on bread and water 降到以面包和水维持生活 * [attrib 作定语] subsistence farming, ie farming that produces only enough crops for the farmer and his family to live on, leaving no surplus which could besold 自给农业（收成仅供自家食用, 无剩余出售者） * a subsistence wage, ie one that is only just enough to enable a worker to live 勉强餬口的工资.
+ > subsistence / -tEns; -tEns/ n [U] (means of) subsisting ; ; ; : reduced to subsistence on bread and water  * [attrib ] subsistence farming, ie farming that produces only enough crops for the farmer and his family to live on, leaving no surplus which could besold （, ） * a subsistence wage, ie one that is only just enough to enable a worker to live .
 
- # sub`sistence crop crop grown to be eaten by the grower 自给作物（供种植者自身食用的）. Cf 参看 cash crop (cash).
- sub`sistence level standard of living that is only just high enough to support life 勉强餬口的生活水平.
+ # sub`sistence crop crop grown to be eaten by the grower （）. Cf  cash crop (cash).
+ sub`sistence level standard of living that is only just high enough to support life .
 From Longman DOCE 5th Ed. (En-En)
 subsist
 sub‧sist /səbˈsɪst/ BrE  AmE  verb [intransitive]
@@ -3005,30 +3005,30 @@ snap out of (something)
 snap out of something phrasal verb (see also ↑snap)
 to stop being sad or upset and make yourself feel better:
  Chantal’s been depressed for days. I wish she’d snap out of it.
-  (idm 习语) bite/snap sb's head off => head1. snap one's `fingers make a clicking noise by moving the second or third finger quickly against the thumb (eg to attract sb's attention, mark the beat of music, etc) 打榧子（用食指或中指捻碰拇指发声, 如为引人注意或打音乐拍子等）: He snapped his fingers to attract the waiter. 他打了个榧子招呼服务员. ,snap to at`tention come quickly and smartly to the position of attention(4) 利落地立正. ,snap `to it (infml 口) (usu as a command 通常作命令语) start moving, working, etc quickly; hurry up 快走; 快干; 赶快: `I want those bricks moved; come on, snap to it!' ‘那些砖得搬走; 来呀, 快!’ ,snap `out of it (infml 口) (often as a command 常作命令语) get (quickly) out of a (usu bad, unhappy, etc) mood （迅速）摆脱某种（通常指坏的、不愉快的...）情绪. 
- (phr v) snap at sb speak to sb sharply and rudely 厉声对某人说: `Shut up!' she snapped (back) at him. ‘住嘴!’她厉声顶（回）了他一句. * I'm sorry I snapped at you just now. 对不起, 我刚才不该对你嚷嚷. snap at sth try to grasp sth with the teeth by closing them quickly and sharply around it 一下子咬住: The fish snapped at the bait. 那鱼一下子咬住了鱼饵. * (fig 比喻) They snapped at (ie accepted eagerly) the chance of a cheap holiday. 他们欣然抓住这一少花钱度假的机会. snap sth out exclaim sth in a sharp or unpleasant way 厉声喊出: The sergeant snapped out an order. 中士大声发出命令. snap sth up buy or seize sth quickly and eagerly 抢购或迅速抓取某物: The cheapest articles at the sale were quickly snapped up. 大减价货物中最便宜的物品很快抢购一空.
+  (idm ) bite/snap sb's head off => head1. snap one's `fingers make a clicking noise by moving the second or third finger quickly against the thumb (eg to attract sb's attention, mark the beat of music, etc) （, ）: He snapped his fingers to attract the waiter. . ,snap to at`tention come quickly and smartly to the position of attention(4) . ,snap `to it (infml ) (usu as a command ) start moving, working, etc quickly; hurry up ; ; : `I want those bricks moved; come on, snap to it!' ‘; , !’ ,snap `out of it (infml ) (often as a command ) get (quickly) out of a (usu bad, unhappy, etc) mood （）（、...）. 
+ (phr v) snap at sb speak to sb sharply and rudely : `Shut up!' she snapped (back) at him. ‘!’（）. * I'm sorry I snapped at you just now. , . snap at sth try to grasp sth with the teeth by closing them quickly and sharply around it : The fish snapped at the bait. . * (fig ) They snapped at (ie accepted eagerly) the chance of a cheap holiday. . snap sth out exclaim sth in a sharp or unpleasant way : The sergeant snapped out an order. . snap sth up buy or seize sth quickly and eagerly : The cheapest articles at the sale were quickly snapped up. .
 snap 2
 2 / snAp; snAp/ n 
- [C] act or sound of snapping （物体）断裂、开或关（的声音）; （人）厉声说（的）话; 拍照（的快门声）; 突然咬住（的声音）: The dog made an unsuccessful snap at the meat. 那条狗没咬住肉. * The lid shut with a snap. 盖子啪嗒一声合上了. * The oar broke with a snap. 桨喀吧一声断了. 
- [C] short spell or period of (usu cold) weather 一阵（通常指寒冷的）天气: There was a cold snap after Christmas. 圣诞节后出现一段寒冷天气.
- (also snapshot) [C] photograph (usu one taken quickly with a hand-held camera) 照片（通常指用手提照相机拍摄的）: She showed us her holidaysnaps. 她给我们看了她假期的照片. 
- (usu in compounds通常用以构成复合词) type of small crisp biscuit 小的脆饼干: `ginger-snaps 姜味饼干 * `brandy-snaps 白兰地酒味饼干. 
- Snap [U] (Brit) card game in which players call out `Snap' when two similar cards are laid down together 喊‘对儿’纸牌游戏（亮出相同两张牌时, 玩牌者竞先喊出‘对儿’）: play a game of Snap 玩喊‘对儿’游戏. 
- [sing] (US infml 口) thing that is easy to do 轻而易举的事: This job's a snap. 这件工作很容易做.
+ [C] act or sound of snapping （）、（）; （）（）; （）; （）: The dog made an unsuccessful snap at the meat. . * The lid shut with a snap. . * The oar broke with a snap. . 
+ [C] short spell or period of (usu cold) weather （）: There was a cold snap after Christmas. .
+ (also snapshot) [C] photograph (usu one taken quickly with a hand-held camera) （）: She showed us her holidaysnaps. . 
+ (usu in compounds) type of small crisp biscuit : `ginger-snaps  * `brandy-snaps . 
+ Snap [U] (Brit) card game in which players call out `Snap' when two similar cards are laid down together ‘’（, ‘’）: play a game of Snap ‘’. 
+ [sing] (US infml ) thing that is easy to do : This job's a snap. .
 
- > snap adj [attrib 作定语] (infml 口) done, made, etc quickly and with little or no warning 匆忙的; 仓促的: a snap election 临时的选举 * take a snap vote 匆匆表决 * a snap decision 仓促的决定.
- snap interj (Brit infml 口) 
- (said in the game of Snap2(5) when one notices that two similar cards have been laid down 玩喊‘对儿’纸牌游戏（Snap2(5)）时, 见到相同两张牌时的呼喊声). 
- (said to draw attention to the similarity of two things 见到相同两事物时, 说snap以引起注意): Snap! You've got the same shoes as me. 嘿! 你的鞋跟我的一模一样.
- snap adv with a snapping sound 伴有断裂、开或关等声音: Suddenly the oar went snap, ie made a snapping sound as it broke. 桨突然啪的一声断了.
- snappish adj inclined to snap1(3); bad-tempered or irritable 厉声说话的; 脾气暴躁的; 易怒的: a snappish small terrier 暴躁的小狗 * a snappish old man 爱嚷嚷的男人.
+ > snap adj [attrib ] (infml ) done, made, etc quickly and with little or no warning ; : a snap election  * take a snap vote  * a snap decision .
+ snap interj (Brit infml ) 
+ (said in the game of Snap2(5) when one notices that two similar cards have been laid down ‘’（Snap2(5)）, ). 
+ (said to draw attention to the similarity of two things , snap): Snap! You've got the same shoes as me. ! .
+ snap adv with a snapping sound 、: Suddenly the oar went snap, ie made a snapping sound as it broke. .
+ snappish adj inclined to snap1(3); bad-tempered or irritable ; ; : a snappish small terrier  * a snappish old man .
  snappy adj (-ier, -iest) 
- inclined to snap1(3); irritable 厉声说话的; 易怒的: a snappy little dog 暴躁的小狗 * She's always snappy early in the morning. 她总是一大早就嚷嚷. 
- (infml 口) lively; quick 活泼的; 利落的: snappy on her feet 她的脚步利索 * a snappy dancer 活泼的跳舞的人. 
- (infml 口) [usu attrib 通常作定语] smart; trendy 帅气的; 漂亮的; 时髦的: a snappy outfit 漂亮的全套服装 * She's a very snappy dresser, ie She dresses very smartly and trendily. 她衣着很入时. 
- (idm 习语) ,make it `snappy (also ,look `snappy) (infml 口) (often as a command 常作命令语) hurry up; be quick about it 赶快; 快点儿: Look snappy! The bus is coming. 快点儿! 公共汽车来了. * You'll have to make it snappy if you want to come too. 你也想来的话就得快点儿. snappily adv: `Go away,' she said snappily. ‘走开,’她厉声地说. snappiness n [U].
+ inclined to snap1(3); irritable ; : a snappy little dog  * She's always snappy early in the morning. . 
+ (infml ) lively; quick ; : snappy on her feet  * a snappy dancer . 
+ (infml ) [usu attrib ] smart; trendy ; ; : a snappy outfit  * She's a very snappy dresser, ie She dresses very smartly and trendily. . 
+ (idm ) ,make it `snappy (also ,look `snappy) (infml ) (often as a command ) hurry up; be quick about it ; : Look snappy! The bus is coming. ! . * You'll have to make it snappy if you want to come too. . snappily adv: `Go away,' she said snappily. ‘,’. snappiness n [U].
 
- # `snap fastener (also `press stud, Brit infml 英式口语作 popper) device made of two small round metal or plastic parts that are pressed together to fasten dresses, skirts, etc 子母扣儿; 摁扣儿: the press stud on the collar of his evening shirt 他晚礼服衬衫领口上的摁扣儿 * the poppers on a child's pyjamas 儿童睡衣上的子母扣儿.
+ # `snap fastener (also `press stud, Brit infml  popper) device made of two small round metal or plastic parts that are pressed together to fasten dresses, skirts, etc ; : the press stud on the collar of his evening shirt  * the poppers on a child's pyjamas .
  `snapshot n = snap 3.
  
  diddle
@@ -3145,7 +3145,7 @@ THESAURUS
 ▪ contend formal to claim that something is true, especially when other people disagree with you: Lawyers contend that his back problems were due to an existing injury, not the accident. | It is possible, as Kennedy contends, that her medical condition is caused by her work.
 
 impede
- / Im5pi:d; Im`pid/ v [Tn] hinder or obstruct the progress or movement of (sb/sth) 阻碍, 妨碍, 阻止（某人[某事物]）: The development of the project was seriouslyimpeded by a reduction in funds. 由于基金削减工程进度严重受阻.
+ / Im5pi:d; Im`pid/ v [Tn] hinder or obstruct the progress or movement of (sb/sth) , , （[]）: The development of the project was seriouslyimpeded by a reduction in funds. .
  
  impede
 impede UK  US  [ɪmˈpiːd] formal verb transitive [impedes impeding impeded]
@@ -3195,10 +3195,10 @@ taint of
  The city has suffered for many years under the taint of corruption.
  taint
 
- / teInt; tent/ n [C, U] trace of some bad quality or decay or infection （坏的、腐败的或感染的）迹象, 痕迹, 因素: a taint of insanity in the family 家族中有精神病遗传素质 * meat free from taint 新鲜的肉.
+ / teInt; tent/ n [C, U] trace of some bad quality or decay or infection （、）, , : a taint of insanity in the family  * meat free from taint .
 
- > taint v [esp passive 尤用于被动语态: Tn, Tn.pr] ~ sth (with sth) affect sth with a taint （坏的因素）影响某事物: tainted meat 腐肉 * His reputation was tainted by the scandal. 那一丑闻玷污了他的名声.
- taintless adj without taint; pure 无污点的; 纯洁的.
+ > taint v [esp passive : Tn, Tn.pr] ~ sth (with sth) affect sth with a taint （）: tainted meat  * His reputation was tainted by the scandal. .
+ taintless adj without taint; pure ; .
  
  fidgety
 fid‧get‧y /ˈfɪdʒəti, ˈfɪdʒɪti/ BrE  AmE  adjective informal
@@ -3240,15 +3240,15 @@ hippie, hippy UK  US  [ˈhɪp.i] noun countable [hippies]
 a person, typically young, especially in the late 1960s and early 1970s, who believed in peace, was opposed to many of the accepted ideas about how to live, had long hair, and often lived in groups and took drugs
 
 laggard
- / 5lAgEd; `lA^Ld/ n person who lags behind 迟到者; 落后者: He's no laggard when it comes to asking for more money, ie He is very quick to do this. 到多要钱时他可不甘后人.
+ / 5lAgEd; `lA^Ld/ n person who lags behind ; : He's no laggard when it comes to asking for more money, ie He is very quick to do this. .
  
  entourage
- / 9CntU5rB:V; 9BntJ`rBV/ n [CGp] all those who accompany and attend an important person 随从; 随行人员: the President and his entourage 总统及其随从 * (fig 比喻) She always has an entourage of admiring young men. 她周围总是簇拥着追求她的年轻人.
+ / 9CntU5rB:V; 9BntJ`rBV/ n [CGp] all those who accompany and attend an important person ; : the President and his entourage  * (fig ) She always has an entourage of admiring young men. .
  
  rebuke
- / rI5bju:k; rI`bjuk/ v [Tn, Tn.pr] ~ sb (for sth) express sharp or severe disapproval to sb, esp officially; reprove sb 指摘或非难某人: My boss rebuked me for coming to work late. 我的上司指摘我上班迟到.
+ / rI5bju:k; rI`bjuk/ v [Tn, Tn.pr] ~ sb (for sth) express sharp or severe disapproval to sb, esp officially; reprove sb : My boss rebuked me for coming to work late. .
 
- > rebuke n act of rebuking sb; reproof 指摘; 非难; 责难: administer a stern rebuke 予以严厉的谴责.
+ > rebuke n act of rebuking sb; reproof ; ; : administer a stern rebuke .
  
   censure
 cen·sure [censure censures censured censuring] noun, verb BrE [ˈsenʃə(r)] NAmE [ˈsenʃər] 
@@ -3295,7 +3295,7 @@ to change your opinion completely, especially because you know it will bring you
 • He was against the idea to start with, but he soon changed his tune when he realized how much money he'd get.
 
 debunk
- / 9di:5bQNk; di`bQNk/ v [Tn] show that the reputation of (a person, an idea, an institution, etc) is undeserved or exaggerated 揭穿（某人、某思想、某机构等）名不副实: debunk fashionable opinions 指出流行一时的说法的不是.
+ / 9di:5bQNk; di`bQNk/ v [Tn] show that the reputation of (a person, an idea, an institution, etc) is undeserved or exaggerated （、、）: debunk fashionable opinions .
  debunk
 explode/dispel/debunk a myth (=show that it is not true)
 ▪ Our goal is to debunk the myth that science is boring.
@@ -3340,16 +3340,16 @@ body of
 in a body (=as a group, together)
  The women moved towards the building in a body.
   # `body-blow n 
- (in boxing) blow to the body(3) （拳击中）（向对手身体的）打击. 
- (fig 比喻) severe disappointment or set-back （极大的）失望, 挫折: The death of its leader was a body-blow to the party. 领袖的逝世对党是巨大的损失.
- `body-building n [U] strengthening the muscles of the body through exercise （通过锻炼）增强体质.
- `body clock biological mechanism that automatically controls various recurring functions of the human body, eg the need to sleep 生物钟（自动控制人体各种周期性节律的生物机制, 如睡眠的需要）: I only arrived in London yesterday and my body clock is still on New York time. 我昨天刚到伦敦, 而我的生物钟仍然是纽约时间.
- `body language expressing how one feels by the way one sits, stands, moves, etc rather than by words 身势语, 身体语言（通过坐、站、移动等动作表达意思）.
- `bodyline n [U] (in cricket) type of bowling in which the ball is aimed at the batsman's body rather than at the wicket （板球）瞄准击球员身体（而不瞄准三柱门）的投球.
- `body odour (abbr 缩写 BO) smell of the human body, esp when unwashed, often regarded as unpleasant 人体的气味（尤指未沐浴者, 常指难闻的）; 体臭; 狐臭.
- the ,body `politic the State as an organized group of citizens 国家（政治上组织起来的全体人民）.
- `body-snatcher n (formerly) person stealing corpses from graves and selling them for dissection （旧时）掘墓盗尸者（将尸体出卖供解剖用）.
- `body stocking woman's undergarment covering the body(3) and legs （女用）全身内衣.
+ (in boxing) blow to the body(3) （）（）. 
+ (fig ) severe disappointment or set-back （）, : The death of its leader was a body-blow to the party. .
+ `body-building n [U] strengthening the muscles of the body through exercise （）.
+ `body clock biological mechanism that automatically controls various recurring functions of the human body, eg the need to sleep （, ）: I only arrived in London yesterday and my body clock is still on New York time. , .
+ `body language expressing how one feels by the way one sits, stands, moves, etc rather than by words , （、、）.
+ `bodyline n [U] (in cricket) type of bowling in which the ball is aimed at the batsman's body rather than at the wicket （）（）.
+ `body odour (abbr  BO) smell of the human body, esp when unwashed, often regarded as unpleasant （, ）; ; .
+ the ,body `politic the State as an organized group of citizens （）.
+ `body-snatcher n (formerly) person stealing corpses from graves and selling them for dissection （）（）.
+ `body stocking woman's undergarment covering the body(3) and legs （）.
  
  sew
 sew S3 /səʊ $ soʊ/ BrE  AmE  verb (past tense sewed, past participle sewn /səʊn $ soʊn/ or sewed) [intransitive and transitive]
@@ -3368,11 +3368,11 @@ sew something ↔ up phrasal verb
 3. have something sewn up to have gained control over a situation so that you are sure to win or get what you want:
  It looks like the Democrats have the election sewn up.
   / sEU; so/ v (pt sewed, pp sewn / sEUn; son/ or sewed) 
- (a) [I, Ipr] make stitches in cloth, etc with a needle and thread （用针线）缝: sitting sewing by the fire 坐在火炉旁不停地缝着 * sew by hand/by machine 用手[用机器]缝 * sew round the hem 缝边 * sew over the seam again 在缝合处再缝一次. (b) [Tn, Tn.pr, Tn.p] make or attach or fasten (sth) by stitching 缝制或缝上或缝合（某物）: sew a dress, skirt, etc 缝制连衣裙、裙子等 * a hand-sewn shirt 手工缝的衬衫 * sew a button onto the shirt 把钮扣缝在衬衫上 * sew the parts of the shirt together 把衬衫各部分缝在一起 * sew the flap of the pocket down 缝上衣服口袋的盖儿. 
- (phr v) sew sth in/into sth enclose sth by sewing 将某物缝进去: sew money into the lining of a coat 把钱缝在大衣的衬里儿里. sew sth up (a) join or mend sth by sewing 缝合或缝补某物: sew up a hole in a sock 把袜子上的洞缝补好 * The suit was sewn up along the seams by hand. 这套衣服是手工缝的. (b) (esp passive 尤用于被动语态) (infml 口) arrange sth; settle sth 安排或解决某事: sew up a deal, project, etc 安排一交易、计画等 * By the end of the meeting everything should be nicely sewn up. 到会议结束时, 一切均应妥善解决.
+ (a) [I, Ipr] make stitches in cloth, etc with a needle and thread （）: sitting sewing by the fire  * sew by hand/by machine [] * sew round the hem  * sew over the seam again . (b) [Tn, Tn.pr, Tn.p] make or attach or fasten (sth) by stitching （）: sew a dress, skirt, etc 、 * a hand-sewn shirt  * sew a button onto the shirt  * sew the parts of the shirt together  * sew the flap of the pocket down . 
+ (phr v) sew sth in/into sth enclose sth by sewing : sew money into the lining of a coat . sew sth up (a) join or mend sth by sewing : sew up a hole in a sock  * The suit was sewn up along the seams by hand. . (b) (esp passive ) (infml ) arrange sth; settle sth : sew up a deal, project, etc 、 * By the end of the meeting everything should be nicely sewn up. , .
  > sewer / 5sEUE(r); `soL/ n. sewing n [U] 
- activity of sewing （用针线的）缝, 缝合, 缝纫. 
- work (clothes, etc) that is being sown 缝制的东西（衣物等）: Where is my sewing? 我的针线活儿在哪儿呢? * I've got a pile of sewing to do. 我有很多东西要缝. * a sewing table, basket, etc 裁缝案子、篮子等. `sewing-machine n machine for sewing 缝纫机.
+ activity of sewing （）, , . 
+ work (clothes, etc) that is being sown （）: Where is my sewing? ? * I've got a pile of sewing to do. . * a sewing table, basket, etc 、. `sewing-machine n machine for sewing .
  
  reap
 reap /riːp/ BrE  AmE  verb
@@ -3393,7 +3393,7 @@ to show that an idea or belief is false:
 From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 debunk
 
- / 9di:5bQNk; di`bQNk/ v [Tn] show that the reputation of (a person, an idea, an institution, etc) is undeserved or exaggerated 揭穿（某人、某思想、某机构等）名不副实: debunk fashionable opinions 指出流行一时的说法的不是.
+ / 9di:5bQNk; di`bQNk/ v [Tn] show that the reputation of (a person, an idea, an institution, etc) is undeserved or exaggerated （、、）: debunk fashionable opinions .
  
  revise verb
 1. T
@@ -3459,7 +3459,7 @@ Since solvent-based paints can off-gas for a long time as they dry, when trapped
 get in the way (third-person singular simple present gets in the way, present participle getting in the way, simple past got in the way, past participle (UK) got in the way or (US) gotten in the way)
 (intransitive) to obstruct, hinder, or interfere
 Chinese:
-Mandarin: 妨礙 (zh), 妨碍 (zh) (fáng'ài), 阻礙 (zh), 阻礙 (zh) (zǔ'ài)
+Mandarin:  (zh),  (zh) (fáng'ài),  (zh),  (zh) (zǔ'ài)
 
 sidetrack
 side‧track /ˈsaɪdtræk/ BrE  AmE  verb [transitive usually passive]
@@ -3478,11 +3478,11 @@ entice somebody/something to do something
  Our special offers are intended to entice people to buy.
 —enticement noun [uncountable and countable]
 entice
- / In5taIs; In`taIs/ v [Tn, Tn.pr, Tn.p, Cn.t] ~ sb (away) (from sth); ~ sb (into sth/doing sth) try to tempt or persuade sb, usu by offering sth pleasant or a reward 诱惑; 诱使; 怂恿: Advertisements are designed to entice people into spending money/to spend money. 广告宣传的目的是诱使人花钱. * He enticed the young girl away from home. 他把那小女孩诱惑得离开了家.
+ / In5taIs; In`taIs/ v [Tn, Tn.pr, Tn.p, Cn.t] ~ sb (away) (from sth); ~ sb (into sth/doing sth) try to tempt or persuade sb, usu by offering sth pleasant or a reward ; ; : Advertisements are designed to entice people into spending money/to spend money. . * He enticed the young girl away from home. .
  > enticement n 
- [U] enticing or being enticed 诱惑; 怂恿: the enticement of a child into a car 把一小孩哄进汽车里. 
- [C] thing that entices 诱惑物: There were so many enticements offered that I could not refuse the job. 这项工作有那么多优惠待遇, 使我难以拒绝.
- enticing adj attractive or tempting 有吸引力的; 迷人的; 诱人的: quite an enticing offer 很诱人的条件 * An enticing smell came from the bakery. 从面包房里飘出了诱人的香味. enticingly adv.
+ [U] enticing or being enticed ; : the enticement of a child into a car . 
+ [C] thing that entices : There were so many enticements offered that I could not refuse the job. , .
+ enticing adj attractive or tempting ; ; : quite an enticing offer  * An enticing smell came from the bakery. . enticingly adv.
  
  shut out
 shut out phrasal verb (see also ↑shut)
@@ -3548,7 +3548,7 @@ commune with somebody/something phrasal verb formal
  Take time to relax and commune with nature.
 From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 commune 1
-1 / kE5mju:n; kE`mjun/ v [I, Ipr, Ip] ~ (with sb/sth); ~ (together) talk to sb intimately; feel close to sb/sth 与某人亲密地交谈; 与某人[某事物]亲近: commune with one's friends 和朋友亲密谈心 * commune with God in prayer 祈祷时与上帝作灵的沟通 * walking in the woods, communing with nature 在林中散步, 沉浸于大自然中 * friends communing together 在一起亲密交谈的朋友 .
+1 / kE5mju:n; kE`mjun/ v [I, Ipr, Ip] ~ (with sb/sth); ~ (together) talk to sb intimately; feel close to sb/sth ; []: commune with one's friends  * commune with God in prayer  * walking in the woods, communing with nature ,  * friends communing together  .
 
 trample
 tram‧ple /ˈtræmpəl/ BrE  AmE  verb [intransitive always + adverb/preposition, transitive]
@@ -3567,9 +3567,9 @@ trample on/over somebody/something
 From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 trample
  / 5trAmpl; `trAmpl/ v 
- [Tn, Tn.pr, Tn.p] ~ sth/sb (down) tread heavily on sth/sb so as to cause damage or destruction 踩坏或踩伤某物[某人]: The campers had trampled the corn (down). 野营的人踩坏了庄稼. * The crowd panicked and ten people were trampled to death. 人群惊慌失措, 踩死了十个人. 
- [Ipr] ~ on sth/sb (a) crush or harm sth by treading on it 踩碎、踩坏或踩伤某物: trample on sb's toes 踩着某人的脚趾.(b) (fig 比喻) disregard sb unfeelingly or contemptuously无视或蔑视某人: trample on sb's feelings/rights 伤害某人的感情[侵犯某人的权利] * I refuse to be trampled on any longer! W别人要再小看我那可不行! 
- [Ipr, Ip] walk with heavy or crushing steps 重踏步行走或踩过: I don't want all those people trampling about all over my flower beds. 我可不能让那些人都在我的花坛里到处乱踩.
+ [Tn, Tn.pr, Tn.p] ~ sth/sb (down) tread heavily on sth/sb so as to cause damage or destruction []: The campers had trampled the corn (down). . * The crowd panicked and ten people were trampled to death. , . 
+ [Ipr] ~ on sth/sb (a) crush or harm sth by treading on it 、: trample on sb's toes .(b) (fig ) disregard sb unfeelingly or contemptuously: trample on sb's feelings/rights [] * I refuse to be trampled on any longer! W! 
+ [Ipr, Ip] walk with heavy or crushing steps : I don't want all those people trampling about all over my flower beds. .
  
  stumble
 stumble UK  US  [ˈstʌm.bl ̩] verb [stumbles stumbling stumbled]
@@ -3610,13 +3610,13 @@ to find or discover something by chance and unexpectedly SYN come across:
  Researchers have stumbled across a drug that may help patients with Parkinson’s disease.
  stumble
  / 5stQmbl; `stQmbl/ v [I, Ipr] 
- ~ (over sth) strike one's foot against sth and almost fall 绊脚: stumble and fall 绊倒 * I stumbled over a tree root. 树根绊了我的脚. 
- ~ (over sth); ~ through sth make a mistake or mistakes as one speaks, plays music, etc （说话、演奏等）出错: She stumbled briefly (over the unfamiliar word) but then continued. 她（碰到不认识的字）愣了一下, 接着又往下念. * The child stumbled through a piece by Chopin. 那孩子演奏萧邦的曲子很不流畅. 
- (phr v) stumble about, along, around, etc move or walk unsteadily (in the specified direction) （朝某方向）摇摇晃晃地移动或步履蹒跚: A drunk stumbled past us. 有个喝醉的人跌跌撞撞地从我们身边走过. * stumbling around in the dark 在黑暗中瞎闯. =>Usage at shuffle 用法见shuffle. stumble across/on sb/sth find sb/sth unexpectedly or by chance 意外地或偶然地发现某人[某事物]: Police investigating tax fraud stumbledacross a drugs ring. 警方在调查瞒税案件时意外地发现了一个贩毒集团.
+ ~ (over sth) strike one's foot against sth and almost fall : stumble and fall  * I stumbled over a tree root. . 
+ ~ (over sth); ~ through sth make a mistake or mistakes as one speaks, plays music, etc （、）: She stumbled briefly (over the unfamiliar word) but then continued. （）, . * The child stumbled through a piece by Chopin. . 
+ (phr v) stumble about, along, around, etc move or walk unsteadily (in the specified direction) （）: A drunk stumbled past us. . * stumbling around in the dark . =>Usage at shuffle shuffle. stumble across/on sb/sth find sb/sth unexpectedly or by chance []: Police investigating tax fraud stumbledacross a drugs ring. .
 
- > stumble n act of stumbling 绊脚; 出错.
+ > stumble n act of stumbling ; .
 
- # `stumbling-block n thing that causes difficulty or hesitation; obstacle 造成困难或引起疑虑的事物; 障碍物; 绊脚石: The failure to agree on manning levels is a major stumbling-block to progress in the talks. 人员配备情况未能达成协议是会谈进行中的主要障碍.
+ # `stumbling-block n thing that causes difficulty or hesitation; obstacle ; ; : The failure to agree on manning levels is a major stumbling-block to progress in the talks. .
  
  . pool2 BrE  AmE  verb [transitive]
 to combine your money, ideas, skills etc with those of other people so that you can all use them:
@@ -3753,17 +3753,20 @@ noun uncountable
 • an act of economic/military/industrial sabotage
 • Police investigating the train derailment have not ruled out sabotage.
 2. the act of deliberately spoiling sth in order to prevent it from being successful
- 
 Word Origin:
 early 20th cent.: from French, from saboter ‘kick with sabots (a simple shoe), wilfully destroy’.
- 
 Example Bank:
 • They conducted a campaign of economic sabotage.
 • The fire may have been an act of sabotage.
- 
 verb
 1. ~ sth to damage or destroy sth deliberately to prevent an enemy from using it or to protest about sth
 • The main electricity supply had been sabotaged by the rebels.
 2. ~ sth to prevent sth from being successful or being achieved, especially deliberately
 • Protesters failed to sabotage the peace talks.
 • The rise in interest rates sabotaged any chance of the firm's recovery.
+
+desensitise
+desensitize, UK usually desensitise UK  US  [ˌdiːˈsen t.sɪ.taɪz] verb transitive [desensitizes desensitizing desensitized]
+to cause someone to experience something, usually an emotion or a pain, less strongly than before
+• Seeing too much violence on television can desensitize people to it.
+Thesaurus+: ↑Becoming and making less strong
