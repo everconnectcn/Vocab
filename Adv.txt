@@ -523,4 +523,3 @@ step up phrasal verb
  step up come forward 站出来; 自告奋勇. step sth up increase sth; improve sth 增加某事物; 促进某事物: step up production 增加生产 * step up (ie put more effort into) the campaign for nuclear disarmament 加强争取核裁军的运动.
 
  # `stepping-stone n (a) flat stone (usu one of several) providing a place to step on when crossing a stream, river, etc on foot （过河等用的）踏脚石. (b) (fig 比喻) means or stage of progress towards achieving or attaining sth 藉以达到目标的手段或阶段: a first stepping-stone on the path to success 通向成功的第一步.
->>>>>>> b9d707d7315c0685caf660dc93e4d281488ba20f

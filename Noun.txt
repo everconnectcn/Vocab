@@ -5972,7 +5972,7 @@ CAUSE
 • Favouritism breeds resentment.
 Thesaurus+: ↑Causing things to happen
 noun countable
-1. <A > a particular type of animal or plant
+1. <A> a particular type of animal or plant
 • a breed of dog/cat/horse/sheep/cattle
 • What's your favourite breed of dog/dog breed?
 Thesaurus+: ↑Breeds and breeding ↑Species and genders ↑Categories and varieties
@@ -5986,4 +5986,247 @@ Thesaurus+: ↑Categories and varieties ↑Species and genders ↑People in gene
 • We have several breeds of deer in the park, not just one.
 • The Gloucester Old Spot is the oldest breed of pedigree spotted pig in the world.
 • Burmese, Oriental and Tonkinese are my favourite breeds of cat.
->>>>>>> b9d707d7315c0685caf660dc93e4d281488ba20f
+
+cynicism
+cynicism UK  US  [ˈsɪn.ɪ.sɪ.z ə m] noun uncountable
+• He's often been accused of cynicism in his attitude towards politics.
+Thesaurus+: ↑Suspecting and questioning ↑Questioning people and asking questions in general ↑Curiosity
+Main entry: cynicalderived
+cynic
+cynic UK  US  [ˈsɪn.ɪk] disapproving noun countable [cynics]
+a person who believes that people are only interested in themselves and are not sincere
+• I'm too much of a cynic to believe that he'll keep his promise.
+• A cynic might say that the government has only taken this measure because it is concerned about its declining popularity.
+
+underprivileged
+underprivileged UK  [ˌʌn.dəˈprɪv.ɪ.lɪdʒd] US  [-dɚ-] adjective
+without the money, possessions, education, opportunities, etc. that the average person has
+• Children from an underprivileged family background are statistically more likely to become involved in crime.
+Thesaurus+: ↑Poverty and poor
+ 
+plural noun
+the underprivileged
+polite phrase for poor people
+• The charity raises money for holidays for the underprivileged.
+Thesaurus+: ↑Poor people
+disadvantaged
+disadvantaged UK  [ˌdɪs.ədˈvɑːn.tɪdʒd] US  [-ˈvæn.t ̬ɪdʒd] adjective
+not having the standard of living conditions, education, etc. that most people have
+• A new educational programme has been set up for economically disadvantaged children.
+Thesaurus+: ↑Poverty and poor
+ 
+plural noun
+the disadvantaged
+people who do not have good living conditions, a good standard of education, etc., considered as a group
+• These measures are intended to help the disadvantaged.
+
+2. keep/hold somebody/something in check keep someone or something under control:
+ You must learn to keep your emotions in check.
+ attempts to keep global warming in check
+ He made an effort to hold himself in check.
+3. A CONTROL ON SOMETHING [countable usually singular] something that controls something else and stops it from getting worse, continuing to happen etc
+check on
+ Higher interest rates will act as a check on public spending.
+4. checks and balances a system that makes it possible for some people or parts of an organization to control the others, so that no particular person or part has too much power or influence
+
+common good (countable and uncountable, plural common goods)
+The general interest of the population as a whole.
+(economics) A good that is rivalrous and nonexcludable.
+Synonyms: CPR, common-pool resource
+(Scotland) The corporate property of a burgh in Scotland.
+Synonyms[edit]
+(general interest of the population) public interest; public good
+Translations[edit]
+general interest of the population as a whole
+Chinese:
+Mandarin: 公益 (zh) (gōngyì)
+greater good
+The benefit of the public, of more people than oneself.
+That which is better and more correct.
+
+↑Virtue and moral good
+Virtue and moral good Thesaurus+ Level 4 (55)
+altruism noun
+angelic adjective
+angelically adverb
+as pure as the driven snow idiom
+clean adjective 4 moral; adjective 5 moral
+ethical adjective 2
+good adjective 11 morally right; noun 5 morally right
+goodness noun 2 character
+high adjective 3 above average
+high-minded adjective
+incorruptibility noun
+incorruptible adjective 1
+incorruptibly adverb
+justifiable adjective
+justifiably adverb
+justified adjective
+lily-white adjective 3 character
+lofty adjective 2 ideas
+moral adjective 2
+nobility noun 1 moral
+noble adjective 1 moral
+nobly adverb
+on the side of the angels idiom
+principled adjective 1
+pure adjective 8 morally good
+purity noun 4 morally good
+right adjective 6 morally acceptable; noun 3 morally acceptable; noun 4 morally acceptable
+righteous adjective
+righteously adverb
+righteousness noun
+rightful adjective
+rightfully adverb
+rightly adverb 1 morally acceptable
+rightness noun
+road to hell is paved with good intentions idiom
+saintly adjective
+selfless adjective
+selflessly adverb
+selflessness noun
+spinach adjective
+straight and narrow idiom
+unselfish adjective
+unselfishly adverb
+unselfishness noun
+upright adjective 3 moral
+uprightly adverb
+uprightness noun
+upstanding adjective
+virtue noun 1 good morals
+virtuous adjective 1
+worthiness noun 2 deserving respect
+
+high-minded
+high-minded UK  US  [ˌhaɪˈmaɪn.dɪd] adjective
+having very high moral standards of behaviour
+
+incorruptible
+incorruptible UK  US  [ˌɪn.kəˈrʌp.tɪ.bl ̩] adjective
+1. morally strong enough not to be persuaded into doing something wrong
+• Most politicians genuinely believe they are incorruptible.
+Thesaurus+: ↑Virtue and moral good
+2. formal If something is incorruptible, it will not decay or be destroyed
+• Some people think the soul, unlike the body, is incorruptible.
+Thesaurus+: ↑Lasting for a long time
+
+self-righteous
+self-righteous UK  US  [ˌselfˈraɪ.tʃəs] disapproving adjective
+believing that your ideas and behaviour are morally better than those of other people
+• He's so self-righteous - you'd think he'd never done anything wrong in his life.
+Thesaurus+: ↑Feeling morally superior
+
+worthiness
+worthiness UK  [ˈwɜː.ðɪ.nəs] US  [ˈwɝː-] noun uncountable
+ 
+SUITABLE
+1. suitability
+• She persuaded the board of her worthiness to run the company.
+Thesaurus+: ↑Suitable and acceptable ↑Quite good, or not very good
+ 
+DESERVING RESPECT
+2. formal when someone or something has qualities that deserve respect or attention
+• the worthiness of a project/cause/aim
+
+(the) straight and narrow
+the straight and narrow idiom humorous
+If you keep on the straight and narrow, you behave in a way that is honest and moral
+• The threat of a good beating should keep him on the straight and narrow.
+ 
+MORAL
+3. approving honest, responsible and moral
+• She behaved as any upright citizen would have under the circumstances.
+Thesaurus+: ↑Honesty, openness and sincerity ↑Virtue and moral good
+
+common good (also commonwealth, general welfare, or public benefit)
+4. common ground facts, features, or beliefs that are shared by people or things that are very different
+common ground between
+ There is a great deal of common ground between management and trade unions on this issue.
+5. SHARED BY EVERYONE [no comparative] belonging to or shared by everyone in a society
+common to
+ These problems are common to all societies.
+ Joe was chosen as captain by common consent (=with everyone’s agreement).
+6. common knowledge something everyone knows:
+ It is common knowledge that travel broadens the mind.
+7. the common good the advantage of everyone:
+ They work together for the common good.
+8. common practice a usual or accepted way of doing things:
+ It was common practice for families to attend church together.
+9. ORDINARY [only before noun, no comparative] ordinary and not special in any way:
+ common salt
+ The 20th century was called the century of the common man (=ordinary people).
+ He insists that he is a revolutionary, not a common criminal.
+10. common courtesy/decency/politeness a polite way of behaving that you expect from people:
+ It would be common courtesy to return their hospitality.
+11. common or garden British English ordinary SYN garden-variety American English:
+ a common or garden dispute
+12. make/find common cause (with/against somebody) formal to join with other people or groups in order to achieve something:
+ France and Russia made common cause against Britain.
+13. common touch the ability of someone in a position of power or authority to talk to and understand ordinary people – used to show approval:
+ He’s made it to the top without losing the common touch.
+ 
+ rooftop
+rooftop UK  [ˈruːf.tɒp] US  [-tɑːp] noun countable usually plural [rooftops]
+the outside surface of the roof of a building
+• a magnificent view of the rooftops
+• Police marksmen with rifles were stationed on the rooftops.
+
+panoramic
+panoramic UK  US  UK [ˌpæn. ə rˈæm.ɪk] US [-əˈræm-] adjective
+• a wonderful panoramic view of the countryside
+Thesaurus+: ↑Scenery and views
+
+underlying
+un‧der‧ly‧ing AC /ˌʌndəˈlaɪ-ɪŋ◂ $ -ər-/ BrE  AmE  adjective
+[Word Family: verb: ↑underlie; adjective: ↑underlying]
+underlying cause/principle/problem etc the cause, idea etc that is the most important, although it is not easily noticed:
+ the underlying causes of her depression
+ There is an underlying assumption that younger workers are easier to train.
+• • •
+COLLOCATIONS
+■ nouns
+▪ the underlying cause/reason Stress is the underlying cause of many illnesses.
+▪ an underlying assumption There is an underlying assumption that new technology is always a good thing.
+▪ an underlying principle Their actions, he argued, went against the underlying principles of Christian morality.
+▪ an underlying problem Little is being done to correct the system's underlying problems.
+▪ an underlying theme Death and rebirth are underlying themes in all of his novels.
+▪ an underlying message The underlying message of his speech was that the economic good times are over.
+
+principle
+principle UK  US  [ˈprɪn t.sɪ.pl ̩] noun [principles]
+ 
+BASIC IDEA
+1. <E > countable a basic idea or rule that explains or controls how something happens or works
+• the principles of the criminal justice system
+• The country is run on socialist principles.
+• The machine works according to the principle of electromagnetic conduction.
+• The organization works on the principle that all members have the same rights.
+See also first principles
+Thesaurus+: ↑Ideas, concepts and theories
+2. in principle
+If you agree with or believe something in principle, you agree with the idea in general, although you might not support it in reality or in every situation
+• In principle I agree with the idea, but in practice it's not always possible.
+• They have approved the changes in principle.
+Thesaurus+: ↑General
+ 
+• The school is based on the fundamental principle that each child should develop its full potential.
+• The government has promised to uphold the principles of democracy.
+• In the 1870s and 1880s, doctors began to follow the principles of antiseptic surgery.
+• The party's principles are basically egalitarian.
+• Johnson calls this phenomenon 'the principle of minimal effort'.
+ 
+MORAL RULE
+3. countable or uncountable approving a moral rule or standard of good behaviour
+• She doesn't have any principles.
+• He was a man of principle.
+• Anyway, I can't deceive him - it's against all my principles.
+• I never gamble, as a matter of principle (= because I believe it is wrong).
+• She'd never ask to borrow money, on principle.
+Thesaurus+: ↑Morality and rules of behaviour
+
+disincentive
+disincentive UK  [ˌdɪs.ɪnˈsen.tɪv] US  [-t ̬ɪv] noun countable [disincentives]
+something that makes people not want to do something or not work hard
+• High taxes are a disincentive to business.
+Thesaurus+: ↑Discouraging and putting off
