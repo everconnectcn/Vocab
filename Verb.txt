@@ -3675,7 +3675,6 @@ further
 ▪ This solution is then diluted further for use.
 ▪ The right is further diluted because licences are available as of right during the last five years.
 
-<<<<<<< HEAD
 hump
  / hQmp; hQmp/ n 
  (a) round projecting part on the back of a camel, etc （骆驼等的）峰. =>illus at camel 见camel插图. (b) deformity on a person's back, where there is an abnormal curvature of the spine （人的）驼背. 
@@ -3926,7 +3925,6 @@ adjective
 unkind and intending to upset someone
 • a cutting remark/comment
 • He can be very cutting when he chooses to be!
-<<<<<<< HEAD
 
 disperse
 di‧sperse /dɪˈspɜːs $ -ɜːrs/ BrE  AmE  verb [intransitive and transitive]
@@ -3948,6 +3946,158 @@ disperse
 1963, Margery Allingham, chapter 1, in The China Governess‎[1]:
 The original family who had begun to build a palace to rival Nonesuch had died out before they had put up little more than the gateway, […].
 The dinosaurs died out a long time ago.
-=======
->>>>>>> 8abd45911c1f8ec8aa1e5fa244f91f91c3e796c2
->>>>>>> d1eddcb0bc8a4ee6177344351b83a6f8409a3887
+
+
+fit in
+fit in phrasal verb [fitting in fitted in fitted in fitted in fits in]
+1. <A > to feel that you belong to a particular group and are accepted by them
+• It's no surprise she's leaving - she never really fitted in.
+Thesaurus+: ↑Suitable and acceptable ↑Quite good, or not very good
+2. <A > If one thing fits in with another thing, they look pleasant together or are suitable for each other
+• It's a very nice sofa but it doesn't fit in with the rest of the room.
+Thesaurus+: ↑Being suitable or unsuitable
+• She says that she doesn't fit in at her new school.
+• She's exactly the type of person we need in our department - she should fit in perfectly.
+• It became clear very quickly that the new assistant wasn't going to fit in.
+• I tried so hard to fit in, but the other staff there were reluctant to accept me.
+• Being the only father at the mothers-and-toddlers group, he struggled to fit in at first.
+Main entry: fitphrasal verb
+
+shiny
+shiny UK  US  [ˈʃaɪ.ni] adjective [shinier shiniest]
+<A > A shiny surface is bright because it reflects light
+• beautiful shiny hair
+• shiny black shoes
+• a shiny silver dollar
+Thesaurus+: ↑Emitting and casting light
+• The book was bound in shiny green leather.
+• The marble has a smooth, shiny surface.
+• Look at the lovely shiny finish on that piano.
+• I picked a piece of fluff off my shiny black suit.
+• The boys gazed in wonder at the shiny red Ferrari.
+
+clutter
+clutter UK  [ˈklʌt.ə r ] US  [ˈklʌt ̬.ɚ] noun uncountable
+(a lot of objects in) a state of being untidy
+• Sorry about the clutter in the kitchen.
+• My desk is covered in/full of clutter.
+Thesaurus+: ↑Dirt and untidiness
+ 
+verb transitive
+to fill something in an untidy or badly organized way
+• The kids always clutter the hall (up) with school bags and coats and stuff.
+• Every shelf is cluttered with ornaments.
+• figurative I try not to clutter (up) my mind with useless information.
+Thesaurus+: ↑Making things dirty and untidy
+Derived: cluttered
+
+goody
+goody UK  US  [ˈgʊd.i] noun informal [goodies]
+PLEASANT THING
+1. countable usually plural an object which people want or enjoy, often something nice to eat
+• All the children were given a bag of goodies - mostly sweets and toys.
+Thesaurus+: ↑Pleasure and happiness
+PERSON
+2. countable someone, especially in a film or story, who is good
+• It's one of those films where you don't know until the last moment who are the goodies and who are the baddies.
+Thesaurus+: ↑People having good qualities
+
+afterglow
+afterglow UK  [ˈɑːf.tə.gləʊ] US  [ˈæf.tɚ.gloʊ] noun countable usually singular [afterglows]
+a pleasant feeling produced after an experience, event, feeling, etc.
+• The team were basking in the afterglow of winning the cup.
+Thesaurus+: ↑Pleasure and happiness
+From Oxford Advanced Learners Dictionary 8th Ed.
+afterglow
+after·glow f30 [afterglow afterglows] BrE [ˈɑːftəɡləʊ]  NAmE [ˈæftərɡloʊ]  noun usually singular (literary)
+1. the light that is left in the sky after the sun has set
+• the lingering sunset which left a distinctive purple afterglow
+2. a pleasant feeling after a good experience
+• He was basking in the afterglow of love.
+From Longman DOCE 5th Ed. (En-En)
+afterglow
+af‧ter‧glow /ˈɑːftəɡləʊ $ ˈæftərɡloʊ/ BrE  AmE  noun [countable usually singular]
+1. a pleasant feeling that remains after a good experience
+afterglow of
+ the afterglow of victory
+2. the light that remains in the sky after the sun goes down
+
+blessing
+blessing UK  US  [ˈbles.ɪŋ] noun [blessings]
+RELIGIOUS WORDS
+1. countable or uncountable when a priest asks God to take care of a particular person or a group of people
+• The mass always ends with a blessing.
+• We ask God's blessing on Joan at this difficult time.
+Thesaurus+: ↑Religious ceremonies and prayers
+LUCKY SITUATION
+2. countable something which is extremely lucky or makes you happy
+• It was a blessing that no one was killed in the accident.
+Thesaurus+: ↑Good luck and bad luck ↑Causing pleasure
+APPROVAL
+3. sb's blessing
+approval that someone gives to a plan or action
+• The government has given its blessing to a plan to improve the rights of children.
+• Eventually they got married with her father's blessing.
+Thesaurus+: ↑Allowing and permitting ↑Approving and approval ↑Accepting and agreeing ↑Accepting and agreeing reluctantly
+Idiom: blessing in disguise
+
+enchantment
+en‧chant‧ment /ɪnˈtʃɑːntmənt $ ɪnˈtʃænt-/ BrE  AmE  noun
+1. [uncountable] the quality of being very pleasant or attractive:
+ the enchantment of poetry
+2. [uncountable and countable] literary a change caused by magic, or the state of being changed by magic
+enchant
+en‧chant /ɪnˈtʃɑːnt $ ɪnˈtʃænt/ BrE  AmE  verb [transitive]
+[Date: 1300-1400; Language: Old French; Origin: enchanter, from Latin cantare 'to sing']
+1. formal if something that you see or hear enchants you, you like it very much:
+ I was enchanted by the way she smiled.
+ The garden enchanted her.
+2. literary to use magic on something or someone
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+enchant
+ / In5tFB:nt; ?@ -5tFAnt; In`tFAnt/ v [Tn] fill (sb) with great delight 使（某人）极喜悦; 使（某人）陶醉: enchanted by/with the singing of the children被孩子们的歌声迷住.
+ > enchanted / -Id; -Id/ adj placed under a magic spell 中魔法的: an enchanted garden, eg in a fairy story 施过魔法的花园（如于童话故事中）.
+ enchanter n person who enchants 迷人的人; 施魔法的人.
+ 
+ one up (on somebody)
+ˌone ˈup (on sb) idiom
+having an advantage over sb
+Main entry: ↑oneidiom
+
+equate
+equate UK  US  [ɪˈkweɪt] verb transitive [equates equating equated]
+to consider one thing to be the same as or equal to another thing
+• He complained that there was a tendency to equate right-wing politics with self-interest.
+Thesaurus+: ↑Linking and relating ↑Regarding and concerning
+Phrasal Verb: equate to something
+
+rumbling
+rumbling UK  US  [ˈrʌm.bl ̩.ɪŋ], [ˈ-blɪŋ] noun [rumblings]
+1. countable usually plural a sign of anger or disagreement
+• There are rumblings of annoyance throughout the workforce.
+Thesaurus+: ↑Complaining
+2. countable usually singular a continuous low sound
+• the rumbling of distant guns/thunder
+Thesaurus+: ↑Sounds made by objects, movement or impact
+rumble
+▪ I. rumble UK  US  [ˈrʌm.bl ̩] verb [rumbles rumbling rumbled]
+SOUND
+1. intransitive to make a continuous low sound
+• Please excuse my stomach rumbling - I haven't eaten all day.
+• The tanks rumbled (= moved slowly, making a continuous noise) across the battlefield.
+Thesaurus+: ↑Sounds made by objects, movement or impact
+
+gauge
+gauge, US also gage UK  US  [geɪdʒ] verb transitive [gauges gauging gauged]
+ 
+MEASURE
+1. to calculate an amount, especially by using a measuring device
+• Use a thermometer to gauge the temperature.
+• I tried to gauge (= guess) the weight of the box.
+Thesaurus+: ↑Calculations and calculating ↑Addition, subtraction, multiplication and division ↑Weighing and measuring
+ 
+JUDGE
+2. to make a judgment about something, usually people's feelings
+• A poll was conducted to gauge consumers' attitudes.
+• + question word It's difficult to gauge how they'll react.
+Thesaurus+: ↑Analysing and evaluating ↑Assessing and estimating value
