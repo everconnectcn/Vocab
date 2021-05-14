@@ -3815,6 +3815,21 @@ to cause someone to experience something, usually an emotion or a pain, less str
 • Seeing too much violence on television can desensitize people to it.
 Thesaurus+: ↑Becoming and making less strong
 
+<<<<<<< HEAD
+vested
+vest‧ed /ˈvestəd, ˈvestɪd/ BrE  AmE  adjective
+1. vested interest a strong reason for wanting something to happen because you will gain from it:
+ Since he owns the strip of land, Cook has a vested interest in the project being approved.
+2. vested interests the groups of people who will gain from a plan, project, proposal etc:
+ The proposal faces tough opposition from powerful vested interests.
+3. vested rights, powers, property etc belong to you and cannot be removed:
+ Shareholders have a vested right to 10% per annum.
+4. technical having full rights to own or have something
+become/get vested (in something)
+ He only took the job to get vested in the pension fund.
+ 
+ vest-`pocket adj [attrib 作定语] (esp US) small enough to fit in a waistcoat pocket 可放入坎肩口袋里的; 袖珍的: a ,vest-pocket `camera 袖珍照相机.
+=======
 MAKE HAPPY
 6. lift sb's spirits informal
 to make someone happier
@@ -3911,6 +3926,7 @@ adjective
 unkind and intending to upset someone
 • a cutting remark/comment
 • He can be very cutting when he chooses to be!
+<<<<<<< HEAD
 
 disperse
 di‧sperse /dɪˈspɜːs $ -ɜːrs/ BrE  AmE  verb [intransitive and transitive]
@@ -3932,3 +3948,6 @@ disperse
 1963, Margery Allingham, chapter 1, in The China Governess‎[1]:
 The original family who had begun to build a palace to rival Nonesuch had died out before they had put up little more than the gateway, […].
 The dinosaurs died out a long time ago.
+=======
+>>>>>>> 8abd45911c1f8ec8aa1e5fa244f91f91c3e796c2
+>>>>>>> d1eddcb0bc8a4ee6177344351b83a6f8409a3887
