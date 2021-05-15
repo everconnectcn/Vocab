@@ -6231,6 +6231,7 @@ something that makes people not want to do something or not work hard
 • High taxes are a disincentive to business.
 Thesaurus+: ↑Discouraging and putting off
 
+<<<<<<< HEAD
 
 grove
 grove UK  [grəʊv] US  [groʊv] noun countable [groves]
@@ -6242,3 +6243,225 @@ used in some road and place names
 • Camberwell Grove
 Thesaurus+: ↑Urban and residential streets
 Idiom: groves of academe
+=======
+↑Discouraging and putting off
+Discouraging and putting off Thesaurus+ Level 3 (20)
+daunt verb
+daunting adjective
+deter verb
+deterrent noun; adjective
+discourage verb 1 make less confident
+discouragement noun 1 making less confident
+discouraging adjective
+dishearten verb
+disheartening adjective
+disincentive noun
+emasculate verb 2
+pour cold water on something idiom
+put a spoke in somebody's wheel idiom
+put somebody off phrasal verb
+put somebody off somebody phrasal verb
+spoil somebody's party idiom
+take the wind out of somebody's sails idiom
+throw cold water on something idiom; idiom
+
+merit
+I. mer‧it1 /ˈmerət, ˈmerɪt/ BrE  AmE  noun
+[Date: 1100-1200; Language: Old French; Origin: merite, from Latin meritum, from merere 'to deserve, earn']
+1. [countable] an advantage or good feature of something
+merit of
+ The film has the merit of being short.
+ The merit of the report is its realistic assessment of the changes required.
+ The great merit of the project is its flexibility and low cost.
+ Each of these approaches to teaching has its merits.
+ Tonight’s meeting will weigh up the relative merits of the two candidates.
+REGISTER
+Merit is used especially in formal contexts. In everyday English, people usually talk about the good points of something:
+▪ The book does have its good points.
+2. [uncountable] formal a good quality that makes someone or something deserve praise:
+ There is never any merit in being second best.
+have (some) merit/be of merit (=be good)
+ The suggestion has some merit.
+on merit
+ Students are selected solely on merit (=because they are good).
+artistic/literary merit
+ a film lacking any artistic merit
+3. judge/consider etc something on its (own) merits to judge something only on what you see when you look at it rather than on what you know from other people or things:
+ It’s important to judge each case on its merits.
+• • •
+COLLOCATIONS (for Meanings 1 & 2)
+■ verbs
+▪ have merit Both suggestions had some merit.
+▪ discuss/debate the merits of something (=discuss whether or not something is a good idea) They were discussing the merits of sending soldiers to the area.
+▪ consider/judge the merits of something (=think about whether or not something is a good idea) The committee is considering the merits of the proposal.
+▪ assess/evaluate the merits of something (=to decide what is good about something using careful methods) Has any study assessed the merits of the two schools?
+▪ question the merits of something (=not be sure if something is a good idea) People began to question the merits of nuclear energy.
+▪ see little/no merit in something (=think that something is not a good idea) I can see no merit in violence.
+▪ have its merits (=have some good qualities) Each idea has its merits.
+■ adjectives
+▪ artistic merit (=the qualities that make something good as a piece of art) What are the artistic merits of this statue?
+▪ literary merit (=the qualities that make something good as a book, play, or poem) There was no literary merit in his poems.
+▪ great merit It seems to me that the idea has great merit.
+▪ outstanding merit (=very great merit) The prize is given to students of outstanding merit.
+▪ considerable merit (=a lot of merit) There is considerable merit in using this kind of approach.
+▪ the relative/comparative merits of something (=the good qualities of something as compared to something else) She is an expert in the relative merits of spa waters.
+
+extinction
+ex‧tinc‧tion /ɪkˈstɪŋkʃən/ BrE  AmE  noun [uncountable]
+1. when a particular type of animal or plant stops existing:
+ species in danger of extinction
+on the verge/edge/brink of extinction (=nearly extinct)
+ The breed was on the verge of extinction.
+ They were hunted almost to extinction.
+ Conservationists are trying to save the whale from extinction.
+face extinction/be threatened with extinction
+ Many endangered species now face extinction.
+2. when a type of person, custom, skill etc stops existing:
+ Their traditional way of life seems doomed to extinction.
+COLLOCATIONS
+■ verbs
+▪ face extinction (=be likely to stop existing soon) The red squirrel faces extinction in England and Wales unless conservation measures are taken.
+▪ cause/lead to extinction (=make an animal, plant etc stop existing) Exactly what caused the extinction of the dinosaurs?
+■ phrases
+▪ be threatened with extinction (=very likely to stop existing) Hundreds of species of birds are now threatened with extinction.
+▪ be in danger of extinction The species are in danger of extinction in the UK.
+▪ be on the brink/verge of extinction (=be at the point of almost not existing) The Siberian crane is on the verge of extinction due to hunting.
+▪ be saved from extinction There are hopes that the animals have now been saved from extinction.
+■ adjectives
+▪ total/complete extinction Hippos may face total extinction if their habitat continues to dwindle.
+▪ near extinction (=being almost becoming extinct) Wolves have returned to the forest, almost ten years after near extinction.
+▪ virtual extinction (=being very nearly extinct) The deer has been hunted to virtual extinction.
+▪ certain extinction (=extinction which will definitely happen) The crested ibis faces certain extinction in Japan after attempts to breed from the sole remaining pair have failed.
+▪ imminent/impending extinction (=likely to happen soon) The ban on hunting was introduced to stop the imminent extinction of some big game animals.
+
+extremism
+extremism UK  US  [ɪkˈstriː.mɪ.z ə m] noun uncountable
+when someone has beliefs which most people think are unreasonable and unacceptable
+• political extremism
+Thesaurus+: ↑Unsuitable and unacceptable
+the holding of extreme political or religious views; fanaticism.
+"the dangers of religious extremism"
+
+understanding
+I. un‧der‧stand‧ing1 W3 /ˌʌndəˈstændɪŋ $ -ər-/ BrE  AmE  noun
+[Word Family: adjective: ↑understandable, ↑understanding, ↑misunderstood; verb: ↑understand ≠ ↑misunderstand; noun: ↑understanding ≠ ↑misunderstanding; adverb: ↑understandably]
+1. [singular, uncountable] knowledge about something, based on learning or experience
+understanding of
+ How does this add to our understanding of the problem?
+ If you know the neighbourhood, you have an understanding of what the children are like.
+ Linguists currently have little understanding of the exact cause of language change.
+ How can we gain an understanding of other cultures?
+ Over time, you will get a far better understanding of the job.
+ Success depends on a clear understanding of the problem.
+ a basic understanding of AIDS prevention
+2. [countable usually singular] an unofficial or informal agreement
+come to/reach an understanding (=stop arguing and agree)
+ My father was furious at first, but eventually we came to an understanding.
+ We had an understanding that Jean-Claude should never be mentioned.
+3. [singular, uncountable] the ability to understand people’s behaviour and to forgive them when they do something wrong:
+ The principal listened to the boy’s story with sympathy and understanding.
+4. sb’s understanding (of something) the way in which someone judges the meaning of something:
+ According to my understanding of the letter, it means something quite different.
+5. on the understanding that if you agree to something on the understanding that something else will be done, you agree to it, believing that it will be done:
+ Jack lent Sarah the money on the understanding that she would pay it back next month.
+COLLOCATIONS
+■ verbs
+▪ have an understanding The authorities don’t seem to have a clear understanding of the problem.
+▪ gain/get/develop an understanding Scientists continued to gain a greater understanding of the effects of radiation.
+▪ deepen/broaden an understanding It is hoped that the research will broaden our understanding of the disease.
+▪ increase/improve/enhance sb’s understanding The classes really helped to increase our understanding of the subject.
+■ adjectives
+▪ a better/greater/deeper understanding All of this will lead to a better understanding of the overseas market.
+▪ a clear understanding Before you begin, it is vital that you have a clear understanding of what you want to achieve.
+▪ a complete/thorough/full understanding The degree gives students a thorough understanding of issues relating to housing.
+▪ a proper/real understanding They lacked any real understanding of the subject.
+▪ a good understanding The sales force has a good understanding of the market.
+▪ a basic understanding The aim of the examination is to test basic understanding of the written language.
+▪ a limited understanding We have only a limited understanding of how the brain processes this information.
+II. understanding2 BrE  AmE  adjective
+[Word Family: adjective: ↑understandable, ↑understanding, ↑misunderstood; verb: ↑understand ≠ ↑misunderstand; noun: ↑understanding ≠ ↑misunderstanding; adverb: ↑understandably]
+sympathetic and kind about other people’s problems:
+ Luckily, I have a very understanding boss.
+• • •
+THESAURUS
+▪ sympathetic kind to someone who is having problems: My friends were very sympathetic when I lost my job. | Jill was a very sympathetic listener. | a sympathetic attitude
+▪ compassionate wanting to help people who are suffering or having problems: The doctor was a compassionate man who always acted in his patients’ best interests.
+▪ understanding not getting angry with someone or criticizing them, because you can see that they have problems: I have had a lot of time off work, but my boss is very understanding. | an understanding look
+▪ caring caring about other people’s feelings and wanting to help them: I have very caring parents. | Most of the nurses are very caring.
+
+pragmatism
+ / 5prAgmEtIzEm; `prA^mE9tIzEm/ n [U](fml 文) 
+ thinking about or treating things in a practical way 实用的观点或思想方法. 
+ (in philosophy) belief that the truth or value of a theory can only be judged by its practical results （哲学）实用主义.
+ > pragmatist / -tIst; -tIst/ n 
+ person who acts in a practical way 做事从实际出发的人. 
+ believer in pragmatism(2) 实用主义者.
+
+ sprinter
+sprinter UK  US  UK [ˈsprɪn.tə r ] US [-ɚ] noun countable
+• a world-class sprinter
+Thesaurus+: ↑Athletics ↑Competitors and participants in sports and games
+Main entry: sprintderived
+
+louvre
+lou‧vre BrE  AmE  British English, louver American English /ˈluːvə $ -ər/ noun [countable]
+[Date: 1300-1400; Language: Old French; Origin: lover]
+1. a narrow piece of wood, glass etc in a door or window, that slopes towards the outside to let some light in and keep rain or strong sun out
+2. louvre window/door British English a door or window made of these pieces of wood, glass etc
+—louvred adjective:
+ louvred shutters
+Louvre
+Louvre, the /ˈluːvrə, luːv/ BrE  AmE 
+the most famous French ↑museum, which is in Paris and has many important paintings, including the ↑Mona Lisa, and ↑statues, including Nike or the Winged Victory
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+louvre
+ (also louver) / 5lu:vE(r); `luvL/ n (a) one of a set of fixed or movable strips of wood, metal, etc arranged to let air in while keeping light or rain out （一条）百叶窗板. (b) set of such strips inside a supporting frame （一套）百叶窗板.
+ > louvred (also louvered) adj: a louvred door 百叶门.
+ filmmaking  industry
+ Alternative spelling of filmmaking
+2021 March 10, Greg Morse, “Telling the railway's story on film”, in RAIL, number 926, page 49:
+As we saw with Housing Problems, this 'telling one's own story' is an ethos Edgar Anstey would have applauded, and it was an ethos that has fed into Network Rail's work during the COVID-19 pandemic. Green explains: "COVID has produced huge challenges for us, but it showed there is such a need for film-making at a time like this."
+
+Artistic freedom
+
+diverse
+diverse UK  [d a ɪˈvɜːs] US  [dɪˈvɝːs] adjective
+<A > varied or different
+• Students from countries as diverse as Colombia and Lithuania use Cambridge textbooks.
+• New York is a very culturally/ethnically diverse city.
+Thesaurus+: ↑Different and difference
+ 
+• a culturally diverse society
+• Linguistics embraces a diverse range of subjects such as phonetics and stylistics.
+• There is a diverse range of opinion on the issue.
+• India is quite diverse, both politically and religiously.
+• Members of the largest and most diverse phylum of animals (Arthropoda), have segmented bodies and an external skeleton.
+
+vibrant
+vibrant UK  US  [ˈvaɪ.br ə nt] adjective
+1. energetic, exciting and full of enthusiasm
+• a vibrant young performer
+• a vibrant personality
+• a vibrant city
+• The hope is that this area will develop into a vibrant commercial centre.
+Thesaurus+: ↑Exciting and interesting ↑Energetic and lively
+2. describes colour or light that is bright and strong
+• He always uses vibrant colours in his paintings.
+Thesaurus+: ↑The qualities of colour
+Derived: vibrancy ▪ vibrantly
+
+Psychological wellbeing
+
+enrich
+enrich UK  US  [ɪnˈrɪtʃ] verb [enriches enriching enriched]
+IMPROVE
+1. transitive to improve the quality of something by adding something else
+• Fertilizer helps to enrich the soil.
+• My life was greatly enriched by knowing her.
+Thesaurus+: ↑Making things better ↑Becoming better
+HAVE MORE MONEY
+2. transitive often R to make something or someone richer
+• He claimed that the large stores were enriching themselves at the expense of their customers.
+Thesaurus+: ↑Making things better ↑Becoming better
+Derived: enrichment
+>>>>>>> 03a63c6881293c651b804149948b1dcc926e15c7
