@@ -90,6 +90,7 @@ see also ↑tumbledown
 5. intransitive to perform ↑acrobatics on the floor, especially ↑somersaults (= a jump in which you turn over completely in the air)
 • a tumbling troupe
 
+<<<<<<< HEAD
 
 complexion
 com‧plex‧ion /kəmˈplekʃən/ BrE  AmE  noun
@@ -121,3 +122,31 @@ COLLOCATIONS
 ▪ a swarthy complexion literary (=dark) She had never met anyone with his swarthy complexion.
 ▪ a bad complexion (=with spots or marks on it)
 ▪ a blotchy complexion (=with unpleasant red patches of colour in the skin)
+=======
+force 1
+
+1 / fR:s; fRrs/ n 
+ [U] (a) physical strength or power 力; 力量: the force of the blow, explosion, collision, etc 打击力、爆炸力、碰撞力 * They used brute force to break open the door. 他们靠蛮劲把门撞开了. (b) violent physical action 暴力; 武力: The soldiers took the prisoners away by force. 士兵们强行把犯人带走了. * renounce the use of force 放弃使用武力. 
+ (a) [U] (intensity of) strength or power; influence 力量（的强度）; 影响力: the full force of her argument 她的论据的全部力量 * He overcame his bad habits by sheer force of will. 他全凭毅力改掉了坏习惯. * Through force of circumstances the plans had to be changed. 情况所迫, 只得修改计画. (b) [C] person, thing, belief, etc with such strength or power; influence 具有此种力量的人、事物、信仰等; 影响: She's a force to be reckoned with, ie someone to be treated seriously. 她是不可忽视的力量. * the two main political forces of left and right 左派和右派两股主要的政治力量 * powerful economic forces 强大的经济实力 * Is religion a force for good? 宗教是诱导人们积德行善的力量吗? * the forces of evil still at work today 至今仍在作祟的邪恶势力. 
+ [C, U] (in scientific use) measurable influence or intensity tending to cause movement （科技用语）力: The force of gravity pulls things towards the earth's centre. 地心吸力把物体吸向地心. 
+ [C] (power of the) wind, rain or another of the natural elements 风、雨或其他自然现象（的力量）: fighting against the forces of nature 与大自然作斗争. =>Usage at strength 用法见strength. 
+ [C usu sing 通常作单数] measure of wind strength 风力: a force 9 gale 9级风. 
+ [CGp] group of people organized for a specified purpose 为某目的而组织起来的人: a sales/labour force 推销人员[劳动群众] * Our work-force are completely dependable. 我们的工作人员的能力完全可靠. 
+ [CGp] organized body of armed and specially trained people 武装力量; 部队: the police force 警察部队 * peace-keeping forces 维持和平部队 * the armed forces of a country, ie the army, navy and air force 国家的武装力量（陆、海、空三军）. 
+ [U] (legal) authority （法律的）权威, 威力: This decree has the force of law behind it. 这一裁决有法律的力量作后盾. 
+ (idm 习语) break the force of sth reduce or weaken the impact of sth such as a fall or blow 降低或减弱某事物（如下落或打击）的冲撞力: The force of his fall was broken by the straw mats. 草垫的缓冲作用减弱了他下跌的力量. bring sth/come into `force (cause a law, rule, etc to) become effective or come into operation （使法律、规则等）生效, 开始执行: When do the new safety rules come into force? 新的安全规则何时生效? (from/out of) force of `habit (because of) the tendency to do (some) things in a certain way from always having done so in the past （出于）习惯势力: It's force of habit that gets me out of bed at 7.15 each morning. 我每天早晨7点15分就起床, 这已成了习惯. in `force (a) (of people) in large numbers （指人）大量的, 大批的: The police were present at the demonstration in (full) force. 警方派出大队人马在示威游行的现场戒备. (b) (of a law, rule, etc) effective or in operation （指法律、规则等）有效的, 现行的: The new safety regulations are now in force. 新的安全规则现已生效. join forces => join.
+force 2
+
+2 / fR:s; fRrs/ v 
+ [Tn.pr, Cn.t] make (sb/oneself) do sth he/one does not want to do; compel; oblige 使（某人[自己]）做不愿做的事; 强迫; 逼迫; 迫使: force a confession out of sb 逼某人招供 * The thief forced her to hand over the money. 强盗逼她把钱交出来. * He forced himself to speak to her. 他硬着头皮和她搭话. * The president was forced into resigning/to resign. 会长被迫辞职. 
+ [Tn.pr, Tn.p] use physical strength to move (oneself) against resistance; use physical strength to move (sth) 靠体力使（自己）逆阻力而动; 用力使（某物）移动: force one's way through a crowd 挤过人群 * force a way in/out/through 挤入[出/过] * (fig 比喻) The government forced the bill through Parliament. 政府迫使议会通过该法案. * force clothes into a bag 硬把衣服塞进包里. 
+ [Tn, Cn.a] break (sth) open using physical strength 用力打开（某物）: force (open) a door, lock, window, safe 强行打开门、锁、窗户、保险柜. 
+ [Tn] cause or produce (sth) by effort, esp when under stress 勉强促成或产生（某事物）（尤指迫于压力）: a forced smile/laugh, ie not the natural result of amusement 强作笑脸[强装欢笑]. 
+ [Tn] cause (fruit, plants, etc) to reach maturity earlier than is normal by keeping them under special conditions 使（果实、植物等）早熟. 
+ (idm 习语) force sb's `hand make sb do sth unwillingly or sooner than he intended 迫使某人勉强或提前做某事. `force the issue act so as to make an immediate decision necessary 为迫使立即做出必要的决定而采取行动. force the `pace go very fast in a race, etc in order to tire the other competitors （在比赛等活动中为使对手疲劳）加快速度. 
+ (phr v) force sth back try very hard not to show (an emotion) 极力不流露出（某种感情）: force back one's tears 强忍着眼泪. force sth down (a) compel sb/oneself to swallow (food and drink) when he/one does not want to 强迫某人[自己]咽下（食物和饮料）: After being ill I didn't feel like eating but I managed to force something down. 我病后不想吃东西, 不过还是勉强咽了一点. (b) compel (an aircraft) to land, eg because a bomb is found on board 迫使（飞机等）降落（如因发现机上有炸弹）. force sth on sb make sb accept sth against his will 勉强某人接受某事物: force one's ideas, company, attention on sb 把自己的思想强加于人、硬要陪伴某人、硬要照料某人 * Higher taxes were forced on the people. 政府强行提高税收.
+
+ # ,forced `labour compulsory hard work, usu under harsh conditions 强迫劳动.
+ ,forced `landing emergency landing that an aircraft has to make （飞行器的）紧急降落, 迫降.
+ ,forced `march long emergency march made by troops 强行军.
+>>>>>>> dd8d3f99120b308e98685fafdef7ccaf25fff527
