@@ -4102,6 +4102,7 @@ JUDGE
 • + question word It's difficult to gauge how they'll react.
 Thesaurus+: ↑Analysing and evaluating ↑Assessing and estimating value
 
+<<<<<<< HEAD
 bolster
 bolster UK  [ˈbəʊl.stə r ] US  [ˈboʊl.stɚ] verb transitive [bolsters bolstering bolstered]
 to support or improve something or make it stronger
@@ -4294,3 +4295,286 @@ sup‧posed /səˈpəʊzd, səˈpəʊzəd $ -ˈpoʊzd, -ˈpoʊzəd/ BrE  AmE  ad
 [Word Family: verb: ↑suppose, ↑presuppose; noun: ↑supposition, ↑presupposition; adverb: ↑supposedly; adjective: ↑supposed]
 claimed by other people to be true or real, although you do not think they are right:
  gossip about Emma’s supposed affair with Peter
+=======
+enrich
+enrich UK  US  [ɪnˈrɪtʃ] verb [enriches enriching enriched]
+IMPROVE
+1. transitive to improve the quality of something by adding something else
+• Fertilizer helps to enrich the soil.
+• My life was greatly enriched by knowing her.
+Thesaurus+: ↑Making things better ↑Becoming better
+HAVE MORE MONEY
+2. transitive often R to make something or someone richer
+• He claimed that the large stores were enriching themselves at the expense of their customers.
+Thesaurus+: ↑Making things better ↑Becoming better
+Derived: enrichment
+
+plunge
+I. plunge1 /plʌndʒ/ BrE  AmE  verb
+[Date: 1300-1400; Language: Old French; Origin: plongier, from Vulgar Latin plumbicare, from Latin plumbum 'lead']
+1. [I, T always + adv/prep] to move, fall, or be thrown suddenly forwards or downwards
+plunge off/into etc
+ Her car swerved and plunged off the cliff.
+ Both the climbers had plunged to their deaths.
+2. [intransitive] if a price, rate etc plunges, it suddenly decreases by a large amount:
+ The unemployment rate plunged sharply.
+plunge to
+ Oil prices have plunged to a new low.
+ In the recession, the company’s profits plunged 60%.
+3. [intransitive] literary if a ship plunges, it moves violently up and down because of big waves
+plunge in (also plunge into something) phrasal verb
+1. to start talking or doing something quickly and confidently, especially without thinking about it first:
+ It’s a difficult situation. You can’t just plunge in and put everything right.
+ ‘I don’t agree,’ she said, plunging into the conversation.
+2. to jump or ↑dive into water:
+ He stripped off and plunged into the sea.
+3. plunge something ↔ in (also plunge something into something) to push something firmly and deeply into something else:
+ He opened the bag and plunged his hand in.
+ Plunge the pasta into boiling water.
+ Repeatedly she plunged the knife into his chest.
+plunge (somebody/something) into something phrasal verb
+to suddenly experience a difficult or unpleasant situation, or to make someone or something do this:
+ A strike would plunge the country into chaos.
+ The house was suddenly plunged into darkness.
+ After the war, the family plunged into debt.
+II. plunge2 BrE  AmE  noun
+1. take the plunge to decide to do something important or risky, especially after thinking about it for a long time:
+ We took the plunge and set up our own business.
+2. [countable] a sudden large decrease in the price, value etc of something
+plunge in
+ a dramatic plunge in house prices
+3. [countable usually singular] a sudden movement down or forwards:
+ The plane began a headlong plunge towards the Earth.
+4. [countable usually singular] when someone suddenly becomes involved in something new
+plunge into
+ his sudden plunge into marriage
+5. [countable usually singular] a jump or ↑dive into water, or a quick swim
+plunge in/into
+ a quick plunge in the lake
+ 
+ unwrap
+un‧wrap /ʌnˈræp/ BrE  AmE  verb (past tense and past participle unwrapped, present participle unwrapping) [transitive]
+to remove the paper, plastic etc that is around something OPP wrap up:
+ Brigitte was unwrapping her birthday presents.
+ 
+ irritate
+ir‧ri‧tate /ˈɪrəteɪt, ˈɪrɪteɪt/ BrE  AmE  verb [transitive]
+[Date: 1500-1600; Language: Latin; Origin: past participle of irritare 'to cause strong feelings in, excite']
+1. to make someone feel annoyed or impatient, especially by doing something many times or for a long period of time:
+ It really irritates me when he doesn’t help around the house.
+2. to make a part of your body painful and sore:
+ This cream may irritate sensitive skin.
+ irritant
+irritant UK  [ˈɪr.ɪ.t ə nt] US  [-t ̬ənt] noun countable [irritants]
+ 
+MAKING ANGRY
+1. something that causes trouble or makes you annoyed
+• The report is bound to add a new irritant to international relations.
+Thesaurus+: ↑Difficult things and people ↑Preventing and impeding
+ 
+MAKING SORE
+2. a substance that makes part of your body sore or painful
+• Pollen is an irritant, causing red and sore eyes in sensitive people.
+Thesaurus+: ↑Pain and painful
+
+dawn on
+dawn on somebody phrasal verb (see also ↑dawn)
+if a fact dawns on you, you realize it for the first time:
+ The ghastly truth dawned on me.
+ It dawned on me that Jo had been right all along.
+
+ dawn
+dawn UK  [dɔːn] US  [dɑːn] noun countable or uncountable [dawns]
+1. <A > the period in the day when light from the sun begins to appear in the sky
+• We woke at dawn.
+• We left as dawn was breaking (= starting).
+• We left at the break of dawn.
+• Twenty-three people were arrested and large quantities of heroin were seized in a dawn raid (= when police officers suddenly enter a building, in an attempt to catch people involved in illegal activities).
+Thesaurus+: ↑Days and times of day
+2. the dawn of sth
+literary the start of a period of time or the beginning of something new
+• The fall of the Berlin Wall marked the dawn of a new era in European history.
+Thesaurus+: ↑Beginnings and starts
+3. from dawn to dusk
+from early morning until night
+• We worked from dawn to dusk, seven days a week.
+Thesaurus+: ↑Days and times of day
+ 
+• She slept fitfully throughout the night and arose before dawn.
+• Three prisoners were involved in a dawn jailbreak today.
+• They mounted a surprise attack at dawn.
+• She's always up before dawn.
+• They partied till dawn.
+ 
+verb intransitive
+ 
+BEGIN
+1. If a day or period of time dawns, it begins
+• He left the house just as the day was dawning.
+• As 1990 dawned, few people could have predicted the dramatic changes that were to take place in eastern Europe during that year.
+Thesaurus+: ↑Starting and beginning ↑Starting again
+ 
+BECOME KNOWN
+2. to become known or obvious
+• Gradually the truth about him dawned.
+• + that It eventually dawned that he wouldn't be coming back.
+Thesaurus+: ↑Thinking and contemplating
+Phrasal Verb: dawn on somebody
+
+daunting
+daunt‧ing /ˈdɔːntɪŋ $ ˈdɒːn-/ BrE  AmE  adjective
+frightening in a way that makes you feel less confident:
+ The trip seemed rather daunting for a young girl.
+ He’s got the daunting task of following in Ferguson’s footsteps.
+ the daunting prospect of asking for a loan
+• • •
+THESAURUS
+▪ difficult not easy to do, understand, or deal with: a difficult question | The homework was really difficult. | It is difficult to see how peace can be achieved in the region.
+▪ hard difficult. Hard is less formal than difficult and is very common in spoken English: The test was really hard. | a hard decision | It was hard to forgive him.
+▪ tough very difficult, because you have to use a lot of effort, or because it affects you emotionally: a tough race | Doctors have to make tough decisions about who to treat first. | The team faces some tough competition. | Life is tough sometimes.
+▪ tricky difficult because it is complicated and full of problems: She had helped him out of a tricky situation. | Merging the two companies was bound to be tricky.
+▪ awkward rather difficult to deal with – used especially when something could be embarrassing: You’ve put me in a very awkward position. | It was getting dark and foggy, which made the rescue even more awkward.
+▪ challenging difficult in an interesting or enjoyable way: I wanted a job that was more challenging. | a challenging piece of music
+▪ demanding difficult and tiring, because it takes a lot of effort: Being a nurse in a busy hospital is a demanding job. | it can be very demanding bringing up young children.
+▪ daunting if something seems daunting, you think that it will be difficult and you do not feel confident about being able to do it: a daunting challenge | The task seemed a little daunting at first.
+▪ delicate needing to be dealt with carefully or sensitively, especially in order to avoid offending people or causing problems: This is a very delicate subject, and it can be difficult to talk about it with your parents. | He thanked me for the way in which this delicate matter had been handled.
+
+pick up
+pick up phrasal verb (see also ↑pick)
+1. LIFT SOMETHING/SOMEBODY UPpick something/somebody ↔ up to lift something or someone up:
+ He picked up the letter and read it.
+ The phone rang and I picked it up.
+ Mummy, can you pick me up?
+2. pick yourself up to get up from the ground after you have fallen:
+ Carol picked herself up and brushed the dirt off her coat.
+3. TIDY SOMETHING pick something ↔ up American English to make a room or building tidy:
+ Pick up your room before you go to bed.
+4. GET SOMETHING pick something ↔ up informal
+a) to get or win something:
+ He’s already picked up three major prizes this year.
+b) to buy something or get it from a shop etc:
+ I picked up an evening paper on the way home.
+ For more details, pick up a leaflet in your local post office.
+c) to get an illness:
+ I picked up a virus while I was in America.
+5. COLLECT pick something ↔ up to collect something from a place:
+ I’ll pick my things up later.
+ She just dropped by to pick up her mail.
+6. LET SOMEBODY INTO A VEHICLE pick somebody ↔ up to let someone get into your car, boat etc and take them somewhere:
+ I’ll pick you up at the station.
+ The survivors were picked up by fishing boats from nearby villages.
+7. LEARN pick something ↔ up to learn something by watching or listening to other people:
+ I picked up a few words of Greek when I was there last year.
+ Mary watched the other dancers to see if she could pick up any tips.
+8. NOTICE pick something ↔ up to notice something that is not easy to notice, such as a slight smell or a sign of something:
+ I picked up a faint smell of coffee.
+ The dogs picked up the scent and raced off.
+ We picked up their tracks again on the other side of the river.
+9. RADIO/SIGNALSpick something ↔ up if a machine picks up a sound, movement, or signal, it is able to notice it or receive it:
+ The sensors pick up faint vibrations in the Earth.
+ I managed to pick up an American news broadcast.
+10. SEX pick somebody ↔ up to become friendly with someone you have just met because you want to have sex with them:
+ young women sitting around in bars waiting to be picked up
+11. START AGAIN
+a) if you pick up where you stopped or were interrupted, you start again from that point:
+ We’ll meet again in the morning and we can pick up where we left off.
+b) pick something ↔ up if you pick up an idea that has been mentioned, you return to it and develop it further:
+ I’d like to pick up what you said earlier.
+ This same theme is picked up in his later works.
+12. IMPROVE
+a) if a situation picks up, it improves:
+ Her social life was picking up at last.
+ The economy is finally beginning to pick up again.
+ We’ve been through a bit of a bad patch, but things are picking up again now.
+b) pick somebody up if a medicine or drink picks you up, it makes you feel better ⇨ pick-me-up
+13. ROAD pick something ↔ up if you pick up a road, you go onto it and start driving along it:
+ We take the A14 to Birmingham and then pick up the M5.
+14. TRAIN/BUS pick something ↔ up if you pick up a train, bus etc, you get onto it and travel on it
+15. pick up speed/steam to go faster:
+ The train was gradually picking up speed.
+16. pick up the bill/tab (for something) informal to pay for something:
+ Why should the taxpayer pick up the tab for mistakes made by a private company?
+17. WIND if the wind picks up, it increases or grows stronger
+18. COLOUR pick something ↔ up if one thing picks up a colour in something else, it has an amount of the same colour in it so that the two things look nice together:
+ I like the way the curtains pick up the red in the rug.
+19. CRIMINAL pick somebody ↔ up if the police pick someone up, they take them somewhere to answer questions or to be locked up:
+ He was picked up by police as he was trying to leave the country.
+20. pick up the pieces (of something) to try to make your life normal again after something very bad has happened to you:
+ Thousands of victims of the earthquake are now faced with the task of picking up the pieces of their lives.
+21. pick up the threads (of something) if you pick up the threads of something that you were doing, you try to return to it and start doing it again after it stopped or was changed:
+ Now that the war was over they could pick up the threads of their lives again.
+22. pick your feet up spoken used to tell someone to walk properly or more quickly
+
+pick a fight
+pick a fight/quarrel/argument idiom
+to start a fight/quarrel/argument with someone
+• He'd had too much to drink and tried to pick a fight with the bartender.
+Thesaurus+: ↑Arguing and disagreeing
+Main entry: pickidiom
+From Oxford Advanced Learners Dictionary 8th Ed.
+pick a fight (with somebody)
+pick a ˈfight/ˈquarrel (with sb) idiom
+to deliberately start a fight or an argument with sb
+• He had drunk too much and was ready to pick a fight with anyone who crossed his path.
+Main entry: ↑pickidiom
+
+starting point
+ˈstarting ˌpoint (UK also start point) noun countable usually singular [starting points] UK  US 
+a place or position where something begins
+• The starting point for the guided tour of the town is in the market square.
+• The committee emphasised that its report was only meant as a starting point for discussion.
+Thesaurus+: ↑Beginnings and starts
+
+11. slip your mind/memory if something slips your mind, you forget it:
+ I meant to buy some milk, but it completely slipped my mind.
+12. let something slip to say something without meaning to, when you had wanted it to be a secret:
+ He let it slip that they were planning to get married.
+13. GET FREE [transitive] to get free from something that was holding you:
+ The dog slipped his collar and ran away.
+14. slip through the net British English, slip through the cracks American English if someone or something slips through the net, they are not caught or dealt with by the system that is supposed to catch them or deal with them:
+ In a class of 30 children, it is easy for one to slip through the net and learn nothing.
+15. let something slip (through your fingers) to not take an opportunity, offer etc:
+ Don’t let a chance like that slip through your fingers!
+16. slip one over on somebody especially American English informal to deceive or play a trick on someone
+17. slip a disc to suffer an injury when one of the connecting parts between the bones in your back moves out of place
+slip away phrasal verb
+1. to leave a place secretly or without anyone noticing:
+He slipped away into the crowd.
+2. if something such as an opportunity slips away, it is no longer available:
+ This time, Radford did not let her chance slip away.
+slip something ↔ in phrasal verb
+to use a word or say something without attracting too much attention:
+ He had slipped in a few jokes to liven the speech up.
+slip out phrasal verb
+if something slips out, you say it without really intending to:
+ I didn’t mean to say it. The words slipped out.
+slip up phrasal verb
+to make a mistake ⇨ slip-up:
+ The company apologized for slipping up so badly.
+slip up on
+ Someone had slipped up on the order.
+ COLLOCATIONS
+■ ADJECTIVES/NOUN + hazard
+▪ a health hazard The rubbish needs to be removed before it becomes a health hazard.
+▪ a fire hazard The unoccupied building was declared a fire hazard.
+▪ a safety hazard Protesters claim that the nuclear reactor is a safety hazard.
+▪ a traffic hazard Cars parked in the wrong places can cause a traffic hazard.
+▪ a natural hazard (=a hazard caused by nature) One of the most widespread natural hazards is flooding.
+▪ an environmental hazard (=a danger or problem in the environment) Oil from the tanker caused an environmental hazard.
+▪ a serious/major hazard Lead pipes are a serious hazard to health.
+▪ a potential hazard Microwave ovens are a potential hazard if not used properly.
+■ verbs
+▪ cause/create a hazard There was concern that overhead power lines could cause a health hazard.
+▪ pose a hazard (=be a possible hazard) It was not known whether radiation from the weapons posed any hazard to soldiers.
+▪ eliminate a hazard (=get rid of a hazard) They took steps to eliminate all potential fire hazards.
+▪ reduce a hazard He led the campaign to recognize and reduce the hazard from radiation in our environment.
+• • •
+THESAURUS
+▪ risk the chance that something bad may happen: Smoking greatly increases the risk of lung cancer.
+▪ threat the possibility that something very bad will happen: the only way to reduce the threat of nuclear war
+▪ hazard something that may be dangerous or cause accidents or problems: natural hazards like avalanches
+II. hazard2 BrE  AmE  verb [transitive]
+1. to say something that is only a suggestion or guess and that might not be correct:
+ $50,000? I don’t know. I’m only hazarding a guess.
+2. formal to risk losing your money, property etc in an attempt to gain something
+>>>>>>> f8704bd3e52c0a9803da15122c78c47e04fb13db

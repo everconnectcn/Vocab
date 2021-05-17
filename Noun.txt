@@ -6452,6 +6452,7 @@ Derived: vibrancy ▪ vibrantly
 
 Psychological wellbeing
 
+<<<<<<< HEAD
 enrich
 enrich UK  US  [ɪnˈrɪtʃ] verb [enriches enriching enriched]
 IMPROVE
@@ -6826,3 +6827,484 @@ shelter noun 2
 transfer verb 1
 up sticks idiom
 winter verb
+=======
+alter ego
+ˌalter ˈego [plural alter egos] noun countable [alter egos] UK  US 
+the part of someone's personality which is not usually seen by other people
+• Clark Kent is Superman's alter ego.
+Thesaurus+: ↑Mind and personality ↑Science of psychology and psychoanalysis
+
+egotistical
+ego·is·tic BrE [ˌeɡəʊˈɪstɪk] ; NAmE [ˌeɡoʊˈɪstɪk]  BrE [ˌiːɡəʊˈɪstɪk] ; NAmE [ˌiːɡoʊˈɪstɪk]  (also egot·is·tic·al BrE [ˌeɡəˈtɪstɪkl] ; NAmE [ˌeɡəˈtɪstɪkl]  BrE [ˌiːɡəˈtɪstɪkl] ; NAmE [ˌiːɡəˈtɪstɪkl]  egot·is·tic BrE [ˌeɡəˈtɪstɪk] ; NAmE [ˌeɡəˈtɪstɪk]  BrE [ˌiːɡəˈtɪstɪk] ; NAmE [ˌiːɡəˈtɪstɪk] ) adjective
+Main entry: ↑egoismderived
+From Longman DOCE 5th Ed. (En-En)
+egotistical
+e‧go‧tis‧tic‧al /ˌiːɡəˈtəstɪkəl◂, ˌiːɡəˈtɪstɪkəl◂, ˌeɡ-/ BrE  AmE  adjective
+someone who is egotistical likes to talk about how great and important they think they are:
+ He’s a selfish, egotistical individual!
+—egotistically /-kli/ adverb
+THESAURUS
+▪ selfish thinking only about what you need or want, and not thinking about how other people feel or what other people want – used especially when criticizing a person or their behaviour: Amy, don’t be selfish. Let the others have a turn. | 'I’m not doing this for selfish reasons,' he said. | It was a very selfish thing to do.
+▪ egocentric (also self-centred British English, self-centered American English) believing that what you do and think is the most important thing, and not paying attention to what anyone else thinks or does – used when describing someone’s personality: Teenagers can be highly egocentric, and sometimes find it difficult to see another person’s point of view. | Children start off as self-centred little beings and they do not naturally think of the other person.
+▪ egotistical believing that you are better or more important than other people: Like many famous writers I’ve met, he was arrogant and egotistical. | He’s just another young player who has gone out of control in the increasingly egotistical world of professional sports.
+▪ self-serving only thinking of getting advantages for yourself: People’s fears are exaggerated by self-serving politicians. | They described the report as ‘self-serving and contradictory’.
+▪ think of nobody but yourself (also only think about yourself) to only think of what you want to do, and not consider what other people want – often used when criticizing someone who does this: The trouble with Alan is that he thinks of nobody but himself. | Before I had children, I only thought about myself and what I wanted.
+▪ it’s always me me me! informal used when criticizing someone for being selfish: It’s always me, me, me with you and I have had enough. I don’t need this – you’re welcome to yourself, my dear.
+
+egotist
+egotist UK  [ˈiː.gə ʊ.tɪst] US  [-goʊ-] (also egoist) disapproving noun countable [egotists]
+a person who considers themselves to be better or more important than other people
+• Politicians are notorious egotists.
+Thesaurus+: ↑Unpleasant people in general ↑Unpleasant men
+Derived: egotistic
+See also: egoist
+egotism
+egotism UK  [ˈiː.gə ʊ.tɪ.z ə m] US  [-goʊ-] (also egoism) disapproving noun uncountable
+thinking only about yourself and considering yourself better and more important than other people
+• Finding herself world-famous by the time she was eighteen only encouraged the actress's egotism.
+Thesaurus+: ↑Selfishness ↑Inconsiderate ↑Saddening, shocking and upsetting
+See also: egoism
+
+↑The press and news reporting
+The press and news reporting Thesaurus+ Level 5 (65)
+ambulance chaser noun
+ambulance-chasing adjective
+carry verb 9 broadcast
+chequebook noun 2
+city desk noun 1; noun 2
+CNN noun
+columnist noun
+correspondent noun 1
+court correspondent noun
+cover verb 3 report
+coverage noun 1 report; noun 2 dealing with
+cub reporter noun
+current affairs plural noun
+desk noun 3 newspaper office
+dispatch noun 2 kill
+file verb 3 store/record information
+Fleet Street noun
+free press noun
+front-page adjective
+gonzo adjective
+gossip column noun
+gutter press noun
+hack noun 1 writer
+hit the headlines idiom
+hot off the press idiom
+investigative journalism noun
+investigative journalist noun
+journalism noun
+journalist noun
+journalistic adjective
+journo noun
+lay bare something idiom
+lobby correspondent noun
+muckraker noun
+muckraking noun
+news noun 2; noun 5
+news agency noun
+news conference noun
+newshound noun
+newsroom noun
+newsworthy adjective
+paparazzi plural noun
+photojournalism noun
+photojournalist noun
+Press Association noun
+press baron noun
+press box noun
+press conference noun
+press gallery noun
+press release noun
+press secretary noun
+reportage noun
+reported adjective 1
+reporter noun
+scoop noun 3 news; verb 3 news
+silly season noun
+spoiler noun 2 taking attention
+story noun 2 description
+syndicate verb
+syndicated adjective 1
+wire service noun
+
+pinnacle
+pinnacle UK  US  [ˈpɪn.ə.kl ̩] noun [pinnacles]
+ 
+SUCCESS
+1. countable usually singular the most successful or admired part of a system or achievement
+• By the age of thirty-two she had reached the pinnacle of her career.
+Thesaurus+: ↑Higher and lower points of achievement ↑Success and achievements ↑Failures
+TOP
+2. countable a small pointed tower on top of a building, or the top part of a mountain
+• literary The pinnacles of the Himalayas were visible above the clouds.
+Thesaurus+: ↑Hills and mountains ↑Roofs and parts of roofs
+
+↑Success and achievements
+Success and achievements Thesaurus+ Level 3 (78)
+accomplishment noun 1
+achievement noun
+acme noun
+apex noun 2
+apogee noun
+ascent noun 3 importance
+attainment noun 1; noun 2
+be no mean feat idiom
+big time noun
+blinder noun 1 good performance
+boom noun 2 period of growth
+chef d'oeuvre noun
+climax noun 1
+consummation noun 2 completion
+coup noun 1 success
+CSF noun
+dizzy heights of something idiom
+early bird catches the worm idiom
+escapade noun
+Every dog has its day idiom
+feat noun
+feather in your cap idiom
+fruition noun
+fulfilment noun 1 sth you do
+future noun 3 time to come
+glory days plural noun
+half the battle idiom
+have something under your belt idiom
+He who laughs last, laughs longest idiom
+height noun b; noun c
+heyday noun
+high point noun
+high tide noun 2 successful point
+high water mark noun 2 successful point
+in your own right idiom
+Indian summer noun 2 successful time
+joy noun 3 success
+luck noun 2
+lulu noun
+magnum opus noun
+make history idiom
+masterpiece noun 1; noun 2
+masterstroke noun
+nadir noun
+narrow squeak idiom
+no mean feat idiom
+pass noun 1 examination result
+peak noun 1 highest point; verb 2 hat part
+perform miracles miracle idiom
+pinnacle noun 1 success
+plumb the depths idiom
+prime noun 2
+prospect noun 2 possibility
+quantum leap noun
+record noun 7 best
+result noun 5 test; noun 7 competition; noun 8 competition
+roaring success idiom
+rock bottom noun 1 low
+sell-out noun 1 all sold
+success noun 1; noun 2
+success story noun
+summit noun 3 highest point
+top noun 5 most important
+tour de force noun
+track record noun
+triumph noun
+triumphal adjective
+trough noun 2 low point
+turnaround noun 2 big change
+vertex noun 2
+zenith noun
+
+artificial respiration
+ˌartificial respiˈration noun uncountable UK  US 
+the act of forcing air in and out of the lungs of a person who has stopped breathing, especially by blowing into their mouth and pressing their chest to help them start breathing again
+• Rescuers pulled the child from the river, and she was given artificial respiration.
+Thesaurus+: ↑Resuscitation
+
+empathy
+empathy UK  US  [ˈem.pə.θi] noun uncountable
+the ability to share someone else's feelings or experiences by imagining what it would be like to be in their situation
+Compare sympathy
+Thesaurus+: ↑Empathy and sensitivity ↑Sympathy and compassio
+empathy
+em·pathy [empathy empathies] BrE [ˈempəθi]  NAmE [ˈempəθi]  noun uncountable
+the ability to understand another person's feelings, experience, etc
+• ~ (with sb/sth) the writer's imaginative empathy with his subject
+• ~ (for sb/sth) empathy for other people's situations
+• ~ (between A and B) The empathy between the two women was obvious.
+Word Origin:
+early 20th cent.: from Greek empatheia (from em- ‘in’ + pathos ‘feeling’) translating German Einfühlung.
+Example Bank:
+• She had a deep empathy with animals.
+• The nurse should try to develop empathy between herself and the patient.
+• Both authors have the skill to make you feel empathy with their heroines.
+• It is important to develop the empathy between dogs and their handlers.
+• She shows a lack of empathy for other people's situations.
+• the writer's imaginative empathy with his subject
+Empathy is the capacity to understand or feel what another person is experiencing from within their frame of reference, that is, the capacity to place oneself in another's position.[1] Definitions of empathy encompass a broad range of emotional states. Types of empathy include cognitive empathy, emotional (or affective) empathy, somatic, and spiritual empathy.
+
+↑Empathy and sensitivity
+Empathy and sensitivity Thesaurus+ Level 3 (23)
+attuned to adjective 1
+commune verb 2 government
+communicate verb 2 share information
+communion noun 1
+emotional intelligence noun
+empathetic adjective
+empathize verb
+empathy noun
+identify with somebody phrasal verb
+project verb 5 make an image
+put yourself in somebody's place idiom
+rapport noun
+relate to somebody phrasal verb
+relate to something phrasal verb
+self-discovery noun
+sensitive adjective 3 kind
+sensitively adverb
+sensitiveness noun
+sensitivity noun 1 kindness
+sympathetic adjective 2 understanding
+sympathize verb 1 understand
+understand verb 3 know
+understanding adjective 4 agreement
+
+ com‧mune2 /kəˈmjuːn/ BrE  AmE  verb
+[Date: 1300-1400; Language: Old French; Origin: communier, from Latin communicare; ⇨ ↑communicate]
+commune with somebody/something phrasal verb formal
+1. to communicate with a person, god, or animal, especially in a mysterious ↑spiritual way
+2. commune with nature to spend time outside in a natural place, enjoying it in a quiet peaceful way:
+ Take time to relax and commune with nature.
+ identify with somebody
+identify with sb phrasal verb [identifies with sb identifying with sb identified with sb identified with sb identified with sb]
+to feel that you are similar to someone in some way and that you can understand them or their situation because of this
+• Many women of normal weight feel unable to identify with the super-thin models in glossy magazines.
+Thesaurus+: ↑Empathy and sensitivity ↑Sympathy and compassion
+Main entry: identifyphrasal verb
+
+your heart goes out to somebody
+your heart goes out to sb idiom
+If your heart goes out to someone who is in trouble, you feel sympathy for them
+• Our hearts go out to the families of the victims of this terrible tragedy.
+Thesaurus+: ↑Sympathy and compassion
+Main entry: heartidiom
+
+(a) shoulder to cry on
+a shoulder to cry on idiom
+someone who is willing to listen to your problems and give you sympathy, emotional support and encouragement
+• I wish you'd been here when my mother died and I needed a shoulder to cry on.
+Thesaurus+: ↑Sympathy and compassion
+Main entry: shoulderidiom
+
+Every cloud has a silver lining
+Every cloud has a silver lining. idiom saying
+said to emphasize that every difficult or unpleasant situation has some advantage
+Thesaurus+: ↑Sympathy and compassion
+Main entry: cloudidiom
+
+compassion
+ / kEm5pAFn; kEm`pAFEn/ n [U] ~ (for sb) pity for the sufferings of others, making one want to help them 同情; 怜悯: be filled with compassion 充满怜悯 * a woman of great compassion 富有同情心的女子 * The plight of the refugees arouses our compassion. 难民的困苦引起我们的同情. * Out of (ie Because of) compassion for her terrible suffering they allowed her to stay. 他们因为同情她的悲惨遭遇而准许她居留. * They took compassion on her children and offered them a home. 他们因可怜她的孩子而给他们提供了住处.
+ > compassionate / kEm5pAFEnEt; kEm`pAFEnIt/ adj showing or feeling compassion 表示怜悯的; 有同情心的. compassionately adv. compassionate leave (Brit) leave2(1) granted (eg to a member of the armed forces) because of some special personal circumstance 特殊私事假（如准予军人的）: She was allowed compassionate leave from work to attend her father's funeral. 她获准丧假为父亲送葬.
+ 
+ feel for somebody
+feel for sb phrasal verb [felt for sb felt for sb felt for sb feels for sb feeling for sb]
+to experience sympathy and sadness for someone because they are suffering
+• I know what it's like to be lonely, so I do feel for her.
+Thesaurus+: ↑Sympathy and compassion
+Main entry: feelphrasal verb
+
+(a) good listener
+a good listener idiom
+someone who gives you a lot of attention when you are talking about your problems or things that worry you, and tries to understand and support you
+Thesaurus+: ↑Sympathy and compassion
+Main entry: listeneridiom
+
+ We both felt pity for her when we saw how lonely she was.
+ 
+ point out
+point (sth/sb) out phrasal verb before or after object [points sth/sb out pointing sth/sb out pointed sth/sb out pointed sth/sb out pointed sth/sb out]
+<E > to make a person notice someone or something, usually by telling them where they are or by holding up one of your fingers towards them
+• If you see her, please point her out to me.
+• The tour guide pointed out the inscription that runs round the inside of the dome.
+Thesaurus+: ↑Showing and demonstrating
+ 
+• She pointed out a few problems with the house that I hadn't noticed.
+• I'd made one or two mistakes which she pointed out to me.
+• Huw pointed out one or two architectural details that I hadn't noticed.
+• He pointed out some interesting places to go on the map.
+• He pointed out his boss in the crowd.
+Main entry: pointphrasal verb
+
+ kinship
+kinship UK  US  [ˈkɪn.ʃɪp] noun uncountable
+the relationship between members of the same family, or a feeling of being close or similar to other people or things
+• Different ethnic groups have different systems of kinship.
+• He felt a real sense of kinship with his fellow soldiers.
+Thesaurus+: ↑Family relations in general
+kinship
+kin‧ship /ˈkɪnʃɪp/ BrE  AmE  noun
+1. [uncountable] literary a family relationship:
+ the ties of kinship
+2. [singular, uncountable] a strong connection between people ⇨ rapport
+kinship between
+ The sense of kinship between the two men is surprising.
+ He felt a kinship with the only other American on the base.
+ next of kin
+ˌnext of ˈkin [next of kin] BrE   NAmE   noun countable, uncountable (pl. next of kin)
+your closest living relative or relatives
+• I'm her next of kin.
+• Her next of kin have been informed.
+• The form must be signed by next of kin.
+
+Example Bank:
+• He lives in a hostel for the homeless.
+• We stayed at a student hostel during the conference.
+• We stayed at a youth hostel in Perugia.
+• a probation hostel for young offenders
+• homeless families staying in bed and breakfast hostels
+• All we could afford was dormitory-style accommodation at a hostel.
+• Hostel accommodation is provided for the seasonal workers.
+• Hostels in the city cost about $10 a night.
+• The building had been used as a student hostel.
+• There were several backpacker hostels in that part of the town.
+• They were on a walking tour, staying in youth hostels.
+• a youth/student hostel
+webinar
+webinar UK  [ˈweb.ɪ.nɑː r ] US  [-ə.nɑːr] noun countable [webinars]
+an occasion when a group of people go online at the same time to study and discuss something
+Thesaurus+: ↑Internet terminology and abbreviations
+
+amenity
+amenity UK  [əˈmiː.nɪ.ti] US  [əˈmen.ə.t ̬i] noun countable usually plural [amenities]
+1. something, such as a swimming pool or shopping centre, that is intended to make life more pleasant or comfortable for the people in a town, hotel or other place
+• The council has some spare cash which it proposes to spend on public amenities.
+Thesaurus+: ↑Society - general words
+2. basic amenities
+things considered to be necessary to live comfortably such as hot water
+• The 200-year-old jail is overcrowded, understaffed and lacking in basic amenities.
+Thesaurus+: ↑Important and essential things ↑Information and messages
+
+(idiomatic) A holiday or vacation during which one does something similar to what one does as work.
+1994, Diane Heilenman, Gardening in the Lower Midwest: A Practical Guide for the New Zones 5 and 6, Indiana University Press (→ISBN), page 114:
+Although it is in the nature of a busman's holiday, I always try to visit a nursery and a botanic garden when I'm traveling.
+2015, Michael Bamberger, Men in Green, Simon and Schuster (→ISBN), page 254:
+I have come to realize that the busman's holiday is an elemental part of my life. Actually, I don't know where my work life stops and my recreational life begins.
+
+far-off
+far-off UK  [ˌfɑːˈrɒf] US  [-ˈrɑːf] adjective
+1. describes a time that is a long way from the present, or in the distant past or future
+• some point in the far-off future
+Thesaurus+: ↑Distant in space and time
+2. describes a place that is a great distance away
+Thesaurus+: ↑Distant in space and time
+
+a clean ˈsheet/ˈslate idiom
+a record of your work or behaviour that does not show any mistakes or bad things that you have done
+• No government operates with a completely clean sheet.
+• They kept a clean sheet in the match (= no goals were scored against them).
+Main entry: ↑cleanidiom
+
+getting away from it all: escaping in order to rest from a daily routine.
+After I passed my exams, I wanted to get away from it all for at least a couple of days.
+go off the beaten track: to visit an uncommon place.
+Unlike my brother, I prefer to go off the beaten track.
+
+horde
+horde UK  [hɔːd] US  [hɔːrd] noun often disapproving [hordes]
+1. countable a large group of people
+• Hordes of students on bikes made crossing the road difficult.
+Thesaurus+: ↑Groups of people
+2. in their hordes informal
+in very great numbers
+• When they heard the concert was free, they came in their hordes.
+Thesaurus+: ↑Groups of people
+
+7. out of season
+A. If fruit and vegetables are out of season, they do not grow in the area during that time
+• In Britain, tomatoes are out of season in winter.
+Thesaurus+: ↑Unavailable and inaccessible ↑Present
+B. during the period when fewer people want to travel or have a holiday
+Thesaurus+: ↑Making bookings and reservations ↑Tourism and holidays ↑Hotels and hostels
+C. during the period when it is not legal to hunt animals
+Thesaurus+: ↑Hunting
+ 
+ picturesque
+picturesque UK  [ˌpɪk.tʃ ə rˈesk] US  [-tʃəˈresk] adjective
+<A > (especially of a place) attractive in appearance, especially in an old-fashioned way
+• the picturesque narrow streets of the old city
+Thesaurus+: ↑Attractive ↑Sexual attraction ↑Smart and elegant
+ 
+• It was a pretty town with a picturesque harbour and well-preserved buildings.
+• The town itself is not especially picturesque.
+• She lives in a very picturesque village in Suffolk.
+• This part of the town is especially picturesque.
+• The countryside in this region is very picturesque.
+
+Instagrammable (comparative more Instagrammable, superlative most Instagrammable) (informal) Visually attractive or interesting such that it lends itself to being photographed and posted on social media (specifically on Instagram); photogenic. [
+
+amenity
+noun
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+basic
+▪ In many developing societies the lack of basic amenities, such as clean water and proper sanitation, produces an inherently unsafe environment.
+▪ The conditions are very poor and overcrowded, as there is a total lack of the most basic amenities.
+▪ An innovative renewal programme gave the urban poor legal protection, provided basic amenities and encouraged self-help work.
+▪ Far fewer houses for example lack basic amenities.
+▪ Heating is regarded as a basic amenity.
+local
+▪ The sheltered housing is close to local amenities to allow residents easy access to shops and other facilities.
+▪ Dark environments overcome by imported religious signs and local domestic amenities.
+▪ After the scheduled 1995 opening of the Newton Cap scheme, the picturesque valley around it will become a great local amenity.
+▪ It has been recently renovated, beautifully redecorated and is close to all the local amenities.
+▪ This means that nobody is around to use the local amenities including shops, taxi services, libraries and the like.
+▪ At the same time it gave encouragement to local amenity groups to press for improvements.
+▪ The courses provide a detailed insight into the culture of the country as well as local amenities and business practices.
+modern
+▪ Nottingham is an ancient city with a Norman castle and an excellent variety of shops, theatre and other modern amenities.
+▪ The houses gave some of the poorer residents their first taste of modern domestic amenities.
+▪ A hotel as famous for its colonial traditions and gracious lifestyle as for its modern amenities.
+▪ It combines the delightful atmosphere of an Oxford market square with every modern amenity for comfortable and practical living today.
+▪ The hotel is proud to boast a highly professional team of staff and is well-equipped with all modern amenities.
+▪ It retains much of its old-world charms but a newer half of town offers all modern amenities.
+other
+▪ Nottingham is an ancient city with a Norman castle and an excellent variety of shops, theatre and other modern amenities.
+▪ Children have their own small pool and a playground. Other amenities include a games room, shop and air-conditioning throughout.
+▪ Picture-houses, plumbing, household science, wireless, television, electricity and gas and other urban amenities belonged to the future.
+public
+▪ Even where an application does arouse some opposition, issues of public amenity rarely arise.
+social
+▪ There are obviously wide differences in the provision of social amenities and social services.
+▪ A world of well-financed schools, ample social amenities, nice, comfortable childhoods.
+▪ But no art, major or minor, can be governed by the rules of social amenity.
+▪ He cared little about his living conditions, his personal appearance, or social amenities.
+■ VERB
+lack
+▪ What the hospital lacked in physical amenities, it made up for in services.
+provide
+▪ Both the existing bungalow and the new house would look into the garden of the house, providing an amenity for both.
+
+eye-opener (plural eye-openers)
+(literally) Something that causes the eyes to open, or that opens the eyes.
+(informal) Something that provides a sudden insight, or makes something clear that was previously mysterious.
+(informal, idiomatic) A startling or shocking revelation.
+A visit to the slaughterhouse was a real eye-opener to anyone who thought they understood where their food came from.
+(informal, euphemistic) A strong alcoholic beverage, especially one consumed in the morning.
+As soon as I got on the plane I asked the flight attendant for an eye-opener, but all he had to offer was orange juice.
+(informal) An attractive woman.
+(The addition of quotations indicative of this usage is being sought:)
+eye-opener
+eye-opener UK  [ˈaɪˌəʊ.p ə n.ə r ] US  [-ˌoʊ.p ə n.ɚ] noun countable usually singular
+something that surprises you and teaches you new facts about life, people, etc
+• Living in another country can be a real eye-opener.
+Thesaurus+: ↑Surprising and shocking ↑Making people sad, shocked and upset
+
+GET WORSE
+3. intransitive to go into a worse state, often because of lack of control or care
+• Productivity in the factory has slipped quite noticeably in the last year.
+Thesaurus+: ↑Deteriorating and making worse
+ 
+ESCAPE
+4. transitive to get free from, leave or escape something
+• The ship slipped its moorings.
+>>>>>>> f8704bd3e52c0a9803da15122c78c47e04fb13db
