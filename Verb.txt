@@ -4577,4 +4577,24 @@ II. hazard2 BrE  AmE  verb [transitive]
 1. to say something that is only a suggestion or guess and that might not be correct:
  $50,000? I don’t know. I’m only hazarding a guess.
 2. formal to risk losing your money, property etc in an attempt to gain something
->>>>>>> f8704bd3e52c0a9803da15122c78c47e04fb13db
+
+stall
+verb
+ENGINE
+1. intransitive or transitive If an engine stalls, or if you stall it, it stops working suddenly and without you intending it to happen
+• A car may stall due to the driver braking too suddenly.
+• I stalled the car twice during my driving test but still managed to pass.
+Thesaurus+: ↑Not functioning ↑Driving and operating road vehicles
+ 
+DELAY
+2. intransitive to delay taking action or avoid giving an answer in order to have more time to make a decision or get an advantage
+• She says she'll give me the money next week but I think she's just stalling (for time).
+Thesaurus+: ↑Delaying and wasting time
+3. transitive If you stall a person, you delay them or prevent them from doing something for a period of time
+• I managed to stall him for a few days until I'd got enough money to pay back the loan.
+• mainly US The thief broke into the office while his accomplice stalled off the security guard.
+Thesaurus+: ↑Delaying and wasting time
+4. transitive If you stall an event, you delay it or prevent it from happening for a period of time
+• Commandoes stalled the enemy attack by destroying three bridges.
+• Fears are growing that a tax increase may stall economic recovery.
+Thesaurus+: ↑Delaying and wasting time
