@@ -7536,7 +7536,6 @@ vineyard noun
 
 estate
 estate UK  US  [ɪˈsteɪt] noun [estates]
- 
 PROPERTY
 1. <I > countable a large area of land in the country which is owned by a family or an organization and is often used for growing crops or raising animals
 • It's a typical country estate with a large house for the owner, farm buildings and estate workers' houses.
@@ -7544,35 +7543,30 @@ Thesaurus+: ↑Farms and ranches ↑Areas of land where crops are grown
 2. countable legal everything that a person owns when they die
 • She left her entire estate to her niece.
 Thesaurus+: ↑Belongings and possessions
- 
 • The estate for sale includes two miles of river frontage.
 • What acreage is her estate?
 • With the income from the family estate, she's in clover.
 • The wood lies on the southern extremity of the estate.
 • She will inherit her father's estate when she reaches her majority.
- 
 BUILDINGS
 3. <A > countable UK a group of houses or factories built in a planned way
 • a housing estate
 • an industrial estate (= a group of factories)
 Thesaurus+: ↑Areas in towns and cities
- 
 • She was brought up in a council estate in Liverpool.
 • Police are blaming arsonists for the spate of fires in the Greenfields housing estate.
 • They have a four-bedroom house on a newish estate.
 • They live on a great concrete warren of a housing estate.
 • The estate contains 300 new homes, about a third of which are leased to the council.
- 
 CAR
-
 4. countable UK (also estate car , US station wagon) a car with a lot of space behind the back seat and an extra door at the back for putting in large objects
 Thesaurus+: ↑Cars
- 
 STATE
 5. uncountable old use a state of being
 • the holy estate of marriage
 Thesaurus+: ↑Existing and being
 
+<<<<<<< HEAD
 improvisation
 improvisation UK  [ˌɪm.prə.v a ɪˈzeɪ.ʃ ə n] US  [ɪmˌprɑː.vɪˈ-] noun countable or uncountable [improvisations]
 1. a performance which an actor, musician, etc. has not practiced or planned
@@ -7582,3 +7576,444 @@ Thesaurus+: ↑Playing music ↑Singing in general ↑Acting, rehearsing and per
 2. when you make or do something with whatever is available at the time
 • I'm afraid we don't have all the necessary equipment, so a little improvisation might be required.
 Thesaurus+: ↑Inventing, designing and innovation ↑Creating and producing
+=======
+2. pl.
+• I'm proud of my African roots.
+origin/origins • • background • • ancestry • • parentage • • pedigree • • family • |formal blood • • descent • • lineage •
+ethnic/racial/social/cultural roots/origin/background/ancestry/pedigree/descent
+African, Scottish, Italian, etc. roots/origin/background/ancestry/parentage/descent
+trace your roots/origin/ancestry/pedigree/family/lineage
+3. ORIGIN/MAIN PART the origin or main part of something such as a custom, law, activity etc, from which other things have developed
+root in
+ a legal system with roots in English common law
+ Jazz has its roots in the folk songs of the southern states of the US.
+be/lie at the root of something
+ the liberal economic policies which lie at the root of American power
+4. FAMILY CONNECTION sb’s roots your relation to a place because you were born there, or your family used to live there:
+ immigrants keeping in touch with their cultural roots
+ Alex Haley’s story about his search for his roots became a bestseller.
+5. put down roots if you put down roots somewhere, you start to feel that a place is your home and to have relationships with the people there:
+ Because of her husband’s job, they’d moved too often to put down roots anywhere.
+6. TOOTH/HAIR ETC the part of a tooth, hair etc that connects it to the rest of your body:
+ She’d pulled some of Kelly’s hair out by the roots.
+7. take root
+a) if an idea, method, activity etc takes root, people begin to accept or believe it, or it begins to have an effect:
+ Economists believe that economic recovery will begin to take root next year.
+b) if a plant takes root, it starts to grow where you have planted it
+8. have a (good) root round British English informal to search for something by moving other things around
+9. LANGUAGE technical the basic part of a word which shows its main meaning, to which other parts can be added. For example, the word ‘coldness’ is formed from the root ‘cold’ and the ↑suffix ‘ness’. ⇨ stem
+10. MATHEMATICS technical a number that, when multiplied by itself a certain number of times, equals the number that you have:
+ 2 is the fourth root of 16.
+11. root and branch if you destroy or change something root and branch, you get rid of it or change it completely and permanently because it is bad:
+ a root and branch reform of the electoral system
+⇨ ↑cube root, ↑square root, ↑grass roots
+• • •
+THESAURUS
+■ where something comes from
+▪ origin/origins the place or situation in which something begins to exist: the origins of the conflict in the Middle East | The book explains the origin of words. | Her disability is genetic in origin.
+▪ source the thing, place etc that you get something from: They get their money from various sources. | Beans are a good source of protein.
+▪ root the root of a problem is the main cause. The roots of something are the things that it was originally based on: Allergies are at the root of a lot of health problems. | At the root of the crisis was a shortage of hard cash. | They want a return to the roots of Christianity. | Reggae has its roots in a range of different musical styles.
+▪ the birthplace of something the place where something first started to exist: New Orleans is the birthplace of jazz. | Ethiopia, the birthplace of coffee
+▪ the cradle of something the place where something important first started – used mainly in the following phrases: Ancient Athens is considered to be the cradle of democracy. | Baghdad was the cradle of civilization.
+▪ starting point an idea, suggestion etc from which a discussion, process, or project can develop: His paper provided an excellent starting point for discussion.
+root for somebody phrasal verb informal
+1. to want someone to succeed in a competition, test, or difficult situation:
+ You can do it – I’m rooting for you.
+2. especially American English to support a sports team or player by shouting and cheering:
+ the Los Angeles fans rooting for the Lakers
+root something ↔ out phrasal verb
+1. to find out where a particular kind of problem exists and get rid of it:
+ Action is being taken to root out corruption in the police force.
+2. to find something by searching for it:
+ I’ll try and root out something for you to wear.
+root something ↔ up phrasal verb
+to dig or pull a plant up with its roots
+
+aesthetic
+I. adjective
+COLLOCATIONS FROM CORPUS
+■ ADVERB
+purely
+▪ From a purely aesthetic viewpoint, I must say that I dislike the design of the volume and tone pots intensely.
+▪ All the stuff I do at the gym is purely aesthetic, just for looks.
+▪ The purely aesthetic value of their work is easy to appreciate.
+▪ Naturally not all the criticism of the massive demolitions in the 1980s was purely aesthetic.
+■ NOUN
+appeal
+▪ Moreover, methods now permit recycled paper to have the same aesthetic appeal as virgin pulp.
+▪ There is an aesthetic appeal to a really splendid piece of financial manipulation to which these gentlemen are fully sensitive.
+▪ No one would choose to buy cutlery or crockery or curtains or chairs without considering their aesthetic appeal.
+▪ Hardwoods are often chosen for their aesthetic appeal.
+▪ Whilst not yet approaching the sophistication of biological assemblies, synthetic systems of increasing subtlety and considerable aesthetic appeal have been created.
+appreciation
+▪ As long as this aesthetic appreciation does not coincide with profitable necessity then this conflict will remain.
+▪ It is the only educational institution in the world that teaches aesthetic appreciation primarily through an objective method of investigation.
+▪ This, too, indicates the kind of sequence of experience to be expected in aesthetic appreciation.
+▪ Sometimes it is difficult to penetrate beyond aesthetic appreciation.
+consideration
+▪ Those advocating such innovations were motivated most powerfully by aesthetic considerations, in particular by the deadening effect on design of development control.
+▪ As at Begampur there is a complete absence of decoration or of any aesthetic consideration.
+experience
+▪ The point here is that institutions define the discourses and narratives through which aesthetic experience is received.
+▪ Visual sensibility is a prerequisite of art appreciation, and a genuine aesthetic experience is both self-sufficient and disinterested.
+▪ We are also interested in extending their manual skills in the form of craft work related to aesthetic experiences.
+pleasure
+▪ The tragic myth's ugly content stimulates a higher, aesthetic pleasure.
+▪ The Rabari did not seem interested in any aesthetic pleasures the mountain might offer.
+▪ Also present is the concept of aesthetic pleasure emerging as a by-product of the successful ordering of complex data.
+quality
+▪ The suppression of colour made it possible to control the aesthetic qualities of the picture and helped to structure its connotative meaning.
+▪ Does the dome have a pleasing aesthetic quality or is it mushroomed, flattened, or split open?
+▪ The direct and lyrical method of the new poems creates the simpler aesthetic quality of humility.
+▪ In the case of jade its aesthetic qualities only became apparent when the stone was polished.
+reason
+▪ Did the makers shape them symmetrically for aesthetic reasons?
+response
+▪ He described this aesthetic response as the bed-rock of conservative criticism.
+sense
+▪ It stands for a fastidious aesthetic sense of something having turned out wrong in the wide world.
+▪ His redeeming qualities are his keen aesthetic sense and his carefree response to failure.
+▪ Is it relevant to our literary tradition, our aesthetic sense, our social and psychological concerns?
+▪ It jumps out of the shop window, attacks your aesthetic sense and begs to be admired.
+▪ Mrs Lamont, 45, has a well-developed aesthetic sense.
+▪ Situations of enforced anonymity; being compelled to wear uniforms, clothes chosen by others that offend your aesthetic sense.
+value
+▪ These artists and their defenders cited such popular acclaim as proof of the aesthetic value of their works.
+▪ Native workmanship can add a lot of aesthetic value.
+▪ Most are there for aesthetic value in an attempt to raise the product's perceived value.
+▪ He could now move from cultural idealism and aesthetic values to political commitment.
+▪ Although she enjoys the aesthetic value of wild flowers, her reason for encouraging their widespread growth is principally scientific.
+▪ As a question of aesthetic value, it is hard to dispute Lonsdale's decision to give prominence to this material.
+▪ The purely aesthetic value of their work is easy to appreciate.
+▪ Their appeal to the imagination was felt to be beneficial, as was the appreciation of aesthetic values.
+
+7. snap your fingers to make a short sharp noise by moving one of your fingers quickly against your thumb, for example in order to get someone’s attention or to mark the beat of music
+8. snap to it spoken used to tell someone to hurry and do something immediately:
+ Come on, snap to it – get that room cleaned up!
+9. STOP [transitive] American English to end a series of events – used especially in newspapers:
+ The Rockets snapped a seven-game losing streak by beating Portland.
+10. snap to attention if soldiers snap to attention, they suddenly stand very straight
+⇨ ↑snap-on
+
+II. snap2 BrE  AmE  noun
+1. SOUND [singular] a sudden loud sound, especially made by something breaking or closing:
+ He shut the book with a snap.
+2. PHOTOGRAPH [countable] especially British English informal a photograph taken quickly and often not very skilfully SYN snapshot:
+ holiday snaps
+3. be a snap American English informal to be very easy to do:
+ The test was a snap.
+4. CLOTHING [countable] American English a small metal fastener on clothes that works when you press its two parts together:
+ baby clothing with snaps
+5.  a snap of sb’s fingers a sudden sound made by quickly moving one of your fingers against your thumb:
+ At a snap of his owner’s fingers, the dog came running.
+6. GAME [uncountable] a card game in which players put down one card after another and try to be the first to shout ‘Snap!’ when there are two cards that are the same
+⇨ ↑cold snap
+• • •
+THESAURUS
+▪ photograph a picture taken using a camera: Visitors are not allowed to take photographs inside the museum. | our wedding photographs
+▪ photo informal a photograph: a way of displaying your digital photos | Do you want me to take your photo?
+▪ picture a photograph of someone or something: I saw her picture in the paper the other day. | This is a really good picture of Sarah. | Can I take your picture?
+▪ snap British English informal, snapshot especially American English a photograph that you take quickly and without thinking carefully about how it will look, for example when you are on holiday: Patrick showed me his holiday snaps. | She showed me a snapshot of her three children.
+▪ shot informal a photograph – used especially by people who often take photographs: I got some great shots of Mount Fuji. | It's a lovely shot.
+▪ print a photograph that has been printed on photographic paper: a set of 4 by 6 inch prints
+III. snap3 BrE  AmE  adjective
+1. snap judgment/decision a judgment or decision made quickly, without careful thought or discussion
+2. snap election British English an election that is announced suddenly and unexpectedly
+IV. snap4 BrE  AmE  interjection
+1. British English used when you see two things that are exactly the same:
+ Hey, snap! My hat’s the same as yours.
+2. said in the game of snap when two cards that are the same are put down
+
+gymnast
+gymnast UK  US  [ˈdʒɪm.næst] noun countable [gymnasts]
+a person who is skilled in gymnastics, often someone who competes in gymnastic competitions
+• a great Russian gymnast
+Thesaurus+: ↑Competitors and participants in sports and games ↑Gymnastics
+
+1 / vR:lt; vRlt/ n 
+ arched roof; series of arches forming a roof 拱券; 拱顶: fan vaulting, ie vaults wherethe arches have ribs, like a fan 扇形拱券. =>illus at App 1见附录1插图, page viii. 
+ (a) cellar or underground room used for storing things at a cool temperature 地窖; 地下室: `wine-vaults 酒窖. (b) similar room beneath a church or in a cemetery, used for burials （教堂或坟场的）地下墓室: in the family vault 在家族的地下墓室中. 
+ similar room, esp in a bank and protected by locks, alarms, thick walls, etc, used for keeping valuables safe （设于地下的）金库, 保险库（尤指银行的）. 
+ covering like an arched roof 拱券状覆盖物: (rhet 修辞) the vault of heaven, ie the sky 苍穹（天空）.
+
+ > vaulted adj having a vault or vaults; built in the form of a vault 有拱券的; 建成拱状的: a vaulted roof, chamber, etc 拱形屋顶、有拱券的会堂等.
+vault 2
+
+2 / vR:lt; vRlt/ v [I, Ipr] ~ (over sth) jump in asingle movement over or onto an object with the hand(s) resting on it or with the help of a pole （用手或竿支撑）跳跃: vault (over) a fence 用手支撑跳过篱笆墙 * The jockey vaulted lightly into the saddle. 那骑师用手一按马背轻身跃上了马鞍. * (fig fml 比喻, 文) vaulting (ie boundless, overreaching) ambition 奢想.
+
+ > vault n jump made in this way 撑物跳跃; 撑竿跳.
+ vaulter n (esp in compounds 尤用以构成复合词) personwho vaults 撑物跳跃的人: a pole-vaulter 撑竿跳高运动员.
+
+ # `vaulting horse wooden apparatus for practice in vaulting （练习跳跃用的）鞍马. =>illus 见插图.
+ 
+ horse
+I. noun
+COLLOCATIONS FROM OTHER ENTRIES
+a horse/boat/bike etc race
+▪ It’s legal to gamble on horse races.
+charley horse
+clothes horse
+cows/horses etc graze in a field (=they eat the grass growing there)
+▪ Cattle were grazing in the field below.
+dark horse
+▪ In the 1955 golf championship, dark horse Jack Fleck defeated Ben Hogan.
+eat like a horse (=eat a lot)
+▪ She eats like a horse but never puts on any weight!
+hold your horses! (=used to tell someone to do something more slowly or carefully)
+horse chestnut
+horse racing
+horse show
+horse trailer
+pack horse
+pommel horse
+rocking horse
+shire horse
+stalking horse
+white horses
+wild horse/dog/pig etc
+
+low-rise
+low-rise UK  [ˈləʊ.raɪz] US  [ˈloʊ-] adjective
+ 
+BUILDING
+1. A low-rise building is one with only one or two floors.
+Thesaurus+: ↑Houses and homes
+ 
+TROUSERS
+2. low-rise trousers have the top part ending lower than the waist
+Thesaurus+: ↑Trousers
+
+rip
+
+ / rIp; rIp/ v (-pp-) 
+ (a) [Tn, Tn.pr] divide or make a hole in (sth) by pulling sharply 撕裂或拉破（某物）: I've ripped my trousers. 我把裤子撕破了. * rip a piece of cloth (in two) 把一块布撕成两半. (b) [Cn.a] ~ sth open open sth by pulling in this way 拉开或撕开某物: rip open a letter 撕开一封信 * My cat had its ear ripped open by a dog. 我的猫的耳朵被狗咬破了. (c) [I] (of material) become torn （指材料）破, 裂: Be careful with that dress; it rips easily. 小心那件连衣裙, 很容易破.
+ (idm 习语) let `rip (about/against/at sb/sth) speak violently or passionately 激烈或激昂地说话: let rip against the government 激烈地抨击政府. let sth `rip (infml 口) (a) allow (a car, machine, etc) to go at its top speed 让（汽车、机器等）以最高速度行驶或运转: Let her/it rip! 让车全速前进! (b) allow (things) to develop naturally, without attempting to control them 让（事物）自由发展而不加控制: They just let inflation rip. 他们对 通货膨胀完全不加控制. 
+ (phr v) rip sb off (sl 俚) cheat sb, esp financially 欺骗某人（尤指钱财）: The shop tried to rip me off. 那商店想欺骗我. rip sth off (a) remove sth by pulling sharply 撕掉某物: rip the cover off (a book) 撕掉（书的）封面. (b) (sl 俚) steal sth 偷窃某物: Somebody's ripped off my wallet. 有人把我的钱包偷走了.
+
+ > rip n 
+ uneven or ragged tear or cut （参差不齐的）裂口, 裂缝: There's a big rip in my sleeve. 我的袖子破了一大块. 
+ stretch of rough water in a river or the sea （河流或海洋的）激流, 激浪. Cf 参看 rip-tide.
+
+ # `rip-cord n cord that releases a parachute from its pack （降落伞的）开伞索: pull the rip-cord 拉动开伞索.
+ `rip-off n (usu sing 通常作单数) (sl 俚) act of defrauding, stealing, overcharging, etc 欺诈; 偷窃; 索要高价: 80p for a cup of coffee? What a rip-off! 一杯咖啡要80便士? 真是敲竹杠!
+ `rip-roaring adj [attrib 作定语] (infml 口) (a) wild and noisy 喧闹的; 闹嚷嚷的. (b) great, huge, etc 大的; 巨大的: The film was a rip-roaring success. 这部影片极为成功.
+ `rip-saw n saw with large coarse teeth, used for cutting wood along the grain 纵切锯; 粗齿锯.
+ 
+ knock off
+knock off phrasal verb informal (see also ↑knock)
+1. STOP WORKknock off (something) to stop working and go somewhere else:
+ There was no one in the office because they’d all knocked off for lunch.
+ Do you want to knock off early today?
+ We usually knock off work at about twelve on Saturday.
+2. REDUCE A PRICE knock something ↔ off to reduce the price of something by a particular amount:
+ I’ll knock off £10.
+knock something off something
+ Travel agents are knocking £50, and sometimes £100, off the price of holidays.
+3. REDUCE AMOUNT knock something ↔ off to reduce a total by a particular amount
+knock something off something
+ Moving house will knock an hour off Ray’s journey to work.
+4. PRODUCE knock something ↔ off to produce something quickly and easily:
+ Roland makes a lot of money knocking off copies of famous paintings.
+5. MURDER knock somebody ↔ off to murder someone
+6. STEAL knock something ↔ off British English to steal something
+
+Counterfeit consumer goods are goods, often of inferior quality, made or sold under another's brand name without the brand owner's authorization. Sellers of such goods may infringe on either the trademark, patent or copyright of the brand owner by passing off its goods as made by the brand owner.[2]:3 Counterfeit products made up 5 to 7% of world trade in 2013,[3][4] and in 2014 cost an estimated 2.5 million jobs worldwide,[5] with up to 750,000 jobs lost in the U.S.[6][7] About 5% of goods imported into the European Union in 2013 were fakes, according to the OECD.[8][9][10]
+knockoff
+knockoff UK [ˈnɒk.ɒf] US  [ˈnɑːk.ɑːf] mainly US informal noun countable [knockoffs]
+a cheap copy of a popular product
+• Is that the real thing or a knockoff?
+Thesaurus+: ↑Copying and copies ↑Forgery
+
+vconveyor
+con‧vey‧or BrE  AmE , conveyer /kənˈveɪə $ -ər/ noun [countable]
+1. a person or thing that carries or communicates something:
+ the conveyer of good news
+2. a conveyor belt
+
+sprain
+▪ I. sprain UK  US  [spreɪn] verb transitive [sprains spraining sprained]
+to cause an injury to a joint (= place where two bones are connected) in the body by a sudden movement
+• She sprained her ankle playing squash.
+Thesaurus+: ↑Injuring and injuries
+ 
+▪ II.
+sprain UK  US  noun countable
+• He hasn't broken anything - it's just a bad sprain.
+Thesaurus+: ↑Injuring and injuries
+Main entry: sprainderived
+
+scatterbrained
+scatterbrained UK  US  UK [ˈskæt.ə.breɪnd] US [ˈskæt ̬.ɚ-] adjective
+Thesaurus+: ↑Forgetting and forgetfulness
+Main entry: scatterbrainderived
+scatterbrain
+scatterbrain UK  [ˈskæt.ə.breɪn] US  [ˈskæt ̬.ɚ-] noun countable [scatterbrains]
+a person who forgets things easily or does not think seriously about things
+• I'm such a scatterbrain - I'm always leaving my umbrella behind.
+Thesaurus+: ↑Stupid and silly people
+Derived: scatterbrained
+
+no-brainer
+ˌno-ˈbrain·er 7 [no-brainer] BrE   NAmE   noun (informal)
+a decision or a problem that you do not need to think about much because it is obvious what you should do
+• The question of who to support in this election should be a no-brainer.
+• Providing a survivor benefit for a spouse is a no-brainer for most people.
+
+2. uncountable a quality that makes sb/sth attractive or interesting
+• mass/wide/popular appeal
+• The Beatles have never really lost their appeal.
+• The prospect of living in a city holds little appeal for me.
+
+crease
+I. crease1 /kriːs/ BrE  AmE  noun
+[Date: 1500-1600; Origin: Probably from crest]
+1. [countable] a line on a piece of cloth, paper etc where it has been folded, crushed, or pressed:
+ She smoothed the creases from her skirt.
+ I’ll have to iron out the creases.
+2. [countable] a fold in someone’s skin ⇨ wrinkle:
+ the creases on his forehead
+3. [singular] the line where the player has to stand to hit the ball in ↑cricket
+• • •
+THESAURUS
+■ on the ground/on the surface of something
+▪ line a long thin mark on a piece of paper, the ground, or another surface: The teacher put a red line through the first sentence. | If the ball goes over the line, it’s out of play.
+▪ groove a thin line that has been cut into a surface: Deep grooves had been cut into the stone to channel the water. | Lyle ran his fingernail along the groove in the table.
+▪ rut a deep line in the ground which has been made by the wheels of vehicles: The deep ruts made by the trucks were full of water. | The tractor’s wheels caught a rut in the field and jolted him.
+▪ crease/wrinkle a line on clothes, material, or paper where it has been folded or crushed: She was trying to smooth out the creases in her dress. | She had wrinkles in her skirt where she had sat.
+II. crease2 BrE  AmE  verb [intransitive and transitive]
+to become marked with a line or lines, or to make a line appear on cloth, paper etc by folding or crushing it ⇨ crumple:
+ Don’t sit on my newspaper. You’ll crease it!
+ These trousers crease really easily.
+ A worried frown creased her forehead.
+—creased adjective:
+ This shirt is too creased to wear.
+crease (somebody) up phrasal verb
+British English spoken to laugh a lot, or to make someone laugh a lot SYN crack up:
+ She really creases me up!
+
+ at length
+at ˈlength | at… length idiom
+1. for a long time and in detail
+• He quoted at length from the report.
+• We have already discussed this matter at great length.
+2. (literary) after a long time
+• ‘I'm still not sure,’ he said at length.
+Main entry: ↑lengthidiom
+
+length
+length S2 W2 /leŋθ/ BrE  AmE  noun
+[Word Family: adverb: ↑lengthwise, lengthways; adjective: lengthening, ↑lengthy; verb: ↑lengthen; noun: ↑length]
+[Language: Old English; Origin: lengthu, from lang; ⇨ ↑long1]
+1. SIZE [uncountable and countable] the measurement of how long something is from one end to the other ⇨ breadth, width:
+ We measured the length and width of the living room.
+a length of 1 metre/2 feet etc
+ Some fish can grow to a length of four feet.
+2 feet/10 metres etc in length
+ The hotel pool is 15 metres in length.
+ You’ll need several pieces of string of different lengths.
+2. TIME [uncountable and countable] the amount of time that you spend doing something or that something continues ⇨ duration
+length of
+ Your pension will depend on your length of employment.
+ What’s the average length of stay in hospital?
+(not) for any length of time (=not for very long)
+ He wasn’t left alone for any length of time.
+REGISTER
+In everyday English, people usually talk about how long something is in space or time, rather than using the noun length:
+▪ We need to know the length of the table. ➔ We need to know how long the table is.
+▪ | He was annoyed by the length of time he had to wait. ➔ He was annoyed by how long he had to wait.
+3. BOOKS/FILMS ETC [uncountable and countable] the amount of writing in a book, or the amount of time that a film, play etc continues
+length of
+ We had to cut the length of the book by one third.
+of this length
+ Films of this length (=as long as this) are pretty unusual.
+4. run/stretch/walk etc the (full) length of something to go or move from one end to the other of something:
+ The wall ran the full length of the garden.
+ They walked the length of the pier.
+5. shoulder-length/knee-length etc reaching down as far as your shoulders etc:
+ shoulder-length hair
+ an ankle-length dress
+6. go to some/great/any lengths (to do something) to try very hard or to do whatever is necessary to achieve something that is important to you:
+ He went to great lengths to keep their name out of the papers.
+ Bella would go to any lengths to fulfil her ambition.
+7. at (some/great etc) length
+a) if you talk at length about something, you talk about it for a long time
+speak/talk etc at length
+ The young people spoke at length about their experiences.
+ We’ve already discussed the subject at great length.
+b) literary after a long time:
+ ‘I don’t agree,’ she said at length.
+8. the length and breadth of the area/country/land etc in or through every part of a large area:
+ The police searched the length and breadth of the country.
+9. PIECE [countable] a piece of something long and thin
+a length of rope/pipe/wire etc
+10. IN RACES [countable] the measurement of a horse, boat etc from one end to the other – used when saying how far the horse, boat etc is ahead of another:
+ The horse won by three lengths.
+11. SWIMMING [countable] the distance from one end of a swimming pool to the other
+do/swim a length
+ She does at least 20 lengths a day.
+⇨ hold something at arm’s length at ↑arm1(8), ⇨ keep/hold somebody at arm’s length at ↑arm1(9), ⇨ ↑full-length1
+
+a 
+living history that continues in an unbroken line.    
+
+meat
+2. [uncountable] something interesting or important in a talk, book, film etc:
+ There’s no meat to their arguments.
+ We then got down to the real meat of the debate (=the main and most interesting part of it).
+3. somebody doesn’t have much meat on him/her British Englishneed some (more) meat on your bones American English informal used to say that someone looks very thin
+4. one man’s meat is another man’s poison used to say that something that one person likes may not be liked by someone else
+5. be easy meat British English informal if someone is easy meat, they are easy to defeat, deceive, or hurt
+be easy meat for
+ San Marino should be easy meat for England in next week’s match.
+6. the meat and potatoes American English informal the most important or basic parts of a discussion, decision, piece of work etc:
+ Let’s get down to the meat and potatoes. How much are you going to pay me for this?
+7. be meat and drink to somebody British English to be something that someone enjoys doing or finds very easy to do because they have done it many times before:
+ The first five questions in the quiz were about football, which was meat and drink to Brian.
+ 
+ calling
+calling UK  [ˈkɔː.lɪŋ] US  [ˈkɑː-] formal noun countable [callings]
+a strong wish to do a job, usually one which is socially valuable
+• I'm glad she's going into medicine. It's a very worthy calling.
+Thesaurus+: ↑Jobs, careers and professions ↑Working
+ANIMAL
+2. <I > countable when an animal makes a sound or when someone shouts something
+• The whale has a very distinctive call.
+• She could hear calls for help from inside the burning building.
+• I'll be in the next room, so give me a call if you need any help.
+Thesaurus+: ↑Shouting and screaming
+• I thought I heard a call from the bedroom.
+• the wolf's call
+• the call of the brown owl
+• Could you give me a call when he arrives?
+• Was that a call for help?
+DESCRIBE
+2. transitive to describe sb/sth in a particular way; to consider sb/sth to be sth
+• ~ sb/sth + noun I wouldn't call German an easy language.
+• Are you calling me a liar?
+• He was in the front room, or the lounge or whatever you want to call it.
+• I make it ten pounds forty-three you owe me. Let's call it ten pounds.
+• ~ sb/sth + adj. Would you call it blue or green?
+3. transitive ~ yourself + noun to claim that you are a particular type of person, especially when other people question whether this is true
+• Call yourself a friend? So why won't you help me, then?
+• She's no right to call herself a feminist. 
+call verb
+1. T
+• They decided to call the baby Mark.
+name • • entitle • • dub • • nickname • • christen • • address • |formal term • • designate • |sometimes disapproving label • • brand •
+call/name/dub/nickname/christen sb Mary, Ali, etc.
+call/dub/nickname sb captain, the wizard, etc.
+call/address sb by their full name, their first name, etc.
+address/designate/label/brand sb/sth as sth
+2. T
+• I wouldn't call German an easy language.
+describe • • consider • • regard • • see • • view • • count •
+describe/consider/regard/see/view/count sb/sth as sth
+call/describe/consider/regard/see/view/count/reckon yourself (as) sth
+Call or describe? Call is used with a noun or adjective complement, without as. Describe is used with as and an adjective or a noun phrase. Adjectives are more frequent with describe than nouns: longer noun phrase are possible, but with shorter noun phrases use call:
+• Jim was described by his colleagues as an unusual man.
+• Are you calling me a liar?
+
+cry out (sth) • • shout • • yell • • scream • |written exclaim • • cry •
+call/cry out/shout/yell/scream/exclaim/cry (sth) to sb
+call/cry out/shout/yell/scream for sb/sth
+>>>>>>> dc1e97d4c99001974caa78638d03c070d06f2a4f
