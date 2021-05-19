@@ -4144,4 +4144,912 @@ JUDGE
 • A poll was conducted to gauge consumers' attitudes.
 • + question word It's difficult to gauge how they'll react.
 Thesaurus+: ↑Analysing and evaluating ↑Assessing and estimating value
+<<<<<<< HEAD
 >>>>>>> dd8d3f99120b308e98685fafdef7ccaf25fff527
+=======
+
+<<<<<<< HEAD
+bolster
+bolster UK  [ˈbəʊl.stə r ] US  [ˈboʊl.stɚ] verb transitive [bolsters bolstering bolstered]
+to support or improve something or make it stronger
+• More money is needed to bolster the industry.
+• She tried to bolster my confidence/morale (= encourage me and make me feel stronger) by telling me that I had a special talent.
+• They need to do something to bolster their image.
+Thesaurus+: ↑Physical supports and supporting ↑Arches, columns and beams ↑Becoming and making stronger
+
+ram
+ram UK  US  [ræm] verb intransitive or transitive [-mm-] [ramming rammed rams]
+to hit or push something with force
+• Someone rammed (into) my car while it was parked outside my house.
+• He rammed the sweets/his pipe into his mouth.
+• I rammed down the soil around the fence post.
+• The prisoners who were being force-fed had tubes rammed down their throats.
+• She slammed the door and rammed home the bolt (= closed it forcefully and completely).
+Thesaurus+: ↑Pushing and shoving
+Idioms: ram something down somebody's throat ▪ ram something home
+Phrasal Verb: ram something into somebody
+
+rave
+rave UK  US  [reɪv] verb intransitive [raves raving raved]
+ 
+SPEAK FOOLISHLY
+1. to speak in an uncontrolled way, usually because you are upset or angry, or because you are ill
+• He's always raving (on) about the government.
+• She was ranting and raving about some imagined insult.
+Thesaurus+: ↑Talking angrily ↑Ways of talking
+ 
+ENTHUSIASTIC
+2. informal to praise something very much
+• She raved about/over the clothes she had seen at the Paris fashion shows.
+Thesaurus+: ↑Praising and applauding ↑Exaggerating and playing down
+ 
+adjective before noun informal
+admiring; giving praise
+• The show has received rave reviews/notices in all the papers.
+Thesaurus+: ↑Excited, interested and enthusiastic
+ 
+noun countable mainly UK informal
+an event where young people dance to modern electronic music and sometimes take illegal drugs
+• an all-night/open-air rave
+• rave music
+Thesaurus+: ↑Celebrations, parties and special occasions ↑Specific holidays and festivals
+
+flourish
+flourish UK  [ˈflʌr.ɪʃ] US  [ˈflɝː-] verb [flourishes flourishing flourished]
+ 
+SUCCEED
+1. intransitive to grow or develop successfully
+• My tomatoes are flourishing this summer - it must be the warm weather.
+• Watercolour painting began to flourish in Britain around 1750.
+Thesaurus+: ↑Making progress and advancing ↑Becoming better
+ 
+WAVE
+2. transitive to move something in your hand in order to make people look at it
+• She came in smiling, flourishing her exam results.
+Thesaurus+: ↑Shaking, swinging and vibrating
+ 
+noun
+with a flourish
+If you do something with a flourish, you do it with one big, noticeable movement
+• The waiter handed me the menu with a flourish.
+• He took off his hat with a flourish.
+Thesaurus+: ↑Shaking, swinging and vibrating ↑Gestures and gesturing in general
+
+crucify
+crucify UK  US  [ˈkruː.sɪ.faɪ] verb transitive [crucifies crucifying crucified]
+1. to kill someone by tying or fastening them with nails to a cross and leaving them there to die
+Thesaurus+: ↑Death penalties
+2. informal to severely punish or damage someone or something
+• He's going to crucify me when he finds out what I've done!
+Thesaurus+: ↑Punishing and punishments ↑Punishing by causing pain ↑Hitting and beating ↑Chastising and rebuking
+
+uproot
+uproot UK  US  [ʌpˈruːt] verb transitive [uproots uprooting uprooted]
+ 
+PLANT
+1. to pull a plant including its roots out of the ground
+• Hundreds of mature trees were uprooted in the storm.
+Thesaurus+: ↑Gardening - general words
+ 
+PERSON
+2. to remove a person from their home or usual environment
+• The war has uprooted nearly two-thirds of the country's population.
+Thesaurus+: ↑Evicting and forcing to leave ↑Punishing someone by sending them somewhere else
+
+diminish
+di‧min‧ish AC /dəˈmɪnɪʃ, dɪˈmɪnɪʃ/ BrE  AmE  verb
+[Date: 1400-1500; Origin: diminue (14-16 centuries), from Old French diminuer, from Latin minuere 'to make less']
+1. [intransitive and transitive] to become or make something become smaller or less SYN reduce:
+ The party’s share of the electorate has diminished steadily.
+ These drugs diminish blood flow to the brain.
+2. [transitive] to deliberately make someone or something appear less important or valuable than they really are:
+ Don’t let him diminish your achievements.
+ But that’s not to diminish the importance of his discoveries.
+3. diminishing returns when the profits or advantages you are getting from something stop increasing in relation to the effort you are making
+• • •
+THESAURUS
+▪ decrease to become less in number or amount: The average rainfall has decreased by around 30 percent.
+▪ go down to decrease. Go down is less formal than decrease and is the usual word to use in conversation: Unemployment has gone down in the past few months.
+▪ decline formal to decrease – used with numbers or amounts, or about the level or standard of something: The standard of living has declined. | Support for the government is steadily declining. | Salaries have declined by around 4.5%.
+▪ diminish to become smaller or less important: Union membership diminished from 30,000 at its height to just 2,000 today.
+▪ fall/drop to decrease, especially by a large amount. Fall and drop are less formal than decrease: The number of tigers in the wild has fallen to just over 10,000. | At night, the temperature drops to minus 20 degrees.
+▪ plunge /plʌndʒ//plummet /ˈplʌmət, ˈplʌmɪt/ to suddenly decrease very quickly and by a very large amount: Share prices have plummeted 29% in the last four months. | Climate change could cause global temperatures to plummet.
+▪ slide if a price or value slides, it gradually decreases in a way that causes problems – used especially in news reports: The dollar fell in late trading in New York yesterday and slid further this morning.
+▪ dwindle /ˈdwɪndl/ to gradually decrease until there is very little left of something, especially numbers or amounts, popularity, or importance: Support for the theory is dwindling.
+▪ taper off /ˈteɪpə $ -ər/ if a number or the amount of an activity that is happening tapers off, it gradually decreases, especially so that it stops completely: Political violence tapered off after the elections.
+
+dish (something) out
+dish something ↔ out phrasal verb (see also ↑dish)
+1. to give something to various people in a careless way:
+ We dished out some leaflets there too.
+ Paul tends to dish out unwanted advice.
+2. to serve food to people:
+ Sam’s dishing out sandwiches if you want one.
+3. somebody can dish it out but they can’t take it used to say that someone often criticizes other people, but does not like being criticized
+
+rant
+rant UK  US  [rænt] verb intransitive [rants ranting ranted]
+to speak or shout in a loud, uncontrolled or angry way, often saying confused or silly things
+• He's always ranting (on) about the government.
+• I get fed up with my mother ranting and raving (about my clothes) all the time.
+Thesaurus+: ↑Talking angrily
+ 
+noun countable
+a long, angry and confused speech
+• The minister's speech descended into a rant against his political opponents.
+Thesaurus+: ↑Talking angrily
+Derived: ranting
+
+chime
+I. chime1 /tʃaɪm/ BrE  AmE  verb
+1.   [intransitive and transitive] if a bell or clock chimes, it makes a ringing sound, especially to tell you what time it is:
+ The clock in the hall chimed six.
+2. [intransitive] to be the same as something else or to have the same effect
+chime with
+ Her views on life didn’t quite chime with mine.
+chime in phrasal verb
+to say something in a conversation, especially to agree with what someone has just said:
+ ‘We’ll miss you too,’ the children chimed in.
+II. chime2 BrE  AmE  noun
+[Date: 1200-1300; Language: Old French; Origin: chimbe 'cymbal', from Latin cymbalum; ⇨ ↑cymbal]
+1. [countable] a ringing sound made by a bell or clock
+2. chimes [plural] a set of bells or other objects that produce musical sounds, used as a musical instrument or, for example, as a type of doorbell ⇨ ↑wind chimes
+
+fret
+I. fret1 /fret/ BrE  AmE  verb (past tense and past participle fretted, present participle fretting) [intransitive]
+[Language: Old English; Origin: fretan 'to eat']
+to worry about something, especially when there is no need:
+ Don’t fret – everything will be all right.
+fret about/over
+ She’s always fretting about the children.
+fret that
+ men of fifty, fretting that they’re no longer young
+II. fret2 BrE  AmE  noun
+[Date: 1500-1600; Origin: Probably from Old French frete 'metal band']
+[countable] one of the raised lines on the fretboard of a ↑guitar etc
+
+escalate
+verb
+COLLOCATIONS FROM OTHER ENTRIES
+escalating/growing violence (=violence that is becoming worse)
+▪ There have been reports of escalating violence in the region.
+the violence escalates (=becomes worse)
+▪ The violence escalated as youths turned over a bus and began smashing shop windows.
+COLLOCATIONS FROM CORPUS
+■ NOUN
+conflict
+▪ The overcrowding that could result would inevitably escalate the conflict.
+▪ We worked hard to avoid escalating any kinds of conflict.
+▪ There was always the possibility of an obscure clash escalating into full-scale conflict.
+
+sadistic
+sa‧dis‧tic /səˈdɪstɪk/ BrE  AmE  adjective
+cruel and enjoying making other people suffer ⇨ masochistic:
+ He took sadistic pleasure in humiliating her.
+ sadistic fantasies
+—sadistically /-kli/ adverb
+
+supposedly
+sup‧pos‧ed‧ly /səˈpəʊzədli, səˈpəʊzɪdli $ -ˈpoʊ-/ BrE  AmE  adverb
+[Word Family: verb: ↑suppose, ↑presuppose; noun: ↑supposition, ↑presupposition; adverb: ↑supposedly; adjective: ↑supposed]
+used when saying what many people say or believe is true, especially when you disagree with them:
+ How could a supposedly intelligent person be so stupid?
+[sentence adverb]
+ Anne is coming for a visit in March, supposedly.
+supposed
+sup‧posed /səˈpəʊzd, səˈpəʊzəd $ -ˈpoʊzd, -ˈpoʊzəd/ BrE  AmE  adjective [only before noun]
+[Word Family: verb: ↑suppose, ↑presuppose; noun: ↑supposition, ↑presupposition; adverb: ↑supposedly; adjective: ↑supposed]
+claimed by other people to be true or real, although you do not think they are right:
+ gossip about Emma’s supposed affair with Peter
+=======
+enrich
+enrich UK  US  [ɪnˈrɪtʃ] verb [enriches enriching enriched]
+IMPROVE
+1. transitive to improve the quality of something by adding something else
+• Fertilizer helps to enrich the soil.
+• My life was greatly enriched by knowing her.
+Thesaurus+: ↑Making things better ↑Becoming better
+HAVE MORE MONEY
+2. transitive often R to make something or someone richer
+• He claimed that the large stores were enriching themselves at the expense of their customers.
+Thesaurus+: ↑Making things better ↑Becoming better
+Derived: enrichment
+
+plunge
+I. plunge1 /plʌndʒ/ BrE  AmE  verb
+[Date: 1300-1400; Language: Old French; Origin: plongier, from Vulgar Latin plumbicare, from Latin plumbum 'lead']
+1. [I, T always + adv/prep] to move, fall, or be thrown suddenly forwards or downwards
+plunge off/into etc
+ Her car swerved and plunged off the cliff.
+ Both the climbers had plunged to their deaths.
+2. [intransitive] if a price, rate etc plunges, it suddenly decreases by a large amount:
+ The unemployment rate plunged sharply.
+plunge to
+ Oil prices have plunged to a new low.
+ In the recession, the company’s profits plunged 60%.
+3. [intransitive] literary if a ship plunges, it moves violently up and down because of big waves
+plunge in (also plunge into something) phrasal verb
+1. to start talking or doing something quickly and confidently, especially without thinking about it first:
+ It’s a difficult situation. You can’t just plunge in and put everything right.
+ ‘I don’t agree,’ she said, plunging into the conversation.
+2. to jump or ↑dive into water:
+ He stripped off and plunged into the sea.
+3. plunge something ↔ in (also plunge something into something) to push something firmly and deeply into something else:
+ He opened the bag and plunged his hand in.
+ Plunge the pasta into boiling water.
+ Repeatedly she plunged the knife into his chest.
+plunge (somebody/something) into something phrasal verb
+to suddenly experience a difficult or unpleasant situation, or to make someone or something do this:
+ A strike would plunge the country into chaos.
+ The house was suddenly plunged into darkness.
+ After the war, the family plunged into debt.
+II. plunge2 BrE  AmE  noun
+1. take the plunge to decide to do something important or risky, especially after thinking about it for a long time:
+ We took the plunge and set up our own business.
+2. [countable] a sudden large decrease in the price, value etc of something
+plunge in
+ a dramatic plunge in house prices
+3. [countable usually singular] a sudden movement down or forwards:
+ The plane began a headlong plunge towards the Earth.
+4. [countable usually singular] when someone suddenly becomes involved in something new
+plunge into
+ his sudden plunge into marriage
+5. [countable usually singular] a jump or ↑dive into water, or a quick swim
+plunge in/into
+ a quick plunge in the lake
+ 
+ unwrap
+un‧wrap /ʌnˈræp/ BrE  AmE  verb (past tense and past participle unwrapped, present participle unwrapping) [transitive]
+to remove the paper, plastic etc that is around something OPP wrap up:
+ Brigitte was unwrapping her birthday presents.
+ 
+ irritate
+ir‧ri‧tate /ˈɪrəteɪt, ˈɪrɪteɪt/ BrE  AmE  verb [transitive]
+[Date: 1500-1600; Language: Latin; Origin: past participle of irritare 'to cause strong feelings in, excite']
+1. to make someone feel annoyed or impatient, especially by doing something many times or for a long period of time:
+ It really irritates me when he doesn’t help around the house.
+2. to make a part of your body painful and sore:
+ This cream may irritate sensitive skin.
+ irritant
+irritant UK  [ˈɪr.ɪ.t ə nt] US  [-t ̬ənt] noun countable [irritants]
+ 
+MAKING ANGRY
+1. something that causes trouble or makes you annoyed
+• The report is bound to add a new irritant to international relations.
+Thesaurus+: ↑Difficult things and people ↑Preventing and impeding
+ 
+MAKING SORE
+2. a substance that makes part of your body sore or painful
+• Pollen is an irritant, causing red and sore eyes in sensitive people.
+Thesaurus+: ↑Pain and painful
+
+dawn on
+dawn on somebody phrasal verb (see also ↑dawn)
+if a fact dawns on you, you realize it for the first time:
+ The ghastly truth dawned on me.
+ It dawned on me that Jo had been right all along.
+
+ dawn
+dawn UK  [dɔːn] US  [dɑːn] noun countable or uncountable [dawns]
+1. <A > the period in the day when light from the sun begins to appear in the sky
+• We woke at dawn.
+• We left as dawn was breaking (= starting).
+• We left at the break of dawn.
+• Twenty-three people were arrested and large quantities of heroin were seized in a dawn raid (= when police officers suddenly enter a building, in an attempt to catch people involved in illegal activities).
+Thesaurus+: ↑Days and times of day
+2. the dawn of sth
+literary the start of a period of time or the beginning of something new
+• The fall of the Berlin Wall marked the dawn of a new era in European history.
+Thesaurus+: ↑Beginnings and starts
+3. from dawn to dusk
+from early morning until night
+• We worked from dawn to dusk, seven days a week.
+Thesaurus+: ↑Days and times of day
+ 
+• She slept fitfully throughout the night and arose before dawn.
+• Three prisoners were involved in a dawn jailbreak today.
+• They mounted a surprise attack at dawn.
+• She's always up before dawn.
+• They partied till dawn.
+ 
+verb intransitive
+ 
+BEGIN
+1. If a day or period of time dawns, it begins
+• He left the house just as the day was dawning.
+• As 1990 dawned, few people could have predicted the dramatic changes that were to take place in eastern Europe during that year.
+Thesaurus+: ↑Starting and beginning ↑Starting again
+ 
+BECOME KNOWN
+2. to become known or obvious
+• Gradually the truth about him dawned.
+• + that It eventually dawned that he wouldn't be coming back.
+Thesaurus+: ↑Thinking and contemplating
+Phrasal Verb: dawn on somebody
+
+daunting
+daunt‧ing /ˈdɔːntɪŋ $ ˈdɒːn-/ BrE  AmE  adjective
+frightening in a way that makes you feel less confident:
+ The trip seemed rather daunting for a young girl.
+ He’s got the daunting task of following in Ferguson’s footsteps.
+ the daunting prospect of asking for a loan
+• • •
+THESAURUS
+▪ difficult not easy to do, understand, or deal with: a difficult question | The homework was really difficult. | It is difficult to see how peace can be achieved in the region.
+▪ hard difficult. Hard is less formal than difficult and is very common in spoken English: The test was really hard. | a hard decision | It was hard to forgive him.
+▪ tough very difficult, because you have to use a lot of effort, or because it affects you emotionally: a tough race | Doctors have to make tough decisions about who to treat first. | The team faces some tough competition. | Life is tough sometimes.
+▪ tricky difficult because it is complicated and full of problems: She had helped him out of a tricky situation. | Merging the two companies was bound to be tricky.
+▪ awkward rather difficult to deal with – used especially when something could be embarrassing: You’ve put me in a very awkward position. | It was getting dark and foggy, which made the rescue even more awkward.
+▪ challenging difficult in an interesting or enjoyable way: I wanted a job that was more challenging. | a challenging piece of music
+▪ demanding difficult and tiring, because it takes a lot of effort: Being a nurse in a busy hospital is a demanding job. | it can be very demanding bringing up young children.
+▪ daunting if something seems daunting, you think that it will be difficult and you do not feel confident about being able to do it: a daunting challenge | The task seemed a little daunting at first.
+▪ delicate needing to be dealt with carefully or sensitively, especially in order to avoid offending people or causing problems: This is a very delicate subject, and it can be difficult to talk about it with your parents. | He thanked me for the way in which this delicate matter had been handled.
+
+pick up
+pick up phrasal verb (see also ↑pick)
+1. LIFT SOMETHING/SOMEBODY UPpick something/somebody ↔ up to lift something or someone up:
+ He picked up the letter and read it.
+ The phone rang and I picked it up.
+ Mummy, can you pick me up?
+2. pick yourself up to get up from the ground after you have fallen:
+ Carol picked herself up and brushed the dirt off her coat.
+3. TIDY SOMETHING pick something ↔ up American English to make a room or building tidy:
+ Pick up your room before you go to bed.
+4. GET SOMETHING pick something ↔ up informal
+a) to get or win something:
+ He’s already picked up three major prizes this year.
+b) to buy something or get it from a shop etc:
+ I picked up an evening paper on the way home.
+ For more details, pick up a leaflet in your local post office.
+c) to get an illness:
+ I picked up a virus while I was in America.
+5. COLLECT pick something ↔ up to collect something from a place:
+ I’ll pick my things up later.
+ She just dropped by to pick up her mail.
+6. LET SOMEBODY INTO A VEHICLE pick somebody ↔ up to let someone get into your car, boat etc and take them somewhere:
+ I’ll pick you up at the station.
+ The survivors were picked up by fishing boats from nearby villages.
+7. LEARN pick something ↔ up to learn something by watching or listening to other people:
+ I picked up a few words of Greek when I was there last year.
+ Mary watched the other dancers to see if she could pick up any tips.
+8. NOTICE pick something ↔ up to notice something that is not easy to notice, such as a slight smell or a sign of something:
+ I picked up a faint smell of coffee.
+ The dogs picked up the scent and raced off.
+ We picked up their tracks again on the other side of the river.
+9. RADIO/SIGNALSpick something ↔ up if a machine picks up a sound, movement, or signal, it is able to notice it or receive it:
+ The sensors pick up faint vibrations in the Earth.
+ I managed to pick up an American news broadcast.
+10. SEX pick somebody ↔ up to become friendly with someone you have just met because you want to have sex with them:
+ young women sitting around in bars waiting to be picked up
+11. START AGAIN
+a) if you pick up where you stopped or were interrupted, you start again from that point:
+ We’ll meet again in the morning and we can pick up where we left off.
+b) pick something ↔ up if you pick up an idea that has been mentioned, you return to it and develop it further:
+ I’d like to pick up what you said earlier.
+ This same theme is picked up in his later works.
+12. IMPROVE
+a) if a situation picks up, it improves:
+ Her social life was picking up at last.
+ The economy is finally beginning to pick up again.
+ We’ve been through a bit of a bad patch, but things are picking up again now.
+b) pick somebody up if a medicine or drink picks you up, it makes you feel better ⇨ pick-me-up
+13. ROAD pick something ↔ up if you pick up a road, you go onto it and start driving along it:
+ We take the A14 to Birmingham and then pick up the M5.
+14. TRAIN/BUS pick something ↔ up if you pick up a train, bus etc, you get onto it and travel on it
+15. pick up speed/steam to go faster:
+ The train was gradually picking up speed.
+16. pick up the bill/tab (for something) informal to pay for something:
+ Why should the taxpayer pick up the tab for mistakes made by a private company?
+17. WIND if the wind picks up, it increases or grows stronger
+18. COLOUR pick something ↔ up if one thing picks up a colour in something else, it has an amount of the same colour in it so that the two things look nice together:
+ I like the way the curtains pick up the red in the rug.
+19. CRIMINAL pick somebody ↔ up if the police pick someone up, they take them somewhere to answer questions or to be locked up:
+ He was picked up by police as he was trying to leave the country.
+20. pick up the pieces (of something) to try to make your life normal again after something very bad has happened to you:
+ Thousands of victims of the earthquake are now faced with the task of picking up the pieces of their lives.
+21. pick up the threads (of something) if you pick up the threads of something that you were doing, you try to return to it and start doing it again after it stopped or was changed:
+ Now that the war was over they could pick up the threads of their lives again.
+22. pick your feet up spoken used to tell someone to walk properly or more quickly
+
+pick a fight
+pick a fight/quarrel/argument idiom
+to start a fight/quarrel/argument with someone
+• He'd had too much to drink and tried to pick a fight with the bartender.
+Thesaurus+: ↑Arguing and disagreeing
+Main entry: pickidiom
+From Oxford Advanced Learners Dictionary 8th Ed.
+pick a fight (with somebody)
+pick a ˈfight/ˈquarrel (with sb) idiom
+to deliberately start a fight or an argument with sb
+• He had drunk too much and was ready to pick a fight with anyone who crossed his path.
+Main entry: ↑pickidiom
+
+starting point
+ˈstarting ˌpoint (UK also start point) noun countable usually singular [starting points] UK  US 
+a place or position where something begins
+• The starting point for the guided tour of the town is in the market square.
+• The committee emphasised that its report was only meant as a starting point for discussion.
+Thesaurus+: ↑Beginnings and starts
+
+11. slip your mind/memory if something slips your mind, you forget it:
+ I meant to buy some milk, but it completely slipped my mind.
+12. let something slip to say something without meaning to, when you had wanted it to be a secret:
+ He let it slip that they were planning to get married.
+13. GET FREE [transitive] to get free from something that was holding you:
+ The dog slipped his collar and ran away.
+14. slip through the net British English, slip through the cracks American English if someone or something slips through the net, they are not caught or dealt with by the system that is supposed to catch them or deal with them:
+ In a class of 30 children, it is easy for one to slip through the net and learn nothing.
+15. let something slip (through your fingers) to not take an opportunity, offer etc:
+ Don’t let a chance like that slip through your fingers!
+16. slip one over on somebody especially American English informal to deceive or play a trick on someone
+17. slip a disc to suffer an injury when one of the connecting parts between the bones in your back moves out of place
+slip away phrasal verb
+1. to leave a place secretly or without anyone noticing:
+He slipped away into the crowd.
+2. if something such as an opportunity slips away, it is no longer available:
+ This time, Radford did not let her chance slip away.
+slip something ↔ in phrasal verb
+to use a word or say something without attracting too much attention:
+ He had slipped in a few jokes to liven the speech up.
+slip out phrasal verb
+if something slips out, you say it without really intending to:
+ I didn’t mean to say it. The words slipped out.
+slip up phrasal verb
+to make a mistake ⇨ slip-up:
+ The company apologized for slipping up so badly.
+slip up on
+ Someone had slipped up on the order.
+ COLLOCATIONS
+■ ADJECTIVES/NOUN + hazard
+▪ a health hazard The rubbish needs to be removed before it becomes a health hazard.
+▪ a fire hazard The unoccupied building was declared a fire hazard.
+▪ a safety hazard Protesters claim that the nuclear reactor is a safety hazard.
+▪ a traffic hazard Cars parked in the wrong places can cause a traffic hazard.
+▪ a natural hazard (=a hazard caused by nature) One of the most widespread natural hazards is flooding.
+▪ an environmental hazard (=a danger or problem in the environment) Oil from the tanker caused an environmental hazard.
+▪ a serious/major hazard Lead pipes are a serious hazard to health.
+▪ a potential hazard Microwave ovens are a potential hazard if not used properly.
+■ verbs
+▪ cause/create a hazard There was concern that overhead power lines could cause a health hazard.
+▪ pose a hazard (=be a possible hazard) It was not known whether radiation from the weapons posed any hazard to soldiers.
+▪ eliminate a hazard (=get rid of a hazard) They took steps to eliminate all potential fire hazards.
+▪ reduce a hazard He led the campaign to recognize and reduce the hazard from radiation in our environment.
+• • •
+THESAURUS
+▪ risk the chance that something bad may happen: Smoking greatly increases the risk of lung cancer.
+▪ threat the possibility that something very bad will happen: the only way to reduce the threat of nuclear war
+▪ hazard something that may be dangerous or cause accidents or problems: natural hazards like avalanches
+II. hazard2 BrE  AmE  verb [transitive]
+1. to say something that is only a suggestion or guess and that might not be correct:
+ $50,000? I don’t know. I’m only hazarding a guess.
+2. formal to risk losing your money, property etc in an attempt to gain something
+
+stall
+verb
+ENGINE
+1. intransitive or transitive If an engine stalls, or if you stall it, it stops working suddenly and without you intending it to happen
+• A car may stall due to the driver braking too suddenly.
+• I stalled the car twice during my driving test but still managed to pass.
+Thesaurus+: ↑Not functioning ↑Driving and operating road vehicles
+ 
+DELAY
+2. intransitive to delay taking action or avoid giving an answer in order to have more time to make a decision or get an advantage
+• She says she'll give me the money next week but I think she's just stalling (for time).
+Thesaurus+: ↑Delaying and wasting time
+3. transitive If you stall a person, you delay them or prevent them from doing something for a period of time
+• I managed to stall him for a few days until I'd got enough money to pay back the loan.
+• mainly US The thief broke into the office while his accomplice stalled off the security guard.
+Thesaurus+: ↑Delaying and wasting time
+4. transitive If you stall an event, you delay it or prevent it from happening for a period of time
+• Commandoes stalled the enemy attack by destroying three bridges.
+• Fears are growing that a tax increase may stall economic recovery.
+Thesaurus+: ↑Delaying and wasting time
+
+II. pace2 BrE  AmE  verb
+1. [intransitive always + adverb/preposition, transitive] to walk first in one direction and then in another many times, especially because you are nervous:
+ I found Mark at the hospital, pacing restlessly up and down.
+pace the floor/room
+ Sam stood up and paced the floor, deep in thought.
+2. pace yourself
+a) to control the speed that you move at in a race, so that you still have energy left near the end:
+ Nicky paced herself and came through the ranks to win.
+b) to organize your life and activities so that you do not have too much to do:
+ You need to pace yourself and decide which tasks are the most important.
+3. [transitive] (also pace something ↔ off, pace something ↔ out) to measure a distance by walking across it with steps of equal length:
+ The director paced out the length of the stage.
+• • •
+THESAURUS
+▪ walk to move forward by putting one foot in front of the other: I missed the bus so I decided to walk. | We’ve walked about eight miles today.
+▪ wander to walk without any clear purpose or direction: They wandered around the narrow streets of the old city.
+▪ stride to walk with long steps in a determined, confident, or angry way: A man in a suit came striding purposefully into the hall. | She strode onto the stage and began to address the audience.
+▪ pace to walk first in one direction and then in another many times, especially because you are nervous: Nick was pacing up and down, waiting for the phone to ring.
+▪ march to walk quickly with firm regular steps – used especially about soldiers or someone who is angry: The troops marched past with smart uniform and good discipline. | Sheila marched into the office and demanded an apology.
+▪ wade to walk through deep water: We had to wade across the river.
+▪ stomp to walk putting your feet down very hard, especially because you are angry: She turned and stomped off without looking back.
+
+boil down
+boil down phrasal verb (see also ↑boil)
+1. boil down to something informal if a long statement, argument etc boils down to a single statement, that statement is the main point or cause:
+ It boils down to a question of priorities.
+2. boil something ↔ down to make a list or piece of writing shorter by not including anything that is not necessary:
+ You can boil this down so that there are just two main categories.
+3. if a food or liquid boils down, or if you boil it down, it becomes less after it is cooked:
+ Spinach tends to boil down a lot.
+boil something ↔ down
+ glue made from boiling down old sheepskins
+ 
+ THINK
+3. <A > intransitive formal to think carefully, especially about possibilities and opinions
+• The manager demanded time to reflect (on what to do).
+• + that She reflected that this was probably the last time she would see him.
+Thesaurus+: ↑Thinking and contemplating
+• It provides one with a chance to reflect on spiritual matters in solitude.
+• The writer reflects on human injustice and iniquity.
+• In many of his poems the poet reflects on the quietude of the countryside.
+• He paused for a moment and reflected on the work in front of him.
+• He spent the evening reflecting on the day's events.
+Phrasal Verb: reflect on somebody
+
+reflective
+re‧flec‧tive /rɪˈflektɪv/ BrE  AmE  adjective
+[Word Family: noun: ↑reflection, ↑reflector; verb: ↑reflect; adjective: ↑reflective]
+1. a reflective surface reflects light:
+ Stick reflective tape on your school bag.
+2. thinking quietly about something:
+ She was in a reflective mood.
+3. showing that something is true about a situation
+reflective of
+ TV is reflective of society’s more liberal views on sex.
+—reflectively adverb
+—reflectiveness noun [uncountable]
+
+rid
+rid UK  US  [rɪd] adjective
+1. be rid of sth/sb
+<E > to not now have an unwanted or unpleasant task, object or person
+• I didn't enjoy marking those papers and I was glad to be rid of them.
+Thesaurus+: ↑Lacking things ↑Scarce, inadequate and not enough ↑Essential or necessary
+2. get rid of sth
+A. <E > to remove or throw away something unwanted
+• That cream got rid of my skin rash.
+• I used weedkiller to get rid of the weeds in the garden.
+Thesaurus+: ↑Removing and getting rid of things ↑Taking things away from someone or somewhere
+B. <E > to sell an old or unwanted possession
+• Have you managed to get rid of your old Volvo yet?
+Thesaurus+: ↑Selling
+3. get rid of sb
+to send away someone annoying or to persuade them to leave
+• We got rid of our unwelcome guests by saying we had to go to bed.
+Thesaurus+: ↑Punishing someone by sending them somewhere else ↑Evicting and forcing to leave
+ 
+verb [ridding], [rid] or [ridded], [rid] or [ridded]
+Phrasal Verb: rid somebody of somebody
+
+sag
+sag /sæɡ/ BrE  AmE  verb (past tense and past participle sagged, present participle sagging) [intransitive]
+[Date: 1300-1400; Origin: Probably from a Scandinavian language]
+1. to hang down or bend in the middle, especially because of the weight of something SYN droop:
+ The branch sagged under the weight of the apples.
+ The skin around my eyes is starting to sag.
+ a sagging roof
+2. to become weaker or less valuable OPP flourish:
+ attempts to revive the sagging economy
+—sag noun [uncountable and countable]:
+ a sag in the mattress
+ 
+ . tear2 S2 W3 /teə $ ter/ BrE  AmE  verb (past tense tore /tɔː $ tɔːr/, past participle torn /tɔːn $ tɔːrn/)
+[Language: Old English; Origin: teran]
+1. PAPER/CLOTH
+a) [transitive] to damage something such as paper or cloth by pulling it hard or letting it touch something sharp SYN rip:
+ Be careful not to tear the paper.
+ His clothes were old and torn.
+tear something on something
+ She realized she had torn her jacket on a nail.
+tear something off
+ Tear off the slip at the bottom of this page and send it back to us.
+tear something out (of something)
+ He tore a page out of his notebook and handed it to her.
+ The dog had torn a huge hole in the tent.
+ He picked up the envelope and tore it open.
+ She tore the letter to pieces and threw it in the bin.
+ Most of her clothes had been torn to shreds.
+b) [intransitive] if paper or cloth tears, it splits and a hole appears, because it has been pulled too hard or has touched something sharp:
+ The paper is old and tears easily.
+ ▪ tear a hole in something She caught her shawl on a nail and tore a hole in it.
+▪ tear something open She tore open the envelope.
+▪ tear something to pieces/shreds The dogs tore the meat to pieces.
+▪ tear something in two (also tear something in half) Jack snatched the letter from him and tore it in two.
+▪ tear to damage paper or cloth by pulling it too hard, or letting it touch something sharp: She unwrapped the present carefully, trying not to tear the paper. | I tore a hole in my jacket, climbing over the fence.
+▪ rip to tear something quickly or violently: Beth excitedly ripped open the package. | Stop pulling my dress! You’ll rip it!
+▪ split to tear your trousers or shirt when you put them on, because they are too tight for you: He bent down and split his trousers. | Oh no, now I’ve split my shirt.
+▪ ladder British English if a woman ladders her ↑tights or STOCKINGS, she tears them so that a long thin line appears in them: Damn! I’ve laddered my tights!
+▪ snag to catch a piece of clothing on something rough or sharp so that it tears slightly: I snagged my shirt on a nail.
+▪ shred to deliberately destroy letters, documents etc by cutting them into thin pieces, often by using a special machine: In order to prevent fraud, it’s best to shred your bank statements. | I went through all my papers shredding things I didn’t need.
+▪ frayed torn a little along the edges – used about clothes, carpets etc that have been used a lot: He was wearing an old pair of frayed jeans. | The rug was a little frayed around the edges. | The jacket was a little frayed at the cuffs.
+tear somebody/something apart phrasal verb
+1. tear something ↔ apart to cause serious arguments in a group of people SYN rip apart:
+ Scandal is tearing the government apart.
+ a row that tore the family apart
+2. literary to separate people who are in a close relationship with each other:
+ Nothing can tear us apart!
+3. to make someone feel extremely unhappy or upset:
+ Seeing her so upset really tore him apart.
+4. tear something ↔ apart to break something violently into a lot of small pieces SYN rip apart:
+ Her body had been torn apart by wolves.
+ 
+ rip
+rip UK  US  [rɪp] [-pp-] verb [ripping ripped rips]
+TEAR
+1. <A > intransitive or transitive to pull apart; to tear or be torn violently and quickly
+• His new trousers ripped when he bent down.
+• I ripped my shirt on a nail.
+• + object + adjective She excitedly ripped the parcel open.
+• The wind ripped the flag to/into shreds (= into little pieces).
+Thesaurus+: ↑Tearing and breaking into pieces
+2. <A > transitive + adverb or preposition to remove something quickly, without being careful
+• I wish the old fireplaces hadn't been ripped out.
+• We ripped up the carpets and laid a new wooden floor.
+Thesaurus+: ↑Removing and extracting
+ 
+• I've ripped my trousers - can you stitch them up for me?
+• The sleeve of my jacket (got) caught on the door handle and ripped.
+• Rip the basil leaves into pieces and sprinkle them over the salad.
+• The eagle uses its beak to rip the meat from the carcass.
+• She ripped her dress on a nail that was protruding from the bench.
+
+go south (third-person singular simple present goes south, present participle going south, simple past went south, past participle gone south)
+(idiomatic) To become unfavorable; to decrease; to take a turn for the worse.
+I should have walked away from the casino when my luck went south, but I stayed and ended up in the hole.
+He was unconcerned that his health might turn south.
+Yesterday the stock market moved south, ending up on a loss for the day.
+Afterward, when company profits had ventured a bit too far southward, the CFO began to get nervous.
+To make an escape; to disappear.
+1929, Peter B. Kyne, The Parson of Panamint and Other Stories (page 197)
+He won! A disbeliever, from childhood, in the frequency of miracles, he gathered up seven hundred and forty dollars and "went south" with it.
+(slang) To give somebody oral sex.
+
+sway
+sway UK  US  [sweɪ] verb [sways swaying swayed]
+ 
+MOVE
+1. intransitive to move slowly from side to side
+• The trees were swaying in the wind.
+• The movement of the ship caused the mast to sway from side to side/backwards and forwards.
+• A drunk was standing in the middle of the street, swaying uncertainly and trying hard to stay upright.
+Thesaurus+: ↑Shaking, swinging and vibrating
+2. transitive to cause something to move or change
+• Recent developments have swayed the balance of power in the region.
+Thesaurus+: ↑Changing ↑Adapting and modifying ↑Adapting and attuning to something ↑Changing frequently ↑General words for movement
+PERSUADE
+3. transitive to persuade someone to believe or do one thing rather than another
+• Her speech failed to sway her colleagues into supporting the plan.
+Thesaurus+: ↑Urging and persuading ↑Causing somebody to act
+noun uncountable formal
+control or influence
+• In the 1980s, the organization came under the sway of (= became strongly influenced by) Christian fundamentalism.
+• Her parents no longer seem to have much sway over her.
+• The party could hold sway (= have an important imfluence) on some crucial votes.
+Thesaurus+: ↑Power to control
+
+cloud over
+cloud over phrasal verb (see also ↑cloud)
+1. (also cloud up American English) if the sky clouds over, it becomes dark and full of black clouds
+2. if someone’s face or eyes cloud over, they start to look angry or sad:
+ His face clouded over in disappointment.
+ 
+<<<<<<< HEAD
+ brim2 BrE  AmE  verb (past tense and past participle brimmed, present participle brimming) [intransitive]
+1. if your eyes brim with tears, or if tears brim from your eyes, you start to cry
+brim with
+ Her eyes brimmed with tears.
+ Her tears brimmed over again as she started to speak.
+2. be brimming (over) with something to have a lot of a particular thing, quality, or emotion:
+ The flowerbeds were brimming over with flowers.
+ He seemed to be brimming with confidence.
+ Rob was just brimming with enthusiasm.
+ 
+ press on (with something)
+ˌpress aˈhead/ˈon (with sth) derived
+to continue doing sth in a determined way; to hurry forward
+• The company is pressing ahead with its plans for a new warehouse.
+• ‘Shall we stay here for the night?’ ‘No, let's press on.’
+Main entry: ↑pressderived
+From Longman DOCE 5th Ed. (En-En)
+press on
+press on (see also ↑press)
+(also press ahead) phrasal verb to continue doing something, especially working, in a determined way:
+ We’ll talk about your suggestion later – now let’s just press on.
+press on with
+ Shall we press ahead with the minutes of the last meeting?
+=======
+ liaise
+liaise UK  US  [liˈeɪz] verb intransitive [liaises liaising liaised]
+to speak to people in other organizations in order to exchange information with them
+• Our head office will liaise with the suppliers to ensure delivery.
+Thesaurus+: ↑Debate and discussion
+
+finish up
+finish up phrasal verb (see also ↑finish)
+1. British English informal to arrive at a particular place, after going to other places first SYN end up:
+ I took a long holiday in Italy and finished up in Rome.
+2. British English informal to get into a particular state or situation as the result of what you have done, especially without planning or expecting it SYN end up:
+ He tried to bribe a police officer and finished up in jail.
+finish up with
+ Brett got into a fight and finished up with a broken wrist.
+3. finish something ↔ up to eat or drink all the rest of something, so there is none left:
+ Come on, finish up your drinks!
+ 
+ prey on (somebody/something)
+prey on somebody/something phrasal verb (see also ↑prey)
+1. if an animal or bird preys on another animal or bird, it hunts and eats it ⇨ predator:
+ Cats prey on birds and mice.
+2. to try to deceive or harm weaker people:
+ religious cults that specialize in preying on young people
+3. prey on sb’s mind to make someone worry continuously:
+ The accident has been preying on my mind all week.
+ 
+  showcase
+showcase UK  [ˈʃəʊ.keɪs] US  [ˈʃoʊ-] noun countable [showcases]
+CONTAINER
+1. a container with glass sides in which valuable or important objects are kept so that they can be looked at without being touched, damaged or stolen
+Thesaurus+: ↑Furniture for storage
+OPPORTUNITY
+2. a situation or event which makes it possible for the best features of something to be seen
+• The Venice Film Festival has always been the showcase of Italian cinema.
+• The exhibition is an annual showcase for British design and innovation.
+Thesaurus+: ↑Exhibiting and exhibitions
+verb transitive
+to show the best qualities or parts of something
+• The main aim of the exhibition is to showcase British design.
+Thesaurus+: ↑Showing and demonstrating
+
+
+II. swamp2 BrE  AmE  verb [transitive]
+1. [usually in passive] to suddenly give someone a lot of work, problems etc to deal with SYN inundate
+be swamped by/with something
+ We’ve been swamped with phone calls since the advert appeared.
+2. [usually in passive] to go somewhere or surround something in large numbers, especially in a short period of time
+be swamped by/with something
+ In the summer the village is swamped by visitors.
+3. to suddenly cover an area with a lot of water SYN flood:
+ Huge waves swamped the vessel.
+ 
+ step back (third-person singular simple present steps back, present participle stepping back, simple past and past participle stepped back)
+Used other than figuratively or idiomatically: see step,‎ back.
+(idiomatic) To stop what one is doing and evaluate the current situation.
+Perhaps we should step back for a second and think about solving this problem a different way.
+(idiomatic) To prevent oneself from becoming emotionally involved in a certain situation.
+As a therapist sometimes you have to step back from your clients' lives.
+(rail transport, of a driver at a terminal station) to depart driving the train following the train they arrived into the station driving, so as to decrease service turnaround time.
+Noun[edit]
+step back (plural steps back)
+(idiomatic) A reversion to a former state or situation.
+step back
+▪ I. step back phrasal verb mainly UK [stepping back stepped back stepped back stepped back steps back]
+to temporarily stop being involved in an activity or situation in order to think about it in a new way
+• Let's just step back from the problem and think about what we could do.
+Thesaurus+: ↑Abstaining and refraining
+Main entry: stepphrasal verb
+ 
+▪ II. step back (in time) idiom
+to go back into the past
+• Visiting her house was like stepping back in time/stepping back 50 years.
+Thesaurus+: ↑In the past
+Main entry: stepidiom
+attune (third-person singular simple present attunes, present participle attuning, simple past and past participle attuned)
+(music, transitive) To bring into musical accord.
+(music, transitive) To tune (an instrument).
+(transitive, figuratively) To bring into harmony or accord.
+By meditating, I try to attune myself to the greater cosmos.
+
+go with the flow (third-person singular simple present goes with the flow, present participle going with the flow, simple past went with the flow, past participle gone with the flow)
+(idiomatic) To act as others are acting, conforming to common behavior patterns with an attitude of calm acceptance.
+
+I. lounge2 BrE  AmE  verb [intransitive]
+[Date: 1500-1600; Origin: Perhaps copying slow movement]
+1. [always + adverb/preposition] to stand, sit, or lie in a lazy or relaxed way:
+ Nathan was lounging on the grass bank outside the cottage.
+2. lounge around (also lounge about British English) to spend time relaxing and doing nothing, often when you should be doing something SYN laze around:
+ James does nothing but lounge around the apartment.
+• • •
+THESAURUS
+▪ sit to be resting your weight on your bottom somewhere, or to move into this position: He was sitting in front of the fire. | She sat on the bed and kicked off her shoes. | Who is the man sitting next to Karen?
+▪ sit down to sit on a chair, bed, floor etc after you have been standing: I sat down on the sofa. | Come in and sit down.
+▪ be seated formal to be sitting in a particular chair or place: John was seated on my left. | There was a man seated behind the desk.
+▪ take a seat to sit – used especially when asking someone to sit down: Please take a seat – she will be with you in a minute. | Would the audience please take their seats – the show will begin in five minutes.
+▪ sink into something to sit in a comfortable chair and let yourself fall back into it: We switched on the TV and sank into our armchairs.
+▪ lounge to sit in a very comfortable relaxed way: They lounged around all day by the pool.
+▪ perch to sit on the edge of something: He perched on the arm of the sofa. | My sister was perched (=was sitting) on a high stool.
+▪ be slumped to be sitting while leaning against something, especially because you are injured, drunk, or asleep: They found him slumped against the steering wheel.
+▪ squat to sit with your knees bent under you, your bottom just off the ground, balancing on your feet: A little boy was squatting at the edge of the pool.
+
+verb transitive
+1. to improve a situation
+• The organization was established to better conditions for the disabled.
+Thesaurus+: ↑Making things better ↑Becoming better
+2. better yourself
+to improve your social position, often by getting a better job or education
+• He tried to better himself by taking evening classes.
+Thesaurus+: ↑Making things better ↑Becoming better
+
+deviate
+de·vi·ate AW [deviate deviates deviated deviating] BrE [ˈdiːvieɪt]  NAmE [ˈdiːvieɪt]  verb intransitive ~ (from sth)
+to be different from sth; to do sth in a different way from what is usual or expected
+• The bus had to deviate from its usual route because of a road closure.
+• He never deviated from his original plan.
+▪ In particular those who deviate from society's values must be brought back into line.
+▪ Make up your mind that whatever the short-term temptations may be, you will never deviate from the highest standards of honour.
+▪ Men think it would undermine their position at work to deviate from the usual schedule.
+▪ Real gases also deviate more from ideal gas behaviour at lower temperatures.
+▪ Should a solicitor deviate from the rules of conduct then sanctions can be imposed by the profession.
+▪ So do not deviate by mixing your opinions with the facts.
+▪ They may even drive on occasions but must not deviate from the agreed route except where reasonable to protect the child.
+
+Thesaurus:
+apply verb
+1. I
+• apply for a job/passport/grant
+ask • • try for sth • • bid • • claim • • petition • |especially BrE put in for sth • |formal seek • • request •
+apply/ask/try/bid/petition/put in for sth
+apply/ask/bid to do sth
+formally apply for/ask for/bid for/claim/petition for/seek/request sth
+2. T
+• apply the new technology to farming
+• apply political pressure
+use • • make use of sb/sth • • exert • • impose • • put sth into practice • • put sth into effect • |formal exercise • • employ • • utilize •
+apply/use/make use of/impose/put into practice/put into effect/utilize ideas
+apply/use/make use of/employ/utilize a method/technique
+apply/impose/put into practice/put into effect/employ/utilize measures
+apply/impose/put into practice/utilize a law/principle
+3. I, T (not used in the progressive tenses)
+• What I am saying applies only to some of you.
+relate to sb/sth • • concern • • affect • • involve • • refer to sb/sth • • cover • • have/be to do with sth •
+a rule/law applies to/concerns/affects/refers to/covers sth
+directly apply to/relate to/concern/affect/involve/refer to/have to do with sth
+
+4. apply yourself to work hard at something, especially with a lot of attention for a long time:
+ Stephen would do well if only he applied himself.
+apply yourself to
+ Over the next months, he applied himself to improving the technique.
+ 2. AFFECT [intransitive, transitive not in progressive] to have an effect on or to concern a particular person, group, or situation
+apply to
+ Do the same rules apply to part-time workers?
+ The offer only applies to flights from London and Manchester.
+ 
+ stick to (something)
+stick to something phrasal verb (see also ↑stick)
+1. to do or keep doing what you said you would do or what you believe in, even when it is difficult SYN keep to:
+ Have you been sticking to your diet?
+stick to your decision/principles etc
+ Miguel was determined to stick to his decision.
+ It looks as if Nick will stick to his word this time.
+2. to keep using or doing one particular thing and not change to anything else:
+ If you’re driving, stick to soft drinks.
+stick to doing something
+ Reporters should stick to investigating the facts.
+3. stick to your guns informal to refuse to change your mind about something, even though other people are trying to persuade you that you are wrong:
+ Having made up his mind, he stuck to his guns.
+4. stick to the point/subject/facts to talk only about what you are supposed to be talking about or what is certain:
+ Never mind whose fault it was. Just stick to the facts.
+5. stick to the rules informal to do something exactly according to the rules
+6. stick to the path/road etc to stay on a marked path or road so that you do not get lost
+7. stick to the/your story spoken to continue to say that what you have told someone is true, even though they do not believe you:
+ You intend to stick to this story that she knew nothing of your financial prospects?
+8. stick to the/your knitting American English informal to continue paying attention to your own work and not to get involved with what other people are doing:
+ I wish Mrs Reese would stick to her knitting.
+9. stick it to somebody American English informal to make someone suffer, pay a high price etc:
+ The politicians stick it to the tourists because the tourists don’t vote.
+ 
+ answer back
+▪ I. answer back phrasal verb [answers back answering back answered back answered back answered back]
+to react to criticism by arguing or explaining
+• The company criticized in the documentary was given the opportunity to answer back.
+Thesaurus+: ↑Answering and responding
+Main entry: answerphrasal verb
+ 
+▪ II. answer (sb) back phrasal verb [answers sb back answering sb back answered sb back answered sb back answered sb back]
+to speak rudely when answering someone in authority
+• Don't you dare answer me back, young lady!
+Thesaurus+: ↑Denying and contradicting
+>>>>>>> dd8d48bfee802d2a4f17ad099dd049b396c37029
+>>>>>>> 4ffb614fbbbc95c47fd189cdb92c9b72c99bff45
