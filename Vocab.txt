@@ -19265,6 +19265,9 @@ re‧me‧di‧al /rɪˈmiːdiəl/ BrE  AmE  adjective
 ▪ spiral out of control to become worse in a way that cannot be controlled and is extremely serious and worrying: Police say that the violence has spiralled out of control. | Scientists are worried that global warming could soon spiral out of control. | Costs have been spiralling out of control.
 ▪ The National Autistic Society will now operate a phone line for families in the region affected by autism.
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 4653f3012fa3a419fac46f0983f287b84591425f
 
 
 concede
@@ -21202,6 +21205,9 @@ creep into/over etc
  Fog was creeping into the valley.
 6. British English informal to be insincerely nice to someone, especially someone in authority, in order to gain an advantage for yourself
 creep (up) to somebody
+<<<<<<< HEAD
+ I’m not the kind of person to creep to anybody.
+=======
  I’m not the kind of person to creep to anybody.
 =======
 <<<<<<< HEAD
@@ -23712,3 +23718,4 @@ Language Banks at ↑addition, ↑argue, ↑evidence, ↑illustrate
 =======
 >>>>>>> 7a41957a2d39e2481316ca85790e50418ab0329d
 >>>>>>> 4ba03e0988dd5643dac4be3cfbf02008da1f9ba0
+>>>>>>> 4653f3012fa3a419fac46f0983f287b84591425f

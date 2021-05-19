@@ -1642,9 +1642,19 @@ reduce your dependence/reliance on fossil fuels
 get/obtain/generate/produce electricity from wind, solar and wave power/renewable sources
 build/develop a (50-megawatt/offshore) wind farm
 install/be fitted with/be powered by solar panels
- 
 Example Bank:
 • Most plastics are not readily biodegradable.
+<<<<<<< HEAD
+>>>>>>> 09bd2db153b6a2f47c0696fa4998f542143967c0
+
+From CALD3 - Paracel & Spratly Islands - Van Lang - Viet Nam
+culpable
+culpable UK  US  [ˈkʌl.pə.bl ̩] formal adjective
+deserving to be blamed or considered responsible for something bad
+• He was held culpable (= blamed) for all that had happened.
+Thesaurus+: ↑Guilty
+Derived: culpability ▪ culpably
+=======
 <<<<<<< HEAD
 
 petrify
@@ -4180,6 +4190,9 @@ review noun 6 study
 run-up noun 2
 usher something in phrasal verb
 <<<<<<< HEAD
+>>>>>>> dd8d3f99120b308e98685fafdef7ccaf25fff527
+=======
+<<<<<<< HEAD
 
 elective
 elect·ive [elective electives] adjective, noun BrE [ɪˈlektɪv]  NAmE [ɪˈlektɪv] 
@@ -5028,3 +5041,4 @@ EXAMPLES FROM CORPUS
 ▪ As things stand, any claim that he could muster more than 5 % seems far-fetched.
 ▪ If this were an outline for a novel it would probably be rejected as too far-fetched.
 >>>>>>> dd8d48bfee802d2a4f17ad099dd049b396c37029
+>>>>>>> 4ffb614fbbbc95c47fd189cdb92c9b72c99bff45
