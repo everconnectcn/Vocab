@@ -4769,7 +4769,6 @@ all-round UK  [ˌɔːlˈraʊnd] US  [ˌɑːl-] (US all-around) adjective before 
 describes a person who has many different types of skills and abilities
 • She's a fantastic all-round sportswoman.
 
-<<<<<<< HEAD
 brash
 brash UK  US  [bræʃ] disapproving adjective [brasher brashest]
 1. (of people) showing too much confidence and too little respect
