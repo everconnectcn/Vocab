@@ -7566,6 +7566,17 @@ STATE
 • the holy estate of marriage
 Thesaurus+: ↑Existing and being
 
+<<<<<<< HEAD
+improvisation
+improvisation UK  [ˌɪm.prə.v a ɪˈzeɪ.ʃ ə n] US  [ɪmˌprɑː.vɪˈ-] noun countable or uncountable [improvisations]
+1. a performance which an actor, musician, etc. has not practiced or planned
+• a blues/jazz improvisation
+• There are classes in movement, dance and improvisation.
+Thesaurus+: ↑Playing music ↑Singing in general ↑Acting, rehearsing and performing
+2. when you make or do something with whatever is available at the time
+• I'm afraid we don't have all the necessary equipment, so a little improvisation might be required.
+Thesaurus+: ↑Inventing, designing and innovation ↑Creating and producing
+=======
 2. pl.
 • I'm proud of my African roots.
 origin/origins • • background • • ancestry • • parentage • • pedigree • • family • |formal blood • • descent • • lineage •
@@ -8005,3 +8016,4 @@ Call or describe? Call is used with a noun or adjective complement, without as. 
 cry out (sth) • • shout • • yell • • scream • |written exclaim • • cry •
 call/cry out/shout/yell/scream/exclaim/cry (sth) to sb
 call/cry out/shout/yell/scream for sb/sth
+>>>>>>> dc1e97d4c99001974caa78638d03c070d06f2a4f
