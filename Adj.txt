@@ -5041,5 +5041,50 @@ Thesaurus+: ↑Not believable
 EXAMPLES FROM CORPUS
 ▪ As things stand, any claim that he could muster more than 5 % seems far-fetched.
 ▪ If this were an outline for a novel it would probably be rejected as too far-fetched.
->>>>>>> dd8d48bfee802d2a4f17ad099dd049b396c37029
->>>>>>> 4ffb614fbbbc95c47fd189cdb92c9b72c99bff45
+
+disheartened
+disheartened UK  US  UK [dɪsˈhɑː.t ə nd] US [-ˈhɑːr.t ̬ ə n-] adjective
+• She was very disheartened by the results of the test.
+Thesaurus+: ↑Feeling sad and unhappy
+Main entry: disheartenderived
+dishearten
+dishearten UK  [dɪsˈhɑː.t ə n] US  [-ˈhɑːr.t ̬ ə n] verb transitive [disheartens disheartening disheartened]
+to make a person lose confidence, hope and energy; to discourage
+Thesaurus+: ↑Disappointing yourself and others ↑Discouraging and putting off
+Derived: disheartened ▪ disheartening
+
+overgrown
+o‧ver‧grown /ˌəʊvəˈɡrəʊn◂ $ ˌoʊvərˈɡroʊn◂/ BrE  AmE  adjective
+[Word Family: noun: ↑grower, ↑growth, ↑undergrowth, ↑outgrowth, ↑overgrowth; adjective: growing, ↑grown, ↑overgrown; verb: ↑grow, ↑outgrow]
+1. covered with plants that have grown in an uncontrolled way
+overgrown with
+ The garden will be overgrown with weeds by the time we get back.
+2. when grass or plants are overgrown, they have grown in an uncontrolled way:
+ a lawn with overgrown grass
+3. overgrown schoolboy/child an adult who behaves like a child – used to show disapproval:
+ Stop acting like an overgrown schoolboy.
+ 
+ worky (comparative workier, superlative workiest)
+(informal) Of or pertaining to work; tending to be too serious about work.
+Angelo has an important deadline, so he is all worky today.
+
+spotty
+spot‧ty /ˈspɒti $ ˈspɑːti/ BrE  AmE  adjective
+[Word Family: adjective: ↑spotted, ↑spotless, ↑spotty; verb: ↑spot; noun: ↑spot; adverb: ↑spotlessly]
+1. British English informal someone who is spotty has small raised red marks on their skin, especially on their face:
+ a tall, thin, spotty youth
+ a spotty face
+2. American English good only in some parts, but not in other parts SYN patchy British English
+
+larger than life (comparative form only)
+(sometimes hyphenated) Of greater size or magnitude than is naturally or normally the case.
+1838, Charles Dickens, Nicholas Nickleby, ch. 30:
+Miss Snevellicci's papa looked very big indeed—several sizes larger than life.
+1849, Herman Melville, Redburn: His First Voyage, ch. 31:
+At uniform intervals round the base of the pedestal, four naked figures in chains, somewhat larger than life, are seated in various attitudes of humiliation and despair.
+(idiomatic, sometimes hyphenated, usually of a person) Very imposing, renowned, or impressively influential.
+1984, Bonnie Tyler, Holding Out for a Hero
+1988 Jan. 3, Joyce Carol Oates, "Intellectual Seduction: Meeting with Gorbachev," New York Times, p. SM16:
+This is a person of surpassing integrity; a man of the utmost sincerity; somewhat larger than life, perhaps.
+2007 Dec. 31, Orville Schell, "Person of the Year Runners-up: Hu Jintao," Time:
+Nor has he cultivated the kind of flamboyant style with which his country became well acquainted in larger-than-life leaders from Chiang Kai-shek to Mao Zedong and Deng Xiaoping.
