@@ -5262,29 +5262,85 @@ Thesaurus+: ↑Keeping and staying the same ↑Not able to be changed
 a lawnmower which cuts grass with blades that spin round in a circle and which is held slightly above the ground by a current of air below it
 Thesaurus+: ↑Gardening tools ↑Tools
 
-2. PRAISE [uncountable] approval or praise that you give to someone for something they have done
-credit for
- Credit for this win goes to everybody in the team.
- They never give Gene any credit for all the extra work he does.
-take/claim/deserve etc (the) credit
- She deserves credit for trying her best.
-to sb’s credit (=used to say that someone has done something good)
- To Jamie’s credit, he remained calm.
- Credit must go to Fiona for making sure everything ran smoothly.
-3. be a credit to somebody/something (also do somebody/something credit) to behave so well or be so successful that your family, team etc are proud of you:
- She’s a credit to her profession.
- Your children really do you credit.
-4. have something to your credit to have achieved something:
- She already has two successful novels to her credit.
-5. in credit if you are in credit, there is money in your bank account:
- There are no bank charges if you stay in credit.
-6. the credits [plural] a list of all the people involved in making a film or television programme, which is shown at the beginning or end of it
-7. on the credit side used to talk about the good things about someone or something:
- On the credit side, the book is extremely well researched.
-8. (give) credit where credit is due used to say that someone deserves to be praised for the good things they have done
-9. UNIVERSITY [countable] a successfully completed part of a course at a university or college:
- I don’t have enough credits to graduate.
-10. AMOUNT OF MONEY [countable] an amount of money that is put into someone’s bank account or added to another amount OPP debit:
- The company promised to provide credits to customers who had been charged too much.
-11. TRUE/CORRECT [uncountable] the belief that something is true or correct:
- The witness’s story gained credit with the jury.
+turn your hand to something
+turn your hand to sth idiom
+If you say that someone could turn their hand to an activity or skill, you mean they could do it well although they have no experience of it
+• Stella's very talented - she could turn her hand to anything.
+Thesaurus+: ↑Skill, talent and ability
+Main entry: turnidiom
+
+gravitate to somebody
+ˈgravitate to/toward(s) sb/sth derived
+to move towards sb/sth that you are attracted to
+• Many young people gravitate to the cities in search of work.
+Main entry: ↑gravitatederived
+gravitate
+grav‧i‧tate /ˈɡrævəteɪt, ˈɡrævɪteɪt/ BrE  AmE  verb [intransitive always + adverb/preposition]
+formal to be attracted to something and therefore move towards it or become involved with it
+gravitate to/towards
+ Most visitors to London gravitate to Piccadilly Circus and Leicester Square.
+gravitate
+verb
+EXAMPLES FROM CORPUS
+▪ As a kid, she was a superior all-around athlete, eventually gravitating to golf at age 14.
+▪ Funnily enough, whenever he does this all the really interesting people in the room seem to gravitate to his chair.
+▪ I feel stock returns will eventually gravitate to their historic norms of 10. 5 percent annually since 1925.
+▪ In the long run the economy will tend to gravitate towards a position of Walrasian equilibrium.
+▪ There was always plenty to drink, and eventually the two would gravitate toward each other and dance very close.
+▪ They're gravitating to a large noisy mechanical crudely-lit fairground.
+
+ring up
+ring up phrasal verb (see also ↑ring)
+1. British English to telephone someone SYN call (somebody) up
+ring somebody ↔ up
+ I’ll ring the manager up tomorrow.
+ I rang up and made an appointment.
+2. ring something ↔ up to press buttons on a ↑cash register to record how much money is being put inside:
+ The cashier rang up £300 by mistake.
+ ring up (third-person singular simple present rings up, present participle ringing up, simple past rang up, past participle rung up)
+(transitive, idiomatic) To telephone; to call someone on the telephone.
+1926, Sir Arthur Conan Doyle, The Land of Mist‎[1]:
+Malone at once rang up Lord Roxton, and soon heard the familiar voice.
+1932, Delos W. Lovelace, King Kong, published 1965, page 4:
+"I was just going ashore to ring you up."
+(transitive) To enter (a payment) into a cash register, or till in a shop, or record a credit- or debit-card payment.
+1953, Jerrard Tickell, The Dart Players, page 21,
+He took out his wallet and gave her a pound note and a ten-shilling note. She rang up the sum on the till, snapped the notes into their little clip, shut the drawer.
+(transitive) To record the payment of.
+
+regroup
+re‧group /ˌriːˈɡruːp/ BrE  AmE  verb
+1. [intransitive and transitive] to form a group again in order to be more effective, or to make people do this:
+ The Allies regrouped and launched a new attack.
+ The Russians retreated, needing to regroup their forces.
+2. [intransitive] American English to stop and think about something, so that you can start to do something again in a better way:
+ I paused for a minute to regroup.
+
+ meet up
+meet up phrasal verb [met up met up met up meets up meeting up]
+ 
+PEOPLE
+1. to meet another person in order to do something together
+• They suggested we meet up at Mustafa's.
+Thesaurus+: ↑Meeting people ↑Official meetings
+ 
+ROADS
+2. If roads or paths meet up, they join at a particular place.
+Thesaurus+: ↑Connecting and combining ↑Variety and mixtures ↑Mixing and mixtures
+Main entry: meetphrasal verb
+From Oxford Advanced Learners Dictionary 8th Ed.
+meet up (with somebody)
+ˌmeet ˈup (with sb) derived
+(rather informal) to meet sb, especially by arrangement
+• They met up again later for a drink.
+Main entry: ↑meetderived
+From Longman DOCE 5th Ed. (En-En)
+meet up
+meet up phrasal verb (see also ↑meet)
+1. to meet someone in order to do something together:
+ We often meet up after work and go for a drink.
+meet up with
+ I’ve got to go now, but I’ll meet up with you later.
+2. if roads, paths etc meet up, they join together at a particular place
+meet up with
+ The path eventually meets up with the main road.
