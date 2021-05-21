@@ -5027,6 +5027,15 @@ platonic
 platonic UK  [pləˈtɒn.ɪk] US  [-ˈtɑː.nɪk] adjective
 A platonic relationship or emotion is loving but not sexual
 • She knew he fancied her, but preferred to keep their relationship platonic.
+
+monotonous
+monotonous UK  [məˈnɒt. ə n.əs] US  [-ˈnɑː.t ̬ ə n-] adjective
+staying the same and not changing and therefore boring
+• a monotonous job
+• a monotonous voice
+• The music became monotonous after a while.
+Thesaurus+: ↑Tedious and uninspiring
+Derived: monotonously
 Thesaurus+: ↑Relationships in general ↑Friendly
 
 far-fetched
@@ -5040,5 +5049,120 @@ Thesaurus+: ↑Not believable
 EXAMPLES FROM CORPUS
 ▪ As things stand, any claim that he could muster more than 5 % seems far-fetched.
 ▪ If this were an outline for a novel it would probably be rejected as too far-fetched.
->>>>>>> dd8d48bfee802d2a4f17ad099dd049b396c37029
->>>>>>> 4ffb614fbbbc95c47fd189cdb92c9b72c99bff45
+
+prejudiced
+prejudiced UK  US  [ˈpredʒ.ʊ.dɪst] disapproving adjective
+showing an unreasonable dislike for something or someone
+• The campaign is designed to make people less prejudiced about AIDS.
+• The media has been accused of presenting a prejudiced view of people with disabilities.
+• Some companies are prejudiced against taking on employees who are over the age of 40.
+Thesaurus+: ↑Unfairness and favouring someone unfairly ↑Justice and fairness
+
+dubious
+dubious UK  [ˈdjuː.bi.əs] US  [ˈduː-] adjective
+1. <A > thought not to be completely true or not able to be trusted
+• These claims are dubious and not scientifically proven.
+• He has been associated with some dubious characters.
+• Ruth Ellis has the dubious (= bad) distinction of being the last woman to be hanged in Britain.
+Thesaurus+: ↑Uncertainty ↑Hesitating ↑Achievable ↑Dishonest
+2. <A > feeling doubt or not feeling certain
+• I'm dubious about his promises to change his ways.
+Thesaurus+: ↑Doubt and ambivalence ↑Hesitating
+ 
+• We were always a bit dubious about the advantages these changes would actually bring.
+• Let us think for a moment about the dubious benefits of nuclear technology.
+• He's under investigation because of his dubious accounting practices.
+• How exactly did they work out these figures? I think they're a bit dubious, personally.
+• He was involved in some dubious activities in the past which his former colleagues have only hinted at.
+Derived: dubiously
+empirical
+empirical UK  US  [ɪmˈpɪr.ɪ.k ə l] adjective
+based on what is experienced or seen rather than on theory
+• This theory needs to be backed up with solid empirical data/evidence.
+• Empirical studies show that some forms of alternative medicine are extremely effective.
+Thesaurus+: ↑True, real, false, and unreal
+Derived: empirically
+From Oxford Advanced Learners Dictionary 8th Ed.
+empirical
+em·pir·ic·al AW [empirical empirically] BrE [ɪmˈpɪrɪkl]  NAmE [ɪmˈpɪrɪkl]  adjective usually before noun
+(formal) based on experiments or experience rather than ideas or theories
+• empirical evidence/knowledge/research
+• an empirical study
+Opp: ↑theoretical
+Derived Word: ↑empirically
+
+empirical 
+
+turquoise
+
+ / 5t\:kwRIz; `t[kwRIz/ n 
+ [C, U] type of greenish-blue precious stone 绿松石: [attrib 作定语] a turquoise brooch 绿松石的胸针. 
+ [U] greenish-blue colour 青绿色: pale turquoise 浅淡的青绿色.
+
+ # turquoise adj of this colour 青绿色的: a turquoise dress 青绿色的连衣裙.
+From Longman DOCE 5th Ed. (En-En)
+turquoise
+tur‧quoise /ˈtɜːkwɔɪz, -kwɑːz $ ˈtɜːrkwɔɪz/ BrE  AmE  noun
+[Date: 1400-1500; Language: Old French; Origin: turqueise, from turqueis 'Turkish']
+1. [uncountable and countable] a valuable greenish-blue stone or a jewel that is made from this:
+ turquoise earrings
+2. [uncountable] a greenish-blue colour:
+ The room was painted in turquoise.
+—turquoise adjective:
+ a clear turquoise sea
+ 
+ 
+  > reversible / -Ebl; -Ebl/ adj that can be reversed 可反转的; 可翻转的; 可倒退的; 可转变的; 可撤消的; 可逆的: a reversible coat, scarf, cap, etc, ie one that can be worn with either side turned out 可正反两面使用的大衣、围巾、帽子等. reversibility / rI9v\:sE5bIlEtI; rI9v[sE`bIlEtI/ n [U].
+
+ # re`versing light white light at the back of a vehicle showing that it is in reverse gear 倒车灯（倒车时使用的白色灯）.
+From Longman DOCE 5th Ed. (En-En)
+reversible
+re‧vers‧i‧ble AC /rɪˈvɜːsəbəl, rɪˈvɜːsɪbəl $ -ɜːr-/ BrE  AmE  adjective
+[Word Family: noun: ↑reversal, ↑reverse; adjective: ↑reverse, ↑reversible ≠ ↑irreversible; verb: ↑reverse]
+1. a change that is reversible can be changed back to how it was before OPP irreversible:
+ A lot of chemical reactions are reversible.
+2. a piece of clothing or material that is reversible can be worn with either side showing on the outside:
+ a reversible jacket
+From Longman DOCE5 Extras (En-En)
+reversible
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ Smokers gradually lose their sense of smell, but this is reversible when they quit.
+EXAMPLES FROM CORPUS
+▪ Because of the low activation energies, such reactions are often readily reversible at room temperature.
+▪ Benches with reversible tops give the option of either a smooth surface or recessed gravel trays for summer and are particularly useful.
+▪ However, with a currency board, the process is reversible.
+▪ In addition, the resulting change in reserves can be predicted precisely and open market operations are readily reversible.
+▪ It is a very reliable reversible type of non-hormonal contraceptive.
+▪ It is important to note that this procedure is not reversible, nor does it allow for post-inspection audit.
+▪ The program supplies more than 30 percent of all couples using reversible contraceptives.
+
+mown
+adjective
+(used of grass or vegetation) cut down with a hand implement or machine
+- the smell of newly mown hay
+• Syn: ↑cut
+• Ant: ↑unmown
+• Similar to: ↑new-mown
+• Topics: ↑vegetation, ↑flora, ↑botany
+
+mow
+mow UK  [məʊ] US  [moʊ] [mowed], [mown] or [mowed] verb intransitive or transitive [mowed mown mows mowing]
+to cut plants, such as grass or wheat, which have long thin stems and grow close together
+• You can't mow the grass/lawn if it's wet.
+• I love the smell of new-mown hay.
+Thesaurus+: ↑Cutting and stabbing ↑Gardening - general words
+Phrasal Verb: mow somebody down
+
+-stemmed
+-stemmed UK  US  [-stemd] suffix
+having the stated type of stem
+• a thick-stemmed plant
+• a long-stemmed wine glass
+Thesaurus+: ↑Parts of plants
+paradigm
+paradigm UK  [ˈpær.ə.daɪm] US  [ˈper-] formal noun countable [paradigms]
+a model of something, or a very clear and typical example of something
+• Some of these educators are hoping to produce a change in the current cultural paradigm.
+Thesaurus+: ↑Samples and examples
+Derived: paradigmatic
