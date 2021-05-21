@@ -32,6 +32,7 @@ crowds/droves/hordes/a crush/a throng of people
 push/fight/force your way through the crowd/hordes/crush/mob/throng
 a crowd/mob/throng gathers
 
+<<<<<<< HEAD
 
  bicycle lanes with isolation belt, 
  old industrial ruins and modern architecture can be presented on this route.
@@ -211,3 +212,12 @@ green foliage
 • Syn: ↑verdure
 • Derivationally related forms: ↑green
 • Hypernyms: ↑leaf, ↑leafage, ↑foliage
+=======
+hearing the birds chirp
+chirp
+verb
+COLLOCATIONS FROM OTHER ENTRIES
+a bird chirps/twitters (=makes short high sounds)
+▪ Birds chirped to one another from different branches of the tree.
+EXAMPLES FROM OTHER ENTRIES
+>>>>>>> ca1069215031cd0f04a65f29fc8f39aa89747ecf

@@ -141,6 +141,7 @@ from the knowledge you have in your memory
 Thesaurus+: ↑Memory and memories
 Main entry: topidiom
 
+<<<<<<< HEAD
 There's no accounting for taste
 There's no accounting for taste. idiom saying
 said when it is difficult to explain why different people like different things, especially things which you do not like
@@ -154,3 +155,37 @@ there's no accounting for ˈtaste idiom
 • She thinks he's wonderful— oh well, there's no accounting for taste.
 Main entry: ↑accountidiom
 萝卜青菜各有所爱
+=======
+↑Describing medical treatment generally
+Describing medical treatment generally Thesaurus+ Level 4 (26)
+bath noun 5
+clinical adjective 1 medical
+clinically adverb
+first aid noun
+first-aider noun
+general practice noun
+gynaecological adjective
+med adjective
+medical adjective
+medically adverb
+medicine noun 1 treatment
+orthodox medicine noun
+orthopaedic adjective 2
+painkilling adjective
+post-operative adjective
+quackery noun
+reconstructive adjective
+restorative adjective
+soothing adjective 2 less painful
+surgical adjective 1; adjective 2; adjective 3
+surgically adverb
+telemedicine noun
+therapeutic adjective
+therapy noun
+
+shall we say
+Used other than figuratively or idiomatically: see shall,‎ we,‎ say.
+(parenthesis) Used for making a statement less offensive or as a warning that the description may be imprecise.
+(parenthesis) Used as a warning that the description may be imprecise.
+Synonym: shall I say
+>>>>>>> ca1069215031cd0f04a65f29fc8f39aa89747ecf

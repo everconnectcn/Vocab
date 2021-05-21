@@ -5052,6 +5052,7 @@ to speak rudely when answering someone in authority
 • Don't you dare answer me back, young lady!
 Thesaurus+: ↑Denying and contradicting
 
+<<<<<<< HEAD
 
 bump (something) up
 bump something ↔ up phrasal verb (see also ↑bump)
@@ -5214,3 +5215,297 @@ THESAURUS
 ▪ perch to sit on the edge of something: He perched on the arm of the sofa. | My sister was perched (=was sitting) on a high stool.
 ▪ be slumped to be sitting while leaning against something, especially because you are injured, drunk, or asleep: They found him slumped against the steering wheel.
 ▪ squat to sit with your knees bent under you, your bottom just off the ground, balancing on your feet: A little boy was squatting at the edge of the pool.
+=======
+snuggle
+snuggle UK  US  [ˈsnʌg.l ̩] verb intransitive usually + adverb or preposition [snuggles snuggling snuggled]
+to move yourself into a warm and comfortable position, especially one in which your body is against another person or covered by something
+• The children snuggled up to their mother to get warm.
+• I was just snuggling down into my warm duvet when the telephone rang.
+Thesaurus+: ↑Comfortable and uncomfortable
+From Oxford Advanced Learners Dictionary 8th Ed.
+snuggle
+snug·gle [snuggle snuggles snuggled snuggling] BrE [ˈsnʌɡl]  NAmE [ˈsnʌɡl]  verb intransitive, transitive
+to get into, or to put sb/sth into, a warm comfortable position, especially close to sb
+• + adv./prep. The child snuggled up to her mother.
+• He snuggled down under the bedclothes.
+• She snuggled closer.
+• ~ sth + adv./prep. He snuggled his head onto her shoulder.
+
+fall apart
+fall apart phrasal verb (see also ↑fall)
+1. if an organization, system, relationship etc falls apart, it stops being effective or successful:
+ Don’t be reckless or your plans may fall apart.
+ The health service is falling apart at the seams.
+2. be falling apart to be in very bad condition:
+ Tommy’s old bicycle was rusty and falling apart.
+3. to break into pieces:
+ The book fell apart in my hands.
+4. to be unable to deal with your personal or emotional problems:
+ She had to get some rest or she was going to fall apart.
+5. sb’s world/life falls apart if someone’s world or life falls apart, something very bad and serious happens which changes their life:
+ When his wife left him, his world fell apart.
+
+ backfire
+back‧fire /ˌbækˈfaɪə $ ˈbækfaɪr/ BrE  AmE  verb [intransitive]
+1. if a plan or action backfires, it has the opposite effect to the one you intended:
+ The company’s new policy backfired when a number of employees threatened to quit.
+2. if a car backfires, it makes a sudden loud noise because the engine is not working correctly
+• • •
+THESAURUS
+▪ fail to not succeed – used about people, plans, methods etc: The plan failed. | They failed to persuade her to change her mind. | This method never fails.
+▪ go wrong if something you do goes wrong, it fails after starting well: The experiment went wrong when the chemicals combined to form a poisonous gas.
+▪ not work if something does not work, it does not do what you want it to do: The drugs don’t work. | I tried to fix it with glue, but that didn’t work.
+▪ be unsuccessful /ˌʌnsəkˈsesfəl◂/ to not have the result you wanted: His first attempt to get a teaching job was unsuccessful. | The search was unsuccessful.
+▪ be a failure to be unsuccessful, with the result that you have wasted your efforts: The government’s 5-year plan to modernize the economy was a complete failure.
+▪ backfire if a plan or action backfires, it does the opposite of what it was intended to do: His plan to get attention backfired, and instead of being promoted he lost his job.
+▪ in vain if you try to do something in vain, you fail to do it: They tried in vain to save him. | All her efforts had been in vain.
+
+bottom out
+bottom out phrasal verb (see also ↑bottom)
+if a situation, price etc bottoms out, it stops getting worse or lower, usually before improving again ⇨ level off/out:
+ There are signs that the recession has bottomed out.
+ 
+ fall short
+fall short idiom
+to fail to reach an amount or standard that was expected or hoped for, causing disappointment
+• August car sales fell short of the industry's expectations.
+Thesaurus+: ↑Failing and doing badly ↑Scarce, inadequate and not enough ↑Lacking things
+Main entry: fallidiom
+
+flop
+I. flop1 /flɒp $ flɑːp/ BrE  AmE  verb (past tense and past participle flopped, present participle flopping) [intransitive]
+[Date: 1600-1700; Origin: ⇨ ↑flap2]
+1. [always + adverb/preposition] to sit or lie down in a relaxed way, by letting all your weight fall heavily onto a chair etc:
+ He flopped down onto the bed.
+ I got home and flopped in front of the TV.
+2. [always + adverb/preposition] to hang or fall loosely, in an uncontrolled way:
+ His head flopped back pathetically.
+3. informal if something such as a product, play, or idea flops, it is not successful because people do not like it
+II. flop2 BrE  AmE  noun
+1. [countable] informal a film, play, product etc that is not successful OPP hit
+disastrous/spectacular etc flop
+ The film was a complete flop.
+2. [singular] the movement or noise that something makes when it falls heavily:
+ He fell with a flop into the water.
+⇨ ↑belly flop
+• • •
+THESAURUS
+▪ failure noun [countable] someone or something that is not successful: The book was a complete failure. | I felt a complete failure.
+▪ flop noun [countable] informal something that is not successful because people do not like it – used especially about a film, play, product, or performance: Despite the hype, the movie was a flop at the box office. | Their next computer was a flop.
+▪ disaster noun [countable] used when saying that something is extremely unsuccessful: Our first date was a disaster. | Their marriage was a total disaster.
+▪ fiasco noun [countable usually singular] something that is completely unsuccessful and goes very badly wrong – used especially about things that have been officially planned, which go very wrong: The baggage system broke down on the first day the airport was open. It was a complete fiasco. | The fiasco came close to ending de Gaulle's political career.
+▪ debacle noun [countable usually singular] formal an event or situation that is a complete failure, because it does not happen in the way that it was officially planned: the banking debacle that has put our economy at risk
+▪ shambles noun [singular] especially British English if a situation or event is a shambles, it is completely unsuccessful because it has been very badly planned or organized, and no one seems to know what to do: The first few shows were a shambles, but things soon got better.
+▪ washout noun [singular] informal a failure – used when something is so bad that it would be better if it had not happened: The play wasn’t a complete washout; the acting was okay. | His most recent and ambitious project, a big-budget Hollywood film, was a washout with both critics and audiences alike.
+▪ turkey noun [countable] informal something that is so bad and unsuccessful that you think the people involved should be embarrassed about it – a very informal use: At the time most people thought the car was a complete turkey. | Since then he has appeared in a string of turkeys.
+
+fight with
+ She was clearly fighting with her emotions.
+9. LAW [transitive] to try to get something or prevent something in a court of law:
+ The insurance company are fighting the claims in court.
+10. fight your way (through/past etc somebody/something) to move somewhere with difficulty, for example because there are so many people around you:
+ We fought our way through the crowd.
+11. fight a losing battle to try to do something that you probably cannot succeed in doing:
+ I’m fighting a losing battle on this diet.
+12. have a fighting chance to have a chance to do something or achieve something if you try very hard:
+ Lewis has a fighting chance to win the gold medal.
+13. fight tooth and nail (for something)/fight something tooth and nail to try very hard to do or achieve something, or to prevent something:
+ He’s rich now, but he had to fight tooth and nail for it.
+14. fight to the death/finish to fight until one person or group is dead or completely defeated
+15. fight your own battles to fight for what you want, without needing help from other people:
+ Mum, I can fight my own battles now.
+16. fighting spirit the desire to fight or win:
+ In the second half the team showed their true fighting spirit.
+17. fighting words/talk something you say that shows that you want to fight hard for something
+18. fight fire with fire to use the same methods as your opponents in an argument, competition etc
+19. fight like cat and dog if two people fight like cat and dog, they argue a lot because they dislike each other or disagree:
+ I didn’t get on with her at work either – we fought like cat and dog.
+20. fighting fit British English extremely fit and healthy
+21. fight your corner British English to try to persuade people that your ideas about something are right and should be accepted:
+ The Prime Minister made it clear that Britain would fight its corner on Europe.
+22. fight shy of (doing) something British English to try to avoid doing something or being involved in something:
+ Many women fight shy of motherhood.
+fight back phrasal verb
+1. to work hard to achieve or oppose something, especially in a situation where you are losing:
+ United fought back and scored a last-minute goal.
+fight back against
+ She was fighting back against the cancer.
+2. to use violence or arguments against someone who has attacked you or argued with you:
+ The rebels are fighting back.
+3. fight something ↔ back to try hard not to have or show a feeling:
+ She looked away, fighting back her tears.
+ He fought back the impulse to slap her.
+fight something ↔ down phrasal verb
+to try hard not to have or show a feeling:
+ Doug fought down a feeling of panic.
+fight somebody/something ↔ off phrasal verb
+1. to keep someone away, or stop them doing something to you, by fighting or opposing them:
+ Bodyguards had to fight off the crowds.
+ The company managed to fight off a takeover attempt.
+2. to succeed in stopping other people getting something, and to get it for yourself:
+ Allan fought off stiff competition from throughout the UK to win one of only four places at the college.
+3. to try hard to get rid of something, especially an illness or a feeling:
+ Elaine’s fighting off a cold.
+fight something out phrasal verb
+to argue or fight until a disagreement is settled:
+ We left them to fight it out.
+ 
+ help (somebody) out
+help (sb) out phrasal verb before or after object [helps sb out helping sb out helped sb out helped sb out helped sb out]
+<I > If you help out, you do a part of someone's work or give someone money
+• Her parents helped (her) out with a £500 loan.
+Thesaurus+: ↑Helping and co-operating
+• I don't mind helping them out, but I can't help feeling a bit put-upon.
+• Thanks for helping me out with that report - you saved my life!
+• They promised that they would help out.
+• Paul helped his elderly neighbour out by clearing snow from her path.
+• In his closing remarks, the chairman thanked everyone who had helped out.
+
+II. size2 BrE  AmE  verb [transitive]
+1. to sort things according to their size:
+ Shrimp are sized and selected for canning.
+2. [usually passive] to make something into a particular size or sizes:
+ Most costume patterns are sized for children.
+3. to put ↑size1(7) on a wall before decorating
+size somebody/something ↔ up phrasal verb
+to look at or consider a person or situation and make a judgment about them SYN assess:
+ It only took a few seconds for her to size up the situation.
+ 
+ From Longman DOCE 5th Ed. (En-En)
+shovel
+I. shov‧el1 /ˈʃʌvəl/ BrE  AmE  noun [countable]
+[Language: Old English; Origin: scofl]
+1. a tool with a rounded blade and a long handle used for moving earth, stones etc SYN spade
+2. a part of a large vehicle or machine used for moving or digging earth
+II. shovel2 BrE  AmE  verb (past tense and past participle shovelled, present participle shovelling British English, shoveled, shoveling American English) [transitive]
+1. to lift and move earth, stones etc with a shovel:
+ The workmen shovelled gravel onto the road.
+ They were out in freezing conditions shovelling snow off the pitch.
+shovel the driveway/sidewalk etc American English (=shovel snow from a road or path)
+ Everyone was out shoveling their sidewalks.
+2. shovel something into/onto something to put something, usually food, somewhere quickly:
+ We shovelled food into our mouths as fast as we could.
+ 
+ zoom
+I. zoom1 /zuːm/ BrE  AmE  verb [intransitive] informal
+[Date: 1800-1900; Origin: From the sound]
+1. [always + adverb/preposition] to go somewhere or do something very quickly SYN whizz, zip
+zoom off/around/down etc
+ Brenda jumped in the car and zoomed off.
+ The work was really easy and I was able to zoom through it in a couple of hours.
+2. (also zoom up) to increase suddenly and quickly SYN escalate
+zoom to
+ Inflation zoomed to 123%.
+zoom in phrasal verb
+if a camera zooms in, it makes the person or thing that you are taking a picture of seem bigger and closer
+zoom in on
+ The camera zoomed in on the child’s face.
+zoom out phrasal verb
+if a camera zooms out, it makes the person or thing that you are taking a picture of seem smaller and further away
+II. zoom2 BrE  AmE  noun [singular]
+informal a sound made by a vehicle that is travelling fast
+
+3. American English to escape from a plane, using a ↑parachute SYN bale out British English
+4. bail something ↔ out (also bale something ↔ out British English) to remove water that has come into a boat
+
+hover
+▪ I. hover UK  [ˈhɒv.ə r ] US  [ˈhɑː.vɚ] verb [hovers hovering hovered]
+1. intransitive usually + adverb or preposition to stay in one place in the air, usually by moving the wings quickly
+• A hawk hovered in the sky, waiting to swoop down on its prey.
+• I heard the noise of a helicopter hovering overhead.
+Thesaurus+: ↑Movement through the air ↑Aviation ↑Travelling by aircraft ↑Waiting ↑Staying and remaining
+2. intransitive usually + adverb or preposition to stand somewhere, especially near another person, eagerly or nervously waiting for their attention
+• A waiter hovered at the table, ready to take our order.
+• I could sense him behind me, hovering and building up the courage to ask me a question.
+Thesaurus+: ↑Animal (non-human) behaviour ↑Ornithology and bird-watching ↑Movement through the air ↑Aviation ↑Travelling by aircraft
+3. intransitive + adverb or preposition to stay at or near a particular level
+• Inflation is hovering at 3%.
+Thesaurus+: ↑Keeping and staying the same ↑Not able to be changed
+ 
+▪ II. ˈhover (ˌmower) noun countable UK [hover mowers] UK 
+a lawnmower which cuts grass with blades that spin round in a circle and which is held slightly above the ground by a current of air below it
+Thesaurus+: ↑Gardening tools ↑Tools
+
+turn your hand to something
+turn your hand to sth idiom
+If you say that someone could turn their hand to an activity or skill, you mean they could do it well although they have no experience of it
+• Stella's very talented - she could turn her hand to anything.
+Thesaurus+: ↑Skill, talent and ability
+Main entry: turnidiom
+
+gravitate to somebody
+ˈgravitate to/toward(s) sb/sth derived
+to move towards sb/sth that you are attracted to
+• Many young people gravitate to the cities in search of work.
+Main entry: ↑gravitatederived
+gravitate
+grav‧i‧tate /ˈɡrævəteɪt, ˈɡrævɪteɪt/ BrE  AmE  verb [intransitive always + adverb/preposition]
+formal to be attracted to something and therefore move towards it or become involved with it
+gravitate to/towards
+ Most visitors to London gravitate to Piccadilly Circus and Leicester Square.
+gravitate
+verb
+EXAMPLES FROM CORPUS
+▪ As a kid, she was a superior all-around athlete, eventually gravitating to golf at age 14.
+▪ Funnily enough, whenever he does this all the really interesting people in the room seem to gravitate to his chair.
+▪ I feel stock returns will eventually gravitate to their historic norms of 10. 5 percent annually since 1925.
+▪ In the long run the economy will tend to gravitate towards a position of Walrasian equilibrium.
+▪ There was always plenty to drink, and eventually the two would gravitate toward each other and dance very close.
+▪ They're gravitating to a large noisy mechanical crudely-lit fairground.
+
+ring up
+ring up phrasal verb (see also ↑ring)
+1. British English to telephone someone SYN call (somebody) up
+ring somebody ↔ up
+ I’ll ring the manager up tomorrow.
+ I rang up and made an appointment.
+2. ring something ↔ up to press buttons on a ↑cash register to record how much money is being put inside:
+ The cashier rang up £300 by mistake.
+ ring up (third-person singular simple present rings up, present participle ringing up, simple past rang up, past participle rung up)
+(transitive, idiomatic) To telephone; to call someone on the telephone.
+1926, Sir Arthur Conan Doyle, The Land of Mist‎[1]:
+Malone at once rang up Lord Roxton, and soon heard the familiar voice.
+1932, Delos W. Lovelace, King Kong, published 1965, page 4:
+"I was just going ashore to ring you up."
+(transitive) To enter (a payment) into a cash register, or till in a shop, or record a credit- or debit-card payment.
+1953, Jerrard Tickell, The Dart Players, page 21,
+He took out his wallet and gave her a pound note and a ten-shilling note. She rang up the sum on the till, snapped the notes into their little clip, shut the drawer.
+(transitive) To record the payment of.
+
+regroup
+re‧group /ˌriːˈɡruːp/ BrE  AmE  verb
+1. [intransitive and transitive] to form a group again in order to be more effective, or to make people do this:
+ The Allies regrouped and launched a new attack.
+ The Russians retreated, needing to regroup their forces.
+2. [intransitive] American English to stop and think about something, so that you can start to do something again in a better way:
+ I paused for a minute to regroup.
+
+ meet up
+meet up phrasal verb [met up met up met up meets up meeting up]
+ 
+PEOPLE
+1. to meet another person in order to do something together
+• They suggested we meet up at Mustafa's.
+Thesaurus+: ↑Meeting people ↑Official meetings
+ 
+ROADS
+2. If roads or paths meet up, they join at a particular place.
+Thesaurus+: ↑Connecting and combining ↑Variety and mixtures ↑Mixing and mixtures
+Main entry: meetphrasal verb
+From Oxford Advanced Learners Dictionary 8th Ed.
+meet up (with somebody)
+ˌmeet ˈup (with sb) derived
+(rather informal) to meet sb, especially by arrangement
+• They met up again later for a drink.
+Main entry: ↑meetderived
+From Longman DOCE 5th Ed. (En-En)
+meet up
+meet up phrasal verb (see also ↑meet)
+1. to meet someone in order to do something together:
+ We often meet up after work and go for a drink.
+meet up with
+ I’ve got to go now, but I’ll meet up with you later.
+2. if roads, paths etc meet up, they join together at a particular place
+meet up with
+ The path eventually meets up with the main road.
+>>>>>>> ca1069215031cd0f04a65f29fc8f39aa89747ecf

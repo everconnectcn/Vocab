@@ -5050,6 +5050,7 @@ EXAMPLES FROM CORPUS
 ▪ As things stand, any claim that he could muster more than 5 % seems far-fetched.
 ▪ If this were an outline for a novel it would probably be rejected as too far-fetched.
 
+<<<<<<< HEAD
 prejudiced
 prejudiced UK  US  [ˈpredʒ.ʊ.dɪst] disapproving adjective
 showing an unreasonable dislike for something or someone
@@ -5166,3 +5167,122 @@ a model of something, or a very clear and typical example of something
 • Some of these educators are hoping to produce a change in the current cultural paradigm.
 Thesaurus+: ↑Samples and examples
 Derived: paradigmatic
+=======
+disheartened
+disheartened UK  US  UK [dɪsˈhɑː.t ə nd] US [-ˈhɑːr.t ̬ ə n-] adjective
+• She was very disheartened by the results of the test.
+Thesaurus+: ↑Feeling sad and unhappy
+Main entry: disheartenderived
+dishearten
+dishearten UK  [dɪsˈhɑː.t ə n] US  [-ˈhɑːr.t ̬ ə n] verb transitive [disheartens disheartening disheartened]
+to make a person lose confidence, hope and energy; to discourage
+Thesaurus+: ↑Disappointing yourself and others ↑Discouraging and putting off
+Derived: disheartened ▪ disheartening
+
+overgrown
+o‧ver‧grown /ˌəʊvəˈɡrəʊn◂ $ ˌoʊvərˈɡroʊn◂/ BrE  AmE  adjective
+[Word Family: noun: ↑grower, ↑growth, ↑undergrowth, ↑outgrowth, ↑overgrowth; adjective: growing, ↑grown, ↑overgrown; verb: ↑grow, ↑outgrow]
+1. covered with plants that have grown in an uncontrolled way
+overgrown with
+ The garden will be overgrown with weeds by the time we get back.
+2. when grass or plants are overgrown, they have grown in an uncontrolled way:
+ a lawn with overgrown grass
+3. overgrown schoolboy/child an adult who behaves like a child – used to show disapproval:
+ Stop acting like an overgrown schoolboy.
+ 
+ worky (comparative workier, superlative workiest)
+(informal) Of or pertaining to work; tending to be too serious about work.
+Angelo has an important deadline, so he is all worky today.
+
+spotty
+spot‧ty /ˈspɒti $ ˈspɑːti/ BrE  AmE  adjective
+[Word Family: adjective: ↑spotted, ↑spotless, ↑spotty; verb: ↑spot; noun: ↑spot; adverb: ↑spotlessly]
+1. British English informal someone who is spotty has small raised red marks on their skin, especially on their face:
+ a tall, thin, spotty youth
+ a spotty face
+2. American English good only in some parts, but not in other parts SYN patchy British English
+
+larger than life (comparative form only)
+(sometimes hyphenated) Of greater size or magnitude than is naturally or normally the case.
+1838, Charles Dickens, Nicholas Nickleby, ch. 30:
+Miss Snevellicci's papa looked very big indeed—several sizes larger than life.
+1849, Herman Melville, Redburn: His First Voyage, ch. 31:
+At uniform intervals round the base of the pedestal, four naked figures in chains, somewhat larger than life, are seated in various attitudes of humiliation and despair.
+(idiomatic, sometimes hyphenated, usually of a person) Very imposing, renowned, or impressively influential.
+1984, Bonnie Tyler, Holding Out for a Hero
+1988 Jan. 3, Joyce Carol Oates, "Intellectual Seduction: Meeting with Gorbachev," New York Times, p. SM16:
+This is a person of surpassing integrity; a man of the utmost sincerity; somewhat larger than life, perhaps.
+2007 Dec. 31, Orville Schell, "Person of the Year Runners-up: Hu Jintao," Time:
+Nor has he cultivated the kind of flamboyant style with which his country became well acquainted in larger-than-life leaders from Chiang Kai-shek to Mao Zedong and Deng Xiaoping.
+
+back office
+ˈback ˌoffice BrE  AmE  noun [countable]
+the department of a bank or other financial institution that manages or organizes the work of the institution, but that does not deal with customers
+—back-office adjective [only before noun]:
+ back-office operations
+From Longman DOCE5 Extras (En-En)
+back office
+noun
+EXAMPLES FROM CORPUS
+▪ And when I ran mortgages, I religiously took people from the back office.
+▪ In 1979 Tom Kendall joined the desk from Wharton, with a brief intervening stop in the back office.
+▪ She liked to stick around, see the results, maybe enjoy some off-camera larks in the back office.
+▪ The first traders had their origin, like Lewie, in the back office.
+
+all-consuming (not comparable)
+That consumes everything; that uses everything up.
+Google is the all-consuming superpower on the Internet; soon everything will be owned by them.
+Totally engrossing, using up all of one's time and energy.
+July 18 2012, Scott Tobias, AV Club The Dark Knight Rises[1]
+Where the Joker preys on our fears of random, irrational acts of terror, Bane has an all-consuming, dictatorial agenda that’s more stable and permanent, a New World Order that’s been planned out with the precision of a military coup.
+2020 July 15, Paul Clifton, “Brown "hours from stopping the Underground and buses"”, in Rail, page 7:
+Brown revealed that his time as London Transport Commissioner has been all-consuming, describing it as "full-on".
+
+dismal
+dismal UK  US  [ˈdɪz.məl] adjective
+1. sad and without hope
+• a dismal expression
+Thesaurus+: ↑Feeling sad and unhappy ↑Not hopeful
+2. informal very bad
+• The acting was dismal, wasn't it?
+• What dismal weather!
+Thesaurus+: ↑Serious and unpleasant ↑Not attractive to look at ↑Informal words for bad
+Derived: dismally
+
+dismal
+dis‧mal /ˈdɪzməl/ BrE  AmE  adjective
+[Date: 1300-1400; Language: Anglo-French; Origin: Medieval Latin dies mali 'evil days']
+1. if a situation or a place is dismal, it is so bad that it makes you feel very unhappy and hopeless:
+ The future looks pretty dismal right now.
+ a dismal, grey afternoon
+2. bad and unsuccessful:
+ The team’s record so far is pretty dismal.
+ Her scheme was a dismal failure.
+—dismally adverb
+
+cottage industry
+ˌcot·tage ˈin·dus·try [cottage industry] BrE   NAmE   noun
+a small business in which the work is done by people in their homes
+• Weaving and knitting are traditional cottage industries.
+• Desktop publishing has become a modern cottage industry.
+From Longman DOCE 5th Ed. (En-En)
+cottage industry
+ˌcottage ˈindustry BrE  AmE  noun [countable]
+an industry that consists of people working at home:
+ Hand weaving is a flourishing cottage industry in the region.
+ 
+ silver-tongued (comparative more silver-tongued, superlative most silver-tongued)
+(idiomatic) Eloquent, articulate, charming.
+1819, Walter Scott, The Bride of Lammermoor:
+Ravenswood […] felt himself at once amused and instructed in listening to him, while the statesman […] had now regained all the ease and fluency of a silver-tongued lawyer of the very highest order.
+1979, Gustav Hasford, The Short-Timers, New York: Bantam Books, published 1980, →ISBN, page 20:
+Philips—Sergeant Gerheim's black, silver-tongued House Mouse—is telling everybody about the one thousand cherries he has busted.
+silver tongue
+ˌsilver ˈtongue f9 [silver tongue silver-tongued] BrE   NAmE   noun (formal)
+great skill at persuading people to do or to believe what you say
+Derived Word: ↑silver-tongued
+silver tongue (plural silver tongues)
+(idiomatic) The trait of being clever at speaking, often in a deceitful way.
+1835, Edward Bulwer-Lytton, “The Festival”, in Rienzi, The Last of the Roman Tribunes‎[1]:
+While these, and yet more contradictory, comments followed the exit of the Tribune, he passed into the saloon, where Nina presided; and here his fair person and silver tongue […] won him a more general favour with the matrons than he experienced with their lords, […]
+>>>>>>> ca1069215031cd0f04a65f29fc8f39aa89747ecf
