@@ -631,7 +631,6 @@ perk somebody ↔ up
 perk something ↔ up
  A little chili will perk up the sauce.
  
-<<<<<<< HEAD
  duly
 duly UK  [ˈdjuː.li] US  [ˈduː-] adverb
 in the correct way or at the correct time; as expected
@@ -654,7 +653,7 @@ to give (especially a share of something available) for a particular purpose
 • The museum is planning to increase the amount of space allotted to modern art.
 Thesaurus+: ↑Sharing
 Derived: allotted
-=======
+
  wrestle
 wrestle UK  US  [ˈres.l ̩] verb intransitive or transitive [wrestles wrestling wrestled]
 to fight with someone (especially as a sport) by holding them and trying to throw them to the ground
@@ -690,4 +689,133 @@ very
 • formal We will be more than glad/happy/willing to help you in any way we can.
 Thesaurus+: ↑Intensifying expressions
 Main entry: moreidiom
->>>>>>> ca1069215031cd0f04a65f29fc8f39aa89747ecf
+
+overtime
+overtime UK  [ˈəʊ.və.taɪm] US  [ˈoʊ.vɚ-] adverb, noun uncountable
+1. (time spent working) after the usual time needed or expected in a job
+• They're doing/working overtime to get the job finished on time.
+• Everyone is on overtime (= being paid extra for working after the usual time) this weekend.
+Thesaurus+: ↑Working hours and periods of work ↑Work, working and the workplace
+2. US for extra time
+Thesaurus+: ↑Working hours and periods of work ↑Work, working and the workplace
+ 
+noun uncountable
+extra payment for working after the usual time
+• You can earn some overtime by working after 6.00 p.m.
+Thesaurus+: ↑Earning money and money earned
+
+overtime
+o‧ver‧time /ˈəʊvətaɪm $ ˈoʊvər-/ BrE  AmE  noun [uncountable]
+[Word Family: noun: ↑time, ↑overtime, ↑timer, ↑timing, ↑timelessness; adjective: ↑timeless, ↑timely ≠ ↑untimely; verb: ↑time; adverb: ↑timelessly]
+1. time that you spend working in your job in addition to your normal working hours:
+ six hours’ overtime
+ They’re working overtime to get the job finished.
+ He’s been doing a lot of overtime recently.
+ Many employees work countless hours of unpaid overtime.
+ Many of our offices will be working on overtime until the end of the year.
+2. the money that you are paid for working more hours than usual:
+ He earns £450 a week, including overtime.
+3. be working overtime informal to be very active:
+ As she put down the phone, her brain was working overtime.
+ His senses were working overtime.
+4. American English a period of time added to the end of a sports game to give one of the two teams a chance to win SYN extra time British English
+in overtime
+ Steve Smith scored all nine of the Hawks’ points in overtime.
+COLLOCATIONS
+■ verbs
+▪ work overtime He's been working a lot of overtime.
+▪ do overtime I did three hours overtime yesterday.
+▪ put in overtime (=work overtime) To earn enough money, he puts in a lot of overtime.
+■ adjectives
+▪ paid/unpaid overtime Many teachers do a lot of unpaid overtime.
+▪ unlimited overtime They offered us a bonus and unlimited overtime.
+■ overtime + NOUN
+▪ overtime pay/payments/earnings The salary figure does not include overtime pay. | If Joe worked 100 hours overtime at time and a half, his overtime payments would be $15,662.
+▪ overtime rates (=payments that are set according to a standard scale) Generous overtime rates are paid for late-night and weekend work.
+overtime
+noun
+COLLOCATIONS FROM OTHER ENTRIES
+overtime pay (=for extra hours that you work)
+▪ Their bosses had to approve any overtime pay.
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+excessive
+▪ A factor in this was excessive overtime with many signalmen working 7 days a week for a month.
+▪ A working culture which allows excessive overtime encourages sub-standard work, and poor inspection.
+▪ It hopes to make a fresh attempt to limit excessive overtime, heavily criticised in the report.
+unpaid
+▪ All bloody unpaid overtime, this job.
+▪ Christofferson, however, kept track of his unpaid overtime hours and by June had amassed almost 500.
+▪ Recently he has found himself working late in the office, unpaid overtime, trying to get the damned thing right.
+▪ Techniques of avoidance, easing strategies, were especially important to prevent unpaid overtime.
+working
+▪ It looked as if his karma was working overtime.
+▪ Soon after I left them, they were working overtime to fulfil a big order, when there was a breakdown.
+▪ His brain was working overtime and he just stood there goggling.
+▪ His brain was working overtime now.
+▪ This means a slight rise in the wages account which is no different than working overtime for cleaning and maintenance of machinery.
+▪ Oh, and all border points are on full alert - guards doubled, searchlights on the border working overtime.
+▪ Their local maternity unit was working overtime.
+■ NOUN
+ban
+▪ In 1996 a national overtime ban by prison officers sparked off riots in seventeen prisons.
+▪ It is thought that a complete overtime ban will go ahead.
+▪ An overtime ban started at 7.30am yesterday and will affect the company's factories at Llandudno Junction and Bodelwyddan.
+▪ On October 31st, 1983, an indefinite overtime ban was called in protest against pit closures.
+pay
+▪ They receive no overtime pay, nor do they get any holiday money or sickness benefit.
+▪ Would you add in overtime pay when listing your annual salary?
+▪ But no: the firm decided instead to eliminate overtime pay for workers at its packaging and distribution center.
+▪ Their bosses, who had to approve any overtime pay, wouldn't do it.
+▪ As a result, employees who now put in, say, four 10-hour days no longer would earn extra overtime pay.
+
+. at the earliest
+used after a date or time to show that something will not happen before then
+• I'm very busy, so I won't be with you till 4 o'clock at the earliest.
+Thesaurus+: ↑Early
+
+5. the early hours the time between ↑midnight and morning:
+ I didn’t finally get to bed until the early hours.
+in the early hours of something
+ The attack happened in the early hours of Sunday morning.
+6. an early start a start made very early in the day because you have a lot to do, far to go etc:
+ We need to make an early start tomorrow.
+7. at/from an early age when you are very young, or starting when you were very young:
+ She’s played tennis from a very early age.
+8. an early night if you have an early night, you go to bed earlier than usual OPP a late night
+have/get an early night
+ I think I’ll get an early night.
+9. early bird/early riser someone who always gets up very early in the morning
+10. the early bird catches the worm used to say that if you do something early or before other people, you will be successful
+11. early potatoes/lettuces etc potatoes etc that are ready to be picked before any others
+
+early/late riser
+▪ A red squirrel was another early riser.
+▪ At 0630 hours the first of the early risers entered the cookhouse for breakfast.
+▪ By the evening they are still full of energy when the early risers wilt.
+▪ Graduate students in most institutions are notoriously late risers, who work way past conventional bedtime.
+▪ It will be particularly useful for early risers who once had to endure deafening music from Benidorm bars until the small hours.
+▪ The restaurants are late risers as well.
+▪ There was the possibility of kingfisher and water rail for early risers on the morrow.
+▪ We were early risers on the first morning.
+run late/early/on time
+▪ Don called - he's running late, so we'll start without him.
+▪ He makes our trains run on time.
+▪ In other words: - Keep the job running on time.
+▪ Maybe she could get the London Underground to run on time?
+▪ Passenger trains never ran on time now.
+▪ Station refurbishment seems a mere insult when the trains don't run on time.
+
+against the clock
+▪ I. against the clock idiom
+1. If you do something against the clock, you do it as fast as possible and try to finish it before a certain time.
+Thesaurus+: ↑Hurrying and doing things quickly ↑Busy and active
+2. When people do something against the clock, the time they take to do it is recorded, in order to find which person or attempt is the fastest.
+Thesaurus+: ↑Watches and clocks
+Main entry: clockidiom
+ 
+▪ II. against time/the clock idiom
+If you do something against time/the clock, you do it as fast as possible and try to finish it before a certain time
+• It was a real race against time to get all the costumes sewn for the play.
+Thesaurus+: ↑Hurrying and doing things quickly ↑Busy and active
+Main entry: againstidiom
