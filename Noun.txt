@@ -9470,7 +9470,6 @@ small
 ▪ It had evolved into a powerful but unintimidating small appliance for organizing and sharing information.
 ▪ Network structures and powerful small appliances allow data and computer resources to scatter throughout an enterprise.
 
- 
 ▪ II. table·top adjective only before noun
 • a tabletop machine (= that can be used on a table)
 • (BrE) a tabletop sale (= where goods for sale are displayed on tables)
@@ -9480,6 +9479,11 @@ cable box (plural cable boxes)
 (television) A device given out by some cable television services that allows the user to have more channels on their television than they would have without the cable box.
 (television) A descrambler used to descramble scrambled television channels on cable TV
 
+<<<<<<< HEAD
+a method of frying food while mixing it quickly, or food cooked this way
+• We're having a vegetable stir-fry for supper tonight.
+• I don't like stir-fry.
+=======
 wannabe
 wan‧na‧be /ˈwɒnəbi $ ˈwɑː-/ BrE  AmE  noun [countable]
 [Date: 1900-2000; Origin: want to be]
@@ -9922,8 +9926,195 @@ corner
 ▪ He just crouches on the corner at lunchtime and occasionally bays, like a wolf or coyote.
 ▪ Mortimer crouched at the corner of the short tunnel through which Benny had entered the previous day.
 
+<<<<<<< HEAD
 kebab
 kebab UK  [kɪˈbæb] US  [-ˈbɑːb] (also shish kebab) noun countable [kebabs]
 a dish consisting of small pieces of meat and vegetables that have been put on a long thin stick or metal rod and cooked together
 Thesaurus+: ↑Savoury dishes
 See also: shish kebab
+=======
+crusade
+crusade UK  US  [kruːˈseɪd] noun [crusades]
+1. countable a long and determined attempt to achieve something which you believe in strongly
+• They have long been involved in a crusade for racial equality.
+• a moral crusade against drugs
+Thesaurus+: ↑Backing, supporting and defending ↑Defending and protecting
+2. countable often plural (also Crusade) a holy war fought by the Christians against the Muslims, often in Palestine, in the 11th, 12th, 13th and 17th centuries
+Thesaurus+: ↑Middle Ages (medieval Period) 501-1500 ↑War
+verb intransitive
+to make an effort to achieve something which you believe in strongly
+• She crusaded against sex and violence on television.
+Thesaurus+: ↑Backing, supporting and defending ↑Defending and protecting
+Derived: crusader
+
+gravy
+ / 5greIvI; `^revI/ n [U] 
+ juice that comes from meat while it is cooking; sauce made from this 肉汁; 调味肉汁. 
+ 
+homebody
+home·body [homebody homebodies] BrE [ˈhəʊmbɒdi]  NAmE [ˈhoʊmbɑːdi]  noun (pl. home·bodies)(informal, especially NAmE)
+a person who enjoys spending time at home
+• We're just homebodies who like staying home watching TV.
+
+homebody (plural homebodies)
+(Canada, US, informal) A person who prefers to remain at home, rather than participate in social events elsewhere.
+Synonyms: couch potato, stay at home
+1852, Mary Henderson Eastman, “chapter XIV”, in Aunt Phillis's Cabin:
+After Phillis left Mrs. Weston's room, she was on her way to her cabin, when she noticed Aunt Peggy sitting alone at the door. She was rather a homebody; yet she reproached herself with having neglected poor old Peggy, when she saw her looking so desolate and dejected.
+Although my uncle likes to travel, my aunt is a homebody, so he usually comes with us while she stays home with her cats.
+
+floodlight
+flood‧light /ˈflʌdlaɪt/ BrE  AmE  noun [countable]
+a very bright light that is used to light the outside of a building or sports ground at night:
+ The church was lit up by floodlights.
+under floodlights
+ The game will be played under floodlights.
+ 
+ sanctuary
+sanctuary UK  [ˈsæŋk.tʃʊə.ri] US  [-tʃu.er.i] noun [sanctuaries]
+1. countable usually singular uncountable protection or a safe place, especially for someone or something being chased or hunted
+• Illegal immigrants found/sought/took sanctuary in a local church.
+• The chapel became a sanctuary for the refugees.
+• figurative If I want some peace and quiet, I take sanctuary in my study.
+Thesaurus+: ↑Safe and enclosed spaces
+2. countable a place where birds or animals can live and be protected, especially from hunters or dangerous conditions
+• a wildlife/bird sanctuary
+Thesaurus+: ↑Zoos and wildlife reserves ↑Animal Dwellings - man-made ↑Animal dwellings - natural
+3. countable the most holy part of a religious building
+Thesaurus+: ↑Parts of religious buildings
+ sanctuary
+noun
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+great
+▪ They were thus especially suitable to guard sacred relics and great sanctuaries.
+new
+▪ A new sanctuary had been built.
+▪ The new sanctuary has been set up on dry prairie land south of Lac Leman.
+■ NOUN
+bird
+▪ It is used by fishermen and is designated a bird sanctuary.
+▪ Nearby is the Heritage Museum of local history and the Wildfowl Trust bird sanctuary.
+▪ Perhaps the only way of getting a picture would be to take one in a bird sanctuary.
+▪ Today, the site at Amchitka in the Aleutian Islands is a bird sanctuary.
+▪ A number of bird sanctuaries were seriously affected by the spill.
+▪ You can take a boat trip along the coast to Lundy Island, the famous bird sanctuary.
+▪ Read in studio Thieves have stolen seventeen rare parrots from a bird sanctuary.
+wildlife
+▪ Read in studio A wildlife sanctuary has appointed it's first resident artist.
+▪ A wildlife sanctuary is releasing eight of the animals into a special protected set.
+▪ At the wildlife sanctuary in Caerlaverock you can see natterjack toads, and in winter flocks of geese arrive.
+
+makeover
+make‧o‧ver /ˈmeɪkəʊvə $ -oʊvər/ BrE  AmE  noun [countable]
+1. if you give someone a makeover, you make them look more attractive by giving them new clothes, a new hair style etc
+2. if you give a place a makeover, you make it look more attractive by painting the walls, putting in new furniture etc:
+ It’s time we gave the kitchen a makeover.
+ 
+ outing
+out·ing [outing outings] BrE [ˈaʊtɪŋ]  NAmE [ˈaʊtɪŋ]  noun
+1. countable ~ (to…) a trip that you go on for pleasure or education, usually with a group of people and lasting no more than one day
+Syn: ↑excursion
+• We went on an outing to London.
+• a family outing
+2. countable (sport) (informal) an occasion when sb takes part in a competition
+3. uncountable, countable the practice of naming people as ↑homosexuals in public, when they do not want anyone to know
+
+nook
+nook /nʊk/ BrE  AmE  noun [countable]
+[Date: 1200-1300; Origin: Probably from Old Norse]
+1. literary a small quiet place which is sheltered by a rock, a big tree etc:
+ a shady nook
+2. a small space in a corner of a room:
+ the table in the breakfast nook
+3. every nook and cranny every part of a place:
+ We searched every nook and cranny.
+ 
+ lavender
+lav‧en‧der /ˈlævəndə, ˈlævɪndə $ -ər/ BrE  AmE  noun
+[Date: 1300-1400; Language: Anglo-French; Origin: lavendre, from Medieval Latin lavandula, perhaps from Latin lividus 'bluish' or lavare 'to wash']
+1. [uncountable and countable] a plant that has grey-green leaves and purple flowers with a strong pleasant smell
+2. [uncountable] a pale purple colour
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+lavender
+
+ / 5lAvEndE(r); `lAvEndL/ n [U] 
+ (a) plant with sweet-smelling pale purple flowers 薰衣草（开淡紫色花, 味香）. (b) its dried flowers and stalks used to give linen, etc a pleasant smell 干薰衣草的花及茎（用以薰香衣物等）. 
+ pale purple colour 淡紫色.
+
+ # `lavender-water n [U] delicate perfume made from lavender 薰衣草香水.
+ 
+  grind2 BrE  AmE  noun
+1. [singular] something that is hard work and physically or mentally tiring:
+ I find the journey to work a real grind.
+ workers emerging from their daily grind in the factory
+2. [countable] American English informal a student who never does anything except study SYN swot British English
+3. [countable] a movement in ↑skateboarding or ROLLERBLADING, which involves moving sideways along the edge of something, so that the bar connecting the wheels of the ↑skateboard or ↑Rollerblade presses hard against the edge
+
+recharge
+re‧charge /ˌriːˈtʃɑːdʒ $ -ɑːr-/ BrE  AmE  verb [transitive]
+1. to put a new supply of electricity into a ↑battery
+2. recharge your batteries informal to get back your strength and energy again:
+ I’m going to spend a week in the mountains to recharge my batteries.
+—rechargeable adjective:
+
+curse
+I. curse1 /kɜːs $ kɜːrs/ BrE  AmE  verb
+1. [intransitive] to swear:
+ Gilbert was cursing under his breath.
+2. [transitive] to say or think bad things about someone or something because they have made you angry:
+ He cursed his bad luck in arriving just after she’d left.
+curse somebody/something for (doing) something
+ Elsa cursed herself for believing his lies.
+3. [transitive] to ask God or a magical power to harm someone
+curse somebody ↔ out phrasal verb American English informal
+to swear at someone who has made you angry
+II. curse2 BrE  AmE  noun [countable]
+[Language: Old English; Origin: curs]
+1. a swear word or words that you say because you are very angry:
+ He muttered a curse under his breath.
+2. a word or sentence used to ask God or a magical power to do something bad to someone or something:
+ He believed that someone had put a curse on the house.
+3. something that causes trouble, harm etc
+curse of
+ Noise is one of the curses of modern-day life.
+4. the curse old-fashioned a ↑menstrual period
+
+glitter
+glitter UK  [ˈglɪt.ə r ] US  [ˈglɪt ̬.ɚ] verb intransitive [glitters glittering glittered]
+1. to produce a lot of small bright flashes of reflected light
+• Her diamond necklace glittered brilliantly under the spotlights.
+Thesaurus+: ↑Emitting and casting light
+2. literary If someone's eyes glitter, they look bright and express strong feeling
+• His dark eyes glittered with anger behind his spectacles.
+Thesaurus+: ↑Emitting and casting light
+Idiom: All that glitters is not gold
+noun uncountable
+EXCITEMENT
+1. the excitement and attractive quality connected with rich and famous people
+• He was attracted by the glitter of Hollywood.
+Thesaurus+: ↑Attracting and tempting ↑Attractive ↑Sexual attraction ↑Excitement, interest, energy and enthusiasm
+BRIGHT LIGHT
+2. when something glitters
+• the glitter of the fireworks
+Thesaurus+: ↑Quantities and units of light
+3. very small pieces of shiny material used to decorate the skin or used by children to make pictures
+Thesaurus+: ↑Painting and drawing materials ↑Make-up and skin care
+noun
+1. uncountable bright light consisting of many little flashes
+• the glitter of diamonds
+2. singular a bright expression in sb's eyes showing a particular emotion
+Syn: ↑glint
+• There was a triumphant glitter in his eyes.
+3. uncountable the attractive, exciting qualities that sb/sth, especially a rich and famous person or place, seems to have
+Syn: ↑glamour
+• the superficial glitter of show business
+• Behind all the glitter, life in the theatre can be very hard.
+4. uncountable very small shiny pieces of thin metal or paper that are stuck to things as a decoration
+• gold/silver glitter
+• Jane wore pink eye glitter to the party.
+ 
+Word Origin:
+late Middle English: from Old Norse glitra.
+ 
+>>>>>>> a93064547219205cef51396cff120bcc395a3c61
