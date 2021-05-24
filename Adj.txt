@@ -4782,7 +4782,6 @@ all-round UK  [ˌɔːlˈraʊnd] US  [ˌɑːl-] (US all-around) adjective before 
 describes a person who has many different types of skills and abilities
 • She's a fantastic all-round sportswoman.
 
-<<<<<<< HEAD
 brash
 brash UK  US  [bræʃ] disapproving adjective [brasher brashest]
 1. (of people) showing too much confidence and too little respect
@@ -5028,6 +5027,15 @@ platonic
 platonic UK  [pləˈtɒn.ɪk] US  [-ˈtɑː.nɪk] adjective
 A platonic relationship or emotion is loving but not sexual
 • She knew he fancied her, but preferred to keep their relationship platonic.
+
+monotonous
+monotonous UK  [məˈnɒt. ə n.əs] US  [-ˈnɑː.t ̬ ə n-] adjective
+staying the same and not changing and therefore boring
+• a monotonous job
+• a monotonous voice
+• The music became monotonous after a while.
+Thesaurus+: ↑Tedious and uninspiring
+Derived: monotonously
 Thesaurus+: ↑Relationships in general ↑Friendly
 
 far-fetched
@@ -5042,6 +5050,124 @@ EXAMPLES FROM CORPUS
 ▪ As things stand, any claim that he could muster more than 5 % seems far-fetched.
 ▪ If this were an outline for a novel it would probably be rejected as too far-fetched.
 
+<<<<<<< HEAD
+prejudiced
+prejudiced UK  US  [ˈpredʒ.ʊ.dɪst] disapproving adjective
+showing an unreasonable dislike for something or someone
+• The campaign is designed to make people less prejudiced about AIDS.
+• The media has been accused of presenting a prejudiced view of people with disabilities.
+• Some companies are prejudiced against taking on employees who are over the age of 40.
+Thesaurus+: ↑Unfairness and favouring someone unfairly ↑Justice and fairness
+
+dubious
+dubious UK  [ˈdjuː.bi.əs] US  [ˈduː-] adjective
+1. <A > thought not to be completely true or not able to be trusted
+• These claims are dubious and not scientifically proven.
+• He has been associated with some dubious characters.
+• Ruth Ellis has the dubious (= bad) distinction of being the last woman to be hanged in Britain.
+Thesaurus+: ↑Uncertainty ↑Hesitating ↑Achievable ↑Dishonest
+2. <A > feeling doubt or not feeling certain
+• I'm dubious about his promises to change his ways.
+Thesaurus+: ↑Doubt and ambivalence ↑Hesitating
+ 
+• We were always a bit dubious about the advantages these changes would actually bring.
+• Let us think for a moment about the dubious benefits of nuclear technology.
+• He's under investigation because of his dubious accounting practices.
+• How exactly did they work out these figures? I think they're a bit dubious, personally.
+• He was involved in some dubious activities in the past which his former colleagues have only hinted at.
+Derived: dubiously
+empirical
+empirical UK  US  [ɪmˈpɪr.ɪ.k ə l] adjective
+based on what is experienced or seen rather than on theory
+• This theory needs to be backed up with solid empirical data/evidence.
+• Empirical studies show that some forms of alternative medicine are extremely effective.
+Thesaurus+: ↑True, real, false, and unreal
+Derived: empirically
+From Oxford Advanced Learners Dictionary 8th Ed.
+empirical
+em·pir·ic·al AW [empirical empirically] BrE [ɪmˈpɪrɪkl]  NAmE [ɪmˈpɪrɪkl]  adjective usually before noun
+(formal) based on experiments or experience rather than ideas or theories
+• empirical evidence/knowledge/research
+• an empirical study
+Opp: ↑theoretical
+Derived Word: ↑empirically
+
+empirical 
+
+turquoise
+
+ / 5t\:kwRIz; `t[kwRIz/ n 
+ [C, U] type of greenish-blue precious stone 绿松石: [attrib 作定语] a turquoise brooch 绿松石的胸针. 
+ [U] greenish-blue colour 青绿色: pale turquoise 浅淡的青绿色.
+
+ # turquoise adj of this colour 青绿色的: a turquoise dress 青绿色的连衣裙.
+From Longman DOCE 5th Ed. (En-En)
+turquoise
+tur‧quoise /ˈtɜːkwɔɪz, -kwɑːz $ ˈtɜːrkwɔɪz/ BrE  AmE  noun
+[Date: 1400-1500; Language: Old French; Origin: turqueise, from turqueis 'Turkish']
+1. [uncountable and countable] a valuable greenish-blue stone or a jewel that is made from this:
+ turquoise earrings
+2. [uncountable] a greenish-blue colour:
+ The room was painted in turquoise.
+—turquoise adjective:
+ a clear turquoise sea
+ 
+ 
+  > reversible / -Ebl; -Ebl/ adj that can be reversed 可反转的; 可翻转的; 可倒退的; 可转变的; 可撤消的; 可逆的: a reversible coat, scarf, cap, etc, ie one that can be worn with either side turned out 可正反两面使用的大衣、围巾、帽子等. reversibility / rI9v\:sE5bIlEtI; rI9v[sE`bIlEtI/ n [U].
+
+ # re`versing light white light at the back of a vehicle showing that it is in reverse gear 倒车灯（倒车时使用的白色灯）.
+From Longman DOCE 5th Ed. (En-En)
+reversible
+re‧vers‧i‧ble AC /rɪˈvɜːsəbəl, rɪˈvɜːsɪbəl $ -ɜːr-/ BrE  AmE  adjective
+[Word Family: noun: ↑reversal, ↑reverse; adjective: ↑reverse, ↑reversible ≠ ↑irreversible; verb: ↑reverse]
+1. a change that is reversible can be changed back to how it was before OPP irreversible:
+ A lot of chemical reactions are reversible.
+2. a piece of clothing or material that is reversible can be worn with either side showing on the outside:
+ a reversible jacket
+From Longman DOCE5 Extras (En-En)
+reversible
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ Smokers gradually lose their sense of smell, but this is reversible when they quit.
+EXAMPLES FROM CORPUS
+▪ Because of the low activation energies, such reactions are often readily reversible at room temperature.
+▪ Benches with reversible tops give the option of either a smooth surface or recessed gravel trays for summer and are particularly useful.
+▪ However, with a currency board, the process is reversible.
+▪ In addition, the resulting change in reserves can be predicted precisely and open market operations are readily reversible.
+▪ It is a very reliable reversible type of non-hormonal contraceptive.
+▪ It is important to note that this procedure is not reversible, nor does it allow for post-inspection audit.
+▪ The program supplies more than 30 percent of all couples using reversible contraceptives.
+
+mown
+adjective
+(used of grass or vegetation) cut down with a hand implement or machine
+- the smell of newly mown hay
+• Syn: ↑cut
+• Ant: ↑unmown
+• Similar to: ↑new-mown
+• Topics: ↑vegetation, ↑flora, ↑botany
+
+mow
+mow UK  [məʊ] US  [moʊ] [mowed], [mown] or [mowed] verb intransitive or transitive [mowed mown mows mowing]
+to cut plants, such as grass or wheat, which have long thin stems and grow close together
+• You can't mow the grass/lawn if it's wet.
+• I love the smell of new-mown hay.
+Thesaurus+: ↑Cutting and stabbing ↑Gardening - general words
+Phrasal Verb: mow somebody down
+
+-stemmed
+-stemmed UK  US  [-stemd] suffix
+having the stated type of stem
+• a thick-stemmed plant
+• a long-stemmed wine glass
+Thesaurus+: ↑Parts of plants
+paradigm
+paradigm UK  [ˈpær.ə.daɪm] US  [ˈper-] formal noun countable [paradigms]
+a model of something, or a very clear and typical example of something
+• Some of these educators are hoping to produce a change in the current cultural paradigm.
+Thesaurus+: ↑Samples and examples
+Derived: paradigmatic
+=======
 disheartened
 disheartened UK  US  UK [dɪsˈhɑː.t ə nd] US [-ˈhɑːr.t ̬ ə n-] adjective
 • She was very disheartened by the results of the test.
@@ -5159,3 +5285,75 @@ silver tongue (plural silver tongues)
 (idiomatic) The trait of being clever at speaking, often in a deceitful way.
 1835, Edward Bulwer-Lytton, “The Festival”, in Rienzi, The Last of the Roman Tribunes‎[1]:
 While these, and yet more contradictory, comments followed the exit of the Tribune, he passed into the saloon, where Nina presided; and here his fair person and silver tongue […] won him a more general favour with the matrons than he experienced with their lords, […]
+
+shady
+shady UK  US  [ˈʃeɪ.di] adjective [shadier shadiest]
+ 
+SLIGHT DARKNESS
+1. sheltered from direct light from the sun
+• We sat on the shady grass for our picnic.
+Thesaurus+: ↑Darkness and becoming dark
+ 
+DISHONEST
+2. informal dishonest or illegal
+• They know some very shady characters.
+• He was involved in shady deals in the past.
+Thesaurus+: ↑Dishonest ↑Legal and illegal
+
+stimulating
+stimulating UK  [ˈstɪm.jʊ.leɪ.tɪŋ] US  [-ɪŋ] adjective
+1. If something is stimulating, it encourages new ideas
+• a stimulating discussion
+• Universities have been asked to make their courses more attractive and stimulating.
+Thesaurus+: ↑Inspiration and inspiring
+2. describes someone who makes you feel enthusiastic and full of ideas
+• a really stimulating teacher
+Thesaurus+: ↑Exciting and interesting
+3. If an activity is stimulating, it causes your body to be active
+• Aerobics is one of the most stimulating forms of exercise.
+Thesaurus+: ↑Busy and active ↑Hurrying and doing things quickly
+
+subpar
+sub·par 7 [subpar] BrE [ˌsʌbˈpɑː(r)]  NAmE [ˌsʌbˈpɑːr]  adjective (especially NAmE)
+below a level of quality that is usual or expected
+• a subpar performance
+
+slinky
+slink‧y /ˈslɪŋki/ BrE  AmE  adjective
+1. a slinky dress, skirt etc is smooth and tight and shows the shape of a woman’s body in a way that looks sexually attractive:
+ a slinky black dress
+2. slinky movements, music, or voices are slow in a way that is sexually attractive:
+ a song with slinky bass lines
+ 
+ crisp
+I. crisp1 /krɪsp/ BrE  AmE  noun [countable] British English
+
+a very thin flat round piece of potato that is cooked in oil and eaten cold ⇨ chip SYN potato chip American English:
+ a packet of crisps
+II. crisp2 BrE  AmE  adjective
+[Date: 1500-1600; Origin: crisp 'curly' (10-20 centuries), from Latin crispus]
+1. HARD something that is crisp is hard, and makes a pleasant sound when you break it or crush it:
+ She kicked at the crisp leaves at her feet.
+ He stepped carefully through the crisp deep snow.
+2. FOOD food that is crisp is pleasantly hard or firm when you bite it SYN crispy OPP soggy:
+ a crisp green salad
+ a crisp juicy apple
+ Cook the pastry until it is crisp and golden.
+ The meat should be nice and crisp on the outside.
+3. PAPER/CLOTH paper or cloth that is crisp is fresh, clean, and new SYN fresh:
+ a crisp new five-dollar bill
+ crisp cotton sheets
+4. WEATHER weather that is crisp is cold and dry OPP humid:
+ The air was fresh and crisp.
+ a crisp clear autumn day
+ The weather remained crisp and dry.
+5. PEOPLE if someone behaves or speaks in a crisp way, they are confident, polite, and firm, but not very friendly:
+ Her tone was crisp and businesslike.
+6. PICTURE/SOUND a picture or sound that is crisp is clear SYN sharp:
+ an old recording that still sounds remarkably crisp
+—crisply adverb:
+ ‘Take a seat,’ she said crisply.
+—crispness noun [uncountable]
+III. crisp3 BrE  AmE  verb [intransitive and transitive]
+to become crisp or make something become crisp by cooking or heating it:
+ Cook the chicken until the skin is nicely crisped.

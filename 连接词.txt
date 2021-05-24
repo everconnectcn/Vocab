@@ -141,6 +141,21 @@ from the knowledge you have in your memory
 Thesaurus+: ↑Memory and memories
 Main entry: topidiom
 
+<<<<<<< HEAD
+There's no accounting for taste
+There's no accounting for taste. idiom saying
+said when it is difficult to explain why different people like different things, especially things which you do not like
+• "I love working at weekends." "Well, there's no accounting for taste, is there!"
+Thesaurus+: ↑Liking
+Main entry: accountidiom
+From Oxford Advanced Learners Dictionary 8th Ed.
+there's no accounting for taste
+there's no accounting for ˈtaste idiom
+(saying) used to say how difficult it is to understand why sb likes sb/sth that you do not like at all
+• She thinks he's wonderful— oh well, there's no accounting for taste.
+Main entry: ↑accountidiom
+萝卜青菜各有所爱
+=======
 ↑Describing medical treatment generally
 Describing medical treatment generally Thesaurus+ Level 4 (26)
 bath noun 5
@@ -173,3 +188,4 @@ Used other than figuratively or idiomatically: see shall,‎ we,‎ say.
 (parenthesis) Used for making a statement less offensive or as a warning that the description may be imprecise.
 (parenthesis) Used as a warning that the description may be imprecise.
 Synonym: shall I say
+>>>>>>> ca1069215031cd0f04a65f29fc8f39aa89747ecf
