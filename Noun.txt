@@ -10116,5 +10116,39 @@ Syn: ↑glamour
  
 Word Origin:
 late Middle English: from Old Norse glitra.
- 
->>>>>>> a93064547219205cef51396cff120bcc395a3c61
+tangent
+tan‧gent /ˈtændʒənt/ BrE  AmE  noun [countable]
+[Date: 1500-1600; Language: Latin; Origin: present participle of tangere; ⇨ ↑tangible]
+1. go off at a tangent British English, go off on a tangent American English informal to suddenly start thinking or talking about a subject that is only slightly related, or not related at all, to the original subject:
+ Let’s stay with the topic and not go off at a tangent.
+2. technical a straight line that touches the outside of a curve but does not cut across it
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+tangent
+ / 5tAndVEnt; `tAndVEnt/ n 
+ (geometry 几) straight line that touches the outside of a curve but does not cross it 切线. =>illus at circle 见circle插图.
+ (abbr 缩写 tan) (mathematics 数) (in a right-angled triangle) ratio of the sides opposite and adjacent to a given angle 正切. Cf 参看 cosine, sine. 
+ (idm 习语) go/fly off at a `tangent change suddenly from one line of thought, action, etc to another 突然改变思想、行动等.
+From Longman DOCE5 Extras (En-En)
+tangent
+noun
+COLLOCATIONS FROM CORPUS
+■ VERB
+go
+▪ As for going off at tangents, my dear, I do it myself, hormone balance not withstanding.
+▪ Maria kept going off on tangents.
+▪ Loretta's mind went off at a tangent.
+
+windfall
+wind‧fall /ˈwɪndfɔːl $ -fɒːl/ BrE  AmE  noun [countable]
+1. an amount of money that you get unexpectedly:
+ his £2 million windfall in the lottery
+windfall gain/profit etc (=high profit that you did not expect to make)
+2. a piece of fruit that has fallen off a tree
+
+bread and butter
+bread and butter noun uncountable UK  US 
+your bread and butter
+a job or activity that provides you with the money you need to live
+• Gardening is my bread and butter at the moment.
+Thesaurus+: ↑Earning money and money earned
+Derived: bread-and-butter

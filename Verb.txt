@@ -6391,6 +6391,7 @@ causing admiration because connected with being rich or powerful
 • a prestige address/car/job/label
 Thesaurus+: ↑Expensive and luxurious ↑Costing too much
 
+<<<<<<< HEAD
 rid
 I. rid1 S1 /rɪd/ BrE  AmE  adjective
 1. get rid of somebody/something
@@ -6431,3 +6432,46 @@ weasel out of
  > weasel v (phr v) weasel out (of sth) (infml derog 口, 贬 esp US) avoid fulfilling a promise, doing a duty, etc 逃避已做出的承诺、承担的责任等.
 
  # `weasel word (infml 口 esp US) word or expression that reduces the force of what one is saying, used when one wishes to avoid committing oneself to a definite statement 含糊其辞的推脱话.
+=======
+6. bury your face/head etc (in something) to press your face etc into something soft:
+ Noel buried his face in the pillow.
+7. bury your face/head in your hands to cover your face with your hands because you are very upset
+8. bury your head in the sand to ignore an unpleasant situation and hope it will stop if you do not think about it
+9. bury the hatchet/bury your differences to agree to stop arguing about something and become friends
+10. IN A SURFACE to push something, especially something sharp, into something else with a lot of force
+bury something in something
+ The dog buried its teeth in my leg.
+ The bullet buried itself in the wall.
+11. bury yourself in your work/studies etc to give all your attention to something:
+ After the divorce, she buried herself in her work.
+12. INFORMATION to put information in a document in a place where it is unlikely to be noticed, or to not make it available to people:
+ The story was buried at the back of the paper.
+13. LOVED ONE literary to have someone you love die:
+ She had buried her husband, two sons, and a daughter.
+⇨ be dead and buried at ↑dead1(14)
+
+face the music
+face the music idiom
+to accept criticism or punishment for something you have done
+Thesaurus+: ↑Blaming and accusing
+Main entry: faceidiom
+carry-the can
+verb
+accept the unpleasant consequences of one's actions
+• Syn: ↑face the music
+• Hypernyms: ↑bear, ↑take over, ↑accept, ↑assume
+• Verb Frames:
+- Somebody ----s
+
+otherize (third-person singular simple present otherizes, present participle otherizing, simple past and past participle otherized)
+(transitive) To make or regard (a person, social group, etc.) as alien or different.
+
+aviation
+aviation UK  US  [ˌeɪ.viˈeɪ.ʃ ə n] noun uncountable
+the activity of flying aircraft, or of designing, producing and keeping them in good condition
+• the British Civil Aviation Authority
+• the US Federal Aviation Administration
+• aviation fuel
+Thesaurus+: ↑Aviation ↑Travelling by aircraft ↑Movement through the air
+• Orville and Wilbur Wright were aviation trail blazers.
+>>>>>>> cac8f62d6a72c0f004f65d75f885b032b0d7c55d

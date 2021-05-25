@@ -5563,6 +5563,7 @@ EXCELLENT
 Thesaurus+: ↑Extremely good
 Idioms: grand old age ▪ grand old man of something
 Derived: grandness
+<<<<<<< HEAD
  
  chichi
 chi‧chi /ˈʃiːʃiː/ BrE  AmE  adjective
@@ -5579,3 +5580,63 @@ noun
 noun: chichi
 pretentious and over-elaborate refinement.
 "a good restaurant without the chi-chi traditionally associated with French food"
+=======
+
+all-time
+all-time UK  [ˌɔːlˈtaɪm] US  [ˌɑːl-] adjective before noun
+An all-time high, low, best, etc. is the highest, lowest, best, etc. level that has ever been
+• After three years of drought, the water in the lake had reached an all-time low.
+Thesaurus+: ↑Always and never
+From Oxford Advanced Learners Dictionary 8th Ed.
+all-time
+ˈall-time [all-time] BrE   NAmE   adjective only before noun
+(used when you are comparing things or saying how good or bad sth is) of any time
+• one of the all-time great players
+• my all-time favourite song
+• Unemployment reached an all-time record of 3 million.
+• Profits are at an all-time high/low. 
+ all-time
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+all-time greats
+▪ Jack Nicklaus is one of golf’s all-time greats.
+all-time low (=much lower or worse than ever before)
+▪ Public confidence in the legal system is at an all-time low.
+all-time/modern/design etc classic
+▪ The play has become an American classic.
+an all-time record
+▪ The price of oil has hit an all-time record.
+hit a peak/an all-time high etc
+▪ Earnings hit a peak in the early 1980s.
+hit rock-bottom/an all-time low etc
+▪ Oil prices have hit rock-bottom.
+
+drowsy
+drow‧sy /ˈdraʊzi/ BrE  AmE  adjective
+[Date: 1400-1500; Origin: Probably from Old English drusian 'to be lazily slow']
+1. tired and almost asleep SYN sleepy:
+ The drug can make you drowsy.
+2. so peaceful that you feel relaxed and almost asleep SYN sleepy:
+ a drowsy summer afternoon
+—drowsily adverb
+—drowsiness noun [uncountable]
+• • •
+THESAURUS
+■ almost asleep
+▪ sleepy wanting to sleep very soon, so that your eyes start to close: I’m feeling quite sleepy. I think I’ll go to bed. | She rubbed her sleepy eyes.
+▪ drowsy starting to sleep because you are in a warm place, have drunk too much alcohol, or have taken medicine: The tablets can make you feel drowsy. | She was beginning to feel a little drowsy after all the food and wine she had consumed.
+▪ can’t keep your eyes open/can hardly keep your eyes open to feel so tired that you find it difficult to stay awake: I’d better get some rest – I can’t keep my eyes open. | He had been driving all night, and he could hardly keep his eyes open.
+▪ a drowsy rice-farming village
+▪ Cold medicines can make you feel drowsy.
+▪ Len had drunk too much wine, and he felt cosy and drowsy in spite of the coffee.
+▪ You shouldn't drive after taking these pills - they can make you drowsy.
+EXAMPLES FROM CORPUS
+▪ But it was enough to make all the garden's inhabitants drowsy, Caroline thought, yawning.
+▪ Dmitri was still in bed, drowsy.
+▪ He felt cozy and drowsy, in spite of the espresso.
+▪ He had regained consciousness, but was drowsy and uncomfortable.
+▪ How happy they had been together, he and she and the little lad in the drowsy heat of the meadows.
+▪ I began to feel drowsy and wondered about the hedgerow broth.
+▪ The stove warms the tent up and we become drowsy, and oblivious to the storm outside.
+▪ They were hospitalized after they became drowsy and dizzy.
+>>>>>>> cac8f62d6a72c0f004f65d75f885b032b0d7c55d
