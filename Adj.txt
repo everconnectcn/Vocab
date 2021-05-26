@@ -5563,6 +5563,24 @@ EXCELLENT
 Thesaurus+: ↑Extremely good
 Idioms: grand old age ▪ grand old man of something
 Derived: grandness
+<<<<<<< HEAD
+ 
+ chichi
+chi‧chi /ˈʃiːʃiː/ BrE  AmE  adjective
+very fashionable and expensive, or very concerned with fashionable things:
+ a chichi restaurant
+
+chi-chi1
+/ˈʃiːʃiː/
+adjective
+adjective: chichi
+attempting stylish elegance but achieving only an over-elaborate pretentiousness.
+"the tiny chi-chi dining room"
+noun
+noun: chichi
+pretentious and over-elaborate refinement.
+"a good restaurant without the chi-chi traditionally associated with French food"
+=======
 
 all-time
 all-time UK  [ˌɔːlˈtaɪm] US  [ˌɑːl-] adjective before noun
@@ -5621,3 +5639,4 @@ EXAMPLES FROM CORPUS
 ▪ I began to feel drowsy and wondered about the hedgerow broth.
 ▪ The stove warms the tent up and we become drowsy, and oblivious to the storm outside.
 ▪ They were hospitalized after they became drowsy and dizzy.
+>>>>>>> cac8f62d6a72c0f004f65d75f885b032b0d7c55d
