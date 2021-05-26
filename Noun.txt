@@ -10152,3 +10152,41 @@ a job or activity that provides you with the money you need to live
 • Gardening is my bread and butter at the moment.
 Thesaurus+: ↑Earning money and money earned
 Derived: bread-and-butter
+windless adj without wind 无风的: a windless day 无风的一天.
+ windward / -wEd; -wLd/ adj, adv on or to the side from which the wind is blowing 上风（的）; 向风（的）; 顶风（的）: the windward side of the boat 那条船迎风的一侧. Cf 参看 lee, leeward. n [U] side or direction from which the wind is blowing 上风面; 上风方向: sail to windward 逆风航行 * get to windward of sth, ie place oneself on the windward side of sth, eg in order to avoid a bad smell 到某物的上风处（如避免难闻的气味）.
+ windy adj (-ier, -iest) 
+ (a) with much wind 多风的: a windy day 刮风的一天. (b) exposed to (esp strong) winds 受风吹的; （尤指）遭大风刮的: a windy hillside 迎风的山坡. 
+ (dated Brit infml 旧, 口) nervous or frightened 心情紧张的; 害怕的: a bit windy about staying alone in the house 独自一人呆在这所房子里有些害怕. windily / -IlI; -ElI/ adv. windiness n [U].
+
+ # `windbag n (infml derog 口, 贬) person who talks a lot but says nothing important 言语空洞无物的人.
+ `wind-break n row of trees or a hedge, fence, etc that gives protection from the wind 有防风作用的树木、篱笆等.
+ `wind-cheater (US `wind-breaker) n close-fitting jacket designed to protect the wearer from the wind 防风的紧身甲克.
+ `windfall n 
+ fruit, esp an apple, that has been blown off a tree by the wind 风吹落的果实（尤指苹果）. 
+ (fig 比喻) unexpected piece of good fortune, esp a legacy 意外的好运; （尤指）意外获得的遗产.
+ `wind-gauge n = anemometer.
+ `wind instrument musical instrument (eg a flute or trumpet) in which sound is produced by a current of air, esp by the player's breath 管乐器; 吹奏乐器.
+ `windmill n 
+ mill worked by the action of wind on long projecting arms (sails) that turn on a central shaft 风车. 
+ (idm 习语) tilt at windmills => tilt.
+ `windpipe n passage from the throat to the bronchial tubes, through which air reaches the lungs 气管. =>illus at respire 见respire插图.
+ `windscreen (Brit) (US `windshield) n glass window in the front of a motor vehicle （机动车前面的）挡风玻璃窗. =>illus at App 1 见附录1插图, page xii. `windscreen wiper (Brit) (US `windshield wiper) electrically operated blade with a rubber edge that wipes a windscreen clear of rain, snow, etc （机动车挡风玻璃上的）刮水器, 风挡雨雪刷. =>illus at App 1 见附录1插图, page xii.
+ `windshield n (a) (US) = windscreen. (b) glass or plastic screen that provides protection from the wind, eg at the front of a motorcycle 挡风玻璃, （塑料的）挡风罩（如摩托车前面的）.
+ `wind-sock (also `wind-sleeve) n canvas tube, open at both ends, that is flown at the top of a pole (eg on an airfield) to show the direction of the wind 风向袋（如机场上的）.
+ `windsurfer n (propr 专利名) 
+ board, similar to a surfboard, with a sail 帆板. 
+ person who surfs on a windsurfer 帆板运动员. `windsurf v [I] (usu 通常作 go `windsurfing) surf on a windsurfer 做帆板运动. windsurfing n [U] sport of surfing on a windsurfer 帆板运动.
+ `wind-swept adj (a) (of a place) exposed to strong winds （指地方）受强风吹的: a wind-swept hillside 受强风吹袭的山坡. (b) (of a person's appearance) untidy after being blown about by the wind （指人的外表）被风刮得不整洁的: wind-swept hair 被吹乱的头发.
+ 
+ auditorium
+audi·tor·ium [auditorium auditoriums auditoria] BrE [ˌɔːdɪˈtɔːriəm]  NAmE [ˌɔːdɪˈtɔːriəm]  noun (pl. audi·tor·iums or audi·toria BrE [ˌɔːdɪˈtɔːriə] ; NAmE [ˌɔːdɪˈtɔːriə] )
+1. the part of a theatre, concert hall, etc. in which the audience sits
+2. (especially NAmE) a large building or room in which public meetings, concerts, etc. are held
+Word Origin:
+early 17th cent. (originally in the general sense ‘a place for hearing’): from Latin, neuter of auditorius ‘relating to hearing’, from audire ‘hear’.
+Example Bank:
+• The auditorium seats over a thousand people.
+• The darkened auditorium was filled with muttering.
+• He stood at the back of the packed auditorium.
+• The new building will include an exhibition hall, auditorium, bookshop and restaurant.
+• You will be taken on a guided tour of the theatre, including the stage, auditorium and backstage areas.
