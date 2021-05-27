@@ -6474,4 +6474,47 @@ the activity of flying aircraft, or of designing, producing and keeping them in 
 • aviation fuel
 Thesaurus+: ↑Aviation ↑Travelling by aircraft ↑Movement through the air
 • Orville and Wilbur Wright were aviation trail blazers.
->>>>>>> cac8f62d6a72c0f004f65d75f885b032b0d7c55d
+
+encourage
+en‧cour‧age S2 W1 /ɪnˈkʌrɪdʒ $ ɪnˈkɜːr-/ BrE  AmE  verb [transitive]
+[Word Family: adjective: ↑encouraged ≠ ↑discouraged, ↑encouraging ≠ ↑discouraging; verb: ↑encourage ≠ ↑discourage; noun: ↑encouragement ≠ ↑discouragement; adverb: ↑encouragingly ≠ ↑discouragingly]
+1. to give someone the courage or confidence to do something OPP discourage:
+ I want to thank everyone who has encouraged and supported me.
+encourage somebody to do something
+ Cooder was encouraged to begin playing the guitar by his father.
+encourage somebody in something
+ Fleur encouraged Dana in her ambition to become a model.
+2. to persuade someone to do something OPP discourage:
+ Cantor didn’t mind if they worked late; in fact, he actively encouraged it.
+encourage somebody to do something
+ A 10p rise in cigarette prices is not enough to encourage smokers to stop.
+3. to make something more likely to exist, happen, or develop:
+ Violent TV programmes encourage anti-social behaviour.
+—encouraged adjective [not before noun]:
+ She felt encouraged by the many letters of support.
+THESAURUS
+▪ persuade to make someone decide to do something, especially by giving them reasons why they should do it, or asking them many times to do it: I persuaded her to change her mind. | Do you think you can persuade him to lend us the money?
+▪ talk somebody into (doing) something to persuade someone to do something, especially something they do not really want to do: Why did I let you talk me into this? | He finally talked her into going on a date with him.
+▪ get somebody to do something to make someone do something by persuading or asking them: If we can’t get a taxi I’ll get Joe to pick us up. | I know how to get you to kiss me.
+▪ convince to persuade someone that they should do something, because it is the best or the right thing to do. Some British speakers think this use is incorrect, and prefer to use persuade: It would be difficult to convince him to move.
+▪ encourage to try to persuade someone to do something, especially because you think it will be good for them: Children should be encouraged to read all kinds of books.
+▪ influence to have an effect on what someone decides to do: What influences you to buy clothes?
+▪ coax to persuade someone to do something by talking gently and kindly: I tried to coax him to eat a little.
+▪ cajole /kəˈdʒəʊl $ -ˈdʒoʊl/ to persuade someone to do something by praising them or making promises to them: He hoped to cajole her into selling her house.
+▪ put somebody up to something to persuade or encourage someone to do something wrong or stupid: Who put you up to this?
+▪ dissuade formal to persuade someone not to do something: How do you dissuade young people from experimenting with drugs?
+
+
+foster
+I. fos‧ter1 /ˈfɒstə $ ˈfɑːstər/ BrE  AmE  verb
+1. [transitive] to help a skill, feeling, idea etc develop over a period of time SYN encourage, promote:
+ The bishop helped foster the sense of a community embracing all classes.
+2. [intransitive and transitive] to take someone else’s child into your family for a period of time but without becoming their legal parent ⇨ adopt:
+ The couple wanted to adopt a black child they had been fostering.
+II. foster2 BrE  AmE  adjective
+[Language: Old English; Origin: fostor-, from fostor 'food, feeding']
+1. foster mother/father/parents the people who foster a child:
+ It is sometimes difficult to find suitable foster parents.
+2. foster child/son/daughter a child who is fostered
+3. foster brother/sister someone who has different parents from you, but who is being brought up in the same family
+4. foster home a private home where a child is fostered
