@@ -10152,6 +10152,7 @@ a job or activity that provides you with the money you need to live
 • Gardening is my bread and butter at the moment.
 Thesaurus+: ↑Earning money and money earned
 Derived: bread-and-butter
+<<<<<<< HEAD
 
 full house
 ˌfull ˈhouse noun [full houses]
@@ -10282,3 +10283,204 @@ microbe
 microbe UK  [ˈmaɪ.krəʊb] US  [-kroʊb] noun countable [microbes]
 a very small living thing, especially one which causes disease, and which is too small to see without a microscope
 Thesaurus+: ↑Bacteria, moulds, germs and viruses
+=======
+windless adj without wind 无风的: a windless day 无风的一天.
+ windward / -wEd; -wLd/ adj, adv on or to the side from which the wind is blowing 上风（的）; 向风（的）; 顶风（的）: the windward side of the boat 那条船迎风的一侧. Cf 参看 lee, leeward. n [U] side or direction from which the wind is blowing 上风面; 上风方向: sail to windward 逆风航行 * get to windward of sth, ie place oneself on the windward side of sth, eg in order to avoid a bad smell 到某物的上风处（如避免难闻的气味）.
+ windy adj (-ier, -iest) 
+ (a) with much wind 多风的: a windy day 刮风的一天. (b) exposed to (esp strong) winds 受风吹的; （尤指）遭大风刮的: a windy hillside 迎风的山坡. 
+ (dated Brit infml 旧, 口) nervous or frightened 心情紧张的; 害怕的: a bit windy about staying alone in the house 独自一人呆在这所房子里有些害怕. windily / -IlI; -ElI/ adv. windiness n [U].
+
+ # `windbag n (infml derog 口, 贬) person who talks a lot but says nothing important 言语空洞无物的人.
+ `wind-break n row of trees or a hedge, fence, etc that gives protection from the wind 有防风作用的树木、篱笆等.
+ `wind-cheater (US `wind-breaker) n close-fitting jacket designed to protect the wearer from the wind 防风的紧身甲克.
+ `windfall n 
+ fruit, esp an apple, that has been blown off a tree by the wind 风吹落的果实（尤指苹果）. 
+ (fig 比喻) unexpected piece of good fortune, esp a legacy 意外的好运; （尤指）意外获得的遗产.
+ `wind-gauge n = anemometer.
+ `wind instrument musical instrument (eg a flute or trumpet) in which sound is produced by a current of air, esp by the player's breath 管乐器; 吹奏乐器.
+ `windmill n 
+ mill worked by the action of wind on long projecting arms (sails) that turn on a central shaft 风车. 
+ (idm 习语) tilt at windmills => tilt.
+ `windpipe n passage from the throat to the bronchial tubes, through which air reaches the lungs 气管. =>illus at respire 见respire插图.
+ `windscreen (Brit) (US `windshield) n glass window in the front of a motor vehicle （机动车前面的）挡风玻璃窗. =>illus at App 1 见附录1插图, page xii. `windscreen wiper (Brit) (US `windshield wiper) electrically operated blade with a rubber edge that wipes a windscreen clear of rain, snow, etc （机动车挡风玻璃上的）刮水器, 风挡雨雪刷. =>illus at App 1 见附录1插图, page xii.
+ `windshield n (a) (US) = windscreen. (b) glass or plastic screen that provides protection from the wind, eg at the front of a motorcycle 挡风玻璃, （塑料的）挡风罩（如摩托车前面的）.
+ `wind-sock (also `wind-sleeve) n canvas tube, open at both ends, that is flown at the top of a pole (eg on an airfield) to show the direction of the wind 风向袋（如机场上的）.
+ `windsurfer n (propr 专利名) 
+ board, similar to a surfboard, with a sail 帆板. 
+ person who surfs on a windsurfer 帆板运动员. `windsurf v [I] (usu 通常作 go `windsurfing) surf on a windsurfer 做帆板运动. windsurfing n [U] sport of surfing on a windsurfer 帆板运动.
+ `wind-swept adj (a) (of a place) exposed to strong winds （指地方）受强风吹的: a wind-swept hillside 受强风吹袭的山坡. (b) (of a person's appearance) untidy after being blown about by the wind （指人的外表）被风刮得不整洁的: wind-swept hair 被吹乱的头发.
+ 
+ auditorium
+audi·tor·ium [auditorium auditoriums auditoria] BrE [ˌɔːdɪˈtɔːriəm]  NAmE [ˌɔːdɪˈtɔːriəm]  noun (pl. audi·tor·iums or audi·toria BrE [ˌɔːdɪˈtɔːriə] ; NAmE [ˌɔːdɪˈtɔːriə] )
+1. the part of a theatre, concert hall, etc. in which the audience sits
+2. (especially NAmE) a large building or room in which public meetings, concerts, etc. are held
+Word Origin:
+early 17th cent. (originally in the general sense ‘a place for hearing’): from Latin, neuter of auditorius ‘relating to hearing’, from audire ‘hear’.
+Example Bank:
+• The auditorium seats over a thousand people.
+• The darkened auditorium was filled with muttering.
+• He stood at the back of the packed auditorium.
+• The new building will include an exhibition hall, auditorium, bookshop and restaurant.
+• You will be taken on a guided tour of the theatre, including the stage, auditorium and backstage areas.
+
+wording
+wording UK  [ˈwɜː.dɪŋ] US  [ˈwɝː-] noun uncountable
+the choice and meaning of the words used when you say or write something
+• Norman agreed that the wording of the advertisement was unnecessarily offensive and it was changed.
+• We don't yet know the exact/precise wording of the agreement.
+Thesaurus+: ↑Saying and uttering ↑Saying again
+
+disdain
+I. dis‧dain1 /dɪsˈdeɪn/ BrE  AmE  noun [uncountable] formal
+a complete lack of respect that you show for someone or something because you think they are not important or good enough
+with disdain
+ She watched me with disdain.
+ a look of complete disdain
+disdain for
+ his disdain for capitalism
+II. disdain2 BrE  AmE  verb formal
+[Date: 1300-1400; Language: Old French; Origin: desdeignier, from deignier; ⇨ ↑deign]
+1. [transitive] to have no respect for someone or something, because you think they are not important or good enough:
+ Childcare was seen as women’s work, and men disdained it.
+2. disdain to do something to refuse to do something because you are too proud to do it:
+ Butler disdained to reply.
+ 
+ noun uncountable
+APPROVAL
+1. <A > when you say or show your admiration and approval for someone or something
+• They deserve praise for all their hard work.
+• His economic policies have won widespread praise for reducing government debt.
+• Praise from Adrian is (high) praise indeed (= Praise from Adrian is particularly special because he rarely praises anyone).
+Thesaurus+: ↑Praising and applauding ↑Exaggerating and playing down
+• His boss showered him with praise.
+• The committee lavished praise on the project.
+• He is sparing with his praise.
+• His efforts are certainly deserving of praise.
+• A young child needs plenty of praise and encouragement.
+GOD
+2. formal expression of respect and worship to a god
+• As we give praise to God, let us remember those who are less fortunate than ourselves.
+Thesaurus+: ↑Worshipping a god
+
+corpse
+corpse UK  [kɔːps] US  [kɔːrps] noun countable [corpses]
+<A > a dead body, usually of a person
+Thesaurus+: ↑Death and dying
+• The corpse was in an advanced stage of decomposition.
+• Most of the corpses were badly burned, making identification almost impossible.
+• The corpse had lain preserved in the soil for almost two millennia.
+From Oxford Advanced Learners Dictionary 8th Ed.
+
+▪ harsh/severe The court decided the original punishment was too severe.
+▪ light The punishment seemed very light.
+▪ just/fitting (=appropriate and right) Death would be a just punishment.
+▪ physical punishment Children respond more to affection than to physical punishment.
+▪ corporal punishment (=when someone punishes a child by hitting them) Corporal punishment is banned in state schools.
+
+discipline2 BrE  AmE  verb [transitive]
+[Word Family: noun: ↑disciplinarian, ↑discipline; adjective: ↑disciplinary, ↑disciplined ≠ UNDISCIPLINED; verb: ↑discipline]
+1. to punish someone in order to keep order and control:
+ The officers were later disciplined.
+2. to teach someone to obey rules and control their behaviour:
+ Different cultures have different ways of disciplining their children.
+3. discipline yourself (to do something) to control the way you work, how regularly you do something etc, because you know it is good for you:
+ Try to discipline yourself to write every day.
+THESAURUS
+▪ punish to do something unpleasant to someone because they have done something wrong or broken the law: Drug smugglers are severely punished. | She wanted to punish him for deceiving her.
+▪ fine to make someone pay money as a punishment: The company was fined for safety violations.
+▪ sentence if a judge sentences a criminal, he or she gives them an official punishment, usually sending them to prison for a period of time: The judge sentenced Margolis to a year in prison.
+▪ penalize (also penalise British English) to officially punish someone, especially by taking away their right to do something or by limiting their freedom in some way: New laws will penalize firms that continue to pollute the environment.
+▪ discipline to punish someone who has broken the rules of an organization that they belong to or work for: Officers are expected to discipline soldiers who do not keep their uniforms in good condition.
+▪ come down hard on somebody informal to punish someone or criticize them severely: The judge came down hard on Harris, saying that his crime was ‘inexcusable’.
+▪ make an example of somebody to punish someone so that other people are afraid to do the same thing: Athletics officials felt they had to make an example of him for using banned drugs.
+▪ teach somebody a lesson informal to do something in order to show someone that they must not do something again, when they have behaved very badly: I didn't want to hurt him - I just wanted teach him a lesson. | Maybe a night in jail will teach him a lesson.
+▪ make somebody pay (for something) informal to make someone wish they had never done something, by making them suffer: We should make him pay for all the mischief he's caused!
+
+merit
+merit UK  US  [ˈmer.ɪt] noun countable or uncountable [merits]
+1. formal the quality of being good and deserving praise
+• an entertaining film with little artistic merit
+• Her ideas have merit.
+• Brierley's book has the merit of being both informative and readable.
+Thesaurus+: ↑Deserving and deserved
+2. the merits of sth
+the advantages something has compared to something else
+• We discussed the merits of herbal tea.
+Thesaurus+: ↑Advantage and disadvantage
+3. on your (own) merits
+according to the qualities you have or have shown, without considering any other information or comparing you to someone else
+• The committee say they will consider/judge each applicant on his or her own merits.
+Thesaurus+: ↑Unbiased or impartial
+verb transitive formal
+If something merits a particular treatment, it deserves or is considered important enough to be treated in that way
+• This plan merits careful attention.
+• The accident merited only a small paragraph in the local paper.
+Thesaurus+: ↑Deserving and deserved
+
+■ verbs
+▪ have merit Both suggestions had some merit.
+▪ discuss/debate the merits of something (=discuss whether or not something is a good idea) They were discussing the merits of sending soldiers to the area.
+▪ consider/judge the merits of something (=think about whether or not something is a good idea) The committee is considering the merits of the proposal.
+▪ assess/evaluate the merits of something (=to decide what is good about something using careful methods) Has any study assessed the merits of the two schools?
+▪ question the merits of something (=not be sure if something is a good idea) People began to question the merits of nuclear energy.
+▪ see little/no merit in something (=think that something is not a good idea) I can see no merit in violence.
+▪ have its merits (=have some good qualities) Each idea has its merits.
+■ adjectives
+▪ artistic merit (=the qualities that make something good as a piece of art) What are the artistic merits of this statue?
+▪ literary merit (=the qualities that make something good as a book, play, or poem) There was no literary merit in his poems.
+▪ great merit It seems to me that the idea has great merit.
+▪ outstanding merit (=very great merit) The prize is given to students of outstanding merit.
+▪ considerable merit (=a lot of merit) There is considerable merit in using this kind of approach.
+▪ the relative/comparative merits of something (=the good qualities of something as compared to something else) She is an expert in 
+
+intellectual
+I. adjective
+COLLOCATIONS FROM OTHER ENTRIES
+an intellectual/physical/technical etc challenge
+▪ I love the physical challenge of climbing.
+emotional/intellectual/spiritual nourishment
+▪ a child starved of emotional nourishment
+intellectual curiosity
+▪ Highly intelligent people are full of intellectual curiosity.
+intellectual property
+intellectual snobbery
+▪ intellectual snobbery
+intellectual snobs
+▪ a bunch of intellectual snobs
+intellectual/academic ability
+▪ No one doubts his intellectual abilities.
+▪ A degree is evidence of your academic ability in a particular subject area.
+mental/physical/intellectual etc incapacity
+▪ Evidence of his mental incapacity was never produced in court.
+political/intellectual/cultural etc ferment
+▪ the artistic ferment of the late sixth century
+the intellectual climate (=the general way of thinking)
+▪ New inventions can change the intellectual climate.
+
+death wish
+ˈdeath ˌwish noun only singular UK  US 
+a desire for death
+• The chances he takes, you'd think he had a death wish.
+Thesaurus+: ↑Death and dying
+
+high-minded
+ˌhigh-ˈminded [high-minded high-mindedness] BrE   NAmE   adjective
+(of people or ideas) having strong moral principles
+Derived Word: ↑high-mindedness
+ 
+Example Bank:
+• I don't believe any of their motives are as high-minded as they pretend.
+• It's sometimes hard to live up to his high-minded religious ideals.
+• She was the daughter of rich and high-minded Victorians.
+
+thermostat
+thermostat UK  [ˈθɜː.mə.stæt] US  [ˈθɝː-] noun countable [thermostats]
+a device which keeps a building, engine, etc. within a usually limited temperature range by automatically switching the supply of heat on and off
+• a central heating thermostat
+Thesaurus+: ↑Heaters and burners
+
+ranger
+ranger UK  [ˈreɪn.dʒə r ] US  [-dʒɚ] noun countable [rangers]
+a person whose job is to protect a forest or natural park
+• a forest ranger
+>>>>>>> 0d04389d503c2ba3cbb83b900d6c6784e5678df0

@@ -5640,6 +5640,7 @@ EXAMPLES FROM CORPUS
 ▪ The stove warms the tent up and we become drowsy, and oblivious to the storm outside.
 ▪ They were hospitalized after they became drowsy and dizzy.
 
+<<<<<<< HEAD
 apprehensive
 apprehensive UK  US  [ˌæp.rɪˈhen t.sɪv] adjective
 feeling worried about something that you are going to do
@@ -5885,3 +5886,88 @@ honest/frank/direct/open/outspoken/straight about sth
 honest/frank/direct/open/straight/blunt with sb
 a(n) honest/direct/straight/blunt answer
 a frank/direct/blunt manner
+=======
+egotistical
+e‧go‧tis‧tic‧al /ˌiːɡəˈtəstɪkəl◂, ˌiːɡəˈtɪstɪkəl◂, ˌeɡ-/ BrE  AmE  adjective
+someone who is egotistical likes to talk about how great and important they think they are:
+ He’s a selfish, egotistical individual!
+—egotistically /-kli/ adverb
+• • •
+THESAURUS
+▪ selfish thinking only about what you need or want, and not thinking about how other people feel or what other people want – used especially when criticizing a person or their behaviour: Amy, don’t be selfish. Let the others have a turn. | 'I’m not doing this for selfish reasons,' he said. | It was a very selfish thing to do.
+▪ egocentric (also self-centred British English, self-centered American English) believing that what you do and think is the most important thing, and not paying attention to what anyone else thinks or does – used when describing someone’s personality: Teenagers can be highly egocentric, and sometimes find it difficult to see another person’s point of view. | Children start off as self-centred little beings and they do not naturally think of the other person.
+▪ egotistical believing that you are better or more important than other people: Like many famous writers I’ve met, he was arrogant and egotistical. | He’s just another young player who has gone out of control in the increasingly egotistical world of professional sports.
+▪ self-serving only thinking of getting advantages for yourself: People’s fears are exaggerated by self-serving politicians. | They described the report as ‘self-serving and contradictory’.
+▪ think of nobody but yourself (also only think about yourself) to only think of what you want to do, and not consider what other people want – often used when criticizing someone who does this: The trouble with Alan is that he thinks of nobody but himself. | Before I had children, I only thought about myself and what I wanted.
+▪ it’s always me me me! informal used when criticizing someone for being selfish: It’s always me, me, me with you and I have had enough. I don’t need this – you’re welcome to yourself, my dear.
+
+. empty2 BrE  AmE  verb (past tense and past participle emptied, present participle emptying, third person singular empties)
+1. (also empty out) [transitive] to remove everything that is inside something:
+ Did you empty the dishwasher?
+empty something onto/into something
+ Elinor emptied the contents of the envelope onto the table.
+ He emptied out the ashtray.
+ Ruth emptied her glass (=drank all the liquid left in it) in one gulp.
+2. [intransitive] if a place empties, everyone leaves it:
+ The stores were closing, and the streets began to empty.
+empty into something phrasal verb
+if a river empties into a larger area of water, it flows into it:
+ The Mississippi River empties into the Gulf of Mexico.
+
+ stark
+ . very different to sth in a way that is easy to see
+Syn: ↑clear
+• stark differences
+• Social divisions in the city are stark.
+• The good weather was in stark contrast to the storms of previous weeks.
+4. only before noun complete and total
+Syn: ↑utter
+• The children watched in stark terror.
+
+first-time
+ˈfirst-time [first-time] BrE   NAmE   adjective only before noun
+doing or experiencing sth for the first time
+• houses for first-time buyers
+• a computer program designed for first-time users
+
+worse off
+ˌworse ˈoff adjective after verb UK  US 
+poorer or in a more difficult situation
+• If Rick loses his job we'll be even worse off.
+Thesaurus+: ↑Poverty and poor ↑Worse and worst
+worse off
+ˌworse ˈoff BrE  AmE  adjective [not before noun]
+1. if you are worse off, you have less money OPP better off:
+ The rent increases will leave us worse off.
+worse off than
+ I don’t think we’re any worse off than a lot of other people.
+2. in a worse situation OPP better off:
+ People in rural areas are even worse off, as they have no regular bus service.
+worse off than
+ Other sports are much worse off than athletics.
+ 
+better off
+ˈbetter ˌoff adjective UK  US 
+be better off
+A. to have more money than you had in the past or more money than most other people
+• Obviously we're better off now we're both working.
+• When his parents died, he found himself $100 000 better off (= he had $100 000 more than he had in the past).
+Thesaurus+: ↑Wealthiness and wealthy
+B. to be in a better situation, if or after something happens
+• He'd be better off working for a bigger company.
+Thesaurus+: ↑Good, better and best ↑Informal words for good ↑Quite good, or not very good
+plural noun
+the better-off
+people who have more money than most others
+• The tax on fuel will not have a serious impact on the better-off.
+Thesaurus+: ↑Wealthy people
+
+civic
+civ‧ic /ˈsɪvɪk/ BrE  AmE  adjective [only before noun]
+[Date: 1600-1700; Language: Latin; Origin: civicus, from civis 'citizen']
+1. relating to a town or city:
+ Jackson spent the day meeting with local religious and civic leaders.
+2. relating to the people who live in a town or city:
+ It is your civic duty to vote in the local elections.
+ civic pride (=people’s pride in their own city)
+>>>>>>> 0d04389d503c2ba3cbb83b900d6c6784e5678df0

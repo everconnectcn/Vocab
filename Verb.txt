@@ -6475,6 +6475,7 @@ the activity of flying aircraft, or of designing, producing and keeping them in 
 Thesaurus+: ↑Aviation ↑Travelling by aircraft ↑Movement through the air
 • Orville and Wilbur Wright were aviation trail blazers.
 
+<<<<<<< HEAD
 ↑Animal (non-human) sounds
 Animal (non-human) sounds Thesaurus+ Level 3 (97)
 baa noun; verb
@@ -6874,3 +6875,215 @@ flunk out (of something)
 (NAmE, informal) to have to leave a school or college because your marks/grades are not good enough
 • He flunked out of college after four semesters.
 Main entry: ↑flunkderived
+=======
+encourage
+en‧cour‧age S2 W1 /ɪnˈkʌrɪdʒ $ ɪnˈkɜːr-/ BrE  AmE  verb [transitive]
+[Word Family: adjective: ↑encouraged ≠ ↑discouraged, ↑encouraging ≠ ↑discouraging; verb: ↑encourage ≠ ↑discourage; noun: ↑encouragement ≠ ↑discouragement; adverb: ↑encouragingly ≠ ↑discouragingly]
+1. to give someone the courage or confidence to do something OPP discourage:
+ I want to thank everyone who has encouraged and supported me.
+encourage somebody to do something
+ Cooder was encouraged to begin playing the guitar by his father.
+encourage somebody in something
+ Fleur encouraged Dana in her ambition to become a model.
+2. to persuade someone to do something OPP discourage:
+ Cantor didn’t mind if they worked late; in fact, he actively encouraged it.
+encourage somebody to do something
+ A 10p rise in cigarette prices is not enough to encourage smokers to stop.
+3. to make something more likely to exist, happen, or develop:
+ Violent TV programmes encourage anti-social behaviour.
+—encouraged adjective [not before noun]:
+ She felt encouraged by the many letters of support.
+THESAURUS
+▪ persuade to make someone decide to do something, especially by giving them reasons why they should do it, or asking them many times to do it: I persuaded her to change her mind. | Do you think you can persuade him to lend us the money?
+▪ talk somebody into (doing) something to persuade someone to do something, especially something they do not really want to do: Why did I let you talk me into this? | He finally talked her into going on a date with him.
+▪ get somebody to do something to make someone do something by persuading or asking them: If we can’t get a taxi I’ll get Joe to pick us up. | I know how to get you to kiss me.
+▪ convince to persuade someone that they should do something, because it is the best or the right thing to do. Some British speakers think this use is incorrect, and prefer to use persuade: It would be difficult to convince him to move.
+▪ encourage to try to persuade someone to do something, especially because you think it will be good for them: Children should be encouraged to read all kinds of books.
+▪ influence to have an effect on what someone decides to do: What influences you to buy clothes?
+▪ coax to persuade someone to do something by talking gently and kindly: I tried to coax him to eat a little.
+▪ cajole /kəˈdʒəʊl $ -ˈdʒoʊl/ to persuade someone to do something by praising them or making promises to them: He hoped to cajole her into selling her house.
+▪ put somebody up to something to persuade or encourage someone to do something wrong or stupid: Who put you up to this?
+▪ dissuade formal to persuade someone not to do something: How do you dissuade young people from experimenting with drugs?
+
+
+foster
+I. fos‧ter1 /ˈfɒstə $ ˈfɑːstər/ BrE  AmE  verb
+1. [transitive] to help a skill, feeling, idea etc develop over a period of time SYN encourage, promote:
+ The bishop helped foster the sense of a community embracing all classes.
+2. [intransitive and transitive] to take someone else’s child into your family for a period of time but without becoming their legal parent ⇨ adopt:
+ The couple wanted to adopt a black child they had been fostering.
+II. foster2 BrE  AmE  adjective
+[Language: Old English; Origin: fostor-, from fostor 'food, feeding']
+1. foster mother/father/parents the people who foster a child:
+ It is sometimes difficult to find suitable foster parents.
+2. foster child/son/daughter a child who is fostered
+3. foster brother/sister someone who has different parents from you, but who is being brought up in the same family
+4. foster home a private home where a child is fostered
+
+Verb[edit]
+skate by (third-person singular simple present skates by, present participle skating by, simple past and past participle skated by)
+To get through something difficult with ease.
+Jeff finds this stuff easy, so he just skates by at work.
+
+4. scrape home especially British English to win a race, election, or competition by a very small amount:
+ The Tories may scrape home, but it’s unlikely.
+5. scrape (the bottom of) the barrel informal to have to use something even though it is not very good, because there is nothing better available:
+ It was clear that the party was scraping the barrel for competent politicians.
+⇨ bow and scrape at ↑bow1(5), ⇨ scrape/scratch a living at ↑living2(1)
+scrape something ↔ back phrasal verb
+if you scrape your hair back, you pull it away from your face and tie it at the back:
+ Her blonde hair was scraped back into a ponytail.
+scrape by phrasal verb
+1. to have just enough money to live:
+ We can scrape by, thanks to what we grow ourselves.
+2. to only just succeed in passing an examination or dealing with a difficult situation
+scrape in (also scrape into something) phrasal verb
+to only just succeed in getting a job, a place at university, a position in government etc:
+ Labour scraped in by a small majority.
+ He just scraped into college.
+scrape through (something) phrasal verb
+to only just succeed in passing an examination or dealing with a difficult situation:
+ I managed to scrape through the exam.
+scrape something ↔ together/up phrasal verb
+to get enough money for a particular purpose, when this is difficult:
+ She scraped together the last of her savings.
+ They could hardly scrape up enough money for the train fare.
+ 
+ loaf
+ verb intransitive informal
+to avoid activity, especially work
+• Stop loafing (about/around) and get on with cleaning the windows!
+Thesaurus+: ↑Avoiding action ↑Laziness and lazy people
+loaf 
+2 / lEUf; lof/ v [I, Ipr, Ip] (infml 口) spend time idly 虚度光阴: Don't stand there loafing there's work to be done. 别站在那儿呆着--有事要干呢. * loaf around (the house all day) （成天在家）闲混.
+ > loafer n 
+ idler 虚度光阴者; 游手好闲者. 
+ (esp US) flat shoe, similar to a moccasin, for casual wear 平底便鞋.
+ II. loaf2 BrE  AmE  verb [intransitive]
+[Date: 1800-1900; Origin: Probably from loafer]
+written to spend time somewhere and not do very much SYN hang around/round
+loaf around/about
+ They spend all day loafing around on street corners.
+ 
+ NOT CONSCIOUS
+2. to make someone unable to notice or understand something
+• We mustn't let our prejudices blind us to the facts of the situation.
+Thesaurus+: ↑Puzzle and confuse ↑Difficult to understand
+Idiom: blind somebody with science
+blind somebody with science
+blind sb with science idiom UK
+to confuse someone by using difficult or technical words to describe something
+Thesaurus+: ↑Puzzle and confuse ↑Difficult to understand
+Main entry: blindidiom
+. blind2 BrE  AmE  verb [transitive]
+1. to make it difficult for someone to see for a short time:
+ For a moment, I was blinded by the glare of headlights coming towards me.
+ The dust choked and blinded him.
+ Blinded by tears, I walked towards the door.
+2. to make someone lose their good sense or judgment and be unable to see the truth about something:
+ He should have known better, but he was blinded by his own wants.
+blind somebody to something
+ Children’s bad behaviour should not blind us to their need for love.
+ His single-minded determination to win the war is blinding him to other dangers.
+3. to permanently destroy someone’s ability to see:
+ He had been blinded in an explosion.
+4. blind somebody with science to confuse or trick someone by using complicated language
+⇨ effing and blinding at ↑eff(1)
+• • •
+THESAURUS
+■ Unable to see
+▪ blind unable to see anything: She has been blind from birth.
+▪ partially-sighted not able to see things very well, although not completely blind: Good lighting can be very important for partially sighted people.
+▪ visually handicapped/impaired completely blind or not able to see very much – used especially in official reports, forms etc: a special school for visually impaired children
+
+familiarize
+fa·mil·iar·ize (BrE also -ise) [familiarize familiarizes familiarized familiarizing] BrE [fəˈmɪliəraɪz] NAmE [fəˈmɪliəraɪz]  verb ~ yourself/sb (with sth)
+to learn about sth or teach sb about sth, so that you/they start to understand it
+Syn: ↑acquaint
+• You'll need time to familiarize yourself with our procedures.
+• The aim of the course was to familiarize students with the uses of the Internet.
+Derived Word: ↑familiarization
+
+lean back
+verb
+move the upper body backwards and down (Freq. 3)
+• Syn: ↑recline
+• Derivationally related forms: ↑reclining (for: ↑recline)
+• Hypernyms: ↑lean, ↑tilt, ↑tip, ↑slant, ↑angle
+• Hyponyms: ↑fall back
+• Verb Frames:
+- Something ----s
+- Somebody ----s
+
+ar‧range S2 W2 /əˈreɪndʒ/ BrE  AmE  verb
+[Word Family: noun: ↑arrangement, ↑arranger; verb: ↑arrange; adjective: arranged]
+[Date: 1300-1400; Language: Old French; Origin: arangier, from rengier 'to put in a row', from reng 'row']
+1. [intransitive and transitive] to organize or make plans for something such as a meeting, party, or trip:
+ Contact your local branch to arrange an appointment.
+ I’d like to arrange a business loan.
+arrange to do something
+ Have you arranged to meet Mark this weekend?
+arrange something with somebody
+ Beth arranged a meeting with the marketing director.
+arrange when/where/how etc
+ We still have to arrange how to get home.
+arrange that
+ We had arranged that I would go for the weekend.
+ Matthew arrived at 2 o'clock as arranged.
+2. [intransitive and transitive] to make it possible for someone to have or do something
+arrange for something
+ The company will arrange for a taxi to meet you at the airport.
+arrange for somebody to do something
+ Dave arranged for someone to drive him home.
+3. [transitive] to put a group of things or people in a particular order or position:
+ Ben arranged the flowers in a vase.
+ The list is arranged alphabetically.
+arrange something in pairs/groups etc
+ The children were arranged in lines according to height.
+4. [transitive] to write or change a piece of music so that it is suitable for a particular instrument
+arrange something for something
+ a symphony arranged for the piano
+ 
+ order in (third-person singular simple present orders in, present participle ordering in, simple past and past participle ordered in)
+To call and place an order for food to be delivered.
+Synonym: order out
+
+stay over
+ˌstay ˈover derived
+to sleep at sb's house for one night
+• We have a spare bed if you want to stay over.
+Main entry: ↑stayderived
+
+skid
+
+ / skId; skId/ n 
+ sideways movement made eg by a car slipping on ice or turning a corner too fast 滑向一侧, 打滑（如车在结冰路上或急转弯时的）: try to get out of/correct a skid 设法纠正打滑现象. 
+ log, plank, etc used to make a track over which heavy objects may be dragged or rolled 滑道, 滚道, 滑轨（使重物易于在上面拉或滚动）. 
+ piece of wood or metal that acts as a brake on the wheel of a cart, etc 制轮器; 刹车. 
+ (idm 习语) put the skids under sb/sth (sl 俚) (a) cause sb/sth to fail 使某人[某事]失败: The government put the skids under the plan by stopping their research grant. 政府停发研究经费让他们的计画半途而废. (b) make sb hurry 催促某人.
+ > skid v (-dd-) [I, Ipr, Ip] (of a car, etc) move or slip sideways （指汽车等）滑向一侧, 打滑: The car skidded on the ice. 汽车在冰上打滑了. * The bus skidded (on) into a wall. 公共汽车打滑撞到墙上.
+ # `skid-pan surface specially prepared for skidding on, so that drivers can practise controlling skids 转向试验场（为司机练习控制车辆打滑的特制路面）.
+ skid row / 9skId 5rEU; 9skId`ro/ (US sl 俚) slum area where vagrants live 流浪者住的贫民区: He ended up on skid row. 他最后沦落到了流浪人的贫民区.
+From Longman DOCE5 Extras (En-En)
+skid
+I. verb
+COLLOCATIONS FROM OTHER ENTRIES
+a car skids (=slides sideways in a way you cannot control)
+▪ If it’s icy, the car might skid.
+a skid mark (=a long tyre mark caused by a car that has lost control)
+▪ After the accident, two sets of skid marks were found.
+skid mark
+▪ There were skid marks on the road where the crash occurred.
+skid row
+sth screeches/shudders/skids/jolts to a halt (=a vehicle stops very quickly and noisily – used for emphasis)
+▪ The car skidded to a halt and three men jumped out.
+
+immigrate
+verb
+BAD: Some of those who can't find a job decide to immigrate.
+GOOD: Some of those who can't find a job decide to emigrate.
+BAD: We're planning to immigrate to the United States next year.
+GOOD: We're planning to emigrate to the United States next year.
+The verb immigrate (= enter a foreign country and make your home there) is seldom used. Instead people tend to use immigrant and immigration (nouns): 'When jobs became scarce, the number of new immigrants suddenly decreased.' 'Immigration has decreased in recent years.'
+emigrate = leave your own country and make your home in another one: 'His parents emigrated from Scotland to Canada in 1933.'
+>>>>>>> 0d04389d503c2ba3cbb83b900d6c6784e5678df0
