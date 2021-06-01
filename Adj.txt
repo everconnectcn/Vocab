@@ -5970,7 +5970,6 @@ civ‧ic /ˈsɪvɪk/ BrE  AmE  adjective [only before noun]
 2. relating to the people who live in a town or city:
  It is your civic duty to vote in the local elections.
  civic pride (=people’s pride in their own city)
-<<<<<<< HEAD
  
  culinary
 culinary UK  [ˈkʌl.ɪ.n ə r.i] US  [ˈkʌl.ə.ner-] slightly formal adjective
@@ -5978,6 +5977,87 @@ connected with cooking or kitchens
 • the culinary delights (= pleasant tasting food) of Beijing
 • My culinary skills are rather limited, I'm afraid (= I am not very good at cooking)!
 Thesaurus+: ↑Preparing food ↑Preparing food using heat
-=======
->>>>>>> 0d04389d503c2ba3cbb83b900d6c6784e5678df0
->>>>>>> b5ad47dd11ff34ddd325ee4ed61517d6447ab8ed
+
+frantic
+fran‧tic /ˈfræntɪk/ BrE  AmE  adjective
+[Date: 1500-1600; Origin: frenetic]
+1. extremely worried and frightened about a situation, so that you cannot control your feelings
+get/become frantic
+ There was still no news of Jill, and her parents were getting frantic.
+frantic with
+ Your mother’s been frantic with worry wondering where you’ve been.
+2. extremely hurried and using a lot of energy, but not very organized SYN hectic:
+ I spent three frantic days trying to get everything ready.
+frantic effort/attempt
+ Despite our frantic efforts, we were unable to save the boy’s life.
+frantic pace/rush/haste etc
+ There was a frantic rush to escape from the building.
+ a day of frantic activity
+ a frantic search for her father
+—frantically /-kli/ adverb:
+ He frantically searched for the key.
+
+ overrated
+overrated UK  [ˌəʊ.vəˈreɪ.tɪd] US  [ˌoʊ.vɚˈreɪ.t ̬ɪd], UK [ˈ--ˌ--] adjective
+If something or someone is overrated, they are considered to be better or more important than they really are.
+• In my opinion, she's a hugely overrated singer.
+Thesaurus+: ↑Exaggerating and playing down ↑Praising and applauding
+overrate
+overrate UK  [ˌəʊ.vəˈreɪt] US  [ˌoʊ.vɚ-] verb transitive often passive [overrates overrating overrated]
+to have too good an opinion of something
+• Be careful not to overrate the opposition.
+Thesaurus+: ↑Exaggerating and playing down ↑Praising and applauding
+From Longman DOCE 5th Ed. (En-En)
+overrated
+o‧ver‧rated /ˌəʊvəˈreɪtəd◂, ˌəʊvəˈreɪtɪd◂ $ ˌoʊ-/ BrE  AmE  adjective
+[Word Family: verb: ↑rate, ↑overrate ≠ UNDERRATE; noun: ↑rate, ↑rating; adjective: ↑overrated ≠ ↑underrated]
+not as good or important as some people think or say OPP underrated:
+ a vastly overrated film
+ 
+ far and wide
+far and ˈwide idiom
+over a large area
+• They searched far and wide for the missing child.
+Main entry: ↑faridiom
+
+voracious
+voracious UK  US  [vəˈreɪ.ʃəs] adjective
+very eager for something, especially a lot of food
+• He has a voracious appetite (= he eats a lot).
+• He's a voracious reader of historical novels (= He reads a lot of them eagerly and quickly).
+Thesaurus+: ↑Hungry and thirsty ↑Excited, interested and enthusiastic
+Derived: voraciously ▪ voraciousness
+
+constant
+I. con‧stant1 S3 W3 AC /ˈkɒnstənt $ ˈkɑːn-/ BrE  AmE  adjective
+[Word Family: noun: ↑constant, ↑constancy; adverb: ↑constantly; adjective: ↑constant]
+[Date: 1300-1400; Language: Old French; Origin: Latin, present participle of constare 'to stand firm, be constant, cost', from com- ( ⇨ COM-) + stare 'to stand']
+1. happening regularly or all the time SYN continual:
+ There was a constant stream of visitors to the house.
+ Amy lived in constant fear of being attacked.
+ He kept in constant contact with his family while he was in Australia.
+2. staying the same OPP inconstant:
+ travelling at a constant speed
+3. literary loyal and faithful SYN devoted:
+ a constant friend
+ 
+ onwards
+on‧wards /ˈɒnwədz $ ˈɑːnwərdz, ˈɒːn-/ BrE  AmE  (also onward American English) adverb
+1. from ... onwards beginning at a particular time or age and continuing after that:
+ from the 1980s onwards
+2. literary forwards:
+ He walked onwards to the head of the lake.
+3. onwards and upwards used to say that the development, increase, or progress of something continues:
+ With exports strong, the business is moving onwards and upwards.
+onward
+I. on‧ward /ˈɒnwəd $ ˈɑːnwərd, ˈɒːn-/ BrE  AmE  adjective [only before noun]
+moving forward or continuing:
+ The company offers flights to Amsterdam with onward travel to The Hague.
+ the onward march of science
+II. on‧wards /ˈɒnwədz $ ˈɑːnwərdz, ˈɒːn-/ BrE  AmE  (also onward American English) adverb
+1. from ... onwards beginning at a particular time or age and continuing after that:
+ from the 1980s onwards
+2. literary forwards:
+ He walked onwards to the head of the lake.
+3. onwards and upwards used to say that the development, increase, or progress of something continues:
+ With exports strong, the business is moving onwards and upwards.
