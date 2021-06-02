@@ -56,10 +56,8 @@ pro·lif·ic BrE [prəˈlɪfɪk]  NAmE [prəˈlɪfɪk]  adjective
 4. existing in large numbers
 • a pop star with a prolific following of teenage fans
 Derived Word: ↑prolifically
- 
 Word Origin:
 [prolific prolifically] mid 17th cent.: from medieval Latin prolificus, from Latin proles ‘offspring’.
- 
 Example Bank:
 • The kiwi fruit is known for its prolific yield and good export price.
 • a prolific author/writer/composer
@@ -75,10 +73,8 @@ sensible and careful when you make judgements and decisions; avoiding unnecessar
 • It might be more prudent to get a second opinion before going ahead.
 Opp: ↑imprudent
 Derived Words: ↑prudence ▪ ↑prudently
- 
 Word Origin:
 [prudence prudent prudently] late Middle English: from Old French, or from Latin prudent-, contraction of provident- ‘foreseeing, attending to’, from the verb providere ‘foresee, attend to’, from pro- ‘before’ + videre ‘to see’.
- 
 Synonyms:
 care
 caution • prudence
@@ -91,7 +87,6 @@ to do sth with care/caution/prudence
 great/extreme care/caution/prudence
 to use/exercise care/caution/prudence
 to proceed with care/caution
- 
 Example Bank:
 • We thought it prudent to telephone first.
 • He had borrowed a little more than was prudent.
@@ -132,7 +127,6 @@ damaging [damaging] BrE [ˈdæmɪdʒɪŋ]  NAmE [ˈdæmɪdʒɪŋ]  adjective
 causing damage; having a bad effect on sb/sth
 • damaging consequences/effects
 • ~ to sb/sth Lead is potentially damaging to children's health.
- 
 Example Bank:
 • Smoking is damaging to health.
 • These new measures will do nothing to raise school standards: they may be positively damaging.
@@ -141,7 +135,6 @@ Example Bank:
 • Halon gas is far more damaging to the ozone layer than CFCs.
 • Lead is potentially damaging to children's health.
 • This was one of the most damaging allegations made against him.
-
 
 dwindling
 See main entry: ↑dwindle
@@ -6083,8 +6076,3 @@ EXAMPLES FROM CORPUS
 ▪ Skyservice is a small but well-established Toronto-based charter carrier that announced in June it wants to start an upscale airline.
 ▪ There is no Metro stop in the upscale neighborhood.
 
-antelope
-antelope UK  [ˈæn.tɪ.ləʊp] US  [-t ̬ ə l.oʊp] [plural antelope] or [antelopes] noun countable [antelopes]
-a mammal like a deer with horns and long thin legs which allow it to run very fast
-• a herd of antelope
-Thesaurus+: ↑Deer and antelope
