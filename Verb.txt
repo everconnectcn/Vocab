@@ -7087,6 +7087,7 @@ GOOD: We're planning to emigrate to the United States next year.
 The verb immigrate (= enter a foreign country and make your home there) is seldom used. Instead people tend to use immigrant and immigration (nouns): 'When jobs became scarce, the number of new immigrants suddenly decreased.' 'Immigration has decreased in recent years.'
 emigrate = leave your own country and make your home in another one: 'His parents emigrated from Scotland to Canada in 1933.'
 
+<<<<<<< HEAD
 take off
 take off phrasal verb [took off taken off taken off takes off taking off]
  
@@ -7213,3 +7214,111 @@ get off with
 11. tell somebody where to get off informal to tell someone that they are asking you for too much or are behaving in a way you will not accept:
  He wanted £50, but I told him where to get off.
 12. get off your butt/ass American English spoken not polite used to tell someone that they should stop being lazy and start doing something useful
+=======
+attribute
+I. at‧tri‧bute1 AC /əˈtrɪbjuːt $ -bjət/ BrE  AmE  verb
+[Date: 1300-1400; Language: Latin; Origin: past participle of attribuere, from ad- 'to' + tribuere; ⇨ ↑tribute]
+attribute something to somebody/something phrasal verb
+1. to believe or say that a situation or event is caused by something:
+ The fall in the number of deaths from heart disease is generally attributed to improvements in diet.
+2. if people in general attribute a particular statement, painting, piece of music etc to someone, they believe that person said it, painted it etc:
+ a saying usually attributed to Confucius
+3. to believe or say that someone or something has a particular quality:
+ One should not attribute human motives to animals.
+—attribution /ˌætrəˈbjuːʃən, ˌætrɪˈbjuːʃən/ noun [uncountable]
+II. at‧tri‧bute2 AC /ˈætrəbjuːt, ˈætrɪbjuːt/ BrE  AmE  noun [countable]
+a quality or feature, especially one that is considered to be good or useful:
+ What attributes should a good manager possess?
+ 
+ ridicule
+I. rid‧i‧cule1 /ˈrɪdəkjuːl, ˈrɪdɪkjuːl/ BrE  AmE  noun [uncountable]
+[Date: 1600-1700; Language: French; Origin: Latin ridiculum 'something funny', from ridere 'to laugh']
+unkind laughter or remarks that are intended to make someone or something seem stupid:
+ the ridicule of his peers
+ The government’s proposals were held up to ridicule (=suffered ridicule) by opposition ministers.
+ He had become an object of ridicule among the other teachers.
+II. ridicule2 BrE  AmE  verb [transitive]
+to laugh at a person, idea etc and say that they are stupid SYN mock:
+ At the time, his ideas were ridiculed.
+ 
+ assimilate
+assimilate UK  US  [əˈsɪm.ɪ.leɪt] verb intransitive or transitive [assimilates assimilating assimilated]
+to take in, fit into, or become similar (to)
+• The European Union should remain flexible enough to assimilate more countries quickly.
+• You shouldn't expect immigrants to assimilate into an alien culture immediately.
+• It's hard to assimilate (= learn and understand) so much information.
+• In this form vitamins can be easily assimilated by the body.
+Thesaurus+: ↑Including and containing ↑Comprising and consisting of
+Derived: assimilable ▪ assimilation
+assimilate
+as·simi·late [assimilate assimilates assimilated assimilating] BrE [əˈsɪməleɪt]  NAmE [əˈsɪməleɪt]  verb
+1. transitive ~ sth to fully understand an idea or some information so that you are able to use it yourself
+• The committee will need time to assimilate this report.
+• Some people can only assimilate change gradually.
+2. intransitive, transitive to become, or allow sb to become, a part of a country or community rather than remaining in a separate group
+• ~ (into/to sth) New arrivals find it hard to assimilate.
+• ~ sb (into/to sth) Immigrants have been successfully assimilated into the community.
+3. transitive, often passive ~ sth into/to sth to make an idea, a person's attitude, etc. fit into sth or be acceptable
+• These changes were gradually assimilated into everyday life.
+
+raving
+raving UK  US  [ˈreɪ.vɪŋ] informal adjective before noun, adverb
+complete or extreme, or completely or extremely
+• He must be a raving idiot/lunatic.
+• Her last book was a raving best-seller/success.
+• She's no raving beauty.
+• I think you're (stark) raving mad to agree to do all that extra work without being paid for it.
+Thesaurus+: ↑Very and extreme ↑Complete and whole ↑Intensifying expressions
+rave
+rave UK  US  [reɪv] verb intransitive [raves raving raved]
+ 
+SPEAK FOOLISHLY
+1. to speak in an uncontrolled way, usually because you are upset or angry, or because you are ill
+• He's always raving (on) about the government.
+• She was ranting and raving about some imagined insult.
+Thesaurus+: ↑Talking angrily ↑Ways of talking
+ 
+ENTHUSIASTIC
+2. informal to praise something very much
+• She raved about/over the clothes she had seen at the Paris fashion shows.
+Thesaurus+: ↑Praising and applauding ↑Exaggerating and playing down
+ 
+adjective before noun informal
+admiring; giving praise
+• The show has received rave reviews/notices in all the papers.
+Thesaurus+: ↑Excited, interested and enthusiastic
+ 
+noun countable mainly UK informal
+an event where young people dance to modern electronic music and sometimes take illegal drugs
+• an all-night/open-air rave
+• rave music
+Thesaurus+: ↑Celebrations, parties and special occasions ↑Specific holidays and festivals
+From Longman DOCE 5th Ed. (En-En)
+raving
+I. rav‧ing1 /ˈreɪvɪŋ/ BrE  AmE  adjective [only before noun] informal
+1. talking or behaving in a crazy way:
+ a raving lunatic
+2. especially British English used to emphasize that someone or something has a lot of a particular quality:
+ She was no raving beauty, but at least she looked smart.
+II. raving2 BrE  AmE  adverb
+(stark) raving mad/bonkers informal completely crazy
+rave
+I. rave1 /reɪv/ BrE  AmE  verb [intransitive]
+[Date: 1300-1400; Language: Old French; Origin: raver 'to wander, talk wildly']
+1. rave about/over something to talk about something you enjoy or admire in an excited way SYN enthuse:
+ Now I understand why travelers rave about Lapland.
+ The customers were raving over our homemade chili.
+2. to talk in an angry, uncontrolled, or crazy way
+rave at
+ He started raving at me
+rave on British English:
+ Lisa raved on about how awful it all was.
+ He was still ranting and raving the next morning.
+II. rave2 BrE  AmE  noun [countable]
+1. a big event where people dance to loud music with a strong beat and often take drugs:
+ an all-night rave
+ rave music
+ rave parties ⇨ ↑raver
+2. strong praise for a new play, book etc:
+ The play got raves from the critics.
+>>>>>>> 994f4a70d5cc593d52161219458a40d7ddab12b2

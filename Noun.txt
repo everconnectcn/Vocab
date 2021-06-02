@@ -10483,6 +10483,7 @@ ranger
 ranger UK  [ˈreɪn.dʒə r ] US  [-dʒɚ] noun countable [rangers]
 a person whose job is to protect a forest or natural park
 • a forest ranger
+<<<<<<< HEAD
 >>>>>>> 0d04389d503c2ba3cbb83b900d6c6784e5678df0
 
 pin-up
@@ -10566,3 +10567,796 @@ goose pimples
 a condition in which there are raised spots on your skin because you feel cold, frightened or excited
 • It gave me goose pimples just to think about it.
 See also: ↑goosebumps
+=======
+
+Holiday
+Hol‧i‧day, Bil‧lie /ˈhɒlədeɪ, ˈhɒlɪdeɪ $ ˈhɑː-, ˈbɪli/ BrE  AmE 
+(1915–59) a US ↑jazz and BLUES singer, who was also called ‘Lady Day’ and is regarded as one of the greatest jazz and blues singers ever. She wrote her life story in a book called Lady Sings the Blues, which was later made into a film.
+holiday
+I. hol‧i‧day1 S1 W2 /ˈhɒlədi, ˈhɒlɪdi, -deɪ $ ˈhɑːlədeɪ/ BrE  AmE  noun
+[Language: Old English; Origin: haligdæg 'holy day']
+1. [uncountable and countable] British English (also holidays) a time of rest from work, school etc SYN vacation American English:
+ The school holidays start tomorrow.
+on holiday
+ I’m away on holiday until the 1st of June.
+in the holidays
+ He came to stay with us in the school holidays.
+holiday from
+ a holiday from her usual responsibilities
+REGISTER
+In everyday British English, when someone is temporarily away from their work or studies, people often say they are off, rather than on holiday. Note, however, that off can also mean that someone is away from their work or studies because they are sick:
+▪ ‘Where’s Kate?’ ‘She’s off this week.’
+2. [uncountable and countable] British English (also holidays) a period of time when you travel to another place for pleasure SYN vacation American English:
+ We’re going to Spain for our holidays.
+on holiday
+ He caught malaria while on holiday in Africa.
+ I haven’t had a proper holiday for two years.
+3. [countable] a day fixed by law on which people do not have to go to work or school:
+ The 4th of July is a national holiday in the US.
+4. the holiday season (also the holidays)
+a) American English the period between Thanksgiving and New Year
+b) British English the period in the summer when most people take a holiday
+⇨ ↑bank holiday, ↑public holiday
+• • •
+GRAMMAR
+Holidays is usually used after 'the', 'my', 'your' etc when it refers to a single period when you are travelling or are not working or studying:
+▪ Soon it will be the holidays.
+▪ Where do you want to go for your holidays?
+• • •
+COLLOCATIONS (for Meanings 1 & 2)
+■ verbs
+▪ go on holiday The children were excited about going on holiday.
+▪ have/take a holiday Teachers cannot take holidays during term time.
+▪ book a holiday I booked the holiday online.
+■ ADJECTIVES/NOUN + holiday
+▪ a skiing/camping/walking etc holiday They went on a camping holiday in France.
+▪ a package holiday (=a holiday in which you pay a price that includes travel, room, and food) The company organizes package holidays to Spain and Greece.
+▪ a summer holiday They were going to a house on the coast for their summer holidays.
+▪ a winter holiday Why not try a winter holiday for a change?
+▪ a family holiday I first visited Orkney on a family holiday when I was a boy.
+▪ an annual holiday (=a holiday you take every year) We were getting ready for our annual holiday in Cornwall.
+▪ your dream holiday (=the best holiday you can imagine) They won a dream holiday for two to the Caribbean.
+■ holiday + NOUN
+▪ a holiday resort (=a place with many hotels where a lot of people go on holiday) a holiday resort in Spain
+▪ a holiday destination (=a town or country where a lot of people go on holiday) Marmaris is one of Turkey's most popular holiday destinations.
+▪ a holiday brochure (=a magazine that shows what holidays you can take) We were looking through holiday brochures thinking about the summer.
+▪ holiday photos (also holiday snaps informal) (=photographs that you take when you are on holiday) Do you want to see our holiday snaps?
+▪ a holiday romance (=a brief romantic relationship with someone you meet on holiday) It was just a holiday romance; I never saw him again.
+▪ a holiday abroad (=a holiday in a country other than the one you live in) They were planning a holiday abroad that year.
+■ phrases
+▪ the holiday of a lifetime (=a very good or expensive holiday that you will only take once) We took the family on a holiday of a lifetime to Orlando, Florida.
+• • •
+THESAURUS
+▪ vacation especially American English, holiday especially British English time you spend away from school or work: Are you taking a vacation this summer? | We met on holiday in Cyprus. | What are you doing in the school holidays?
+▪ holiday a day that is set by law, when no one has to go to work or school: the Thanksgiving holiday | New Year's Day is a national holiday. | In 2002, there was an extra public holiday to mark the Queen's golden jubilee. | the August bank holiday (=day when all the banks and shops are closed – used in British English)
+▪ break a time when you stop working or studying in order to rest, or a short vacation from school: a ten-minute coffee break | Lots of college kids come to the beaches during the spring break.
+▪ leave a time when you are allowed not to work: We get four weeks' annual leave (=paid time off work each year). | He has been taking a lot of sick leave (=time off work because you are ill) recently. | Angela is on maternity leave (= time off work when having a baby). | He was given compassionate leave (=time off work because someone close to you has died, is very ill etc) to go to his father's funeral.
+▪ sabbatical [usually singular] a period when someone, especially a teacher, stops doing their usual work in order to study or travel: She was on sabbatical for six months. | I'm thinking of taking a sabbatical.
+▪ furlough a period of time when a soldier or someone working in another country can return to their own country as a holiday: While on furlough, he and his girlfriend got married.
+▪ R & R (rest and relaxation) a holiday, especially one given to people in the army, navy etc after a long period of hard work or during a war: Soldiers in Vietnam were taken to Hawaii for R & R.
+II. holiday2 BrE  AmE  verb [intransitive]
+British English to spend your holiday in a place – used especially in news reports SYN vacation American English
+holiday in/at
+ They’re holidaying in Majorca.
+
+ 
+ furlough
+fur‧lough /ˈfɜːləʊ $ ˈfɜːrloʊ/ BrE  AmE  noun [uncountable and countable]
+[Date: 1600-1700; Language: Dutch; Origin: verlof 'permission']
+1. a period of time when a soldier or someone working in another country can return to their own country SYN leave:
+ a young soldier home on furlough
+2. American English a period of time when workers are told not to work, especially because there is not enough money to pay them ⇨ layoff:
+ workers forced to take a long, unpaid furlough
+3. American English a short period of time during which a prisoner is allowed to leave prison before returning:
+ Morton stabbed the man while on furlough.
+—furlough verb [transitive] American English:
+ 280,000 federal workers have been furloughed.
+
+ 
+  parental leave
+ paternity leave
+paˈternity ˌleave BrE  AmE  noun [uncountable]
+a period of time that the father of a new baby is allowed away from work ⇨ maternity leave, parental leave
+
+maternity
+I. ma‧ter‧ni‧ty1 /məˈtɜːnəti, məˈtɜːnɪti $ -ɜːr-/ BrE  AmE  adjective [only before noun]
+relating to a woman who is ↑pregnant or who has just had a baby ⇨ paternity:
+ a maternity dress
+maternity benefits/pay etc (=money that the government or employers give to a woman after she has had a baby)
+II. maternity2 BrE  AmE  noun [uncountable]
+the state of being a mother
+
+recess
+I. re‧cess1 /rɪˈses, ˈriːses $ ˈriːses, rɪˈses/ BrE  AmE  noun
+[Date: 1500-1600; Language: Latin; Origin: recessus, from the past participle of recedere; ⇨ ↑recede]
+1. [uncountable and countable] a time during the day or year when no work is done, especially in parliament, law courts etc:
+ Parliament’s summer recess
+2. [uncountable] American English a short period of time between lessons at a school when children can go outdoors and play SYN break British English:
+ Her favorite things at school are music and recess.
+3. [countable] a space in the wall of a room, especially for shelves, cupboards etc SYN alcove
+4. the recesses of something the inner hidden parts of something:
+ the deep recesses of the cave
+ fears hidden away in the darker recesses of her mind
+II. re‧cess2 /rɪˈses $ ˈriːses, rɪˈses/ BrE  AmE  verb [intransitive]
+especially American English if a government, law court etc recesses, it officially stops work for a period of time
+
+career break
+noun
+EXAMPLES FROM CORPUS
+▪ His next big career break came about almost by accident.
+▪ I took up a position in a university library after a career break.
+▪ It has been written to meet the needs of those returning to work after a career break.
+▪ It is vital that the education system should attract back women who have taken a career break to raise a family.
+
+time off
+ˌtime ˈoff BrE  AmE  noun [uncountable]
+time when you are officially allowed not to be at work or studying
+take/have/get etc time off
+ Have you ever had to take time off for health reasons?
+ 
+ dressing
+dress‧ing /ˈdresɪŋ/ BrE  AmE  noun
+[Word Family: noun: ↑dress, ↑dresser, ↑dressing; adjective: ↑dressed ≠ ↑undressed, ↑dressy; verb: ↑dress ≠ ↑undress]
+1. [uncountable and countable] a mixture of liquids, usually oil and ↑vinegar, that you put on ↑salad or raw vegetables:
+ a vinaigrette dressing ⇨ ↑French dressing, ↑salad dressing
+2. [uncountable and countable] American English ↑stuffing(1)
+3. [countable] a special piece of material used to cover and protect a wound:
+ The nurse came to change his dressing.
+⇨ ↑cross-dressing, ↑power dressing, ↑window dressing
+
+cross-section
+ˈcross-ˌsection BrE  AmE  noun [countable]
+1. something that has been cut in half so that you can look at the inside, or a drawing of this
+cross-section of
+ a cross-section of a plant stem
+in cross-section
+ The roof beams were 50 centimetres square in cross-section.
+2. a group of people or things that is typical of a much larger group ⇨ sample
+cross-section of
+ a wide cross-section of the taxpaying population
+ 
+ Venn diagram
+Venn di‧a‧gram /ˈven ˌdaɪəɡræm/ BrE  AmE  noun [countable]
+[Date: 1900-2000; Origin: John Venn (1834-1923), British logician]
+a picture showing the relationship between several things by using circles that partly cover each other
+
+↑Tables, graphs and diagrams
+Tables, graphs and diagrams Thesaurus+ Level 3 (39)
+bar chart noun
+block graph noun
+chart noun 1 drawing; verb 1 show/follow
+circuit diagram noun
+coordinate noun 1 point
+cross-section noun 1
+diagram noun
+diagrammatic adjective
+diagrammatically adverb
+fig noun
+figure noun 6 picture
+flowchart noun
+graph noun
+graph paper noun
+graphic adjective 3 graph
+graphically adverb 2 in pictures
+grid noun 3 map
+histogram noun
+horizontal axis noun
+mind map noun
+organogram noun
+periodic table noun
+pie chart noun
+plot verb 1 mark; verb 2 mark
+projection noun 4 drawing
+scatter diagram noun
+schema noun
+spidergram noun
+spreadsheet noun
+table noun 4 information
+tabular adjective
+tabulate verb
+tide-table noun
+Venn diagram noun
+vertical axis noun
+x-axis noun
+y-axis noun
+
+4. WOMAN’S BODY the shape of a woman’s body:
+ She has a good figure.
+keep/lose your figure (=stay thin or become fat)
+ Most women have to watch their figure (=be careful not to get fat).
+5. father/mother/authority figure someone who is considered to be like a father etc, or to represent authority, because of their character or behaviour
+6. figures [plural] British English the activity of adding, multiplying etc numbers SYN arithmetic:
+ a natural ability with figures
+have a head for figures (=be good at arithmetic)
+7. MATHEMATICAL SHAPE a ↑geometric shape:
+ A hexagon is a six-sided figure.
+8. PAINTING/MODEL a person in a painting or a model of a person:
+ the figure in the background ⇨ ↑figurine
+9. DRAWING (written abbreviation fig.) a numbered drawing or a ↑diagram in a book
+10. put a figure on it/give an exact figure to say exactly how much something is worth, or how much or how many of something you are talking about:
+ It’s worth a lot but I couldn’t put a figure on it.
+11. a fine figure of a man/woman someone who is tall and has a good body
+12. a figure of fun someone who people laugh at
+13. ON ICE a pattern or movement in ↑figure skating
+
+projection
+pro‧jec‧tion AC /prəˈdʒekʃən/ BrE  AmE  noun
+1. CALCULATION [countable] a statement or calculation about what something will be in the future or was in the past, based on information available now
+projection of
+ projections of declining natural gas production
+projection for
+ population projections for the next 25 years
+ He declined to make projections about fourth quarter earnings.
+ Early projections show a three point lead for the Socialists.
+2. SOMETHING STICKING OUT [countable] formal something that sticks out from a surface:
+ small projections of weathered rock on the hillside
+3. FILM [uncountable] the act of projecting a film or picture onto a screen:
+ projection equipment
+4. FEELING [uncountable] technical the act of imagining that someone else is feeling the same emotions as you
+5. PICTURE [countable] technical a representation of something solid on a flat surface:
+ a map projection
+6. IMAGINED QUALITIES [countable] something that you imagine to have particular qualities because of your wishes or feelings
+projection of
+ The Devil is a projection of our fears and insecurities.
+⇨ ↑Mercator projection
+
+organization chart
+ˌorganiˈzation chart 7 [organization chart] BrE   NAmE   (also or·gano·gram) noun
+a diagram of the structure of an organization, especially a large business, showing the relationships between all the jobs in it
+See also: ↑organogram
+
+scatter plot (plural scatter plots)
+(statistics) A type of display using Cartesian coordinates to display values for two variables for a set of data.
+
+13. go to earth British English to hide in order to escape from someone who is chasing you SYN go to ground
+14. run somebody/something to earth British English to find someone, especially by looking in many places
+⇨ ↑down-to-earth, ⇨ promise somebody the moon/the earth at ↑promise1(3), ⇨ the salt of the earth at ↑salt1(2)
+• • •
+COLLOCATIONS (for Meaning 1)
+■ nouns
+▪ the Earth’s surface Over seventy percent of the Earth’s surface is covered by ocean.
+▪ the Earth’s crust Volcanoes and earthquakes occur where there is movement in the Earth’s crust.
+▪ the Earth’s core (=central part) The Earth’s inner core is almost entirely composed of iron.
+▪ the Earth’s mantle (=parts around the central core) the incredibly high temperatures and pressures deep within Earth’s mantle
+▪ the Earth’s atmosphere The Earth’s atmosphere blocks off all radiation from space other than light and radio waves.
+▪ the Earth’s gravity the continual pull of the Earth’s gravity on the Moon.
+▪ the Earth’s orbit The rocket left the Earth's orbit and set off to Mars.
+▪ the Earth’s rotation Has the Earth’s rotation always been the same?
+▪ the Earth’s axis Over thousands of years, the direction of Earth’s axis slowly changes.
+▪ the Earth’s climate The level of carbon dioxide in the atmosphere has an influence on the Earth’s climate.
+■ verbs
+▪ orbit The Earth orbits the Sun once a year, and the Moon orbits the Earth approximately every 27 days.
+▪ revolve/rotate Because of the direction in which the Earth revolves, the sun always rises in the east and sets in the west.
+▪ go round/around Why does the Earth goes around the Sun?
+■ phrases
+▪ Planet Earth the origin of life on Planet Earth
+• • •
+COLLOCATIONS (for Meaning 2)
+■ adjectives
+▪ soft The wheels got stuck in the soft earth.
+▪ hard It hadn’t rained for weeks and the earth was hard.
+▪ bare (=not covered by trees or grass) There were no flowers or grass, just bare earth.
+▪ fertile This earth is not fertile enough to produce crops.
+▪ freshly-dug The poppy seeds were planted in the freshly-dug earth.
+▪ moist/damp I slipped on the damp earth and fell over.
+■ phrases
+▪ a mound of earth (=a pile of earth that looks like a small hill) A mound of earth lay beside the grave.
+▪ a clod/clump of earth (=a lump of earth) The horse’s hooves kicked up great clods of earth.
+
+consumables
+consumables UK  [kənˈsjuː.mə.bl ̩z] US  [-suː-] plural noun [consumableses]
+goods, especially food, or services which people buy regularly because they are quickly used and need to be replaced quite often
+• At this hospital we use up bandages, disposable gloves and other consumables at an alarming rate.
+Thesaurus+: ↑Products and producers ↑Buying and selling in general
+
+frill
+frill /frɪl/ BrE  AmE  noun [countable]
+[Date: 1500-1600; Origin: Perhaps from Flemish frul]
+1. a decoration that consists of a narrow piece of cloth that has many small folds in it ⇨ flounce:
+ She was wearing a white blouse with frills at the cuffs.
+2. frills [plural] attractive but unnecessary features
+without/with no frills
+ It was just a comfortable flat with no frills.
+ We supply basic, no-frills tractors at low prices.
+ 
+ grazing (land)
+ˈgrazing (ˌland) noun uncountable UK  US 
+land where farm animals feed on grass
+Thesaurus+: ↑Animal farming - general words
+
+graze
+I. graze1 /ɡreɪz/ BrE  AmE  verb
+[Language: Old English; Origin: grasian, from græs; ⇨ ↑grass]
+1. [intransitive and transitive] if an animal grazes, or if you graze it, it eats grass that is growing
+graze on
+ Groups of cattle were grazing on the rich grass.
+ fields where they used to graze their sheep
+2. [transitive] to accidentally break the surface of your skin by rubbing it against something:
+ I fell on the gravel, severely grazing my knee.
+3. [transitive] to touch something lightly while passing it, sometimes damaging it:
+ A bullet grazed his arm.
+4. [intransitive] informal to eat small amounts of food all through the day instead of having regular meals
+II. graze2 BrE  AmE  noun [countable]
+a wound caused by rubbing that slightly breaks the surface of your skin:
+ Adam walked away from the crash with just a graze on his left shoulder.
+THESAURUS
+▪ injury damage to part of your body caused by an accident or an attack: The passengers were taken to hospital with minor injuries.
+▪ wound an injury, especially a deep cut in your skin made by a knife, bullet, or bomb: He died of a gunshot wound to the head.
+▪ cut a small injury made when a sharp object cuts your skin: Blood was running from a cut on his chin.
+▪ bruise a dark mark on your skin that you get when you fall or get hit: Jack often comes home from playing rugby covered in bruises.
+▪ graze/scrape a small injury that marks your skin or breaks the surface slightly: She fell off her bike and got a few grazes on her legs and knees.
+▪ gash a long deep cut: He had a deep gash across his forehead.
+▪ bump an area of skin that is swollen because you have hit it against something: How did you get that bump on your head?
+▪ sprain an injury to your ↑ankle, ↑wrist, knee etc, caused by suddenly twisting it: It’s a slight sprain – you should rest your ankle for a week.
+▪ strain an injury to a muscle caused by stretching it or using it too much: a muscle strain in his neck
+▪ fracture a crack or broken part in a bone: a hip fracture
+
+snob
+snob /snɒb $ snɑːb/ BrE  AmE  noun [countable]
+[Date: 1800-1900; Origin: snob 'shoemaker, person of low social rank' (18-19 centuries)]
+1. someone who thinks they are better than people from a lower social class – used to show disapproval:
+ Stop being such a snob.
+ I don’t want to sound like a snob, but I thought she was vulgar.
+2. someone who thinks they are better than other people because they know more about something – used to show disapproval:
+ a bunch of intellectual snobs
+music/wine snob
+3. snob value/appeal British English something that has snob value is liked by people who think they are better than other people:
+ That kind of car has real snob appeal.
+snob
+ / snCb; snBb/ n (derog 贬) (a) person who pays too much respect to social position and wealth, or who despises people of a lower social position 势利小人: snobs who despised their working-class son-in-law 看不起女婿当工人的很势利的人. (b) person who feels he has superior tastes, knowledge, etc 自以为高雅、有学问等的人: an intellectual snob 自以为有学识的人 * a wine snob who will only drink the best wines 自命不凡非上等酒不喝的人.
+ > snobbery / 5snCbErI; `snBbErI/ n [U] (derog 贬) behaviour, language, etc characteristic of a snob 势利的行为、语言等: They considered her behaviour a shameful piece of snobbery. 他们认为她为人势利, 行为可耻.
+ snobbish adj (derog 贬) of or like a snob （似）势利的或自以为高人一等的: a snobbish contempt for the poor 蔑视穷人的势利眼 * a snobbish attitude to pop music认为流行音乐不值一听的态度. snobbishly adv. snobbishness n [U].
+ # `snob appeal (also `snob value) qualities that appeal to people's snobbishness 对势利眼或自视甚高的人有吸引力的特质: This part of the town has a lot of snob appeal. 该城的这一区很能吸引自视甚高的人. * This car sells well because of its snob value. 这种汽车很 有派头, 因此很畅销.
+ noun
+COLLOCATIONS FROM OTHER ENTRIES
+inverted snobbery
+reverse snobbery
+▪ There's a lot of reverse snobbery about opera.
+EXAMPLES FROM CORPUS
+▪ Another Bloomsbury hallmark was witty conversation and upper-class snobbery, which has made Bloomsbury reviled in some circles.
+▪ One supposes that sort of snobbery is behind us.
+▪ Polls suggest that cultural snobbery is largely confined to intellectuals.
+▪ That seemed to me to be daft, bordering on snobbery.
+▪ There was snobbery, and attitudes formed by social and educational background.
+▪ This thought now struck him as too simple and certainly unpleasant in its snobbery, and he tore it up.
+▪ Was this snobbery or some more mundane consideration of copyright?
+▪ You mean we could have just sat on the couch and watched reruns to get the same level of cultural snobbery?
+snob
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ I don't want to sound like a snob, but I found the decor vulgar.
+▪ My mother was such a snob she wouldn't let me play with the local children.
+▪ Since going to university he'd become a snob, embarrassed of his family.
+▪ They're just a bunch of snobs - you wouldn't want to be friends with them anyway.
+
+snobbery
+snob·bery [snobbery snobberies] BrE [ˈsnɒbəri]  NAmE [ˈsnɑːbəri]  noun uncountable (disapproving)
+the attitudes and behaviour of people who are ↑snobs
+• intellectual snobbery
+see also ↑inverted snobbery
+ 
+Example Bank:
+• His dismissive attitude to the rich is just inverted snobbery.
+• She faced the twin barriers of class snobbery and racial discrimination.
+• her obsession with petty social snobberies
+• his snobbery about mixing with people from other classes
+• snobbery towards electronic music
+• the elitism and social snobbery of the art world
+• He refuted accusations of intellectual snobbery.
+• She quickly ran up against snobbery and prejudice.
+• We have to overcome a degree of snobbery about diesel cars.
+
+tenable
+tenable UK  US  [ˈten.ə.bl ̩] formal adjective
+(of an opinion or position) able to be defended successfully or held for a particular period of time
+• His theory is no longer tenable in light of the recent discoveries.
+• The university fellowship is tenable for (= lasts for) three years.
+Thesaurus+: ↑Suitable and acceptable ↑Quite good, or not very good
+
+penny
+pen‧ny S1 /ˈpeni/ BrE  AmE  noun [countable]
+[Language: Old English; Origin: penning, penig]
+1.
+a) (plural pence) (abbreviation p) a small unit of money in Britain. There are 100 pence in one pound:
+ The bus fare is 80 pence.
+ a 50p piece (=coin)
+ A loaf of bread costs 70p.
+b) (plural pennies) a coin worth one penny:
+ I’ve only got a few pennies left.
+2. (plural pennies) a coin that is worth one ↑cent in the US or Canada. One hundred pennies are equal to $1.
+3. (plural pennies or pence) (written abbreviation d) a British unit of money or coin used until 1971. There were 12 pennies in one ↑shilling
+twopence/threepence etc
+ a book costing only sixpence
+fourpenny/sixpenny etc
+ a fourpenny cigar
+ a threepenny bit (=coin)
+4. not a penny used to emphasize that someone has no money or that something did not cost any money:
+ I haven’t got a penny on me.
+ It didn’t cost me a penny.
+ He died without a penny to his name.
+5. every penny all of an amount of money:
+ The hotel was expensive but it was worth every penny.
+every penny of
+ He was determined to go to Australia even if it took every penny of his savings.
+6. every penny counts used to say that money is needed and even a small amount is important:
+ Every penny counts in the battle to save the rain forests.
+7. the/your last penny the only money that is left:
+ She’s down to her last penny.
+8. a penny for your thoughts/a penny for them spoken used to ask someone who is silent what they are thinking about
+9. in for a penny, in for a pound spoken used to say that because you are already involved in something, you will complete it whatever time, money, or effort is needed:
+ Oh well, it’s done now. In for a penny, in for a pound.
+10. the penny (has) dropped British English informal used to say that someone has finally understood something that they had not understood before
+11. be two/ten a penny British English to be very common and easy to get, or cheap – used to show disapproval:
+ Rings like these are ten a penny.
+12. turn up like a bad penny British English if someone you dislike turns up like a bad penny, they appear when they are not wanted
+⇨ ↑halfpenny, ⇨ spend a penny at ↑spend(5), ⇨ cost a pretty penny at ↑pretty2(6)
+
+lifestyle
+life‧style /ˈlaɪfstaɪl/ BrE  AmE  noun [countable]
+the way a person or group of people live, including the place they live in, the things they own, the kind of job they do, and the activities they enjoy:
+ Regular exercise is part of a healthy lifestyle.
+lavish/comfortable/simple etc lifestyle
+ They lead an extremely lavish lifestyle.
+• • •
+COLLOCATIONS
+■ adjectives
+▪ a healthy lifestyle A healthy lifestyle includes taking exercise and not smoking.
+▪ an active lifestyle (=in which you exercise) An active lifestyle has many health benefits.
+▪ a sedentary lifestyle (=in which you sit down a lot and do not exercise much) A sedentary lifestyle can cause certain health problems.
+▪ a lavish/extravagant lifestyle (=in which you buy or do expensive things) How can he afford such a lavish lifestyle?
+▪ a comfortable lifestyle (=in which you have enough money to buy things you want) He enjoyed a comfortable lifestyle in his retirement.
+▪ a simple lifestyle (=in which you do not have too many possessions or modern machines) He admired the simple lifestyle of the islanders.
+▪ an alternative lifestyle (=one that is different from most people's) Is choosing to be green really an alternative lifestyle?
+▪ a busy/hectic lifestyle Many people these days have a busy lifestyle.
+▪ a stressful lifestyle A stressful lifestyle may lead to a number of medical problems.
+
+ 
+SPEND
+10. transitive informal to spend a large amount of money, especially on things that are not really necessary
+• When I got paid I blew it all on a night out.
+Thesaurus+: ↑Paying and spending money
+
+burn a hole in somebody's pocket
+burn a hole in sb's pocket idiom
+If money is burning a hole in your pocket, you are very eager to spend it.
+
+blow it (third-person singular simple present blows it, present participle blowing it, simple past blew it, past participle blown it)
+(informal, idiomatic) to fail at something; to mess up; to make a mistake.
+I blew it and forgot to start the spaghetti, so I had plenty of sauce and no pasta.
+Good luck, and don't blow it!
+2014, Daniel Taylor, "World Cup 2014: Uruguay sink England as Suárez makes his mark," guardian.co.uk, 20 June:
+Hodgson’s team attracted a certain amount of sympathy and understanding after the Italy defeat but it was beyond them to play with the same attacking panache and, if there is to be a feat of escapology, it will need an almost implausible combination of results and handouts in the final games of Group D. More realistically, they have blown it in their first week.
+
+blow (somebody/something) off
+blow somebody/something ↔ off phrasal verb American English informal (see also ↑blow)
+1. to treat someone or something as unimportant, for example by not meeting someone or not going to an event:
+ Bud got into trouble for blowing off the meeting.
+2. blow the lid off something to make known something that was secret, especially something involving important or famous people:
+ Her book blew the lid off the Reagan years.
+3. blow sb’s head off to kill someone by shooting them in the head
+4. blow off steam American English to get rid of anger or energy by doing something SYN let off steam British English:
+ I went jogging to blow off some steam.
+ 
+ blow off (third-person singular simple present blows off, present participle blowing off, simple past blew off, past participle blown off) (someone or something)
+(intransitive, euphemistic, Britain) To pass gas; to break wind, to fart.
+(transitive) To vent, usually, to reduce pressure in a container.
+The radioactivity was released when they blew off steam from the containment vessel.
+(intransitive) To let steam escape through a passage provided for the purpose.
+The engine or steamer is blowing off.
+1961 March, "Balmore", “Driving and firing modern French steam locomotives”, in Trains Illustrated, page 146:
+The 1 in 200 climb to Survilliers was surmounted with easy competence, the constant speed being just short of 60 m.p.h., the water level (by design) just under half a glass and the steam pressure approximately 275 lb/sq in, or near the blowing-off point.
+(idiomatic) to shirk or disregard (a duty or person).
+I decided to blow off the meeting and leave early.
+We've both been blowing off Peter all day: he's really boring.
+(transitive) To forcibly disconnect something by use of a firearm or explosive device.
+Her leg was blown off by a landmine.
+
+verb ~ sth (on sb) (formal)
+to express feelings, especially anger, strongly
+• He vented his anger on the referee.
+
+ It would only take one phone call to blow his cover.
+15. blow sb’s mind spoken to make you feel very surprised and excited by something:
+ Seeing her again really blew my mind. ⇨ ↑mind-blowing
+16. blow your top/stack/cool (also blow a fuse/gasket) informal to become extremely angry quickly or suddenly:
+ One day, I just blew my top and hit him.
+17. blow the whistle on somebody informal to tell someone in authority about something wrong that someone is doing:
+ He blew the whistle on his colleagues. ⇨ ↑whistle-blower
+18. blow something (up) out of (all) proportion to make something seem much more serious or important than it is
+19. blow your own trumpet especially BrE,blow your own horn American English informal to talk a lot about your own achievements – used to show disapproval:
+ Dave spent the whole evening blowing his own trumpet.
+20. blow somebody/something out of the water to defeat someone or something that you are competing with, or to achieve much more than they do:
+ Motown had blown all the other record companies out of the water.
+21. blow hot and cold British English informal to keep changing your attitude towards someone or something
+22. blow something sky-high British English to destroy an idea, plan etc by showing that it cannot be true or effective:
+ This new information blows his theory sky-high.
+blow sb↔ away phrasal verb especially American English informal
+1. to make someone feel very surprised, especially about something they like or admire:
+ It just blows me away, the way everyone’s so friendly round here.
+2. to kill someone by shooting them with a gun
+3. to defeat someone completely, especially in a game:
+ Nancy blew away the rest of the skaters.
+blow down phrasal verb
+if the wind blows something down, or if something blows down, the wind makes it fall:
+ The garden gate has blown down.
+blow something ↔ down
+ Several trees were blown down in the night.
+blow in phrasal verb
+1. (also blow into something) informal to arrive in a place, especially suddenly:
+ Jim blew in about an hour ago.
+ Guess who’s just blown into town?
+2. if a storm or bad weather blows in, it arrives and begins to affect a particular area:
+ The first snowstorm blew in from the north.
+blow somebody/something ↔ off phrasal verb American English informal
+1. to treat someone or something as unimportant, for example by not meeting someone or not going to an event:
+ Bud got into trouble for blowing off the meeting.
+2. blow the lid off something to make known something that was secret, especially something involving important or famous people:
+ Her book blew the lid off the Reagan years.
+3. blow sb’s head off to kill someone by shooting them in the head
+4. blow off steam American English to get rid of anger or energy by doing something SYN let off steam British English:
+ I went jogging to blow off some steam.
+blow out phrasal verb
+1. if you blow a flame or a fire out, or if it blows out, it stops burning:
+ The match blew out in the wind.
+blow something ↔ out
+ Blow out all the candles.
+2. if a tyre blows out, it bursts
+3. blow itself out if a storm blows itself out, it ends
+4. blow your/sb’s brains out to kill yourself, or someone else, with a shot to the head
+5. blow somebody ↔ out American English spoken to easily defeat someone:
+ We blew them out 28–0.
+6. American English if you blow out your knee or another joint in your body, or if it blows out, you injure it badly
+7. if an oil or gas ↑well blows out, oil or gas suddenly escapes from it
+8. blow somebody ↔ out to stop having a friendship or relationship with someone
+blow over phrasal verb
+1. if the wind blows something over, or if something blows over, the wind makes it fall:
+ Our fence blew over in the storm.
+blow something ↔ over
+ The hurricane blew some palm trees over.
+2. if an argument or unpleasant situation blows over, it ends or is forgotten:
+ They weren’t speaking to each other, but I think it’s blown over now.
+3. if a storm blows over, it goes away
+blow up phrasal verb
+1. to destroy something, or to be destroyed, by an explosion:
+ The plane blew up in midair.
+blow something ↔ up
+ Rebels attempted to blow up the bridge.
+2.  blow something ↔ up to fill something with air or gas:
+ Can you blow up this balloon?
+ We’ll blow the tyres up.
+3. if a situation, argument etc blows up, it suddenly becomes important or dangerous:
+ A crisis had blown up over the peace talks.
+4. blow something ↔ up if you blow up a photograph, you make it larger SYN enlarge
+5. informal to become very angry with someone:
+ Jenny’s father blew up when she didn’t come home last night.
+blow up at
+ I was surprised at the way he blew up at Hardy.
+6. if bad weather blows up, it suddenly arrives:
+ It looks as if there’s a storm blowing up.
+7. blow up in sb’s face if something you have done or planned to do blows up in your face, it suddenly goes wrong:
+ One of his deals had just blown up in his face.
+ 
+ antelope
+antelope UK  [ˈæn.tɪ.ləʊp] US  [-t ̬ ə l.oʊp] [plural antelope] or [antelopes] noun countable [antelopes]
+a mammal like a deer with horns and long thin legs which allow it to run very fast
+• a herd of antelope
+Thesaurus+: ↑Deer and antelope
+
+hammock
+ham‧mock /ˈhæmək/ BrE  AmE  noun [countable]
+[Date: 1500-1600; Language: Spanish; Origin: hamaca, from Taino]
+a large piece of cloth that is hung between two trees or posts so that you can sleep in it
+
+baby carriage
+noun
+EXAMPLES FROM CORPUS
+▪ A baby carriage was overturned, and a heavy rain of black ash descended for a long while afterward.
+▪ A charred baby carriage still stood on the altar steps, exactly where it had been found after the massacre.
+▪ Death raced downstairs and out the front door to look in the baby carriage under the cherry tree.
+▪ Now she is walking toward him, half a block away, pushing a baby carriage.
+▪ Two women tore the nylons I was wearing - really good ones - another dragged a baby carriage across my ninety-dollar shoes.
+
+nitty-gritty
+nit‧ty-grit‧ty /ˌnɪti ˈɡrɪti/ BrE  AmE  noun informal
+[Date: 1900-2000; Origin: Probably based on gritty]
+the nitty-gritty the basic and practical facts of a subject or activity:
+ Let’s get down to the nitty-gritty and work out the costs.
+ 
+ nitty-gritty
+
+ / 9nItI 5grItI; 9nItI`^rItI/ n the nitty-gritty [sing](infml 口) the basic facts or realities of a matter 基本事实; 实情: Let's get down to (discussing) the nitty-gritty. 咱们着手探讨实际情况吧.
+ 
+ (the) bare bones
+the ˌbare ˈbones plural noun [the bare boneses] UK  US 
+the most important facts about something, which provide a structure to which more detail might be added later
+• the bare bones of the story
+• I don't need all the details - just give me the bare bones.
+Thesaurus+: ↑Information and messages
+
+big league
+ˈbig ˌleague informal noun countable usually singular [big leagues] UK  US 
+the top level of a particular sport, business or activity in which there is the greatest competition and the greatest opportunity for success
+• He is about to join the big league of Formula 1 in time for the start of the new season at the South African Grand Prix.
+• For the magazine to be successful, it will have to compete in the big league against leading weekly women's magazines.
+• We're not playing at local politics here - this is big league stuff.
+Thesaurus+: ↑Important and essential things ↑Information and messages
+
+gist
+gist /dʒɪst/ BrE  AmE  noun
+[Date: 1700-1800; Language: Anglo-French; Origin: 'it lies, it can be presented in a court of law', from Old French gesir 'to lie']
+the gist the main idea and meaning of what someone has said or written
+the gist of
+ The gist of his argument is that full employment is impossible.
+ Don’t worry about all the details as long as you get the gist (=understand the main meaning) of it.
+ 
+ ↑Information and messages
+Information and messages Thesaurus+ Level 3 (175)
+-based suffix 2 main part
+a thing noun 4 idea/event
+ABC noun 2 alphabet
+advisory noun
+aide-mémoire noun
+amenity noun 2
+ammunition noun 2
+bare bones plural noun
+base noun 5 main part
+basics plural noun 1; plural noun 2
+be-all noun
+big league noun
+biggie noun
+billing noun 2 show information
+bombshell noun 1 news
+bottom line noun 2 important fact
+building block noun 2
+bumper sticker noun
+canard noun
+card noun 6 information
+centerpiece noun
+central adjective 2 important
+centrepiece noun 1 important part
+communication noun 2
+communiqué noun
+core noun 1 important part
+credential noun 2
+crib sheet noun
+crux noun
+data noun
+data bank noun
+detail noun 1 information; noun 2 information; noun 6 information
+disinformation noun
+Don't shoot the messenger idiom
+dossier noun
+entry noun 3 information
+essential noun
+essential services plural noun
+exposé noun
+fabric noun 2 structure
+facility noun 2 building
+fact noun 4
+factoid noun
+factsheet noun
+fascia noun 2 shop
+feedback noun 1 opinion
+file noun 2 written record
+fine print noun
+flagship noun 1 best product
+flier noun 1 information
+flyer noun
+focal point noun 1 interest
+footnote noun 1
+foreground noun b
+fulcrum noun 2
+fundamentals plural noun
+gen noun
+gist noun
+glad tidings plural noun
+go up phrasal verb 3 be fixed
+gory details idiom
+grandaddy of something idiom
+guideline noun
+handout noun 1 information
+heart noun 3 centre
+heavyweight noun 2
+hot button noun
+imperative noun 2 urgent
+info noun
+information noun
+informational adjective
+ins and outs plural noun
+kernel noun 3 important part
+keynote noun
+keystone noun 2 important part
+kissagram noun
+label noun 1 sign
+lead noun 3 information
+lead the way noun 3 information
+leaflet noun
+lesson noun 2
+lifeblood noun
+linchpin noun
+liner note noun
+literature noun 2 specialist texts; noun 3 information; noun 4 information
+lowdown noun
+luggage label noun
+lynchpin noun
+mainstay noun
+material noun 2 information
+meat noun 3 interest
+memo noun
+memorandum noun 1 document; noun 3 message
+message noun 1 information
+minute noun 3 message
+minutes noun 3 message
+minutiae plural noun
+misinformation noun 2
+must noun 5 probably
+name of the game idiom
+nameplate noun
+need noun 2 must do
+news noun 1
+news to somebody idiom
+newsletter noun
+newsy adjective
+nexus noun
+nitty-gritty noun
+note noun 2 writing; noun 3 writing
+notice noun 1 information; noun 3 warning
+notification noun
+nub noun
+nucleus noun 3
+nuts and bolts idiom
+pamphlet noun
+particular noun 1 not easily satisfied
+particularity noun 2
+pivot noun 2
+placard noun
+plaque noun 1 flat object
+playbill noun
+pointer noun 2 information
+poop noun 2 information
+postscript noun 2
+precondition noun
+prerequisite noun
+priority noun
+programme noun 2 thin book
+proof noun 1 showing truth
+propaganda noun
+prospectus noun
+raw adjective 3 not processed
+read-out noun
+real deal noun 2
+record noun 1 stored information; noun 2 stored information
+release noun 5 making public
+report noun 2 description
+requisite noun
+rudiments plural noun
+scuttlebutt noun
+sheet noun 3
+sidelight noun 2 information
+sign noun 1 notice
+sine qua non noun
+sleeve notes plural noun
+snippet noun
+specifics plural noun
+sticker noun
+stuff noun 2 substance; noun 3 quality
+subtlety noun 2
+supply noun a
+tag noun 1 small part
+telegram noun
+thing noun 4 idea/event
+thing or two idiom
+tidings plural noun
+tip noun 1 information
+tip-off noun
+titbit noun
+trivia plural noun
+word noun 3 talking; noun 6 news
+word gets about idiom
+word is idiom
+You can't make bricks without straw idiom
+
+giraffe
+gir·affe [giraffe giraffes] BrE [dʒəˈrɑːf]  NAmE [dʒəˈræf]  noun (pl. gir·affe or gir·affes)
+a tall African animal with a very long neck, long legs, and dark marks on its coat
+>>>>>>> 994f4a70d5cc593d52161219458a40d7ddab12b2
