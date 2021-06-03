@@ -7087,6 +7087,134 @@ GOOD: We're planning to emigrate to the United States next year.
 The verb immigrate (= enter a foreign country and make your home there) is seldom used. Instead people tend to use immigrant and immigration (nouns): 'When jobs became scarce, the number of new immigrants suddenly decreased.' 'Immigration has decreased in recent years.'
 emigrate = leave your own country and make your home in another one: 'His parents emigrated from Scotland to Canada in 1933.'
 
+<<<<<<< HEAD
+take off
+take off phrasal verb [took off taken off taken off takes off taking off]
+ 
+FLY
+1. <I > If an aircraft, bird or insect takes off, it leaves the ground and begins to fly
+• The plane took off at 8.30 a.m.
+See also take-off
+Thesaurus+: ↑Departing
+• The plane took off three hours late.
+• When should we expect to take off?
+SUCCEED
+2. <A > to suddenly start to be successful or popular
+• Her singing career had just begun to take off.
+Thesaurus+: ↑Succeeding, achieving and fulfilling
+• With all that publicity, the business really took off.
+• His career really took off after that concert.
+LEAVE
+3. informal to suddenly leave somewhere, usually without telling anyone that you are going
+• When he saw me, he took off in the other direction.
+Thesaurus+: ↑Departing
+Main entry: takephrasal verb
+
+bog off
+bog off phrasal verb UK slang [bogging off bogged off bogged off bogged off bogs off]
+to go away
+• Bog off and leave me alone.
+Thesaurus+: ↑Departing ↑Phrases telling people to go away
+Main entry: bogphrasal verb
+
+go down
+go down phrasal verb (see also ↑go)
+1. GET LOWER to become lower in level, amount etc:
+ His income went down last year.
+ Computers have gone down in price.
+go down by 10%/250/$900 etc
+ Spending has gone down by 2%.
+2. STANDARD if something goes down, its quality or standard gets worse:
+ This neighbourhood has really gone down in the last few years.
+3. go down well/badly/a treat etc
+a) to get a particular reaction from someone:
+ His suggestion did not go down very well.
+ The movie went down very well in America.
+ The speech went down a treat with members (=members liked it very much).
+ The idea went down like a lead balloon (=was not popular or successful).
+b) if food or drink goes down well, you enjoy it:
+ I’m not that hungry so a salad would go down nicely.
+4. GO FROM ONE PLACE TO ANOTHER to go from one place to another, especially to a place that is further south
+go down to
+ We’re going down to Bournemouth for the weekend.
+ He’s gone down to the store to get some milk.
+5. go down the shops/club/park etc British English spoken informal to go to the shops, a club etc:
+ Does anyone want to go down the pub tonight?
+6. SHIP if a ship goes down, it sinks:
+ Ten men died when the ship went down.
+7. PLANE if a plane goes down, it suddenly falls to the ground:
+ An emergency call was received shortly before the plane went down.
+8. BECOME LESS SWOLLEN to become less swollen:
+ The swelling will go down if you rest your foot.
+9. LOSE AIR if something that is filled with air goes down, air comes out and it becomes smaller and softer:
+ Your tyre’s gone down.
+10. BE REMEMBERED [always + adverb/preposition] to be recorded or remembered in a particular way
+go down as
+ The talks went down as a landmark in the peace process.
+ The carnival will go down in history (=be remembered for many years) as one of the best ever.
+11. COMPETITION/SPORT
+a) to lose a game, competition, or election:
+ The Hawkers went down 5–9.
+go down by
+ The government went down by 71 votes.
+go down to
+ Liverpool went down to Juventus.
+b) to move down to a lower position in an official list of teams or players
+go down to
+ United went down to the second division.
+12. COMPUTER if a computer goes down, it stops working for a short time:
+ If one of the file servers goes down, you lose the whole network.
+13. LIGHTS if lights go down, they become less bright:
+ The lights went down and the curtain rose on an empty stage.
+14. SUN when the sun goes down, it appears to move down until you cannot see it any more
+15. WIND if the wind goes down, it becomes less strong:
+ The wind had gone down but the night had turned chilly.
+16. PRISON informal to be sent to prison:
+ He went down for five years.
+17. HAPPEN spoken informal to happen:
+ the type of guy who knows what’s going down
+ What’s going down?
+18. LEAVE UNIVERSITY British English formal old-fashioned to leave Oxford or Cambridge University at the end of a period of study
+
+get off
+get off phrasal verb (see also ↑get)
+1. LEAVE to leave a place, or to help someone to leave a place:
+ We’ll try and get off straight after lunch.
+get off something
+ Get off my land!
+get somebody off
+ I’ll phone you as soon as I’ve got the children off to school.
+2. FINISH WORK get off (something) to finish work and leave the place where you work at the end of the day:
+ I usually get off at six o'clock.
+ What time do you get off work?
+3. SEND SOMETHING get something off to send a letter or package by post:
+ I’ll have to get this letter off by tonight.
+get something off to
+ I’ll get the forms off to you today.
+4. CLOTHING get something off to remove a piece of clothing:
+ Why don’t you get those wet clothes off?
+5. NOT BE PUNISHED if someone gets off, they are not punished for doing something wrong, or they receive only a small punishment:
+ In the end he got off because there wasn’t enough evidence against him.
+ The police felt he had got off very lightly.
+get off with
+ If you’re lucky, you’ll get off with a fine.
+6. HELP SOMEBODY NOT BE PUNISHED get somebody off to help someone avoid being punished for a crime:
+ Her lawyers were confident that they could get her off.
+7. SLEEP get (somebody) off to go to sleep, or to help a child go to sleep:
+ I went to bed but couldn’t get off to sleep.
+ It took us ages to get the baby off.
+8. get off to a good/bad etc start to start in a particular way:
+ The day had got off to a bad start.
+9. STOP TALKING ABOUT SOMETHING get off something to stop talking about a subject:
+ Can we get off the subject of death, please?
+10. STOP TOUCHING SOMETHING get off (something/somebody) informal used to tell someone to stop touching something or someone:
+ Get off me!
+ Get off those cakes, or there’ll be trouble.
+ Get off (=stop touching me)!
+11. tell somebody where to get off informal to tell someone that they are asking you for too much or are behaving in a way you will not accept:
+ He wanted £50, but I told him where to get off.
+12. get off your butt/ass American English spoken not polite used to tell someone that they should stop being lazy and start doing something useful
+=======
 attribute
 I. at‧tri‧bute1 AC /əˈtrɪbjuːt $ -bjət/ BrE  AmE  verb
 [Date: 1300-1400; Language: Latin; Origin: past participle of attribuere, from ad- 'to' + tribuere; ⇨ ↑tribute]
@@ -7193,6 +7321,7 @@ II. rave2 BrE  AmE  noun [countable]
  rave parties ⇨ ↑raver
 2. strong praise for a new play, book etc:
  The play got raves from the critics.
+<<<<<<< HEAD
  
  scrimp
 scrimp UK  US  [skrɪmp] verb intransitive [scrimps scrimping scrimped]
@@ -7203,3 +7332,6 @@ Thesaurus+: ↑Saving and savings accounts ↑Budgeting and saving money
 If you scrimp and save, you manage to live on very little money in order to pay for something.
 • I've been scrimping and saving all year to pay for our holiday.
 Thesaurus+: ↑Saving and savings accounts ↑Budgeting and saving money
+=======
+>>>>>>> 994f4a70d5cc593d52161219458a40d7ddab12b2
+>>>>>>> 072a6bdb481e0777c5e1ef9cf15bc4bc8a50ef65

@@ -10483,6 +10483,91 @@ ranger
 ranger UK  [ˈreɪn.dʒə r ] US  [-dʒɚ] noun countable [rangers]
 a person whose job is to protect a forest or natural park
 • a forest ranger
+<<<<<<< HEAD
+>>>>>>> 0d04389d503c2ba3cbb83b900d6c6784e5678df0
+
+pin-up
+pin-up UK  US  [ˈpɪn.ʌp] noun countable
+1. a picture of a sexually attractive and usually famous person, especially someone wearing few clothes
+• Every wall in her bedroom was covered with pin-ups of her favourite pop star.
+Thesaurus+: ↑Photography
+2. informal a person who is seen in pin-ups
+• With his perfect college-boy looks, he's the latest teenage pin-up.
+Thesaurus+: ↑Sexually attractive people
+
+civil
+civil UK  US  [ˈsɪv. ə l] adjective
+ 
+ORDINARY
+1. <A > before noun not military or religious, or relating to the ordinary people of a country
+• Helicopters are mainly used for military rather than civil use.
+• After ten years of military dictatorship, the country now has a civil government.
+• We weren't married in church, but we had a civil ceremony in a registry office.
+Thesaurus+: ↑Ordinary people
+ 
+• He brought civil proceedings against the police for false imprisonment.
+• Twenty years of civil strife have left the country's economy in ruins.
+• He pursued his claim through the civil courts.
+• They married in a civil ceremony.
+• The equipment was all for civil use.
+ 
+LAW
+UK 
+2. before noun legal relating to private arguments between people or organizations rather than criminal matters
+• The matter would be better dealt with in the civil court rather than by an expensive criminal proceeding.
+Thesaurus+: ↑Rules and laws
+ 
+POLITE
+3. polite and formal
+• His manner was civil, though not particularly friendly.
+Thesaurus+: ↑Polite and respectful
+Idioms: Keep a civil tongue in your head! ▪ not have a civil word to say about somebody
+
+civil
+
+ / 5sIvl; `sIvl/ adj 
+ of or relating to the citizens of a country 公民的; 民间的; 国内的: civil disorder, eg rioting 民间的动乱 * civil strife, eg fighting between different political or religious groups within a country 内乱. 
+ of or relating to ordinary citizens rather than the armed forces or the Church 普通公民的（非军队的或教会的）; 文职的; 文官的: civil government 文官政府. 
+ polite and helpful 礼貌的; 助人的; 文明的: How very civil of you! 你多么彬彬有礼呀! * Keep a civil tongue in your head! ie Don't speak rudely! 说话要文明有礼! 
+ involving civil law rather than criminal law 民法的（非刑法的）: civil cases 民事案件 * a civil court 民事诉讼法庭. Cf 参看 criminal 2 (crime).
+
+ > civility / sI5vIlEtI; sE`vIlEtI/ n [C, U] (fml 文) (act of) politeness 礼貌; 客气: You should show more civility to your host. 你是客人, 应该对主人有礼貌.
+ civilly / 5sIvElI; `sIvlI/ adv politely 有礼貌地.
+
+ # ,civil de`fence organizing of civilians to protect people and property during air raids or other enemy attacks in wartime 民防.
+ ,civil diso`bedience refusal to obey certain laws, pay taxes, etc, as a peaceful means of (esp political) protest （人民针对政府的）非暴力反抗: a campaign of civil disobedience 非暴力反抗运动.
+ ,civil engi`neering design and building of roads, railways, bridges, canals, etc 土木工程. ,civil engi`neer 土木工程师.
+ ,civil `law law dealing with the private rights of citizens, rather than with crime 民法.
+ ,civil `liberty individual's freedom of action, limited only by laws designed to protect the community 公民自由.
+ `civil list (Brit) allowance of money made by Parliament for the household expenses of the Royal Family 王室年俸.
+ ,civil `marriage marriage which does not involve a religious ceremony but is recognized by law 公证结婚（未经宗教仪式但为法律承认的婚姻）.
+ ,civil `rights rights of each citizen to freedom and equality (eg in voting and employment) regardless of sex, race or religion 公民权. ,civil `rights movement organized movement aiming to establish full civil rights for a particular group of citizens, eg for Blacks in the USA 民权运动.
+ ,civil `servant person employed by the Civil Service （政府中的）公务员, 文职人员, 文官.
+ the ,Civil `Service (a) [sing] all government departments other than the armed forces （政府中的）文职部门, 行政机关: She works in the Civil Service, eg in the Home Office. 她在政府行政机关中工作（如在内政部）. (b) [Gp] all the people employed in these （政府文职部门中的）全体公务员: The Civil Service is/are threatening to strike. 政府行政部门的全体公务员威胁要举行罢工.
+ ,civil `war war between groups of citizens of the same country 内战: the Spanish Civil War 西班牙内战.
+ 
+ culprit
+culprit UK  US  [ˈkʌl.prɪt] noun countable [culprits]
+1. someone who has done something wrong
+• Police hope the public will help them to find the culprits.
+Thesaurus+: ↑Criminals - general words
+2. a fact or situation that is the reason for something bad happening
+• Children in this country are getting much too fat, and sugar and sweets are the main culprits.
+Thesaurus+: ↑Reasons and explanations
+
+demeanor
+demeanour UK , US demeanor UK  [dɪˈmiː.nə r ] US  [-nɚ] noun uncountable formal
+a way of looking and behaving
+• There was nothing in his demeanour that suggested he was anxious.
+• She has the demeanour of a woman who is contented with her life.
+Thesaurus+: ↑Behaving, interacting and behaviour
+
+goose pimples
+ˈgoose pimples [goose pimples] BrE   NAmE   noun plural (also less frequent goose·flesh uncountable) (both especially BrE) (also goose·bumps especially in NAmE)
+a condition in which there are raised spots on your skin because you feel cold, frightened or excited
+• It gave me goose pimples just to think about it.
+See also: ↑goosebumps
+=======
 
 Holiday
 Hol‧i‧day, Bil‧lie /ˈhɒlədeɪ, ˈhɒlɪdeɪ $ ˈhɑː-, ˈbɪli/ BrE  AmE 
@@ -11274,6 +11359,7 @@ You can't make bricks without straw idiom
 giraffe
 gir·affe [giraffe giraffes] BrE [dʒəˈrɑːf]  NAmE [dʒəˈræf]  noun (pl. gir·affe or gir·affes)
 a tall African animal with a very long neck, long legs, and dark marks on its coat
+<<<<<<< HEAD
 
 posture
 I. pos‧ture /ˈpɒstʃə $ ˈpɑːstʃər/ BrE  AmE  noun
@@ -11287,3 +11373,6 @@ posture towards
  He tends to adopt a defensive posture towards new ideas.
 II.
 See main entry: ↑posturing
+=======
+>>>>>>> 994f4a70d5cc593d52161219458a40d7ddab12b2
+>>>>>>> 072a6bdb481e0777c5e1ef9cf15bc4bc8a50ef65
