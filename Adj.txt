@@ -56,10 +56,8 @@ pro·lif·ic BrE [prəˈlɪfɪk]  NAmE [prəˈlɪfɪk]  adjective
 4. existing in large numbers
 • a pop star with a prolific following of teenage fans
 Derived Word: ↑prolifically
- 
 Word Origin:
 [prolific prolifically] mid 17th cent.: from medieval Latin prolificus, from Latin proles ‘offspring’.
- 
 Example Bank:
 • The kiwi fruit is known for its prolific yield and good export price.
 • a prolific author/writer/composer
@@ -75,10 +73,8 @@ sensible and careful when you make judgements and decisions; avoiding unnecessar
 • It might be more prudent to get a second opinion before going ahead.
 Opp: ↑imprudent
 Derived Words: ↑prudence ▪ ↑prudently
- 
 Word Origin:
 [prudence prudent prudently] late Middle English: from Old French, or from Latin prudent-, contraction of provident- ‘foreseeing, attending to’, from the verb providere ‘foresee, attend to’, from pro- ‘before’ + videre ‘to see’.
- 
 Synonyms:
 care
 caution • prudence
@@ -91,7 +87,6 @@ to do sth with care/caution/prudence
 great/extreme care/caution/prudence
 to use/exercise care/caution/prudence
 to proceed with care/caution
- 
 Example Bank:
 • We thought it prudent to telephone first.
 • He had borrowed a little more than was prudent.
@@ -132,7 +127,6 @@ damaging [damaging] BrE [ˈdæmɪdʒɪŋ]  NAmE [ˈdæmɪdʒɪŋ]  adjective
 causing damage; having a bad effect on sb/sth
 • damaging consequences/effects
 • ~ to sb/sth Lead is potentially damaging to children's health.
- 
 Example Bank:
 • Smoking is damaging to health.
 • These new measures will do nothing to raise school standards: they may be positively damaging.
@@ -141,7 +135,6 @@ Example Bank:
 • Halon gas is far more damaging to the ozone layer than CFCs.
 • Lead is potentially damaging to children's health.
 • This was one of the most damaging allegations made against him.
-
 
 dwindling
 See main entry: ↑dwindle
@@ -245,7 +238,6 @@ nocturnal
  > nocturnally adv.
  
  fatigue
-
  / fE5ti:g; fE`ti^/ n 
  [U] great tiredness, usu resulting from hard work or exercise ; ; : We were all suffering from fatigue at the end of our journey. . 
  [U] weakness in metals, etc caused by repeated stress （）: The aeroplane wing showed signs of metal fatigue. . 
@@ -1405,10 +1397,8 @@ Syn: ↑beside yourself
 • Let's go back. Your parents must be getting frantic by now.
 • The children are driving me frantic (= making me very annoyed).
 Derived Word: ↑frantically
- 
 Word Origin:
 [frantic frantically] late Middle English frentik, ‘insane, violently mad’, from Old French frenetique, via Latin from Greek phrenitikos, from phrenitis ‘delirium’, from phrēn ‘mind’.
- 
 Example Bank:
 • He was quite frantic by the time we got home.
 • The children have been driving me frantic all day!
@@ -1423,19 +1413,16 @@ Example Bank:
 
 fondly
 fondly UK  [ˈfɒnd.li] US  [ˈfɑːnd-] adverb
- 
 LIKING
 1. in a way that shows love or great liking
 • He smiled fondly at the children.
 Thesaurus+: ↑Loving and in love
- 
 HOPING
 2. hoping that something will be true when it probably will not
 • She fondly believed that he might come.
 Thesaurus+: ↑Stupid and silly ↑Of unsound mind
 fond
 fond UK  [fɒnd] US  [fɑːnd] adjective [fonder fondest]
- 
 LIKING
 1. <A > before noun having a great liking for someone or something
 • She was very fond of horses.
@@ -1517,7 +1504,6 @@ THESAURUS
 ▪ delicate needing to be dealt with carefully or sensitively, especially in order to avoid offending people or causing problems: This is a very delicate subject, and it can be difficult to talk about it with your parents. | He thanked me for the way in which this delicate matter had been handled.
 
 inorganic
-
  / 9InR:5gAnIk; 9InRr`^AnIk/ adj 
  not composed of living substances ; : Rocks and minerals are inorganic. . 
  (fig ) not the result of natural growth; artificial ; : an inorganic form of society . Cf  organic 2.
@@ -1541,7 +1527,6 @@ inorganic
  
  dense
 dense UK  US  [den t s] adjective [denser densest]
- 
 THICK
 1. <A > thick; close together; difficult to go or see through
 • dense fog
@@ -1644,8 +1629,6 @@ build/develop a (50-megawatt/offshore) wind farm
 install/be fitted with/be powered by solar panels
 Example Bank:
 • Most plastics are not readily biodegradable.
-<<<<<<< HEAD
->>>>>>> 09bd2db153b6a2f47c0696fa4998f542143967c0
 
 From CALD3 - Paracel & Spratly Islands - Van Lang - Viet Nam
 culpable
@@ -1654,11 +1637,8 @@ deserving to be blamed or considered responsible for something bad
 • He was held culpable (= blamed) for all that had happened.
 Thesaurus+: ↑Guilty
 Derived: culpability ▪ culpably
-=======
-<<<<<<< HEAD
 
 petrify
-
  / 5petrIfaI; `pZtrE9faI/ v (pt, pp -fied) 
  [esp passive : Tn, Tn.pr] ~ sb (with sth) make sb unable to think, move, act, etc because of fear, surprise, etc : The idea of making a speech in public petrified him. , . * I was absolutely petrified (with fear). . 
  [I, Tn] (cause sth to) change into stone （）.
@@ -1674,7 +1654,6 @@ petrified with fright/fear
  He was petrified with fear when he saw the gun.
 2. petrified wood/trees etc wood, trees etc that have changed into stone over a long period of time
 —petrify verb [transitive]
-• • •
 THESAURUS
 ■ very frightened
 ▪ terrified very frightened: He looked terrified as the plane took off. | James was absolutely terrified of losing his only child. | He dragged the terrified woman into his car.
@@ -2062,7 +2041,6 @@ THESAURUS
 ▪ illicit illicit activities or goods are illegal and usually kept secret: Marijuana remains the most commonly used illicit drug in the United States. | the illicit trade in stolen cattle
 ▪ illegitimate not allowed or acceptable according to rules or agreements: the illegitimate use of power | The election results were declared to be illegitimate. | illegitimate share trading
 ▪ unconstitutional not allowed by a country’s ↑constitution (=set of rules and principles by which a country is governed): The court ruled that the new law was unconstitutional.
-
 
 eccentric
  / Ik5sentrIk; Ik`sZntrIk/ adj 
@@ -5970,7 +5948,6 @@ civ‧ic /ˈsɪvɪk/ BrE  AmE  adjective [only before noun]
 2. relating to the people who live in a town or city:
  It is your civic duty to vote in the local elections.
  civic pride (=people’s pride in their own city)
-<<<<<<< HEAD
 
 tipsy
 tipsy UK  US  [ˈtɪp.si] informal adjective [tipsier tipsiest]
@@ -6024,7 +6001,6 @@ See also: ↑nearsighted ▪ ↑short-sightedness
  
 Example Bank:
 • an attitude which is likely to prove short-sighted
-=======
  
  culinary
 culinary UK  [ˈkʌl.ɪ.n ə r.i] US  [ˈkʌl.ə.ner-] slightly formal adjective
@@ -6138,6 +6114,7 @@ EXAMPLES FROM CORPUS
 ▪ Skyservice is a small but well-established Toronto-based charter carrier that announced in June it wants to start an upscale airline.
 ▪ There is no Metro stop in the upscale neighborhood.
 
+<<<<<<< HEAD
 antelope
 antelope UK  [ˈæn.tɪ.ləʊp] US  [-t ̬ ə l.oʊp] [plural antelope] or [antelopes] noun countable [antelopes]
 a mammal like a deer with horns and long thin legs which allow it to run very fast
@@ -6178,3 +6155,37 @@ a lesser offence (=one that is not as serious as another offence)
 ▪ For rioting you can receive ten years in prison, while for the lesser offence of violent disorder you can receive five years in prison.
 to a lesser extent (also to less extent) (= less)
 ▪ The same is true for women, though to a lesser extent.
+=======
+nitric
+ / 5naItrIk; `naItrIk/ adj of or containing nitrogen 氮的; 含氮的.
+ # nitric acid clear colourless powerful acid that corrodes and destroys most substances 硝酸.
+ 
+ . verb [I] (-tt-) ↑Verb Endings for fret
+▸ F0 to be nervous or worried:
+» Don't fret - I'm sure he's OK.
+» She spent the day fretting about/over what she'd said to Nicky.
+Thesaurus+: ↑Anxious and worried
+
+clean-cut
+—ˌclean-ˈcut UK  US  /ˌkliːnˈkʌt/
+Ⅰ. adjective (SHAPE)
+▸ F0 straight and simple:
+» I like the clean-cut shapes of classical architecture.
+Thesaurus+: ↑Straight, even and level
+Ⅱ. adjective APPROVING (MAN)
+▸ F0 describes a man who is tidy in appearance and behaves well:
+» Julie's fiancé is a nice clean-cut young man.
+Thesaurus+: ↑Smart and elegant , ↑Attractive
+
+conspicuous
+con·spicu·ous BrE [kənˈspɪkjuəs]  NAmE [kənˈspɪkjuəs]  adjective
+easy to see or notice; likely to attract attention
+• Mary's red hair always made her conspicuous at school.
+• I felt very conspicuous in my new car.
+• The advertisements were all posted in a conspicuous place.
+• The event was a conspicuous success (= a very great one).
+• Bay windows are a conspicuous feature of his architecture.
+Opp: ↑inconspicuous
+Idiom: ↑conspicuous by your absence
+Derived Words: ↑conspicuously ▪ ↑conspicuousness
+>>>>>>> b9eda48f2bb9866608a2beddf877720ff5fd5067
