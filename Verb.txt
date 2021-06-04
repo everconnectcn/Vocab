@@ -7321,8 +7321,7 @@ II. rave2 BrE  AmE  noun [countable]
  rave parties ⇨ ↑raver
 2. strong praise for a new play, book etc:
  The play got raves from the critics.
-<<<<<<< HEAD
- 
+
  scrimp
 scrimp UK  US  [skrɪmp] verb intransitive [scrimps scrimping scrimped]
 1. to save money by spending less than is necessary to reach an acceptable standard
@@ -7332,6 +7331,33 @@ Thesaurus+: ↑Saving and savings accounts ↑Budgeting and saving money
 If you scrimp and save, you manage to live on very little money in order to pay for something.
 • I've been scrimping and saving all year to pay for our holiday.
 Thesaurus+: ↑Saving and savings accounts ↑Budgeting and saving money
-=======
->>>>>>> 994f4a70d5cc593d52161219458a40d7ddab12b2
->>>>>>> 072a6bdb481e0777c5e1ef9cf15bc4bc8a50ef65
+
+2. to want to do or have something very much
+ache for
+ I’m aching for sleep.
+ache to do something
+ He ached to reach out and hold her close.
+3. to have a strong unhappy feeling
+ache with
+ Sarah ached with sadness that her brother was so ill.
+ Tim’s heart was aching for her.
+ To desire or want something, or someone, very much.
+He ached for her as he'd never ached for any woman.
+
+
+12. get off the track spoken to begin to deal with a new subject rather than the main one which was being discussed:
+ Don’t get off the track, we’re looking at this year’s figures not last year’s.
+13. be on the track of somebody/something to hunt or search for someone or something:
+ Police are on the track of the bank robbers.
+14. make tracks spoken used to say you must leave a place:
+
+beaten
+beat‧en /ˈbiːtn/ BrE  AmE  adjective [only before noun]
+[Word Family: noun: ↑beat, ↑beating; adjective: beatable ≠ ↑unbeatable, ↑beaten ≠ ↑unbeaten; verb: ↑beat]
+1. off the beaten track/path a place that is off the beaten track is not well known and is far away from the places that people usually visit
+2. a beaten path, track etc has been made by many people walking the same way:
+ a well-beaten path through the forest
+3. a beaten person feels defeated and not respected:
+ a beaten man who had lost his job
+4. beaten metal has been shaped with a hammer to make it thinner
+ It’s time we started making tracks.
