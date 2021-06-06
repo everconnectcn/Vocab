@@ -11501,8 +11501,6 @@ Thesaurus+: ↑Groups and collections of things ↑Variety and mixtures ↑Patte
 kaleidoscope
  / kE5laIdEskEUp; kE`laIdE9skop/ n (a) toy consisting of a tube containing small loose pieces of coloured glass, etc and mirrors which reflect these to form changing patterns when the tube is turned 万花筒. (b) (usu sing 通常作单数) (fig 比喻) constantly and quickly changing pattern 千变万化; 瞬息万变: His paintings are a kaleidoscope of gorgeous colours. 他的油画色彩斑斓, 变化万千. * The bazaar was a kaleidoscope of strange sights and impressions. 集市的景象光怪陆离, 纷然杂陈.
  > kaleidoscopic / kE9laIdE5skCpIk; kE9laIdE`skBpIk/ adj. kaleidoscopically / -klI; -klI/ adv.
-=======
-<<<<<<< HEAD
 
 posture
 I. pos‧ture /ˈpɒstʃə $ ˈpɑːstʃər/ BrE  AmE  noun
@@ -11585,4 +11583,83 @@ the stars shine/sparkle/glitter/twinkle
 sb's eyes shine/gleam/glow/sparkle/glisten/glitter/twinkle/glint
 to shine/gleam/glow/glitter brightly
 to shine/gleam/glow/shimmer softly
->>>>>>> b9eda48f2bb9866608a2beddf877720ff5fd5067
+
+saggy
+saggy f11 [saggy saggier saggiest] BrE [ˈsæɡi]  NAmE [ˈsæɡi]  adjective (sag·gier, sag·gi·est)(informal)
+no longer firm; hanging or sinking down in way that is not attractive
+• a saggy mattress
+• These exercises are designed to firm up saggy bottoms.
+
+revel in something phrasal verb
+to enjoy something very much:
+ He revelled in his new-found fame.
+ 
+ memorabilia
+memorabilia UK  US  [ˌmem. ə r.əˈbɪl.i.ə] plural noun [memorabilias]
+objects that are collected because they are connected with a person or event which is thought to be very interesting
+• an auction of pop memorabilia
+• Elvis memorabilia
+Thesaurus+: ↑Remembering, reminding and reminders
+A souvenir (from French, meaning "a remembrance or memory"),[1] memento, keepsake, or token of remembrance[1] is an object a person acquires for the memories the owner associates with it. A souvenir can be any object that can be collected or purchased and transported home by the traveler as a memento of a visit. The object itself may have intrinsic value, or be a symbol of experience. Without the owner's input, the symbolic meaning is invisible and cannot be articulated.[2]
+
+constituent
+▪ I. constituent UK  US  [kənˈstɪt.ju.ənt] noun countable [constituents]
+ 
+PART
+1. one of the parts that a substance or combination is made of
+• What are the basic constituents of the mixture?
+Thesaurus+: ↑Words meaning parts of things
+ 
+PERSON
+2. a voter (= person who can vote) in a particular area of the country
+• The senator worked hard, always talking to his constituents and hearing their problems.
+Thesaurus+: ↑Voters and Candidates in elections
+ 
+▪ II.
+constituent UK  US  adjective before noun
+• Let's look at the constituent parts of this sentence.
+Thesaurus+: ↑Comprising and consisting of ↑Including and containing
+Main entry: constituentderived
+
+bingo
+bingo UK  [ˈbɪŋ.gəʊ] US  [-goʊ] noun uncountable
+a game in which prizes can be won by matching numbers on a card with those chosen by chance
+Thesaurus+: ↑Miscellaneous games and activities ↑Gambling and bookmaking ↑Taking risks
+exclamation informal
+an expression of surprise and, usually, pleasure
+• I was just about to borrow some money when bingo! - the cheque arrived.
+Thesaurus+: ↑Expressions of surprise
+
+arboretum
+ar·bor·etum [arboretum arboreta arboretums] BrE [ˌɑːbəˈriːtəm]  NAmE [ˌɑːrbəˈriːtəm]  noun (pl. ar·bor·etums or ar·bor·eta BrE [ˌɑːbəˈriːtə] ; NAmE [ˌɑːrbəˈriːtə] )
+a garden where many different types of tree are grown, for people to look at or for scientific study
+ 
+Word Origin:
+early 19th cent.: from Latin, a place with trees, from arbor ‘tree’.
+
+yesteryear
+yes‧ter‧year /ˈjestəjɪə, -jɜː $ ˈjestərjɪr/ BrE  AmE  noun
+[Date: 1800-1900; Origin: yesterday + year]
+of yesteryear literary existing in the past:
+ the steam trains of yesteryear
+ 
+ femme fatale
+femme fatale UK  US  [ˌfæm.fəˈtɑːl] noun countable [plural femmes fatales] [femme fatales]
+a woman who is very attractive in a mysterious way, usually leading people into danger or causing their destruction
+Thesaurus+: ↑Sexually attractive people
+
+dealbreaker
+deal‧break‧er BrE  AmE , deal breaker /ˈdiːlˌbreɪkə $ -ər/ noun [countable] informal
+something that makes you decide that you do not want a product, relationship, job etc, because you cannot accept that part of it:
+ The benefits package became a dealbreaker in the negotiations.
+ 
+ custodian
+custodian UK  [kʌsˈtəʊ.di.ən] US  [-ˈtoʊ-] noun countable [custodians]
+1. formal a person with responsibility for protecting or taking care of something or keeping something in good condition
+• the custodian of a museum/castle
+Thesaurus+: ↑Protection and protectors ↑Environmental issues
+2. formal someone who tries to protect particular ideas or principles
+• She sees herself as a custodian of the public's morals.
+Thesaurus+: ↑Supporters, members and defenders ↑Believers and non-believers
+3. US for caretaker
+Thesaurus+: ↑Protection and protectors ↑Environmental issues
