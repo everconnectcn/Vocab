@@ -11584,6 +11584,25 @@ sb's eyes shine/gleam/glow/sparkle/glisten/glitter/twinkle/glint
 to shine/gleam/glow/glitter brightly
 to shine/gleam/glow/shimmer softly
 
+<<<<<<< HEAD
+outage
+outage UK  US  /ˈaʊ.tɪdʒ/ aep /-t̬ɪdʒ/ noun [C] US
+▸ F0 a period when a service, such as electricity, is not available:
+» The radio news reported power outages affecting 50 homes.
+Thesaurus+: ↑Not functioning
+
+flirtation
+—flirtation UK  US  /flɜːˈteɪ.ʃən/ aep /flɝː-/
+Ⅰ. noun [C or U] (SEXUAL ATTRACTION)
+▸ F0 a situation in which someone behaves as if they are sexually attracted to another person, without being seriously interested:
+» It was a harmless flirtation and nothing more.
+Thesaurus+: ↑Sexual attraction , ↑Attractive
+Thesaurus+: ↑Sexual activity in general , ↑Physical and sexual assault and abduction
+Ⅱ. noun [S] (INTEREST)
+▸ F0 a short period of being interested in something or doing something:
+» a brief flirtation with Communism
+Thesaurus+: ↑Excitement, interest, energy and enthusiasm
+=======
 saggy
 saggy f11 [saggy saggier saggiest] BrE [ˈsæɡi]  NAmE [ˈsæɡi]  adjective (sag·gier, sag·gi·est)(informal)
 no longer firm; hanging or sinking down in way that is not attractive
@@ -11663,3 +11682,73 @@ Thesaurus+: ↑Protection and protectors ↑Environmental issues
 Thesaurus+: ↑Supporters, members and defenders ↑Believers and non-believers
 3. US for caretaker
 Thesaurus+: ↑Protection and protectors ↑Environmental issues
+
+shack
+I. shack1 /ʃæk/ BrE  AmE  noun [countable]
+[Date: 1800-1900; Origin: Perhaps from shackly 'likely to fall down' (19-20 centuries), or from Mexican Spanish jacal 'small building', from Nahuatl xacalli]
+a small building that has not been built very well:
+ a tin shack
+II. shack2 BrE  AmE  verb
+shack up phrasal verb informal
+to start living with someone who you have sex with but are not married to – used to show disapproval
+shack up with
+ She had shacked up with some guy from Florida.
+be shacked up
+ Is she shacked up with anyone?
+ 
+ havoc
+hav‧oc /ˈhævək/ BrE  AmE  noun [uncountable]
+[Date: 1400-1500; Language: Anglo-French; Origin: Old French havot 'destruction, disorder']
+a situation in which there is a lot of damage or a lack of order, especially so that it is difficult for something to continue in the normal way SYN chaos
+cause/create havoc
+ A strike will cause havoc for commuters.
+ policies that would wreak havoc on the country’s economy
+ Rain has continued to play havoc with sporting events.
+ ▪ Seeing him wreak such havoc among a supposedly invincible foe, the Elves within the shrine were heartened.
+PHRASES FROM OTHER ENTRIES
+wreak havoc/mayhem/destruction (on sth)
+▪ And they wreak havoc with the goal of raising revenue efficiently.
+▪ But we all know that a moment's overload, may wreak havoc.
+▪ Did they hire a private eye to wreak havoc on the life of the harasser?
+▪ Since elk can also wreak havoc in cropland and forestry plantations, a record 70,000 animals are being culled this hunting season.
+▪ The goat, being a goat, wreaks havoc, and the tenant grows desperate.
+▪ The storm wreaked havoc on trains and highways, making it unlikely thousands of investors and traders will arrive at work.
+▪ This is a critical feature on such an instrument, as a badly cut nut here would wreak havoc on playability.
+▪ Unassimilated, they might one day wreak havoc in her life.
+
+amenity
+noun
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+basic
+▪ In many developing societies the lack of basic amenities, such as clean water and proper sanitation, produces an inherently unsafe environment.
+▪ The conditions are very poor and overcrowded, as there is a total lack of the most basic amenities.
+▪ An innovative renewal programme gave the urban poor legal protection, provided basic amenities and encouraged self-help work.
+▪ Far fewer houses for example lack basic amenities.
+▪ Heating is regarded as a basic amenity.
+local
+▪ The sheltered housing is close to local amenities to allow residents easy access to shops and other facilities.
+▪ Dark environments overcome by imported religious signs and local domestic amenities.
+▪ After the scheduled 1995 opening of the Newton Cap scheme, the picturesque valley around it will become a great local amenity.
+▪ It has been recently renovated, beautifully redecorated and is close to all the local amenities.
+▪ This means that nobody is around to use the local amenities including shops, taxi services, libraries and the like.
+▪ At the same time it gave encouragement to local amenity groups to press for improvements.
+▪ The courses provide a detailed insight into the culture of the country as well as local amenities and business practices.
+modern
+▪ Nottingham is an ancient city with a Norman castle and an excellent variety of shops, theatre and other modern amenities.
+▪ The houses gave some of the poorer residents their first taste of modern domestic amenities.
+▪ A hotel as famous for its colonial traditions and gracious lifestyle as for its modern amenities.
+▪ It combines the delightful atmosphere of an Oxford market square with every modern amenity for comfortable and practical living today.
+▪ The hotel is proud to boast a highly professional team of staff and is well-equipped with all modern amenities.
+▪ It retains much of its old-world charms but a newer half of town offers all modern amenities.
+other
+▪ Nottingham is an ancient city with a Norman castle and an excellent variety of shops, theatre and other modern amenities.
+▪ Children have their own small pool and a playground. Other amenities include a games room, shop and air-conditioning throughout.
+▪ Picture-houses, plumbing, household science, wireless, television, electricity and gas and other urban amenities belonged to the future.
+public
+▪ Even where an application does arouse some opposition, issues of public amenity rarely arise.
+social
+▪ There are obviously wide differences in the provision of social amenities and social services.
+▪ A world of well-financed schools, ample social amenities, nice, comfortable childhoods.
+▪ But no art, major or minor, can be governed by the rules of social amenity.
+▪ He cared little about his living conditions, his personal appearance, or social amenities.
