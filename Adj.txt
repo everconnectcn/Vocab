@@ -6114,6 +6114,48 @@ EXAMPLES FROM CORPUS
 ▪ Skyservice is a small but well-established Toronto-based charter carrier that announced in June it wants to start an upscale airline.
 ▪ There is no Metro stop in the upscale neighborhood.
 
+<<<<<<< HEAD
+antelope
+antelope UK  [ˈæn.tɪ.ləʊp] US  [-t ̬ ə l.oʊp] [plural antelope] or [antelopes] noun countable [antelopes]
+a mammal like a deer with horns and long thin legs which allow it to run very fast
+• a herd of antelope
+Thesaurus+: ↑Deer and antelope
+
+gruesome
+gruesome UK  US  [ˈgruː.səm] adjective
+extremely unpleasant and shocking, and usually dealing with death or injury
+• The newspaper article included a gruesome description of the murder.
+Thesaurus+: ↑Serious and unpleasant ↑Not attractive to look at ↑Informal words for bad
+Derived: gruesomely
+
+exorbitant
+exorbitant UK  [ɪgˈzɔː.bɪ.t ə nt] US  [-ˈzːɔr.bə.t ̬ ə nt] adjective
+Exorbitant prices and demands, etc. are much too large
+• The bill for dinner was exorbitant.
+Thesaurus+: ↑Costing too much ↑Expensive and luxurious
+
+lesser
+less‧er /ˈlesə $ -ər/ BrE  AmE  adjective [only before noun]
+1. formal not as large, as important, or as much as something else OPP greater:
+ They originally asked for $5 million, but finally settled for a lesser sum.
+to a lesser extent/degree
+ This was true in Madrid and, to a lesser extent, Valencia and Seville. ⇨ lesser mortals at ↑mortal2, ⇨ to a greater or lesser extent at ↑extent(1)
+2. the lesser of two evils alsothe lesser evil the less unpleasant or harmful of two unpleasant choices
+3. technical used in the names of some types of animal, bird, or plant that are slightly smaller than the main type
+—lesser adverb:
+ the lesser-known artists of the period
+ one of Glasgow’s lesser used venues
+From Longman DOCE5 Extras (En-En)
+lesser
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+a lesser evil (=a bad thing, but not as bad as something else)
+▪ She knew that she couldn't leave the children, so she opted for the lesser evil and stayed.
+a lesser offence (=one that is not as serious as another offence)
+▪ For rioting you can receive ten years in prison, while for the lesser offence of violent disorder you can receive five years in prison.
+to a lesser extent (also to less extent) (= less)
+▪ The same is true for women, though to a lesser extent.
+=======
 nitric
  / 5naItrIk; `naItrIk/ adj of or containing nitrogen 氮的; 含氮的.
  # nitric acid clear colourless powerful acid that corrodes and destroys most substances 硝酸.
@@ -6146,3 +6188,31 @@ easy to see or notice; likely to attract attention
 Opp: ↑inconspicuous
 Idiom: ↑conspicuous by your absence
 Derived Words: ↑conspicuously ▪ ↑conspicuousness
+
+reminiscent
+rem‧i‧nis‧cent /ˌreməˈnɪsənt, ˌremɪˈnɪsənt/ BrE  AmE  adjective
+[Date: 1700-1800; Language: Latin; Origin: present participle of reminisci 'to remember']
+1. reminiscent of something reminding you of something:
+ a style strongly reminiscent of Virginia Woolf’s novels
+2. literary thinking about the past:
+ Her face wore a reminiscent smile.
+From Longman DOCE5 Extras (En-En)
+reminiscent
+adjective
+COLLOCATIONS FROM CORPUS
+■ ADVERB
+more
+▪ The scene was more reminiscent of the nineteenth century than the twenty-first.
+▪ Why had such disputes reverted to a pattern of disorder more reminiscent of the nineteenth than twentieth century?
+▪ Meg herself is more reminiscent of Deborah Kerr on acid.
+▪ The letters he wrote to her are more reminiscent of his earliest letters than anything else that he wrote as archbishop.
+strongly
+▪ In other respects too, he is strongly reminiscent of Kant.
+too
+▪ The shape of the cheeks - if slightly too reminiscent of a cadaver - had a certain elegance.
+▪ It was too reminiscent of the way John Butler had ended Portrait of Billie.
+▪ To Ken, it was all too reminiscent of his own life in the Army, but he enjoyed the filming.
+very
+▪ The massive pillars of its nave are very reminiscent of the Norman splendours of Durham cathedral.
+▪ The technique is very reminiscent of that used by the amphibians' far distant and antique cousin, the lungfish.
+▪ There is something in this pattern of behaviour that is very reminiscent of some addictive or compulsive behaviours.

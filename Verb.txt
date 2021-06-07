@@ -7322,6 +7322,61 @@ II. rave2 BrE  AmE  noun [countable]
 2. strong praise for a new play, book etc:
  The play got raves from the critics.
 
+acquaint
+ac‧quaint /əˈkweɪnt/ BrE  AmE  verb [transitive] formal
+[Date: 1200-1300; Language: Old French; Origin: acointier, from Medieval Latin accognitare, from Late Latin accognoscere 'to know perfectly', from Latin ad- 'to' + cognoscere 'to know']
+1. acquaint yourself with something to deliberately find out about something:
+ I need to acquaint myself with the new regulations.
+2. acquaint somebody with something to give someone information about something:
+ You need to acquaint the police with the facts.
+ 
+ crumble
+I. crum‧ble1 /ˈkrʌmbəl/ BrE  AmE  verb
+[Language: Old English; Origin: gecrymian, from cruma; ⇨ ↑crumb]
+1. [intransitive] (also crumble away) if something, especially something made of stone or rock, is crumbling, small pieces are breaking off it:
+ The old stonework was crumbling away.
+ crumbling colonial buildings
+2. [intransitive and transitive] to break apart into lots of little pieces, or make something do this:
+ The fall leaves crumbled in my fingers.
+ ¼ cup crumbled goat’s cheese
+3. [intransitive] (also crumble away) to lose power, become weak, or fail SYN disintegrate:
+ The Empire began to crumble during the 13th century.
+ our crumbling economy
+⇨ that’s the way the cookie crumbles at ↑cookie(3)
+THESAURUS
+■ to become broken
+▪ break verb [intransitive] to become damaged and separate into pieces: Plastic breaks quite easily.
+▪ smash verb [intransitive] to break after being hit with a lot of force: The bowl smashed as it hit the floor.
+▪ shatter verb [intransitive] to break into a lot of small pieces: The glass shattered all over the pavement.
+▪ crack verb [intransitive] if something cracks, a line appears on the surface, which means that it could later break into separate pieces: The ice was starting to crack.
+▪ burst verb [intransitive] if a tyre, balloon, pipe etc bursts, it gets a hole and air or liquid suddenly comes out of it: She blew up the balloon until it burst.
+▪ split verb [intransitive] to break in a straight line: The damp had caused the wood to split.
+▪ crumble verb [intransitive] to break into a powder or a lot of small pieces: The cork just crumbled in my hand.
+II. crumble2 BrE  AmE  noun [uncountable] British English
+a sweet dish of fruit covered with a dry mixture of flour, butter, and sugar and baked:
+ apple crumble
+From Longman DOCE5 Extr
+
+cripple
+cripple UK  US  [ˈkrɪp.l ̩] noun countable [cripples]
+1. offensive old-fashioned a person who cannot use their arms or legs in a normal way
+Thesaurus+: ↑Handicap and the disabled
+2. emotional cripple
+informal someone who finds it difficult to have or express feelings
+Thesaurus+: ↑Not showing or feeling emotions ↑Controlling emotions
+ 
+verb transitive
+1. to injure someone so that they are unable to walk or move in a normal way
+Thesaurus+: ↑Injuring and injuries
+2. to cause serious damage to someone or something, making them weak and not effective
+• a country crippled by war
+Thesaurus+: ↑Damaging and spoiling ↑Destroying and demolishing
+Derived: crippled ▪ crippling
+
+reimburse
+ / 9ri:Im5b\:s; 9riIm`b[s/ v [Tn, Tn.pr esp passive 尤用于被动语态, Dn.n, Dn.pr] ~ sth (to sb); ~ sb (for sth) (usu fml 通常作庄重语) pay back to sb (money that he has spent, lost, etc); refund sth 补偿某人（花费、损失等的钱）; 偿还某物: I was reimbursed in full. 我已得到全部补偿. * All expenses will be reimbursed (to you). 一切费用都能（给你）报销. * We will reimburse the customer for any loss or damage. 我们愿赔偿顾客受到的一切损失和损害.
+ > reimbursement n [C, U] repayment (of expenses, etc) （费用等的）偿还, 报销.
+ 
  scrimp
 scrimp UK  US  [skrɪmp] verb intransitive [scrimps scrimping scrimped]
 1. to save money by spending less than is necessary to reach an acceptable standard
@@ -7344,7 +7399,6 @@ ache with
  To desire or want something, or someone, very much.
 He ached for her as he'd never ached for any woman.
 
-
 12. get off the track spoken to begin to deal with a new subject rather than the main one which was being discussed:
  Don’t get off the track, we’re looking at this year’s figures not last year’s.
 13. be on the track of somebody/something to hunt or search for someone or something:
@@ -7361,3 +7415,78 @@ beat‧en /ˈbiːtn/ BrE  AmE  adjective [only before noun]
  a beaten man who had lost his job
 4. beaten metal has been shaped with a hammer to make it thinner
  It’s time we started making tracks.
+
+torment
+torment noun UK  [ˈtɔː.ment] US  [ˈtɔːr-]
+1. uncountable great mental suffering and unhappiness, or great physical pain
+• The family said they had endured years of torment and abuse at the hands of the neighbours.
+• Waiting for the result of the medical tests was sheer torment.
+• He spent the night in torment, trying to decide what was the best thing to do.
+Thesaurus+: ↑Pain and painful
+2. torments
+great mental suffering and unhappiness
+• Nothing can describe the torments we went through while we were waiting for news.
+Thesaurus+: ↑Pain and painful
+3. countable something or someone that causes great suffering or anger
+• The tax forms were an annual torment to him.
+Thesaurus+: ↑Difficult things and people ↑Preventing and impeding
+ 
+verb transitive UK  [tɔːˈment] US  [tɔːr-]
+to cause a person or animal to suffer or worry
+• The animals are tormented mercilessly by flies and mosquitoes.
+• The camera focused on a group of women whose faces were tormented by/with (= showed that they were suffering) grief.
+• It tormented me all day - did I remember to lock the door when I left the house?
+Thesaurus+: ↑Treating people or animals badly ↑Insults and abuse ↑Unkind, cruel and unfeeling ↑Violent or aggressive
+Derived: tormentor
+
+gloat
+gloat UK  [gləʊt] US  [gloʊt] verb intransitive [gloats gloating gloated]
+to feel or express great pleasure or satisfaction because of your own success or good luck, or someone else's failure or bad luck
+• She's continually gloating over/about her new job.
+• I know I shouldn't gloat, but it really serves him right.
+• His enemies were quick to gloat at his humiliation.
+• + speech "This is our fourth victory in a row, " he gloated.
+Thesaurus+: ↑Satisfied and complacent ↑Showing arrogance and conceit ↑Confidence and self-assurance
+Derived: gloatingly
+ 
+noun countable usually singular
+when you gloat about something
+• to have a gloat at/over/about something
+Thesaurus+: ↑Satisfied and complacent ↑Showing arrogance and conceit ↑Confidence and self-assurance
+From Oxford Advanced Learners Dictionary 8th Ed.
+
+↑Surpassing in quality or number
+Surpassing in quality or number Thesaurus+ Level 3 (35)
+better noun 1
+catch up phrasal verb 1 reach same standard
+compare verb 4 consider similarities
+crown verb 2 head covering
+eclipse noun 2 importance; verb 2 importance
+exceed verb
+go one better idiom
+leave somebody standing idiom
+north of something idiom
+not to be outdone idiom
+out- prefix 2 further
+outdo verb
+outflank verb 2
+outnumber verb
+outperform verb
+outran
+outrun verb 1; verb 2
+outsell verb
+outshine verb
+outstrip verb
+overshadow verb 1
+overtake verb 1 go past
+put somebody in the shade idiom
+shame verb 3 compare well
+steal a march on somebody idiom
+steal somebody's thunder idiom
+surpass verb
+top verb 3 best
+tower above something phrasal verb
+tower over something phrasal verb
+transcend verb
+upstage verb
+writ large idiom
