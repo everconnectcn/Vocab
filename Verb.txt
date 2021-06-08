@@ -7570,6 +7570,7 @@ to speak honestly to someone, after hiding some unpleasant facts from them:
  She decided to level with him and tell him how she felt.
 ⇨ be on the level at ↑level1(8)
 
+<<<<<<< HEAD
 pander
 pan‧der /ˈpændə $ -ər/ BrE  AmE  verb
 [Date: 1600-1700; Origin: pander 'someone who finds lovers for others' (14-20 centuries), from Pandarus man in an ancient Greek story who acted as a messenger between lovers]
@@ -7577,3 +7578,67 @@ pander to somebody/something phrasal verb
 to give someone anything they want in order to please them, even if it seems unreasonable or unnecessary – used to show disapproval:
  Some newspapers feel they have to pander to the prejudices of their readers.
  Highly trained staff will pander to your every whim.
+=======
+hunker down
+hunker down US — phrasal verb with hunker UK  US  /ˈhʌŋ.kər/ aep /-kɚ/ verb ↑Verb Endings for hunker down
+1. F0 to sit down on your heels:
+» We hunkered down round the campfire, toasting marshmallows.
+Thesaurus+: ↑Sitting and standing
+2. F0 to make yourself comfortable in a place or situation, or to prepare to stay in a place or position for a long time, usually in order to achieve something or for protection:
+» The press have hunkered down for the night outside the palace, waiting for news of the royal birth.
+Thesaurus+: ↑Comfortable and uncomfortable
+
+go for (somebody/something)
+go for somebody/something phrasal verb (see also ↑go)
+1. ATTACK British English to attack or criticize someone:
+ The dog suddenly went for me.
+2. TRY TO GET SOMETHING to try to get or win something:
+ Jackson is going for his second gold medal here.
+go for it spoken (=used to encourage someone to try to achieve something)
+ If you really want the job, go for it! ⇨ go for broke at ↑broke2(3)
+3. CHOOSE British English to choose something:
+ I think I’ll go for the chocolate cake.
+4. I could/would go for something spoken used to say that you would like to do or have something:
+ A full meal for less than five bucks! I could go for that!
+5. LIKE informal to like a particular type of person or thing:
+ Annie tends to go for older men.
+6. the same goes for somebody/something (also that goes for somebody/something too) spoken used to say that a statement you have just made is true about someone or something else too:
+ Close all doors and lock them when you go out. The same goes for windows.
+ 
+ revive
+revive UK  US  /rɪˈvaɪv/ verb [I or T] ↑Verb Endings for revive
+▸ C2 to come or bring something back to life, health, existence, or use:
+» to revive someone's hopes/confidence/fortunes
+» My plants revived as soon as I gave them some water.
+» A hot shower and a cup of tea will revive you.
+» Traditional skills are being revived.
+Thesaurus+: ↑Restoring and reviving
+• • •
+Extra Examples:
+» They recognized that the country would revive only if it thoroughly disengaged from the chaos of the old regime.
+» How can the Trade Department be revived from its present moribund state?
+» The peace plan put forward last August has been revived for the latest round of negotiations.
+» Nobody fully understands the enormity and complexity of the task of reviving the country's economy.
+» This would seem to be an opportune moment for reviving our development plan.
+
+
+pitch in
+pitch in phrasal verb informal (see also ↑pitch)
+1. to join others and help with an activity:
+ If we all pitch in, we’ll have it finished in no time.
+pitch in with
+ Everyone pitched in with efforts to entertain the children.
+2. to join others and pay part of the money towards something:
+ They all pitched in and the money was collected within a few days.
+3. British English to start to eat hungrily:
+ Pitch in – there’s plenty.
+ 
+ shoo
+I. shoo1 /ʃuː/ BrE  AmE  interjection
+[Date: 1400-1500; Origin: Natural sound]
+used to tell an animal or a child to go away
+II. shoo2 BrE  AmE  verb [transitive always + adverb/preposition] informal
+to make an animal or a child go away, especially because they are annoying you
+shoo somebody away/out etc
+ He shooed the kids out of the kitchen.
+>>>>>>> 6492112eaefce7cf3cb51c5bc96c054a3b7e8379
