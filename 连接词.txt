@@ -141,7 +141,6 @@ from the knowledge you have in your memory
 Thesaurus+: ↑Memory and memories
 Main entry: topidiom
 
-<<<<<<< HEAD
 There's no accounting for taste
 There's no accounting for taste. idiom saying
 said when it is difficult to explain why different people like different things, especially things which you do not like
@@ -155,7 +154,6 @@ there's no accounting for ˈtaste idiom
 • She thinks he's wonderful— oh well, there's no accounting for taste.
 Main entry: ↑accountidiom
 萝卜青菜各有所爱
-=======
 ↑Describing medical treatment generally
 Describing medical treatment generally Thesaurus+ Level 4 (26)
 bath noun 5
@@ -188,4 +186,15 @@ Used other than figuratively or idiomatically: see shall,‎ we,‎ say.
 (parenthesis) Used for making a statement less offensive or as a warning that the description may be imprecise.
 (parenthesis) Used as a warning that the description may be imprecise.
 Synonym: shall I say
->>>>>>> ca1069215031cd0f04a65f29fc8f39aa89747ecf
+
+
+no matter
+Irrespective of, regardless of, in spite of.
+As an experienced geologist, he can identify any rock no matter where he finds it.
+No matter what the excuse, you must not be late.
+We can fix your plumbing no matter the problem.
+I'll pick you up at the airport on Friday no matter when your flight arrives.
+1898, Winston Churchill, chapter 4, in The Celebrity:
+No matter how early I came down, I would find him on the veranda, smoking cigarettes, or otherwise his man would be there with a message to say that his master would shortly join me if I would kindly wait.
+2011 December 15, Marc Higginson, “Shamrock Rovers 0-4 Tottenham”, in BBC Sport:
+The result in Greece meant Tottenham could not progress, no matter how many goals they scored against Rovers but, after making nine changes to his starting line-up, Harry Redknapp will be pleased with the performance of his fringe players.
