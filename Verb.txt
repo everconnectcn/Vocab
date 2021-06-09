@@ -7570,6 +7570,15 @@ to speak honestly to someone, after hiding some unpleasant facts from them:
  She decided to level with him and tell him how she felt.
 ⇨ be on the level at ↑level1(8)
 
+<<<<<<< HEAD
+pander
+pan‧der /ˈpændə $ -ər/ BrE  AmE  verb
+[Date: 1600-1700; Origin: pander 'someone who finds lovers for others' (14-20 centuries), from Pandarus man in an ancient Greek story who acted as a messenger between lovers]
+pander to somebody/something phrasal verb
+to give someone anything they want in order to please them, even if it seems unreasonable or unnecessary – used to show disapproval:
+ Some newspapers feel they have to pander to the prejudices of their readers.
+ Highly trained staff will pander to your every whim.
+=======
 hunker down
 hunker down US — phrasal verb with hunker UK  US  /ˈhʌŋ.kər/ aep /-kɚ/ verb ↑Verb Endings for hunker down
 1. F0 to sit down on your heels:
@@ -7632,3 +7641,4 @@ II. shoo2 BrE  AmE  verb [transitive always + adverb/preposition] informal
 to make an animal or a child go away, especially because they are annoying you
 shoo somebody away/out etc
  He shooed the kids out of the kitchen.
+>>>>>>> 6492112eaefce7cf3cb51c5bc96c054a3b7e8379
