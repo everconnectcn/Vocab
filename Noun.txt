@@ -12110,6 +12110,7 @@ When using garlic chives (jiucai), these pancakes are called jiucai bing (韭菜
 In Taiwanese cuisine, egg pancakes (蛋餅) are sauteed with egg coated on one side and the dough is thinner and moister.[citation needed]
 In North America, the pancakes are often served with soy sauce, hot chili sauce, or Vietnamese dipping sauce.[cit
 
+<<<<<<< HEAD
 parkour
 par·kour /pɑːˈkʊə $ pɑːrˈkʊr/ BrE  AmE  noun [uncountable]
 the sport of running through city streets and jumping between buildings SYN freerunning
@@ -12129,3 +12130,138 @@ the sport of running through city streets and jumping between buildings SYN free
 ▪ a swarthy complexion literary (=dark) She had never met anyone with his swarthy complexion.
 ▪ a bad complexion (=with spots or marks on it)
 ▪ a blotchy complexion (=with unpleasant red patches of colour in the skin)
+=======
+exertion
+noun
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+physical
+▪ These provide a sustained steam of energy during the prolonged physical exertion required for professional cycling or tennis.
+▪ Was the loss of consciousness preceded by vigorous physical exertion?
+▪ Chi Kung is the martial art of developing positive energy through meditation and physical exertion.
+▪ Kip was tired, exhausted not from physical exertion or mental stress, but from inactivity.
+▪ This is as important an aspect to training as any physical exertion.
+▪ He isn't keen on physical exertions.
+▪ She was breathing quickly, as if from physical exertion.
+
+excursion
+ex‧cur‧sion /ɪkˈskɜːʃən $ ɪkˈskɜːrʒən/ BrE  AmE  noun [countable]
+[Date: 1500-1600; Language: Latin; Origin: excursio, from excurrere 'to run out']
+1. a short journey arranged so that a group of people can visit a place, especially while they are on holiday
+excursion to
+ Included in the tour is an excursion to the Grand Canyon.
+on an excursion
+ We went on an excursion to the Pyramids.
+2. a short journey made for a particular purpose SYN trip:
+ a shopping excursion
+3. excursion into something formal an attempt to experience or learn about something that is new to you:
+ the company’s excursion into new markets
+ 
+ streaming
+streaming UK  US  [ˈstriː.mɪŋ] noun uncountable
+ 
+INTERNET
+1. when you listen to or watch sound or video directly from the Internet
+Thesaurus+: ↑Internet terminology and abbreviations
+ 
+STUDENTS
+2. UK (US tracking) the practice of grouping and teaching together school students with similar abilities
+• Some people object to streaming because it gives an unfair advantage to intelligent children.
+Thesaurus+: ↑Classifying and creating order
+stream
+stream UK  US  [striːm] noun countable [streams]
+ 
+SMALL RIVER
+1. <A > water that flows naturally along a fixed route formed by a channel cut into rock or ground, usually at ground level
+• a mountain stream
+• underground streams
+• There's a lovely stream that flows through their garden.
+Thesaurus+: ↑Watercourses and waterfalls
+2. any current of water or liquid
+• the level of cholesterol in your blood stream
+Thesaurus+: ↑Movement of liquids
+3. the direction in which water is moving
+• She stopped rowing and let the boat float with the stream.
+Thesaurus+: ↑Watercourses and waterfalls
+ 
+• This little stream can become a deluge when it rains heavily.
+• The stream was quite shallow so we were able to walk across it.
+• The stream glinted in the moonlight.
+• She hitched her skirt up before wading across the stream.
+• With one leap he crossed the stream.
+
+glory
+glory UK  [ˈglɔː.ri] US  [ˈglɔːr.i] noun
+ 
+ADMIRATION/PRAISE
+1. <A > uncountable praise and thanks, especially as given to God
+• Glory be to God!
+• He dedicated his poetry to the glory of God.
+Thesaurus+: ↑Worshipping a god
+2. <A > uncountable great admiration, honour and praise which you earn by doing something successfully
+• He revelled in the glory of scoring three goals in the final 8 minutes.
+• This was her final professional match, and she wanted to end her career in a blaze of glory.
+Thesaurus+: ↑Showing respect and admiration
+3. countable an important achievement which earns someone great admiration, honour and praise
+• The reunion is an opportunity for the soldiers to remember their past glories.
+Thesaurus+: ↑Showing respect and admiration
+ 
+• He basked in his moment of glory, holding the trophy up to the crowd.
+• He ascended into Heaven, where He reigns in everlasting glory.
+• He knew that to win this battle would bring him true glory.
+• Despite their early promise, neither of these fine players achieved true glory.
+• These athletes push their bodies to the limit for the ultimate glory of breaking the world record.
+ 
+BEAUTY
+4. countable or uncountable great beauty, or something splendid or extremely beautiful, which gives great pleasure
+• They want to restore the castle to its former glory.
+• The garden in all its glory is now open to the public.
+Thesaurus+: ↑Beauty and attractiveness
+Idioms: bask in reflected glory ▪ cover yourself in glory ▪ crowning glory
+
+downturn
+down‧turn /ˈdaʊntɜːn $ -tɜːrn/ BrE  AmE  noun [countable usually singular]
+a period or process in which business activity, production etc is reduced and conditions become worse OPP upturn:
+ America’s current economic downturn
+downturn in
+ a downturn in the auto industry
+ 
+ bun
+bun /bʌn/ BrE  AmE  noun [countable]
+[Sense 1-3, 5: Date: 1300-1400; Origin: Perhaps from Old French bugne 'swelling (caused by a blow), type of fritter']
+[Sense 4: Date: 1800-1900; Origin: Perhaps from Scottish Gaelic bun; ⇨ ↑bunny]
+1. British English a small round sweet cake:
+ a sticky bun
+2. a small round type of bread:
+ a hamburger bun
+3. 
+if a woman has her hair in a bun, she fastens it in a small round shape at the back of her head
+4. buns [plural] American English informal the two round parts of a person’s bottom SYN buttocks
+5. have a bun in the oven British English informal to be ↑pregnant – used humorously
+
+tablet
+tab‧let S3 /ˈtæblət, ˈtæblɪt/ BrE  AmE  noun [countable]
+[Date: 1300-1400; Language: Old French; Origin: tablete, from table]
+1. a small round hard piece of medicine which you swallow SYN pill:
+ She took a couple of headache tablets.
+vitamin/sleeping/indigestion etc tablet
+2. a small hard piece of a substance, especially one that ↑dissolves in water:
+ water purification tablets
+3. a flat piece of stone or clay with words cut into it, for example above someone’s ↑grave
+4. be written/set/cast in tablets of stone British English used to say that something does not change:
+ The programme should not be set in tablets of stone, but improved continuously.
+5. American English a set of pieces of paper for writing on that are glued together at the top SYN pad British English
+
+domino
+dom‧i‧no /ˈdɒmənəʊ, ˈdɒmɪnəʊ $ ˈdɑːmənoʊ/ BrE  AmE  noun (plural dominoes)
+[Date: 1700-1800; Language: French; Origin: perhaps from Italian, 'lord, ruler', shouted by the winner of a game]
+1. [countable] one of a set of small flat pieces of wood, plastic etc, with different numbers of spots, used for playing a game
+2. dominoes [uncountable] the game played using dominoes
+3. domino effect a situation in which one event or action causes several other things to happen one after the other
+
+percentile
+percentile UK  [pəˈsen.taɪl] US  [pɚ-] specialized noun countable [percentiles]
+one of the points into which a large range of numbers, results, etc. is divided to make 100 groups of the same size
+• That score puts you on the 97th percentile.
+Thesaurus+: ↑Numerical relationships
+>>>>>>> 53b52bbd7328764d690cc791fb64fa1881a4374d
