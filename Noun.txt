@@ -12243,3 +12243,19 @@ percentile UK  [pəˈsen.taɪl] US  [pɚ-] specialized noun countable [percentil
 one of the points into which a large range of numbers, results, etc. is divided to make 100 groups of the same size
 • That score puts you on the 97th percentile.
 Thesaurus+: ↑Numerical relationships
+
+trade-off
+trade-off UK  [ˈtreɪd.ɒf] US  [-ɑːf] noun
+1. countable a situation in which you balance two opposing situations or qualities
+• There is a trade-off between doing the job accurately and doing it quickly.
+• She said that she'd had to make a trade-off between her job and her family.
+Thesaurus+: ↑Balance and imbalance
+2. countable usually singular a situation in which you accept something bad in order to have something good
+• For some car buyers, lack of space is an acceptable trade-off for a sporty design.
+Thesaurus+: ↑Accepting and agreeing reluctantly ↑Accepting and agreeing ↑Approving and approval
+From Longman DOCE 5th Ed. (En-En)
+trade-off
+ˈtrade-off BrE  AmE  noun [countable]
+a balance between two opposing things, that you are willing to accept in order to achieve something
+a trade-off between something and something
+ There has to be a trade-off between quality and quantity if we want to keep prices low.
