@@ -12110,6 +12110,27 @@ When using garlic chives (jiucai), these pancakes are called jiucai bing (韭菜
 In Taiwanese cuisine, egg pancakes (蛋餅) are sauteed with egg coated on one side and the dough is thinner and moister.[citation needed]
 In North America, the pancakes are often served with soy sauce, hot chili sauce, or Vietnamese dipping sauce.[cit
 
+<<<<<<< HEAD
+parkour
+par·kour /pɑːˈkʊə $ pɑːrˈkʊr/ BrE  AmE  noun [uncountable]
+the sport of running through city streets and jumping between buildings SYN freerunning
+
+▪ pale (=lacking colour and often not healthy) Her complexion was pale and spotty.
+▪ fair (=light in colour) People with fair complexions should use plenty of sunscreen.
+▪ dark Bright colours may suit you if your complexion is dark.
+▪ clear (=without any spots) Eating fresh fruit and vegetables will help keep your complexion clear.
+▪ a fresh/healthy complexion (=healthy and clean) a young man with a fresh complexion
+▪ a flawless/perfect complexion (=perfect and with no marks or spots) Foundation is meant to give the illusion of a flawless complexion.
+▪ a tanned complexion (=brown because of the sun) He looked distinguished with his greying hair and tanned complexion.
+▪ a ruddy complexion (=reddish in colour – used mostly about men) He had black hair and a ruddy complexion.
+▪ a florid complexion literary (=red in an unpleasant or unhealthy way) He had the florid complexion of a man who drinks too much.
+▪ an olive complexion (=the skin colour that is typical of Greek, Italian, Turkish etc people) These colours complement an olive complexion.
+▪ a glowing/rosy/pink complexion (=healthy and pink – used about women or children)
+▪ a sallow complexion (=slightly yellow) A sallow complexion can be a sign of illness.
+▪ a swarthy complexion literary (=dark) She had never met anyone with his swarthy complexion.
+▪ a bad complexion (=with spots or marks on it)
+▪ a blotchy complexion (=with unpleasant red patches of colour in the skin)
+=======
 exertion
 noun
 COLLOCATIONS FROM CORPUS
@@ -12243,6 +12264,7 @@ percentile UK  [pəˈsen.taɪl] US  [pɚ-] specialized noun countable [percentil
 one of the points into which a large range of numbers, results, etc. is divided to make 100 groups of the same size
 • That score puts you on the 97th percentile.
 Thesaurus+: ↑Numerical relationships
+<<<<<<< HEAD
 
 trade-off
 trade-off UK  [ˈtreɪd.ɒf] US  [-ɑːf] noun
@@ -12259,3 +12281,6 @@ trade-off
 a balance between two opposing things, that you are willing to accept in order to achieve something
 a trade-off between something and something
  There has to be a trade-off between quality and quantity if we want to keep prices low.
+=======
+>>>>>>> 53b52bbd7328764d690cc791fb64fa1881a4374d
+>>>>>>> 61ffcea46f380339777f4ea98caecb05e5129b86
