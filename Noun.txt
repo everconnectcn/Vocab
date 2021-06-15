@@ -12264,7 +12264,6 @@ percentile UK  [pəˈsen.taɪl] US  [pɚ-] specialized noun countable [percentil
 one of the points into which a large range of numbers, results, etc. is divided to make 100 groups of the same size
 • That score puts you on the 97th percentile.
 Thesaurus+: ↑Numerical relationships
-<<<<<<< HEAD
 
 trade-off
 trade-off UK  [ˈtreɪd.ɒf] US  [-ɑːf] noun
@@ -12281,6 +12280,301 @@ trade-off
 a balance between two opposing things, that you are willing to accept in order to achieve something
 a trade-off between something and something
  There has to be a trade-off between quality and quantity if we want to keep prices low.
-=======
->>>>>>> 53b52bbd7328764d690cc791fb64fa1881a4374d
->>>>>>> 61ffcea46f380339777f4ea98caecb05e5129b86
+
+frigid
+
+ / 5frIdVId; `frIdVId/ adj 
+ very cold 寒冷的; 严寒的: a frigid climate/zone 严寒的气候[地区]. 
+ (esp of a woman) not responsive sexually （尤指女人）性冷感的. 
+ formal and unfriendly, esp in relationships with other people 郑重而冷淡的（尤指与他人的关系）: a frigid glance, look, etc 冷淡的目光、神情等.
+ > frigidity/ frI5dVIdEtI; frI`dVIdEtI/ n [U]. frigidly adv.
+From Longman DOCE5 Extras (En-En)
+frigid
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ frigid winds
+▪ a frigid look
+EXAMPLES FROM CORPUS
+▪ A frigid wind surged through the arches, producing a ghoulish whine.
+▪ At night, they sleep on hammocks in plastic-sheeting shelters or on the frigid, rain-soaked earth.
+▪ It took Robyn ages to peel away the sodden material from her frigid skin.
+▪ On Friday morning we awoke to frigid temperatures and a San Juan River running at about 500 cubic feet per second.
+▪ There was lots of kissing and hair-stroking going on, which always makes onlookers feel rather frigid and inadequate.
+▪ Wide-eyed children bounced on the knees of smiling nurses in rooms well heated against a frigid winter day.
+▪ Within several months of landing, the daily shock of frigid cold and oven heat will crack the brain chips into uselessness.
+
+wall
+I. wall1 S1 W1 /wɔːl $ wɒːl/ BrE  AmE  noun [countable]
+[Language: Old English; Origin: weall]
+1. AROUND AN AREA an upright flat structure made of stone or brick, that divides one area from another or surrounds an area ⇨ fence
+stone/brick/concrete wall
+ The estate is surrounded by high stone walls.
+city/garden etc wall
+ the ancient city walls
+ the Great Wall of China
+ We climbed over the wall into the orchard.
+2. IN A BUILDING one of the sides of a room or building
+on the wall
+ I put some pictures up on the walls.
+ Bob leaned against the wall.
+bedroom/kitchen etc wall
+ We decided to paint the bathroom walls blue.
+3. BODY the side of something hollow, especially within the body:
+ The walls of the blood vessels had been damaged.
+ cell walls
+4. wall of fire/water etc a tall mass of something such as fire or water, that stops anything from getting past:
+ The boat was hit by a wall of water.
+5. wall of silence/secrecy a situation in which nobody will tell you what you want to know:
+ The police investigation was met with a wall of silence.
+6. up the wall spoken very angry or annoyed:
+ That noise is driving me up the wall (=making me annoyed).
+go up the wall British English:
+ I’ve got to be on time or Sarah will go up the wall.
+7. off the wall informal very strange or unusual, often in an amusing way:
+ Some of Krista’s ideas are a little off the wall.
+8. go to the wall informal if a company goes to the wall, it fails, especially because of financial difficulties:
+ Many small investors will go to the wall.
+9. these four walls spoken the room that you are in, especially considered as a private place:
+ I don’t want anything repeated outside these four walls.
+10. be/come up against a (brick) wall to reach a point where you cannot make progress, especially because something or someone is stopping you:
+ We seem to have come up against a brick wall in this investigation.
+11. be climbing/crawling (up) the walls informal to be feeling extremely anxious, unhappy, or annoyed, especially because you are waiting for something or are in a situation which you cannot get away from:
+ The kids soon had him climbing the walls.
+12. walls have ears used to warn people to be careful what they say, because other people, especially enemies, could be listening
+13. hit the wall informal to reach the point when you are most physically tired when doing a sport
+⇨ have your back to/against the wall at ↑back2(21), ⇨ be (like) banging your head against a brick wall at ↑head(31), ⇨ like talking to a brick wall at ↑talk1(15), ⇨ the writing is on the wall at ↑writing(8), ⇨ ↑off-the-wall
+• • •
+THESAURUS
+▪ wall an upright flat structure made of stone or brick, that divides one area from another or surrounds an area: The estate is surrounded by high stone walls. | a brick wall
+▪ fence a structure made of wood, metal etc that surrounds a piece of land: The garden was surrounded by an old wooden fence. | the chain link fence around the school
+▪ railings a metal fence that is made of a series of upright bars: the iron railings in front of the house | The boy was leaning over the railing on the side of the boat.
+▪ barrier a type of fence or gate that prevents people from moving in a particular direction: A guard stood near the barrier. | The police had put up barriers to keep the crowd under control.
+▪ screen a piece of furniture like a thin wall that can be moved around and is used to divide one part of a room from another: the screen around his hospital bed | a Japanese bamboo screen | a fire screen (=that you put near a fire)
+▪ partition a thin wall that separates one part of a room from another: The room was divided into two by a thin partition. | The offices are separated by partitions and you can hear everything that is said in the next office.
+▪ barricade a line of objects that people have put across a road, to prevent people getting past, especially as part of a protest: The soldiers used tanks to smash through the barricades.
+II. wall2 BrE  AmE  verb
+wall something ↔ in phrasal verb
+to surround an open area with walls
+wall something ↔ off phrasal verb
+to keep one area or room separate from another, by building a wall:
+ The control room is walled off by soundproof glass.
+wall somebody/something ↔ up phrasal verb
+1.
+a) to fill in an entrance, window etc with bricks or stone:
+ The entrance had long since been walled up.
+b) to fill in all the entrances and windows of a place so that someone cannot get out
+2. to keep someone as a prisoner in a building
+
+walk
+I. walk1 S1 W1 /wɔːk $ wɒːk/ BrE  AmE  verb
+1. [intransitive and transitive] to move forward by putting one foot in front of the other:
+ ‘How did you get here?’ ‘We walked.’
+ Doctors said he’d never walk again.
+walk into/down/up etc
+ Carrie walked into the room and sat down in her chair.
+ He loved walking in the hills.
+walk a mile/200 metres/a short distance etc
+ We must have walked ten miles today.
+ I walked all the way to San Rafael.
+within (easy) walking distance (of something) (=near enough to be able to walk to)
+ There are plenty of bars and restaurants within walking distance of the hotel.
+walking pace (=the speed that you normally walk at)
+2. [transitive] to walk somewhere with someone, especially in order to make sure that they are safe or to be polite:
+ It’s late – I’ll walk you home.
+walk somebody to something
+ Schools are urging parents to walk their children to school.
+ She walked me to the front gate.
+3. [transitive] to take a dog for a walk for exercise:
+ Grandma’s out walking the dog.
+4. [intransitive] British English informal if something has walked, it has disappeared and you think someone may have taken it:
+ My pen seems to have walked.
+5. walk free (also walk American English) to leave a court of law without being punished or sent to prison:
+ Ferguson walked free after the charges were dropped.
+ If more evidence isn’t found, Harris will walk.
+6. walk it British English spoken
+a) to make a journey by walking:
+ If the last bus has gone, we’ll have to walk it.
+b) to succeed or win something easily
+7. be walking on air to be feeling extremely happy
+8. walk the streets
+a) to walk around the streets in a town or city:
+ It was not safe to walk the streets at night.
+b) old-fashioned to be a ↑prostitute
+9. walk the beat when a police officer walks the beat, they walk around an area of a town or city in order to make sure nobody is committing a crime
+10. walk tall to be proud and confident because you know that you have not done anything wrong
+11. walk somebody off their feet British Englishwalk sb’s legs off American English informal to make someone tired by making them walk too far
+12. walk the walk to do the things that people expect or think are necessary in a particular situation:
+ People are motivated by leaders who actually walk the walk. ⇨ talk the talk at ↑talk1(18)
+13. walk the plank to be forced to walk along a board laid over the side of the ship until you fall off into the sea, used as a punishment in the past
+14. walk on eggshells (also walk on eggs American English) to be very careful about how you behave with someone because they are easily upset or made angry
+• • •
+THESAURUS
+▪ walk to move forward by putting one foot in front of the other: I missed the bus so I decided to walk. | We’ve walked about eight miles today.
+▪ wander to walk without any clear purpose or direction: They wandered around the narrow streets of the old city.
+▪ stride to walk with long steps in a determined, confident, or angry way: A man in a suit came striding purposefully into the hall. | She strode onto the stage and began to address the audience.
+▪ pace to walk first in one direction and then in another many times, especially because you are nervous: Nick was pacing up and down, waiting for the phone to ring.
+▪ march to walk quickly with firm regular steps – used especially about soldiers or someone who is angry: The troops marched past with smart uniform and good discipline. | Sheila marched into the office and demanded an apology.
+▪ wade to walk through deep water: We had to wade across the river.
+▪ stomp to walk putting your feet down very hard, especially because you are angry: She turned and stomped off without looking back.
+■ to walk quietly
+▪ tiptoe to walk quietly and carefully on your toes because you do not want to make a noise: I tiptoed out trying not to wake the baby.
+▪ creep to walk quietly and slowly because you do not want anyone to see or hear you: Stella crept up the stairs, hoping not to wake her parents.
+▪ sneak to walk quietly so that no-one notices you, especially because you are doing something you should not do: They sneaked off without paying. | I quickly sneaked out to have a cigarette.
+▪ pad to walk quietly without wearing shoes – also used about cats and dogs walking quietly: Michelle got up and padded barefoot down to the kitchen. | The cat padded in, asking for her food.
+■ to walk slowly
+▪ trudge /trʌdʒ/ to walk in a slow tired way because it is difficult to continue walking, or you do not want to go somewhere: The men trudged along the road, heads bent against the wind. | I’ve spent hours trudging around the shops looking for a present.
+▪ plod to walk slowly in a tired way – often used about a horse, donkey etc: The donkey was plodding slowly along under its heavy load. | I plodded on growing thirstier and hungrier.
+▪ shuffle to walk very slowly and noisily without lifting your feet off the ground: The old man got up and shuffled to the door.
+■ to walk with difficulty
+▪ limp to walk with difficulty because one leg hurts, so that you put most of your weight on the other leg: Jake was limping because of the injury to his knee.
+▪ stagger to walk or move unsteadily, almost falling over, especially because you are drunk or have been injured: They finally staggered back to the hotel at 4 o'clock in the morning. | He hit her and she staggered and fell.
+▪ hobble to walk with difficulty in a slow and unsteady way because your legs or feet hurt or have been injured: My new shoes were so painful I could only hobble along. | She hobbled out to the car on crutches.
+■ to walk for pleasure
+▪ take a walk (also go for a walk) to walk somewhere for pleasure: We went for a walk in the park.
+▪ stroll (also go for a stroll) to walk in a relaxed way, especially for pleasure: People were strolling along beside the river. | On Sunday, they went for a stroll in the park.
+▪ hike (also go hiking) to walk a long way in the mountains or countryside as an activity you enjoy: We’re going hiking in Scotland this summer. | They hiked around the Lake District. | Pat likes doing active things like hiking and horse-riding.
+▪ trek (also go trekking) to go for a walk lasting several days or weeks in a faraway place, carrying your clothes with you: I’ve always wanted to go trekking in Nepal. | They trekked up to Everest Base Camp.
+walk away phrasal verb
+1. to leave a bad or difficult situation, instead of trying to make it better
+walk away from
+ You can’t just walk away from 15 years of marriage!
+ When the business started to have problems, it was very tempting to walk away.
+2. to come out of an accident or very bad situation without being harmed:
+ Miraculously, both drivers walked away without a scratch.
+walk away with something phrasal verb informal
+to win something easily:
+ And the lucky winner will walk away with a prize of £10,000.
+walk in on somebody phrasal verb
+to go into a room and accidentally interrupt someone who is doing something private that they would not want you to see
+walk into something phrasal verb
+1. to hit an object accidentally as you are walking along
+walk straight/right/bang etc into something
+ Zeke wasn’t looking and walked straight into a tree.
+2. if you walk into an unpleasant situation, you become involved in it without intending to:
+ He was fairly certain now that he was walking into a trap, and wished he’d come armed.
+walk straight/right into something
+ I walked right into a mob of maybe 50 young white guys.
+3. British English if you walk into a job, you get it very easily:
+ You can’t expect to walk straight into a job.
+4. to make yourself look stupid when you could easily have avoided it if you had been more careful
+walk straight/right into something
+ You walked right into that one!
+walk off phrasal verb
+1. to leave someone by walking away from them, especially in a rude or angry way:
+ Don’t just walk off when I’m trying to talk to you!
+2. walk something ↔ off if you walk off an illness or unpleasant feeling, you go for a walk to make it go away:
+ Let’s go out – maybe I can walk this headache off.
+walk off dinner/a meal etc (=go for a walk so that your stomach feels less full)
+3. walk off (the/your etc job) American English to stop working as a protest:
+ Without new contracts, mine workers will walk off their jobs Thursday.
+walk off with something phrasal verb informal
+1. to win something easily:
+ Lottery winners can walk off with a cool £18 million.
+2. to steal something or take something that does not belong to you:
+ Thieves walked off with two million dollars’ worth of jewellery.
+walk out phrasal verb
+1. to leave a place suddenly, especially because you disapprove of something:
+ The play was awful and we walked out after half an hour.
+walk out of
+ the issue that led to the US walking out of the trade talks this week
+2. to leave your husband, wife etc suddenly and go and live somewhere else:
+ Her husband walked out, leaving her with three children to look after.
+walk out on
+ Five years later she walked out on Matthew and their two boys.
+3. to leave your job suddenly because you no longer want to do it:
+ We’re so short-staffed. I can’t just walk out.
+walk out of
+ If you can afford to walk out of your job, why not?
+4. to stop working as a protest:
+ Workers are threatening to walk out if an agreement is not reached.
+walk out on something phrasal verb
+to stop doing something you have agreed to do or that you are responsible for:
+ ‘I never walk out on a deal,’ Dee said.
+walk over somebody phrasal verb
+to treat someone badly by always making them do what you want them to do:
+ It’s terrible – she lets her kids just walk all over her.
+II. walk2 S2 W2 BrE  AmE  noun
+1. [countable] a journey that you make by walking, especially for exercise or enjoyment:
+ It’s a long walk. Maybe we should get the bus.
+walk to/through/across etc
+ a walk through the castle grounds
+2. [countable] a particular journey that you make by walking, especially one that goes through an interesting or attractive area:
+ He says he’s going on a long walk tomorrow.
+ Have you ever done the Three Peaks walk?
+coastal/hill etc walk
+ There is a stunning 10-mile coastal walk from St Andrews to Crail.
+3. [countable] an organized event when people walk for pleasure:
+ Let’s all go on the beach walk.
+ The local tourist office organises a number of guided walks.
+4. [singular] the way someone walks SYN gait:
+ You can often recognize people by their walk.
+5. [singular] when you walk rather than run:
+ Breathless, she slowed to a walk.
+⇨ ↑walk of life, ⇨ sponsored walk at ↑sponsor2(5)
+• • •
+COLLOCATIONS
+■ verbs
+▪ go for a walk Let’s go for a walk on the beach.
+▪ take/have a walk She took a walk through the town.
+▪ take somebody/a dog for a walk Could you take the dog for a walk?
+■ ADJECTIVES/NOUN + walk
+▪ a long walk We went for a long walk in the woods.
+▪ a short walk The house is only a short walk from local shops.
+▪ a little walk I just felt like a little walk.
+▪ a brisk walk A brisk walk will improve your circulation.
+▪ an easy walk From here it is an easy walk to the summit.
+▪ a five-mile/ten-kilometre etc walk He began the five-mile walk back to town.
+▪ a five-minute/two-hour etc walk There’s a good restaurant a five-minute walk away.
+
+spectacle
+spec‧ta‧cle /ˈspektəkəl/ BrE  AmE  noun [countable]
+[Date: 1300-1400; Language: Old French; Origin: Latin spectaculum, from spectare; ⇨ ↑spectator]
+1. a very impressive show or scene:
+ a multimedia dance and opera spectacle
+2. [usually singular] an unusual or interesting thing or situation that you see or notice – used especially in order to show disapproval:
+ The trial was turned into a public spectacle.
+spectacle of
+ the spectacle of drunken young men on the streets
+3. 
+spectacles [plural] formal old-fashioned glasses that help you see
+4. make a spectacle of yourself to behave in an embarrassing way that is likely to make other people notice you and laugh at you
+• • •
+THESAURUS
+■ something that you see
+▪ sight something that you see: A herd of elephants is a magnificent sight. | Even Charles cheered up at the sight of the food.
+▪ view the area you can see from a window or place, especially when it is beautiful: The view from the top of the mountain is amazing. | The hotel has great views of Lake Windermere. | We had a good view of the firework display.
+▪ panorama an impressive view of a very large area that stretches a long way across in front of you: a panorama of snow-covered hills and mountains
+▪ vista written a view of a large area of beautiful scenery – used in written descriptions: The road around the island offers some spectacular vistas.
+▪ scene what you see in a place, especially where people are moving around and doing things: Reporters described the horrific scenes which followed the bombing. | His pictures are mainly of local scenes.
+▪ spectacle something that you see that is very unusual, surprising, or strange: It must have been an unusual spectacle. | I leaned over the balcony to get a look at the spectacle below.
+▪ visuals [plural] pictures or parts of a film, video etc that people can see, as opposed to the parts you can hear: Good visuals will help keep your audience’s attention.
+
+consolation
+ / 9kCnsE5leIFn; 9kBnsE`leFEn/ n 
+ [U] consoling or being consoled 安慰; 慰问; 慰藉: a few words of consolation 几句安慰的话 * Money is no consolation when you don't like your work, ie does not make up for not liking it. 要是不喜欢所做的工作, 给的钱多也没用. 
+ [C] person or thing that consoles 带来安慰的人或事物: Your company has been a great consolation to me. 有你为伴我感到极大的安慰. * At least you weren't hurt that's one consolation, ie one good aspect of an otherwise bad situation. 至少你没有受到伤害--这是不幸中的幸事.
+ # conso`lation prize prize given to sb who has just missed winning or has come last 安慰奖（授予未能获胜或名列末位者以资鼓励的奖赏）: (fig 比喻) She missed out on the top job, but as a consolation prize was made deputy chairman. 她失去了就任最高职位的机会, 但还算是中了安慰奖, 她被任命为副董事长.
+ 
+ con‧so‧la‧tion /ˌkɒnsəˈleɪʃən $ ˌkɑːn-/ BrE  AmE  noun [uncountable and countable]
+something that makes you feel better when you are sad or disappointed
+consolation for/to
+ The only consolation for the team is that they get a chance to play the game again.
+ If it’s any consolation, things do get easier as the child gets older.
+ He had the consolation of knowing that he couldn’t have done any better.
+be little/no consolation
+ The fact that there has been a reduction in crime is little consolation to victims of crime.
+ 
+scallion
+noun
+EXAMPLES FROM CORPUS
+▪ Add scallions and cook another minute.
+▪ Add the scallions together with a couple of tablespoons of the broth and simmer, covered, until tender.
+▪ But the cakes are highly seasoned, tasting more of scallions, poblano peppers and cilantro than crab.
+▪ He went to his death proudly, defiantly, For the Communists, like scallions, could not all be felled.
+▪ Mix minced garlic, scallions and salt together in a small bowl.
+▪ Oxtail soup, she made him, steamed fish with scallions.
+▪ Return the seafood to the wok and then add the scallions and snow peas.
+▪ To the Alfredo sauce, add the scallions, chopped green olives and taco seasoning mix.
+From 21世纪双语科技词典
+scallion
+韭葱
