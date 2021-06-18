@@ -7570,7 +7570,6 @@ to speak honestly to someone, after hiding some unpleasant facts from them:
  She decided to level with him and tell him how she felt.
 ⇨ be on the level at ↑level1(8)
 
-<<<<<<< HEAD
 pander
 pan‧der /ˈpændə $ -ər/ BrE  AmE  verb
 [Date: 1600-1700; Origin: pander 'someone who finds lovers for others' (14-20 centuries), from Pandarus man in an ancient Greek story who acted as a messenger between lovers]
@@ -7578,7 +7577,7 @@ pander to somebody/something phrasal verb
 to give someone anything they want in order to please them, even if it seems unreasonable or unnecessary – used to show disapproval:
  Some newspapers feel they have to pander to the prejudices of their readers.
  Highly trained staff will pander to your every whim.
-=======
+
 hunker down
 hunker down US — phrasal verb with hunker UK  US  /ˈhʌŋ.kər/ aep /-kɚ/ verb ↑Verb Endings for hunker down
 1. F0 to sit down on your heels:
@@ -7613,7 +7612,6 @@ revive UK  US  /rɪˈvaɪv/ verb [I or T] ↑Verb Endings for revive
 » A hot shower and a cup of tea will revive you.
 » Traditional skills are being revived.
 Thesaurus+: ↑Restoring and reviving
-• • •
 Extra Examples:
 » They recognized that the country would revive only if it thoroughly disengaged from the chaos of the old regime.
 » How can the Trade Department be revived from its present moribund state?
@@ -7657,3 +7655,59 @@ flounder around
 II. flounder2 BrE  AmE  noun (plural flounder or flounders) [uncountable and countable]
 [Date: 1400-1500; Language: Anglo-French; Origin: floundre, from a Scandinavian language]
 a type of small fish that you can eat
+
+
+twiddle
+ / 5twIdl; `twIdl/ v 
+ [Ipr, Tn] ~ with sth twist or turn (sth), esp idly or aimlessly 旋弄, 捻弄（某物）（尤指无聊地或无目的地）: He twiddled with the controls of the radio until he found the station. 他旋弄了一阵收音机的旋钮才找到了那个电台. * She sat twiddling the ring on her finger. 她坐在那儿捻弄手指上的戒指. 
+ (idm 习语) twiddle one's thumbs move one's thumbs round each other with one's fingers or waste one's time doing nothing 旋弄两手的大拇指; 无所事事: I sat twiddling my thumbs waiting for him to finish using the phone. 我坐着无聊地旋弄拇指, 等候他用完电话. * You're not being paid to twiddle your thumbs all day, you know! 给你工钱不是让你整天游手好闲, 明白吗!
+ > twiddle n (a) slight twist or turn; twirl 轻轻的拧或转; 转动. (b) twirled mark or sign 旋转的标志或符号. twiddly / 5twIdlI; `twIdlI/ adj (infml 口) awkward to handle, play, etc 不好处理、演奏等的; 棘手的: the twiddly bits at the end of the sonata 奏鸣曲结尾部难奏之处.
+From Longman DOCE 5th Ed. (En-En)
+twiddle
+twid‧dle /ˈtwɪdl/ BrE  AmE  verb [intransitive and transitive]
+[Date: 1500-1600; Origin: Probably copying the action]
+1. twiddle your thumbs informal to do nothing while you are waiting for something to happen:
+ Let’s go – there’s no point in sitting here twiddling our thumbs.
+2. to move or turn something around with your fingers many times, especially because you are nervous or bored
+twiddle with
+ She was twiddling with her earrings.
+—twiddle noun [countable]
+
+
+val·or·ize
+/ˈvaləˌrīz/
+verb
+verb: valorize; 3rd person present: valorizes; past tense: valorized; past participle: valorized; gerund or present participle: valorizing; verb: valorise; 3rd person present: valorises; past tense: valorised; past participle: valorised; gerund or present participle: valorising
+give or ascribe value or validity to (something).
+"the culture valorizes the individual"
+raise or fix the price or value of (a commodity or currency) by artificial means, especially by government action.
+
+handover
+hand‧o‧ver /ˈhændəʊvə $ -oʊvər/ BrE  AmE  noun [singular]
+1. the act of giving someone else control of a place or business:
+ The president will remain in office until the official handover in April.
+handover of
+ a smooth handover of power
+ the handover of the business
+handover to
+ The handover to civilian government has been delayed.
+2. the act of giving something to someone
+handover of
+ They demanded the immediate handover of all relevant documents.
+⇨ hand over at ↑hand2
+
+shirk
+shirk [shirk shirks shirked shirking] BrE [ʃɜːk]  NAmE [ʃɜːrk]  verb intransitive, transitive
+to avoid doing sth you should do, especially because you are too lazy
+• Discipline in the company was strict and no one shirked.
+• ~ from sth/doing sth A determined burglar will not shirk from breaking a window to gain entry.
+• ~ sth/doing sth She never shirked her responsibilities.
+Derived Word: ↑shirker
+
+sidetrack
+▪ I. sidetrack UK  US  [ˈsaɪd.træk] verb transitive usually passive [sidetracks sidetracking sidetracked]
+to direct a person's attention away from an activity or subject towards another one which is less important
+• Ruth was looking for an envelope in a drawer when she was sidetracked by some old letters.
+• The students sidetracked their teacher into talking about her hobby.
+• I'm sorry I'm late - I got sidetracked.
+Thesaurus+: ↑Creating a distraction
