@@ -7656,6 +7656,7 @@ II. flounder2 BrE  AmE  noun (plural flounder or flounders) [uncountable and cou
 [Date: 1400-1500; Language: Anglo-French; Origin: floundre, from a Scandinavian language]
 a type of small fish that you can eat
 
+<<<<<<< HEAD
 
 twiddle
  / 5twIdl; `twIdl/ v 
@@ -7711,3 +7712,127 @@ to direct a person's attention away from an activity or subject towards another 
 • The students sidetracked their teacher into talking about her hobby.
 • I'm sorry I'm late - I got sidetracked.
 Thesaurus+: ↑Creating a distraction
+=======
+strive
+strive UK  US  [straɪv] [strove] or [strived], [striven] or [strived] verb intransitive [strove strived striven strives striving]
+<A > to try very hard to do something or to make something happen, especially for a long time or against difficulties
+• + to infinitive Mr Roe has kindled expectations that he must now strive to live up to.
+• In her writing she strove for a balance between innovation and familiar prose forms.
+Thesaurus+: ↑Trying and making an effort ↑Effort and expending energy
+ 
+• We must strive to narrow the gap between rich and poor.
+• We strive to ensure that all children are treated equally.
+• We strive for perfection but sometimes have to accept something less.
+• We are constantly striving to improve our service.
+• The former leader now has to watch his successor unpicking much of what he strived so hard to achieve.
+to make a great effort to achieve something
+strive to do something
+ I was still striving to be successful.
+strive for/after
+ We must continue to strive for greater efficiency.
+ 
+ III. better3 BrE  AmE  noun
+1. the better the one that is higher in quality, more suitable etc when you are comparing two similar people or things:
+ It’s hard to decide which one’s the better.
+2. get the better of somebody
+a) if your feelings or wishes get the better of you, they make you behave in a way you would not normally behave:
+ My curiosity finally got the better of me and I opened the letter.
+ I think her nerves got the better of her.
+b) to defeat someone or deal successfully with a problem
+3. for the better in a way that improves the situation:
+ a definite change for the better
+ The president’s fortunes seem, at last, to have taken a turn for the better (=started to improve).
+4. so much the better used to say that something would be even better or bring even more advantages:
+ If they can do them both at the same time, then so much the better.
+5. be all the better for something to be improved by a particular action, change etc:
+ I think it’s all the better for that extra ten minutes’ cooking.
+6. for better or (for) worse used to say that something must be accepted, whether it is good or bad, because it cannot be changed:
+ Work is, for better or worse, becoming more flexible nowadays.
+7. your betters old-fashioned people who are more important than you or deserve more respect
+⇨ ↑worse2, ⇨ elders and betters at ↑elder2(2)
+IV. better4 BrE  AmE  verb [transitive]
+1. to be higher in quality, amount etc than someone or something else:
+ His total of five gold medals is unlikely to be bettered.
+2. better yourself to improve your position in society by getting a better education or earning more money
+3. formal to improve something:
+ bettering the lot of the working classes
+ 
+ tap into (third-person singular simple present taps into, present participle tapping into, simple past and past participle tapped into)
+To establish a connection with (something), especially in order to take advantage.
+To access (a resource or object).
+When he ran out of money, he decided to tap into his trust fund.
+
+II. tap2 BrE  AmE  verb (past tense and past participle tapped, present participle tapping)
+[Sense 1-2, 8-10: Date: 1100-1200; Language: Old French; Origin: taper 'to hit with the flat part of the hand']
+[Sense 3-7: Language: Old English; Origin: tæppian]
+1. HIT LIGHTLY [intransitive and transitive] to hit your fingers lightly on something, for example to get someone’s attention
+tap somebody on the shoulder/arm/chest etc
+ He turned as someone tapped him on the shoulder.
+tap on
+ I went up and tapped on the window.
+tap something on/against/from etc something
+ Mark tapped his fingers on the tabletop impatiently.
+ She tapped ash from her cigarette.
+2. MUSIC [transitive] to make a regular pattern of sounds with your fingers or feet, especially when you are listening to music:
+ She tapped her feet in time to the music.
+ a toe-tapping tune
+3. ENERGY/MONEY [transitive] (also tap into) to use or take what is needed from something such as an energy supply or an amount of money:
+ People are tapping into the power supply illegally.
+ We hope that additional sources of funding can be tapped.
+4. IDEAS [transitive] (also tap into) to make as much use as possible of the ideas, experience, knowledge etc that a group of people has:
+ Your adviser’s experience is there to be tapped.
+ helping people tap into training opportunities
+5. TELEPHONE [transitive] to listen secretly to someone’s telephone by using a special piece of electronic equipment:
+ Murray’s phone calls to Australia were tapped.
+6. TREE [transitive] to get liquid from the ↑trunk of a tree by making a hole in it
+7. PLAYER [transitive] (also tap up) British English informal if a football club taps a player from another team, it illegally tries to persuade that player to join its team
+tap something ↔ in (also tap something into something) phrasal verb British English
+to put information, numbers etc into a computer, telephone etc by pressing buttons or keys:
+ Tap in your password before you log on.
+tap something ↔ out phrasal verb
+1. to hit something lightly, especially with your fingers or foot, in order to make a pattern of sounds:
+ He whistled the tune and tapped out the rhythm.
+2. to write something with a computer:
+ Brian tapped out a name on his small electronic organizer.
+ 
+ fixated
+fixated UK  [fɪkˈseɪ.tɪd] US  [ˈfɪk.seɪ.t ̬ɪd] adjective after verb
+unable to stop thinking about something
+• a nation fixated on the past
+• Back in London, he became fixated with his best friend's daughter.
+Thesaurus+: ↑Continually thinking about
+From Longman DOCE 5th Ed. (En-En)
+fixated
+fix‧a‧ted /fɪkˈseɪtəd, fɪkˈseɪtɪd/ BrE  AmE  adjective
+always thinking or talking about one particular thing
+fixated on
+ He never used to be so fixated on losing weight.
+ 
+ cling /klɪŋ/ BrE  AmE  verb (past tense and past participle clung /klʌŋ/) [intransitive]
+[Language: Old English; Origin: clingan]
+1. [always + adverb/preposition] to hold someone or something tightly, especially because you do not feel safe
+cling to/on/at etc
+ He wailed and clung to his mother.
+ Passengers clung desperately on to the lifeboats.
+2. [always + adverb/preposition] to stick to someone or something, or seem to surround them
+cling to/around etc
+ His wet shirt clung to his body.
+ The smell of cigarette smoke clung to her clothes.
+3. to stay close to someone all the time because you are too dependent on them or do not feel safe – used to show disapproval:
+ Some children tend to cling on their first day at school.
+cling on phrasal verb
+to continue trying to stay in power, in business etc:
+ Other businesses cling on and hope.
+cling to something (also cling on to something) phrasal verb
+1. to continue to believe or do something, even though it may not be true or useful any longer
+cling to the hope/belief/idea etc (that)
+ He clung to the hope that she would be cured.
+2. to stay in a position of power or stay ahead, when this is difficult, or to try to do this:
+ an attempt to cling to power
+From Oxford Advanced Learners Dictionary 8th Ed.
+clingy
+cling·ing [clinging] BrE [ˈklɪŋɪŋ]  NAmE [ˈklɪŋɪŋ]  (also clingy BrE [ˈklɪŋi] ; NAmE [ˈklɪŋi] ) adjective
+1. (of clothes or material) sticking to the body and showing its shape
+2. (usually disapproving) needing another person too much
+• a clinging child
+>>>>>>> 4ffbc68d8a02fd2dab7b7a873921fcdfb6410ec5
