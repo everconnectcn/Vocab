@@ -7835,4 +7835,96 @@ cling·ing [clinging] BrE [ˈklɪŋɪŋ]  NAmE [ˈklɪŋɪŋ]  (also clingy BrE 
 1. (of clothes or material) sticking to the body and showing its shape
 2. (usually disapproving) needing another person too much
 • a clinging child
->>>>>>> 4ffbc68d8a02fd2dab7b7a873921fcdfb6410ec5
+
+skew
+skew UK  US  [skjuː] verb transitive [skews skewing skewed]
+to cause something to be not straight or exact; to twist or distort
+• The company's results for this year are skewed because not all our customers have paid their bills.
+Thesaurus+: ↑Bending, twisting and curving ↑Slanting, sloping, leaning, tilting ↑Lies, lying and hypocrisy ↑Dishonest people
+ 
+adjective after verb
+not straight
+Thesaurus+: ↑Bending, twisting and curving ↑Slanting, sloping, leaning, tilting
+From Longman DOCE 5th Ed. (En-En)
+skew
+skew /skjuː/ BrE  AmE  verb [transitive]
+[Date: 1300-1400; Language: Old North French; Origin: escuer 'to avoid']
+1. if something skews the results of a test etc, it affects them, making them incorrect:
+ All the people we questioned lived in the same area, which had the effect of skewing the figures.
+2. to affect or influence someone’s ideas, actions, or judgment, especially in a way that makes the ideas etc not correct or fair:
+ These assumptions about Communism skewed American foreign policy for decades.
+ 
+ sop
+
+ / sCp; sBp/ n 
+ [sing] ~ (to sb/sth) thing offered to a displeased or troublesome person to calm him or win his favour 用以慰藉或讨好某人的事物: offered as a sop to his anger 给他消气儿用的 * The child was given a prize as a sop to her disappointed parents. 给那孩子一个奖品是为了安慰她父母的失望心情. 
+ [C] piece of bread, etc dipped in liquid (eg milk, soup) before being eaten or cooked 泡湿的面包片等（如浸过牛奶、汤等）.
+
+ > sop v (-pp-) (infml 口) 
+ [Tn] dip or soak (bread, etc) in liquid 将（面包等）在液体中蘸或浸泡: sop bread in soup 把面包浸在汤中. 
+ (phr v) sop sth up take up (liquid, etc) with a sponge, cloth, etc 用海绵、布等吸起（液体等）: Sop up the water with a paper towel. 用纸巾把水吸干.
+ sopping adj, adv very wet; drenched 很潮湿的; 湿透的: Your clothes are sopping (wet)! 你的衣服湿透了!
+From Longman DOCE5 Extras (En-En)
+sop
+I. noun
+COLLOCATIONS FROM OTHER ENTRIES
+soaking/sopping/wringing wet (=very wet)
+▪ His suit was soaking wet.
+EXAMPLES FROM CORPUS
+▪ A dangerous game, a sop to his conscience, he told himself, and he had his enemies.
+▪ Before the election, they often gave the impression that they saw it only as a sop for disaffected left-wing intellectuals.
+▪ It was a contemptuous sop of a clue, something they thought they could afford, but it might be useful.
+▪ Some critics question its sustainability and others view it as a sop to pacify the poor.
+▪ The most substantive problem, which advocates try to hide, is that the flat tax is a sop to the rich.
+▪ This latest move is seen mainly as a sop to the increasingly militant, student-led protests demanding an immediate trial.
+▪ Yet, underneath all that show of sop and decency was a man utterly fixed on himself, on his own concerns.
+II. verb
+COLLOCATIONS FROM CORPUS
+■ ADVERB
+up
+▪ Beneath his glass lay a sheet of paper, sopping up wine.
+▪ She wanted to sop up whatever it was that drove Carrie away.
+▪ The amendment passed, and the Gallos sopped up millions.
+▪ Off we went to a rickety bar in Sabinal Mextown and spent an hour sopping up the brew.
+
+mortify
+mor·tify [mortify mortifies mortified mortifying] BrE [ˈmɔːtɪfaɪ]  NAmE [ˈmɔːrtɪfaɪ]  verb (mor·ti·fies, mor·ti·fy·ing, mor·ti·fied, mor·ti·fied) usually passive ~ sb (to do sth) | it mortifies sb that…
+to make sb feel very ashamed or embarrassed
+Syn: ↑humiliate
+• She was mortified to realize he had heard every word she said.
+Derived Words: ↑mortification ▪ ↑mortifying
+Verb forms: 
+ 
+Word Origin:
+late Middle English (in the senses ‘put to death’, ‘deaden’, and ‘subdue by self-denial’): from Old French mortifier, from ecclesiastical Latin mortificare ‘kill, subdue’, from mors, mort- ‘death’.
+ 
+Example Bank:
+• I was mortified when I realized I had forgotten our lunch date.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+mortify
+
+ / 5mR:tIfaI; `mRrtE9faI/ v (pt, pp -fied) 
+ [Tn usu passive 通常用于被动语态] cause (sb) to be very ashamed or embarrassed 使（某人）深感羞辱或难堪: He was/felt mortified. 他深感羞愧. * a mortifying failure, defeat, mistake, etc 使人丢脸的失败、挫折、错误等. 
+ [Tn] (fml or joc 文或谑) control (human desires or needs) by discipline or self-denial 约束, 克制（欲望或需要）: mortify the flesh, ie one's body 克制肉欲.
+ > mortification / 9mR:tIfI5keIFn; 9mRrtEfE`keFEn/ n [U] : To his mortification, he was criticized by the managing director in front of all his junior colleagues. 他在全体下级同事面前受到总经理的批评, 感到很难堪.
+ 
+ acquaint
+ac‧quaint /əˈkweɪnt/ BrE  AmE  verb [transitive] formal
+[Date: 1200-1300; Language: Old French; Origin: acointier, from Medieval Latin accognitare, from Late Latin accognoscere 'to know perfectly', from Latin ad- 'to' + cognoscere 'to know']
+1. acquaint yourself with something to deliberately find out about something:
+ I need to acquaint myself with the new regulations.
+2. acquaint somebody with something to give someone information about something:
+ You need to acquaint the police with the facts.
+ acquaint
+verb
+PHRASES FROM OTHER ENTRIES
+be acquainted with sth
+▪ people who are acquainted with the problems of poverty
+▪ All teachers must be acquainted with the use of cine projectors.
+▪ He and Mr. O'Brien were acquainted with one another and on first name terms.
+▪ He has gone through a very extensive course of reading, and is acquainted with all the sciences.
+▪ Mr Reed was acquainted with Pedro Bissonnette.
+▪ So you are acquainted with Madonna Benedetta.
+▪ The number of scriptural references applicable to bereavement seemed legion - and Kenneth seemed to be acquainted with each and every one.
+▪ We all know him by reputation, and many of us are acquainted with him person-ally.
+▪ When he preached a funeral, you could tell he was acquainted with the deceased.

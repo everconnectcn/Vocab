@@ -12912,6 +12912,8 @@ Thesaurus+: ↑Cautious and vigilant ↑Paying attention and being careful ↑Do
 • Buyers should be wary of hidden costs when purchasing their holiday.
 • The teacher was wary of giving his pupils too much information at once.
 Derived: warily ▪ wariness
-=======
->>>>>>> 4ffbc68d8a02fd2dab7b7a873921fcdfb6410ec5
->>>>>>> e2594cb44b8270a79a21d970700317c174e9651e
+
+2. informal someone who is extremely good, kind, or patient:
+ His wife must have been a saint to put up with him for all those years.
+3. the patience of a saint a very large amount of patience:
+ You need the patience of a saint for this job.
