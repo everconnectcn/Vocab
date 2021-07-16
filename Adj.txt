@@ -6523,6 +6523,7 @@ noun countable literary
 an important or famous person
 • Other notables among his pupils were the kings of Saudi Arabia and Thailand.
 Thesaurus+: ↑Important people and describing important people ↑Wealthy people ↑Famous people
+<<<<<<< HEAD
 >>>>>>> 4ffbc68d8a02fd2dab7b7a873921fcdfb6410ec5
 
 
@@ -6544,6 +6545,714 @@ dubious about
  The room was decorated in dubious taste.
 —dubiously adverb
 —dubiousness noun [uncountable]
+=======
+
+gut-wrenching
+gut-wrenching UK  US  [ˈgʌtˌren t ʃ.ɪŋ] informal adjective
+making you want to vomit
+• gut-wrenching scenes of bloodshed
+Thesaurus+: ↑Saddening, shocking and upsetting
+From Longman DOCE 5th Ed. (En-En)
+gut-wrenching
+ˈgut-ˌwrenching BrE  AmE  adjective
+making you feel very upset or anxious:
+ a gut-wrenching description of life in the war zone
+ 
+ soggy
+
+ / 5sCgI; `sB^I/ adj (-ier, -iest) 
+ very wet; heavy with water 透湿的: The ground was soggy after heavy rain. 下了一场大雨, 地面很湿. 
+ (usu derog 通常作贬义) moist and unpleasantly heavy 潮湿而沉重的:soggy bread 潮乎乎的面包.
+ > soggily / -IlI; -IlI/ adv. sogginess n [U].
+From Longman DOCE5 Extras (En-En)
+soggy
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ A soggy pile of old leaves lay in the corner of the yard.
+▪ Breakfast was terrible - the eggs were burnt and the toast was soggy.
+▪ Rick couldn't face another picnic lunch on a soggy paper plate.
+▪ These cornflakes get soggy really fast in milk.
+EXAMPLES FROM CORPUS
+▪ A second entry and exit gate was available, but the soggy conditions would have rendered it useless within minutes.
+▪ At the time our soggy mission was a singleminded search for a classic Vienna coffeehouse.
+▪ I forgot my wetness, my dripping jeans, the soggy waterlogged ground.
+▪ It is not a thought soggy with the milk of human kindness.
+▪ Rainy days could mean exposed roots, soggy fields, or plows that drowned in the mud and muck.
+▪ She furiously grasped hold of a clump of soggy weed and after more slipping and sliding finally managed to heave herself out.
+▪ Showers spray everywhere, creating soggy toilet paper and slippery floors.
+From dictd_www.dict.org_gcide
+
+
+con·du·cive BrE [kənˈdjuːsɪv]  NAmE [kənˈduːsɪv]  adjective ~ to sth
+making it easy, possible or likely for sth to happen
+• Chairs in rows are not as conducive to discussion as chairs arranged in a circle.
+• The soft lights and music were conducive to a relaxed atmosphere.
+ 
+Word Origin:
+[conducive] mid 17th cent.: from conduce, from Latin conducere ‘bring together’, on the pattern of words such as conductive.
+ 
+Example Bank:
+• The noise was hardly conducive to a good night's sleep.
+• an environment conducive to learning
+From Oxford Advanced Learner's English-Ch
+▪ Marquez concluded that the generally disturbed conditions were conducive to his plan.
+▪ Other things being equal, visual improvements are conducive to survival and reproduction.
+▪ Sloping, well-drained land is conducive to the right amount of ch'i.
+▪ That kind of jealous behaviour isn't conducive to having a healthy, strong relationship.
+▪ The account, I consider, is not conducive to professional or racial harmony.
+▪ The blazing sun and swaying boat were hardly conducive to yuletide cheer.
+▪ The more radical strategies will not be feasible unless the political climate of the organisation is conducive to major change.
+▪ This situation was hardly conducive to the unification of the country through the medium of the press.
+
+intensive
+in‧ten‧sive AC /ɪnˈtensɪv/ BrE  AmE  adjective
+1. involving a lot of activity, effort, or careful attention in a short period of time:
+ a one-week intensive course in English
+ a day of intensive negotiations
+2. intensive farming/agriculture farming which produces a lot of food from a small area of land
+3. energy-intensive/knowledge-intensive etc involving or needing a lot of energy, knowledge etc:
+ a knowledge-intensive industry ⇨ ↑capital-intensive, ↑labour-intensive
+—intensively adverb
+
+adjective
+ 
+READY
+1. after verb ready and prepared
+• Shall we go now - is everyone set?
+• Is everything all set for the party?
+• At the beginning of a race, the starter often says "On your marks, get set, go" or "Ready, get set, go".
+• We were just getting set to leave when Ben said he had something important to tell us.
+Thesaurus+: ↑Ready and willing ↑Unwilling and reluctant
+2. after verb likely or in a suitable condition
+• He looks set to become world champion again this year.
+Thesaurus+: ↑Ready and willing ↑Unwilling and reluctant
+ 
+FIXED
+3. fixed or never changing
+• My parents say I have to be home by a set time.
+• The restaurant does a set lunch (= a meal which is offered at a fixed price, but with little or no choice about what you have to eat) on Sundays.
+• The receptionist had a bright set smile on his face, but I could tell that he was bored.
+• My father has very set opinions/views on the matter.
+Thesaurus+: ↑Standard and routine
+4. set expression/phrase
+a phrase in which the words are always used in the same order
+Thesaurus+: ↑Sentences and expressions
+ 
+ neurotic
+neurotic UK  [njʊəˈrɒt.ɪk] US  [nʊrˈɑː.t ̬ɪk] adjective
+behaving strangely or in an anxious (= worried and nervous) way, often because you have a mental illness
+• neurotic behaviour/tendencies
+• She's neurotic about her weight - she weighs herself three times a day.
+Thesaurus+: ↑Mental and psychiatric disorders
+Derived: neurotically
+ 
+noun countable
+someone who behaves strangely, often because they have a mental illness
+Thesaurus+: ↑Mental and psychiatric disorders
+From Longman DOCE 5th Ed. (En-En)
+neurotic
+neu‧rot‧ic /njʊˈrɒtɪk $ nʊˈrɑː-/ BrE  AmE  adjective
+1. unreasonably anxious or afraid:
+ He seemed a neurotic, self-obsessed man.
+2. technical relating to or affected by neurosis:
+ neurotic disorders
+—neurotic noun [countable]:
+ She accused him of being a neurotic.
+—neurotically /-kli/ adverb
+From Oxford Advanced Learners Dictionary 8th Ed.
+neurotic
+neur·ot·ic [neurotic neurotics] adjective, noun BrE [njʊəˈrɒtɪk]  NAmE [nʊˈrɑːtɪk] 
+adjective
+1. caused by or suffering from ↑neurosis
+• neurotic obsessions
+2. not behaving in a reasonable, calm way, because you are worried about sth
+• She became neurotic about keeping the house clean.
+• a brilliant but neurotic actor
+ 
+Synonyms:
+mentally ill
+insane • neurotic • psychotic • disturbed • unstable
+These words all describe sb who is suffering from a mental illness.
+mentally ill • suffering from an illness of the mind, especially in a way that affects the way you think and behave
+insane • [not usually before noun] (rather formal) suffering from a serious mental illness and unable to live in normal society: ▪ The question is, was the man insane when he committed the crime?
+In informal English insane can describe sb who is not suffering from a mental illness, but whose mind does not work normally, especially because they are under pressure. This meaning is used especially in the phrases go insane and drive sb insane.
+neurotic • (medical) suffering from or connected with neurosis (= a mental illness in which a person suffers strong feelings of fear and worry): ▪ the treatment of anxiety in neurotic patients
+In informal English neurotic is also used to describe sb who is not suffering from a mental illness, but is not behaving in a calm way because they are worried about sth: ▪ She became neurotic about keeping the house clean.
+psychotic • (medical) suffering from or connected with psychosis (= a serious mental illness in which thought and emotions lose connection with external reality). In informal English psychotic is sometimes used to describe anyone suffering from a mental illness, but in correct medical usage it only describes people who have difficulty relating to external reality. It contrasts with neurotic which describes people who are less seriously mentally ill and are still able to distinguish what is real from what is not.
+disturbed • mentally ill, especially because of very unhappy or shocking experiences: ▪ He works with emotionally disturbed children.
+unstable • having emotions and behaviour that are likely to change suddenly and unexpectedly
+neurotic/psychotic/disturbed/unstable behaviour
+neurotic/psychotic illnesses/disorders/symptoms/patients
+seriously mentally ill/neurotic/psychotic/disturbed
+emotionally/mentally disturbed/unstable
+
+normative (plural normatives)
+A regulation imposed to preserve a norm.
+1990, Czechoslovak Economic Papers (issue 28, page 42)
+Most important are the so-called economic normatives. They either specify the minimal efficiency of productive resources utilization or regulate the distribution of the enterprises revenue.
+
+creep up (third-person singular simple present creeps up, present participle creeping up, simple past and past participle crept up)
+(intransitive) To advance or increase with stealth, unnoticed (literally or figuratively).
+The lioness has to creep up behind her prey so as not to be noticed.
+2014, A teacher, "Choosing a primary school: a teacher's guide for parents", The Guardian, 23 September 2014:
+These days cramped classrooms are all too common, with class sizes creeping up.
+1898, J. Meade Falkner, Moonfleet Chapter 4
+Then I was forced to rest; and, sitting down on the ground, saw that the glimmering streak of light had faded, and that the awful blackness of the previous night was creeping up again.
+
+creep
+creep UK  US  [kriːp] verb intransitive usually + adverb or preposition [crept], [crept] [crept creeps creeping]
+to move slowly, quietly and carefully, usually in order to avoid being noticed
+• She turned off the light and crept through the door.
+• Someone was creeping around outside my window.
+• The spider crept up the wall.
+• The traffic was creeping along at a snail's pace.
+Thesaurus+: ↑Moving to avoid being seen ↑Slow and moving slowly
+Phrasal Verbs: creep in into something ▪ creep over somebody ▪ creep up ▪ creep up on somebody
+ 
+noun informal
+ 
+PERSON
+1. countable UK someone who tries to make someone more important like them by being very polite and helpful in a way that is not sincere
+• Making coffee for the boss again? You creep!
+Thesaurus+: ↑Praising insincerely or too eagerly
+2. countable an unpleasant person, especially a man
+• He was a real creep - he was always staring at me in the canteen.
+• as form of address Leave me alone, you creep!
+Thesaurus+: ↑Unpleasant men ↑Unpleasant people in general UK  US 
+3. give sb the creeps
+to cause someone to have uncomfortable feelings of nervousness or fear
+• Living next to a graveyard would give me the creeps.
+Thesaurus+: ↑Frightening and scaring
+
+proverbial
+pro‧ver‧bi‧al /prəˈvɜːbiəl $ -ɜːr-/ BrE  AmE  adjective
+1. the proverbial something used when you describe something using part of a well-known expression:
+ The store had everything including the proverbial kitchen sink.
+2. relating to a proverb:
+ a proverbial expression
+3. well known by a lot of people:
+ His modesty is proverbial.
+—proverbially adverb
+proverb
+prov‧erb /ˈprɒvɜːb $ ˈprɑːvɜːrb/ BrE  AmE  noun [countable]
+[Date: 1300-1400; Language: Old French; Origin: proverbe, from Latin proverbium, from verbum 'word']
+a short well-known statement that gives advice or expresses something that is generally true. ‘A penny saved is a penny earned’ is an example of a proverb. ⇨ saying
+
+
+cramped
+cramped /kræmpt/ BrE  AmE  adjective
+1. a cramped room, building etc does not have enough space for the people in it ⇨ crowded:
+ The kitchen was small and cramped.
+ a cramped apartment
+ The troops slept in cramped conditions with up to 20 in a single room.
+2. (also cramped up) unable to move properly and feeling uncomfortable because there is not enough space:
+ cramped muscles
+3. writing that is cramped is very small and difficult to read
+• • •
+THESAURUS
+▪ small not large in size, amount, or effect: a small boat | small businesses | a small amount of money | small changes
+▪ little [usually before noun] small – used about objects, places, and living things. Used especially with other adjectives to show how you feel about someone or something: It’s a very pretty little town. | The poor little dog has hurt its leg. | The cake was decorated with little flowers.
+▪ low used about prices, rents, levels, or standards: People on low incomes are finding it difficult to pay fuel bills. | The crime rate in the area is relatively low.
+▪ slight [usually before noun] small and not very important or not very noticeable: a slight problem | There’s been a slight improvement in his health. | a slight increase in sales
+▪ minor small and not important or not serious: minor injuries | We’ve made some minor changes to the program.
+▪ compact small – used about places, buildings etc in which space is used effectively, or about phones, cameras, cars etc which are designed to be much smaller than usual: The apartments are very compact. | a compact camera | It is a pleasant and compact city.
+▪ poky especially British English used about a room, house etc that is too small: a poky bedroom | a poky flat
+▪ cramped used about a space, room, or vehicle that is too small because people do not have enough room to move around: They all lived together in a cramped apartment. | The car feels cramped with four adults in it.
+
+crammed
+crammed /kræmd/ BrE  AmE  adjective
+crammed with/crammed full of something completely full of things or people SYN packed:
+ The guide is crammed full of useful information.
+ The streets were crammed with people.
+• • •
+THESAURUS
+▪ full containing as much or as many things or people as possible, so there is no space left: The train was nearly full. | The cupboard was full of clothes. | He spilled a full cup of coffee on the carpet.
+▪ filled with something full of something – use this about a container when a lot of things have been put into it: The envelopes were filled with cash.
+▪ stuffed full of something completely full of something – use this about a container when lots of things have been put into it, often in an untidy way: The case was stuffed full of clothes.
+▪ packed completely full of people – use this about a room, train etc: a packed restaurant | The courtroom will be packed with journalists.
+▪ bursting (with something) extremely full of something: Her wardrobe was bursting with coats and shoes. | a small garden bursting with fruit and flowers
+▪ crammed so full that you cannot fit anyone or anything else in – often used when you think there are too many people or things: In summer, the hotels are crammed with tourists. | The resort’s crammed beaches are uncomfortable in summer.
+▪ teeming (with something) /ˈtiːmɪŋ/ full of people, animals etc that are all moving around: The rivers are teeming with fish.
+▪ overflowing used about a container that is so full that the liquid or things inside it come out over the top: an overflowing bathtub | The drawers were overflowing with magazines.
+▪ overloaded used about a vehicle or a ship which has too many people or things in it: an overloaded fishing boat | The trucks are often grossly overloaded (=far too overloaded).
+
+finicky
+fin‧i‧cky /ˈfɪnɪki/ BrE  AmE  adjective
+[Date: 1500-1600; Origin: finical 'finicky' (16-20 centuries), probably from ⇨ ↑fine1]
+1. too concerned with unimportant details and small things that you like or dislike SYN fussy:
+ She’s very finicky about what she eats.
+2. needing to be done very carefully, while paying attention to small details SYN fiddly:
+ a finicky job
+ finicky (comparative finickier or more finicky, superlative finickiest or most finicky)
+(informal, of a person) Fastidious and fussy; difficult to please; exacting, especially about details.
+Synonyms: fastidious, fussy; see also Thesaurus:fastidious
+My editor is very finicky about punctuation. Every dot and comma has to be just right.
+She has a finicky baby that's hard to feed.
+(informal) Demanding; requiring above-normal care.
+The lawnmower is a bit finicky in cold weather.
+
+fiddly
+fiddly UK  US  [ˈfɪd.li] adjective informal [fiddlier fiddliest]
+difficult to do because the parts involved are small
+• Repairing a watch is a very fiddly job.
+• I hate painting the fiddly bits in the corner.
+Thesaurus+: ↑Complicated and difficult to do ↑Difficult to understand
+From Longman DOCE 5th Ed. (En-En)
+fiddly
+fid‧dly /ˈfɪdli/ BrE  AmE  adjective British English informal
+difficult to do, especially because you have to deal with very small objects:
+ Fixing the TV was a fiddly job.
+From Oxford Advanced Learners Dictionary 8th Ed.
+fiddly
+fid·dly [fiddly fiddlier fiddliest] BrE [ˈfɪdli]  NAmE [ˈfɪdli]  adjective (BrE, informal)(fid·dlier, fid·dli·est)
+difficult to do or use because small objects are involved
+• Changing a fuse is one of those fiddly jobs I hate.
+• Zips are less fiddly than buttons.
+• It was very fiddly to do with gloves on.
+ 
+Example Bank:
+• Stringing the beads looked a bit fiddly.
+
+mesmerize
+mesmerize, UK usually mesmerise UK  US  [ˈmez.mə.raɪz] verb [mesmerizes mesmerizing mesmerized]
+1. transitive often passive to have someone's attention completely so that they cannot think of anything else
+• I was completely mesmerized by the performance.
+Thesaurus+: ↑Making people excited and interested ↑Inspiration and inspiring
+2. transitive old-fashioned for hypnotize
+Thesaurus+: ↑Alternative and traditional therapies
+EXAMPLES FROM OTHER ENTRIES
+▪ Audiences will be mesmerized by the film's dazzling photography.
+EXAMPLES FROM CORPUS
+▪ He stuck the candle upright in a socket then sat and gazed at the flame, letting it mesmerize him into memory.
+
+To exercise mesmerism on; to affect another person, such as to heal or soothe, through the use of animal magnetism.
+1936, Rollo Ahmed, The Black Art, London: Long, page 142:
+Mesmer had about a hundred people whom he had instructed as magnetisers, some of whom belonged to the nobility, who also "mesmerised" people by making passes over the affected parts of the body.
+To spellbind; to enthrall.
+1913, Joseph C. Lincoln, chapter 4, in Mr. Pratt's Patients, page 99:
+Then he commenced to talk, really talk, and inside of two flaps of a herring’s fin he had me mesmerized, like Eben Holt’s boy at the town hall show. He talked about the ills of humanity, and the glories of health and Nature and service and land knows what all.
+She mesmerized the audience with her tricks
+
+savory
+savoury UK , US savory UK  [ˈseɪ.v ə r.i] US  [-vɚ-] adjective
+1. Savoury food is salty or spicy and not sweet in taste
+• savoury dumplings/pancakes
+Thesaurus+: ↑Flavours and tastes
+2. If you say that something is not savoury, you mean that it is not pleasant or socially acceptable
+• That hotel doesn't have a very savoury reputation.
+Thesaurus+: ↑Morality and rules of behaviour
+From Longman DOCE 5th Ed. (En-En)
+savory
+I. sa‧vo‧ry1 /ˈseɪvəri/ BrE  AmE  adjective
+[Date: 1200-1300; Language: Old French; Origin: savouré, past participle of savourer, from savour; ↑savor2]
+the American spelling of ↑savoury
+II. savory2 BrE  AmE  noun
+[Date: 1300-1400; Language: Latin; Origin: satureia]
+[uncountable] a plant that is used in cooking to add taste to meat and other food
+III. sa‧vour‧y1 BrE  AmE  British English, savory American English /ˈseɪvəri/ adjective
+1. British English savoury food tastes of salt OPP sweet:
+ savoury party snacks
+ pancakes with sweet and savoury fillings
+2. a savoury smell or taste is strong and pleasant but is not sweet
+3. not very savoury/none too savoury unpleasant or morally unacceptable ⇨ unsavoury:
+ Some of the customers in the pub looked none too savoury.
+ 
+ leniency
+leniency UK  US  [ˈliː.ni.ən t.si] noun uncountable
+• The defending lawyer asked for leniency on the grounds of her client's youth.
+
+▪ a very lenient sentence
+▪ He was given a comparatively lenient fine.
+▪ His parents are too lenient with him.
+▪ Some police officers have criticized judges for being too lenient with car thieves and burglars.
+▪ The prosecution lawyer challenged the sentence as being unduly lenient.
+▪ The younger teachers generally had a more lenient attitude towards their students.
+EXAMPLES FROM CORPUS
+▪ After a hundred miles he grew lenient and took out bread-and-butter sandwiches from the back of the car.
+▪ He will press for stricter, not more lenient, pollution controls.
+▪ In the mid 1970s Soviet emigration policies became more lenient.
+▪ Many argue that such an appeal by the Crown against too lenient a sentence is simply not cricket.
+▪ People say she was lenient with me.
+▪ That is a nearly four-fold increase over the number who lost out under the old, more lenient rules.
+▪ With regard to crimes that are known about, the police and courts may be more lenient with female offenders.
+
+bleeding-heart (comparative more bleeding-heart, superlative most bleeding-heart)
+Overly sympathetic to the plight of the underprivileged or exploited.
+
+impoverished
+impoverished UK  [ɪmˈpɒv. ə r.ɪʃt] US  [-ˈpɑː.vɚ-] formal adjective
+1. very poor
+• She's going out with an impoverished young actor.
+Thesaurus+: ↑Poverty and poor
+2. made weaker or worse in quality
+• He warned that the breakdown of the family unit would lead to an impoverished society.
+Thesaurus+: ↑Deteriorating and making worse
+Derived: impoverish ▪ impoverishment
+impoverish
+impoverish UK  US  UK [ɪmˈpɒv. ə r.ɪʃ] US [-ˈpɑː.vɚ-] verb transitive
+• Excessive farming had impoverished the soil.
+• The new law is likely to further impoverish single parents.
+Thesaurus+: ↑Deteriorating and making worse
+Main entry: impoverishedderived
+
+pronounced
+pronounced UK  US  [prəˈnaʊn t st] adjective
+very noticeable or certain
+• I'm told I have a very pronounced English accent when I speak French.
+• She's a woman of very pronounced views which she is not afraid to air.
+Thesaurus+: ↑Certainty ↑Confidence and self-assurance ↑Apparent and obvious ↑Visible
+
+well-to-do
+ˌwell-to-ˈdo BrE  AmE  adjective
+1. rich and with a high social position:
+ well-to-do families
+2. the well-to-do people who are rich
+• • •
+THESAURUS
+▪ rich having a lot of money – used about people and places: She married a rich Greek shipowner. | one of the world’s richest nations
+▪ wealthy rich – used about people and places, especially when they have been rich for a long time: wealthy landowners | Orange County is a very wealthy area. | a wealthy Arab businessman
+▪ affluent formal rich – used about societies, groups of people, or areas where people live, where people have nice houses and a lot of expensive possessions: today’s affluent society | affluent young professionals | an affluent suburb of Boston
+▪ prosperous formal rich – used about places and groups of people, especially when their money is related to success in business: Sales have grown fastest in the more prosperous areas of the south. | prosperous merchants and bankers
+▪ well-off fairly rich compared to other people, so that you can live very comfortably: Her parents are pretty well-off. | children from well-off families
+▪ well-to-do written rich – used especially in the past about families and people who had a fairly high position in society: Only well-to-do families could afford to send their children to university. | The Westons were now well-to-do and there was no necessity for work.
+▪ privileged having special advantages because your family have a lot of money and a high position in society: He comes from a privileged background. | The sport was only played by a privileged few.
+▪ comfortably off [not before noun] having enough money to have a nice life without having to worry about money: I wouldn’t say that we were rich – just comfortably off.
+▪ be rolling in it/be loaded informal to be extremely rich: They’ve got two houses and a boat – they must be rolling in it. | Her books were so successful that she’s loaded now.
+
+Noun[edit]
+tendie (plural tendies)
+(food, colloquial, usually in the plural) A chicken tender.
+2013 April 19, rachel.ka.smith [username], “Uhh...They reopened Manchu Wok”, in paginalife, Usenet‎[1]:
+Grade "A" tendies and mozz sticks.
+2015, Cynthia Rozzo, East Cobber Magazine, (May 2015 issue), pg. 38
+Favorite Food: Chicken Tendies
+2015, Charlie Hickerson, Native magazine (issue 36), pg. 77
+It's an attitude that's certainly reflected during our interview at DOZA's house, where chicken tenders and Courvoisier (our dinner for the night) are referred to as "dank tendies and drank" [...]
+2015, Devon Mann, Islands' Sounder (December 26, 2015 issue), pg. 5
+"The life of crime just pulls you in," says Gnineerg, "you think it's just one cheese stick then then [sic] you're dealing three or four bags of tendies a day. It's a dark road."
+(finance, Internet slang, usually in the plural) The money or financial instruments that are gained by independent currency or securities traders following a successful wager or risk.
+2021 January 29, John Herrman, “Everything’s a Joke Until It’s Not”, in The New York Times‎[2]:
+In recent weeks, the only way to get up to speed with WallStreetBets would have been through full immersion, absorbing comments about “tendies” and “diamond hands” and “holding the line” until you worked up the nerve to post the group’s most beloved slogan for yourself: “We like the stock.”
+
+sappy
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ a sappy love song
+EXAMPLES FROM CORPUS
+▪ Each of us struggles daily in a never-ending war between our brilliant selves and our sappy selves.
+▪ If the plant grows emersed, the leaves are dark green, stiff, leathery, sappy and very acutely branched.
+▪ In a sappy January 19 letter, Likins informed them they have one month to submit their appeal documentation to him.
+▪ Just plain sappy is more like it.
+▪ No sharp notes of sappy odours textured the blue air.
+▪ With clunky writing, the characters are simply shallow, callow and cold, when not being sappy or self-pitying.
+sappy
+sap‧py /ˈsæpi/ BrE  AmE  adjective
+1. American English expressing love and emotions in a way that seems silly SYN soppy British English:
+ a sappy song
+2. full of ↑sap (=liquid in a plant)
+
+carefree
+carefree UK  [ˈkeə.friː] US  [ˈker-] adjective
+having no problems or not being worried about anything
+• I remember my carefree student days.
+Thesaurus+: ↑Calm and relaxed
+carefree
+care‧free /ˈkeəfriː $ ˈker-/ BrE  AmE  adjective
+having no worries or problems:
+ He thought back to the carefree days of his childhood.
+ a carefree attitude
+ carefree
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ carefree and fun-loving youngsters
+▪ a carefree summer vacation
+▪ I felt carefree for the first time in my life.
+▪ They both laughed, feeling like two carefree schoolgirls.
+EXAMPLES FROM CORPUS
+▪ After four carefree years, one enters the Company, where the daily round of obedient toil begins again.
+▪ He watched them eat and, listening to their carefree laughter, was content.
+▪ His carefree choreography freed something in them, as well.
+▪ Susan and Mary Lee probably needed more patience and carefree love than our particular family had to give.
+▪ That October evening had seemed, for the minute he stood transfixed outside, so joyful and carefree.
+▪ The contrast between Dysart's carefree existence and his own would have been too much to bear.
+▪ Zachary Ryan Clements was killed during a hide-and-seek game on one of those carefree summer afternoons.
+
+incredulous
+
+ / In5kredjUlEs; ?@ -dVu:l-; In`krZdVElEs/ adj not willing or able to believe; showing disbelief 不肯轻信的; 不能相信的; 表示怀疑的: an incredulous look, stare, gaze, etc 怀疑的神情、注视、逼视等.
+ > incredulity / 9INkrI5dju:lEtI; ?@ -5du:-; 9InkrE`dulEtI/ n [U]: an expression of shock and utter incredulity 愕然而十分怀疑的神情. incredulously adv.
+From Longman DOCE5 Extras (En-En)
+incredulous
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ "A millionaire!" she was incredulous. "Like hell he is!"
+▪ "You don't have a car?" asked one incredulous woman.
+▪ Everyone looked incredulous when I said I used to drive a taxi.
+▪ The announcement was met by incredulous laughter.
+EXAMPLES FROM CORPUS
+▪ A sob rose in his throat, blending with an incredulous, nervous giggle framed by his lips.
+▪ I came to sensible awareness; to incredulous understanding.
+▪ In view of the latter's steady, incredulous gaze, I could not blame him.
+▪ The judges were so incredulous they twice remeasured the length of the course.
+▪ With a flourish he removed the cover and revealed to the incredulous eyes of the staff a feast of sausages and bacon.
+
+cynical (comparative more cynical, superlative most cynical)
+Of or relating to the belief that human actions are motivated only or primarily by base desires or selfishness.
+1755, Samuel Johnson, To the Earl of Chesterfield:
+I hope it is no very cynical asperity not to confess obligations where no benefit has been received.
+Skeptical of the integrity, sincerity, or motives of others.
+Bitterly or jadedly distrustful or contemptuous; mocking.
+1945 August 17, George Orwell [pseudonym; Eric Arthur Blair], chapter 1, in Animal Farm: A Fairy Story, London: Secker & Warburg, OCLC 3655473:
+He seldom talked, and when he did, it was usually to make some cynical remark-for instance, he would say that God had given him a tail to keep the flies off, but that he would sooner have had no tail and no flies.
+Showing contempt for accepted moral standards by one's actions.
+1907 August, Robert W[illiam] Chambers, chapter X, in The Younger Set, New York, N.Y.: D. Appleton & Company, OCLC 24962326:
+When he, at Neergard's cynical suggestion, had consented to exploit his own club […] and had consented to resign from it to do so, he had every reason to believe that Neergard meant to either mulct them heavily or buy them out. In either case, having been useful to Neergard, his profits from the transaction would have been considerable.
+(medicine, rare) Like the actions of a snarling dog, especially in reference to facial nerve paralysis.
+1818, Matthieu Joseph Bonaventure Orfila, A Treatise on Mineral, Vegetable, and Animal Poisons, Considered as to their Relations with Physiology, Pathology, and Medical Jurisprudence:
+Towards noon, he experienced convulsive movements; the extremities became stiff, the pulse extremely small, and he died during an attack of cynical spasm.
+1857, New Orleans Medical News and Hospital Gazette - Volume 3, page 278:
+On the contrary, in woman, the cynical spasm, though felt with as much, or even more violence than the other sex, is not followed with the same deleterious effects, and may be repeated much oftener without any unfavorable consequences.
+1986, Giuseppe Roccatagliata, A History of Ancient Psychiatry, page 125:
+Demetrius Attalicus studied the symptomatologies due to strictura cerebri, characterized by a cynical spasm of the facial nerve.
+2009, Hilary Evans & Robert E. Bartholomew, Outbreak!: The Encyclopedia of Extraordinary Social Behavior, →ISBN:
+Something of the same sort happened at Hensberg, Germany, where the nuns were afflicted and committed the sin they called “the silent sin.” In their ecstasies, their convulsions were very violent and interspersed with “cynical movements of the pelvis.”
+
+irrefutable
+ir‧re‧fu‧ta‧ble /ˌɪrɪˈfjuːtəbəl◂ $ ɪˈrefjətəbəl, ˌɪrɪˈfjuː-/ BrE  AmE  adjective
+an irrefutable statement, argument etc cannot be proved to be wrong, and must be accepted ⇨ refute
+irrefutable evidence/proof/facts
+ irrefutable proof of his innocence
+—irrefutably adverb
+
+arable
+ar‧a‧ble /ˈærəbəl/ BrE  AmE  adjective
+[Date: 1400-1500; Language: Latin; Origin: arabilis, from arare 'to plow']
+relating to growing crops:
+ arable farming
+ arable land (=land that is suitable for growing crops)
+• • •
+THESAURUS
+▪ farm an area of land, used for growing crops or keeping animals: a 300-hectare farm | a dairy farm | a sheep farm
+▪ ranch a very large farm in the western US, Canada, or South America where sheep, cattle, or horses are bred: a cattle ranch in Wyoming
+▪ smallholding British English a piece of land used for farming, that is smaller than an ordinary farm: a smallholding used for organic farming
+▪ plantation a large area of land in a hot country, where crops such as tea, cotton, and sugar are grown: a rubber plantation | a tea plantation
+▪ homestead a piece of land for farming that was given to people in the past by the US and Canadian governments: He still farms on the family homestead, a hundred years after his grandfather received it.
+▪ spread American English informal an area of land used for farming or ranching: They have a pretty big spread just south of the Canadian border.
+▪ market garden an area of land, often with ↑greenhouses on it, used for growing vegetables and fruit: He runs his own market garden, and sells his produce to the big supermarkets.
+▪ orchard an area of land with trees, used for growing fruit: an apple orchard | cherry orchards
+▪ allotment British English a small area of land of land, especially in a town or city, which you can use for growing your own vegetables.The land is usually owned by the local council, who charge a very low rent: We grew the tomatoes on our allotment.
+▪ agriculture the practice of farming: More than 75% of the land is used for agriculture.
+▪ arable adjective relating to growing crops: a lack of arable land
+
+gory
+gor‧y /ˈɡɔːri/ BrE  AmE  adjective
+1. informal clearly describing or showing violence, blood, and killing:
+ a gory horror movie
+ gory tales of murder
+2. (all) the gory details all the details about an unpleasant or interesting event – often used humorously:
+ Come on, I want to hear all the gory details.
+3. literary covered in blood
+• • •
+THESAURUS
+▪ violent /ˈvaɪələnt/ using force to hurt or kill people – used about people, crimes etc. Also used about films or books that contain a lot of violence: a violent man who couldn’t control his temper | the increase in violent crime | The film is too violent to be shown to children.
+▪ vicious /ˈvɪʃəs/ violent and dangerous, and seeming to enjoy hurting people for no reason: a vicious attack on an unarmed man | We were surrounded by a gang of vicious thugs, armed with knives.
+▪ rough /rʌf/ using force or violence, but not causing serious injury: Some of the boys were being a bit rough with the younger kids. | There were complaints about rough treatment by the police.
+▪ brutal /ˈbruːtl/ behaving in a way that is very cruel and violent, and showing no pity: Idi Amin was a brutal dictator. | a particularly brutal murder | The prison guards were brutal and corrupt.
+▪ savage /ˈsævɪdʒ/ attacking people in a particularly cruel way – used about people and fighting, especially in news reports: a savage killer | There was savage fighting in the capital Mogadishu.
+▪ bloody a bloody battle or war is very violent and a lot of people are killed or injured: a bloody civil war | The Russians were engaged in a bloody battle against the German army.
+▪ ferocious /fəˈrəʊʃəs/ a ferocious attack or battle is extremely violent. Also used about animals that are likley to attack in a very violent way: The two armies fought a ferocious battle. | a ferocious beast | It was the most ferocious attack I have ever seen.
+▪ fierce a fierce animal or person looks frightening and likely to attack people: A fierce dog stood growling at the gate. | Bears are always fierce when they have young. | fierce bodyguards
+▪ bloodthirsty a bloodthirsty person enjoys watching violence. A bloodthirsty story contains a lot of violent scenes: In Mexico, humans were sacrificed to bloodthirsty gods. | a bloodthirsty tale of revenge
+▪ gory showing or describing injuries, blood, death etc clearly and in detail: a gory horror movie | The book was too gory for many readers.
+■ NOUN
+detail
+▪ However, 44% of you feel that these reports should leave the gory details out and 39% feel they encourage copycat crimes.
+▪ Log on and get the gory details.
+▪ The children loved the ship and gory details of life aboard.
+EXAMPLES FROM OTHER ENTRIES
+▪ The book's descriptions of the killings were unbelievably gory.
+EXAMPLES FROM CORPUS
+▪ Forget the stories about chivalrous knights and the clash of arms - it was one gory, blood-spattered mess.
+▪ He had his friend grab the dead man by the hair and raise the gory head off the ground, brains dripping.
+▪ However, 44% of you feel that these reports should leave the gory details out and 39% feel they encourage copycat crimes.
+▪ It is like a simmering volcano that occasionally throws up spurts of gory violence.
+▪ It is, at times, too gory for kids.
+▪ She returned to her gory work, which had become less disturbing than her conversations with von Stein.
+▪ The regiment halted amidst a gory, ghastly scene.
+gore2 BrE  AmE  noun
+[Language: Old English; Origin: gor 'dirt']
+[uncountable] literary thick dark blood that has flowed from a wound ⇨ gory:
+ He likes movies with plenty of blood and gore (=violence).
+ 
+▪ A gore or gusset is, in fact, another name for a scoot.
+▪ He was dimly tempted to say, though, that he knew a thing or two about gore.
+▪ His face was powder-stained and his uniform darkened with gore.
+▪ The man's cheeks were tattooed with little vermilion chalices brimming with gore.
+▪ Then you can limit the gore by just cutting off the laces to save her.
+▪ There is more than one way to skin a theatrical cat, and McDonagh's chosen weapons are laughter and gore.
+▪ To obtain the cupped or hemispherical shape with fairly smooth lines, the number of gores should be increased with the diameter.
+▪ Yes, sir, the vicious Canuck will not rest until the Republic is lying in its own blood and gore!
+
+icky
+ick‧y /ˈɪki/ BrE  AmE  adjective spoken
+[Date: 1900-2000; Origin: Perhaps from sticky]
+very unpleasant, especially to look at, taste, or feel SYN yucky:
+ There was some icky black stuff between the tiles.
+ 
+ iffy
+if‧fy /ˈɪfi/ BrE  AmE  adjective informal
+[Date: 1900-2000; Origin: if]
+1. British English not very good:
+ That meat smells a bit iffy to me.
+2. not certain to happen SYN doubtful:
+ The July date is still rather iffy.
+ 
+ 
+ rosy
+ros‧y /ˈrəʊzi $ ˈroʊ-/ BrE  AmE  adjective (comparative rosier, superlative rosiest)
+1. seeming to offer hope of success or happiness:
+ a company that sees a rosy future for itself
+ Letters to relatives in Europe painted a rosy picture of life in the United States.
+2. pink:
+ the kids' rosy cheeks
+• • •
+THESAURUS
+▪ optimistic believing that good things will happen: I’m optimistic about our chances of winning. | an optimistic view of the future
+▪ hopeful believing that what you hope for will happen: The test results made him feel more hopeful about his chances of recovery.
+▪ positive thinking about what is good in a situation, rather than what is bad: Try to be more positive about your work. | She has a very positive attitude to life.
+▪ upbeat having a cheerful attitude and showing that you expect to succeed, or that a situation will get better, especially the economic or political situation: The Prime Minister was upbeat, predicting that the economy would soon come out of recession. | an upbeat message about the party’s chances of winning the election
+▪ bullish feeling confident about the future – used especially when talking the economic situation, or a company’s chances of success: He’s very bullish about the company’s prospects. | Stockmarket analysts expect the bullish trend to continue.
+▪ sanguine formal hopeful and not worried about what will happen in the future, especially when the situation seems difficult – a very formal use: Koons himself somehow remains sanguine in the face of all the criticism. | Other commentators are less sanguine, and fear that the world economy is on the verge of recession.
+▪ rosy if the future or your life seems rosy, it seems good and you expect good things to happen: The future looks rosy for the team. | Returning soldiers found life less rosy than they had hoped. | The price of oil keeps going up, and things look pretty rosy for the big oil companies.
+▪ look on the bright side to consider the good parts of a situation, which seems bad in many other ways – used especially when telling someone that they should do this: Look on the bright side – it could have been a lot worse.
+
+on the fly (not comparable)
+(baseball, of the ball) Without a bounce.
+Jones caught the ball on the fly
+(idiomatic) Spontaneously or extemporaneously; done as one goes, or during another activity.
+The software program has a table of values for some results, but calculates others on the fly.
+
+(be) all mouth
+be all mouth idiom (UK also be all mouth and no trousers) informal
+to talk a lot about doing something but never do it
+• He says he's going to complain to the manager, but I reckon he's all mouth.
+Thesaurus+: ↑Talkative and eloquent
+Main entry: mouthidiom
+
+picky
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+a picky/fussy eater (=someone who will only eat a few particular things, and is difficult to please)
+▪ My son’s a very picky eater, and only eats bread and peanut butter.
+EXAMPLES FROM CORPUS
+▪ At these prices, one can hardly be picky.
+▪ Dinner's fine, but it's on me, as long as you don't get picky and expect anything too complicated.
+▪ I get really finicky and picky.
+▪ Ralph, though, was in no position to be picky.
+▪ The child may be a very picky eater; for example, refusing anything but peanut butter sandwiches and macaroni.
+▪ This time you are going to be very picky.
+▪ With more than 60 museums from which to choose, visitors to Paris must be picky.
+
+Adjective[edit]
+sluttish (comparative more sluttish, superlative most sluttish)
+(vulgar) Like a slut; sexually promiscuous.
+(chiefly dated) Dirty or untidy; disorderly.
+1815 (1823 reprint), Walter Scott, Guy Mannering, in the Novels and Tales of the Author of Waverly, volume 3:
+[…] an air of liberal, though sluttish, plenty, indicated the wealthy farmer.
+1934 George Orwell, Burmese Days:
+[…] and it was dark and sluttish as all Burmese rooms are, though U Po Kyin had furnished it 'Ingaleik fashion' with a veneered sideboard and chairs […] "
+1996 February 7, Helen Fielding, Bridget Jones's Diary ([1], accessed 2009-08-03), in The Independent (London):
+"Check plates and cutlery for tell-tale signs of sluttish washing up […] "
+
+airy
+air‧y /ˈeəri $ ˈeri/ BrE  AmE  adjective
+1. an airy room or building has plenty of fresh air because it is large or has a lot of windows:
+ All the hotel’s bedrooms are light and airy.
+2. done in a happy and confident way, even when you should be serious or worried:
+ He dismissed her concerns with an airy wave of the hand.
+ 
+ dew
+ / dju:; ?@ du:; du/ n [U] tiny drops of moisture condensed on cool surfaces from water vapour in the air, esp at night 露水: The grass was wet with dew. 草被露水沾湿了.
+ > dewy adj wet with dew 为露水所湿的; 带露水的. ,dewy-`eyed adj nave and trusting 单纯天真、易轻信人的: You can't be too dewy-eyed if you want to succeed. 要成功就不能太天真.
+ # `dewdrop n drop of dew 露珠.
+ dewy
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ dewy grass
+EXAMPLES FROM CORPUS
+▪ After a short time I was walking, the morning sunlight on the dewy grass.
+▪ Everything was dewy and peaceful and quiet.
+▪ I get all dewy and misty-eyed when I read the Constitution.
+▪ It will begin to look and feel revitalised and dewy.
+▪ Richard did not turn up until dawn, the first birds chirping over the lush, dewy college lawns.
+▪ The berries on the trees, dust washed off at last, have an inviting dewy sheen.
+▪ The forsythia bushes at the back of the santuario yielded a delicate, sweet scent in the dewy air.
+▪ They can be blotted down for an even more subtle finish, if you prefer, then topped with a dewy lipgloss.
+dew
+noun
+EXAMPLES FROM CORPUS
+▪ Drops of dew trembled on the flowers.
+▪ During July, August and September there would be quite heavy dew in the sheltered hollows along the wood.
+▪ Heavy pearl drops of dew splashed noisily on jute leaves that had fallen to the ground.
+▪ It was early, and dew still lingered in the grass.
+▪ Ropes became fringed with a rime of dew.
+▪ The dew vanished from the flowers; they began to lose their freshness and to wilt, passing from hand to hand.
+▪ They may also trap the dew in hairs.
+▪ They said the cotton was heavier at dawn because of the dew and you could make more money than in the afternoon.
+dewy (comparative dewier or more dewy, superlative dewiest or most dewy)
+Covered by dew.
+Synonyms: bedewed, rory; see also Thesaurus:bedewed
+The dewy grass was too slick for football.
+Having the quality of bearing droplets of water.
+In the dewy fog, it was cold and damp.
+1831, Edgar Allan Poe, The Sleeper:
+At midnight, in the month of June, / I stand beneath the mystic moon. / An opiate vapor, dewy, dim, / Exhales from out her golden rim
+Fresh and innocent.
+1814, 16 March, Percy Bysshe Shelley letter to Hogg, Thy Gentle Face
+Thy dewy looks sink in my breast
+Thy gentle words stir poison there;
+1906 January–October, Joseph Conrad, chapter II, in The Secret Agent: A Simple Tale, London: Methuen & Co., […], published 1907, OCLC 270548466; The Secret Agent: A Simple Tale (Collection of British Authors; 3995), copyright edition, Leipzig: Bernhard Tauchnitz, 1907, OCLC 1107573959, page 13:
+It was unusually early for him; his whole person exhaled the charm of almost dewy freshness; [...]
+2009, Bernfried Nugel; Jerome Meckier, Aldous Huxley Annual, →ISBN, page 23:
+Simplicity in life, simplicity in art, and a dewy freshness over all.
+
+homey (comparative homier, superlative homiest)
+Befitting a home; cozy, intimate.
+Susan added some homey touches to her office.
+
+
+antsy
+antsy US  [ˈænt.si] US slang adjective
+very nervous, worried or unpleasantly excited
+• It was a long drive and the children started to get antsy.
+• I always get antsy about meeting my husband's boss.
+Thesaurus+: ↑Becoming too excited and easily upset
+
+baggy
+bag‧gy /ˈbæɡi/ BrE  AmE  adjective
+baggy clothes are big and do not fit tightly on your body OPP tight:
+ She was wearing jeans and a baggy T-shirt.
+ 
+ beefy
+beefy UK  US  [ˈbiː.fi] informal adjective [beefier beefiest]
+1. describes someone who looks strong, heavy and powerful
+• a beefy footballer
+Thesaurus+: ↑Fat or well-built
+2. powerful and effective
+• I want to buy myself a beefier computer.
+Thesaurus+: ↑Physically strong and powerful
+
+dodgy
+dodg‧y /ˈdɒdʒi $ ˈdɑː-/ BrE  AmE  adjective British English informal
+1. not working properly or not in good condition:
+ Norton Disk Doctor can perform miracles on a dodgy hard disk.
+ Simon was rushed to hospital after eating what must have been dodgy prawns.
+2. seeming to be false, dishonest, or not to be trusted:
+ One girl thought the men looked dodgy.
+ dodgy share dealings
+3. involving risk or danger:
+ There were a few dodgy moments.
+>>>>>>> f12082e2466560a105c9f22f1c0ebba3902fd230
 • • •
 THESAURUS
 ■ seeming to be dishonest
@@ -6552,6 +7261,7 @@ THESAURUS
 ▪ shady shady business deals or people seem to be dishonest or connected with secret and illegal activities: Several senior members of the party had been involved in shady deals. | a shady character
 ▪ shifty someone who looks shifty looks as if they are doing or planning something dishonest: The man on the market stall looked a bit shifty when he gave me my change.
 ▪ dodgy British English informal probably dishonest and not to be trusted – used especially to say that you do not want to be involved with someone or something: There’s something a bit dodgy about him. | dodgy business deals
+<<<<<<< HEAD
 From Longman DOCE5 Extras (En-En)
 
 
@@ -6774,3 +7484,742 @@ EXAMPLES FROM CORPUS
 ▪ Initially this focusing of attention is hypothesized to improve task performance by concentrating resources on the salient aspects of stimuli.
 ▪ The most salient committees, in our experience, are ones responsible for capital budgeting, strategic planning, and compensation.
 ▪ We should say that their thoughts are captured by salient information where they should be centrally directed, inhibited and co-ordinated.
+=======
+
+dingy
+dingy UK  US  [ˈdɪn.dʒi] adjective [dingier dingiest]
+dark and often also dirty
+• a dingy room/corridor
+• Her hair was a dingy brown colour.
+Thesaurus+: ↑Darkness and becoming dark
+Derived: dingily
+From Longman DOCE 5th Ed. (En-En)
+dingy
+din‧gy /ˈdɪndʒi/ BrE  AmE  adjective (comparative dingier, superlative dingiest)
+[Date: 1700-1800; Origin: Perhaps from dungy 'dirty' (15-19 centuries), from dung]
+dark, dirty, and in bad condition:
+ a dingy room
+ a dingy side-street
+—dinginess noun [uncountable]
+• • •
+THESAURUS
+▪ dirty not clean: His clothes were untidy and he had dirty hands.
+▪ filthy very dirty: Each year filthy water causes millions of cases of illness.
+▪ muddy covered with mud: It had been raining hard and the path was muddy.
+▪ dusty covered with dust: the dusty shelves in the attic
+▪ greasy covered with oil or grease: Greasy food is bad for your health.
+▪ grubby (also mucky British English) informal fairly dirty and needing to be cleaned or washed: He was wearing a grubby white T-shirt. | mucky fingers
+▪ grimy covered with thick dirt or dirt that has been there a long time: I couldn’t see much out of the grimy windows of the train.
+▪ dingy /ˈdɪndʒi/ looking dark, dirty, and unpleasant. Used about rooms, houses, and buildings: We worked in a dingy little office behind the station.
+▪ polluted used about land, water, or air that has been made dirty: 85% of city dwellers breathe heavily polluted air.
+▪ contaminated made dirty by a dangerous substance or bacteria: The virus is mainly spread through contaminated food.
+▪ squalid /ˈskwɒləd, ˈskwɒlɪd $ ˈskwɑː-/ formal extremely dirty and unpleasant. Used about the place or conditions in which someone lives: People are living in squalid conditions, with little water and no sanitation.
+▪ unhygienic /ʌnhaɪˈdʒiːnɪk◂ $ -ˈdʒe-, -ˈdʒiː-/ formal used about dirty conditions that are likely to cause disease, especially conditions in kitchens, restaurants, and hospitals: The food was prepared under unhygienic conditions.
+▪ unsanitary (also insanitary British English) formal used about dirty conditions that are likely to cause disease, especially because there is not a good system for getting rid of waste: People’s health is being threatened by overcrowded and insanitary homes. | They work for long hours in unsanitary conditions.
+▪ soiled formal made dirty, especially by waste from your body: Soiled nappies should be changed as quickly as possible.
+
+fad
+fad /fæd/ BrE  AmE  noun [countable]
+[Date: 1800-1900; Origin: Perhaps from fiddle-faddle]
+something that people like or do for a short time, or that is fashionable for a short time:
+ Interest in organic food is not a fad, it’s here to stay.
+—faddish adjective
+—faddishness noun [uncountable]
+• • •
+THESAURUS
+▪ fashion noun [uncountable and countable] a style of clothes, hair, behaviour etc that is fashionable. Fashion is also used as an uncountable noun, when talking about all of these styles in general: the latest fashions from Donna Karan | changing fashions in popular music | I'm not interested in fashion.
+▪ vogue noun [singular,uncountable] if there is a vogue for something, or it is in vogue, it is fashionable. Vogue sounds more formal and typical of the language that more educated speakers use than fashion: the current vogue for realistic animated films | There was a vogue for cream furniture in the 1920s. | His pictures are very much in vogue these days.
+▪ trend noun [countable] a way of doing something or a way of thinking that is becoming fashionable or popular: The magazine focuses on the latest trends in contemporary design. | The trend is for people to wait longer to marry and have children.
+▪ craze/fad noun [countable] informal a fashion, activity, type of music etc that suddenly becomes very popular, but only remains popular for a short time – often used about things that you think are rather silly: a new fitness craze | the current fad for bare white walls and uncomfortable-looking metal furniture | I'm sure it's just a passing fad (=something that will soon stop being fashionable). | fad diets
+▪ something is all the rage formal used when saying that something is very popular and fashionable for a short time: The game was all the rage at her school.
+
+flaky
+flak‧y /ˈfleɪki/ BrE  AmE  adjective
+1. tending to break into small thin pieces:
+ flaky pastry
+ flaky skin
+2. especially informal American English a flaky person is slightly strange or often forgets things:
+ Carrie’s pretty flaky but she’s fun to be with.
+—flakiness noun [uncountable]
+▪ Brown, though flaky, shows a restless intelligence.
+▪ Christy was kind of flaky, but everyone liked her.
+▪ rich, flaky croissants
+▪ You couldn't trust Sam to do anything important. He was too flaky.
+EXAMPLES FROM CORPUS
+▪ He stared with wonder at the dozen flaky homemade biscuits poised on the bed of fresh crabmeat and fragrant sauce.
+▪ However, dry flaky skin on the scalp is often wrongly diagnosed as dandruff.
+▪ It dipped and fluttered in the chilly air, its wings drab and flaky.
+▪ It dries flaky in the cool air of the cab.
+▪ My flaky judgments were modest by comparison-but numerous enough to keep me hopeful of regaining the dunce cap this year.
+▪ Nevertheless, in I978 on Wall Street it was flaky to think that home mortgages could be big business.
+▪ The front-door was-covered with flaky green paint and there was no keyhole.
+▪ There is kind of a flaky factor.
+gazelle
+
+gooey
+goo‧ey /ˈɡuːi/ BrE  AmE  adjective (comparative gooier, superlative gooiest) informal
+1. sticky and soft:
+ gooey cakes
+ gooey mud
+2. showing your love for someone in a way that other people think is silly SYN soppy:
+ Babies make her go all gooey.
+ gooey
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ Babies make her go all gooey.
+EXAMPLES FROM CORPUS
+▪ Bars turned gooey as they slid underwater - then the youngsters slipped on them when they stood up to get out.
+▪ Gao Ma pulled himself out of the gooey slops.
+▪ She gave me a gooey smile and then eased her grip.
+▪ The car managed like it was stuck in gooey caramel, because a car is like a horse sometimes.
+▪ The Mars bar will melt into a gooey mess ... which tastes absolutely delicious.
+▪ This gooey mess was wiped off with towels at the end of the evening.
+
+fool around (third-person singular simple present fools around, present participle fooling around, simple past and past participle fooled around)
+(intransitive, idiomatic) To engage in frivolous behaviour; to monkey around.
+(intransitive) To waste time.
+(intransitive, informal, idiomatic) To engage in casual or flirtatious sexual acts.
+Jake has been fooling around with a married woman.
+(intransitive, informal) To engage in adultery; to play around.
+
+goof
+I. goof1 /ɡuːf/ BrE  AmE  (also goof up) verb [intransitive and transitive]
+especially American English informal to make a silly mistake:
+ Somebody goofed and entered the wrong amount.
+ The restaurant totally goofed up our reservations.
+goof around phrasal verb American English informal
+to spend time doing silly things or not doing very much SYN mess about British English:
+ We spent the afternoon just goofing around on our bikes.
+goof off phrasal verb American English informal
+to waste time or avoid doing any work:
+ He’s been goofing off at school.
+II. goof2 BrE  AmE  noun [countable] especially American English informal
+[Date: 1900-2000; Origin: Probably from goff 'stupid person' (16-20 centuries), from French goffe 'awkward, stupid']
+1. (also goof up) a silly mistake:
+ The goof could cost the city $5 million.
+2. (also goofball) someone who is silly
+
+gutsy
+guts‧y /ˈɡʌtsi/ BrE  AmE  adjective informal
+1. if someone’s behaviour is gutsy, it is brave and determined:
+ It was a gutsy performance by McTaggart.
+2. if something is gutsy, it is strong and interesting:
+ a gutsy full-bodied wine
+gut
+I. gut1 /ɡʌt/ BrE  AmE  noun
+[Language: Old English; Origin: guttas (plural)]
+1. gut reaction/feeling/instinct informal a reaction or feeling that you are sure is right, although you cannot give a reason for it:
+ He had a gut feeling that Sarah was lying.
+2. COURAGE guts [plural] informal the courage and determination you need to do something difficult or unpleasant:
+ It takes guts to start a new business on your own.
+have the guts (to do something)
+ No one had the guts to tell Paul what a mistake he was making.
+3. INSIDE YOUR BODY
+a) guts [plural] all the organs in someone’s body, especially when they have come out of their body:
+ There were blood and guts all over the place.
+b) [countable] the tube through which food passes from your stomach SYN intestine:
+ It can take 72 hours for food to pass through the gut.
+4. STOMACH [countable] informal someone’s stomach, especially when it is large SYN belly:
+ He felt as if someone had just kicked him in the gut.
+ Phil has a huge beer gut (=unattractive fat stomach caused by drinking too much beer).
+5. STRING [uncountable] a type of strong string made from the ↑intestine of an animal, and used for musical instruments such as ↑violins ⇨ ↑catgut
+6. MACHINE/EQUIPMENT guts [plural] informal the parts inside a machine or piece of equipment
+7. MOST IMPORTANT PARTS guts [plural] informal the most important or basic parts of something
+guts of
+ the guts of the problem
+8. work/sweat your guts out (also slog your guts out British English) informal to work very hard
+9. at gut level if you know something at gut level, you feel sure about it, though you could not give a reason for it:
+ She knew at gut level that he was guilty.
+10. I’ll have sb’s guts for garters British English informal used to say that you would like to punish someone severely for something they have done
+⇨ ↑blood-and-guts, ⇨ bust a gut at ↑bust1(3), ⇨ hate sb’s guts at ↑hate1(2), ⇨ spill your guts at ↑spill1(4)
+
+hasty
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+a hasty conclusion (=one that you reach too quickly, so that you are probably wrong)
+▪ Researchers must beware of drawing hasty conclusions.
+a hasty decision (=one that you make without enough thought)
+▪ Don't let yourself be forced into making hasty decisions.
+a hasty/speedy departure (=done very quickly and suddenly)
+▪ I was surprised by her hasty departure.
+a quick/hasty/hurried breakfast
+▪ I grabbed a quick breakfast and ran to the bus stop.
+beat a hasty retreat
+▪ I saw my aunt coming and beat a hasty retreat.
+COLLOCATIONS FROM CORPUS
+■ ADVERB
+too
+▪ By Monday evening, Mattie was beginning to wonder whether she had been too hasty.
+▪ Yet 1 trust that judgments will not be too hasty.
+▪ They were urged not to be too hasty in cutting losses.
+▪ Perhaps, I thought, I'd been too hasty in rejecting Sergia and her muscle-bound cohorts.
+▪ Again, however, we must be careful not to reach a too hasty conclusion.
+
+▪ In 15 years, China will likely surpass the U.S. as the world's largest market.
+EXAMPLES FROM CORPUS
+▪ Among the Copernicans there was exhilaration at the thought that man, in his astronomical understanding, had now surpassed the ancients.
+▪ An analysis of landfills shows that thrown away food far surpasses plastics in volume.
+▪ By 1988, K-Mart and Wal-Mart were both well on their way to surpassing Sears in the world-wide merchandising business.
+▪ Even Luzhkov has surpassed Yeltsin in national support, receiving 12 percent.
+▪ In the early 1990s, Goodby helped Sega surpass Nintendo.
+▪ This surpasses amounts raised by such better-known parts of the University of Maryland at Baltimore as the schools of pharmacy and dentistry.
+▪ Yet the permanent achievements of her reign were not surpassed by any other ruler of the age.
+
+elevated
+el‧e‧vat‧ed /ˈeləveɪtəd, ˈelɪveɪtəd/ BrE  AmE  adjective
+1. elevated thoughts, words etc seem to be intelligent or of high moral standard:
+ elevated philosophical language
+2. [only before noun] an elevated position or rank is very important and respected SYN high
+3. raised off the ground or higher up than other things:
+ The train runs on an elevated track.
+4. formal elevated levels, temperatures etc are higher than normal SYN high:
+ elevated blood sugar levels
+elevate
+el‧e‧vate /ˈeləveɪt, ˈelɪveɪt/ BrE  AmE  verb [transitive]
+[Date: 1300-1400; Language: Latin; Origin: elevatus, past participle of elevare 'to lift up']
+1. formal to move someone or something to a more important level or rank, or make them better than before SYN raise:
+ Language has elevated humans above the other animals.
+elevate somebody/something to something
+ Their purpose is to elevate AIDS to the top of government priorities.
+2. technical to lift someone or something to a higher position:
+ Gradually elevate the patient into an upright position.
+3. technical to increase the amount, temperature, pressure etc of something SYN raise:
+ These drugs may elevate acid levels in the blood.
+ 
+ hefty
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+a hefty/fat feeinformal (= a very large fee)
+▪ Customers are being charged a hefty fee for their telephone service.
+heavy/hefty fine (=a large fine)
+▪ If convicted, the men face heavy fines.
+COLLOCATIONS FROM CORPUS
+■ NOUN
+fine
+▪ Restaurateurs have already been warned they could face hefty fines if they fail to join the Darlington Council register before April 3.
+▪ The penalty: a five-year jail sentence and hefty fines.
+▪ A hefty fine would help concentrate the mind and could save the lives of commuters.
+▪ Threats of jail sentences and hefty fines aim to deter.
+price
+▪ That penalty could be a hefty price, considering how many communities depend on federal funds.
+sum
+▪ Contact lenses often get lost during competition, so bear this in mind before you spend a hefty sum on them.
+tax
+▪ The only way to avert this would be hefty tax increases.
+▪ Pataki is cutting deeply into spending on Medicaid and welfare in order to pay for hefty tax cuts.
+
+lofty
+loft‧y /ˈlɒfti $ ˈlɒː/ BrE  AmE  adjective
+1. literary lofty mountains, buildings etc are very high and impressive:
+ He stayed at the Four Seasons Hotel, from whose lofty heights he could see across New York.
+2. lofty ideas, beliefs, attitudes etc show high standards or high moral qualities – use this to show approval:
+ lofty ideals of equality and social justice
+ He had set himself the lofty goal of reaching the world’s top five.
+3. seeming to think you are better than other people – used to show disapproval:
+ She has such a lofty manner.
+—loftily adverb
+—loftiness noun [uncountable]
+• • •
+THESAURUS
+■ buildings/mountains etc
+▪ high measuring a long distance from the bottom to the top – used about mountains, walls, and buildings: the highest mountain in the world | The castle was surrounded by high walls. | a high cliff | The council told the architects the tower was too high.
+▪ tall high – used about people, trees, plants, and buildings. Tall is used especially about things that are high and narrow: tall marble columns | A cat was hiding in the tall grass. | a tall modern building
+▪ majestic especially written very impressive because of being very big and tall – used about mountains, buildings, trees, and animals: the majestic mountains of the Himalayas | The abbey is noted for its majestic arches, fine doorways and elegant windows. | The cathedral looked majestic in the evening light.
+▪ soaring [only before noun] especially written used about a building or mountain that looks extremely tall and impressive: a soaring skyscraper | the soaring towers of the palace
+▪ towering [only before noun] especially written extremely high, in a way that seems impressive but also often rather frightening: The sky was shut out by the towering walls of the prison. | towering trees
+▪ lofty [usually before noun] literary very high and impressive – used in literature: the lofty peaks in the far distance
+▪ high-rise [usually before noun] a high-rise building is a tall modern building with a lot of floors containing apartments or offices: a high-rise apartment block | He works in a high-rise office in New York.
+
+worthy
+I. wor‧thy1 /ˈwɜːði $ ˈwɜːrði/ BrE  AmE  adjective
+[Word Family: noun: ↑worth, ↑worthlessness, ↑worthy, ↑unworthiness; adjective: worth, ↑worthless, ↑worthwhile, ↑worthy ≠ ↑unworthy]
+1. [only before noun] deserving respect from people:
+ Leeds United were worthy winners of the competition.
+ a worthy opponent
+2. be worthy of something to deserve to be thought about or treated in a particular way:
+ A couple of other books are worthy of mention.
+ a teacher who is worthy of respect
+3. be worthy of somebody informal to be as good as something that a particular person would do:
+ a goal that was worthy of any of the great footballers of the world
+4. I’m/We’re not worthy spoken used humorously to say that you consider it a great honour to be with someone because they are famous, or much more skilful at doing something than you are
+5. formal trying to help other people:
+ The money will go to a worthy cause.
+ I’m sure his motives were worthy.
+II. worthy2 BrE  AmE  noun (plural worthies) [countable]
+[Word Family: noun: ↑worth, ↑worthlessness, ↑worthy, ↑unworthiness; adjective: worth, ↑worthless, ↑worthwhile, ↑worthy ≠ ↑unworthy]
+informal someone who is important and should be respected:
+ We were met by a group of local worthies.
+ 
+ wobbly
+wobbly UK  [ˈwɒb.l ̩.i] US  [ˈwɑː.bl ̩-] adjective [wobblier wobbliest]
+ 
+MOVING
+1. likely to wobble
+• a wobbly ladder/table
+• I've been in bed with flu and my legs are still feeling all wobbly.
+• "Look, I've got a wobbly tooth," said my little daughter, proudly.
+• humorous I'm trying to tone up my wobbly bits (= fat areas of the body) generally.
+Thesaurus+: ↑Shaking, swinging and vibrating
+ 
+NOT CERTAIN
+2. informal uncertain what to do or changing repeatedly between two opinions
+• Last week I felt sure I was doing the right thing but I've started to feel a bit wobbly about it.
+Thesaurus+: ↑Doubt and ambivalence ↑Hesitating
+ 
+noun UK informal
+throw a wobbly
+to become extremely angry and upset
+• My parents threw a wobbly when they found out I'd had a party while they were away.
+Thesaurus+: ↑Becoming angry and expressing anger
+wobble
+wobble UK  [ˈwɒb.l ̩] US  [ˈwɑː.bl ̩] verb [wobbles wobbling wobbled]
+ 
+MOVE
+1. intransitive or transitive to (cause something to) shake or move from side to side in a way that shows poor balance
+• That bookcase wobbles whenever you put anything on it.
+• Don't wobble the table, please, Dan.
+• figurative The company's shares wobbled with the news of a foreign takeover bid.
+Thesaurus+: ↑Shaking, swinging and vibrating
+ 
+NOT CERTAIN
+2. intransitive informal to be uncertain what to do or to change repeatedly between two opinions
+• The government can't afford to wobble on this issue.
+Thesaurus+: ↑Doubt and ambivalence ↑Hesitating
+
+wiggle
+wiggle UK  US  [ˈwɪg.l ̩] verb intransitive or transitive informal [wiggles wiggling wiggled]
+to (cause to) move up and down and/or from side to side with small quick movements
+• He tried wiggling the control stick but nothing happened.
+• She wiggled her toes in the water.
+• Her hips wiggle as she walks.
+Thesaurus+: ↑Shaking, swinging and vibrating
+ 
+noun countable
+a small, quick movement up and down and/or from side to side
+• With a wiggle of her hips, she pulled up the trousers.
+Thesaurus+: ↑Shaking, swinging and vibrating
+
+whacky
+whacky, US usually wacky UK  US  [ˈwæk.i] adjective informal [whackier whackiest]
+strange or unusual
+• The place is stuffed with whacky memorabilia like a sculpture of the Seven Dwarfs that Walt Disney gave to Debbie Reynolds.
+Thesaurus+: ↑Strange, suspicious and unnatural
+See also: wacky
+
+swamp
+swamp UK  [swɒmp] US  [swɑːmp] noun countable or uncountable [swamps]
+(an area of) very wet soft land
+• an alligator-infested swamp
+• The Everglades are an area of swamp in southern Florida.
+Thesaurus+: ↑Wetland
+ 
+verb
+ 
+COVER
+1. transitive to cover a place or thing with a large amount of water
+• High tides have swamped the coast.
+• The boat was swamped by an enormous wave.
+Thesaurus+: ↑Enclosing, surrounding and immersing
+ 
+TOO MUCH/BIG
+2. transitive often passive If something swamps a person, system or place, they receive more of it than they can easily deal with
+• Foreign cars have swamped the UK market.
+• I'm swamped with work at the moment.
+• Don't let feelings of depression swamp you.
+Thesaurus+: ↑Causing difficulties for oneself or others
+3. transitive informal If clothes swamp you, they are much too big for you.
+Thesaurus+: ↑The style, appearance, and make-up of clothes ↑Big and quite big ↑Enormous
+
+thorny
+thorny [thorny thornier thorniest] BrE [ˈθɔːni]  NAmE [ˈθɔːrni]  adjective (thorn·ier, thorni·est)
+1. usually before noun causing difficulty or disagreement
+Syn: ↑knotty
+• a thorny question/issue/problem
+2. having ↑thorns
+• a thorny bush
+ 
+Example Bank:
+• There are still some thorny questions to be answered.
+• They must tackle the thorny issue of refugees to negotiate a final settlement.
+
+touchy
+touchy [touchy touchier touchiest] BrE [ˈtʌtʃi]  NAmE [ˈtʌtʃi]  adjective (touch·ier, touchi·est)
+1. not usually before noun ~ (about sth) (of a person) easily upset or offended
+Syn: ↑sensitive
+• He's a little touchy about his weight.
+• She gets very touchy if you mention the divorce.
+2. usually before noun (of a subject) that may upset or offend people and should therefore be dealt with carefully
+Syn: ↑delicate, Syn: ↑sensitive
+• I can't understand why her resignation is still such a touchy subject.
+Derived Word: ↑touchiness
+ 
+Word Origin:
+early 17th cent.: perhaps an alteration of ↑tetchy, influenced by ↑touch.
+ 
+Example Bank:
+• He seems very touchy today.
+• I felt somewhat touchy about my role in last night's disaster.
+• I'm a bit touchy on that topic right now.
+• She became touchy and irritable.
+• That's a very touchy subject with him right now.
+• He's a little touchy about his weight.
+
+stinky
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ stinky swamp water
+EXAMPLES FROM CORPUS
+▪ But the scientists were encouraged that stinky methane stabilized after 12 days.
+▪ Fat Juanita was too bloody old, fat and stinky for the Game really.
+▪ Finally, out they came, plastic slipcover and all, into the stinky junk heap.
+▪ Reports of scorched and stinky alien bodies at the Roswell air field hospital?
+
+stocky
+stock‧y /ˈstɒki $ ˈstɑː-/ BrE  AmE  adjective (comparative stockier, superlative stockiest)
+a stocky person is short and heavy and looks strong:
+ a stocky build
+—stockily adverb
+—stockiness noun [uncountable]
+• • •
+THESAURUS
+■ person
+▪ short someone who is short is not as tall as most people: He was a short fat man.
+▪ not very tall quite short. This phrase sounds more gentle than saying that someone is short: She wasn’t very tall – maybe about 1.60 m.
+▪ small short and with a small body: My mother was a small woman. | The girl was quite small for her age (=smaller than other girls of the same age).
+▪ petite used about a woman who is attractively short and thin: She was a petite woman with blonde hair.
+▪ stocky used about a boy or man who is short, heavy, and strong: Harry was stocky and middle-aged.
+▪ dumpy short and fat: a dumpy girl with red hair
+▪ diminutive formal literary very short or small – used especially in descriptions in novels: a diminutive figure dressed in black
+▪ stubby stubby fingers or toes are short and thick: the baby’s stubby little fingers
+
+desolate
+desolate UK  US  [ˈdes. ə l.ət] adjective
+EMPTY
+1. describes a place that is empty and not attractive, with no people or nothing pleasant in it
+• The house stood in a bleak and desolate landscape.
+Thesaurus+: ↑Empty ↑Not attractive to look at ↑Serious and unpleasant
+SAD
+2. extremely sad and feeling alone
+• She felt desolate when her closest friend moved away.
+Thesaurus+: ↑Feeling sad and unhappy
+Derived: desolated ▪ desolately
+From Longman DOCE 5th Ed. (En-En)
+desolate
+I. des‧o‧late1 /ˈdesələt/ BrE  AmE  adjective
+[Date: 1300-1400; Language: Latin; Origin: desolatus, from solus 'alone']
+1. a place that is desolate is empty and looks sad because there are no people there:
+ a desolate landscape
+2. someone who is desolate feels very sad and lonely
+—desolately adverb
+—desolation /ˌdesəˈleɪʃən/ noun [uncountable]
+II. des‧o‧late2 /ˈdesəleɪt/ BrE  AmE  verb [transitive usually passive] literary
+to make someone feel very sad and lonely SYN devastate:
+ David was desolated by his wife’s death.
+—desolated adjective
+desolate
+ / 5desElEt; `dZsElEt/ adj 
+ (of a place) deserted and miserable （指地方）无人烟的, 荒凉的, 荒芜的: a desolate industrial landscape 工业废墟 * a desolate, windswept moorland area 荒凉的、受强风吹袭的高沼地区. 
+ miserable and without friends; lonely and sad 凄凉而无友的; 孤凄的: a desolate person, life, existence 孤独而凄凉的人、生活、生活情况 * We all felt absolutely desolate when she left. 她走后, 我们都觉得万分孤寂.
+ > desolate / 5desEleIt; `dZsE9let/ v [Tn esp passive 尤用于被动语态] 
+ leave (a place) ruined and deserted 使（某处）沦为废墟; 使荒凉: a city desolated by civil strife 遭内乱破坏的城市.
+ make (sb) sad and hopeless 使（某人）悲伤绝望: a family desolated by the loss of a child 因失去孩子而悲痛欲绝的一家人.
+ desolately adv.
+ desolation / 9desE5leIFn; 9dZsE`leFEn/ n [U]
+ desolating or being desolated (desolate v 1) 遗弃; 荒凉; 破坏: the desolation caused by war 战争造成的满目疮痍. 
+ misery; loneliness 凄凉; 孤寂: her utter desolation when she heard the bad news 她听到那坏消息时极度悲伤.
+ 
+ opposite
+I. op‧po‧site1 S2 W2 /ˈɒpəzət, ˈɒpəzɪt $ ˈɑːp-/ BrE  AmE  preposition
+1. especially British English if one thing or person is opposite another, they are facing each other:
+ The people sitting opposite us looked very familiar.
+ on the wall opposite the door
+► Do not say that one thing is ‘opposite to’ or ‘opposite of’ another. Say that one thing is opposite another: There’s a car park opposite the hotel.
+2. play/star/appear etc opposite somebody to act with someone in a film, especially as the two main characters:
+ a comedy in which he stars opposite Julia Roberts
+II. opposite2 BrE  AmE  adjective [only before noun]
+[Word Family: adjective: ↑opposed ≠ ↑unopposed, ↑opposing, ↑opposite; noun: ↑opposition, ↑opposite; verb: ↑oppose; adverb: ↑opposite]
+[Date: 1300-1400; Language: French; Origin: Latin, past participle of opponere; ⇨ ↑oppose]
+1. as different as possible from something else:
+ I thought the medicine would make him sleep, but it had the opposite effect.
+at the opposite end of the scale/spectrum
+ two parties at opposite ends of the political spectrum
+ At the opposite extreme, Ashworth’s style is very simple and modern.
+ Bob was quicker than Ed? It’s usually the opposite way round.
+opposite to
+ a political philosophy that was opposite to everything she believed in
+2. the opposite direction, way etc is directly away from someone or something:
+ She turned and walked off in the opposite direction.
+ But the sign was pointing the opposite way.
+3. the opposite side, corner, edge etc of something is on the other side of the same area, often facing it:
+ The store was on the opposite side of the street.
+ the drawing on the opposite page
+ They work at opposite ends of the country (=a long distance apart), so only see each other at weekends.
+4. the opposite sex the other sex. If you are a man, women are the opposite sex:
+ members of the opposite sex
+5. sb’s opposite number someone who has the same job in another similar organization:
+ a meeting with her opposite number at the Department of Health
+ 
+ contemporary
+I. con‧tem‧po‧ra‧ry1 W2 AC /kənˈtempərəri, -pəri $ -pəreri/ BrE  AmE  adjective
+[Word Family: noun: ↑contemporary; adverb: contemporarily; adjective: ↑contemporary]
+[Date: 1600-1700; Language: Medieval Latin; Origin: contemporarius, from Latin com- ( ⇨ COM-) + tempus 'time']
+1. belonging to the present time SYN modern
+contemporary music/art/dance etc
+ an exhibition of contemporary Japanese prints
+ life in contemporary Britain
+2. happening or done in the same period of time
+contemporary with
+ The wall hangings are thought to be roughly contemporary with the tiled floors.
+COLLOCATIONS
+■ contemporary + NOUN
+▪ contemporary art/music/dance Each year there is a contemporary music festival in November.
+▪ contemporary artists/writers Paintings by contemporary artists covered the walls.
+▪ contemporary society What is the role of television in contemporary society?
+▪ the contemporary world The environment is a major issue in the contemporary world.
+▪ contemporary life the complexity of contemporary life
+▪ contemporary Britain/America etc The book moves from the late 19th century to contemporary America.
+▪ contemporary culture/science etc Science is an important part of contemporary culture.
+▪ contemporary issues (=subjects or problems that a lot of people are talking about) contemporary issues such as transport and pollution
+THESAURUS
+▪ present [only before noun] happening or existing now: The present situation could get much worse. | the present century | There are no plans to build more houses here at the present time.
+▪ current [only before noun] present – used especially about something that is not expected to stay the same for long: current trends in fashion | the current state of the UK economy
+▪ existing [only before noun] formal existing or being used now – used about things or situations that you think may be changed in the future: The existing offices are too small. | The proposal will strengthen existing immigration laws.
+▪ contemporary [only before noun] used about the art, writing, ideas, society etc that belong to the present time: the impact of computer-generated imagery on contemporary art and design | contemporary music in Russia
+▪ today’s/of today used about conditions and attitudes that exist now, when you are comparing them with those that existed in the past: People struggle to keep up with the pace of life in today’s world of instant communications. | the liberal ideology of today
+II. contemporary2 AC BrE  AmE  noun (plural contemporaries) [countable]
+[Word Family: noun: ↑contemporary; adverb: contemporarily; adjective: ↑contemporary]
+someone who lived or was in a particular place at the same time as someone else
+sb’s contemporaries
+ Oswald was much admired by his contemporaries at the Academy.
+ 
+ sensible
+adjective
+BAD: Children are very sensible; they all need love and attention.
+GOOD: Children are very sensitive; they all need love and attention.
+Use sensible to describe someone who makes good decisions based on reason, and never behaves in a stupid or dangerous way: 'I'm glad to see that she was sensible enough to bring some warm clothes.' 'Be sensible - you can't wear high heels to a garden party.'
+Use sensitive to describe someone who is easily upset or offended: 'He's very sensitive about his weight, so try not to mention it.' 'Don't be so sensitive - he was only joking.'
+
+branch out (third-person singular simple present branches out, present participle branching out, simple past and past participle branched out)
+(intransitive) To expand in the manner of branches.
+The chart starts in the center and branches out from there.
+(intransitive, idiomatic) To expand one's interests or activities in a new direction.
+Studying Latin may make it easier to branch out into Spanish or Italian.
+2008 October, Mark Jenkins, “Need surgery? Call a travel agent”, in Men's Health, volume 23, number 8, ISSN 1054-4836, page 152:
+Once relegated to facelifts and fat reduction, medical tourism has branched out into almost every kind of procedure, including bypass surgery, heart-valve replacement, angioplasty, knee reconstruction, and spinal fusion.
+branch out
+branch out phrasal verb (see also ↑branch)
+to start doing something different from the work or activities that you normally do:
+ Don’t be afraid to branch out and try something new.
+branch out into (doing) something
+ Profits were falling until the bookstore branched out into selling CDs.
+ 
+ maternity
+I. adjective
+COLLOCATIONS FROM OTHER ENTRIES
+a maternity hospitalBritish English (= for women having babies)
+▪ Many maternity hospitals have been forced to close.
+maternity clothes (=for women who are having a baby)
+maternity leave (=time that a mother is allowed away from work to have and take care of a new baby)
+▪ Two teachers were off on maternity leave.
+maternity leave
+▪ Karen will be on maternity leave next month.
+maternity pay (=pay while a woman takes time off to have a baby)
+▪ If you have worked here a year, you are entitled to 3 month’s maternity pay.
+maternity wear (=for pregnant women)
+▪ The shop sells comfortable and fashionable maternity wear for every occasion.
+maternity/general/geriatric etc ward (=a ward for people with a particular medical condition)
+COLLOCATIONS FROM CORPUS
+■ NOUN
+leave
+▪ The present 18 weeks maternity leave will be extended to 26 weeks.
+▪ In addition, co-anchor Katie Couric is currently on maternity leave.
+▪ And paid maternity leave will go up from 18 to 24 weeks.
+▪ Rarely have they bargained aggressively for benefits such as maternity leave or more help with child care.
+▪ As the days remaining in her six-week maternity leave fizzled away, she wavered back and forth.
+▪ Sattel says Lucasfilm offers paid one-week paternity and adoption leaves; maternity leaves are usually covered by disability programs.
+ward
+▪ It seems the merest flash since Jack and I were gingerly bringing home our own babies from the maternity wards.
+▪ She kept busy in the maternity ward faxing lists back to the office.
+PHRASES FROM OTHER ENTRIES
+maternity/sick/compassionate leave
+▪ Accumulating days for sick leave proved to be a trap.
+▪ Generally a trend of sick leave or requests for transfers by other women who have worked for this person will emerge.
+▪ I could take the afternoon off from work as sick leave.
+▪ If the technology is not firm-wide train an extra secretary to cover for others who are on holiday or sick leave.
+▪ Joe and Eileen were given short compassionate leave and Stephen came home for the funeral.
+▪ She was then shown a picture taken at the farewell party at Champion Spark Plugs just before Paula went on maternity leave.
+▪ These work-force-centered benefits helped businesses retain their most valuable employees. Sick leave policies changed.
+▪ When they go on sick leave, their aggregate take-home pay is actually higher than when they are on the job.
+EXAMPLES FROM OTHER ENTRIES
+▪ Maternity clothes are more stylish than they used to be.
+▪ maternity clothes
+▪ a maternity hospital
+▪ Most women who take maternity leave look forward to returning to their jobs.
+▪ Which way to the maternity ward?
+EXAMPLES FROM CORPUS
+▪ But the maternity unit is widely expected to close at the end of this month.
+▪ In addition, co-anchor Katie Couric is currently on maternity leave.
+▪ In the high-visibility, emotionally compelling cases such as maternity stays, an uproar resulted.
+▪ It seems the merest flash since Jack and I were gingerly bringing home our own babies from the maternity wards.
+▪ Laws extending health insurance and maternity leave?
+▪ Rarely have they bargained aggressively for benefits such as maternity leave or more help with child care.
+▪ She learned to sew and made maternity smocks he tried to admire.
+▪ The present 18 weeks maternity leave will be extended to 26 weeks.
+
+answerable
+answerable UK  [ˈɑːn t.s ə r.ə.bl ̩] US  [ˈæn t.sɚ-] adjective
+1. be answerable for sth
+to be responsible for something that happens
+• Soldiers who obey orders to commit atrocities should be answerable for their crimes.
+Thesaurus+: ↑Guilty
+2. be answerable to sb
+If you are answerable to someone, you have to explain your actions to them because they have the main control and responsibility
+• Any European central bank should be directly answerable to the European Parliament.
+Thesaurus+: ↑Duty, obligation and responsibility
+
+sparsely
+sparsely UK  US  UK [ˈspɑː.sli] US [ˈspɑːr-] adverb
+• sparsely furnished/populated
+Thesaurus+: ↑Scarce, inadequate and not enough ↑Lacking things
+Main entry: sparsederived
+sparse
+sparse UK  [spɑːs] US  [spɑːrs] adjective [sparser sparsest]
+small in numbers or amount, often scattered over a large area
+• a sparse population/audience
+• sparse vegetation/woodland
+• a sparse beard
+• Information coming out of the disaster area is sparse.
+Thesaurus+: ↑Scarce, inadequate and not enough ↑Lacking things
+Derived: sparsely ▪ sparseness
+sparse
+adjective
+COLLOCATIONS FROM CORPUS
+■ ADVERB
+very
+▪ Local reports from Bavaria, however, especially from rural areas, mentioned very sparse flagging.
+▪ Driven out from richer regions, all they now had were these vast but very sparse pastures.
+▪ After this, evidence about Anne Batten Cristall's life is very sparse.
+▪ Scholarly comment on this passage is very sparse.
+■ NOUN
+population
+▪ But with their sparse population they are scarcely worth the price of a campaign advertisement.
+▪ Its still sparse population seems shrunk, as it were, in such outsize garments.
+▪ Background: Montana, our fourth largest state but with a sparse population, is home to large herds of elk.
+EXAMPLES FROM OTHER ENTRIES
+▪ sparse traffic
+▪ He combed back his sparse hair.
+▪ Information on the disease is sparse.
+▪ Trees are sparse in this part of the world because of the continuous wind that blows across the plains.
+EXAMPLES FROM CORPUS
+▪ Agriculture in the south will suffer as underground water is exhausted and already sparse summer rain disappears.
+▪ Details of Dixon's life are sparse and sometimes contradictory.
+▪ Driven out from richer regions, all they now had were these vast but very sparse pastures.
+▪ From our sparse apartment, a daily warmth could be made to exist.
+▪ However, sunshine was a sparse commodity and we found the short, dark winter days of these latitudes very depressing at first.
+▪ Reading from an empty area of a sparse file will return garbage.
+▪ They can, therefore, exist quite happily in areas of sparse vegetation.
+
+STRONG
+3. A burning desire, need, etc., is one that is very strong
+• a burning ambition
+• He spoke of his burning desire to play for England.
+Thesaurus+: ↑Strong feelings
+4. burning issue/question
+a subject or question that must be dealt with or answered quickly
+Thesaurus+: ↑Very important or urgent
+
+inception
+ / In5sepFn; In`sZpFEn/ n [sing] (fml 文) start or beginning of sth 开始; 开端: He had been director of the project since its inception. 这项工作从一开始他就是负责人.
+From Longman DOCE5 Extras (En-En)
+inception
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ Not long after their inception, the welfare programs were under attack.
+▪ Within a few years of its inception, the charity was involved in aid projects all around the world.
+EXAMPLES FROM CORPUS
+▪ Development and international aid are frequently misguided in inception, disastrous in execution and catastrophic for the local people.
+▪ Harvard Securities organised a surprise raid on the premises of Tudorbury's new sharedealing floor shortly after its inception.
+▪ Private Eye's inception had drawn on other foreign influences.
+▪ Responsible for the Oilfields Logistics and Supplies Division since its inception in 1973 which includes property and oil distribution interests.
+▪ The firm has received a total of $ 470, 000 from the trust since its inception in June 1994.
+▪ The Smiths had wanted to work with Sandie Shaw since their inception.
+▪ This year we are producing further information on all research projects licensed since our inception.
+
+minded
+mind‧ed /ˈmaɪndəd, ˈmaɪndɪd/ BrE  AmE  adjective
+[Word Family: noun: ↑mind, ↑minder, ↑reminder; adjective: ↑mindless, ↑minded, ↑mindful; verb: ↑mind, ↑remind; adverb: ↑mindlessly]
+1. serious-minded/evil-minded etc having a particular attitude or way of thinking:
+ a very serious-minded girl who studies hard
+ a tough-minded businessman
+2. be minded to do something formal to want or intend to do something
+From Oxford Advanced Learners Dictionary 8th Ed.
+minded
+mind·ed [minded] BrE [ˈmaɪndɪd]  NAmE [ˈmaɪndɪd]  adjective
+1. (used with adjectives to form compound adjectives) having the way of thinking, the attitude or the type of character mentioned
+• a fair-minded employer
+• high-minded principles
+• I appeal to all like-minded people to support me.
+see also ↑absent-minded, ↑bloody-minded, ↑single-minded
+2. (used with adverbs to form compound adjectives) having the type of mind that is interested in or able to understand the areas mentioned
+• I'm not very politically minded.
+3. (used with nouns to form compound adjectives) interested in or enthusiastic about the thing mentioned
+• a reform-minded government
+4. not before noun ~ (to do sth) (formal) wishing or intending to do sth
+Syn: ↑inclined
+• She was minded to accept their offer.
+• The government could change the law if they were so minded.
+
+discriminatory
+dis·crim·in·atory [discriminatory] BrE [dɪˈskrɪmɪnətəri]  NAmE [dɪˈskrɪmɪnətɔːri]  adjective
+unfair; treating sb or one group of people worse than others
+• discriminatory practices/rules/measures
+• sexually/racially discriminatory laws
+ 
+Example Bank:
+• Companies were urged to tackle sexually and racially discriminatory recruitment practices.
+• The court ruled that the rule was discriminatory against people with young children.
+• Women's groups claim that the laws are discriminatory.
+
+cumbersome
+cumbersome UK  [ˈkʌm.bə.səm] US  [-bɚ-] adjective
+awkward because of being large, heavy or not effective
+• cumbersome equipment
+• cumbersome bureaucracy
+Thesaurus+: ↑Causing difficulties for oneself or others ↑Thick, dense and heavy
+From Longman DOCE 5th Ed. (En-En)
+cumbersome
+cum‧ber‧some /ˈkʌmbəsəm $ -bər-/ BrE  AmE  adjective
+[Date: 1300-1400; Origin: cumber 'to prevent from moving freely, load' (14-20 centuries) (from encumber) + -some]
+1. a process or system that is cumbersome is slow and difficult:
+ Doctors are complaining that the system is cumbersome and bureaucratic.
+ cumbersome procedures
+2. heavy and difficult to move:
+ a large cumbersome machine
+3. words or phrases that are cumbersome are long or complicated
+
+self-serve (not comparable)
+Describing a facility in which the customer does the work rather than being waited on.
+Self-serve gas stations are popular with owners because they need fewer attendants.
+
+red-hot
+red-hot UK  [ˌredˈhɒt] US  [-ˈhɑːt] adjective
+1. extremely hot
+Thesaurus+: ↑Hot and heat ↑Sultriness and humidity
+2. extreme; extremely new, exciting, etc
+• red-hot news, straight from the war zone
+Thesaurus+: ↑Informal words for good ↑Good, better and best ↑Quite good, or not very good
+From Longman DOCE 5th Ed. (En-En)
+red-hot
+ˌred-ˈhot BrE  AmE  adjective
+1.
+a) metal or rock that is red-hot is so hot that it shines red:
+ The poker glowed red-hot in the fire.
+b) informal very hot:
+ Be careful with those plates – they’re red-hot.
+2. informal extremely active, exciting, or interesting:
+ a red-hot news story
+ The Braves have been red-hot in the last few games.
+3. a red-hot feeling is very strong:
+ red-hot anger
+4. red-hot favourite British English the team or person who most people believe will win a competition
+>>>>>>> f12082e2466560a105c9f22f1c0ebba3902fd230

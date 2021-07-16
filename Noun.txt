@@ -12868,6 +12868,7 @@ COLLOCATIONS
 ▪ acknowledge somebody's presence (=speak to someone or make a sign to show that you know they are present) He acknowledged my presence with a quick wave.
 ■ phrases
 ▪ be/become aware of somebody's presence It was only when I coughed that he became aware of my presence.
+<<<<<<< HEAD
 >>>>>>> 4ffbc68d8a02fd2dab7b7a873921fcdfb6410ec5
 
 slapstick
@@ -13050,3 +13051,1191 @@ in suspense
  Come on then, tell me what happened; the suspense is killing me (=I feel very excited or anxious because I do not know what will happen next).
  She couldn’t bear the suspense a moment longer.
 suspense novel/story/movie etc (=one which is exciting because you do not know what will happen next)
+=======
+<<<<<<< HEAD
+
+epitome
+epitome UK  [ɪˈpɪt.ə.mi] US  [-ˈpɪt ̬-] noun [epitomes]
+the epitome of sth
+the typical or highest example of a stated quality, as shown by a particular person or thing
+• Even now in her sixties, she is the epitome of French elegance.
+Thesaurus+: ↑Samples and examples
+From Longman DOCE 5th Ed. (En-En)
+epitome
+e‧pit‧o‧me /ɪˈpɪtəmi/ BrE  AmE  noun
+[Date: 1500-1600; Language: Latin; Origin: Greek, from epitemnein 'to cut short', from epi- (↑epicenter) + temnein 'to cut']
+the epitome of something the best possible example of something:
+ She looked the epitome of elegance.
+ He was the very epitome of evil.
+ 
+ snotty
+snot‧ty /ˈsnɒti $ ˈsnɑːti/ BrE  AmE  adjective informal
+1. someone who is snotty is rude and annoying, especially because they think that they are more important than other people – used to show disapproval SYN snooty:
+ some snotty little clerk
+2. wet and dirty with ↑mucus
+snot
+snot /snɒt $ snɑːt/ BrE  AmE  noun informal
+[Language: Old English; Origin: gesnot]
+1. [uncountable] an impolite word for the thick ↑mucus (=liquid) produced in your nose
+2. [singular] someone who is ↑snotty:
+ the little snot
+ 
+ wariness
+wariness UK  US  UK [ˈweə.rɪ.nəs] US [ˈwer.ɪ-] noun uncountable
+Thesaurus+: ↑Paying attention and being careful ↑Cautious and vigilant
+Main entry: waryderived
+wary
+wary UK  [ˈweə.ri] US  [ˈwer.i] adjective [warier wariest]
+<A > not completely trusting or certain about something or someone
+• I'm a bit wary of/about giving people my address when I don't know them very well.
+Thesaurus+: ↑Cautious and vigilant ↑Paying attention and being careful ↑Doubt and ambivalence ↑Hesitating
+ 
+• All authors need to be wary of inadvertent copying of other people's ideas.
+• The legal system is full of snares for those who are not wary.
+• Tourists should be wary, as pickpockets are known to operate in this area.
+• Buyers should be wary of hidden costs when purchasing their holiday.
+• The teacher was wary of giving his pupils too much information at once.
+Derived: warily ▪ wariness
+
+2. informal someone who is extremely good, kind, or patient:
+ His wife must have been a saint to put up with him for all those years.
+3. the patience of a saint a very large amount of patience:
+ You need the patience of a saint for this job.
+ 
+ golden rule
+ˌgolden ˈrule noun countable usually singular [golden rules] UK  US 
+an important rule or principle, especially in a particular situation
+• The golden rule for working in any factory is to observe its safety regulations.
+Thesaurus+: ↑Rules and laws
+From Longman DOCE 5th Ed. (En-En)
+golden rule
+ˌgolden ˈrule BrE  AmE  noun [countable]
+a very important principle, way of behaving etc that should be remembered:
+ The golden rule of cooking is to use fresh ingredients.
+ 
+ appeal • • charm • • interest • • fascination • • glamour • • spell •
+a/an attraction/appeal/interest/fascination for sb/sth
+have/hold a/an attraction/appeal/charm/interest/fascination
+sth loses its attraction/appeal/charm/fascination/glamour
+
+attraction
+at‧trac‧tion W3 /əˈtrækʃən/ BrE  AmE  noun
+[Word Family: noun: ↑attraction, ↑attractiveness; verb: ↑attract; adverb: ↑attractively; adjective: ↑attractive ≠ ↑unattractive]
+1. [uncountable and countable] a feeling of liking someone, especially in a sexual way:
+ The attraction between them was almost immediate.
+2. [countable] something interesting or enjoyable to see or do:
+ The beautiful beaches are the island’s main attraction (=most popular place, activity etc).
+tourist attraction (=a place that many tourists visit)
+3. [uncountable and countable] a feature or quality that makes something seem interesting or enjoyable
+attraction of
+ Being your own boss is one of the attractions of owning your own business.
+4. [uncountable and countable] technical a force which makes things move together or stay together:
+ the gravitational attraction between the Earth and the Moon
+• • •
+COLLOCATIONS (for Meaning 2)
+■ ADJECTIVES/NOUN + attraction
+▪ the main attraction The lovely countryside is obviously the main attraction for visitors.
+▪ the star attraction (=someone or something that many people want to see) The former President was the star attraction of the conference.
+▪ a popular attraction The zoo is by far the most popular attraction.
+▪ a big/major attraction The ducks and geese are a big attraction to children.
+▪ a special attraction A special attraction is the tropical greenhouse.
+▪ a tourist attraction The British Museum is one of London’s most popular tourist attractions.
+▪ a visitor attraction The park will be a new visitor attraction for the town.
+■ verbs
+▪ be/become/prove an attraction The organisers hope the event will become an annual attraction.
+• • •
+THESAURUS (for Meaning 3)
+▪ attraction noun [uncountable and countable] a feature or quality that makes people like, want, or feel interested in something: The excitement is part of the attraction of the job. | For many mothers, the attraction of childcare in the workplace is the chance to be near their children. | The idea of living in another country does have a certain attraction.
+▪ appeal noun [uncountable and countable] a quality that makes people like something or someone: Much of Corfu’s appeal lies in its lively night life. | I don’t understand the appeal of this kind of music.
+▪ the lure of something noun [singular] a very attractive quality that makes you want something very much – often used about something that has a bad effect or influence: It’s hard to resist the lure of credit cards and easy money. | The lure of urban life is especially powerful for the young.
+▪ charm noun [uncountable and countable] a pleasant quality that someone or something has that makes people like them, feel attracted to them, or be influenced by them: He was physically attractive and possessed considerable personal charm. | The book captures Savannah’s old Southern charm perfectly.
+▪ glamour noun [uncountable] the attractive and exciting quality that is connected with wealth and success: the glamour of Monte Carlo | Hollywood glamour | The world of modelling is famous for its glitz and glamour.
+▪ draw noun [singular] something that makes people want to do something or go somewhere: The money is a big draw for many players. | The island’s main draw is its wonderful beaches.
+
+lockstep
+lock‧step /ˈlɒkstep $ ˈlɑːk-/ BrE  AmE  noun
+in lockstep American English in exactly the same way or at the same rate
+From Oxford Advanced Learners Dictionary 8th Ed.
+lockstep
+lock·step 7 [lockstep] BrE [ˈlɒkstep]  NAmE [ˈlɑːkstep]  noun uncountable (especially NAmE)
+1. a way of walking together where people move their feet at the same time
+• The coffin was carried by six soldiers walking in lockstep.
+• (figurative) Politicians and the media are marching in lockstep on this issue (= they agree).
+2. a situation where things happen at the same time or change at the same rate
+• a lockstep approach to teaching
+• Cases of breathing difficulties increase in lockstep with air pollution.
+From Longman DOCE5 Extras (En-En)
+lockstep
+noun
+EXAMPLES FROM CORPUS
+▪ Hayworth is one of the many first-term Republican foot soldiers who proudly fall into lockstep behind Rep.
+▪ If both are in lockstep mentally, it will be a long, exhausting struggle.
+▪ Skies darken, in lockstep with Sampras' mood.
+▪ What else could this lockstep be but a channel for guilt?
+
+trope套路
+trope /trəʊp $ troʊp/ BrE  AmE  noun [countable]
+[Date: 1500-1600; Language: Latin; Origin: tropus, from Greek tropos 'turn, way, style', from trepein 'to turn']
+technical words, phrases, images etc that are used for an unusual or interesting effect:
+ cinematic tropes
+▪ Brooke-Rose reverses this familiar postmodernist trope by focusing instead on the relation between the characters and their readers.
+▪ In effect, Freud attributes to the unconscious the power of a writer brilliantly deploying the classical tropes to transform his material.
+▪ Knowledge of their ontological status thus functions in Textermination as a trope for indeterminacy.
+▪ The movement was also programmatically self-conscious, one of the modernist tropes.
+
+
+spoof
+spoof UK  US  [spuːf] noun countable [spoofs]
+a funny and silly piece of writing, music, theatre, etc. that copies the style of an original work
+• They did a spoof on/of the Nine O'Clock News.
+• It was a spoof cowboy film.
+Thesaurus+: ↑Types of film, play, book etc.
+ 
+verb intransitive or transitive US informal
+to try to make someone believe in something that is not true, as a joke
+Thesaurus+: ↑Teasing
+From Longman DOCE 5th Ed. (En-En)
+spoof
+spoof /spuːf/ BrE  AmE  noun [countable]
+[Date: 1800-1900; Origin: Invented name for a game involving deception]
+a funny book, play, or film that copies something serious or important and makes it seem silly ⇨ take-off
+spoof of/on
+ The play is a spoof on Shakespeare’s tragedy ‘Julius Caesar’.
+ a spoof documentary
+—spoof verb [transitive]
+
+riff
+I. riff1 /rɪf/ BrE  AmE  noun [countable]
+[Date: 1900-2000; Origin: Probably from ⇨ ↑refrain2]
+1. a repeated series of notes in popular or ↑jazz music:
+ a guitar riff
+2. a piece of speech in which someone talks about a subject in an entertaining way that does not seem planned:
+ He goes off on a riff about the problems of being middle-aged.
+II. riff2 BrE  AmE  verb [intransitive]
+1. to play different notes related to the main tune in popular or ↑jazz music:
+ He was riffing on his guitar.
+2. to talk about a subject in an entertaining way that does not seem planned:
+ During her show, she riffs about everything from her family to global warming.
+ 
+ well-being
+well-being UK  US  [ˌwelˈbiː.ɪŋ] (also wellbeing) noun uncountable
+the state of feeling healthy and happy
+• People doing yoga benefit from an increased feeling of well-being.
+Thesaurus+: ↑Health in general ↑Pleasure and happiness
+From Longman DOCE 5th Ed. (En-En)
+well-being
+ˌwell-ˈbeing BrE  AmE  noun [uncountable]
+1. a feeling of being comfortable, healthy, and happy
+well-being of
+ We are responsible for the care and well-being of all our patients.
+a sense/feeling of well-being
+ A good meal promotes a feeling of well-being.
+physical/psychological/material etc well-being
+ the physical and emotional well-being of the children
+2. the well-being of a country is the state in which it is strong and doing well:
+ We are now concerned for the economic well-being of the country.
+ 
+ dopamine (countable and uncountable, plural dopamines)
+(biochemistry, pharmacology) A monoamine C8H11NO2 that is a decarboxylated form of dopa, present in the body as a neurotransmitter and a precursor of other substances including adrenalin.
+2017 December 12, Amy B Wang, “Former Facebook VP says social media is destroying society with ‘dopamine-driven feedback loops’”, in Washington Post‎[1]:
+“The short-term, dopamine-driven feedback loops that we have created are destroying how society works: no civil discourse, no cooperation, misinformation, mistruth. And it’s not an American problem. This is not about Russian ads. This is a global problem.”
+
+ghetto
+noun
+COLLOCATIONS FROM OTHER ENTRIES
+ghetto blaster
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+black
+▪ Angleside is the black ghetto of Rummidge, where youth unemployment is eighty percent and rioting endemic.
+▪ If the limousine went east, to Lake Shore Drive, it would go through part of the black ghetto.
+■ NOUN
+blaster
+▪ We all lined up as Dave Misson placed a ghetto blaster on the grass.
+EXAMPLES FROM OTHER ENTRIES
+▪ a novel about life in the ghettos of New York
+▪ His office marked the edge of the executive ghetto.
+▪ Ottovina lived on the South Side, in the Italian ghetto, and barely spoke any English at all.
+▪ Rap music began in the ghettos of New York and Washington.
+▪ the Jewish ghetto in Warsaw
+EXAMPLES FROM CORPUS
+▪ Bobby, gay and slender and handsome, has always lived in the ghetto.
+▪ Burnt-out old hacks explained a sudden new lease of life, promising their days in the public-relations ghetto were over.
+▪ I once lived for three months in a North Philadelphia ghetto.
+▪ In Sanchersville, she opened a storefront law office perforating the heart of the ghetto.
+▪ Not only are the men dependent on welfare, but many of the scars from ghetto crime stem directly from that dependency.
+▪ The High Synagogue now houses a textile museum and you may buy tickets here for all the museums in the ghetto.
+
+back streets
+ˌback ˈstreets plural noun [back streetses] UK  US 
+the older and poorer areas of a town or city
+• She grew up in the back streets of Bolton.
+Thesaurus+: ↑Areas in towns and cities ↑Urban and residential streets
+
+built-up
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+a built-up area (=with a lot of buildings close together)
+▪ New development will not be allowed outside the existing built-up area.
+COLLOCATIONS FROM CORPUS
+■ NOUN
+area
+▪ Try to see five miles ahead on a country road and at least two to three hundred yards in a built-up area.
+▪ Under normal circumstances barred owls do not frequent built-up areas.
+▪ On passage, and sometimes in winter, Water Rails may occur in built-up areas.
+▪ In built-up areas, the problem is cars and street lights.
+▪ If parking is difficult in a built-up area it may be better to go by public transport.
+▪ Councils can also infill existing built-up areas and revitalise inner urban areas.
+▪ At each period new houses and streets have been added on the margins of the built-up area.
+▪ In built-up areas, for example, special slow-reacting catalytic surfaces will automatically enforce the speed limit.
+EXAMPLES FROM CORPUS
+▪ He tugs one leg up and examines the built-up shoe.
+▪ In built-up areas, the problem is cars and street lights.
+▪ It gathered speed and raced towards the built-up complexes.
+▪ On passage, and sometimes in winter, Water Rails may occur in built-up areas.
+▪ She garnished her built-up Trifle with strips of bright currant jelly, crystallised sweetmeats or flowers.
+▪ The closed, trusting eyes were surrounded by scars and small mounds of built-up skin.
+▪ Try to see five miles ahead on a country road and at least two to three hundred yards in a built-up area.
+▪ Under normal circumstances barred owls do not frequent built-up areas.
+
+housing
+hous‧ing W2 /ˈhaʊzɪŋ/ BrE  AmE  noun
+1. [uncountable] the houses or conditions that people live in:
+ health problems caused by bad housing
+ a scheme to provide affordable housing for local people
+2. [uncountable] the work of providing houses for people to live in:
+ government housing policy
+ public services such as education, housing and transport
+3. [countable] a protective cover for a machine:
+ the engine housing
+ 
+ facade
+noun
+COLLOCATIONS FROM CORPUS
+■ VERB
+maintain
+▪ Now the wise extra-mural department would doubtless maintain a facade of what appear to be voluntary committees.
+▪ Indeed, the need to maintain the facade of politesse is often paramount.
+▪ The unsophisticated and desperate ones brazened it out by maintaining a facade of affluence or normalcy by borrowing.
+EXAMPLES FROM OTHER ENTRIES
+▪ Behind her cheerful facade, she's really a lonely person.
+▪ Work is underway to repair the Taj Mahal's marble facade.
+ ▪ At the same time, she remained a perfectionist, equally determined to present a flawless facade.
+▪ Indeed, the need to maintain the facade of politesse is often paramount.
+▪ On both their parts, it seems, the good cheer was a facade for the benefit of the other.
+▪ The facade of the building at least escaped from rigour.
+▪ The facade will be changed by the removal of the old canopy and the installation of an illuminated screen above the entrance.
+▪ The garage dominates the facade, although recent exceptions to this rule have emerged in scattered developments.
+▪ There was no expression on his face, just the blank skin facade of hunger and tiredness.
+▪ Unfortunately he has concealed them behind a flimsy facade of demagoguery.
+
+quack
+I. quack1 /kwæk/ BrE  AmE  verb [intransitive]
+[Date: 1600-1700; Origin: From the sound]
+ to make the sound that ducks make
+II. quack2 BrE  AmE  noun [countable]
+[Sense 1: Date: 1800-1900; Origin: ⇨ ↑quack1]
+[Sense 2-3: Date: 1600-1700; Origin: quacksalver 'quack' (16-19 centuries), from early Dutch, probably from quacken 'to quack, talk' + salf 'cure']
+1. the sound a duck makes
+2. someone who pretends to be a doctor – used in order to show disapproval ⇨ quackery:
+ quacks selling weight-loss drugs
+3. British English informal a doctor:
+ You’d better go and see the quack with that burn.
+ 
+ elixir
+elixir UK  [ɪˈlɪk.sɪə r ] US  [-sjɚ] literary noun countable usually singular [elixirs]
+a substance, usually a liquid, with a magical power to cure, improve or preserve
+• It's yet another health product claiming to be the elixir of life/youth (= something to make you live longer/stay young).
+Thesaurus+: ↑Medicine in different forms
+From Longman DOCE 5th Ed. (En-En)
+elixir
+e‧lix‧ir /ɪˈlɪksə $ -ər/ BrE  AmE  noun
+[Date: 1300-1400; Language: Medieval Latin; Origin: Arabic al-iksir 'the elixir', probably from Greek xerion 'powder for drying wounds', from xeros 'dry']
+1. [countable] literary a magical liquid that is supposed to cure people of illness, make them younger etc:
+ the search for the elixir of life
+2. [countable] something that is supposed to solve problems as if by magic:
+ The current new wave of technology should prove an economic elixir.
+ elixir
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ Nutritionists warn that artificial fat is no magic elixir for weight loss.
+EXAMPLES FROM CORPUS
+▪ And now I found myself alone with little Arcas, one who carried in his veins the immortal elixir of Zeus.
+▪ Great perils lay before them, and some of them paid with their lives for drinking that peerless elixir.
+▪ Information is the elixir, the staff of life.
+▪ It is not breath, not wind, not any kind of elixir or potion.
+▪ People have been peddling phony weight-loss elixirs since before the turn of the century.
+▪ The famous pharmacy reports a Yuletide boom for the elixir.
+▪ The man who lived here would have definite elixir theories about his yoghurts, his knee-bends, his nudist vacations.
+▪ To taste the elixir of life, become a drunkard in that mystic tavern!
+
+underpinning (plural underpinnings)
+A support or foundation, especially as a structure of masonry that supports a wall.
+This house's underpinning is not up to standard.
+(figuratively) A basis for something.
+I would like to know more about the underpinning of this political theory.
+(figuratively, humorous) The lower body or legs.
+1913, Joseph C. Lincoln, chapter 1, in Mr. Pratt's Patients:
+Thinks I to myself, “Sol, you're run off your course again. This is a rich man's summer ‘cottage’ and if you don't look out there's likely to be some nice, lively dog taking an interest in your underpinning.”
+
+mirage海市蜃楼
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ an eerie no-man's land where travellers see mirages
+▪ She thought at first it must be the edge of the sea, then realised it was a mirage.
+EXAMPLES FROM CORPUS
+▪ A mirage, a reflection of layers on air out to sea.
+▪ But the opposition is not alone in seeing the appearance of new prosperity as in part a mirage.
+▪ He has photo enhancements, floor plans, home movies, biographies, bibliographies, letters, rumors, mirages, dreams.
+▪ Information at a distance overwhelms, or creates mirages.
+▪ It floated mockingly through his sleep and came like a mirage between his eyes and the daylight.
+▪ The bubbles of foam trembled to mist and I sensed the house become dangerous, a mirage to my eyes.
+▪ The oasis is just a mirage.
+▪ The thought of the hotel seemed like the mirage of an oasis, something always just out of reach.
+
+mirage
+▪ Alcohol thus resembles opium and its derivatives morphine and heroin, all of which target the endorphin system.
+▪ Drug warriors frequently remind us that there are few cocaine or heroin addicts who did not smoke marijuana first.
+▪ In this sense heroin is a real problem.
+▪ Now the PoliceFoundation is recommending that Ecstasy should no longer be treated as a class-Adrug alongside heroin and cocaine.
+▪ Our use of this metaphor is not intended to imply that heroin use is a physical disease with viral or organic origins.
+▪ The movie is daring in its unsentimental view of the heroin lifestyle.
+▪ The purity of heroin on the streets has increased more than four times.
+▪ We are quick to warn our children about the dangers of alcohol, marijuana, heroin and cocaine.
+
+dopamine
+dopa·mine 7 BrE [ˈdəʊpəmiːn]  NAmE [ˈdoʊpəmiːn]  noun uncountable
+a chemical produced by nerve cells which has an effect on other cells
+Word Origin:
+[dopamine] 1950s: blend of ↑dopa and amine.
+
+Endorphins
+endorphin
+endorphin UK  [enˈdɔː.fɪn] US  [-ˈdɔːr-] specialized noun countable [endorphins]
+a chemical naturally released in the brain to reduce pain, and which in large amounts can make you feel relaxed and/or energetic
+Thesaurus+: ↑Animal biochemistry
+From Longman DOCE 5th Ed. (En-En)
+endorphin
+en‧dor‧phin /enˈdɔːfɪn $ -ˈdɔːr-/ BrE  AmE  noun [countable usually plural]
+[Date: 1900-2000; Origin: endo- ( ⇨ ↑endocrine) + morphine]
+a chemical produced by your body that reduces pain and can make you feel happier
+hormone
+hor·mone [hormone hormones] BrE [ˈhɔːməʊn]  NAmE [ˈhɔːrmoʊn]  noun
+a chemical substance produced in the body or in a plant that encourages growth or influences how the cells and ↑tissues function; an artificial substance that has similar effects
+• growth hormones
+• a hormone imbalance
+• Oestrogen is a female sex hormone.
+Derived Word: ↑hormonal
+ 
+Word Origin:
+early 20th cent.: from Greek hormōn, present participle of horman ‘impel, set in motion’.
+ 
+Example Bank:
+• children who do not produce enough growth hormone
+• women taking hormone replacement therapy
+▪ growth hormone
+EXAMPLES FROM CORPUS
+▪ Addition of solute causes a rise in tonicity with stimulation of both thirst and antidiuretic hormone release.
+▪ Antibiotics and hormones used in human drugs have been detected in drinking water and our rivers.
+▪ Parents tend to blame their daughters' moody, erratic behavior on hormones, choice of friends or television-viewing habits.
+▪ The hormone is known to affect reproduction and gonadal function, and to have an influence on the growth of tumours.
+▪ The authors suggested that this might represent end organ resistance to growth hormone.
+▪ The blame-if you can really call it that-can be placed on their active adolescent hormones.
+▪ Thus, antidiuretic hormone should be given, as well.
+▪ Traditionally, physicians have reserved testosterone replacement for men who are severely hormone deficient.
+
+rubber band (third-person singular simple present rubber bands, present participle rubber banding, simple past and past participle rubber banded)
+Alternative form of rubber-band
+1994 September 26, Wayne McGinnis, interview printed in 2000, by Jean Shellenbarger in The 9th Engineer Battalion, First Marine Division, in Vietnam, page 201:
+My mother gave me maybe 150 to 200 letters, […] all rubber banded together month by month and in dates.
+2005, Sarah Morgan Major, Place Value, →ISBN, page 22:
+Prompt them to pick up ten sticks, rubber band them together, and quickly move them to the tens office.
+2012, Cheryl Kerr, See Ya →ISBN, page 130:
+There were yellowed pages of base layouts and plans, a duty roster, and a rubber banded package of papers.
+
+homebody
+home‧bod‧y /ˈhəʊmˌbɒdi $ ˈhoʊmˌbɑːdi/ BrE  AmE  noun (plural homebodies) [countable]
+informal someone who enjoys being at home
+From Oxford Advanced Learners Dictionary 8th Ed.
+homebody
+home·body [homebody homebodies] BrE [ˈhəʊmbɒdi]  NAmE [ˈhoʊmbɑːdi]  noun (pl. home·bodies)(informal, especially NAmE)
+a person who enjoys spending time at home
+• We're just homebodies who like staying home watching TV.
+
+boggle
+boggle UK  [ˈbɒg.l ̩] US  [ˈbɑː.gl ̩] verb [boggles boggling boggled]
+1. intransitive or transitive to (cause something or someone to) have difficulty imagining or understanding something
+• My mind boggles at the amount of money they spend on food.
+• It boggles the imagination, doesn't it?
+See also mind-boggling
+Thesaurus+: ↑Confusion, confusing and feeling confused ↑Puzzle and confuse ↑Difficult to understand
+2. intransitive to be very surprised and uncertain about how to deal with something
+• He boggled at the suggestion.
+Thesaurus+: ↑Surprised
+From Longman DOCE 5th Ed. (En-En)
+boggle
+bog‧gle /ˈbɒɡəl $ ˈbɑː-/ BrE  AmE  verb
+[Date: 1500-1600; Origin: Perhaps from bogle; ⇨ ↑bogey]
+the/your mind boggles, (also something makes the/your mind boggle, something boggles the/your mind) informal if your mind boggles when you think of something, it is difficult for you to imagine or accept it:
+ The sheer amount of data makes the mind boggle.
+the/your mind boggles, at
+ My mind boggles at the amount of work still to do.
+ 
+ wow
+I. wow1 /waʊ/ BrE  AmE  interjection informal
+[Date: 1500-1600; Origin: Natural sound]
+used when you think something is very impressive or surprising:
+ Wow! Look at that!
+II. wow2 BrE  AmE  verb [transitive]
+informal to make people admire you a lot SYN impress:
+ The show has wowed audiences all over the country.
+III. wow3 BrE  AmE  noun [singular] informal
+1. a great success
+2. the wow factor an interesting, exciting, or unusual feature of something, that people will notice and think is very impressive
+
+stereotyping
+stereotype
+stereotype UK  US  [ˈster.i.ə.taɪp] disapproving noun countable [stereotypes]
+<A > a fixed idea that people have about what someone or something is like, especially an idea that is wrong
+• racial/sexual stereotypes
+• He doesn't conform to/fit/fill the national stereotype of a Frenchman.
+• The characters in the book are just stereotypes.
+Thesaurus+: ↑Opinions, beliefs and points of view
+• I think I fit the popular stereotype of a mad scientist.
+• She was the very stereotype of the prim English woman.
+• Adverts are full of stereotypes.
+• The latest series contains a thoroughly offensive stereotype of a gay man.
+• Her plots are predictable and her characters little more than stereotypes.
+verb transitive
+to have a fixed idea about what a particular type of person is like, especially an idea that is wrong
+• The study claims that British advertising stereotypes women.
+• We tried not to give the children sexually stereotyped toys.
+Thesaurus+: ↑Typifying, illustrating and exemplifying ↑Meaning and significance
+
+go-getter
+go-getter UK  [ˈgəʊˌget.ə r ] US  [ˈgoʊˌget ̬.ɚ] noun countable
+someone who is very energetic, determined to be successful and able to deal with new or difficult situations easily
+• We only recruit go-getters who will be actively involved in the company's development.
+Thesaurus+: ↑Stubborn and determined people
+Derived: go-getting
+
+enterprising, like a go-getter
+2019 October, Ian Walmsley, “Cleaning up”, in Modern Railways, page 42:
+What matters is what is happening now, with worldwide communications, new trains, and go-getting, on-the-ball private enterprise.
+
+II. square2 S2 W3 BrE  AmE  noun [countable]
+[Date: 1200-1300; Language: Old French; Origin: esquarre, from Vulgar Latin exquadra, from exquadrare 'to make square', from Latin quadrare 'to make square, fit']
+1. SHAPE a shape with four straight equal sides with 90° angles at the corners ⇨ rectangle:
+ First of all, draw a square.
+square of
+ a small square of cloth
+2. IN A TOWN a large open area in the centre of a town or city, usually in the shape of a square, or the buildings surrounding it
+main/market/town square
+ The hotel is just off the main square of Sorrento.
+ She lives in Hanover Square.
+3. square one the situation from which you started to do something
+be back to/at square one
+ The police are now back at square one in their investigation.
+go back to square one (=used when you start something again because you were not successful the first time)
+ Okay, let’s go back to square one and try again.
+from square one
+ I’ve had to relearn the game from square one.
+4. NUMBER the result of multiplying a number by itself ⇨ square root
+square of
+ The square of 4 is 16.
+5. IN A GAME a space on a board used for playing a game such as ↑chess
+6. PERSON informal someone who is considered boring and unfashionable SYN nerd
+7. TOOL (also set square) a flat object with a straight edge, often shaped like an L, used for drawing or measuring 90° angles
+III. square3 BrE  AmE  verb [transitive]
+1. MULTIPLY to multiply a number by itself
+2. IN A COMPETITION British English to win a point or game so that you have now won the same number of points or games as the other team or player:
+ India won the second match to square the series at one each.
+3. square your shoulders to stand straight and push your shoulders back, usually to show your determination
+4. MAKE SOMETHING STRAIGHT to make something straight or parallel
+5. square the circle to attempt something impossible
+square something ↔ away phrasal verb [usually passive] American English
+to finish something, especially by putting the last details in order:
+ Get your work squared away before you leave.
+square off phrasal verb
+1. square something ↔ off to make something have neat corners
+2. American English to get ready to fight someone
+square up phrasal verb
+1. to pay money that you owe:
+ I’ll pay for the drinks and you can square up later.
+2. British English to get ready to fight someone
+square up to
+ The two lads squared up to each other.
+3. square up to somebody/something to deal with a difficult situation or person in a determined way
+square with phrasal verb
+1. square (something) with something if you square two ideas, statements etc with each other or if they square with each other, they are considered to be in agreement:
+ His story simply does not square with the facts.
+ How do you square that with your religious beliefs?
+square something with your conscience (=make yourself believe that what you are doing is morally right)
+2. square something with somebody British English to persuade someone to agree to something:
+ I’ll take the day off if I can square it with my boss.
+IV. square4 BrE  AmE  adverb
+1. directly and firmly SYN squarely:
+ Look him square in the eye and say no.
+2. at 90° to a line SYN squarely
+square to
+ Wright passed the ball square to Brown.
+ 
+  drag2 BrE  AmE  noun
+1. a drag informal
+a) something or someone that is boring:
+ Don’t be such a drag! Come to the party.
+b) something that is annoying and continues for a long time:
+ It’s a real drag having to travel so far to work every day.
+2. be a drag on somebody/something to make it hard for someone to make progress towards what they want:
+ Any slowdown in the economy is going to be a drag on the President’s re-election campaign.
+3. [countable] the act of breathing in smoke from your cigarette:
+ Frank took a drag on his cigarette.
+4. in drag wearing clothes worn by the opposite sex, especially to entertain people:
+ The whole performance is done in drag.
+5. [uncountable] the force of air that pushes against an aircraft or a vehicle that is moving forward:
+ The car’s rounded edges reduce drag.
+6. the main drag American English informal the biggest or longest street that goes through a town:
+ Our hotel is right on the main drag.
+ 
+ boo-boo
+boo-boo UK  US  [ˈbuː.buː] [plural boo-boos] noun countable
+1. informal a mistake
+• Oops, I think I made a boo-boo there - I hope she's not too upset.
+Thesaurus+: ↑Faults and mistakes
+2. US child's word a slight injury
+• Tess fell down and got a boo-boo on her hand.
+Thesaurus+: ↑Injuring and injuries
+
+whoop
+whoop UK  US  [wuːp] verb intransitive [whoops whooping whooped]
+to give a loud, excited shout, especially to show your enjoyment of or agreement with something
+• The audience was whooping and clapping.
+See also whooping cough
+Thesaurus+: ↑Expressing and showing feelings ↑Sounds made by humans with their mouths
+Idiom: whoop it up
+ 
+noun countable
+a loud, excited shout, especially showing your enjoyment of or agreement with something
+• When the whoops and cheers had finally died down he started to speak.
+Thesaurus+: ↑Shouting and screaming
+
+backup
+backup, also back-up UK  US  [ˈbæk.ʌp] noun [backups]
+1. <A > countable or uncountable (someone or something that provides) support or help, or something that you have arranged in case your main plans, equipment, etc. go wrong
+• We're going to need some professional backup for this project.
+• The party is going to be outdoors, so we'll need to organize somewhere as a backup in case it rains.
+• Remember, your colleagues are your backup system when things go wrong.
+Thesaurus+: ↑Helpers and accomplices ↑People who help or serve people professionally
+2. <A > countable a copy of information that is held on computer, which is stored separately from the computer
+• Before we leave work each day, we make a backup of all the records we have entered into the computer that day.
+• The department's backup disks are all stored in a different building.
+Thesaurus+: ↑Computer concepts
+3. countable US a player who plays when the person who usually plays is not available
+• He's a backup for the Dallas Cowboys.
+Thesaurus+: ↑Helpers and accomplices ↑People who help or serve people professionally
+ 
+• The paramedic who arrived first at the scene immediately called for backup.
+• How can I run the pub on my own all evening without any backup?
+• It is essential to have backup when you go diving, in case anything goes wrong.
+• If we run out of sandwiches I've got some pizzas in the kitchen as backup.
+• My neighbour came along to provide some backup, in case the youths gave me any trouble.
+From Longman DOCE 5th Ed. (En-En)
+backup
+back‧up /ˈbækʌp/ BrE  AmE  noun
+1. [countable] something that you can use to replace something that does not work or is lost:
+ Always have a backup plan.
+ a backup generator
+2. [countable] a copy of a computer document, program etc, which is made in case the original becomes lost or damaged:
+ Make a backup of any work you do on the computer.
+3. [uncountable] people or things that can be used to provide support and help if they are needed:
+ Army units can only operate if they have sufficient backup.
+ a backup team
+4. [countable] American English someone who will play in a sports team if one of the other players is injured or ill SYN reserve:
+ a backup goalie
+• • •
+THESAURUS
+▪ help the things you do to make it easier or possible for someone to do something: Now that I’m working, the kids need to give me more help with the housework. | The book would never have been finished without his help.
+▪ assistance help. Assistance is more formal than help, and is used especially about people giving official help: The police are asking the public for their assistance. | The project received financial assistance from the government. | Thank you very much for your assistance, sir. | He set up the business with the assistance of his two sons.
+▪ aid help. Aid is more formal than help, and is used especially about money, food, medicine etc. that is given to countries or people that are in a very bad situation: Aid is being sent to areas affected by the earthquake. | The US spends billions of dollars on aid to developing countries. | Another driver stopped and came to his aid.
+▪ support help and encouragement: Thanks to everyone who gave us their support. | We could not have won the case without your support.
+▪ cooperation help – used especially when people, organizations, or countries work together to get things done, and show that they are willing to do this: a spirit of international cooperation | The cooperation of landowners was needed for the plan to succeed.
+▪ backup extra people, equipment etc that can be used in case people need help: The officer waited for backup to arrive before making any arrests.
+
+auxiliary
+I. aux‧il‧ia‧ry1 /ɔːɡˈzɪljəri, ɔːk- $ ɒːɡˈzɪljəri, -ˈzɪləri/ BrE  AmE  adjective
+[Date: 1600-1700; Language: Latin; Origin: auxiliaris, from auxilium 'help']
+1. auxiliary workers provide additional help for another group of workers:
+ an auxiliary nurse
+ auxiliary staff
+2. an auxiliary motor, piece of equipment etc is kept ready to be used if the main one stops working properly:
+ an auxiliary power supply
+ auxiliary equipment
+II. auxiliary2 BrE  AmE  noun (plural auxiliaries) [countable]
+1. a worker who provides additional help for another group of workers:
+ a nursing auxiliary
+2. an auxiliary verb:
+ a modal auxiliary
+ 
+ lapse
+I. lapse1 /læps/ BrE  AmE  noun [countable]
+[Date: 1300-1400; Language: Latin; Origin: lapsus, from labi 'to slip']
+1. a short period of time during which you fail to do something well or properly, often caused by not being careful
+momentary/temporary/occasional etc lapse
+ Despite the occasional lapse, this was a fine performance by the young saxophonist.
+ A defensive lapse by Keown allowed Tottenham to score.
+lapse in
+ lapses in security
+lapse of
+ A single lapse of concentration cost Sampras the game.
+ a lapse of judgement
+ After taking the drug, several patients suffered memory lapses (=when you cannot remember something for a short time).
+2. a failure to do something you should do, especially to behave correctly:
+ He forgot to offer Darren a drink, but Marie did not appear to notice the lapse.
+3. [usually singular] a period of time between two events:
+ The usual time lapse between request and delivery is two days.
+lapse of
+ a lapse of about ten seconds
+II. lapse2 BrE  AmE  verb [intransitive]
+1. to gradually come to an end or to stop for a period of time:
+ The conversation lapsed.
+2. especially British English if a contract, agreement etc lapses, it comes to an end, usually because an agreed time limit has passed:
+ Your booking will automatically lapse unless you confirm it.
+REGISTER
+In everyday English, people usually say that a contract or agreement runs out rather than lapses:
+▪ His club membership had run out.
+3. to stop believing in or following a religion:
+ those people who have lapsed from the practice of their religion
+4. formal if a period of time lapses, it passes:
+ Many years had lapsed since her first visit to Wexford.
+lapse into something phrasal verb
+1. lapse into unconsciousness/silence/sleep etc to go into a quiet or less active state:
+ He lapsed into a coma and died two days later.
+ Alison lapsed into puzzled silence.
+2. to begin to behave or speak in a way that you did before:
+ She lapsed back into her old ways.
+ Occasionally he lapsed into his native German.
+3. to get into a worse state or become worse:
+ Following his death, the Empire lapsed into chaos.
+ His poetry often lapses into sentimentality.
+ 
+ giraffe
+noun
+EXAMPLES FROM CORPUS
+▪ Because their brain is ten feet higher than their heart, giraffes have the highest blood pressure of any mammal.
+▪ Billy was a giraffe, too.
+▪ He felt, it might be, as some giraffe fettered in a too-low cage.
+▪ Suppose you are taking a shot of something tall such as a giraffe.
+▪ Tethered by a foot, their sole giraffe manipulates its jib like an Anglepoise, awkwardly precise.
+▪ The giraffes were following gravel paths, were pausing to munch sugar pears from treetops.
+▪ The Kalahari Bushmen devote most of their time to hunting giraffes, rather ineffectually; the women provide most of the food.
+▪ Thee buses were photographed with a few surprised giraffes looking in the windows.
+
+commonality
+com‧mo‧nal‧i‧ty /ˌkɒməˈnæləti, ˌkɒməˈnælɪti $ ˌkɑː-/ BrE  AmE  noun [uncountable] formal
+the fact of having things in common
+From Longman DOCE5 Extras (En-En)
+commonality
+noun
+EXAMPLES FROM CORPUS
+▪ All Great Groups have other commonalities.
+▪ Although different installers are required for each platform, there is considerable commonality of code between the installers, observes Praxis.
+▪ And understanding the values of self-expression and commonality are what talking well is about.
+▪ Differences are real, of course, but so are various kinds of commonality and interrelatedness.
+▪ Not surprisingly machinery manufacturers aim for commonality of parts.
+▪ That drive for commonality took the zing out of the creative process and seriously dampened the competition of ideas.
+▪ The sense definition with the highest commonality is the one chosen.
+
+associate
+I. as‧so‧ci‧ate1 S3 W2 /əˈsəʊʃieɪt, əˈsəʊsi- $ əˈsoʊ-/ BrE  AmE  verb
+[Date: 1300-1400; Language: Latin; Origin: past participle of associare, from ad- 'to' + sociare 'to join']
+1. [transitive] to make a connection in your mind between one thing or person and another
+associate somebody/something with something
+ I don’t associate him with energetic sports.
+2. be associated (with somebody/something)
+a) to be related to a particular subject, activity etc:
+ problems associated with cancer treatment
+b) (also associate yourself with somebody/something) to show that you support someone or something:
+ He did not associate himself with the pro-democracy movement.
+REGISTER
+In everyday English, people usually say something comes with or goes with something rather than is associated with it:
+▪ There are some problems that go with this way of doing things.
+3. associate with somebody to spend time with someone, especially someone that other people disapprove of:
+ I don’t like these layabouts you’re associating with.
+II. as‧so‧ci‧ate2 /əˈsəʊʃiət, əˈsəʊʃiɪt, əˈsəʊsi- $ əˈsoʊ-/ BrE  AmE  noun [countable]
+someone who you work or do business with SYN colleague:
+ one of his business associates
+ 
+ hickey
+hick‧ey /ˈhɪki/ BrE  AmE  noun [countable]
+American English a red mark on someone’s skin caused by someone else sucking it as a sexual act 
+
+tenacious
+te‧na‧cious /təˈneɪʃəs, tɪˈneɪʃəs/ BrE  AmE  adjective
+[Date: 1600-1700; Language: Latin; Origin: tenax, from tenere 'to hold']
+1. determined to do something and unwilling to stop trying even when the situation becomes difficult:
+ a tenacious negotiator
+2. tenacious beliefs, ideas etc continue to have a lot of influence for a long time:
+ a tenacious religious tradition that is still practised in Shinto temples
+—tenaciously adverb
+—tenacity /təˈnæsəti, tɪˈnæsəti/ noun [uncountable]
+• • •
+THESAURUS
+▪ determined if you are determined to do something, you have decided that you are definitely going to do it, and you will not let anything stop you. Determined is also used about someone’s character, when they usually behave in this way: I was determined to be a doctor. | She’s a very determined woman.
+▪ stubborn determined not to change what you are doing, especially when other people think you are behaving in an unreasonable way. Stubborn is often used when you disapprove of someone. It is also sometimes used when you admire them: I wish you would stop being so stubborn! | Churchill’s stubborn refusal to surrender
+▪ single-minded someone who is single-minded works very hard in order to achieve one particular thing, and thinks that everything else is much less important: During a war, a leader must be single-minded and, if necessary, ruthless. | her single-minded pursuit of power
+▪ tough /tʌf/ determined to succeed, even if a situation is difficult or frightening: In competitive sports, it is as important to be mentally tough as it is to be physically fit. | Gorelick is known as a tough manager.
+▪ firm showing by your behaviour that you are determined not to change your mind, especially when you are telling someone what to do: What this country needs is firm leadership. | You have to be firm with young children.
+▪ feisty determined and full of energy, and not afraid to say what you think and argue with people - used especially when you admire this person. Feisty is often used about women: In the film she plays a feisty young woman who is smarter than all the men put together. | a feisty kid with a mind of his own | the city’s feisty mayor
+▪ headstrong determined to do what you want, without listening to other people’s advice or thinking about the results of your actions - used especially about young people: Her sister was headstrong and impulsive, and made a point of going out whenever and wherever she liked.
+▪ resolute formal doing something in a very determined way because you have very strong beliefs, aims etc: the soldiers’ resolute defence of the town
+▪ tenacious formal determined and refusing to give up: McTaggart was seen by many in the environment movement as a tenacious hero. | his tenacious grip on power
+▪ dogged [only before noun] dogged behaviour shows that you are very determined and that you will not give up - used especially in the following phrases: dogged determination/persistence/resistance/refusal: The team played with dogged determination. | his dogged refusal to admit defeat | the dogged persistence of the defenders
+▪ persistent continuing to do something, although this is difficult, or other people warn you not to do it: If you want to get a job, you have to be persistent. Don’t give up.
+▪ strong-willed always very determined to do what you want to do, even if other people think it is not a good idea to do it: She has always been a strong-willed child.
+▪ ruthless /ˈruːθləs/ someone who is ruthless is so determined to get what they want, that they do not care if they harm other people: a ruthless dictator | He was ruthless in his ambition.
+▪ mean business to be determined to do something and show other people that you are determined to do it, even if it involves harming someone: The one-day strike proved that the union meant business.
+
+edgy
+edgy UK  US  [ˈedʒ.i] informal adjective [edgier edgiest]
+nervous or worried
+Thesaurus+: ↑Anxious and worried
+Derived: edgily
+From Longman DOCE 5th Ed. (En-En)
+edgy
+edg‧y /ˈedʒi/ BrE  AmE  adjective
+1. nervous and worried:
+ She’s been edgy lately, waiting for the test results.
+2. aware of the newest ideas and styles and therefore considered very fashionable:
+ The band has developed an edgy new image.
+ 
+ downer
+down‧er /ˈdaʊnə $ -ər/ BrE  AmE  noun informal
+1. [countable] a drug that makes you feel very relaxed or sleepy ⇨ upper
+2. [singular] a person or situation that stops you feeling happy:
+ The weather was a bit of a downer.
+3. be on a downer British English to be sad or experiencing a series of sad events:
+ What’s up with Ruth? She’s been on a downer all week.
+ 
+breeze
+I. breeze1 /briːz/ BrE  AmE  noun [countable]
+[Date: 1500-1600; Language: French; Origin: brise, perhaps from bise 'cold north wind']
+1. a gentle wind ⇨ breezy:
+ flowers waving in the breeze
+2. be a breeze informal to be very easy:
+ Don’t think that learning Dutch will be a breeze.
+⇨ shoot the breeze at ↑shoot1(13)
+• • •
+COLLOCATIONS
+■ ADJECTIVES/NOUN + breeze
+▪ a gentle/soft/mild breeze It was a beautiful day with a blue sky and a gentle breeze.
+▪ a light/slight/faint breeze The curtains lifted in the light breeze.
+▪ a stiff/strong breeze There was a good stiff breeze, just right for sailing.
+▪ a cool breeze It was getting late and a cool breeze was blowing.
+▪ a warm breeze A warm breeze ruffled the leaves of the trees.
+▪ a fresh breeze (=cool and quite strong) A fresh breeze is blowing from the north.
+▪ a sea/ocean breeze The boats were moving up and down in the sea breeze.
+▪ an evening breeze People were out walking, enjoying the evening breeze.
+▪ a morning breeze the fresh morning breeze
+▪ a summer breeze He felt the soft summer breeze against his skin.
+▪ an easterly/westerly etc breeze A gentle easterly breeze was blowing in from the Atlantic.
+■ verbs
+▪ a breeze blows The strong breeze blew sand in our faces.
+▪ a breeze drifts (=blows very gently) A cool breeze drifted through the window.
+▪ a breeze comes through/from etc something The room was hot and no breeze came through the window.
+▪ a breeze stirs/ruffles something A light breeze stirred the waters of the bay.
+• • •
+THESAURUS
+▪ wind air moving in a current, especially strongly or quickly: A cold wind was blowing from the east. | Strong winds caused damage to many buildings.
+▪ breeze a gentle pleasant wind: The trees were moving gently in the breeze. | A slight breeze ruffled her hair.
+▪ draught British English, draft American English /drɑːft $ dræft/ a current of cool air which blows into a room, especially one that makes you feel uncomfortable: There’s a bit of a draught in here – can you close the door?
+II. breeze2 BrE  AmE  verb
+1. [intransitive always + adverb/preposition] to walk somewhere in a calm confident way
+breeze in/into/out etc
+ She just breezed into my office and said she wanted a job.
+2. [transitive] to do very well in a test, a piece of written work etc, with very little effort:
+ Don’t bother studying for the English exam – you’ll breeze it.
+breeze through something phrasal verb
+to achieve something very easily SYN sail through:
+ He breezed through the exam.
+ breezy
+breez‧y /ˈbriːzi/ BrE  AmE  adjective
+1. a breezy person is happy, confident, and relaxed:
+ a breezy and relaxed air of confidence
+2. if the weather is breezy, the wind blows quite strongly
+—breezily adverb
+• • •
+THESAURUS
+▪ windy if it is windy, there is a lot of wind: It's too windy for a picnic. | a windy day in October
+▪ blustery blustery weather is very windy, with sudden strong winds: a cold and blustery day
+▪ breezy if the weather is breezy, the wind blows fairly strongly: a sunny but breezy day in springtime
+▪ blowy informal windy: It's a bit blowy out there. | The day was grey and cold and blowy.
+▪ stormy if the weather is stormy, there are strong winds, heavy rain, and dark clouds: The sky was starting to look stormy. | a period of stormy weather
+▪ windswept a windswept place is often windy because there are not many trees or buildings to protect it: The beach was cold and windswept. | Thousands of the birds live on the windswept islands off the north coast of Scotland.
+
+touch
+6. get in touch with something especially American English to realize and understand something such as your feelings and attitudes:
+ The first stage is to get in touch with your perceptions and accept responsibility for your relationships.
+7. DETAIL/ADDITION [countable] a small detail that improves or completes something
+put the final/finishing touches to something
+ Emma was putting the finishing touches to the cake.
+ There was a vase of flowers in the room, which was a nice touch.
+ Brass pans added a decorative touch to the plain brick wall.
+8. WAY OF DOING SOMETHING [countable] a particular way of doing something, or the ability to do it in a particular way:
+ The room was decorated with a very artistic touch.
+ Our staff combine efficient service with a personal touch (=they do things in a friendly way).
+ The feminine touch was evident throughout the house.
+ His sure touch (=confident way of doing things) and attention to detail are just as evident now.
+ Barbara has a magic touch in the garden (=she grows things very well).
+ King obviously hasn’t lost his touch (=lost his ability) – his latest book sold in the millions.
+9. a touch of something a small amount of something:
+ Our furniture is guaranteed to add a touch of class to your bedroom.
+ Add a lace top for a touch of glamour.
+ ‘What?’ asked Hazel, with a touch of irritation.
+10. a touch disappointed/faster/impatient etc slightly disappointed, faster etc:
+ He sounded a touch upset when I spoke to him on the phone.
+11. with/at the touch of a button/key used to emphasize that something can be done very easily by pressing a button:
+ This card allows you to access your money at the touch of a button.
+ You can get all the latest information with the touch of a button.
+ 
+ slide show
+ˈslide show 8 [slide show] (also slide·show)BrE   NAmE   noun
+1. a number of slides (= small pieces of film held in frames) shown to an audience using a ↑slide projector, often during a lecture
+• a lecture and slide show on Gothic art
+2. (computing) a piece of software that shows a number of images on a computer screen in a particular order
+• a slideshow presentation
+• Click to start the slide show.
+
+conundrum
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ King remains a conundrum, a man of both major strengths and serious character flaws.
+▪ The administration is facing a familiar conundrum.
+EXAMPLES FROM CORPUS
+▪ It was the moral conundrum that defined our home.
+▪ Skymaster is stuck in a conundrum that affects a lot of electronic information services.
+▪ So far he had found no way to resolve the conundrum facing him.
+▪ The divine drama illuminated for us by the Holy Spirit disintegrates into puzzles, conundrums and endless interpretations.
+▪ This broader problem touched on such philosophical conundrums as who we are and what our place is in the universe.
+▪ This is not merely a curious conundrum.
+▪ This is partly a humid, faintly Graham Greene-like love story, partly a conundrum about opaque and enigmatic behaviour.
+
+big pharma (uncountable)
+(business, derogatory) Large, prosperous pharmaceutical firms collectively, understood as a business group having significant economic, political, or social influence.
+1994 Sep. 26, "Biotech," BusinessWeek (retrieved 10 Oct 2013):
+"Biotech's only got about $1.5 billion in partnering funds today, but big pharma is spending $25 billion in R&D" each year with marginal results, notes Burrill.
+2006 June 19, Daniel Williams, "Drugs Before Diagnosis?," Time:
+Critics were indignant that a potentially dangerous drug was being used on a hunch, and suspected the influence of big pharma and its drive to expand its markets.
+2012, James Le Fanu, ‘Bitter Pills to Swallow’, Literary Review, issue 399:
+The driving force, and substantial beneficiary, of this mass medicalisation is of course the pharmaceutical industry, or Big Pharma as it has pejoratively become known.
+
+vogue
+vogue /vəʊɡ $ voʊɡ/ BrE  AmE  noun [countable usually singular, uncountable]
+[Date: 1500-1600; Language: French; Origin: 'act of rowing, course, fashion', from Old Italian voga, from vogare 'to row']
+a popular and fashionable style, activity, method etc SYN fashion
+vogue for
+ the vogue for large families in the pre-war years
+be in vogue/be the vogue
+ Short skirts are very much in vogue just now.
+ Suntanning first came into vogue in the mid-1930s.
+ 
+ ▪ Already that seemed a distant epoch.
+▪ Evolutionary psychologists say that there are human universals which were laid down in the pleistocene epoch.
+▪ I have, in my mind, retold my life, epoch by epoch.
+▪ People stand out likewise, in so far as their work marks an epoch or sums up an historical episode.
+▪ Their own tingling flesh convinced them that a whole new epoch in history was beginning and they were already living in it.
+▪ They are slaves to the prejudices of the epoch in which they were written.
+▪ This epoch was to pass, after Adams's presidency, into similar backgrounds and were very closely interrelated.
+▪ Universal concepts denote phenomena which are presumed to occur universally, regardless of historical epoch or type of society.
+
+hookup (plural hookups)
+(sometimes attributive) A connection.
+The plumber came to fix the sewer hookup.
+I need to buy some hookup wire.
+(slang) A brief sexual relationship or encounter.
+Synonym: fling
+2013 March 10, Jenna Wortham, “How Grindr Is Changing the Way We Connect”, in New York Times‎[1]:
+Grindr’s main purpose is to facilitate hookups that are “spontaneous and intimate,” he said.
+He met his two most recent partners at bars, and expressed strong ambivalence and dislike of meeting partners online, but reported half a dozen additional hookups with partners met online.
+(slang) A sexual partner.
+Synonyms: see Thesaurus:sexual partner
+2015, Tyler Oakley, Binge, Simon and Schuster (→ISBN)
+I bought more bungee cords and made my way to my hookup’s house via slower, more manageable back roads.
+The predominant way of finding a hookup or sexual partner would be going online.
+
+aesthetic
+I. aes‧thet‧ic1 BrE  AmE , esthetic /iːsˈθetɪk, es- $ es-/ adjective
+[Date: 1800-1900; Language: Greek; Origin: aisthetikos, from aisthanesthai 'to experience with the senses']
+connected with beauty and the study of beauty:
+ From an esthetic point of view, it’s a nice design.
+ a work of great aesthetic appeal
+—aesthetically /-kli/ adverb:
+ aesthetically pleasing
+II. aesthetic2 BrE  AmE  noun formal
+1. aesthetics [uncountable] the study of beauty, especially beauty in art
+2. [countable] a set of principles about beauty or art:
+ a new aesthetic
+• • •
+THESAURUS
+▪ beauty the quality of being very attractive to look at - used about people, objects, and places: She was greatly admired for her beauty and intelligence. | the natural beauty of the landscape. | The Ancient Greeks created statues of outstanding beauty and dignity.
+▪ sb’s good looks someone’s attractive appearance, especially their face and features: With his dark good looks, Jason could have been a film star.
+▪ glamour an exciting quality which makes someone or something seem attractive and connected with wealth and success: Men loved her for her beauty and her glamour. | Add a black lace top for a touch of glamour.
+▪ aesthetic adjective connected with beauty and the study of beauty: The aesthetic value of their work is easy to appreciate. | the declining aesthetic standards of our civiliization | The aesthetic qualities in a Buddhist sculpture are similar to those in any other work of art.
+
+foul
+I. foul1 /faʊl/ BrE  AmE  adjective
+[Language: Old English; Origin: ful]
+1. SMELL/TASTE a foul smell or taste is very unpleasant SYN disgusting:
+ He woke up with a foul taste in his mouth.
+ a pile of foul-smelling garbage
+ He put down his mug of foul-tasting coffee.
+2. in a foul mood/temper British English in a very bad temper and likely to get angry:
+ The argument with his mother left Putt in a foul mood.
+3. AIR/WATER very dirty:
+ Refugees in the camps are short of food and at risk from foul water.
+ extractor fans to remove foul air from the tunnel
+4. foul language rude and offensive words:
+ She claimed she had been subjected to abuse and foul language.
+5. WEATHER especially British English foul weather is stormy and windy, with a lot of rain or snow:
+ Always carry foul weather gear when you go out walking.
+—foully adverb
+—foulness noun [uncountable]
+⇨ by fair means or foul at ↑fair1(11), ⇨ fall foul of somebody/something at ↑fall1(15)
+• • •
+THESAURUS
+■ taste/smell
+▪ horrible very bad and unpleasant: What’s that horrible smell? | This fish tastes horrible.
+▪ disgusting/revolting horrible, especially in a way that makes you feel slightly sick: I had to take two spoons of some disgusting medicine. | The stench in the room was revolting.
+▪ nasty very unpleasant – often used about a taste that stays in your mouth: Cheap wine sometimes leaves a nasty taste in your mouth. | the nasty smell of bad eggs
+▪ nauseating /ˈnɔːzieɪtɪŋ, -si- $ ˈnɒːzi-, -ʃi-/ horrible and making you feel that you are going to ↑vomit – used especially about a smell: the nauseating smell of stale beer and cigarette smoke
+▪ foul /faʊl/ horrible – used especially when there is decay or waste: There was a foul smell coming from the water. | Whatever it was in that cup, it tasted foul.
+II. foul2 BrE  AmE  verb
+1.
+a) [transitive] if a sports player fouls another player, they do something that is not allowed by the rules
+b) [intransitive and transitive] to hit a ball outside the limit of the playing area in baseball
+2. (also foul up) [transitive] formal to make something very dirty, especially with waste:
+ rivers and lakes fouled almost beyond recovery by pollutants
+foul up phrasal verb informal
+1. to do something wrong or spoil something by making mistakes ⇨ foul-up:
+ We can’t afford to foul up this time.
+foul something ↔ up
+ Glen completely fouled up the seating arrangements.
+2. foul something ↔ up to make something very dirty, especially with waste:
+ He lit a cigarette and started to foul up the air with stinging yellow smoke.
+III. foul3 BrE  AmE  noun [countable]
+1. an action in a sport that is against the rules:
+ Wright was booked for a foul on the goalkeeper.
+2. a hit in baseball which goes outside the limits of the playing area
+
+AMOUNT
+2. a good/great deal
+<I > a large amount; much
+• She spends a good deal of her time in Glasgow.
+• A great deal of effort has gone into making the software reliable.
+• They still need a great deal more money to finish the project.
+Thesaurus+: ↑Masses and large amounts of things
+ 
+SHARING OUT
+3. countable when someone deals (= shares out), especially playing cards
+• It's your deal (= turn to deal).
+Thesaurus+: ↑Actions involved in playing cards
+
+blip
+blip UK  US  [blɪp] noun countable [blips]
+1. a small spot of light, sometimes with a short sharp sound, that appears on a radar screen, or a sudden sharp V-shaped bend in a line on a computer screen
+Thesaurus+: ↑Quantities and units of light
+2. a temporary change that does not have any special meaning
+• Last month's rise in inflation was described by the chancellor as only a blip.
+Thesaurus+: ↑Change and changes
+From Longman DOCE 5th Ed. (En-En)
+blip
+blip /blɪp/ BrE  AmE  noun [countable]
+[Date: 1800-1900; Origin: From the sound of a sudden light hit]
+1. a short high electronic sound, or a flashing light on the screen of a piece of electronic equipment:
+ blips on a radar screen
+2. a short pause or change in a process or activity, especially when the situation gets worse for a while before it improves again:
+ A government spokesman described the rise in inflation as a temporary blip.
+ 
+ tread
+I. tread1 /tred/ BrE  AmE  verb (past tense trod /trɒd $ trɑːd/, past participle trodden /ˈtrɒdn $ ˈtrɑːdn/)
+[Language: Old English; Origin: tredan]
+1. STEP IN/ON [intransitive always + adverb/preposition] British English to put your foot on or in something while you are walking SYN step
+tread in/on
+ Sorry, did I tread on your foot?
+ She trod barefoot on the soft grass.
+2. tread carefully/warily/cautiously etc to be very careful about what you say or do in a difficult situation:
+ If I wanted to keep my job, I knew I’d have to tread lightly.
+3. CRUSH
+a) [transitive] British English to press or crush something into the floor or ground with your feet SYN track American English
+tread something into/onto/over something
+ Stop treading mud all over my clean kitchen floor!
+ Bits of the broken vase got trodden into the carpet.
+b) tread grapes to crush ↑grapes with your feet in order to produce juice for making wine
+4. tread a path British English written to take a particular action or series of actions:
+ Getting the right balance between home and work is a difficult path to tread.
+5. tread water (past tense and past participle treaded)
+a) to stay floating upright in deep water by moving your legs as if you are riding a bicycle
+b) to make no progress in a particular situation, especially because you are waiting for something to happen:
+ All I could do was tread water until the contracts arrived.
+6. WALK [intransitive, transitive always + adverb/preposition] literary to walk:
+ David trod wearily along behind the others.
+7. tread the boards humorous to work as an actor
+⇨ tread on sb’s toes at ↑toe1(3)
+II. tread2 BrE  AmE  noun
+
+1. [uncountable and countable] the pattern of lines on the part of a tyre that touches the road
+2. [countable] the part of a stair that you put your foot on
+3. [singular] literary the particular sound that someone makes when they walk:
+ I heard the back door bang, and Rex’s tread in the hall.
+ 
+ drape
+drape UK  US  [dreɪp] verb [drapes draping draped]
+1. drape sth across/on/over, etc. sth
+to put something such as cloth or a piece of clothing loosely over something
+• He draped his jacket over the back of the chair and sat down to eat.
+• She draped the scarf loosely around her shoulders.
+Thesaurus+: ↑Hanging and suspending ↑Covering and adding layers
+2. be draped in/with sth
+to be loosely covered with a cloth
+• The coffins were all draped with the national flag.
+Thesaurus+: ↑Covering and adding layers
+Idiom: draped all over somebody
+ 
+noun countable or uncountable
+1. the way in which cloth folds or hangs as it covers something
+• She liked the heavy drape of velvet.
+Thesaurus+: ↑The style, appearance, and make-up of clothes
+2. drapes (also draperies) US
+heavy curtains made with thick cloth
+Thesaurus+: ↑Curtains and wallpaper
+
+play with a full deck (third-person singular simple present plays with a full deck, present participle playing with a full deck, simple past and past participle played with a full deck)
+(idiomatic, chiefly US and Canada, of a person, chiefly in the negative) To behave in a manner suggesting that one is of normal intelligence, alert, and mentally stable.
+1965, George Carlin[1]
+I think we all realize he's not playing with a full deck.
+1987 April, Barbara Ehrenreich, “The Unfastened Head of State”, in Mother Jones, volume 12, number 3, page 10:
+Someday our grandchildren will look up at us and say, "Where were you, Grandma, and what were you doing when you first realized that President Reagan was, er, not playing with a full deck?"
+2009, Julie Lyons, Holy Roller, →ISBN, ch. 1 (Google preview):
+[E]very single person, who Grandma said were family members, appeared to be either mentally ill, retarded, or strung out on drugs. Grandma seemed to be playing with a full deck, but no one else was.
+2014 June 4, Cary Shuman, "Former Chelsea High Football Standout and Pop Warner Coach Joe Leonard Dies at 84," Chelsea Record (US) (retrieved 14 Oct 2015):
+“My father’s favorite saying was, ‘Are you alright?’ and ‘Are you playing with a full deck?’” recalled Darren.
+(team sports) To play a game with the availability of a team's full roster of players.
+2014 Nov. 24, Fred Mitchell, "Monday's recap: Bulls 97, Jazz 95," Chicago Tribune (retrieved 14 Oct 2015):
+The Bulls were closer to playing with a full deck Monday night when coach Tom Thibodeau announced that Derrick Rose and Pau Gasol would be in the starting lineup.
+
+nonsensical
+nonsensical UK  [ˌnɒnˈsen t.sɪ.kl ̩] US  [ˌnɑːn-] adjective
+silly or stupid
+• It's nonsensical to blame all the world's troubles on one man.
+• Their methods of assessment produce nonsensical results.
+Thesaurus+: ↑Stupid and silly ↑Of unsound mind ↑Nonsense
+nonsense
+nonsense UK  [ˈnɒn.s ə n t s] US  [ˈnɑːn.sen t s] noun
+1. <I > only singular or uncountable an idea, something said or written, or behaviour that is silly or stupid
+• This report is nonsense and nothing but a waste of paper.
+• The accusations are (absolute/complete/utter) nonsense.
+• Nonsense/Don't talk nonsense! She's far too ill to return to work!
+• You mustn't upset your sister with any more nonsense about ghosts.
+• + to infinitive It's (a) nonsense to say that he's too old for the job.
+Thesaurus+: ↑Nonsense
+2. <I > uncountable language which cannot be understood because it does not mean anything
+• The translation of the instructions was so poor they were just nonsense.
+Thesaurus+: ↑Nonsense
+• It's hard to believe anyone would try to pass this nonsense off as literature.
+• The papers were full of the most blatant propagandist nonsense.
+• Her grandfather's in his second childhood and talks nonsense most of the time.
+• The suggestion is sheer nonsense.
+• "Stop this childish nonsense at once!" he shouted furiously.
+Idioms: make nonsense of something ▪ not stand any nonsense
+
+rebuttal
+rebuttal UK  [rɪˈbʌt. ə l] US  [-ˈbʌt ̬-] formal noun countable [rebuttals]
+a statement which says that something is not true
+• She issued a point-by-point rebuttal of the company's accusations.
+Thesaurus+: ↑Denying and contradicting
+
+■ verbs
+▪ have the task of doing something He had the task of judging the competition.
+▪ carry out/perform/do a task I don't think we have enough resources to carry out this task.
+▪ set/give somebody a task I was given the task of writing the chairman's speech.
+▪ take on/undertake a task No-one else is willing to take on the task.
+▪ assign a task (=give someone a task to do) People were assigned different tasks.
+▪ a task faces somebody Given the nature of the task facing us, three days might not be enough.
+■ adjectives
+▪ impossible She may argue that the task is impossible.
+▪ simple The children help with simple tasks like carrying in water or logs for the fire.
+▪ difficult The task of selecting just five candidates is difficult.
+▪ somebody's first/main task Their first task was to rebuild the wall.
+▪ a thankless task (=a difficult but necessary job) Driving a bus in London must be a pretty thankless task.
+▪ a formidable/daunting task (=very difficult) Achieving these targets will be a formidable task.
+▪ an unenviable task (=unpleasant or difficult) He has the unenviable task of telling hungry people that there is no food.
+▪ an arduous task (=needing a lot of effort and hard work) We began the arduous task of carrying the furniture to the top floor.
+■ phrases
+▪ something is not an easy task something is no easy task (=something is difficult) Recruiting experienced people is no easy task nowadays.
+II. task2 AC BrE  AmE  verb [transitive usually passive]
+to give someone the responsibility for doing something
+be tasked with (doing) something
+ We were tasked with completing the job by the end of 2006.
+ 
+ boon
+noun
+COLLOCATIONS FROM OTHER ENTRIES
+a boon companionliterary (= a very close friend)
+▪ Charles arrived at the house, together with his boon companion Herbert.
+boon companion
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+great
+▪ A recently acquired photo-copier has proved a great time-saving boon for note taking.
+▪ It also is a great boon to vegetarians who can cook grains and dried beans in 12 minutes or less.
+▪ The Mormons were given the greatest boon a struggling movement can want, a martyr.
+■ NOUN
+companion
+▪ She hadn't deserved their kindness, their good wishes - she'd hardly been a boon companion of late.
+■ VERB
+prove
+▪ During haytime and harvest, the four horses bought from his father-in-law had proved to be a boon.
+▪ That kind of bare-knuckled competition is proving to be a boon to travelers on the World Wide Web.
+▪ A recently acquired photo-copier has proved a great time-saving boon for note taking.
+▪ Yet even in its triumph over human competition, the computer is proving something of a boon to the chess world.
+▪ United's record goalscorer and now director, Bob
+
+preservative
+preservative UK  [prɪˈzɜː.və.tɪv] US  [-ˈzɝː.və.t ̬ɪv] noun [preservatives]
+1. countable or uncountable a substance used to prevent decay in wood
+• a timber/wood preservative
+• The fence has been treated with preservative.
+Thesaurus+: ↑Carpentry and joinery
+2. countable a chemical used to stop food from decaying
+• This bread is completely free from artificial preservatives.
+• No added preservatives.
+• natural preservatives
+Thesaurus+: ↑Additives in food and drinks
+From Longman DOCE 5th Ed. (En-En)
+preservative
+pre‧ser‧va‧tive /prɪˈzɜːvətɪv $ -ɜːr-/ BrE  AmE  noun [uncountable and countable]
+a chemical substance that is used to prevent things from decaying, for example food or wood:
+ food that contains no artificial preservatives
+ 
+ hawker
+hawker UK  [ˈhɔː.kə r ] US  [ˈhɑː.kɚ] noun countable [hawkers]
+someone who sells goods informally in public places
+Thesaurus+: ↑People who sell things ↑Traders, merchants and entrepreneurs
+hawk 1
+1 / hR:k; hRk/ n 
+ strong swift bird of prey withsharp eyesight 鹰; 隼. 
+ (politics 政) person who favours aggressive policies in foreign affairs ‘鹰派’人物（对外事务上持强硬路线者）. Cf 参看 dove1 2.
+ > hawkish adj (politics 政) favouring aggressive policies rather than negotiation and compromise 坚持强硬政策的（不谈判、不妥协的）. hawkishness n [U].
+ # ,hawk-`eyed adj 
+ having very good eyesight 目光犀利的. 
+ (of a person) watching closely and carefully （指人）观察力强的.
+hawk 2
+2 / hR:k; hRk/ v [Tn, Tn.p] ~ sth (about/around) 1 offer (goods) for sale by going from house to house, street to street, etc 沿街叫卖（货物）.
+ (fig 比喻) spread (news) by talking 散布（消息）: Who's been hawking gossip about? 是谁在散布流言蜚语?
+ > hawker n person who hawks goods 走街串巷的小贩.
+ I. muse2 BrE  AmE  noun [countable]
+[Date: 1300-1400; Language: French; Origin: Latin Musa, from Greek Mousa]
+1. someone’s muse is the force or person that makes them want to write, paint, or make music, and helps them to have good ideas SYN inspiration:
+ Rossetti’s wife and creative muse
+2. (also Muse) one of the nine ancient Greek goddesses who each represented a particular art or science:
+ the Muse of History
+>>>>>>> f12082e2466560a105c9f22f1c0ebba3902fd230
