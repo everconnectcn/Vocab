@@ -8723,6 +8723,7 @@ doze off phrasal verb (see also ↑doze)
 to go to sleep, especially when you did not intend to SYN drop off, nod off:
  I must have dozed off.
  
+<<<<<<< HEAD
  kick back
 kick back phrasal verb American English (see also ↑kick)
 to relax:
@@ -8885,3 +8886,259 @@ up
 ▪ With a sigh of relief she subsided on to her silky pillow, snuggling up like a kitten.
 EXAMPLES FROM OTHER ENTRIES
 ▪ Charleston is snuggled along the Kanawha River.
+=======
+ verb [-gg-]
+FIX
+1. transitive usually + adverb or preposition to fix something in place with pegs
+• Make sure the tarpaulin is securely pegged down.
+• I'll peg out the clothes before I go to work.
+Thesaurus+: ↑Fastening and tying
+2. transitive to arrange something so that it stays at a particular level
+• The agreement works because member nations haven't tried to peg prices.
+Thesaurus+: ↑Keeping and staying the same ↑Not able to be changed
+BASEBALL
+3. transitive US informal to throw a ball in baseball low and fast
+• Mattingly pegged the ball to Stanley.
+Thesaurus+: ↑Baseball and rounders ↑General terms used in ball sports ↑Throwing
+Phrasal Verbs: peg out ▪ peg something out
+From Longman DOCE 5th Ed. (En-En)
+peg
+I. peg1 /peɡ/ BrE  AmE  noun [countable]
+[Date: 1400-1500; Origin: Probably from Middle Dutch pegge]
+1. SHORT STICK a short piece of wood, metal, or plastic that is attached to a wall or fits into a hole, used especially to hang things on or to fasten things together:
+ Sarah hung her coat on the peg.
+ a table fitted together with pegs
+ a pattern made with coloured pegs on a board
+2. HANGING WET CLOTHES British English a small plastic or wooden object used to fasten wet clothes to a thin rope to dry SYN clothes peg, clothespin American English
+3. TENT a pointed piece of wood or metal that you push into the ground in order to keep a tent in the correct position
+4. take/bring somebody down a peg (or two) to make someone realize that they are not as important or skilled as they think they are:
+ Evans is an arrogant bully who needs taking down a peg or two.
+5. MUSICAL INSTRUMENT a wooden screw used to make the strings of a ↑violin, ↑guitar etc tighter or looser SYN tuning peg
+6. a peg to hang something on British English something that is used as a reason for doing, discussing, or believing something:
+ As a peg to hang it on, the tournament had the 100th anniversary of Nehru’s birth.
+7. DRINK British English old-fashioned a small amount of strong alcoholic drink, especially ↑whisky or ↑brandy
+⇨ square peg in a round hole at ↑square1(12)
+II. peg2 BrE  AmE  verb (past tense and past participle pegged, present participle pegging) [transitive]
+1. to set prices, wages etc at a particular level, or set them in relation to something else
+peg something at something
+ The dividend was pegged at 6.1p.
+peg something to something
+ a currency pegged to the American dollar
+2. to fasten something somewhere with a peg:
+ The tent flap was pegged open.
+ Outside, a woman was pegging sheets to a washing line.
+peg somebody/something as something phrasal verb
+to believe or say that someone has a particular type of character, or that a situation has particular qualities:
+ I’d had him pegged as a troublemaker.
+peg away phrasal verb British English informal
+to work hard and with determination
+peg away at
+ She pegged away at her essay.
+peg somebody/something ↔ back phrasal verb British English
+to stop someone from winning in a sport or from increasing the amount by which they are winning – used in news reports:
+ They were pegged back by an equaliser from Jameson.
+peg out phrasal verb
+1. British English informal to die, or to fall down because you are tired
+2. peg something ↔ out British English to fasten wet clothes to a washing line to dry
+3. peg something ↔ out to mark a piece of ground with wooden sticks
+
+cause/inflict casualties
+▪ The rebels have inflicted heavy casualties.
+inflict a defeat on sb (=defeat someone, especially easily)
+▪ The army inflicted a heavy defeat on the English.
+inflict a punishment (on sb) (=punish someone, especially physically)
+▪ The abbot could inflict corporal punishment for gross disobedience.
+inflict a wound
+▪ These fish can inflict serious wounds.
+inflict an injury on sbformal (= make someone have an injury)
+▪ Jenkins was accused of inflicting a head injury on one of his former colleagues.
+inflict hardship on sb (=make someone be in a difficult or painful situation, used for emphasis)
+▪ Civil war has inflicted hardship and suffering on thousands of people.
+inflict harm (=cause harm, especially physical harm)
+▪ None of us wants to inflict harm on another human being.
+inflict pain
+▪ The guards enjoyed inflicting pain on them.
+inflict
+inflict UK  US  [ɪnˈflɪkt] verb transitive [inflicts inflicting inflicted]
+to force someone to experience something very unpleasant
+• These new bullets are capable of inflicting massive injuries.
+• The suffering inflicted on these children was unimaginable.
+Thesaurus+: ↑Treating people or animals badly ↑Insults and abuse ↑Unkind, cruel and unfeeling ↑Violent or aggressive
+Derived: infliction
+From Longman DOCE 5th Ed. (En-En)
+inflict
+in‧flict /ɪnˈflɪkt/ BrE  AmE  verb
+[Date: 1500-1600; Language: Latin; Origin: past participle of infligere, from fligere 'to hit']
+1. [transitive] to make someone suffer something unpleasant
+inflict something on/upon somebody
+ The strikes inflicted serious damage on the economy.
+ Detectives warned that the men could inflict serious injury.
+2. inflict yourself/somebody on somebody to visit or be with someone when they do not want you – used humorously:
+ Was it really fair to her friends to inflict her nephew on them?
+—infliction /ɪnˈflɪkʃən/ noun [uncountable]:
+ the deliberate infliction of pain
+ 
+ heed
+I. heed1 /hiːd/ BrE  AmE  verb [transitive] formal
+[Language: Old English; Origin: hedan]
+to pay attention to someone’s advice or warning:
+ If she had only heeded my warnings, none of this would have happened.
+II. heed2 BrE  AmE  noun
+pay heed to something/take heed of something formal to pay attention to something, especially something someone says, and seriously consider it:
+ The government was taking little heed of these threats.
+ Tom paid no heed to her warning.
+From Oxford Advanced Learners Dictionary 8th Ed.
+heed
+heed [heed heeds heeded heeding] verb, noun BrE [hiːd]  NAmE [hiːd] 
+verb ~ sb/sth (formal)
+to pay careful attention to sb's advice or warning
+Syn: take notice of
+• They failed to heed the lessons of history.
+• If only they had heeded his warnings!
+• Calls for more legislation to protect tenants were not heeded.
+
+pat
+I. pat1 /pæt/ BrE  AmE  verb (past tense and past participle patted, present participle patting) [transitive]
+1. to lightly touch someone or something several times with your hand flat, especially to give comfort ⇨ stroke:
+ He patted the dog affectionately.
+2. pat somebody/yourself on the back to praise someone or yourself for doing something well:
+ You can pat yourselves on the back for a job well done.
+• • •
+THESAURUS
+■ touch somebody gently or lovingly
+▪ stroke to move your hand gently over something, especially in a loving way: She stroked the child’s hair. | Our cat won’t let people stroke him.
+▪ pat to touch an animal or child lightly several times, with your hand flat: He knelt down to pat the dog. | She patted the little boy’s head.
+▪ pet to touch and move your hand gently over someone, especially an animal or child: The goats, pigs, sheep, and cows here allow you to pet them.
+▪ caress /kəˈres/ to gently touch a part of someone’s body in a loving way: a mother caressing her child | She caressed his cheek.
+▪ fondle to touch a part of someone’s body in a loving or sexual way – use this especially about touching someone in a sexual way that is not wanted: He tried to fondle her and she immediately pulled away from him.
+II. pat2 BrE  AmE  noun [countable]
+[Date: 1300-1400; Origin: From the sound made by patting]
+1. a friendly act of touching someone with your hand flat:
+ Mrs Dodd gave the child a pat on the head.
+2. pat of butter a small flat amount of butter
+3. a pat on the back informal praise for something that you have done well:
+ Alex deserves a pat on the back for all his hard work.
+⇨ ↑cowpat
+III. pat3 BrE  AmE  adjective [usually before noun]
+a pat answer or explanation seems too quick and too simple and sounds as if it has been used before:
+ There are no pat answers to these questions.
+IV. pat4 BrE  AmE  adverb
+1. have something off pat British English, have something down pat American English to know something thoroughly so that you can say it, perform it etc immediately without thinking about it SYN (off) by heart
+2. stand pat American English to refuse to change your opinion or decision
+
+aim at (third-person singular simple present aims at, present participle aiming at, simple past and past participle aimed at)
+Used other than figuratively or idiomatically: see aim,‎ at.
+This gun is aimed at your head.
+To design for a particular audience
+I've created a program aimed at the educated over 40's
+(figuratively) To intend to do or achieve.
+I'm aiming at the Governorship of Kansas.
+1960 March, “Testing a rebuilt "Merchant Navy" Pacific of the S.R.”, in Trains Illustrated, page 169:
+The general tenor of the report on No. 35020 is that all the improvements in performance aimed at in the rebuilding of these engines have been achieved.
+
+5. GOOD EFFECT to be successful because of the good effect or influence of something or someone
+owe to
+ Their success owes more to good luck than to careful management.
+ Pearson’s work owed much to the research of his friend, Hugh Kingsmill.
+6. owe it to somebody to do something to feel you should do something for someone, because they have helped you or given you support:
+ You owe it to your supporters not to give up now.
+7. owe it to yourself to do something to feel you should try to achieve something because it is what you deserve:
+ You owe it to yourself to take some time off.
+8. owe loyalty/allegiance etc to somebody to have a duty to obey someone:
+ provinces owing allegiance to the Emperor
+9. think that the world owes you a living to be unwilling to work in order to get things, and expect them to be provided for you – used to show disapproval
+• • •
+THESAURUS
+▪ owe to need to pay someone for something they have sold to you or because they have lent you money – used especially when talking about particular amounts of money: You owe me $50. | The football club still owes £2.3 million.
+▪ be in debt to owe money, especially to several different companies – used when talking about a person’s financial situation: She hates being in debt. | We started getting deeper and deeper into debt.
+▪ be overdrawn to owe an amount of money to your bank because you have taken more money out of an account than you have put in: He received a letter saying he was overdrawn. | The bank charged me even though I was only a few pence overdrawn.
+▪ have an overdraft to be overdrawn, with the agreement of your bank: When I finished college I had a big overdraft.
+▪ be in the red informal to have spent more money than you have: The firm is £190,000,000 in the red.
+
+legislate
+legislate UK  US  [ˈledʒ.ɪ.sleɪt] formal verb intransitive [legislates legislating legislated]
+If a government legislates, it makes a new law
+• They promised to legislate against cigarette advertising.
+• It's hard to legislate for (= make a law that will protect) the ownership of an idea.
+Thesaurus+: ↑Legislation and law-making
+From Longman DOCE 5th Ed. (En-En)
+legislate
+le‧gis‧late AC /ˈledʒəsleɪt, ˈledʒɪsleɪt/ BrE  AmE  verb [intransitive]
+[Word Family: noun: ↑legislation, ↑legislator, ↑legislature; verb: ↑legislate; adjective: ↑legislative]
+[Date: 1700-1800; Origin: legislator]
+1. to make a law about something
+legislate on
+ Only Parliament has the power to legislate on constitutional matters.
+legislate for/against
+ The government has promised to legislate against discrimination.
+ We must legislate for equal pay.
+legislate to do something
+ We must legislate to control these drugs.
+2. legislate for something to think about how something may affect what you are doing, and do something to prepare for it:
+
+assuage
+
+ / E5sweIdV; E`swedV/ v [Tn] (fml 文) make (sth) less severe; soothe 减轻; 缓和; 平息: assuage one's hunger, thirst, grief, longing, etc 充饥、解渴、减轻悲痛、抑制欲念.
+From Longman DOCE5 Extras (En-En)
+assuage
+verb
+COLLOCATIONS FROM OTHER ENTRIES
+assuage sb’s guiltformal (= make someone feel less guilty)
+▪ She died before I got there, and there was nothing I could do to assuage my guilt and regret.
+COLLOCATIONS FROM CORPUS
+■ NOUN
+guilt
+▪ Above all, affirmative action assuages white guilt.
+▪ Ill health removed the pleasures of dissipation for him, and there was nothing to assuage his guilt and regret.
+▪ Or assuage the guilt for abandoning that traditional ideal.
+▪ This itself suggests that such findings assuage some sense of guilt.
+EXAMPLES FROM OTHER ENTRIES
+▪ Debra tried to assuage my fears.
+EXAMPLES FROM CORPUS
+▪ Ha face was pale, her eyes dark-rimmed, and this assuaged some of my pain at the nun's silly chatter.
+▪ His presence alone would be assuaging to her.
+▪ Its escapism and conservatism assuaged the threats of the Cold War world outside.
+▪ My physical hunger could be quite quickly assuaged, my mental starvation was a different matter.
+▪ The decision to look outside the bank for a chief executive is likely to assuage some critics of Barclays in the City.
+▪ This itself suggests that such findings assuage some sense of guilt.
+
+entwined
+entwined UK  US  [ɪnˈtwaɪnd] adjective
+closely connected or unable to be separated
+• The fates of both countries seem somehow entwined.
+Thesaurus+: ↑Connecting and combining ↑Variety and mixtures ↑Mixing and mixtures
+Main entry: entwinederived
+entwine
+entwine UK  US  [ɪnˈtwaɪn] verb transitive often passive [entwines entwining entwined]
+to twist something together or around something
+• The picture captures the two lovers with their arms entwined.
+Thesaurus+: ↑Bending, twisting and curving
+Derived: entwined
+From Longman DOCE 5th Ed. (En-En)
+entwine
+en‧twine /ɪnˈtwaɪn/ BrE  AmE  verb [intransitive, transitive often passive]
+1. to twist two things together or to wind one thing around another:
+ They walked together with their arms entwined.
+2. be entwined (with something) to be closely connected with something in a complicated way:
+ Our views of leadership are entwined with ideas of heroism.
+ 
+ proliferate
+verb
+COLLOCATIONS FROM CORPUS
+continue
+▪ Yet the idea of a post-apocalyptic city captivates the contemporary mind and its images continue to proliferate.
+▪ Such cultures retain viability and continue to proliferate for approximately I week but changing the medium may extend this period.
+▪ Since then, the work has continued to proliferate.
+▪ These broader, qualitative questions must be raised and examined as courses for unemployed people continue to proliferate.
+EXAMPLES FROM OTHER ENTRIES
+▪ Child pornography is proliferating due to the increased use of computer chat rooms.
+▪ Fast-food restaurants have proliferated in the area.
+▪ The HIV virus is able to proliferate at an astonishing rate.
+EXAMPLES FROM CORPUS
+▪ As with the Casket Letters, conflicting theories concerning the event have proliferated ever since.
+▪ But unless I am much mistaken, the ingestion of strange materials really is proliferating.
+▪ By the 1970s, such names were proliferating.
+▪ Fears of mortgage defaults are adding pressure to an already depressed property market, while reports of industry feeling the squeeze proliferated.
+▪ The algae consumed waste products from the reef and under the intense artificial sunlight they proliferated in stringy green mats.
+▪ Towns proliferate in civilizations: in cultures they remain embryonic.
+>>>>>>> dfb32abaea7ba533909a03ee13df274bac1ff13d

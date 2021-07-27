@@ -14239,6 +14239,7 @@ hawk 2
 2. (also Muse) one of the nine ancient Greek goddesses who each represented a particular art or science:
  the Muse of History
 
+<<<<<<< HEAD
 genealogy
 ge‧ne‧al‧o‧gy /ˌdʒiːniˈælədʒi/ BrE  AmE  noun (plural genealogies)
 [Date: 1300-1400; Language: French; Origin: généalogie, from Greek genea 'family']
@@ -14329,6 +14330,25 @@ THESAURUS
 ▪ the rains noun [plural] heavy rain that falls during a particular period in the year in tropical countries: The farmers are waiting for the rains to come.
 ▪ monsoon noun [countable ] the heavy rain that falls between April and October in India and other southern Asian countries: The monsoon is late this year. | the monsoon season
 
+=======
+blunder
+blunder UK  [ˈblʌn.də r ] US  [-dɚ] noun countable [blunders]
+a big mistake, usually caused by not taking care or thinking
+• He said that the tax was a major political blunder.
+• I made a bit of a blunder by getting his name wrong.
+Thesaurus+: ↑Faults and mistakes
+verb
+MOVE
+1. intransitive usually + adverb or preposition to move in an awkward way
+• I could hear him blundering around in the darkness.
+Thesaurus+: ↑Moving unsteadily or with difficulty
+MISTAKE
+2. intransitive to make a big mistake, usually because of not taking care or thinking
+• Police blundered by not releasing more details about the case to focus public interest.
+Thesaurus+: ↑Making mistakes
+Derived: blunderer ▪ blundering
+From Longman DOCE 5th Ed. (En-En)
+>>>>>>> dfb32abaea7ba533909a03ee13df274bac1ff13d
 blunder
 I. blun‧der1 /ˈblʌndə $ -ər/ BrE  AmE  noun [countable]
 a careless or stupid mistake:
@@ -14355,6 +14375,7 @@ blunder into
 blunder in
  He would have agreed if you hadn’t blundered in.
 
+<<<<<<< HEAD
 
 causal
 causal UK  [ˈkɔː.z ə l] US  [ˈkɑː-] formal adjective
@@ -14399,3 +14420,356 @@ From Longman DOCE 5th Ed. (En-En)
 all-nighter
 ˌall-ˈnighter BrE  AmE  noun [countable] American English informal
 an occasion when you spend the whole night studying or doing written work at university
+=======
+bogey man
+ˈbogey ˌman (also bogy man , US also boogeyman) noun countable [bogey men] UK  US 
+an imaginary evil person who harms children
+• Be good, or the bogey man will come and get you!
+Thesaurus+: ↑Unpleasant people in general ↑Unpleasant men
+See also: boogeyman
+
+chorus
+I. cho‧rus1 /ˈkɔːrəs/ BrE  AmE  noun [countable]
+[Date: 1500-1600; Language: Latin; Origin: 'circular dance, chorus', from Greek choros]
+1. the part of a song that is repeated after each ↑verse:
+ Everyone joined in the chorus.
+2. a large group of people who sing together SYN choir:
+ I sing with the university chorus.
+3. a piece of music written to be sung by a large group of people:
+ a recording of the ‘Hallelujah Chorus’
+4. a group of singers, dancers, or actors who act together in a show but do not have the main parts:
+ New voices are needed to join the chorus for the annual festival in October.
+5. a chorus of thanks/disapproval/protest etc something that a lot of people all say at the same time:
+ The minister was greeted with a chorus of boos.
+ There was a chorus of agreement from the committee.
+ More politicians have now joined in the chorus of complaints.
+6. in chorus if people say something in chorus, they say the same thing at the same time:
+ ‘Thank you,’ they said in chorus.
+• • •
+THESAURUS
+▪ song a short piece of music with words that you sing: We sang songs around the campfire. | The song was written by John Lennon.
+▪ track one of the songs on a CD or record: Track three is my favourite one.
+▪ number a song that forms part of a performance of several songs: The show was brilliant, from the opening number to the end.
+▪ tune the notes in a song, without the words: I recognize the tune, but I can’t remember what it’s called.
+▪ melody the main series of notes in a piece of music that has several parts which are played together: The song has a simple melody and beautiful lyrics.
+▪ verse a set of sentences that make up one part of a song: She sang the first verse of ‘Amazing Grace’.
+▪ chorus a set of sentences in a song that is repeated after each verse: Most of the kids were able to join in the chorus.
+II. chorus2 BrE  AmE  verb [transitive]
+if people chorus something, they say it at the same time:
+ ‘Hurry up!’ chorused the girls.
+ 
+ mound
+mound /maʊnd/ BrE  AmE  noun [countable]
+1. a pile of earth or stones that looks like a small hill:
+ an ancient burial mound
+mound of
+ a small mound of dirt
+2. a large pile of something
+mound of
+ There’s a mound of papers on my desk.
+ The waiter appeared with a huge mound of spaghetti.
+3. (also pitcher’s mound) the small hill that the ↑pitcher stands on in the game of baseball
+• • •
+THESAURUS
+▪ pile a group of things of the same type that are put on top of each other: a huge pile of cardboard boxes
+▪ stack a neat pile of things of the same type: There were stacks of books on the floor.
+▪ heap a large messy pile of things: All his clothes were in a heap on the floor.
+▪ mound a pile of something with a round shape: a small mound of rice on the plate
+▪ mountain a very large pile of something with a round shape: a mountain of dirty laundry waiting to be washed
+
+humanism
+
+ / 5hju:mEnIzEm; `hjumEn9IzEm/ n [U] 
+ (a) system of beliefs that concentrates on common human needs and seeks rational (rather than divine) ways of solving human problems 人道主义. (b) study of mankind and human affairs (contrasted with theological subjects) 人本主义（研究人的事情, 以别于神学的研究）. 
+ literary culture (esp in the Renaissance) based on Greek and Roman learning 人文主义（基于希腊和罗马学术思想的文学思潮, 尤指文艺复兴时代的）.
+
+ > humanist / 5hju:mEnIst; `hjumEnIst/ n supporter of humanism 人道主义者; 人本主义者; 人文主义者.
+ humanistic / 9hju:mE5nIstIk; 9hjumE`nIstIk/ adj.
+ 
+ AREA OF KNOWLEDGE
+6. <A > uncountable an area of knowledge or experience; a subject
+• When the conversation turns to politics he's on familiar ground (= he knows a lot about this subject).
+• Once we'd found some common ground (= things we both knew about) we got on very well together.
+• The lectures covered a lot of ground (= included information on many different subjects).
+• I enjoyed her first novel, but I felt in the second she was going over the same ground (= dealing with the same area of experience).
+Thesaurus+: ↑Topics and areas of interest
+ 
+• The debate is becoming polarized and there seems to be no middle ground.
+• I think you're on very shaky ground with that argument.
+• He's annoying to argue with because he keeps shifting his ground.
+• The party has watered down its socialist ideals in order to appeal to the centre ground.
+• We covered a lot of ground in the first few weeks of the course.
+
+doomscrolling (uncountable)
+(informal) The practice of continually reading Internet news about catastrophic events.
+Synonym: doomsurfing
+2020 July 15, Brian X. Chen, “You’re Doomscrolling Again. Here’s How to Snap Out of It.”, in New York Times‎[1]:
+Step 1 is to acknowledge the burden that doomscrolling creates for our health, Dr. Gazzaley said. “You have to realize you don’t want to live your life in a hamster wheel of complete news consumption,” he said.
+2021 January 24, Tallie Proud, “Twitter accounts to follow to break up the doomscrolling”, in Tallie Proud‎[2]:
+It would be easy enough to say just stop doing it, but with everything happening in the world right now, it’s impossible to completely avoid doomscrolling.
+
+avalanche 
+avalanche
+av‧a‧lanche /ˈævəlɑːntʃ $ -læntʃ/ BrE  AmE  noun [countable]
+[Date: 1700-1800; Language: French; Origin: French dialect lavantse, avalantse]
+1. a large mass of snow, ice, and rocks that falls down the side of a mountain:
+ Two skiers were killed in the avalanche.
+2. an avalanche of something a very large number of things such as letters, messages etc that arrive suddenly at the same time:
+ The school received an avalanche of applications.
+ provocative
+pro‧voc‧a‧tive /prəˈvɒkətɪv $ -ˈvɑː-/ BrE  AmE  adjective
+1. provocative behaviour, remarks etc are intended to make people angry or upset, or to cause a lot of discussion
+provocative comment/remark/statement
+ The minister’s provocative remarks were widely reported in the press.
+ a provocative act by a terrorist group
+ She was accused of being deliberately provocative.
+2. provocative clothes, movements, pictures etc are intended to make someone sexually excited:
+ provocative images of young girls
+—provocatively adverb
+
+interval
+in‧ter‧val W3 AC /ˈɪntəvəl $ -tər-/ BrE  AmE  noun [countable]
+[Date: 1300-1400; Language: Old French; Origin: entreval, from Latin intervallum 'space between castle walls, interval']
+1. the period of time between two events, activities etc:
+ He left the room, returning after a short interval with a message.
+interval between
+ The interval between arrest and trial can be up to six months.
+2. sunny/bright intervals short periods of fine weather between cloudy, rainy weather etc
+3. at weekly/20-minute etc intervals every week, 20 minutes etc:
+ The trains run at half-hourly intervals.
+4. at regular intervals
+a) something that happens at regular intervals happens often:
+ The phone rang at regular intervals all afternoon.
+b) objects that are placed at regular intervals have all been placed at the same distance from each other:
+ Trees had been planted at regular intervals.
+5. British English a short period of time between the parts of a play, concert etc SYN intermission American English:
+ We can get some drinks in the interval.
+6. technical the amount of difference in ↑pitch between two musical notes
+• • •
+THESAURUS
+▪ stage the raised area on which the actors, musicians etc perform: He came on stage to rapturous applause. | The band will appear live on stage for the first time in three years.
+▪ the stalls British English, the orchestra American English the lower level of seats: He had a seat in the stalls. | We paid $100 for a seat in the orchestra.
+▪ the circle British English, the balcony the higher level of seats: They were sitting in the balcony.
+▪ the orchestra pit the space below the stage where the musicians sit: The actress fell into the orchestra pit.
+▪ box office the place in a theatre where you buy tickets: Collect your tickets at the box office.
+▪ programme British English, program American English a small book that you buy when you go to the theatre that gives information about the play and the performers: His name is not in the programme. | Do you want me to buy you a program?
+▪ interval British English, intermission BrE formal and American English a short period of time between the parts of a play or show when the audience can talk or have a drink: We got a drink in the interval.
+
+virtue
+vir‧tue W3 /ˈvɜːtʃuː $ ˈvɜːr-/ BrE  AmE  noun
+[Date: 1100-1200; Language: Old French; Origin: virtu, from Latin virtus 'strength, virtue', from vir 'man']
+1. [uncountable] formal moral goodness of character and behaviour OPP vice:
+ Women have often been used as symbols of virtue.
+2. [countable] a particular good quality in someone’s character OPP vice:
+ Among her many virtues are loyalty, courage, and truthfulness.
+3. [uncountable and countable] an advantage that makes something better or more useful than something else
+virtue of
+ Adam Smith believed in the virtues of free trade.
+ Wilkins is now extolling (=praising very much) the virtues of organic farming.
+4. by virtue of something formal by means of, or as a result of something:
+ She became a British resident by virtue of her marriage.
+5. make a virtue of something to get an advantage from a situation that you cannot change, usually a bad one:
+ She made a virtue of her acting limitations by joking about them.
+6. make a virtue of necessity to get an advantage from doing something that you have to do, or to pretend that you are doing it willingly
+• • •
+THESAURUS
+▪ advantage a good feature that something has, which makes it better, more useful etc than other things: The great advantage of digital cameras is that there is no film to process.
+▪ benefit a feature of something that has a good effect on people’s lives: Regular exercise has many benefits, including reducing the risk of heart disease.
+▪ merit a good feature that something has, which you consider when you are deciding whether it is the best choice: The committee will consider the merits of the proposals. | The merits and demerits of (=the good and bad features of)alternative funding systems were widely discussed in the newspapers. | The chairman saw no great merit in this suggestion (=he did not think that it was a good idea).
+▪ virtue an advantage that makes you believe that something is a good thing: They believed in the virtues of culture, civilization, and reason. | He’s always extolling the virtues of hard work (=saying that hard work is a good thing).
+▪ the good/great/best thing about something especially spoken used when mentioning a good feature of something. This phrase is rather informal and you should not use it in formal essays: The good thing about cycling is that you don’t have to worry about getting stuck in a traffic jam.
+▪ the beauty of something is that used when you want to emphasize that something has a very good or useful feature: The beauty of the plan is that it is so simple.
+
+offence
+of‧fence S3 W2 BrE  AmE  British English, offense American English /əˈfens/ noun
+[Word Family: noun: OFFENSE/OFFENSE, ↑offender, ↑offensive, ↑offensiveness; adjective: ↑offensive ≠ ↑inoffensive, ↑offended, ↑offending; verb: ↑offend; adverb: ↑offensively]
+1. [countable] an illegal action or a crime:
+ His solicitor said he committed the offence because he was heavily in debt.
+offence against
+ sexual offences against children
+2. [uncountable] when you offend or upset someone by something you do or say
+cause/give offence
+ The problem was how to say ‘no’ to her without causing offence.
+ Don’t be upset by what he said; he meant no offence (=did not intend to offend anyone).
+3. no offence spoken used to tell someone that you hope that what you are going to say or do will not offend them:
+ No offense, but this cheese tastes like rubber.
+4. take offence (at something) to feel offended because of something someone says or does:
+ I think he took offence at my lack of enthusiasm.
+5. [uncountable] formal the act of attacking:
+ the weapon of offence used during the attack
+• • •
+COLLOCATIONS
+■ verbs
+▪ commit an offence (=do something that is against the law) He had committed the offence of dangerous driving.
+▪ charge somebody with an offence In that year, 367 people were charged with terrorist offences.
+▪ convict somebody of an offence (=say officially that they are guilty) The number of women convicted of serious offences is fairly small.
+▪ admit an offence He had admitted sex offences against children.
+■ phrases
+▪ it is an offence to do something It is an offence to carry a weapon in a public place.
+▪ an offence punishable by/with something Possession of the drug is an offence punishable by up to one year’s imprisonment.
+▪ make something an offence/make it an offence to do something The Act made it an offence to sell cigarettes to children under 16.
+■ ADJECTIVES/NOUN + offence
+▪ a criminal offence It is a criminal offence to sell alcohol to someone under the age of 18.
+▪ a serious offence serious offences such as murder or armed robbery
+▪ a minor offence The police cautioned him for a minor offence.
+▪ a first offence Because it was a first offence, she was not sent to prison.
+▪ a lesser offence (=one that is not as serious as another offence) For rioting you can receive ten years in prison, while for the lesser offence of violent disorder you can receive five years in prison.
+▪ a federal offense American English (=a very serious offence against the law of the US, rather than against a state’s law) The turtles are rare, and it is a federal offense to take them to another state.
+▪ a driving/parking/traffic offence Speeding is the most common traffic offence.
+▪ a sex/drug/terrorist etc offence Thirty-three people were charged with drug offences.
+▪ a punishable offence (=one that you can be punished for) Lying in court is a punishable offense.
+▪ a capital offence (=one for which death is the punishment) Drug smuggling was made a capital offense in 1987.
+▪ an arrestable/indictable offence (=one that you can be arrested for or must go to court for) Indictable offences are tried by a jury in a Crown Court.
+THESAURUS
+■ illegal actions
+▪ crime noun [uncountable and countable] an illegal action or activity, or these actions in general: The police need the public’s help to solve crimes. | Crime is on the increase. | It was a horrific crime.
+▪ offence British English, offense American English noun [countable] a crime, especially one that has a particular description and name in law: It is an offence to drive while using a mobile phone. | a minor offence (=one that is not serious) | a serious offence | a parking offence
+▪ misdemeanor noun [countable] American English law a crime that is not very serious: They pleaded guilty to a misdemeanor and were fined.
+▪ felony noun [uncountable and countable] especially American English law a serious crime: Fewer than 25 percent of the people arrested on felony charges are convicted. | He committed a series of violent felonies.
+▪ Catecholamines and the nervous system Abnormalities of the nervous system have been implicated in the development of hypertension in diabetes.
+▪ Conditions such as diabetes, heart complaints, multiple sclerosis and alcoholism should be declared.
+▪ For the non-obese patients, simply reducing the intake of refined carbohydrate may control the diabetes for a time at least.
+▪ Gestational diabetes recurs in about 50 percent of women who had the problem in a previous pregnancy.
+▪ He continued to practice despite his diabetes.
+▪ Nationwide, for every two persons with diagnosed diabetes, there is another undiagnosed person.
+▪ Several hormones, particularly insulin, the hormone that is deficient in sugar diabetes, control these processes.
+▪ Thus diseases like diabetes, schizophrenia, and obesity were rare in the developed world by 2010.
+
+consumerism
+consumerism UK  [kənˈsjuː.mə.rɪ.z ə m] US  [-ˈsuː.mɚ.ɪ-] noun uncountable
+1. the state of an advanced industrial society in which a lot of goods are bought and sold
+Thesaurus+: ↑Business and commerce - general words
+2. disapproving when too much attention is given to buying and owning things
+• He disliked Christmas and its rampant (= extreme) consumerism.
+Thesaurus+: ↑Buying and selling in general ↑Greedy
+
+genital
+
+ / 5dVenItl; `dVZnEtl/ adj [attrib 作定语] (medical or fml 医或文) of animal reproduction or reproductive organs （动物）生殖的, 生殖器的: the genital area 阴部 * genital stimulation 生殖器的刺激.
+
+ > genitals / 5dVenItlz; `dVZnEtElz/ (also genitalia/ 9dVenI5teIlIE; 9dVZnI`telIE/) n [pl] (fml 文) external sex organs 外生殖器.
+ 
+ juggernaut
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ the former East German sports juggernaut
+EXAMPLES FROM CORPUS
+▪ And his electrically-powered Sungift 400 buggy was nearly blown over every time a juggernaut roared by.
+▪ His main challenge now is to try to compete with a juggernaut.
+▪ The juggernaut bucked and the poet held on to the side to prevent himself being thrown around.
+▪ Through the shimmer he saw the huge octopus eyes of the juggernaut grow dimmer.
+▪ To make matters worse, the economy is a merciless juggernaut.
+▪ Twenty flaming arrows hit the juggernaut.
+
+rejuvenate
+rejuvenate UK  US  [rɪˈdʒuː.v ə n.eɪt] verb transitive [rejuvenates rejuvenating rejuvenated]
+1. to make someone look or feel young and energetic again
+• She felt rejuvenated by her fortnight in the Bahamas.
+Thesaurus+: ↑Energetic and lively
+2. to make an organization or system more effective, productive and modern by introducing new methods and ideas
+• He has decided to rejuvenate the team by bringing in a lot of new, young players.
+Thesaurus+: ↑Restoring and reviving
+Derived: rejuvenation
+From Longman DOCE 5th Ed. (En-En)
+rejuvenate
+re‧ju‧ve‧nate /rɪˈdʒuːvəneɪt/ BrE  AmE  verb [transitive]
+[Date: 1800-1900; Language: Latin; Origin: juvenis 'young']
+1. to make something work much better or become much better again:
+ plans to rejuvenate the inner city areas
+2. [usually passive] to make someone look or feel young and strong again:
+ I came back from holiday feeling rejuvenated.
+—rejuvenation /rɪˌdʒuːvəˈneɪʃən/ noun [singular, uncountable]
+
+keepsake
+keep·sake [keepsake keepsakes] BrE [ˈkiːpseɪk]  NAmE [ˈkiːpseɪk]  noun
+a small object that sb gives you so that you will remember them
+Syn: ↑memento
+• My aunt gave me one of her brooches as a keepsake.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+keepsake
+
+ / 5ki:pseIk; `kip9sek/ n gift, usu small and often not very costly, that is kept in memory of the giver or previous owner 纪念品: My aunt gave me one of her brooches as a keepsake. 我的姑母把她的一只胸针送给我作纪念.
+From Longman DOCE5 Extras (En-En)
+keepsake
+noun
+EXAMPLES FROM CORPUS
+▪ After all, almost everyone who completes the race gets a free, three-day keepsake.
+▪ District councillor Richard Groves presented a photographic keepsake to commercial manager Mel Hunt.
+▪ Inaugural Committee organizers, who mailed the invitations in December, said they were meant as keepsakes.
+▪ It was rare for corpses to be committed to the grave wearing day-clothes, items of personal jewellery or any other keepsake.
+▪ Just a keepsake to remember us by.
+▪ Mrs Noble gave Helen, as a keepsake, Edward's last letter to her father.
+▪ Or else it might be that Hilbert had left Adam some small memento or keepsake ... Adam was lying late in bed.
+▪ Some of the pictures certainly qualify as priceless keepsakes.
+
+disposition
+dis·pos·ition [disposition dispositions] BrE [ˌdɪspəˈzɪʃn]  NAmE [ˌdɪspəˈzɪʃn]  noun
+1. countable, usually singular (formal) the natural qualities of a person's character
+Syn: ↑temperament
+• to have a cheerful disposition
+• people of a nervous disposition
+2. countable, usually singular ~ to/towards sth | ~ to do sth (formal) a tendency to behave in a particular way
+• to have/show a disposition towards violence
+3. countable, usually singular (formal) the way sth is placed or arranged
+Syn: ↑arrangement
+4. countable, uncountable (law) a formal act of giving property or money to sb
+ 
+Word Origin:
+late Middle English: via Old French from Latin dispositio(n-), from disponere ‘arrange’, influenced by dispositus ‘arranged’ and Old French poser ‘to place’.
+ 
+Example Bank:
+• Do people have a natural disposition to be good?
+• These dogs show a very sociable disposition.
+• This film is not recommended for those of a nervous disposition.
+• Some scenes aren't recommended for viewers of a nervous disposition.
+• Tom was everybody's favourite with his bouncy, cheerful disposition.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+disposition
+
+ / 9dIspE5zIFn; 9dIspE`zIFEn/ n [sing] 
+ person's natural qualities of mind and character 性情; 性格: a calm, irritable, cheerful, boastful, etc disposition 沉静、易怒、开朗、自负等的性格. 
+ ~ to sth/to do sth (fml 文) inclination; tendency 意向; 倾向: a disposition to jealousy/to be jealous 爱忌妒 * There was a general disposition to ignore the problem. 人们一般都忽视了这个问题. 
+ arrangement; placing 安排; 布置: A defector revealed the disposition of the enemy fleet. 有一名叛变者透露了敌方舰队的部署.
+ 
+ composite
+composite UK  [ˈkɒm.pə.zɪt] US  [kɑːm-] noun countable [composites]
+1. something which is made of various different parts
+• The main character in her latest novel is a composite of several public figures of that era.
+• Scientists have put together a composite picture of what the Earth's crust is like.
+Thesaurus+: ↑Complexity ↑Difficult to understand
+2. specialized a structural material made up of more than one substance
+• The bodies of these racing cars are moulded from the same composite that is used for making aircraft fuselage.
+Thesaurus+: ↑Mixing and mixtures ↑Variety and mixtures ↑Connecting and combining ↑Groups and collections of things
+composite
+I. com‧po‧site1 /ˈkɒmpəzət, ˈkɒmpəzɪt $ kɑːmˈpɑː-/ BrE  AmE  adjective [only before noun]
+[Date: 1300-1400; Language: Latin; Origin: compositus, past participle of componere; ⇨ ↑compound2]
+1. made up of different parts or materials:
+ The author builds up a useful composite picture of contemporary consumer culture.
+ composite metals
+2. American English a composite drawing or photograph consists of pictures of each separate part of the face put together into one drawing, and is used especially to help catch criminals:
+ a composite sketch
+II. composite2 BrE  AmE  noun [countable]
+1. something made up of different parts or materials
+composite of
+ The child’s character was a composite of two girls I knew.
+2. American English a picture of a possible criminal, made by police from descriptions given by ↑witnesses SYN identikit British English
+From Oxford Advanced Learners Dictionary 8th Ed.
+composite
+com·pos·ite [composite composites composited compositing] adjective, noun BrE [ˈkɒmpəzɪt]  NAmE [kəmˈpɑːzət] 
+adjective only before noun
+made of different parts or materials
+• a composite picture (= one made from several pictures)
+ 
+Word Origin:
+late Middle English (describing a number having more than one digit): via French from Latin compositus, past participle of componere ‘put together’.
+ 
+noun
+1. something made by putting together different parts or materials
+• The document was a composite of information from various sources.
+2. (also comˈposite sketch) (both US) (BrE Iden·ti·kit™) a set of drawings of different features that can be put together to form the face of a person, especially sb wanted by the police, using descriptions given by people who saw the person; a picture made in this way
+ 
+Word Origin:
+late Middle English (describing a number having more than one digit): via French from Latin compositus, past participle of componere ‘put together’.
+ 
+See also: ↑Identikit™ ▪ ↑composite sketch
+>>>>>>> dfb32abaea7ba533909a03ee13df274bac1ff13d

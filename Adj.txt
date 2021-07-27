@@ -8223,6 +8223,104 @@ b) informal very hot:
  red-hot anger
 4. red-hot favourite British English the team or person who most people believe will win a competition
 
+<<<<<<< HEAD
+ecstatic
+ec‧stat‧ic /ɪkˈstætɪk, ek-/ BrE  AmE  adjective
+1. feeling extremely happy and excited:
+ an ecstatic welcome from the thousands who lined the streets
+2. ecstatic review/praise/applause a ↑review (=an opinion about a film, play etc that appears in a newspaper or magazine), praise etc that says that something is very good:
+ The exhibition attracted thousands of visitors and ecstatic reviews.
+—ecstatically /-kli/ adverb
+• • •
+THESAURUS
+■ very happy
+▪ delighted [not before noun] very happy because something good has happened: The doctors say they are delighted with her progress.
+▪ thrilled [not before noun] very happy and excited about something: He’s thrilled at the idea of going to Disneyworld.
+▪ overjoyed [not before noun] very happy because you have heard some good news: She was overjoyed when she found out that her son was safe.
+▪ be on top of the world (also be over the moon British English) [not before noun] informal to be very happy: I was over the moon when I won the championship.
+▪ ecstatic extremely happy: The crowd were ecstatic, and cheered wildly. | ecstatic fans
+▪ blissful a blissful time is one in which you feel extremely happy: We stayed on the islands for two blissful weeks. | It sounded blissful – sea, sun, and good food.
+
+self-absorbed
+self-absorbed UK  [ˌself.əbˈzɔːbd] US  [-ˈzɔːrbd] usually disapproving adjective
+only interested in yourself and your own activities
+Thesaurus+: ↑Selfishness ↑Inconsiderate
+Derived: self-absorption
+From Longman DOCE 5th Ed. (En-En)
+self-absorbed
+ˌself-abˈsorbed BrE  AmE  adjective
+interested only in yourself and the things that affect you:
+ Teenagers always seem so self-absorbed.
+—self-absorption noun [uncountable]
+
+contingent
+contingent UK  US  [kənˈtɪn.dʒ ə nt] noun countable + singular or plural verb [contingents]
+a group of people representing an organization or country, or a part of a military force
+• The French contingent certainly made their presence known at this year's conference.
+• a large contingent of voluntary soldiers
+Thesaurus+: ↑Parts of armies and groups of servicemen ↑Groups of people
+ 
+adjective formal
+contingent on/upon sth
+depending on something else in the future in order to happen
+• Outdoor arrangements are, as ever, contingent on the weather.
+• Our success is contingent upon your support.
+Thesaurus+: ↑Being based on or depending on something
+From Longman DOCE 5th Ed. (En-En)
+contingent
+I. con‧tin‧gent1 /kənˈtɪndʒənt/ BrE  AmE  adjective formal
+[Date: 1300-1400; Language: French; Origin: Latin, present participle of contingere 'to have contact with, happen to', from com- ( ⇨ COM-) + tangere 'to touch']
+depending on something that may happen in the future SYN dependent
+contingent on/upon
+ Further investment is contingent upon the company’s profit performance.
+II. contingent2 BrE  AmE  noun [countable also + plural verb British English]
+1. a group of people who all have something in common, such as their nationality, beliefs etc, and who are part of a larger group:
+ Has the Scottish contingent arrived yet?
+2. a group of soldiers sent to help a larger group
+contingent of
+ A large contingent of troops was dispatched.
+From Oxford Advanced Learners Dictionary 8th Ed.
+contingent
+con·tin·gent [contingent contingents] noun, adjective BrE [kənˈtɪndʒənt]  NAmE [kənˈtɪndʒənt] 
+noun countable + singular or plural verb
+1. a group of people at a meeting or an event who have sth in common, especially the place they come from, that is not shared by other people at the event
+• The largest contingent was from the United States.
+• A strong contingent of local residents were there to block the proposal.
+2. a group of soldiers that are part of a larger force
+• the French contingent in the UN peacekeeping force
+ 
+Word Origin:
+late Middle English (in the sense ‘of uncertain occurrence’): from Latin contingere ‘befall’, from con- ‘together with’ + tangere ‘to touch’. The noun sense was originally ‘something happening by chance’, then ‘a person's share resulting from a division, a quota’; the current sense dates from the early 18th cent.
+ 
+Example Bank:
+• a large contingent of American troops
+• a strong contingent from Camberwell Art School
+• A seven-strong French diplomatic contingent arrived in the capital city yesterday.
+• Many large cities provided substantial contingents for the war effort.
+• The French contingent in the UN peacekeeping force withdrew.
+Derived Word: ↑contingently
+ 
+adjective
+1. ~ (on/upon sth) (formal) depending on sth that may or may not happen
+• All payments are contingent upon satisfactory completion dates.
+2. ~ worker/work/job (business) a person, or work done by a person, who does not have a permanent contract with a company
+• the spread of contingent work throughout the economy
+• the use of leased, temporary and other contingent workers
+ 
+Word Origin:
+late Middle English (in the sense ‘of uncertain occurrence’): from Latin contingere ‘befall’, from con- ‘together with’ + tangere ‘to touch’. The noun sense was originally ‘something happening by chance’, then ‘a person's share resulting from a division, a quota’; the current sense dates from the early 18th cent.
+ 
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+contingent 1
+
+1 / kEn5tIndVEnt; kEn`tIndVEnt/ adj (fml 文) 
+ ~ on/upon sth dependent on sth that may or may not happen 依可能发生也可能不发生的情况而定: Our success is contingent upon your continued help. 我们的成功全靠你的不断帮助. 
+ uncertain; accidental 不能确定的; 偶然的: a contingent advantage, effect, etc 意外的好处、结果等.
+contingent 2
+
+2 / kEn5tIndVEnt; kEn`tIndVEnt/ n [CGp] 
+ number of troops supplied to form part of a larger force 分遣队; 小分队: a small British contingent in the UN peace-keeping force 联合国维持和平部队的英国小分队. 
+ group of people sharing particular characteristics (eg place of origin) attending a gathering 参加某集会的一批具有某共同点（如所属地区）的人; 代表团: A large contingent from Japan was present at the conference. 来自日本的一个大代表团出席了会议. * There were the usual protests from the anti-abortion contingent. 反对堕胎的人照例提出了抗议.
 sadistic
 sa‧dis‧tic /səˈdɪstɪk/ BrE  AmE  adjective
 cruel and enjoying making other people suffer ⇨ masochistic:
@@ -8233,7 +8331,6 @@ From Longman DOCE5 Extras (En-En)
 sadistic
 adjective
 COLLOCATIONS FROM CORPUS
-■ NOUN
 pleasure
 ▪ I was terrified Voice over Nottingham Crown court heard medical evidence showed Fisher took no sadistic pleasure in violent attacks on women.
 ▪ One sensed an almost sadistic pleasure from Braves manager Bobby Cox as he nailed down Game 2.
@@ -8249,6 +8346,7 @@ EXAMPLES FROM CORPUS
 ▪ Cardea responds, a mildly sadistic glint in his eye.
 ▪ We children suffered through dull repetitive schoolwork, under the lash of sadistic teachers.
 
+<<<<<<< HEAD
 frigging
 frigging UK  US  [ˈfrɪg.ɪŋ] adjective before noun, adverb offensive
 used to give more force to an expression of anger
@@ -8316,3 +8414,210 @@ haphazard
 
  / hAp5hAzEd; 9hAp`hAzLd/ adj without plan or order; random 无计画的; 无秩序的; 任意的: books piled on shelves in a haphazard fashion 乱七八糟地堆在书架上的书籍.
  > haphazardly adv.
+=======
+COLLOCATIONS FROM OTHER ENTRIES
+a bleak/gloomy/grim picture (=giving the impression that something is or will be bad)
+▪ The report paints a bleak picture of the economy.
+a grim discovery (=an unpleasant and sad discovery such as finding a dead body)
+▪ Police made the grim discovery while they were searching the house.
+a grim/sobering/chilling reminder (=making you feel serious and worried or frightened)
+▪ They passed the armed guard, a grim reminder of the ever-present threat of terrorism.
+a grim/stern expression (=one that shows you are very strict or angry)
+▪ Aunty Kitty looked at us with a stern expression and ordered us indoors.
+a terrible/horrible/grim fate
+▪ The crew of the ship met a terrible fate.
+bleak/grim/dark (=without anything to make you feel hopeful)
+▪ The theatre is losing money and its future looks bleak.
+dogged/steely/grim determination (=very strong determination)
+▪ As a politician she was known for her dogged determination.
+face a bleak/grim etc future
+▪ Many pensioners face a bleak future.
+gloomy/grim/bleak
+▪ Many Britons face the grim prospect of having their home repossessed.
+grim satisfaction (=when you succeed or are proved right, but do not really feel happy about it)
+▪ ‘That’s exactly what I expected,’ he said with grim satisfaction.
+paint a grim/rosy/gloomy picture of sb/sth
+▪ Dickens painted a grim picture of Victorian life.
+the harsh/grim/stark reality (=conditions that are really very bad)
+▪ We want to protect our children from the harsh reality of our violent world.
+
+feel-good
+ˈfeel-good BrE  AmE  adjective
+1. feel-good film/programme/music etc a film etc whose main purpose is to make you feel happy
+2. feel-good factor especially British English a feeling among ordinary people that everything is going well, and that they do not need to worry about losing their jobs or spending money
+From Oxford Advanced Learners Dictionary 8th Ed.
+feel-good
+ˈfeel-good [feel-good] BrE   NAmE   adjective
+making you feel happy and pleased about life
+• a feel-good movie
+Idiom: ↑feel-good factor
+From Longman DOCE5 Extras (En-En)
+feel-good
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ His latest film is a feel-good movie with a message.
+▪ There are still a few feel-good shows on TV, but most series have a harder edge.
+EXAMPLES FROM CORPUS
+▪ It was just a feel-good song, a piece of ephemera, and Lucy was feeling surprisingly good.
+▪ She envisioned an outreach effort with Rimes and enough feel-good songs to cheer little cowgirls and cowboys around the globe.
+▪ This feel-good stuff is an illusion.
+rosy
+rosy UK  [ˈrəʊ.zi] US  [ˈroʊ-] adjective [rosier rosiest]
+1. having a colour between pink and red
+• approving Your rosy cheeks always make you look so healthy.
+Thesaurus+: ↑Less common colours ↑Common colours
+2. If a situation is described as rosy, it gives hope of success or happiness
+• Our financial position is rosy.
+Thesaurus+: ↑Potential ↑Hoping and hopefulness
+
+flat-footed
+flat-footed UK  [ˌflætˈfʊt.ɪd] US  [-ˈfʊt ̬-] adjective before noun, adverb
+having feet whose bottom part is flat against the ground and not curved up in an arch
+Thesaurus+: ↑The foot
+ 
+adjective
+1. in an difficult or unexpected situation that makes you unable to move or react quickly or skilfully
+• Campaign leaders were caught flat-footed when the opinion polls suddenly started to swing the other way.
+Thesaurus+: ↑Surprised
+2. informal boring, with no new ideas or imagination
+• a flat-footed political campaign
+• As with all the best American comedies, the sharpness of the script made the average British sitcom seem embarrassingly flat-footed.
+Thesaurus+: ↑Tedious and uninspiring
+From Longman DOCE 5th Ed. (En-En)
+flat-footed
+ˌflat-ˈfooted BrE  AmE  adjective
+1. having flat feet
+2. informal moving in an awkward way SYN clumsy:
+ The defence looked flat-footed as Sutton scored easily.
+3. catch somebody flat-footed American English to surprise someone so that they cannot do something in the way they ought to SYN catch somebody off guard:
+ The President’s announcement seemed to catch Democrats flat-footed.
+ 
+ penetrating
+pen‧e‧trat‧ing /ˈpenətreɪtɪŋ, ˈpenɪtreɪtɪŋ/ BrE  AmE  adjective
+1. penetrating look/eyes/gaze etc a look etc which makes you feel uncomfortable and seems to see inside your mind:
+ a pair of penetrating dark eyes
+ He gave her a penetrating stare.
+2. showing an ability to understand things quickly and completely:
+ questions that are intelligent and penetrating
+ a penetrating analysis of the issue
+3. spreading and reaching everywhere:
+ the penetrating cold
+4. a penetrating sound is loud, clear, and often unpleasant:
+ a high, penetrating voice
+—penetratingly adverb
+
+penetrate
+pen‧e‧trate /ˈpenətreɪt, ˈpenɪtreɪt/ BrE  AmE  verb
+[Date: 1500-1600; Language: Latin; Origin: past participle of penetrare]
+1. GO THROUGH [intransitive and transitive] to enter something and pass or spread through it, especially when this is difficult ⇨ pierce:
+ bullets that penetrate thick armour plating
+ Sunlight barely penetrated the dirty windows.
+penetrate into
+ Explorers penetrated deep into unknown regions.
+2. BUSINESS [transitive] to start to sell things to an area or country, or to have an influence there:
+ Few U.S. companies have successfully penetrated the Japanese electronics market.
+3. ORGANIZATION [transitive] to succeed in becoming accepted into a group or an organization, sometimes in order to find out their secrets:
+ KGB agents had penetrated most of their intelligence services.
+4. UNDERSTAND formal
+a) [transitive] to succeed in understanding something:
+ Science has penetrated the mysteries of nature.
+b) [intransitive and transitive] to be understood, with difficulty:
+ What could I say that would penetrate his thick skull?
+5. SEX [transitive] if a man penetrates someone, he puts his ↑penis into a woman’s ↑vagina or into someone’s ↑anus when having sex
+6. SEE THROUGH [transitive] to see into or through something when this is difficult:
+ My eyes couldn’t penetrate the gloom.
+ 
+ deficiency
+de‧fi‧cien‧cy /dɪˈfɪʃənsi/ BrE  AmE  noun (plural deficiencies) [uncountable and countable] formal
+1. a lack of something that is necessary SYN shortage
+deficiency of
+ a deficiency of safe play areas for children
+iron/vitamin etc deficiency
+ Some elderly people suffer from iron deficiency in their diet.
+2. a weakness or fault in something
+deficiency in
+ There are deep deficiencies in this law.
+From Oxford Advanced Learners Dictionary 8th Ed.
+deficiency
+de·fi·ciency [deficiency deficiencies] BrE [dɪˈfɪʃnsi]  NAmE [dɪˈfɪʃnsi]  noun (pl. de·fi·ciencies)(formal)
+1. uncountable, countable ~ (in/of sth) the state of not having, or not having enough of, sth that is essential
+Syn: ↑shortage
+• Vitamin deficiency in the diet can cause illness.
+• a deficiency of Vitamin B
+2. countable ~ (in/of sth) a fault or a weakness in sth/sb that makes it or them less successful
+• deficiencies in the computer system
+ 
+Example Bank:
+• He's suffering from a severe vitamin deficiency.
+• I've been prescribed iron tablets to make up the deficiency.
+• Lack of sunlight can cause deficiency in vitamin D.
+• These symptoms indicate a protein deficiency.
+• serious deficiencies in the health service
+• He considers the lack of central control to be a serious deficiency.
+• The condition is caused by a deficiency of calcium.
+• The deficiencies in their argument are easy to spot.
+• The deficiencies of medical care in poorer areas are many.
+• Unless these underlying deficiencies are rectified the system can never be efficient.
+
+slender
+slender UK  [ˈslen.də r ] US  [-dɚ] adjective
+1. thin and delicate, often in a way that is attractive
+• He put his hands around her slender waist.
+• The plant's leaves are long and slender.
+Thesaurus+: ↑Thin or slender (of people) ↑Not fit and healthy ↑Narrow and thin ↑Thin and fine
+2. small in amount or degree
+• a man of slender means (= without much money)
+• The chances of settling this dispute through talks seem increasingly slender.
+Thesaurus+: ↑Small in number and quantity
+Derived: slenderness
+From Longman DOCE 5th Ed. (En-En)
+slender
+slen‧der /ˈslendə $ -ər/ BrE  AmE  adjective
+1. thin in an attractive or graceful way SYN slim:
+ She is slender and stylish.
+ Laura’s tall, slender figure
+slender legs/arms/fingers etc
+2. small or very limited in amount or size SYN slim:
+ The company only has a slender hope of survival.
+ The Republicans won the election by a slender majority.
+ We had to make the most of our rather slender resources.
+—slenderness noun [uncountable]
+Slender sounds rather literary. In everyday English, people usually say slim or thin:
+▪ I don’t know how she stays so slim.
+
+unanimously
+unanimously UK  US  [juːˈnæn.ɪ.mə.sli] adverb
+• All four proposals to the committee were unanimously approved.
+Thesaurus+: ↑Accepting and agreeing ↑Accepting and agreeing reluctantly ↑Approving and approval
+Main entry: unanimousderived
+unanimous
+unanimous UK  US  [juːˈnæn.ɪ.məs] adjective
+If a group of people are unanimous, they all agree about one particular matter or vote the same way, and if a decision or judgment is unanimous, it is formed or supported by everyone in a group
+• The jury returned a unanimous verdict of guilty after a short deliberation.
+• After a lengthy discussion we reached a unanimous decision on the proposal.
+• The new format has unanimous support and could be introduced next season.
+Thesaurus+: ↑Accepting and agreeing ↑Accepting and agreeing reluctantly ↑Approving and approval
+Derived: unanimously
+From Longman DOCE 5th Ed. (En-En)
+unanimously
+See main entry: ↑unanimous
+unanimous
+u‧nan‧i‧mous /juːˈnænəməs, juːˈnænɪməs/ BrE  AmE  adjective
+[Date: 1600-1700; Language: Latin; Origin: unanimus, from unus 'one' + animus 'mind']
+1. a unanimous decision, vote, agreement etc is one in which all the people involved agree:
+ It was decided by a unanimous vote that the school should close.
+almost/virtually unanimous
+ The decision to appoint Matt was almost unanimous.
+2. agreeing completely about something
+unanimous in (doing) something
+ The banks were unanimous in welcoming the news.
+—unanimously adverb
+
+shining
+shining UK  US  [ˈʃaɪ.nɪŋ] adjective
+• a shining silver cup
+• She looked at him with shining (= bright and happy) eyes.
+• These pictures are shining (= excellent) examples of great photography.
+Thesaurus+: ↑The qualities of light
+Main entry: shinederived
+>>>>>>> dfb32abaea7ba533909a03ee13df274bac1ff13d
