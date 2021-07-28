@@ -14628,8 +14628,140 @@ noun
 1. something made by putting together different parts or materials
 • The document was a composite of information from various sources.
 2. (also comˈposite sketch) (both US) (BrE Iden·ti·kit™) a set of drawings of different features that can be put together to form the face of a person, especially sb wanted by the police, using descriptions given by people who saw the person; a picture made in this way
- 
 Word Origin:
 late Middle English (describing a number having more than one digit): via French from Latin compositus, past participle of componere ‘put together’.
- 
 See also: ↑Identikit™ ▪ ↑composite sketch
+
+disproportion
+dis‧pro‧por‧tion AC /ˌdɪsprəˈpɔːʃən $ -ɔːr-/ BrE  AmE  noun [uncountable and countable] formal
+a situation in which two or more things are not equal in amount, level etc SYN imbalance:
+ a dangerous disproportion between production and consumption
+From Oxford Advanced Learners Dictionary 8th Ed.
+disproportion
+dis·pro·por·tion AW [disproportion disproportions] BrE [ˌdɪsprəˈpɔːʃn]  NAmE [ˌdɪsprəˈpɔːrʃn]  noun uncountable, countable (formal)
+the state of two things not being at an equally high or low level; an example of this
+• ~ (between A and B) the disproportion between the extra responsibilities and the small salary increase
+• ~ (of A to B) a profession with a high disproportion of male to female employees
+
+▪ The disproportion between x votes and no seats is apparent.
+▪ The North has a positive disproportion of higher education institutions, and so the intellectual power of centres of research.
+▪ This suggests that the mechanisms which constrain fetal growth to prevent maternal-fetal disproportion do not effect long term programming of cardiovascular disease.
+disproportionate
+disproportionate UK  [ˌdɪs.prəˈpɔː.ʃ ə n.ət] US  [-ˈpɔːr-] adjective
+too large or too small in comparison to something else, or not deserving its importance or influence
+• There are a disproportionate number of girls in the class.
+• The country's great influence in the world is disproportionate to its relatively small size.
+Thesaurus+: ↑Numerical relationships
+Derived: disproportion ▪ disproportionately
+disproportion
+disproportion UK  US  UK [ˌdɪs.prəˈpɔː.ʃ ə n] US [-ˈpɔːr-] noun uncountable formal
+Thesaurus+: ↑Numerical relationships
+Main entry: disproportionatederived
+From Longman DOCE 5th Ed. (En-En)
+disproportionate
+dis‧pro‧por‧tion‧ate AC /ˌdɪsprəˈpɔːʃənət◂, ˌdɪsprəˈpɔːʃənɪt◂ $ -ɔːr-/ BrE  AmE  adjective
+too much or too little in relation to something else:
+ the disproportionate amount of money being spent on defence
+—disproportionately adverb
+disproportion
+dis‧pro‧por‧tion AC /ˌdɪsprəˈpɔːʃən $ -ɔːr-/ BrE  AmE  noun [uncountable and countable] formal
+a situation in which two or more things are not equal in amount, level etc SYN imbalance:
+ a dangerous disproportion between production and consumption
+ 
+ linkage
+noun
+EXAMPLES FROM CORPUS
+▪ Flight Controls Ailerons, rudder and elevator driven by twin hydraulic servo-actuators, and push-pull rod linkage.
+▪ Such linkages facilitate business transactions and partly offset differences of interests between, say, manufacturers and banks.
+▪ The linkage is tight and the space between the doors is a few inches.
+▪ The linkage of wisdom with power can hardly have escaped a student-prince.
+▪ The four cylinder diesel units will interchange with the four cylinder petrols with suitable pipework and wiring and throttle linkage.
+
+immigrate
+verb
+BAD: Some of those who can't find a job decide to immigrate.
+GOOD: Some of those who can't find a job decide to emigrate.
+BAD: We're planning to immigrate to the United States next year.
+GOOD: We're planning to emigrate to the United States next year.
+◆◆◆
+The verb immigrate (= enter a foreign country and make your home there) is seldom used. Instead people tend to use immigrant and immigration (nouns): 'When jobs became scarce, the number of new immigrants suddenly decreased.' 'Immigration has decreased in recent years.'
+emigrate = leave your own country and make your home in another one: 'His parents emigrated from Scotland to Canada in 1933.'
+From Longman DOCE5 Extras (En-En)
+immigrate
+verb
+EXAMPLES FROM OTHER ENTRIES
+▪ Born in Jamaica, Rigby had immigrated to England 30 years before.
+▪ Her father immigrated to America from China in 1947.
+EXAMPLES FROM CORPUS
+▪ After the hard winter of 1848, the family immigrated to Pittsburgh, where her sisters lived.
+▪ Amanda and Alisha are writing the story of a woman who recently immigrated to the neighborhood.
+▪ He immigrated here to breathe and stretch too.
+▪ His ancestors had immigrated to the United States in the early l800s.
+▪ Immigration increased dramatically, though to the countries they tried to immigrate, the wolf-men were as welcome as wolves usually are.
+▪ It was during this visit that I realized what people must have gone through simply to immigrate to the United States.
+▪ They had no choice but to immigrate.
+
+justification
+justification UK  US  [ˌdʒʌs.tɪ.fɪˈkeɪ.ʃ ə n] noun countable or uncountable [justifications]
+a good reason or explanation for something
+• There is no justification for treating people so badly.
+• It can be said, with some justification, that she is one of the greatest actresses on the English stage today.
+Thesaurus+: ↑Motives and reasons
+justify
+justify UK  US  [ˈdʒʌs.tɪ.faɪ] verb transitive [justifies justifying justified]
+1. <I > to give or to be a good reason for
+• + -ing verb I can't really justify taking another day off work.
+• Are you sure that these measures are justified?
+Thesaurus+: ↑Defining and explaining
+2. justify yourself
+<I > If you justify yourself, you give a good reason for what you have done
+• It was the only thing that I could do - I don't have to justify myself to anyone.
+Thesaurus+: ↑Defining and explaining
+• How can you justify the employment of capital punishment?
+• New evidence from a self-confessed liar was not enough to justify a retrial.
+• Manufacturers need large sales to justify offering a big variety in export markets.
+• We are duty bound to justify how we spend our funds.
+• They haven't been given these rights for all eternity - they should justify having them just like most other people have to.
+
+tangent
+
+ / 5tAndVEnt; `tAndVEnt/ n 
+ (geometry 几) straight line that touches the outside of a curve but does not cross it 切线. =>illus at circle 见circle插图.
+ (abbr 缩写 tan) (mathematics 数) (in a right-angled triangle) ratio of the sides opposite and adjacent to a given angle 正切. Cf 参看 cosine, sine. 
+ (idm 习语) go/fly off at a `tangent change suddenly from one line of thought, action, etc to another 突然改变思想、行动等.
+From Longman DOCE5 Extras (En-En)
+tangent
+noun
+COLLOCATIONS FROM CORPUS
+■ VERB
+go
+▪ As for going off at tangents, my dear, I do it myself, hormone balance not withstanding.
+▪ Maria kept going off on tangents.
+▪ Loretta's mind went off at a tangent.
+EXAMPLES FROM CORPUS
+▪ After all, tangents are extremely valuable for your writing.
+▪ All along the way, short tangents beckoned.
+▪ As for going off at tangents, my dear, I do it myself, hormone balance not withstanding.
+▪ Never quite abstract, never entirely candid, always at a tangent to the world, Hodgkin is a strangely opaque painter.
+▪ Within the box it is possible to describe slopes and turns as numerical ratios, as tangents.
+
+ 
+PERSON
+2. a person who changes their opinions or behaviour to please other people
+Thesaurus+: ↑Adapting and modifying ↑Changing ↑Adapting and attuning to something
+From Longman DOCE 5th Ed. (En-En)
+chameleon
+cha‧me‧le‧on /kəˈmiːliən/ BrE  AmE  noun [countable]
+[Date: 1300-1400; Language: Old French; Origin: camelion, from Latin chamaeleon, from Greek, from chamai 'on the ground' + leon 'lion']
+1. a ↑lizard that can change its colour to match the colours around it
+2. someone who changes their ideas, behaviour etc to fit different situations
+From Oxford Advanced Learners Dictionary 8th Ed.
+chameleon
+cha·meleon [chameleon chameleons] BrE [kəˈmiːliən]  NAmE [kəˈmiːliən]  noun
+1. a small ↑lizard (= a type of ↑reptile ) that can change colour according to its surroundings
+2. (often disapproving) a person who changes their behaviour or opinions according to the situation
+physicality
+physicality UK  [ˌfɪz.ɪˈkæl.ə.ti] US  [-t ̬i] literary noun uncountable
+the quality of being full of energy and force
+• Durante dances with an impassioned physicality.
+Thesaurus+: ↑Excitement, interest, energy and enthusiasm
