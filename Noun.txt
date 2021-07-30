@@ -14884,8 +14884,7 @@ EXAMPLES FROM CORPUS
 ▪ Never quite abstract, never entirely candid, always at a tangent to the world, Hodgkin is a strangely opaque painter.
 ▪ Within the box it is possible to describe slopes and turns as numerical ratios, as tangents.
 
- 
-<<<<<<< HEAD
+
 PERSON
 2. a person who changes their opinions or behaviour to please other people
 Thesaurus+: ↑Adapting and modifying ↑Changing ↑Adapting and attuning to something
@@ -14905,7 +14904,478 @@ physicality UK  [ˌfɪz.ɪˈkæl.ə.ti] US  [-t ̬i] literary noun uncountable
 the quality of being full of energy and force
 • Durante dances with an impassioned physicality.
 Thesaurus+: ↑Excitement, interest, energy and enthusiasm
-=======
+
 See also: ↑Identikit™ ▪ ↑composite sketch
->>>>>>> dfb32abaea7ba533909a03ee13df274bac1ff13d
->>>>>>> 6294c0ba7421b03c9a1c27c8df3cbd177b2735ae
+
+carryover (countable and uncountable, plural carryovers)
+Something whose duration has been extended or that has been transferred to another time.
+1992, Vic Campbell, Junction: Mild Adventure for the Armchair Ruralists:
+The “Black Shoe” title is a carryover from the days of coal-burning ships […]
+An amount, especially a sum of money, transferred to a new column in a ledger, or applied to a later time.
+1980, Daniel T. Morrow, The Economics of the International Stockholding of Wheat
+First, as a general rule, carryover stocks are, held in countries that have lower carrying costs, which are probably exporting countries because they enjoy lower prices.
+The damaging condition where water droplets are carried out of a steam boiler along with the dry steam.
+
+reel
+I. reel1 /riːl/ BrE  AmE  verb [intransitive]
+1. to be confused or shocked by a situation:
+ Norman’s brain was reeling, but he did his best to appear calm.
+reel from
+ The party is still reeling from its recent election defeat.
+2. (also reel back) to step backwards suddenly and almost fall over, especially after being hit or getting a shock:
+ Diane reeled back in amazement.
+ The force of the punch sent him reeling against the wall.
+3. [always + adverb/preposition] to walk in an unsteady way and almost fall over, as if you are drunk:
+ Andy reeled away from the bar and knocked over his stool.
+4. to seem to go around and around:
+ The room reeled before my eyes and I fainted.
+reel somebody/something ↔ in phrasal verb
+1. to wind the reel on a fishing rod so that a fish caught on the line comes towards you:
+ It took almost an hour to reel the fish in.
+2. to get or attract a large number of people or things SYN pull in:
+ The programme reels in more than 13 million viewers a show.
+reel something ↔ off phrasal verb
+1. to repeat a lot of information quickly and easily:
+ Jack reeled off a list of names.
+2. informal to do something again and again:
+ The Yankees reeled off 14 straight wins.
+II. reel2 BrE  AmE  noun [countable]
+[Language: Old English; Origin: hreol]
+
+1.
+a) a round object onto which film, wire, a special string for fishing etc can be wound:
+ a cotton reel
+ a fishing rod and reel
+b) the amount that one of these objects will hold:
+ a reel of film
+2. one of the parts of a cinema film that is contained on a reel:
+ the final reel
+3. a quick ↑folk dance, especially one from Scotland or Ireland, or the music for this
+
+takeout
+take·away [takeaway takeaways] BrE [ˈteɪkəweɪ]  NAmE [ˈteɪkəweɪ]  (BrE) (NAmE ˈtake·out) (also ˈcarry-out US, ScotE) noun
+1. a restaurant that cooks and sells food that you take away and eat somewhere else
+• We can get something to eat from the Chinese takeaway.
+2. a meal that you buy at this type of restaurant
+• Let's have a takeaway tonight.
+See also: ↑carry-out
+From Longman DOCE5 Extras (En-En)
+takeout
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ Let's get Chinese takeout tonight.
+EXAMPLES FROM CORPUS
+▪ We arrived at our takeout point around 7.30 and the van was waiting.
+▪ What are you going to do about takeout?
+▪ World Report was planning to run a major takeout in its next issue.
+
+ledge
+noun
+COLLOCATIONS FROM OTHER ENTRIES
+a cliff ledge (=a flat narrow piece that sticks out from a cliff)
+▪ Some of the goats were even grazing on the cliff ledges.
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+narrow
+▪ Fenella, clutching the narrow ledge, standing precariously on the piled sacks, thought, in horror: Miach's spell.
+▪ Setting specific numbers, circling W's gets you walking a narrow ledge.
+▪ Reunited with the Doctor, Ian is trying to find another exit from the cave along a narrow ledge above a chasm.
+▪ He stood now flush against the side of the bluff on a narrow ledge, his hands over his face.
+▪ They squatted down on a narrow ice ledge.
+▪ I followed them on to a narrow, crumbling ledge above the ravine where the wind hurled us against the wall.
+▪ We slept on a narrow ledge, clinging to each other.
+▪ This is principally a path following a narrow undulating ledge which runs across the northern face of Pillar.
+■ NOUN
+window
+▪ Bernadette Pollock, 32, climbed a drainpipe on to a window ledge after losing her keys.
+▪ Maybe it was already fated that I should fall from a window ledge.
+▪ Jump along the window ledge, dropping down to spray the bin, now jump the three aliens.
+▪ He indicated a gadget upon the window ledge.
+▪ Spray it and then use the wrench on it, jump on to the window ledge then on to the door.
+▪ He turned and saw that the window ledge was about three feet above him.
+▪ He placed it carefully on the window ledge behind the curtain.
+▪ Then leap on to the window ledge of Toys N Stuff, then the door and spray the plant pot.
+
+ledger
+ledger [ledger ledgers] BrE [ˈledʒə(r)]  NAmE [ˈledʒər]  noun
+a book in which a bank, a business, etc. records the money it has paid and received
+• to enter figures in the purchase/sales ledger
+ 
+Word Origin:
+late Middle English legger, ligger (denoting a large bible or breviary), probably from variants of ↑lay (verb) and ↑lie, influenced by Dutch legger and ligger. Current senses date from the 16th cent.
+
+artifice
+ar‧ti‧fice /ˈɑːtəfəs, ˈɑːtɪfəs $ ˈɑːr-/ BrE  AmE  noun formal
+[Date: 1600-1700; Language: French; Origin: Latin artificium, from artifex 'skilled worker', from ars ( ⇨ ↑art1) + facere 'to make']
+1. [uncountable] the use of clever tricks to deceive someone SYN cunning
+2. [countable] a trick used to deceive someone
+artifice
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ The documentary highlights the difference between Warren's real life and the artifice of her stage shows.
+EXAMPLES FROM CORPUS
+▪ However, there is no copying, no artifice.
+▪ Marsha Hunt and Thulani Davis have no need for this kind of artifice.
+▪ Mrs Tucker was a marvelously candid lady, not given to artifice.
+▪ Not that she seeks pedestals; there seems no artifice about her.
+▪ These works, in some way, seem timeless and devoid of artifice.
+▪ This is not wild, uncontrolled nature, but greenery as artifice and symbol.
+▪ Though he deceived the beholder into taking his artifice for reality, Zeuxis practised an idealist art.
+▪ What is now considered natural is the result of learned artifice.
+
+pick-me-up
+noun
+EXAMPLES FROM CORPUS
+▪ He found the clear air and sparkling waters the perfect pick-me-up.
+▪ His winning goal against Oxford United was a perfect pick-me-up.
+▪ The five-year-old confined to a London hospital bed has been given a postal pick-me-up with get well cards from school pupils.
+▪ The prison that's providing a real pick-me-up.
+▪ We have grown accustomed to using tea and coffee as a pick-me-up when we are feeling low.
+
+outfit
+I. out‧fit1 /ˈaʊtfɪt/ BrE  AmE  noun [countable]
+1. a set of clothes worn together, especially for a special occasion:
+ She bought a new outfit for the party.
+ a cowboy outfit
+2. informal a group of people who work together as a team or organization:
+ My outfit was sent to Italy during the war.
+ a small advertising outfit in San Diego
+3. British English a set of equipment that you need for a particular purpose or job SYN kit:
+ a tyre repair outfit
+II. outfit2 BrE  AmE  verb (past tense and past participle outfitted, present participle outfitting) [transitive]
+to provide someone or something with a set of clothes or equipment, especially ones that are needed for a particular purpose SYN kit out
+outfit somebody/something with something
+ a car outfitted with dual controls for driver training
+outfit somebody in something
+ Members outfit themselves in Civil War clothing.
+ 
+ audience
+au‧di‧ence S2 W2 /ˈɔːdiəns $ ˈɒː-, ˈɑː-/ BrE  AmE  noun
+[Date: 1300-1400; Language: French; Origin: Latin audientia 'hearing', from audire; ⇨ ↑audio]
+1. [countable also + plural verb] British English a group of people who come to watch and listen to someone speaking or performing in public:
+ The audience began clapping and cheering.
+audience of
+ an audience of 250 business people
+ One member of the audience described the opera as ‘boring’.
+2. [countable also + plural verb] British English the people who watch or listen to a particular programme, or who see or hear a particular artist’s, writer’s etc work:
+ The show attracts a regular audience of about 20 million.
+target audience (=the type of people that a programme, advertisement etc is supposed to attract)
+ Goya was one of the first painters to look for a wider audience for his work.
+ The book is not intended for a purely academic audience.
+3. [countable] a formal meeting with a very important person
+audience with
+ He was granted an audience with the Pope.
+• • •
+COLLOCATIONS (for Meaning 1)
+■ verbs
+▪ perform/play to an audience The band played to huge audiences in Mexico City and Buenos Aires.
+▪ an audience laughs He has the ability to make an audience laugh.
+▪ an audience claps Most of the audience clapped but a few people jeered.
+▪ an audience cheers The audience cheered loudly when he came on stage.
+▪ the audience boos She swore at the audience and they began to boo her.
+■ adjectives
+▪ a capacity/packed audience (=the largest number of people who can fit into a hall, theatre etc) The lecture attracted a capacity audience.
+▪ an enthusiastic audience They drew enthusiastic audiences at Europe's biggest rock festival.
+■ NOUN + audience
+▪ stadium audiences Celine Dion's tour continues to play to sold-out stadium audiences across Europe.
+• • •
+COLLOCATIONS (for Meaning 2)
+■ verbs
+▪ have an audience The programme has a massive audience, ranging from children to grandparents.
+▪ attract an audience (=make people want to watch) The first show attracted a television audience of more than 2 million.
+▪ reach an audience For an advertiser who wants to reach a large audience, television news easily surpasses other news media.
+▪ appeal to an audience (=be interesting to them) They brought new fashions into their designs to appeal to a wider audience.
+■ ADJECTIVES/NOUN + audience
+▪ a large/huge etc audience Messages posted on the Internet can attract a huge audience.
+▪ a wide audience an author who commands a wide audience
+▪ a worldwide audience The game has an ever-increasing worldwide audience.
+▪ a young/teenage audience a magazine with a young audience
+▪ an older audience The programme mainly appeals to an older audience.
+▪ a mass audience (=a very large number of people) Radio brought entertainment to a mass audience.
+▪ a television audience (=all the people who watch or listen to a particular programme) Nearly half the UK television audience watched the programme last Tuesday.
+▪ the target audience (=the type of people a programme etc aims to attract) The target audience is mostly men aged 28 to 35.
+• • •
+THESAURUS
+▪ interview a meeting in which someone is asked questions, to find out if they are suitable for a job, or to help the police find out about a crime. Also used about someone being asked questions on TV, in a newspaper, in a magazine etc: I’ve got another job interview tomorrow. | Since the police interview, she had changed her statement. | an interview with Keith Richards
+▪ interrogation an occasion when someone is asked a lot of questions for a long time in order to get information, sometimes using threats, usually by the police or the army: He claims he was tortured during his interrogation. | Police interrogation methods have been questioned.
+▪ cross-examination an occasion when someone is asked questions about what they have just said, in order to see if they are telling the truth, especially in a court of law: Under cross-examination, the only witness said she could not be sure about what she saw.
+▪ consultation a meeting with a doctor or an expert to discuss treatment or to get advice: The therapist charges $100 for a half hour consultation. | Would you like to come back for another consultation?
+▪ audience a formal meeting with a very important person: He was granted an audience with the Pope.
+
+spec‧ta‧tor /spekˈteɪtə $ ˈspekteɪtər/ BrE  AmE  noun [countable]
+[Date: 1500-1600; Language: Latin; Origin: spectare 'to watch', from specere 'to look (at)']
+someone who is watching an event or game ⇨ audience:
+ The match attracted over 40,000 spectators.
+THESAURUS
+■ someone who watches something
+▪ spectator someone who watches an event, especially a sports event: There were 4,500 spectators at the game. | a crowd of spectators
+▪ viewer someone who watches television: Millions of television viewers listened to the President’s speech. | programmes for younger viewers
+▪ audience the people who watch a play or performance, or the people who watch a particular television programme: The audience roared with laughter and clapped. | It attracted a television audience of seven million.
+▪ onlooker someone who watches something happening without being involved in it, especially in the street: A man was standing on the roof, watched by a crowd of onlookers below.
+▪ observer someone who watches and pays attention to particular situations and events, because they are interested in them, or it is their job: She was a shrewd observer of human nature. | a political observer who writes for The Independent newspaper | The United Nations has sent military observers to the Sudan.
+
+booth
+booth /buːð $ buːθ/ BrE  AmE  noun [countable]
+[Date: 1100-1200; Origin: From a Scandinavian language]
+1. a small partly enclosed place where one person can do something privately, such as use the telephone or vote:
+ a voting booth
+2. a small partly enclosed structure where you can buy things, play games, or get information, usually at a market or a ↑fair:
+ a crafts booth
+3. a partly enclosed place in a restaurant, with a table between two long seats
+
+2. a battery of something a group of many things of the same type:
+ a battery of medical tests
+3. FARM [countable] British English a row of small ↑cages in which chickens are kept, so that the farm can produce large numbers of eggs:
+ battery hens ⇨ ↑free-range
+4. GUNS [countable] several large guns used together:
+ an anti-aircraft battery
+5. CRIME [uncountable] law the crime of hitting someone:
+ He was charged with assault and battery. ⇨ ↑assault and battery
+6. recharge your batteries informal to rest or relax in order to get back your energy:
+ A week in the mountains should recharge my batteries.
+• • •
+COLLOCATIONS
+■ adjectives
+▪ flat British English, dead American English (=with no more electricity in it) I'd left the headlights on and the battery was completely flat.
+▪ low (=with little electricity in it) He could see the battery was low on his laptop.
+▪ a car/torch/phone etc battery Have you checked your mobile phone battery?
+▪ a rechargeable battery (=one that you can put more electricity in and use again) The camera uses rechargeable batteries.
+▪ a spare battery (=an extra one, in case you need it) Take a torch and spare batteries.
+■ verbs
+▪ change/replace the battery (=put a new battery in something) You may need to change the battery in the smoke alarm.
+▪ charge/recharge a battery (=put more electricity in it) It takes eight hours to fully recharge the battery.
+▪ use batteries (also run on batteries) The clock runs on two 9-volt batteries.
+▪ put a battery in She had put new batteries in the radio.
+▪ take a battery out I''ll take the batteries out while I'm not using it.
+■ nouns
+▪ a battery charger (=a piece of equipment for charging batteries) Don't forget to pack your battery charger.
+▪ battery power You can plug your laptop in or use it on battery power.
+▪ battery life (=how long a battery produces electricity) My old phone had a longer battery life.
+■ phrases
+▪ battery powered/operated A lot of children's toys are battery operated.
+
+buffer
+I. buff‧er1 /ˈbʌfə $ -ər/ BrE  AmE  noun [countable]
+[Sense 1-5, 8: Date: 1800-1900; Origin: buff 'to hit or be hit softly' (16-19 centuries), probably from the sound. ]
+[Sense 6: Date: 1700-1800; Origin: Origin unknown]
+[Sense 7: Date: 1800-1900; Origin: ⇨ ↑buff2]
+1. PROTECTION someone or something that protects one thing or person from being harmed by another
+buffer against
+ Eastern Europe was important to Russia as a buffer against the West.
+buffer between
+ She often had to act as a buffer between father and son.
+2. RAILWAY one of the two special metal springs on the front or back of a train or at the end of a railway track, to take the shock if the train hits something
+3. buffer zone an area between two armies, that is intended to separate them so that they do not fight
+4. buffer state a smaller country between two larger countries, that makes war between them less likely
+5. COMPUTER a place in a computer’s memory for storing information temporarily
+6. PERSON British English old-fashioned an old man who is not good at managing things:
+ He’s a nice old buffer.
+7. FOR POLISHING something used to polish a surface
+8. run into/hit the buffers informal an activity or plan that hits the buffers is stopped and does not succeed
+II. buffer2 BrE  AmE  verb [transitive]
+1. to reduce the bad effects of something:
+ Consumer spending is buffering the effects of the recession.
+2. if a computer buffers information, it holds it for a short while before using it
+
+buff
+I. buff1 /bʌf/ BrE  AmE  noun
+[Sense 1: Date: 1900-2000; Origin: buff 'someone very interested in going to watch fires' (1900-2000), from the buff-colored coats worn by volunteer New York City firefighters in the early 19th century. ]
+[Sense 2: Date: 1700-1800; Origin: buff 'yellow leather made from buffalo skin' (16-18 centuries), from Old French buffle 'wild cattle', from Old Italian bufalo; ↑buffalo]
+[Sense 3: Date: 1800-1900; Origin: buff 'bare skin' (17-19 centuries), from 'leather'; ⇨ ↑buff1(2)]
+1. wine/film/opera etc buff someone who is interested in wine, films etc and knows a lot about them
+2. [uncountable] a pale yellow-brown colour SYN beige
+3. in the buff old-fashioned not wearing any clothes SYN naked
+• • •
+THESAURUS
+▪ expert someone who has a lot of knowledge about something or skill at doing something: a computer expert | an expert on beetles | It’s best to ask an expert.
+▪ specialist an expert who has studied a particular medical or technical subject for a long time and knows much more about it than other people: She is a specialist in corporate finance. | My doctor sent me to see a heart specialist.
+▪ authority an expert whose knowledge and opinions are greatly respected: The professor is one of the world’s leading authorities on African art.
+▪ connoisseur /ˌkɒnəˈsɜː $ ˌkɑːnəˈsɜːr/ an expert on food, art, literature, or design, who has had a lot of experience and knows when something is of very good quality: He was a connoisseur of fine wines. | His works are popular among connoisseurs.
+▪ buff /bʌf/ informal someone who is very interested in a subject and knows a lot about it: a wine buff | Jazz buffs will be familiar with the band’s first album.
+▪ virtuoso /ˌvɜːtʃuˈəʊsəʊ $ ˌvɜːrtʃuˈoʊsoʊ/ an expert player or performer: The piece was played by violin virtuoso Pavel Sporcl. | a virtuoso pianist
+II. buff2 BrE  AmE  (also buff up) verb [transitive]
+[Date: 1800-1900; Origin: ⇨ ↑buff1; because leather was used for polishing ( ⇨ ↑buff1(2))]
+to polish something with a cloth:
+ Sandra was buffing her nails.
+buff up phrasal verb informal
+to exercise in order to make your muscles bigger:
+ Smith buffed up for his role as Muhammad Ali.
+III. buff3 BrE  AmE  adjective
+1. having a pale yellow-brown colour:
+ buff envelopes
+2. informal attractive and looking as if you do a lot of exercise – used especially by young people:
+ He’s so buff!
+ 
+ solace
+sol‧ace /ˈsɒləs, ˈsɒlɪs $ ˈsɑː-/ BrE  AmE  noun formal
+[Date: 1200-1300; Language: Old French; Origin: solas, from Latin solatio, from solari 'to comfort']
+1. [uncountable] a feeling of emotional comfort at a time of great sadness or disappointment
+seek/find solace in something
+ After the death of her son, Val found solace in the church.
+2. be a solace to somebody to bring a feeling of comfort and calmness to someone, when they are sad or disappointed:
+ Mary was a great solace to me after Arthur died.
+—solace verb [transitive] literary
+
+WoW buff
+Most often, a buff refers to a temporary beneficial spell or effect placed on a player. Buffs can range in effect from simple personal shields to buffs which augment almost every category of stats a given player may have for their race or class. Buff can also be used as a verb, i.e. "to buff" means to apply buffs. 
+
+infinity
+in‧fin‧i‧ty /ɪnˈfɪnəti, ɪnˈfɪnɪti/ BrE  AmE  noun
+1. [uncountable] a space or distance without limits or an end:
+ the infinity of space
+2. [singular, uncountable] a number that is too large to be calculated:
+ In the equation below, as E goes to zero, n approaches infinity.
+infinity of
+ There is an infinity of possible solutions.
+ 
+ loop
+I. loop1 /luːp/ BrE  AmE  noun [countable]
+[Date: 1300-1400; Origin: Perhaps from Scottish Gaelic lub 'loop, bend']
+1. SHAPE OR LINE a shape like a curve or a circle made by a line curving back towards itself, or a piece of wire, string etc that has this shape
+loop of wire/rope/string etc
+ A loop of wire held the gate shut.
+belt loop (=a loop of material for holding a belt on trousers etc)
+2. COMPUTER a set of operations in a computer program that are continuously repeated
+3. FILM/MUSIC a film or music loop contains images or sounds that are continuously repeated
+4. be in the loop/be out of the loop informal to be or not be part of a group of people who make important decisions
+5. knock/throw somebody for a loop American English informal to surprise and upset someone
+6. ROAD/RAILWAY British English a road or railway line that leaves the main road or track and then joins it again further on
+II. loop2 BrE  AmE  verb
+1. [intransitive and transitive] to make a loop or make something into a loop
+loop something over/around etc something
+ He looped the rope over the post.
+2. [intransitive] to move in a circular direction that forms the shape of a loop:
+ The ball looped over the goalkeeper into the back of the net.
+3. loop the loop to fly a plane up and around in a circle so that the plane is ↑upside down for a time
+
+mantra
+man‧tra /ˈmæntrə/ BrE  AmE  noun [countable]
+[Date: 1700-1800; Language: Sanskrit; Origin: 'thought, advice', from man 'to think']
+1. a word or sound that is repeated as a prayer or to help people ↑meditate
+recite/repeat a mantra
+ He closed his eyes and began to recite a Buddhist mantra.
+2. a word or phrase representing a rule or principle which someone often uses, but which other people often find annoying or boring:
+ The Treasury Secretary has stuck to his mantra that ‘a strong dollar is in America’s interest’.
+3. a piece of holy writing in the Hindu religion
+From Oxford Advanced Learners Dictionary 8th Ed.
+mantra
+man·tra [mantra mantras] BrE [ˈmæntrə]  NAmE [ˈmæntrə]  noun
+a word, phrase or sound that is repeated again and again, especially during prayer or ↑meditation
+• a Buddhist mantra
+ 
+Word Origin:
+late 18th cent.: Sanskrit, literally instrument of thought, from man ‘think’.
+ 
+Example Bank:
+• He was chanting a Buddhist mantra.
+From Longman DOCE5 Extras (En-En)
+mantra
+noun
+COLLOCATIONS FROM CORPUS
+■ VERB
+recite
+▪ John sits down on the bed and recites a mantra under his breath.
+repeat
+▪ Continually, they stand at the Dispatch Box and repeat the mantra that they are committed to the guarantee.
+EXAMPLES FROM CORPUS
+▪ Every morning she could hear them singing their mantras with the children.
+▪ Flattening tax rates has fast become the mantra of reform-minded politicians.
+▪ His mantra is hope, growth and opportunity.
+▪ John sits down on the bed and recites a mantra under his breath.
+▪ Rightwing mantras of tax cuts and small government no longer excite voters.
+▪ Think of it in terms of science if you like, but say the mantra anyway.
+
+vertex
+vertex UK  [ˈvɜː.teks] US  [ˈvɝː.t ̬eks] [plural vertexes] or [vertices] specialized noun countable [vertexes vertices]
+1. (in mathematics) the point where two lines meet to form an angle, or the point that is opposite the base of a shape
+• the vertex of a triangle/cone/pyramid
+Thesaurus+: ↑Parts of geometrical shapes
+2. the highest point of something
+Thesaurus+: ↑Edges and extremities of objects ↑Surfaces of objects ↑Higher and lower points of achievement ↑Success and achievements ↑Failures
+
+pentagram
+noun
+EXAMPLES FROM CORPUS
+▪ Cut an apple across the middle and the center will reveal a perfect pentagram.
+▪ It was draped with a black cloth and embroidered with a gold pentagram.
+▪ She has clearly made a lot of sacrifices in her life-mostly involving goats and a pentagram.
+▪ The pentagram, left undisturbed in its place, radiates a zone within the room.
+
+summer
+summer UK  [ˈsʌm.ə r ] US  [-ɚ] noun countable or uncountable [summers]
+<E > the season of the year between spring and autumn when the weather is warmest, lasting from June to September north of the equator and from December to March south of the equator
+• We have breakfast on the balcony in (the) summer.
+• Last summer they went to Australia, and two summers ago they went to Brazil.
+• I love these warm summer nights.
+• It was a perfect summer's day.
+See also Indian summer
+Thesaurus+: ↑The seasons
+ 
+Collocations:
+Adjectives
+last next summer
+• We didn't go on holiday last summer.
+a dry hot humid sweltering warm summer
+• Farmers are worried that the hot, dry summer will damage this year's harvest.
+early high late summer
+• By late summer, most of the tourists had gone home.
+Nouns
+a summer break holiday vacation
+• They took their kids to the coast for their summer break.
+summer camp house resort school
+• Every year they rented a summer house by the sea.
+the close end height middle of the summer
+• It was the height of the summer and the streets and beaches were crowded with tourists.
+a (pleasant) summer afternoon evening
+• We spent a pleasant summer evening just sitting in garden.
+(long) summer days months nights weekends
+• He loved to spend the summer months at his grandmother's place in the country.
+summer heat sun weather
+• He tried to escape the summer heat by sitting under a tree.
+the summer season solstice
+• The town comes alive during the summer season.
+Prepositions
+during over throughout the summer
+• They're planning to tour Canada over the summer.
+in summer
+• The cafe is open until 5pm in the winter and 9pm in the summer.
+for summer
+• Are you going anywhere for summer?
+Verbs
+spend the summer
+• She spent the summer working as a tour guide.
+ 
+• Shops are currently holding sales to clear their summer stock.
+• Every summer thousands of people flock to the countryside.
+• What time does it get dark in the summer?
+• He managed to eke out a living one summer by selling drinks on a beach.
+• At the end of a hot summer, violence erupted in the inner cities.
+
+rote
+noun
+COLLOCATIONS FROM CORPUS
+■ NOUN
+learning
+▪ Science courses usually have fewer experiments and more rote learning.
+▪ The result is that many have to rely heavily on rote learning and memory, with limited understanding.
+▪ Readers who rely heavily on conventional visual rote learning may adjust more slowly.
+▪ Teaching standards are very poor - lots of rote learning and copying notes from the blackboard.
+■ VERB
+learn
+▪ Facts to be learned by rote are often best assimilated just before bedtime, when you get up or when walking.
+▪ There is too little food or warmth; learning is by rote, and students make their own clothes.
+▪ Much emphasis is placed these days on understanding and applying standard practice rather than simply learning it by rote.
+▪ If you have a good memory, you can learn by rote.
+▪ Children learn it by rote to pass examinations, and they don't see its relevance to the world around them.
+EXAMPLES FROM OTHER ENTRIES
+▪ rote memorization
+▪ Simon's concert was rote and uninspired.
+EXAMPLES FROM CORPUS
+▪ And is rote learning necessarily in opposition to discovery learning?
+▪ I know that many teachers of the present day think that learning by rote is archaic.
+▪ If you have a good memory, you can learn by rote.
+▪ Margaret used to be a great one for rote learning.
+▪ Others recite complex speeches by rote that sound all too familiar, and collapse at the slightest interruption.
+▪ Science courses usually have fewer experiments and more rote learning.
+▪ The litany of inequities is so familiar to her now that she recites by rote.
+▪ There is too little food or warmth; learning is by rote, and students make their own clothes.
