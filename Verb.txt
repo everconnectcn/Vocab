@@ -9141,6 +9141,7 @@ EXAMPLES FROM CORPUS
 ▪ Fears of mortgage defaults are adding pressure to an already depressed property market, while reports of industry feeling the squeeze proliferated.
 ▪ The algae consumed waste products from the reef and under the intense artificial sunlight they proliferated in stringy green mats.
 ▪ Towns proliferate in civilizations: in cultures they remain embryonic.
+<<<<<<< HEAD
 >>>>>>> dfb32abaea7ba533909a03ee13df274bac1ff13d
 
 patronize
@@ -9197,3 +9198,589 @@ EXAMPLES FROM OTHER ENTRIES
 EXAMPLES FROM CORPUS
 ▪ If you want to diss us, you got to cut it loose.
 ▪ Were all his posse pals going to diss him once word got out?
+=======
+<<<<<<< HEAD
+
+gas·light
+/ˈɡaslīt/
+Learn to pronounce
+verb
+gerund or present participle: gaslighting
+manipulate (someone) by psychological means into questioning their own sanity.
+"in the first episode, Karen Valentine is being gaslighted by her husband"
+
+dismantle
+dismantle UK  [dɪˈsmæn.tl ̩] US  [-t ̬l ̩] verb [dismantles dismantling dismantled]
+1. intransitive or transitive to take a machine apart or to come apart into separate pieces
+• She dismantled the washing machine to see what the problem was, but couldn't put it back together again.
+• The good thing about the bike is that it dismantles if you want to put it in the back of the car.
+Thesaurus+: ↑Tearing and breaking into pieces
+2. transitive to get rid of a system or organization, usually over a period of time
+• Unions accuse the government of dismantling the National Health Service.
+Thesaurus+: ↑Removing and getting rid of things ↑Taking things away from someone or somewhere
+From Longman DOCE 5th Ed. (En-En)
+dismantle
+dis‧man‧tle /dɪsˈmæntl/ BrE  AmE  verb [transitive]
+[Date: 1500-1600; Language: Old French; Origin: desmanteler, from mantel 'cloak']
+1. to take a machine or piece of equipment apart so that it is in separate pieces:
+ Chris dismantled the bike in five minutes.
+2. to gradually get rid of a system or organization:
+ an election promise to dismantle the existing tax legislation
+ 
+ legislate
+verb
+COLLOCATIONS FROM CORPUS
+■ NOUN
+government
+▪ When governments refuse to legislate, as in Britain, sport's organisers dream up complicated schemes to prevent touting.
+▪ What is more Big Government than legislating effort in athletic competition?
+▪ Clearly no government can legislate for such a wide array of circumstances, let alone attempt to enforce such legislation.
+▪ By Enabling Laws the Reich stag empowered the government to legislate in the name of the Reich stag.
+parliament
+▪ But, except by private or hybrid Bills, Parliament does not legislate for individual cases.
+▪ Indeed Parliament has legislated on matters affecting every aspect of our lives.
+▪ In the new Parliament, we will legislate to enforce and enhance these rights.
+▪ Political considerations may make it unlikely, even inconceivable that Parliament might legislate in a particular manner.
+▪ In the United Kingdom the doctrine of legislative supremacy dictates that Parliament has power to legislate on constitutional matters.
+power
+▪ Brussels has no power to legislate for us that we did not give it.
+▪ Clauses of the Fourteenth Amendment do not limit state power to legislate on economic matters. 29.
+▪ In the United Kingdom the doctrine of legislative supremacy dictates that Parliament has power to legislate on constitutional matters.
+EXAMPLES FROM OTHER ENTRIES
+▪ Congress failed to legislate effective handgun controls.
+▪ Should parliament legislate against experiments on animals?
+▪ States are legislating stricter automobile safety measures for young children.
+▪ The government was under a lot of public pressure to legislate on equal pay.
+▪ Thomas Jefferson said that Britain had no right to legislate for its American colonies.
+EXAMPLES FROM CORPUS
+▪ Clearly no government can legislate for such a wide array of circumstances, let alone attempt to enforce such legislation.
+▪ Governments will have to legislate eventually.
+▪ The alternative, and it might be effective, would be to legislate for two-tier supervisory boards.
+▪ This is legislating science at its most pernicious.
+▪ We have also legislated five times to transform industrial relations, returning power from militants to ordinary union members.
+▪ What is more Big Government than legislating effort in athletic competition?
+
+turf
+I. turf1 /tɜːf $ tɜːrf/ BrE  AmE  noun (plural turfs or turves) /tɜːvz $ tɜːrvz/
+[Language: Old English]
+1. [uncountable] especially British English a surface that consists of soil with grass on top, or an artificial surface that looks like this:
+ soft green turf
+2. [countable] British English a square piece of turf cut out of the ground
+3. the turf the sport of horse racing, or the track on which horses race
+4. [uncountable] informal an area that you think of as being your own:
+ How vigorously will the local companies defend their turf?
+sb’s own/home turf (=the place that someone comes from or lives in)
+ We beat Canada on their home turf.
+turf war/battle (=a fight or argument over the areas or things you think belong to you)
+ turf wars among government bureaucracies
+II. turf2 BrE  AmE  verb [transitive]
+to cover an area of land with turf
+turf somebody ↔ out (also turf somebody off (something)) phrasal verb
+British English informal to make someone leave a place or organization, usually suddenly or roughly SYN kick somebody out
+turf somebody ↔ out of
+ The families claim they are being turfed out of their homes.
+ 
+ negate
+ne‧gate AC /nɪˈɡeɪt/ BrE  AmE  verb [transitive] formal
+[Word Family: verb: ↑negate; noun: ↑negation]
+[Date: 1600-1700; Language: Latin; Origin: past participle of negare 'to say no', from neg- 'no, not']
+1. to prevent something from having any effect:
+ Efforts to expand the tourist industry could be negated by reports that the sea is highly polluted.
+2. to state that something does not exist or is untrue SYN deny
+
+outcome
+out‧come W3 AC /ˈaʊtkʌm/ BrE  AmE  noun [countable]
+the final result of a meeting, discussion, war etc – used especially when no one knows what it will be until it actually happens SYN result
+outcome of
+ It was impossible to predict the outcome of the election.
+ People who had heard the evidence at the trial were surprised at the outcome.
+REGISTER
+Outcome is slightly formal and is used mostly in writing. In everyday English, people are more likely to talk about what happened:
+▪ It was impossible to predict what would happen in the election.
+• • •
+COLLOCATIONS
+■ ADJECTIVES/NOUN + outcome
+▪ the final/ultimate outcome The final outcome of the investigation is still to be announced. | The ultimate outcome of this controversy remains in doubt.
+▪ a likely outcome What is the likely outcome of the election?
+▪ a possible outcome When you throw a die, there are six possible outcomes.
+▪ a successful outcome Hopes for a successful outcome to the war were fading.
+▪ a positive outcome (=a good result) Everyone is hoping for a positive outcome to the talks.
+▪ a happy outcome (=a good result, especially one that makes everyone happy) Adopting a child does not automatically result in a happy outcome.
+▪ a satisfactory outcome Our main aim is to achieve a satisfactory outcome for both parties.
+▪ the desired outcome The desired outcome of most services is a satisfied customer.
+▪ a favourable/unfavourable outcome Considerable progress has been made towards a favourable outcome. | Discontinuing treatment too early may result in an unfavourable outcome.
+▪ a learning outcome (=what someone is supposed to learn from something) It is important to set teaching objectives and learning outcomes.
+▪ a policy outcome (=what happens when a particular policy is used) A number of factors affect policy outcomes.
+▪ a treatment outcome (=what happens whan a particular medical treatment is used) Funding is provided to collect and analyze data on treatment outcomes.
+▪ a health outcome (=how healthy someone is after using a particular treatment, system etc) the assessment of health outcomes
+■ verbs
+▪ have an outcome The meeting had a very satisfactory outcome.
+▪ affect/influence the outcome Did coverage in the media affect the outcome of the trial?
+▪ decide/determine the outcome (=be the thing that causes the final result) This move untimately decided the outcome of the conflict. | At the leadership elections today, it is their votes that will determine the outcome.
+▪ predict the outcome (=say what the final result will be) It is too early to predict the final outcome of the survey.
+▪ await the outcome (=wait for the final result) Medical science must await the outcome of proper international debate.
+
+adorn
+adorn UK  [əˈdɔːn] US  [-ˈdɔːrn] literary verb transitive [adorns adorning adorned]
+to add something decorative to a person or thing
+• The bride's hair was adorned with pearls and white flowers.
+Thesaurus+: ↑Decorating or making something attractive
+Derived: adornment
+From Longman DOCE 5th Ed. (En-En)
+adorn
+a‧dorn /əˈdɔːn $ -ɔːrn/ BrE  AmE  verb [transitive]
+[Date: 1300-1400; Language: French; Origin: adorner, from Latin adornare, from ad- 'to' + ornare 'to decorate']
+formal to decorate something
+adorn something with something
+ church walls adorned with religious paintings
+From Oxford Advanced Learners Dictionary 8th Ed.
+adorn
+adorn [adorn adorns adorned adorning] BrE [əˈdɔːn]  NAmE [əˈdɔːrn]  verb often passive (formal)
+to make sth/sb look more attractive by decorating it or them with sth
+• ~ sth/sb Gold rings adorned his fingers.
+• (ironic) Graffiti adorned the walls.
+• ~ sth/sb/yourself with sth The walls were adorned with paintings.
+• The children adorned themselves with flowers.
+Derived Word: ↑adornment
+
+encapsulate (third-person singular simple present encapsulates, present participle encapsulating, simple past and past participle encapsulated)
+(transitive) To enclose something as if in a capsule.
+2014 Feb. 9, Matthew L. Wald, "Nuclear Waste Solution Seen in Desert Salt Beds," New York Times (retrieved 14 June 2014):
+At a rate of six inches a year, the salt closes in on the waste and encapsulates it for what engineers say will be millions of years.
+(transitive) To epitomize something by expressing it as a brief summary.
+2014 January 21, Hermione Hoby, “Julia Roberts interview for August”, in The Daily Telegraph (UK)‎[1]:
+It's a little moment that seems to encapsulate her appeal ...
+(software, object-oriented programming) To enclose objects in a common interface in a way that makes them interchangeable, and guards their states from invalid changes.
+(networking) To enclose data in packets that can be transmitted using a given protocol.
+encapsulate
+verb
+EXAMPLES FROM OTHER ENTRIES
+▪ Two lines of the song neatly encapsulate Gregg's romantic philosophy.
+EXAMPLES FROM CORPUS
+▪ Not all immigrants are encapsulated to the same extent.
+▪ Or, does it encapsulate a mystery of crucial importance for the dying to contemplate?
+▪ Place the other sheet of glass on top, squashing down the sealant and encapsulating the picture.
+▪ Rather we have to ask what was the experience which gave rise to the beliefs and which they encapsulate, however inadequately.
+▪ Their supernatural protagonists had encapsulated the virtues and vices of human beings, thoroughly homogenized.
+▪ These traditions were encapsulated in everything which we did and which we were taught.
+▪ This class, in the Sklar-Becker formulation, encapsulates the best interests, in a developmentalist sense, of the nation.
+
+saliva
+
+ / sE5laIvE; se`laIvE/ (also slaver) n [U] liquid produced in the mouth that helps one chew and digest food; spittle 唾液; 口水.
+
+ > salivary / 5sAlIvErI, sE5laIvErI; ?@ 5sAlEverI; `sAlE9vZrI/ adj [attrib 作定语] of or producing saliva 唾液的; 分泌唾液的: the `salivary glands 唾液腺.
+ salivate / 5sAlIveIt; `sAlE9vet/ v [I] (fml 文) produce saliva, esp excessively 分泌唾液（尤指大量地）: A dog salivates when it sees a bone. 狗见到骨头就大量分泌唾液. salivation / 9sAlI5veIFn; 9sAlE`veFEn/ n [U].
+From Longman DOCE5 Extras (En-En)
+salivate
+verb
+EXAMPLES FROM OTHER ENTRIES
+▪ Investors are salivating at the thought of a vast new market.
+EXAMPLES FROM CORPUS
+▪ A lot of people on Wall Street are salivating at the prospect of having $ 150 billion a year rolling in.
+▪ Clinton must salivate just thinking of how great it would be to be able to operate like that.
+▪ Control of those dollars has the governor and lawmakers salivating.
+▪ Dunn's mouth was open so long that it dried inside and he could not swallow or salivate.
+▪ He says when it was brought in it was salivating and aggressive.
+▪ Just the sort of thing that tends to get desperate politicians and bureaucrats salivating over the prospect of annexation.
+▪ More people bring more power, which is why Republicans are salivating over the 2000 census data.
+▪ When food is placed in your mouth, you can not choose not to salivate.
+
+decompress
+decompress UK  US  [ˌdiː.kəmˈpres] verb [decompresses decompressing decompressed]
+1. intransitive or transitive to return to the original size or air pressure, or to cause something to do this
+• The computer chip compresses and decompresses a colour image in less than a second.
+• If a plane window breaks, the cabin will rapidly decompress.
+Thesaurus+: ↑Enlarging and inflating ↑Becoming bigger
+2. intransitive US informal to relax
+• After relocating to Britain we'll need a few days off to decompress.
+Thesaurus+: ↑Calming and relaxing
+Derived: decompression
+From Longman DOCE 5th Ed. (En-En)
+decompress
+de‧com‧press /ˌdiːkəmˈpres/ BrE  AmE  verb [transitive]
+1. to reduce the pressure of air on something
+2. technical to change the information in a computer document back into a form that can be easily read or used, when the information was stored on the computer in a special form that used less space in the computer’s memory:
+ Most Macintosh computers can decompress files automatically.
+—decompression /-ˈpreʃən/ noun [uncountable]
+
+set out
+set out phrasal verb (see also ↑set)
+1. to start a journey, especially a long journey
+set out for
+ Kate set out for the house on the other side of the bay.
+set out on a journey/drive/voyage etc
+ The band are setting out on a European tour in March.
+2. to start doing something or making plans to do something in order to achieve a particular result
+set out to do something
+ salesmen who deliberately set out to defraud customers
+set out with the idea/purpose/intention etc of doing something
+ They set out with the aim of becoming the number one team in the league.
+3. set something ↔ out to explain ideas, facts, or opinions in a clearly organized way, in writing or in a speech:
+ He set out the reasons for his decision in his report.
+4. set something ↔ out to put a group of things down and arrange them:
+ The market traders began setting out their displays.
+5. set out on something to start doing something, especially something new, difficult, or important:
+ My nephew is just setting out on a career in journalism.
+ 
+ withdraw
+with‧draw S3 W2 /wɪðˈdrɔː, wɪθ- $ -ˈdrɒː/ BrE  AmE  verb (past tense withdrew /-ˈdruː/, past participle withdrawn /-ˈdrɔːn $ -ˈdrɒːn/)
+[Date: 1200-1300; Origin: with 'from' + draw 'to pull']
+1. NOT TAKE PART
+[intransitive and transitive] to stop taking part in an activity, belonging to an organization etc, or to make someone do this
+withdraw from
+ A knee injury forced her to withdraw from the competition.
+ calls for Britain to withdraw from the European Union
+withdraw something/somebody from something
+ Parents have the right to withdraw their children from religious education lessons if they wish.
+REGISTER
+In everyday English, people usually say that someone pulls out of something such as a competition or organization rather than withdraws:
+▪ She pulled out with a knee injury.
+2. STOP SUPPORTING [transitive] to stop giving support or money to someone or something, especially as the result of an official decision:
+ One of the minority parties had withdrawn its support for Chancellor Kohl.
+ Union members will vote on whether to withdraw their labour (=stop working).
+ a government decision to withdraw funding
+3. CHANGE YOUR MIND [transitive] if you withdraw a threat, offer, request etc, you say that you no longer will do what you said:
+ After much persuasion he agreed to withdraw his resignation.
+4. SAY SOMETHING IS NOT TRUE [transitive] formal if you withdraw a remark, criticism, statement etc, you say that what you said earlier was completely untrue SYN retract:
+ He refused to withdraw his remarks and was expelled from the Party.
+ The newspaper has agreed to withdraw its allegations.
+5. PRODUCT/SERVICE [transitive] if a product or service is withdrawn, it is no longer offered for sale or use
+withdraw something from sale/from the market
+ The drug has been withdrawn from the market for further tests.
+6. LEAVE A PLACE
+a) [intransitive and transitive] if an army withdraws, or if it is withdrawn, it leaves a place SYN pull out:
+ the USA’s decision to withdraw 40,000 troops from western Europe
+b) [intransitive] to leave a place, especially in order to be alone or go somewhere quiet
+withdraw to
+ We withdrew to the garden for a private talk.
+7. MONEY [transitive] to take money out of a bank account SYN take out
+withdraw something from something
+ I’d like to withdraw £500 from my current account.
+REGISTER
+In everyday English, people often say that someone takes or gets money out rather than withdraws it:
+▪ Can we stop off at the bank? I need to get some money out.
+8. MOVE [transitive] if you withdraw your hand, arm, finger etc from somewhere, you move it from there to where it was before:
+ Claudia withdrew her hand from his.
+9. TAKE OUT [transitive] literary to take an object out from inside something
+withdraw something from something
+ She withdrew a document from her briefcase.
+10. STOP COMMUNICATING [intransitive] to become quieter, less friendly, and only concerned about your own thoughts ⇨ withdrawn
+withdraw into/from
+ Ralph has withdrawn from the other kids.
+ Many depressed people just withdraw into themselves.
+ 
+ drift
+I. drift1 /drɪft/ BrE  AmE  verb [intransitive]
+1. MOVE SLOWLY to move slowly on water or in the air
+drift out/towards etc
+ The rubber raft drifted out to sea.
+ Smoke drifted up from the jungle ahead of us.
+2. WITHOUT PLAN to move, change, or do something without any plan or purpose
+drift around/along etc
+ Jenni spent the year drifting around Europe.
+drift into
+ I just drifted into teaching, really.
+drift away
+ The others drifted away. Melanie stayed.
+drift from something to something
+ The conversation drifted from one topic to another.
+let your gaze/eyes/thoughts/mind etc drift
+ Idly she let her eyes drift over his desk.
+3. CHANGE to gradually change from being in one condition, situation etc into another without realizing it
+drift into
+ She was just drifting into sleep when the alarm went off.
+ He drifted in and out of consciousness.
+4. MONEY/PRICES if values, prices, ↑shares etc drift, they gradually change:
+ The dollar drifted lower against the yen today.
+5. SNOW/SAND if snow, sand etc drifts, the wind blows it into large piles
+6. let something drift to allow something, especially something bad, to continue in the same way:
+ He couldn’t let the matter drift for much longer.
+drift apart phrasal verb
+if people drift apart, their relationship gradually ends:
+ Over the years my college friends and I have drifted apart.
+drift off phrasal verb
+to gradually fall asleep:
+ I was just drifting off when the phone rang.
+ He felt himself drifting off to sleep.
+II. drift2 BrE  AmE  noun
+[Date: 1300-1400; Origin: Probably from Old Norse drift 'pile of wind-blown snow'; related to drive]
+1. SNOW/SAND [countable] a large pile of snow or sand that has been blown by the wind
+drift of
+ The road is blocked with massive drifts of snow.
+ a snow drift
+2. CHANGE [singular] a slow change or development from one situation, opinion etc to another
+drift towards/to
+ a drift towards longer working hours
+3. MOVEMENT OF PEOPLE [singular, uncountable] a slow movement of large numbers of people that has not been planned
+drift from/to/into
+ the drift from the countryside to the cities
+4. the drift (of something) the general meaning of what someone is saying:
+ So what’s the drift of the argument?
+follow/get/catch sb’s drift (=understand the general meaning of what someone is saying)
+ She didn’t quite get my drift, did she?
+5. SHIPS/PLANES [uncountable] the movement of a ship or plane from its original direction because of the movement of the wind or water
+6. SLOW MOVEMENT [uncountable] very slow movement, especially over water or through the air
+
+tangent
+tan‧gent /ˈtændʒənt/ BrE  AmE  noun [countable]
+[Date: 1500-1600; Language: Latin; Origin: present participle of tangere; ⇨ ↑tangible]
+1. go off at a tangent British English, go off on a tangent American English informal to suddenly start thinking or talking about a subject that is only slightly related, or not related at all, to the original subject:
+ Let’s stay with the topic and not go off at a tangent.
+2. technical a straight line that touches the outside of a curve but does not cut across it
+
+deflate
+de‧flate /ˌdiːˈfleɪt, dɪ-/ BrE  AmE  verb
+[Word Family: adjective: ↑inflatable, ↑inflated, ↑inflationary, ↑deflationary, ↑reflationary; noun: ↑inflation, ↑inflatable, ↑deflation, ↑reflation; verb: ↑inflate, ↑deflate, ↑reflate]
+[Date: 1800-1900; Origin: de- + inflate]
+1. [intransitive and transitive] if a tyre, ↑balloon etc deflates, or if you deflate it, it gets smaller because the gas inside it comes out OPP inflate ⇨ go down, let down
+REGISTER
+In everyday British English, people usually say an object goes down rather than deflates:
+▪ It looks like the air bed has gone down.
+2. [transitive] to make someone feel less important or less confident:
+ She was deflated when Fen made no comment on her achievement.
+3. [transitive] to show that a statement, argument etc is wrong:
+ Simkin hoped to find a way to deflate his opponent’s argument.
+4. [intransitive and transitive] technical to change economic rules or conditions in a country so that prices fall or stop rising
+
+II. bottle2 BrE  AmE  verb [transitive]
+1. to put a liquid, especially wine or beer, into a bottle after you have made it:
+ The whisky is bottled here before being sent abroad.
+2. British English to put vegetables or fruit into special glass containers in order to preserve them SYN can American English
+bottle out (also bottle it) phrasal verb
+British English informal to suddenly decide not to do something because you are frightened SYN cop out:
+ ‘Did you tell him?’ ‘No, I bottled out at the last minute.’
+bottle something ↔ up phrasal verb
+1. to deliberately not allow yourself to show a strong feeling or emotion:
+ It is far better to cry than to bottle up your feelings.
+2. to cause problems by delaying something:
+ The bill has been bottled up in Congress.
+ 
+ fizzle
+
+ / 5fIzl; `fIzl/ v 
+ [I] make a weak fizzing sound 发出微弱的嘶嘶声. 
+ (phr v) fizzle out end or fail in a weak or disappointing way 虎头蛇尾般结束或失败: After a promising start, the project soon fizzled out. 这项计画开始时很有希望, 但不久就失败了.
+From Longman DOCE5 Extras (En-En)
+fizzle
+verb
+COLLOCATIONS FROM CORPUS
+■ ADVERB
+out
+▪ Just a few weeks ago he had been saying the whole affair would fizzle out and Banfield would sink back into anonymity once more.
+▪ It was like a rocket, brilliant to start with then fizzling out to nothing.
+▪ The road fizzled out at a gate plastered with fire hazard warnings, leading on to the moor itself.
+▪ After a promising start, the campaign fizzled out in the summer when the full Co-operative Congress refused to back it.
+▪ Over billions of years it will slowly fizzle out to become a black dwarf.
+▪ Partly he hoped her star would quickly fizzle out.
+EXAMPLES FROM OTHER ENTRIES
+▪ The project fizzled and Turner left the company.
+EXAMPLES FROM CORPUS
+▪ A blizzard kept demonstrators away, and a planned church vigil reportedly fizzled for lack of interest.
+▪ In the past, hand-held communicating units, with more limited functions, have fizzled.
+▪ The plan was carried out a century later, but at the time it fizzled.
+▪ The road fizzled out at a gate plastered with fire hazard warnings, leading on to the moor itself.
+▪ The story fizzled when two things were learned.
+
+accentuate
+accentuate UK  US  [əkˈsen.tju.eɪt] verb transitive [accentuates accentuating accentuated]
+to emphasize a particular feature of something or to make something more noticeable
+• Her dress was tightly belted, accentuating the slimness of her waist.
+• The new policy only serves to accentuate the inadequacy of provision for the homeless.
+Thesaurus+: ↑Stressing and emphasizing
+Derived: accentuation
+From Longman DOCE 5th Ed. (En-En)
+accentuate
+ac‧cen‧tu‧ate /əkˈsentʃueɪt/ BrE  AmE  verb [transitive]
+[Date: 1700-1800; Language: Medieval Latin; Origin: past participle of accentuare, from Latin accentus; ⇨ ↑accent1]
+to make something more noticeable:
+ The photograph seemed to accentuate his large nose.
+—accentuation /əkˌsentʃuˈeɪʃən/ noun [uncountable and countable]
+• • •
+THESAURUS
+▪ emphasize to say strongly or show clearly that a fact, idea etc is especially important: Our company emphasizes the need for good communication between staff.
+▪ stress to emphasize something when you are talking about a subject: Most schools stress the importance of parental involvement in their child’s learning. | He stressed the need for parents to listen to their children.
+▪ highlight to show that something is important, so that people will pay special attention to it: This case highlights the need for tougher laws on gun ownership. | The report highlights the decline in the numbers of native plants and insects.
+▪ underline/underscore to help to show clearly that a fact is true, especially a fact that is already known: These attacks underline the fact that the security situation here remains fragile. | The president’s speech repeatedly underscored the progress that has been made.
+▪ accentuate to show something clearly and make it easier to notice: The recent economic crisis has accentuated the gap between the rich and the poor.
+▪ overemphasize to emphasize something too much: The relation between food and health is often overemphasized in my view.
+▪ play up to emphasize something and make it seem more important than it really is, especially to get advantages for yourself: The story has been played up by the media. | The Labour party had a great time playing up the Conservatives’ problems. 
+
+extricate
+verb
+COLLOCATIONS FROM CORPUS
+■ VERB
+try
+▪ And it didn't help to have that idiot Kegan see what he bad done and try to extricate him.
+▪ A complicated story unfolds, with Mitchum desperately trying to extricate himself from the trap.
+EXAMPLES FROM OTHER ENTRIES
+▪ It took firemen almost an hour to extricate the driver from the wrecked car.
+EXAMPLES FROM CORPUS
+▪ A complicated story unfolds, with Mitchum desperately trying to extricate himself from the trap.
+▪ At the same time he arranged for Burgess to be sent home to extricate Maclean before the net closed.
+▪ By nightfall all the rifle companies had been over-run; some sections, and platoons from these companies extricated themselves at nightfall.
+▪ Gao Yang had an unobstructed view of the man extricating his foot from the pot.
+▪ It is not known when Napoleon managed to extricate himself from this chaos.
+▪ They fired away with wild abandon, but luckily with little accuracy, and he was able to extricate himself.
+
+sweat the small stuff (third-person singular simple present sweats the small stuff, present participle sweating the small stuff, simple past and past participle sweated the small stuff or sweat the small stuff)
+(idiomatic) To worry about petty issues or insignificant matters.
+2017 April 20, Tim Urban, “Neuralink and the Brain’s Magical Future”, in Wait But Why‎[1], retrieved 2017-04-21:
+The prefrontal cortex is the other character in those internal battles that go on in your life. [...] The higher being who wishes you’d stop sweating the small stuff.
+
+oxytocin (countable and uncountable, plural oxytocins)
+(biochemistry) A hormone that stimulates contractions during labor, and then the production of milk; also plays a role in social bonding.
+1994, Simon LeVay, The Sexual Brain, MIT Press, →ISBN, page 67:
+Some women describe episodes of intense pleasure akin to orgasm during nursing. It would be interesting to know whether the release of oxytocin during suckling plays a role in this subjective feeling, as it may do in actual orgasm.
+2011, Mark A.R. Kleiman et al., Drugs and Drug Policy, Oxford University Press, →ISBN:
+MDMA, commonly known as Ecstasy, greatly increases feelings of empathy (and perhaps the actual capacity to perceive the emotions of others); one of the mechanisms (oxytocin release) is now becoming understood, […]
+2012, Giles Slade, “World without oxytocin”, in Big Disconnect, Prometheus Books, →ISBN:
+When human beings bond—by hugging, kissing, touching, having sex, eating together, giving massages, or even when singing together or speaking reassuring words—oxytocin brings us “in from the cold,” warming us—quite literally—as it redirects blood flow into hands, feet, chests and cheeks.
+
+flip off (third-person singular simple present flips off, present participle flipping off, simple past and past participle flipped off)
+(informal, transitive) To make a rude or obscene gesture at someone.
+Would you believe he flipped me off over that comment?
+He was so pissed he flipped off the policeman.
+
+
+cram
+cram UK  US  [kræm] [-mm-] verb [cramming crammed crams]
+ 
+PUSH
+1. transitive usually + adverb or preposition informal to force a lot of things into a small space, or to do many things in a short period of time
+• Eight children were crammed into the back of the car.
+• I managed to cram three countries into a week's business trip.
+• The room was packed and we were crammed against the door.
+Thesaurus+: ↑Inserting and forcing things into other things
+ 
+LEARN
+2. intransitive to try to learn a lot very quickly before an examination
+• She's cramming for her history exam.
+Thesaurus+: ↑Knowing and learning
+Phrasal Verb: cram something down
+From Longman DOCE 5th Ed. (En-En)
+cram
+cram /kræm/ BrE  AmE  verb (past tense and past participle crammed, present participle cramming)
+[Language: Old English; Origin: crammian]
+1. [transitive always + adverb/preposition] to force something into a small space
+cram something into/onto etc something
+ Jill crammed her clothes into the bag.
+ A lot of information has been crammed into this book.
+2. [intransitive always + adverb/preposition] if a lot of people cram into a place or vehicle, they go into it so it is then full
+cram in/into
+ We all crammed in and Pete started the car.
+ 36,000 spectators crammed into the stadium to see the game.
+3. [transitive] especially American English if a lot of people cram a place, they fill it:
+ Thousands of people crammed the mall Sunday.
+4. [intransitive] to prepare yourself for an examination by learning a lot of information quickly SYN swot British English:
+ She’s been cramming hard all week.
+cram for
+ I have to cram for my chemistry test tomorrow.
+cram something ↔ in (also cram something into something) phrasal verb
+to do a lot of activities in a short period of time SYN pack in:
+ We crammed in as much sightseeing as possible during our stay in New York.
+ 
+ overtax
+overtax UK  [ˌəʊ.vəˈtæks] US  [ˌoʊ.vɚ-] verb transitive [overtaxes overtaxing overtaxed]
+ 
+MONEY
+1. to demand too much tax from someone or to put too much tax on goods
+• I've been overtaxed this month.
+• Food should not be overtaxed.
+Thesaurus+: ↑Taxation
+ 
+DIFFICULTY
+2. to cause to feel tired or confused as a result of doing too much or doing something too difficult
+• reflexive Remember you've been ill, and don't overtax yourself.
+• This problem is overtaxing my brain.
+Thesaurus+: ↑Tired and making tired
+From Longman DOCE 5th Ed. (En-En)
+overtax
+o‧ver‧tax /ˌəʊvəˈtæks $ ˌoʊvər-/ BrE  AmE  verb [transitive]
+1. to make someone do more than they are really able to do, so that they become very tired
+overtax yourself
+ Be careful you don’t overtax yourself.
+2. to make people pay too much tax
+
+microscopic
+microscopic UK  [ˌmaɪ.krəˈskɒp.ɪk] US  [-ˈskɑː.pɪk] adjective
+1. informal humorous extremely small
+• The helpings you get in the office canteen are microscopic!
+Thesaurus+: ↑Extremely small ↑Small
+2. specialized very small and only able to be seen with a microscope
+• microscopic algae
+Thesaurus+: ↑Extremely small ↑Small
+Derived: microscopically
+microscope
+microscope UK  [ˈmaɪ.krə.skəʊp] US  [-skoʊp] noun countable [microscopes]
+ a device that uses lenses to make very small objects look larger, so that they can be scientifically examined and studied
+• They looked at the blood samples under the microscope.
+Thesaurus+: ↑Laboratory equipment
+Idiom: put something under the microscope
+
+cannibalise (third-person singular simple present cannibalises, present participle cannibalising, simple past and past participle cannibalised) (British spelling)
+(transitive) To eat (parts of) another of one's own species.
+The female black widow spider is known to cannibalise the male.
+(transitive) To remove parts of (a machine, etc) for use in other similar machines.
+1962 April, “Motive power miscellany: Scottish Region”, in Modern Railways, page 284:
+According to our correspondent, at least one of the Type 2s has had to be cannibalised to facilitate repairs, as spares are often in short supply.
+1991, Anthony Kemp, The SAS at War 1941–1945 (John Murray (Publishers) Ltd):
+When the attack ceased they managed to cannibalize parts to get one truck going and set off for the rendezvous with Fraser, only to find nobody there.
+(transitive, business) To reduce sales or market share (for one of one's own products) by introducing another.
+2012, electronista, October 17, 2012:
+iPad mini to cannibalize 1M full-size iPad sales.
+Rework old material; rehash.
+2012 August 21, Jason Heller, “The Darkness: Hot Cakes (Music Review)”, in The Onion AV Club‎[1]:
+When the album succeeds, such as on the swaggering, Queen-esque “Nothing’s Gonna Stop Us,” it does so on The Darkness’ own terms—that is, as a random ’80s-cliché generator. But with so many tired, lazy callbacks to its own threadbare catalog (including “Love Is Not The Answer,” a watery echo of the epic “I Believe In A Thing Called Love” from 2003’s Permission To Land), Hot Cakes marks the point where The Darkness has stopped cannibalizing the golden age of stadium rock and simply started cannibalizing itself. And, despite Hawkins’ inveterate crotch-grabbing, there was never that much meat there to begin with.
+
+obliterate
+obliterate UK  [əˈblɪt. ə r.eɪt] US  [-ˈblɪt ̬.ə.reɪt] verb [obliterates obliterating obliterated]
+1. transitive often passive to remove all signs of something, either by destroying it or by covering it so that it cannot be seen
+• The missile strike was devastating - the target was totally obliterated.
+• All of a sudden the view was obliterated by the fog.
+Thesaurus+: ↑Destroying and demolishing ↑Damaging and spoiling ↑Covering and adding layers
+2. transitive to make an idea or feeling disappear completely
+• Perhaps she gets drunk to obliterate painful memories.
+Thesaurus+: ↑Forgetting and forgetfulness
+Derived: obliteration
+From Longman DOCE 5th Ed. (En-En)
+obliterate
+o‧blit‧er‧ate /əˈblɪtəreɪt/ BrE  AmE  verb [transitive]
+[Date: 1500-1600; Language: Latin; Origin: past participle of obliterare, from litera 'letter']
+1. to destroy something completely so that nothing remains:
+ Hiroshima was nearly obliterated by the atomic bomb.
+2. to remove a thought, feeling, or memory from someone’s mind:
+ Nothing could obliterate the memory of those tragic events.
+3. to cover something completely so that it cannot be seen:
+ Then the fog came down, obliterating everything.
+—obliteration /əˌblɪtəˈreɪʃən/ noun [uncountable]
+
+II. lump2 BrE  AmE  verb [transitive]
+1. lump it informal to accept a situation or decision you do not like because you cannot change it:
+ They’ve been told: take the lower interest rate, or lump it.
+ It’s the law so you can like it or lump it.
+2. to put two or more different people or things together and consider them as a single group, sometimes wrongly
+lump something together
+ You can’t lump the symptoms together and blame them all on stress.
+lump somebody/something in with somebody/something
+ The danger is that people who pay their bills on time will be lumped in with those that don’t.
+ 
+ diffuse
+I. dif‧fuse1 /dɪˈfjuːz/ BrE  AmE  verb
+[Date: 1300-1400; Language: Old French; Origin: diffuser, from Latin diffusus, past participle of diffundere 'to spread out']
+1. [intransitive and transitive] to make heat, light, liquid etc spread through something, or to spread like this
+diffuse through/into/across
+ The pollutants diffuse into the soil.
+2. [intransitive and transitive] to spread ideas or information among a lot of people, or to spread like this:
+ Their ideas diffused quickly across Europe.
+3. [transitive] to make a bad feeling or situation less strong or serious:
+ an attempt to diffuse his anger
+—diffusion /dɪˈfjuːʒən/ noun [uncountable]
+II. dif‧fuse2 /dɪˈfjuːs/ BrE  AmE  adjective
+[Date: 1400-1500; Language: Latin; Origin: diffusus; ⇨ ↑diffuse1]
+1. spread over a large area:
+ The organization is large and diffuse.
+2. using a lot of words and not explaining things clearly and directly:
+ His writing is diffuse and difficult to understand.
+—diffuseness noun [uncountable]
+>>>>>>> 61afc66f1753fdc803c582a4d90bcd80cca3d10f
