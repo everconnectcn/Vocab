@@ -8621,6 +8621,137 @@ shining UK  US  [ˈʃaɪ.nɪŋ] adjective
 Thesaurus+: ↑The qualities of light
 Main entry: shinederived
 <<<<<<< HEAD
+>>>>>>> dfb32abaea7ba533909a03ee13df274bac1ff13d
+
+
+unseemly
+un‧seem‧ly /ʌnˈsiːmli/ BrE  AmE  adjective formal
+unseemly behaviour is not polite or not suitable for a particular occasion:
+ Ann thought it unseemly to kiss her husband in public.
+From Longman DOCE5 Extras (En-En)
+unseemly
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ It was considered unseemly for women to smoke.
+EXAMPLES FROM CORPUS
+▪ But a deal with the unionists would be an unseemly affair.
+▪ He painted, finally, not the beautiful and rich, but the unseemly and chaotic popular classes.
+▪ If closeness is unseemly when money and politics intertwine, it is not always determinative.
+▪ It felt unseemly, somehow, to speak out on my own behalf.
+▪ Like a sudden, unseemly outbreak of boils on the landscape, the little concrete igloos started popping up in the 1970s.
+▪ Midgely avoids looking at his father's unseemly white chest.
+
+unsavoury
+
+seedy
+seed‧y /ˈsiːdi/ BrE  AmE  adjective informal
+a seedy person or place looks dirty or poor, and is often connected with illegal or immoral activities:
+ a seedy nightclub
+ a seedy-looking old man
+From Longman DOCE5 Extras (En-En)
+seedy
+adjective
+EXAMPLES FROM CORPUS
+▪ Graham and Slater walked down the narrow alley formed by the seedy, decaying stonework and the painted wood.
+▪ His only modest joy in life comes from playing trombone with a third-rate jazz band in a seedy neighborhood pub.
+▪ I spotted a seedy little store, pulled over when I could, and quickly hopped out.
+▪ That, sadly, is a market at work, and suppressing it would only bestow the seedy glamour of the underground.
+▪ We were staying in a seedy hotel in San Francisco close to the red light district.
+From Oxford Adva
+
+palatable
+pal‧at‧a‧ble /ˈpælətəbəl/ BrE  AmE  adjective
+1. palatable food or drink has a pleasant or acceptable taste OPP unpalatable:
+ a very palatable wine
+2. an idea, suggestion etc that is palatable is acceptable OPP unpalatable
+palatable to
+ They changed the wording of the advertisement to make it more palatable to women.
+ The truth, as always, is slightly less palatable.
+palate
+pal‧ate /ˈpælət, ˈpælɪt/ BrE  AmE  noun
+[Date: 1300-1400; Language: Latin; Origin: palatum]
+1. [countable] the ↑roof (=top inside part) of your mouth ⇨ ↑cleft palate, ↑soft palate
+2. [uncountable and countable] the sense of taste, and especially your ability to enjoy or judge food:
+ It tasted very strange, at least to my untrained palate.
+ a collection of dishes to tempt your palate
+ 
+ yucky
+yuck‧y /ˈjʌki/ BrE  AmE  adjective informal
+extremely unpleasant:
+ They painted the bathroom a yucky green colour.
+ The food was yucky.
+yuck
+yuck BrE  AmE , yuk /jʌk/ interjection
+[Date: 1900-2000; Origin: From the sound of vomiting]
+informal used to show that you think something is very unpleasant:
+ Oh yuck! I hate mayonnaise.
+ 
+ 
+ 3. disapproving having opinions and ideas which are old-fashioned and simple
+• provincial attitudes
+Thesaurus+: ↑Old or old-fashioned ↑The elderly
+ 
+• Despite the fact that he is widely travelled, he has very provincial attitudes.
+• a provincial newspaper/theatre/town
+Derived: provincialism
+
+fetish
+fetish UK  [ˈfet.ɪʃ] US  [ˈfet ̬-] noun countable [fetishes]
+ 
+INTEREST
+1. a sexual interest in an object or a part of the body other than the sexual organs
+• a rubber/foot fetish
+• He has a fetish about/for high-heels.
+Thesaurus+: ↑Sexual activity in general ↑Physical and sexual assault and abduction
+2. an activity or object which you are so interested in that you spend an unreasonable amount of time thinking about it or doing it
+• She makes a fetish of organization - it's quite obsessive.
+• He has a fetish for/about cleanliness.
+Thesaurus+: ↑Continually thinking about
+ 
+RELIGIOUS OBJECT
+3. specialized an object which is worshipped in some societies because it is believed to have a spirit or special magical powers
+Thesaurus+: ↑Religious objects
+Derived: fetishism ▪ fetishistic
+From Longman DOCE 5th Ed. (En-En)
+fetish
+fet‧ish /ˈfetɪʃ/ BrE  AmE  noun [countable]
+[Date: 1600-1700; Language: French; Origin: fétiche, from Portuguese feitiço 'artificial, false']
+1. a desire for sex that comes from seeing a particular type of object or doing a particular activity, especially when the object or activity is considered unusual:
+ a leather fetish
+2. something you are always thinking about or spending too much time doing ⇨ obsession
+fetish for/about
+ Sue has a real fetish about keeping everything tidy.
+ 
+ rife
+rife UK  US  [raɪf] formal adjective after verb
+1. If something unpleasant is rife, it is very common or frequent
+• Dysentery and malaria are rife in the refugee camps.
+Thesaurus+: ↑Plain and ordinary ↑Tedious and uninspiring
+2. rife with sth
+full of something unpleasant
+• The office was rife with rumours.
+Thesaurus+: ↑Full
+From Longman DOCE 5th Ed. (En-En)
+rife
+rife /raɪf/ BrE  AmE  adjective
+[Language: Old English; Origin: ryfe]
+1. [not before noun] if something bad or unpleasant is rife, it is very common:
+ Violent crime is rife in our inner cities.
+2. rife with something full of something bad or unpleasant:
+ The crowded factories are rife with disease.
+3. run rife to spread quickly in an uncontrolled way:
+ No one knew exactly what he had done, but speculation ran rife.
+• • •
+THESAURUS
+▪ common if something is common, there are a lot of them: Jones is a very common name in Great Britain. | Foxes are common in the area. | Personal computers are nearly as common in American homes as televisions.
+▪ widespread happening in a lot of places or done by a lot of people: Racism is much more widespread than people imagine. | The report claimed that the problem of police brutality was widespread. | the widespread availability of antibiotics
+▪ commonplace [not before noun] especially written common in a particular place or time – used especially when saying that this seems surprising or unusual: Crimes such as robbery are commonplace in big cities. | Expensive foreign cars are commonplace in this Chicago suburb.
+▪ prevalent formal common in a place or among a group of people – used especially about illnesses, problems, or ideas: Flu is most prevalent during the winter months. | Depression remains one of the most prevalent health disorders in the US. | This belief is more prevalent among men than women.
+▪ rife /raɪf/ [not before noun] very common – used about illnesses or problems: AIDS is rife in some parts of the world.
+▪ ubiquitous /juːˈbɪkwətəs, juːˈbɪkwɪtəs/ formal very common and seen in many different places – often used humorously in written descriptions: He was carrying the ubiquitous MP3 player. | In Britain, CCTV cameras are ubiquitous.
+▪ something is everywhere especially spoken used when saying that you can see something a lot in many different places: Images of the dictator were everywhere. | Microchips seem to be everywhere these days – even in washing machines. | One of the first things you notice in Amsterdam are the bicycles – they’re everywhere.
+=======
+<<<<<<< HEAD
 
 snippy
 snip‧py /ˈsnɪpi/ BrE  AmE  adjective American English informal
@@ -8879,6 +9010,7 @@ Remember: In spoken English it is more usual to use not many to talk about a sma
 • She had a devastating beauty/charm/smile that few men could resist.
 • It was a bit dispiriting to see so few people arriving for the meeting.
 • The man was standing only a few feet away.
+<<<<<<< HEAD
 
 
 profuse
@@ -8969,3 +9101,6 @@ apprehensive that
  Some had apprehensive looks on their faces.
 —apprehensively adverb:
  ‘What’s wrong?’ I asked apprehensively.
+=======
+>>>>>>> 61afc66f1753fdc803c582a4d90bcd80cca3d10f
+>>>>>>> f16db1fc709f5551fa3e51cfe8412dfbe5c1a2ec
