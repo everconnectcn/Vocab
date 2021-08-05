@@ -9010,7 +9010,100 @@ Remember: In spoken English it is more usual to use not many to talk about a sma
 • She had a devastating beauty/charm/smile that few men could resist.
 • It was a bit dispiriting to see so few people arriving for the meeting.
 • The man was standing only a few feet away.
+<<<<<<< HEAD
+
+
+profuse
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+profuse apologiesformal (= when someone says that they are sorry several times )
+▪ Moira telephoned with profuse apologies for the misunderstanding.
+COLLOCATIONS FROM CORPUS
+■ NOUN
+apology
+▪ The following day, Moira telephoned the Daily Telegraph with profuse apologies for the misunderstanding.
+▪ Our profuse apologies go out to both gentlemen.
+EXAMPLES FROM CORPUS
+▪ Herpes simplex infection, when it involves the cervix, can cause a profuse discharge.
+▪ I loved its profuse blossoms, its heady scent.
+▪ Our profuse apologies go out to both gentlemen.
+▪ The coats of many puppies may be less profuse than that of adults, and so grooming will be more straight forward.
+▪ The discharge may be quite profuse.
+▪ The following day, Moira telephoned the Daily Telegraph with profuse apologies for the misunderstanding.
+profusely
+profusely UK  US  [prəˈfjuː.sli] adverb
+• She apologized/thanked us profusely.
+• He was bleeding/sweating profusely.
+Thesaurus+: ↑Plenty and abundant
+Main entry: profusederived
+profuse
+profuse UK  US  [prəˈfjuːs] adjective
+produced or given in large amounts
+• She was admitted to St Mary's Hospital with profuse bleeding.
+• The company accepted blame and sent us profuse apologies.
+Thesaurus+: ↑Plenty and abundant
+Derived: profusely
+From Longman DOCE 5th Ed. (En-En)
+profusely
+See main entry: ↑profuse
+profuse
+pro‧fuse /prəˈfjuːs/ BrE  AmE  adjective
+[Date: 1400-1500; Language: Latin; Origin: past participle of profundere 'to pour out']
+produced or existing in large quantities:
+ He made profuse apologies.
+ Profuse sweating is one of the symptoms of heat exhaustion.
+—profusely adverb:
+ The wound was bleeding profusely.
+—profuseness noun [uncountable]
+From Oxford Advanced Learners Dictionary 8th Ed.
+profusely
+pro·fuse·ly BrE [prəˈfjuːsli] ; NAmE [prəˈfjuːsli]  adverb
+• to bleed profusely
+• to apologize profusely
+Main entry: ↑profusederived
+profuse
+pro·fuse BrE [prəˈfjuːs]  NAmE [prəˈfjuːs]  adjective
+produced in large amounts
+• profuse apologies/thanks
+• profuse bleeding
+Derived Word: ↑profusely
+ 
+Word Origin:
+[profuse profusely] late Middle English (in the sense ‘extravagant’): from Latin profusus ‘lavish, spread out’, past participle of profundere, from pro- ‘forth’ + fundere ‘pour’.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+profuse
+
+ / prE5fju:s; prE`fjus/ adj 
+ in large amounts; abundant 大量的; 丰富的: profuse blossoms, flowers, apologies, gratitude, thanks 大量的花朵、数不清的鲜花、再三的道歉、深深的感激、千谢万谢 * profuse bleeding, sweating, tears 血流如注、大汗淋漓、泪如泉涌. 
+ [pred 作表语] ~ in sth expressing or giving sth freely or generously; lavish with sth 对某事物一再表示或慷慨给予; 某事上滥施: profuse in one's apologies, thanks 一再表示歉意、谢意.
+
+ > profusely adv: bleed, sweat profusely 大出血、出大汗 * thank sb profusely 一再感谢某人.
+ profuseness n [U] state of being profuse 大量; 丰富: The profuseness of his thanks was embarrassing. 他再三表示感谢使人很不好意思.
+ profusion / prE5fju:Vn; prE`fjuVEn/ n 
+ [sing] ~ of sth abundant supply of sth 大量的某事物: a profusion of colour, patterns, flowers, good wishes 许多的颜色、花样、鲜花、美好祝愿. 
+ (idm 习语) in profusion in large quantities or abundance 大量地; 丰富地: Roses were growing in profusion against the old wall. 紧挨着旧墙长着很多玫瑰花.
+ 
+ apprehensive
+apprehensive UK  US  [ˌæp.rɪˈhen t.sɪv] adjective
+feeling worried about something that you are going to do
+• I'm a bit apprehensive about tomorrow's meeting.
+• I've invited a lot of people to the party, but I'm a bit apprehensive that no one will come.
+Thesaurus+: ↑Anxious and worried
+Derived: apprehensively
+From Longman DOCE 5th Ed. (En-En)
+apprehensive
+ap‧pre‧hen‧sive /ˌæprɪˈhensɪv◂/ BrE  AmE  adjective
+worried or nervous about something that you are going to do, or about the future
+apprehensive about/of
+ We’d been a little apprehensive about their visit.
+apprehensive that
+ I was apprehensive that something would go wrong.
+ Some had apprehensive looks on their faces.
+—apprehensively adverb:
+ ‘What’s wrong?’ I asked apprehensively.
+=======
 >>>>>>> 61afc66f1753fdc803c582a4d90bcd80cca3d10f
+<<<<<<< HEAD
 
 quizzical
 quizzical UK  US  [ˈkwɪz.ɪ.k ə l] adjective
@@ -9207,3 +9300,6 @@ EXAMPLES FROM CORPUS
 ▪ In no direction was the ability of McClellan so conspicuous as in organizing.
 ▪ Perhaps the most conspicuous example of this well-intentioned foolishness is the minimum wage.
 ▪ They flower as a rule above the water surface and, unlike the preceding group, they develop more conspicuous flowers.
+=======
+>>>>>>> f16db1fc709f5551fa3e51cfe8412dfbe5c1a2ec
+>>>>>>> 606615cf01fc9a4f4b615d1f44e00147bc03826b

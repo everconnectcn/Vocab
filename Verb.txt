@@ -9783,6 +9783,7 @@ II. dif‧fuse2 /dɪˈfjuːs/ BrE  AmE  adjective
 2. using a lot of words and not explaining things clearly and directly:
  His writing is diffuse and difficult to understand.
 —diffuseness noun [uncountable]
+<<<<<<< HEAD
 >>>>>>> 61afc66f1753fdc803c582a4d90bcd80cca3d10f
 
 
@@ -9804,3 +9805,282 @@ implore somebody to do something
  She implored the soldiers to save her child.
 —imploring adjective:
  a ragged child with imploring eyes
+=======
+<<<<<<< HEAD
+
+cringe
+cringe UK  US  [krɪndʒ] verb intransitive [cringes cringing cringed]
+1. to suddenly move away from someone or something because you are frightened
+Thesaurus+: ↑Making short, sudden movements
+2. informal to feel very embarrassed
+• I cringed at the sight of my dad dancing.
+Thesaurus+: ↑Embarrassing
+From Longman DOCE 5th Ed. (En-En)
+cringe
+cringe /krɪndʒ/ BrE  AmE  verb [intransitive]
+[Date: 1200-1300; Origin: Perhaps from Old English cringan 'to give up']
+1. to move away from someone or something because you are afraid:
+ A stray dog was cringing by the door.
+ She cringed away from him.
+2. to feel embarrassed by something you have said or done because you think it makes you seem silly ⇨ wince
+cringe at
+ She cringed at the sound of her own voice.
+ It makes me cringe when I think how stupid I was.
+ cringeworthy
+cringe·worthy 7 [cringeworthy] BrE [ˈkrɪndʒwɜːði]  NAmE [ˈkrɪndʒwɜːrði] (also ˈcringe-making) adjective (both BrE, informal)
+making you feel embarrassed or uncomfortable
+• It was a cringeworthy performance from start to finish.
+
+cringy (comparative cringier or more cringy, superlative cringiest or most cringy)
+Characterised by causing feelings of embarrassment; embarrassing.
+Synonym: cringeworthy
+2008 May 4, Virginia Heffernan, “Voilà (Sort Of)!”, in New York Times‎[1]:
+The series features a fantastic, cringy scene set at the upfronts, and the whole show serves as an excavation of the prime-time TV life, from the high-flying ‘80s to the mystifying nows.
+2011, Rosie Scott, Faith Singer:
+It involved such a cringy mix of self-indulgence and vulnerability I didn't feel equipped.
+2016, Catherine Ferguson, Four Weddings and a Fiasco:
+'You're damn right I am,' declares Ron in a cringy American accent, grabbing Andrea in a showy embrace.
+Cringing; cowardly.
+1917, Charles Henry Lerrigo, The boy scout treasure hunters: or, The lost treasure of Buffalo Hollow:
+There stepped into view a man whom Glen had not seen before. He was evidently associated with Mr. Jervice, but he did not in the least resemble him, for instead of being a cringy weakling, he was big and strong and hard.
+1929, The Windsor Magazine: An Illustrated Monthly for Men and Women
+Possibly the thing had feelings of its own; there was no knowing. Just the little cringy sort that might inveigle itself . . .
+
+deteriorate
+de‧te‧ri‧o‧rate /dɪˈtɪəriəreɪt $ -ˈtɪr-/ BrE  AmE  verb [intransitive]
+[Date: 1500-1600; Language: Late Latin; Origin: deteriorare, from Latin deterior 'worse']
+1. to become worse:
+ Ethel’s health has deteriorated.
+ America’s deteriorating economy
+REGISTER
+In everyday English, people usually say get worse rather than deteriorate:
+▪ Her health got worse.
+▪ The situation is getting worse.
+2. deteriorate into something to develop into a bad or worse situation:
+ The argument deteriorated into a fight.
+—deterioration /dɪˌtɪərɪˈreɪʃən $ -ˌtɪr-/ noun [uncountable]
+
+THESAURUS
+▪ deteriorate to become worse: Air quality is rapidly deteriorating in our cities. | Living conditions here have deteriorated in the past few years.
+▪ get worse to become worse. Get worse is less formal and more common than deteriorate in everyday English: My eyesight seems to be getting worse. | He’s never been well-behaved, but he’s getting even worse.
+▪ go down to become gradually worse – used especially about the standard of something: The hotel’s gone down since its management changed. | Nick’s teachers say that his work has gone down recently.
+▪ go downhill to become much worse and be in a very bad condition, especially after a particular time or event: During the recession the business began to go downhill. | Her health went downhill rapidly after Christmas.
+▪ decline especially written to become gradually worse – used especially about standards of living, education, health etc: After the war, the standard of living declined. | Over the years, the standard of public transport has declined.
+▪ degenerate formal to become worse, or to become something bad instead of something good: Relations between the two countries have degenerated. | The debate degenerated into an argument between the two sides.
+▪ escalate to become much worse very quickly – used especially about fighting, violence, or a bad situation: Further violence could escalate into a full-scale armed conflict. | The political crisis escalated.
+▪ spiral out of control to become worse in a way that cannot be controlled and is extremely serious and worrying: Police say that the violence has spiralled out of control. | Scientists are worried that global warming could soon spiral out of control. | Costs have been spiralling out of control.
+
+snarl
+snarl /snɑːl $ snɑːrl/ BrE  AmE  verb
+[Sense 1-2: Date: 1500-1600; Origin: snar 'to snarl' (1500-1600), from the sound. ]
+[Sense 3: Date: 1300-1400; Origin: snarl 'net for catching things' (14-19 centuries), from ⇨ ↑snare1]
+1.   [intransitive] if an animal snarls, it makes a low angry sound and shows its teeth ⇨ growl
+snarl at
+ The dog growled and snarled at me.
+2. [intransitive and transitive] to speak or say something in a nasty, angry way:
+ ‘Shut up,’ he snarled.
+3. [transitive usually passive] (also snarl up British English) to prevent traffic from moving:
+ The traffic was snarled up on both sides of the road.
+—snarl noun [countable]:
+ an angry snarl
+ 
+politicize
+politicize, UK usually politicise UK  [pəˈlɪt.ɪ.saɪz] US  [-ˈlɪt ̬.ə-] verb transitive often passive [politicizes politicizing politicized]
+to make something or someone political, or more involved in or conscious of political matters
+• The whole issue has become increasingly politicized.
+• a highly politicized debate
+Thesaurus+: ↑Politics
+From Longman DOCE 5th Ed. (En-En)
+politicize
+po‧li‧ti‧cize BrE  AmE  (also politicise British English) /pəˈlɪtəsaɪz, pəˈlɪtɪsaɪz/ verb [transitive]
+[Word Family: noun: ↑politician, ↑politics, ↑politicization, ↑politicking, ↑politico; adjective: ↑political, ↑politicized, ↑apolitical, ↑politic; verb: ↑politicize; adverb: ↑politically]
+1. to make a subject or a situation more political:
+ The Olympic Games should not be politicized.
+2. to make someone become more involved in political activities:
+ He became politicised during his years in prison.
+—politicized adjective:
+ Abortion is a highly politicized issue.
+—politicization /pəˌlɪtəsaɪˈzeɪʃən, pəˌlɪtɪsaɪˈzeɪʃən $ -sə-/ noun [uncountable]
+From Oxford Advanced Learners Dictionary 8th Ed.
+politicize
+pol·iti·cize (BrE also -ise) [politicize politicizes politicized politicizing] BrE [pəˈlɪtɪsaɪz]  NAmE [pəˈlɪtɪsaɪz]  verb often passive
+1. ~ sth to make sth a political issue
+• the highly politicized issue of unemployment
+2. ~ sb/sth to make sb/sth become more involved in politics
+• The rural population has become increasingly politicized in recent years.
+Derived Word: ↑politicization
+
+soak up
+soak something ↔ up phrasal verb (see also ↑soak)
+1. if something soaks up a liquid, it takes the liquid into itself:
+ He used a towel to soak up the blood.
+2. soak up the sun/rays/sunshine etc to sit outside for a long time enjoying the sun
+3. to enjoy a place by watching it or becoming involved in it:
+ Go to a sidewalk café, order coffee, and soak up the atmosphere.
+4. to learn something quickly and easily:
+ Children soak up language incredibly quickly.
+ soaking
+I. soak‧ing1 /ˈsəʊkɪŋ $ ˈsoʊ-/ BrE  AmE  (also ˌsoaking ˈwet) adjective
+very wet:
+ a soaking wet towel
+II. soaking2 BrE  AmE  noun [countable]
+if someone or something gets a soaking, they get very wet
+soak
+I. soak1 /səʊk $ soʊk/ BrE  AmE  verb
+[Language: Old English; Origin: socian]
+1. [intransitive and transitive] if you soak something, or if you let it soak, you keep it covered with a liquid for a period of time, especially in order to make it softer or easier to clean:
+ Soak the clothes in cold water.
+ Let the pans soak; I’ll wash them later.
+soak something off/out (=remove it by soaking)
+ Put the bottle in soapy water to soak the label off.
+2. [intransitive always + adverb/preposition, transitive] to make something completely wet:
+ Police aimed water hoses at the marchers, soaking them.
+soak through/into etc
+ The blood soaked through the bandage.
+soak something in/with something
+ a rag soaked with oil
+3. [intransitive] to spend a long time taking a bath:
+ Soak in a warm bath to relax.
+4. [transitive] informal to make someone pay too much money in prices or taxes:
+ taxes that soak the middle classes
+soak something ↔ up phrasal verb
+1. if something soaks up a liquid, it takes the liquid into itself:
+ He used a towel to soak up the blood.
+2. soak up the sun/rays/sunshine etc to sit outside for a long time enjoying the sun
+3. to enjoy a place by watching it or becoming involved in it:
+ Go to a sidewalk café, order coffee, and soak up the atmosphere.
+4. to learn something quickly and easily:
+ Children soak up language incredibly quickly.
+
+ 2. [transitive] to make an idea or problem easier to understand by considering all the parts of it separately:
+ Some of the issues surrounding mental illness have been unpacked in Chapter 3.
+ 
+ tamper
+tam‧per /ˈtæmpə $ -ər/ BrE  AmE  verb
+[Date: 1500-1600; Origin: Probably from temper]
+tamper with something phrasal verb
+to touch something or make changes to it without permission, especially in order to deliberately damage it:
+ He noticed that the instruments had been tampered with.
+ I don’t see the point in tampering with a system that’s worked fine so far.
+tamp
+tamp /tæmp/ BrE  AmE  (also tamp down) verb [transitive always + adverb/preposition]
+[Date: 1800-1900; Origin: Perhaps from tampion, tampin 'plug, cover' (15-20 centuries), from French tampon; ⇨ ↑tampon]
+to press or push something down by lightly hitting it several times:
+ The old man tamped down the tobacco with his thumb.
+ 
+ tamper-proof
+ˈtamper-proof BrE  AmE  adjective
+a package or container that is tamper-proof is made in a way that prevents someone from opening it before it is sold
+From Oxford Advanced Learners Dictionary 8th Ed.
+tamper-proof
+ˈtamper-proof 7 [tamper-proof] BrE   NAmE   adjective
+something that is tamper-proof is specially designed so that it cannot be easily changed or damaged
+• a tamper-proof identity card
+From Longman DOCE5 Extras (En-En)
+tamper-proof
+adjective
+EXAMPLES FROM CORPUS
+▪ Part of the program would require states to develop more tamper-proof birth certificates and drivers licenses.
+▪ The authorities reacted by ruling that tamper-proof electronic cash registers must be used.
+▪ Wilson says he is only advocating a tamper-proof card for those seeking public services.
+
+greater good
+The benefit of the public, of more people than oneself.
+That which is better and more correct.
+
+relegate
+relegate UK  US  [ˈrel.ɪ.geɪt] verb transitive [relegates relegating relegated]
+1. to put someone or something into a lower or less important rank or position
+• She resigned when she was relegated to a desk job.
+• The story was relegated to the middle pages of the paper.
+Thesaurus+: ↑Promoting, demoting and transferring staff
+2. UK If a football team is relegated, it is moved down to a lower division
+• If Southampton lose again they may be relegated from the Premier League to the First Division.
+Compare promote
+Thesaurus+: ↑Football/soccer ↑General terms used in ball sports
+From Longman DOCE 5th Ed. (En-En)
+relegate
+rel‧e‧gate /ˈreləɡeɪt, ˈrelɪɡeɪt/ BrE  AmE  verb [transitive]
+[Date: 1400-1500; Language: Latin; Origin: past participle of relegare 'to send back to do a job']
+1. formal to give someone or something a less important position than before
+relegate somebody/something to something
+ Women tended to be relegated to typing and filing jobs.
+2. British English if a sports team is relegated, it is moved into a lower ↑division OPP promote
+relegate something/somebody to something
+ We were relegated to the Fourth Division last year.
+—relegation /ˌreləˈɡeɪʃən, ˌrelɪˈɡeɪʃən/ noun [uncountable]
+
+COLLOCATIONS
+■ verbs
+▪ thread a needle Eleanor threaded the needle.
+▪ use a needle I don't think he even knows how to use a needle!
+■ phrases
+▪ a needle and thread I got a needle and thread and sewed the button back on.
+▪ the eye of a needle (=the hole at the top of the needle that the thread goes through) This gadget helps you put the thread through the eye of the needle.
+II. needle2 BrE  AmE  verb [transitive] informal
+to deliberately annoy someone by making unkind remarks or jokes about them SYN rib, tease:
+ I just said that to Charlie to needle him.
+ 
+ enumerate
+e‧nu‧me‧rate /ɪˈnjuːməreɪt $ ɪˈnuː-/ BrE  AmE  verb [transitive]
+[Date: 1600-1700; Language: Latin; Origin: enumeratus, past participle of enumerare, from numerare 'to count']
+formal to name a list of things one by one
+From Oxford Advanced Learners Dictionary 8th Ed.
+enumerate
+enu·mer·ate [enumerate enumerates enumerated enumerating] BrE [ɪˈnjuːməreɪt]  NAmE [ɪˈnuːməreɪt]  verb ~ sth (formal)
+to name things on a list one by one
+• She enumerated the main points.
+• Let me enumerate the benefits for you.
+
+overdo
+o‧ver‧do /ˌəʊvəˈduː $ ˌoʊvər-/ BrE  AmE  verb (past tense overdid /-ˈdɪd/, past participle overdone /-ˈdʌn/, third person singular overdoes /-ˈdʌz/) [transitive]
+[Word Family: verb: ↑do, ↑outdo, ↑overdo, ↑redo, ↑undo; noun: ↑deed ≠ ↑misdeed, ↑do, ↑doing; adjective: ↑done, ↑overdone, ↑undone]
+1. to do something more than is suitable or natural:
+ Analysts believe that worries about the economy are overdone.
+ Use a few drawings and photographs, but don’t overdo it.
+2. overdo it to work too hard or be too active so that you become tired:
+ You mustn’t overdo it – if you're tired, just sit down and start again.
+3. to use too much of something:
+ I think I overdid the salt.
+ overdo
+ / 9EUvE5du:; `ovL`du/ v (pt overdid / -5dId; -`dId/, pp overdone / -5dQn; -`dQn/) [Tn] 
+ do, perform or express (sth) too fully or for too long; exaggerate 将（某事物）做得、表现得或表达得过火: She rather overdid the sympathy, ie was so sympathetic that she did not seem sincere. 她同情得有些过分了（显得缺乏诚意）. 
+ overact (sth) 将（某事物）演得过火: The comic scenes in the play were overdone. 这剧的滑稽场面太夸张了. 
+ use too much of (sth) 过多使用（某事物）; 滥用: Don't overdo the garlic in the food not everyone likes it. 蒜别放太多--不是人人都喜欢的. * I think they've rather overdone the red in this room, ie used too much red paint, wallpaper, etc. 我认为他们把这房间弄得太红了. 
+ cook (sth) for too long 把（某物）煮得过久: The fish was overdone and very dry. 鱼烧得过火了, 太干了. 
+ (idm 习语) over`do it/things (a) work, study, exercise, etc too hard 工作、学习、运动等过分努力: He's been overdoing things recently. 近来他做事过分努力. * You must stop overdoing it you'll make yourself ill. 不要过劳了--你要生病的. (b) behave in an exaggerated way (in order to achieve one's aim) （为达到目的）做得过分: He was trying to be helpful, but he rather overdid it. 他想尽力帮忙, 但做得有些过分了.
+ 
+ prevail UK  US  [prɪˈveɪl] formal verb intransitive [prevails prevailing prevailed]
+1. <A > to get control or influence
+• I am sure that common sense will prevail in the end.
+• And did reason prevail over (= become a more powerful influence than) emotion?
+Thesaurus+: ↑Winning and defeating ↑Scoring, winning and losing in sport
+2. <A > to be common among a group of people or area at a particular time
+• This attitude still prevails among the middle classes.
+Thesaurus+: ↑Habitual and customary
+ 
+• A friendly atmosphere prevailed among members of the team.
+• Our only hope is that justice will prevail.
+• Eventually common sense prevailed and he decided it would be more sensible to be honest.
+• The Republicans are expected to prevail in next year's election.
+• The British team had finally prevailed over the Russians.
+Phrasal Verb: prevail on somebody
+From Longman DOCE 5th Ed. (En-En)
+prevail
+pre‧vail /prɪˈveɪl/ BrE  AmE  verb [intransitive not in progressive] formal
+[Date: 1300-1400; Language: Latin; Origin: praevalere, from valere 'to be strong']
+1. if a belief, custom, situation etc prevails, it exists among a group of people at a certain time
+prevail in/among etc
+ the economic conditions which prevail in England and Wales
+ I admired the creativity which prevailed among the young writers.
+2. if a person, idea, or principle prevails in a fight, argument etc, they are successful in the end:
+ Justice will prevail.
+common sense prevails/reason prevails (=a sensible decision is made)
+ He considered lying, but then common sense prevailed.
+prevail over/against
+ Your inner strength will enable you to prevail over life’s obstacles.
+prevail on/upon somebody phrasal verb formal
+to persuade someone
+prevail on/upon somebody to do something
+ She prevailed upon her father to say nothing.
+>>>>>>> 606615cf01fc9a4f4b615d1f44e00147bc03826b
