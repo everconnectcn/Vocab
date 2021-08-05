@@ -15828,6 +15828,49 @@ Thesaurus+: ↑Court cases, orders and decisions
 verb transitive US legal
 to prove that a person's will has been made correctly and that the information it contains is correct
 Thesaurus+: ↑Inheriting and bequeathing
-=======
->>>>>>> 61afc66f1753fdc803c582a4d90bcd80cca3d10f
->>>>>>> f16db1fc709f5551fa3e51cfe8412dfbe5c1a2ec
+
+meritocracy
+meritocracy UK  [ˌmer.ɪˈtɒk.rə.si] US  [-ˈtɑː.krə-] noun countable or uncountable [meritocracies]
+a social system or society in which people have power because of their abilities, not because of their money or social position
+• The prime minister claims he wants to create a classless meritocracy in Britain.
+Thesaurus+: ↑Systems of government
+From Longman DOCE 5th Ed. (En-En)
+meritocracy
+mer‧i‧toc‧ra‧cy /ˌmerəˈtɒkrəsi, ˌmerɪˈtɒkrəsi $ -ˈtɑː-/ BrE  AmE  noun (plural meritocracies)
+1. [countable] a social system that gives the greatest power and highest social positions to people with the most ability
+2. the meritocracy the people who have power in a meritocracy ⇨ aristocracy
+—meritocratic /ˌmerətəˈkrætɪk◂, ˌmerɪtəˈkrætɪk◂/ adjective
+From Oxford Advanced Learners Dictionary 8th Ed.
+meritocracy
+mer·it·oc·racy [meritocracy meritocracies] BrE [ˌmerɪˈtɒkrəsi]  NAmE [ˌmerɪˈtɑːkrəsi]  noun (pl. mer·it·oc·racies)
+1. countable, uncountable a country or social system where people get power or money on the basis of their ability
+2. the meritocracy singular the group of people with power in this kind of social system
+Derived Word: ↑meritocratic
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+meritocracy
+
+ / 9merI5tCkrEsI; 9mZrI`tBkrEsI/ n (politics 政) 
+ (a) [U] system of government by people of high achievement 英才管理（制度）. (b) [CGp] such people in a society （社会的）英才, 精英, 贤能. 
+ [C] country with such a system of government 英才管理的国家: Is Britain a meritocracy? 英国是英才管理的国家吗?
+From Longman DOCE5 Extras (En-En)
+meritocracy
+noun
+EXAMPLES FROM CORPUS
+▪ But it was possible to turn the critique of meritocracy against the schools themselves.
+▪ He was evidence that the trading floor was a meritocracy.
+▪ However, in a meritocracy, those at the bottom are clearly inferior.
+▪ In a meritocracy, talent and ability are efficiently syphoned out of the lower strata.
+▪ In the collaborative meritocracy, people who are talented enough and committed enough are rightly seen as indispensable.
+▪ Secondly it is a declaration that meritocracy does not operate by default.
+▪ The meritocracy that reigned among students thus functioned hardly at all within the faculty.
+▪ The institutional racism model thus overlaps with an equal opportunities model which demands self-conscious meritocracy in spirit and in procedures.
+
+2. only singular disapproving something that depends only on luck and is not fair
+• Education in England is something of a lottery.
+Thesaurus+: ↑Chance and randomness
+ 
+• Paul had a dream that he won the lottery.
+• Did Chris tell you about his winning some money in the lottery?
+• The idea behind the national lottery is to raise money for good causes.
+• Winning the lottery has set them up for life.
+• Statistically speaking, you're more likely to die from a bee sting than win the lottery.
