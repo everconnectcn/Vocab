@@ -9011,3 +9011,199 @@ Remember: In spoken English it is more usual to use not many to talk about a sma
 • It was a bit dispiriting to see so few people arriving for the meeting.
 • The man was standing only a few feet away.
 >>>>>>> 61afc66f1753fdc803c582a4d90bcd80cca3d10f
+
+quizzical
+quizzical UK  US  [ˈkwɪz.ɪ.k ə l] adjective
+seeming to ask a question without saying anything
+• She gave me a quizzical look/glance/smile.
+Thesaurus+: ↑Curiosity ↑Questioning people and asking questions in general ↑Suspecting and questioning
+Derived: quizzically
+From Longman DOCE 5th Ed. (En-En)
+quizzical
+quiz‧zi‧cal /ˈkwɪzɪkəl/ BrE  AmE  adjective
+a quizzical expression is one that shows that you do not understand something and perhaps think it is slightly amusing
+a quizzical look/expression/smile
+ He sat and watched her, a quizzical look on his face.
+—quizzically /-kli/ adverb
+From Longman DOCE5 Extras (En-En)
+quizzical
+adjective
+COLLOCATIONS FROM CORPUS
+■ NOUN
+expression
+▪ Her eyes were crookedly set, which gave her a humorous, quizzical expression quite in keeping with her manner and disposition.
+look
+▪ He gave me that quizzical look, as much as to say: You should know by now what that was all about.
+▪ Jasper gave me a quizzical look.
+▪ He sat back watching her; a quizzical look on his face.
+▪ She realised from the quizzical looks that met this further information that she had made matters worse rather than better.
+▪ She started giving me quizzical looks.
+▪ I gave him the benefit of my quizzical look.
+smile
+▪ Eugene Forster had a quizzical smile playing around his mouth.
+▪ Her face was vaguely familiar, and Floyd suddenly became aware that the Administrator was looking at him with a quizzical smile.
+▪ Blanche looked at Lancaster with a quizzical smile and did not say anything for a full ten seconds.
+
+
+contingent
+contingent UK  US  [kənˈtɪn.dʒ ə nt] noun countable + singular or plural verb [contingents]
+a group of people representing an organization or country, or a part of a military force
+• The French contingent certainly made their presence known at this year's conference.
+• a large contingent of voluntary soldiers
+Thesaurus+: ↑Parts of armies and groups of servicemen ↑Groups of people
+ 
+adjective formal
+contingent on/upon sth
+depending on something else in the future in order to happen
+• Outdoor arrangements are, as ever, contingent on the weather.
+• Our success is contingent upon your support.
+Thesaurus+: ↑Being based on or depending on something
+From Longman DOCE 5th Ed. (En-En)
+contingent
+I. con‧tin‧gent1 /kənˈtɪndʒənt/ BrE  AmE  adjective formal
+[Date: 1300-1400; Language: French; Origin: Latin, present participle of contingere 'to have contact with, happen to', from com- ( ⇨ COM-) + tangere 'to touch']
+depending on something that may happen in the future SYN dependent
+contingent on/upon
+ Further investment is contingent upon the company’s profit performance.
+II. contingent2 BrE  AmE  noun [countable also + plural verb British English]
+1. a group of people who all have something in common, such as their nationality, beliefs etc, and who are part of a larger group:
+ Has the Scottish contingent arrived yet?
+2. a group of soldiers sent to help a larger group
+contingent of
+ A large contingent of troops was dispatched.
+From Longman DOCE5 Extras (En-En)
+contingent
+I. adjective
+COLLOCATIONS FROM CORPUS
+■ NOUN
+liability
+▪ Margin Rule 5-28 imposes various requirements in relation to margined contingent liability transactions.
+▪ Clearly, the vendor will seek as large a consideration as possible, with as few contingent liabilities as possible.
+▪ Instead, the vendor should be encouraged to identify, describe and quantify the actual and contingent liabilities arising from these disputes.
+▪ What further contingent liabilities are being assumed elsewhere in the group?
+EXAMPLES FROM CORPUS
+▪ Compounds of limitation are derived at three different levels, from limitations which are continuous, contextual, and contingent.
+▪ Congressional Republicans have made an increase in the debt ceiling contingent on a balanced budget agreement to their liking.
+▪ It is a necessarily existing source of all actuality, which actualises a subset of possibilities by a contingent act of will.
+▪ Secondly, the integrity of pastoral systems and management processes is contingent upon their being reflected in all aspects of school management.
+▪ The exchange was contingent upon planning permission for building being given on the vacated site.
+▪ The physical realm is the realm of contingent, temporal, concrete and fuzzy particulars.
+▪ There are two other contingent relations which should be mentioned at this stage.
+
+contingency
+contingency UK  US  [kənˈtɪn.dʒ ə n t.si] formal noun countable [contingencies]
+something that might possibly happen in the future, usually causing problems or making further arrangements necessary
+• You must be able to deal with all possible contingencies.
+• Have you made any contingency plans?
+Thesaurus+: ↑Possible and probable
+From Longman DOCE 5th Ed. (En-En)
+contingency
+con‧tin‧gen‧cy /kənˈtɪndʒənsi/ BrE  AmE  noun (plural contingencies) [countable]
+1. an event or situation that might happen in the future, especially one that could cause problems:
+ a contingency plan
+ Add up your outgoings, putting on a bit more for contingencies.
+2. contingency fee an amount of money that a lawyer in the US will be paid only if the person they are advising wins in court
+
+conspicuous
+conspicuous UK  US  [kənˈspɪk.ju.əs] adjective
+very noticeable or attracting attention, often in a way that is not wanted
+• In China, her blonde hair was conspicuous.
+• He tried not to look conspicuous and moved slowly along the back of the room.
+Opposite inconspicuous
+Thesaurus+: ↑Apparent and obvious ↑Visible
+Idiom: conspicuous by your absence
+Derived: conspicuously ▪ conspicuousness
+From Longman DOCE 5th Ed. (En-En)
+conspicuous
+con‧spic‧u‧ous /kənˈspɪkjuəs/ BrE  AmE  adjective
+[Date: 1500-1600; Language: Latin; Origin: conspicuus, from conspicere 'to get to see', from com- ( ⇨ COM-) + specere 'to look']
+1. very easy to notice OPP inconspicuous:
+ The notice must be displayed in a conspicuous place.
+ a bird with conspicuous white markings
+ I felt very conspicuous in my red coat.
+2. conspicuous success, courage etc is very great and impressive:
+ He had represented Italy with conspicuous success.
+ The award is given for notable or conspicuous achievement in science.
+3. be conspicuous by your/its absence used to say that someone or something is not somewhere where they were expected to be:
+ a group that were conspicuous by their absence from the awards ceremony
+• • •
+THESAURUS
+▪ obvious something that is obvious is very easy to notice or understand – used especially when you are surprised that other people cannot notice it: There is an obvious connection between the two murders. | It was obvious that something was wrong.
+▪ clear easy to notice that something is true, so that you feel sure about it and have no doubts: It was clear to me that my father was dying. | There are clear signs of an economic recovery.
+▪ noticeable very easy to notice, especially because you can see, hear, smell, or feel something: Steroid drugs cause a noticeable change in someone’s behaviour. | Road noise tends to be more noticeable in certain weather conditions.
+▪ conspicuous very easy to notice, because of being different from things around them: a conspicuous white spot on the bird’s wings | She tried to make herself look less conspicuous. | Don’t leave your valuables in a conspicuous place.
+▪ unmistakable extremely obvious, so that you cannot possibly confuse something with something else: the unmistakable sound of gunfire | The flower’s scent is unmistakable.
+▪ self-evident formal facts, ideas etc that are self-evident are obvious and true, although some people may not accept them or know about them: The facts in this case are self-evident and cannot be denied. | We hold these truths to be self-evident (=we believe that they obvious and true – from the American Declaration of Independence).
+▪ blatant use this about something that someone does which is clearly bad, but which they do not seem to be ashamed of: a blatant lie | The bill is a blatant attempt to limit our right to free speech.
+▪ can tell to know that something must be true because you can see signs that show this: Even though it was dark, she could tell it was him. | How can you tell if you’ve broken your arm?
+From Longman DOCE5 Extras (En-En)
+conspicuous
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+a conspicuous exception (=one that is very easy to notice)
+▪ With one conspicuous exception, Ayers Rock, the desert landscape is completely flat.
+a distinct/marked/conspicuous lack of sth (=very noticeable)
+▪ She looked at him with a marked lack of enthusiasm.
+conspicuous consumption
+COLLOCATIONS FROM CORPUS
+■ ADVERB
+less
+▪ They would be less conspicuous if they walked.
+▪ I always felt that 4 men going out no more than 400 meters would be quieter and less conspicuous.
+▪ But there are other offences, less conspicuous.
+▪ To make the spur less conspicuous, it can be stained brown with a special concrete stain.
+▪ Under these conditions the slight convexity caused by rejuvenation will be quickly rendered even less conspicuous by subsequent river erosion.
+▪ This compensates for the top-lighting. making the animals look flatter and less conspicuous.
+▪ Granulomata themselves were comparatively infrequent, and other histological features characteristic of Crohn's disease were less conspicuous than usual.
+more
+▪ This feature becomes more conspicuous on distal arm segments.
+▪ The small-business component of the local chambers of commerce affiliated with us is even more conspicuous.
+▪ The ventral interradial areas are similar to those of the dorsal side but the scales are usually more conspicuous.
+▪ They flower as a rule above the water surface and, unlike the preceding group, they develop more conspicuous flowers.
+▪ But they are much more conspicuous.
+▪ In fact, it would seem to be quite the reverse: Gaudy males should be more conspicuous to their enemies.
+▪ King's Cross is just one of London's more conspicuous examples of planning and democracy in action.
+▪ We are only at the beginning of a change which became more conspicuous later.
+most
+▪ The most conspicuous battleground in this prolonged conflict over the locus of control was the procedure for placing contracts.
+▪ The most conspicuous feature of the area is the absence of large rivers.
+▪ Among the most conspicuous absentees from the lists of nominees were Ligachev, Medvedev and Yakovlev.
+▪ Perhaps the most conspicuous flaw in reports of ecological apocalypse is lack of information.
+▪ Perhaps the most conspicuous feature of the early 790s, however, was the often uneasy relations between the two rulers.
+▪ What was most conspicuous here was the absence of war, even any hint of war.
+▪ The office has no plans to tackle some of the most conspicuous discriminatory practices against women.
+▪ Perhaps the most conspicuous is the large waggon door.
+so
+▪ The creamy-white leaves are so conspicuous that the flowers hardly show up at all but the fragrance is breath-taking.
+▪ In no direction was the ability of McClellan so conspicuous as in organizing.
+very
+▪ White on tail very conspicuous in flight.
+▪ They seemed very conspicuous, and very beautiful.
+▪ Such fruits have high levels of protein and fat and are not very conspicuous.
+▪ It pays these creatures to be very conspicuous indeed.
+■ NOUN
+absence
+▪ And finally, these statements are characterised by a conspicuous absence of facts to bolster such assertions.
+consumption
+▪ The emergence of stratified societies culminating in states increased conspicuous consumption of precious substances.
+▪ But one can only take just so much wretched excess and conspicuous consumption.
+▪ What better forum for conspicuous consumption than the locker-room or the golf club car-park?
+▪ The creative ones turned their backs on conspicuous consumption and decided in favor of a simpler, personalized lifestyle.
+▪ They're young and poor and the patriarchal culture they inherit and the conspicuous consumption of their contemporaries sanctions their irresponsibility.
+▪ Even so, a significant number of takeover bids were probably no more than a form of corporate conspicuous consumption.
+▪ Similarly, conspicuous consumption or display is now regarded as an acceptable form of behaviour.
+▪ Foreign imports such as colour television sets and hi-fi systems cram shop windows, catering to demands for conspicuous consumption.
+EXAMPLES FROM OTHER ENTRIES
+▪ Cuzco's few tourists are conspicuous as they explore the old cobbled streets.
+▪ Downtown business owners say they want the city's homeless shelter moved to a less conspicuous location.
+▪ It was a small country town, and Lauren looked very conspicuous in her fashionable New York clothes.
+▪ Johnson received a medal for conspicuous gallantry.
+EXAMPLES FROM CORPUS
+▪ A conspicuous, stationary owl is a major target for mobbing.
+▪ I don't want them stabling their mounts here, it'd be too conspicuous.
+▪ If so, this series is unlikely to have been conspicuous after the third quarter of the second century.
+▪ In fact, it would seem to be quite the reverse: Gaudy males should be more conspicuous to their enemies.
+▪ In fact, they are conspicuous by their absence.
+▪ In no direction was the ability of McClellan so conspicuous as in organizing.
+▪ Perhaps the most conspicuous example of this well-intentioned foolishness is the minimum wage.
+▪ They flower as a rule above the water surface and, unlike the preceding group, they develop more conspicuous flowers.

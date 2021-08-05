@@ -15740,3 +15740,8 @@ THESAURUS
 ▪ abhorrence formal a deep feeling of hatred towards something that you think is morally wrong or unpleasant: the abhorrence of terrorism by all decent people
 ▪ contempt a feeling of hate towards someone or something you think does not deserve any respect at all: She looked at him with contempt. | I have nothing but contempt for these people.
 >>>>>>> 61afc66f1753fdc803c582a4d90bcd80cca3d10f
+
+hearts and minds
+phrase of heart
+used in reference to emotional and intellectual support or commitment.
+"a campaign to win the hearts and minds of America's college students"
