@@ -15739,6 +15739,14 @@ THESAURUS
 ▪ abhorrence formal a deep feeling of hatred towards something that you think is morally wrong or unpleasant: the abhorrence of terrorism by all decent people
 ▪ contempt a feeling of hate towards someone or something you think does not deserve any respect at all: She looked at him with contempt. | I have nothing but contempt for these people.
 <<<<<<< HEAD
+>>>>>>> 61afc66f1753fdc803c582a4d90bcd80cca3d10f
+
+hearts and minds
+phrase of heart
+used in reference to emotional and intellectual support or commitment.
+"a campaign to win the hearts and minds of America's college students"
+=======
+<<<<<<< HEAD
 
 solace
 noun
@@ -15873,6 +15881,7 @@ Thesaurus+: ↑Chance and randomness
 • The idea behind the national lottery is to raise money for good causes.
 • Winning the lottery has set them up for life.
 • Statistically speaking, you're more likely to die from a bee sting than win the lottery.
+<<<<<<< HEAD
 
 
 stake
@@ -16483,3 +16492,6 @@ to speak too proudly about what you have done or what you own
 • She's always bragging about how much money she earns.
 • + that They bragged that their team had never been beaten.
 Thesaurus+: ↑Boasting ↑Showing arrogance and conceit
+=======
+>>>>>>> 606615cf01fc9a4f4b615d1f44e00147bc03826b
+>>>>>>> 2c7488674ac304f5c0a609fce2806a8593b035ad
