@@ -15876,13 +15876,625 @@ EXAMPLES FROM CORPUS
 2. only singular disapproving something that depends only on luck and is not fair
 • Education in England is something of a lottery.
 Thesaurus+: ↑Chance and randomness
- 
 • Paul had a dream that he won the lottery.
 • Did Chris tell you about his winning some money in the lottery?
 • The idea behind the national lottery is to raise money for good causes.
 • Winning the lottery has set them up for life.
 • Statistically speaking, you're more likely to die from a bee sting than win the lottery.
+<<<<<<< HEAD
+
+
+stake
+I. stake1 W3 /steɪk/ BrE  AmE  noun
+[Language: Old English; Origin: staca 'sharp post']
+1. at stake if something that you value very much is at stake, you will lose it if a plan or action is not successful:
+ They have to win the contract – thousands of jobs are at stake.
+ National pride is at stake in next week’s game against England.
+2. COMPANY/BUSINESS [countable] if you have a stake in a business, you have ↑invested money in it
+hold/have a stake in something
+ He holds a 51% stake in the firm.
+3. have a stake in something if you have a stake in something, you will get advantages if it is successful, and you feel that you have an important connection with it:
+ Young people don’t feel they have a stake in the country’s future.
+4. MONEY RISKED [countable] money that you risk as the result of a horse race, card game etc:
+ For a dollar stake, you can win up to $1,000,000.
+5. high stakes
+a) if the stakes are high when you are trying to do something, you risk losing a lot or it will be dangerous if you fail:
+ Climbing is a dangerous sport and the stakes are high.
+b) if the stakes are high when you are doing something such as playing a card game, you risk losing a lot of money:
+ We’re playing for high stakes here.
+6. POINTED STICK [countable] a pointed piece of wood, metal etc, especially one that is pushed into the ground to support something or mark a particular place:
+ tent stakes
+ Drive two stakes into the ground about three feet apart.
+7. the stake a post to which a person was tied in former times before being killed by burning:
+ Suspected witches were burnt at the stake.
+8. in the popularity/fashion etc stakes used when saying how popular, fashionable etc someone or something is:
+ Ben wouldn’t score very highly in the popularity stakes.
+9. (be prepared to) go to the stake for/over something British English to be willing to do anything to protect or defend an idea or belief:
+ That’s my opinion, but I wouldn’t go to the stake for it.
+10. pull up stakes (also up stakes British English) informal to leave your job or home:
+ We’re going to pull up stakes and move to Montana.
+II. stake2 BrE  AmE  verb [transitive]
+1. to risk losing something that is valuable or important to you on the result of something
+stake something on somebody/something
+ Kevin is staking his reputation on the success of the project.
+ Jim staked his whole fortune on one card game.
+2. I’d stake my life on it spoken used when saying that you are completely sure that something is true, or that something will happen:
+ I’m sure that’s Jesse – I’d stake my life on it.
+3. (also stake up) to support something with stakes:
+ Young trees have to be staked.
+4. (also stake off) to mark or enclose an area of ground with stakes:
+ A corner of the field has been staked off.
+5. stake (out) a claim to say publicly that you think you have a right to have or own something
+stake (out) a claim to
+ Both countries staked a claim to the islands.
+stake something ↔ out phrasal verb informal
+1. to watch a place secretly and continuously ⇨ stakeout:
+ Police officers have been staking out the warehouse for weeks.
+2. to mark or control a particular area so that you can have it or use it:
+ We went to the show early to stake out a good spot.
+3. to state your opinions about something in a way that shows how your ideas are clearly separate from other people’s ideas:
+ Johnson staked out the differences between himself and the other candidates.
+ 
+ complexity UK  [kəmˈplek.sɪ.ti] US  [-sə.t ̬i] noun
+1. uncountable when something has many parts and may be difficult to understand or find an answer to
+• a problem of great complexity
+Thesaurus+: ↑Complexity ↑Difficult to understand
+2. complexities
+the features of something which make it difficult to understand or find an answer to
+• There are a lot of complexities surrounding this issue.
+Thesaurus+: ↑Complexity ↑Difficult to understand
+From Longman DOCE 5th Ed. (En-En)
+complexity
+com‧plex‧i‧ty AC /kəmˈpleksəti, kəmˈpleksɪti/ BrE  AmE  noun (plural complexities)
+[Word Family: noun: ↑complexity; adjective: ↑complex]
+1. [uncountable] the state of being complicated
+complexity of
+ There is increasing recognition of the complexity of the causes of poverty.
+ a design of great complexity
+2. [countable usually plural] one of the many details or features of something that make it hard to understand or deal with
+complexity of
+ The complexities of economics are clearly explained.
+ 
+  
+CUSTOM
+3. countable a custom or tradition that has existed for a long time and is accepted as an important part of a particular society
+• the venerable institution of marriage
+• figurative Mrs Daly is an institution - she's been with the company 40 years and knows absolutely everyone.
+Thesaurus+: ↑Custom, tradition and conformity
+ 
+START
+4. uncountable when a law, system, etc. begins or is introduced
+• The institution of a Freedom of Information Act has had a significant effect.
+Thesaurus+: ↑Beginnings and starts
+
+subconscious
+I. sub‧con‧scious1 /sʌbˈkɒnʃəs $ -ˈkɑːn-/ BrE  AmE  adjective
+[Word Family: noun: ↑subconscious, ↑unconscious, ↑consciousness, ↑unconsciousness; adverb: ↑subconsciously, ↑consciously ≠ ↑unconsciously; adjective: ↑conscious ≠ ↑unconscious, ↑subconscious]
+subconscious feelings, desires etc are hidden in your mind and affect your behaviour, but you do not know that you have them:
+ a subconscious fear of failure
+—subconsciously adverb:
+ Subconsciously, he blames himself for the accident.
+II. subconscious2 BrE  AmE  noun [singular]
+[Word Family: noun: ↑subconscious, ↑unconscious, ↑consciousness, ↑unconsciousness; adverb: ↑subconsciously, ↑consciously ≠ ↑unconsciously; adjective: ↑conscious ≠ ↑unconscious, ↑subconscious]
+the part of your mind that has thoughts and feelings you do not know about SYN unconscious:
+ anger buried deep in the subconscious
+• • •
+THESAURUS
+▪ mind what you use to think and imagine things: My mind was full of big ideas. | I never know what's going on in her mind. | At the back of my mind I had the funny feeling that I’d met her somewhere before. | The same thoughts kept going through my mind and I couldn’t get to sleep.
+▪ head the place where someone’s mind is – use this especially when talking about the thoughts that are in someone’s mind: I can't get him out of my head. | You need to get it into your head that you've done nothing wrong. | To keep myself calm, I counted to ten in my head. | She’s so quiet – you never quite know what’s going on inside her head (=what she is thinking).
+▪ subconscious the part of your mind that influences the way you think or behave, even though you may not realize this is happening, and which makes you have dreams: She suddenly remembered a traumatic incident that had been buried deep in her subconscious. | During the daytime our conscious minds are active, but during the night the subconscious takes over.
+▪ psyche formal someone’s mind, especially their feelings and attitudes, and the way these influence their character - used especially when talking about people's minds in general: The need for love is deeply buried in our psyche. | Freud has provided an account of the human psyche's stages of development. | The child is simply searching his psyche to find some past event that relates to his new experiences.
+▪ mentality a particular way of thinking that a group of people have, especially one that you think is wrong or bad: I just don't understand the mentality of these people. | They all seem to have a kind of victim mentality, which makes them think that the world is permanently against them.
+▪ the ego technical the part of your mind that gives you your sense of who you are - used especially in Freudian psychology: the rational world of the ego and the irrational world of the unconscious
+
+crux
+noun
+COLLOCATIONS FROM OTHER ENTRIES
+the heart/crux of the matter (=the most important part of something)
+▪ The crux of the matter is: how do we prevent these floods from happening again?
+EXAMPLES FROM OTHER ENTRIES
+▪ Finding a cheap source of energy is really the crux of the matter.
+▪ The crux of the court case is whether consumers deserve a refund.
+▪ Whether we can get funding or not is the crux.
+EXAMPLES FROM CORPUS
+▪ He didn't much care; that was the crux of the matter.
+▪ In the first place, v. 21b is a notorious crux of interpretation.
+▪ The crux of the matter is that attitudes on the character and scope of planning have changed.
+▪ The women kicked off on fairly straight forward F7a, but the last move was the crux.
+
+fright
+fright /fraɪt/ BrE  AmE  noun
+[Word Family: adjective: ↑frightened, ↑frightening, ↑frightful; noun: ↑fright, ↑frighteners; adverb: ↑frighteningly, ↑frightfully; verb: ↑frighten]
+[Language: Old English; Origin: fyrhto]
+1. [singular, uncountable] a sudden feeling of fear:
+ You gave me such a fright creeping up on me like that!
+get/have a fright
+ I got an awful fright when I realised how much money I owed.
+with fright
+ He was shaking with fright.
+in fright
+ Several of the children cried out in fright.
+2. take fright to be very afraid of something, especially so that you run away from it or do not do something that you were going to do:
+ The bird took fright and flew away.
+ She had promised to marry him, but took fright at the last moment.
+3. look a fright old-fashioned to look untidy or unattractive
+⇨ ↑stage fright
+• • •
+THESAURUS
+▪ fear a feeling of being frightened: He was trembling with fear. | Fear of failure should not stop you trying.
+▪ terror a feeling of great fear, because you think that something terrible is about to happen: She let out a scream of pure terror.
+▪ fright a sudden feeling of fear, or a situation that makes you feel this: My body was shaking with fright. | You gave me a fright! | He’s had a bit of fright, that’s all.
+▪ panic a sudden feeling of fear or nervousness that makes you unable to think clearly or behave sensibly: She was in such a panic that she hardly knew what she was doing! | There were scenes of sheer panic immediately following the bomb blast.
+▪ alarm a feeling of fear or worry which shows in your voice or behaviour, because you think something bad might happen: When I mentioned her name, he looked up at me in alarm. | The streets were calm and there was no sign of alarm.
+▪ foreboding /fɔːˈbəʊdɪŋ $ fɔːrˈboʊ-/ a feeling that something bad or unpleasant might happen although there is no obvious reason why it should: She felt the same sense of foreboding she had before her father died.
+▪ phobia /ˈfəʊbiə $ ˈfoʊ-/ a permanent strong unreasonable fear of something: I had a phobia about going to the dentist.
+
+Accounts and stories Thesaurus+ Level 3 (96)
+abridgment noun
+abstract noun 1 short document
+account noun 2 report
+anecdote noun
+another story idiom
+biodata noun
+bodice-ripper noun
+brushstroke noun 2
+case study noun
+catch-all noun
+cautionary tale noun
+cliffhanger noun
+cock-and-bull story noun
+commentary noun 3
+cover story noun
+curriculum vitae noun
+CV noun 1; noun 2
+description noun 1
+distil verb 2 information
+distillation noun
+encapsulate verb
+encapsulation noun
+fable noun
+fairy tale noun
+folk tale noun
+ghost story noun
+handout noun 1 information
+hard-luck story noun
+horror story noun 1; noun 2
+in short idiom
+legend noun 1 story
+legendary adjective 2 from a story
+long and the short of it idiom
+lore noun
+myth noun 1 ancient story
+mythical adjective 1
+mythological adjective
+mythology noun 1 ancient stories
+narrative noun; adjective
+nutshell noun
+one about idiom
+overview noun
+parable noun
+plot noun 1 story
+plot line noun
+poop sheet noun
+portrait noun 2
+potted adjective 3 short form
+profile noun 1 short description
+précis noun; verb
+recap noun
+recapitulation noun
+reminiscence noun 2
+report noun 2 description; noun 3 description
+romance noun 5
+round-up noun 2
+run-down noun 1 report
+running commentary noun
+résumé noun 1; noun 2
+saga noun 1
+scenario noun 2 plan
+shaggy dog story noun
+short story noun
+shorthand for something idiom
+sob story noun
+sob-stuff noun
+story noun 1 description; noun 2 description
+story line noun
+strand noun 2 part
+subplot noun
+sum noun 4 total
+sum somebody up phrasal verb; phrasal verb 2
+sum something up phrasal verb; phrasal verb 2
+sum up phrasal verb
+summarize verb
+summary noun
+summing-up noun
+synopsis noun
+tale noun
+tale of woe idiom
+tall story noun
+thread noun 3 connection; noun 4 connection
+trot through something idiom
+true-life story noun
+write-up noun
+yarn noun 2 story
+ 
+ parable
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ Christ used parables to explain moral questions in a way that people could understand.
+▪ It is a kind of parable for the eighties -- a lesson about the destructiveness of greed.
+▪ the parable of 'The Prodigal Son'
+EXAMPLES FROM CORPUS
+▪ If she had a gift, he thought, it was for parable and double-talk.
+▪ In many ways Alan Bond's demise is a parable of the last 10 years.
+▪ In this, like both Priest and Sister My Sister, it functions as a parable of enlightenment and individualism.
+▪ Instead, he used wit appropriately, as in some of his parables.
+▪ Let me tell you the parable of the Bavarian-cream pies.
+▪ The parables of the kingdom, therefore, are still seen as relevant today by all Christians.
+▪ When the music stopped, Gary concentrated on the parable of the prodigal son.
+
+trade-off
+trade-off UK  [ˈtreɪd.ɒf] US  [-ɑːf] noun
+1. countable a situation in which you balance two opposing situations or qualities
+• There is a trade-off between doing the job accurately and doing it quickly.
+• She said that she'd had to make a trade-off between her job and her family.
+Thesaurus+: ↑Balance and imbalance
+2. countable usually singular a situation in which you accept something bad in order to have something good
+• For some car buyers, lack of space is an acceptable trade-off for a sporty design.
+Thesaurus+: ↑Accepting and agreeing reluctantly ↑Accepting and agreeing ↑Approving and approval
+From Longman DOCE 5th Ed. (En-En)
+trade-off
+ˈtrade-off BrE  AmE  noun [countable]
+a balance between two opposing things, that you are willing to accept in order to achieve something
+a trade-off between something and something
+ There has to be a trade-off between quality and quantity if we want to keep prices low.
+ 
+ crisis
+crisis UK  US  [ˈkraɪ.sɪs] [plural crises] noun [crises]
+
+outcast
+outcast UK  [ˈaʊt.kɑːst] US  [-kæst] noun countable [outcasts]
+a person who has no place in their society or in a particular group, because the society or group refuses to accept them
+• She has spent her life trying to help gypsies, beggars and other social outcasts.
+• She was a political outcast after the Party expelled her in 1982.
+Thesaurus+: ↑Alone ↑Separateness and isolation in space
+outcast
+ / 5aUtkB:st; ?@ -kAst; `aJt9kAst/ n, adj ~ (from...) (person) driven away from home, friends, society, etc; homeless and friendless (person) 被（家庭、朋友、社会等）抛弃的（人）; 既无家又无亲友的（人）: be treated as an outcast 遭到被人赶出似的对待.
+From Longman DOCE5 Extras (En-En)
+outcast
+noun
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+social
+▪ Lepers might be social outcasts, but they were not federal criminals or otherwise without the protection of states' rights.
+▪ But there were enough to constitute an underground community, a clandestine network of social outcasts and émigrés.
+▪ They were in fact social outcasts, to whom documentary references can be found going as far back as the thirteenth century.
+▪ This may lead to the feeling of being a social outcast, depression and hopelessness.
+▪ Smokers today are quite often made to feel like social outcasts by the moral majority.
+▪ On the few occasions she'd spent holidays at home she'd been a social outcast among her contemporaries.
+
+standing
+I. stand‧ing1 /ˈstændɪŋ/ BrE  AmE  adjective [only before noun]
+[Word Family: adjective: ↑standing, ↑outstanding, ↑upstanding; noun: ↑stand, ↑standing; verb: ↑stand; adverb: ↑outstandingly]
+1. permanently agreed or arranged:
+ You have to pay standing charges whether or not you use the service.
+standing invitation (=permission to visit someone whenever you like)
+a standing army (=a professional permanent army)
+ A standing committee was established to coordinate the army and navy.
+2. done from a standing position:
+ The runners set off from a standing start.
+standing ovation (=when people stand up to clap after a performance)
+3. standing joke something that happens often and that people make jokes about:
+ The whole incident became a standing joke between us.
+II. standing2 BrE  AmE  noun [uncountable]
+[Word Family: adjective: ↑standing, ↑outstanding, ↑upstanding; noun: ↑stand, ↑standing; verb: ↑stand; adverb: ↑outstandingly]
+1. someone’s rank or position in a system, organization, society etc, based on what other people think of them:
+ Barb’s work helped to improve her standing with her colleagues.
+standing in
+ The scandal damaged the governor’s standing in the polls.
+of high/low standing
+ a lawyer of high standing
+2. something of five/many etc years’ standing used to show the time during which something such as an agreement has existed:
+ an arrangement of several years’ standing
+ 
+ seam
+seam /siːm/ BrE  AmE  noun [countable]
+[Language: Old English]
+1. a line where two pieces of cloth, leather etc have been stitched together:
+ She was repairing Billy’s trousers, where the seam had come undone.
+ Join the shoulder seams together.
+2. a layer of a mineral under the ground
+seam of coal/iron etc
+3. be coming/falling apart at the seams
+a) if a plan, organization etc is coming apart at the seams, so many things are going wrong with it that it will probably fail:
+ The health service seems to be falling apart at the seams.
+b) if a piece of clothing is coming apart at the seams, the stitches on it are coming unfastened
+4. be bursting/bulging at the seams if a room or building is bursting at the seams, it is so full of people that hardly anyone else can fit into it
+5. a (rich) seam of something a thing, place, or group from which a type of thing can be obtained:
+ The 466-page book is a rich seam of statistical information.
+6. a line where two pieces of metal, wood etc have been joined together
+
+bulge
+bulge UK  US  [bʌldʒ] verb intransitive [bulges bulging bulged]
+to stick out in a round shape
+• Her bags were bulging with shopping.
+Thesaurus+: ↑Protruding and sticking out ↑Becoming bigger ↑Enlarging and inflating
+Derived: bulging
+ 
+noun countable
+1. a curved shape sticking out from the surface of something
+• I wondered what the bulge in her coat pocket was.
+Thesaurus+: ↑Becoming bigger ↑Enlarging and inflating ↑Protruding and sticking out
+2. a sudden increase that soon returns to the usual level
+• There was a bulge in spending in the early part of the year.
+Thesaurus+: ↑Becoming bigger ↑Enlarging and inflating
+From Longman DOCE 5th Ed. (En-En)
+Bulge
+Bulge BrE  AmE 
+⇨ ↑Battle of the Bulge
+bulge
+I. bulge1 /bʌldʒ/ BrE  AmE  noun [countable]
+[Date: 1700-1800; Origin: bouge, bulge 'bag, swelling, hump' (13-19 centuries), from Old French bouge; ⇨ ↑budget1]
+1. a curved mass on the surface of something, usually caused by something under or inside it:
+ The gun made a bulge under his jacket.
+2. a sudden temporary increase in the amount or level of something:
+ a bulge in the birthrate
+—bulgy adjective
+II. bulge2 BrE  AmE  (also bulge out) verb [intransitive]
+to stick out in a rounded shape, especially because something is very full or too tight
+bulge with
+ His pockets were bulging with candy.
+ He fell heavily to the floor, his eyes bulging wide with fear.
+ 
+ frailty
+frailty UK  [ˈfreɪl.ti] US  [-t ̬i] noun
+1. uncountable weakness and lack of health or strength
+• Though ill for most of her life, physical frailty never stopped her from working.
+Thesaurus+: ↑Weakness and vulnerability ↑Not fit and healthy ↑Thin or slender (of people)
+2. countable or uncountable moral weakness
+• Most of the characters in the novel exhibit those common human frailties - ignorance and greed.
+• Tolerant of human frailty in whatever form, she almost never judged people.
+Thesaurus+: ↑Weakness and vulnerability
+frail
+frail UK  US  [freɪl] adjective [frailer frailest]
+weak or unhealthy, or easily damaged, broken or harmed
+• a frail old lady
+• I last saw him just last week and thought how old and frail he looked.
+• the country's frail economy
+Thesaurus+: ↑Weakness and vulnerability ↑Fragile and breakable
+From Longman DOCE 5th Ed. (En-En)
+frailty
+frail‧ty /ˈfreɪlti/ BrE  AmE  noun (plural frailties)
+1. [uncountable] the lack of strength or health SYN weakness
+frailty of
+ the frailty of her thin body
+2. [uncountable and countable] something bad or weak in your character SYN weakness:
+ human frailties
+ 
+ snafu
+snafu US  [snæˈfuː] US informal noun countable [snafus]
+a situation in which nothing has happened as planned
+• The company isn't wholly to blame for the snafu.
+• A single snafu (= serious mistake) by an airline can leave a lasting impression on travelers.
+Thesaurus+: ↑Accidents and disasters ↑Difficult situations and unpleasant experiences ↑Failures
+From Longman DOCE 5th Ed. (En-En)
+snafu
+sna‧fu /snæˈfuː/ BrE  AmE  noun [countable]
+[Date: 1900-2000; Origin: situation normal all fucked up]
+American English informal a situation in which a plan does not happen in the way it should:
+ There were no major snafus.
+ 
+collegiality 
+/kəˌlējēˈalədē/
+Learn to pronounce
+noun
+companionship and cooperation between colleagues who share responsibility.
+"he advised his team of officers to nurture the spirit of collegiality among them"
+
+collegiality (countable and uncountable, plural collegialities)
+collegial atmosphere; working with colleagues in an effective and cooperative manner
+2003, Nigel Bennett, Megan Crawford, Marion Cartwright, Effective Educational Leadership, SAGE, →ISBN, page 248:
+To what extent does collegiality still exist in the management here?
+2010, Laura Empson, Managing the Modern Law Firm: New Challenges, New Perspectives, OUP Oxford, →ISBN, page 213:
+Within a global law firm there is plainly a need for a common culture and collegiality: every lawyer a client deals with anywhere in the world is a representative of the firm and needs to exhibit common values. The teamwork which is critical to a global firm strategy is based on a collegial approach.
+2012, Donald R. Songer, Susan Johnson, C.L. Ostberg, Matthew Wetstein, Law, Ideology, and Collegiality: Judicial Behaviour in the Supreme Court of Canada, McGill-Queen's Press - MQUP, →ISBN, page 153:
+Second, most of the justices suggested that informal norms of collegiality and respect for the opinions of colleagues often resulted in deliberate efforts to find acceptable compromise.
+power and authority that is shared among peers, especially the sharing of collegiate power among Roman Catholic bishops.
+2002, Maureen Sullivan, 101 Questions and Answers on Vatican II, Paulist Press, →ISBN, page 45:
+But collegiality does refer to a kind of sharing of authority between Rome and all the other local churches. Each bishop represents his own local church, and the pope represents the local church of Rome which, by tradition, exercises a primacy of love over all the other local churches and has become the church-of-last-resort in disputed questions.
+2008, Gerard Mannion, The Vision of John Paul II: Assessing His Thought and Influence, Liturgical Press, →ISBN, page 184:
+For all the criticisms of John Paul's practice of collegiality, there is no doubt that he spoke often and highly of its importance. From his very first Urbi et Orbi address, given the day after his election, where he spoke of the “special bond, that is, collegiality” which “binds together the sacred pastors” [..] the collegiality of the bishops was a thread running through his pontificate.
+
+crushee (plural crushees)
+The person on whom one has a crush (infatuation).
+1955, Elizabeth Bergner Hurlock, Adolescent development:
+The crush may be embarrassing to the crushee, but it was found to be such far less frequently than not.
+
+turmoil
+tur‧moil /ˈtɜːmɔɪl $ ˈtɜːr-/ BrE  AmE  noun [singular, uncountable]
+a state of confusion, excitement, or anxiety
+political/emotional/economic/religious etc turmoil
+ the prospect of another week of political turmoil
+in (a) turmoil
+ Ashley gazed at him, her thoughts in turmoil.
+From Oxford Advanced Learners Dictionary 8th Ed.
+turmoil
+tur·moil [turmoil turmoils] BrE [ˈtɜːmɔɪl]  NAmE [ˈtɜːrmɔɪl]  noun uncountable, singular
+a state of great anxiety and confusion
+Syn: ↑confusion
+• emotional/mental/political turmoil
+• His statement threw the court into turmoil.
+• Her mind was in (a) turmoil.
+• She felt much calmer after the turmoil of recent weeks.
+ 
+Word Origin:
+early 16th cent.: of unknown origin.
+ 
+Example Bank:
+• He came to a stop, his thoughts in turmoil.
+• Her emotional life was thrown into turmoil.
+• Her mind was in a state of constant turmoil.
+• The university had been in turmoil over anti-war protests.
+• a turmoil of emotions
+• His mind was in (a) turmoil.
+• His statement threw the court into turmoil.
+• I walked away in a state of mental turmoil.
+• She hid her inner turmoil.
+• The country was hurled into the turmoil of another general election.
+
+mastery
+mastery UK  [ˈmɑː.st ə r.i] US  [ˈmæs.tɚ-] noun uncountable
+ 
+CONTROL
+1. complete control of something
+• her mastery of the situation
+Thesaurus+: ↑Power to control
+ 
+SKILL
+2. If someone has a mastery of something, they are extremely skilled at it
+• her mastery of the violin
+Thesaurus+: ↑Skilled, talented and able
+From Longman DOCE 5th Ed. (En-En)
+mastery
+mas‧ter‧y /ˈmɑːstəri $ ˈmæ-/ BrE  AmE  noun [uncountable]
+1. thorough understanding or great skill
+mastery of
+ She possesses complete technical mastery of her instrument.
+2. complete control or power over someone or something ⇨ master
+mastery of/over
+ humankind’s mastery over the environment
+• • •
+COLLOCATIONS
+■ adjectives
+▪ technical mastery The technical mastery of the musicians is impressive.
+▪ complete/absolute mastery His latest collection shows his complete mastery of painting with oils.
+■ verbs
+▪ have mastery of something She has complete mastery of her instrument.
+▪ show mastery of something The author did not show mastery of psychological theory.
+▪ demonstrate mastery of something (=show mastery of something) During the talk, he demonstrated his mastery of the issues.
+▪ gain/achieve mastery of something He has definitely achieved mastery of this very difficult subject.
+■ phrases
+▪ a sense of mastery (=the feeling that you can do something well ) Suggesting an activity that a child can do adds to the child's sense of mastery.
+
+Epiphany
+noun
+EXAMPLES FROM CORPUS
+▪ Come Epiphany, she had grown too fond of them to take them down.
+▪ Does anyone know what the word Epiphany means?
+▪ He had resolved to begin the communal discernment that he hoped would end the Standing on the Sunday after the Epiphany.
+▪ It's hardly three weeks to Epiphany.
+▪ To return to the question concerning the meaning of Epiphany let me ask another question.
+
+smuggle
+▪ He admitted to smuggling 20 tons of cocaine and pinned Noriega to the shipments.
+use
+▪ Subsequent drug tests revealed the boys had used cocaine, police said.
+▪ According to his affidavit, Angela admitted to him that she had started using cocaine in April 1995.
+PHRASES FROM OTHER ENTRIES
+drug/dope/cocaine etc fiend
+▪ It was bad to see him that way, angry and shivering a little like a dope fiend.
+▪ We pour another glass and vent our spleen on drug barons and dope fiends.
+EXAMPLES FROM CORPUS
+▪ And all of them trained in the same swamps crisscrossed by cocaine cowboys.
+▪ Control over the distribution of cocaine has been settled in the hillside slum communities.
+▪ He stands accused of possessing cocaine and marijuana.
+▪ It was a memorable return for the man who seemed to have ended his career a convicted cocaine user in Naples.
+▪ J., the previous month on drug charges, and that she had fingered Felix as her cocaine facilitator.
+▪ Police raided a hotel room after the two men met there and found traces of cocaine.
+▪ Smuggler swallowed thirty bags of cocaine.
+
+drug
+I. drug1 S2 W1 /drʌɡ/ BrE  AmE  noun [countable]
+[Date: 1300-1400; Language: Old French; Origin: drogue]
+1. an illegal substance such as ↑marijuana or ↑cocaine, which some people take in order to feel happy, relaxed, or excited:
+ A lot of young people start taking drugs at school.
+ She always looks as though she’s on drugs (=taking drugs).
+ Jimi Hendrix died of a drug overdose.
+ 
+ ■ verbs
+▪ take/use drugs I think I took drugs to escape my problems.
+▪ do drugs informal (=take drugs) All my friends were doing drugs.
+▪ be on drugs (=take drugs regularly) It can be very hard to tell if your teenager is on drugs.
+▪ be addicted to drugs/dependent on drugs (=be unable to stop taking drugs) People who are addicted to drugs need help.
+▪ be/get hooked on drugs informal (=be/get addicted) She got hooked on drugs, and ended up homeless.
+▪ experiment with drugs (=try taking drugs) She admitted that she had experimented with drugs.
+▪ come off/get off drugs (=stop taking drugs permanently) It was years before I was able to come off drugs.
+▪ deal (in) drugs (also supply drugs formal) (=sell drugs) He’s in jail for dealing drugs.
+▪ inject drugs (=use a needle to put drugs into your body) People who share equipment for injecting drugs are at risk of contracting HIV.
+▪ be high on drugs (=be experiencing the effects of a drug) He committed the crime while he was high on drugs.
+tweak
+▪ I. tweak UK  US  [twiːk] verb transitive [tweaks tweaking tweaked]
+ 
+PULL
+1. to pull and twist something with a small sudden movement
+• Standing in front of the mirror she tweaked a strand of hair into place.
+Thesaurus+: ↑Pulling
+ 
+CHANGE SLIGHTLY
+2. to change something slightly, especially in order to make it more correct, effective or suitable
+• The software is pretty much there - it just needs a little tweaking.
+• You just need to tweak the last paragraph and then it's done.
+Thesaurus+: ↑Making things better ↑Becoming better
+ 
+▪ II.
+tweak UK  US  noun countable
+• He gave the boy's nose a tweak.
+Thesaurus+: ↑Pulling
+Main entry: tweakderived
+From Longman DOCE 5th Ed. (En-En)
+tweak
+tweak /twiːk/ BrE  AmE  verb [transitive]
+[Language: Old English; Origin: twiccian 'to pull out']
+1. to suddenly pull or twist something:
+ She leant forward and tweaked both ends of his moustache.
+2. to make small changes to a machine, vehicle, or system in order to improve the way it works:
+ Maybe you should tweak a few sentences before you send in the report.
+—tweak noun [countable usually singular]
+
+sore
+I. sore1 S3 /sɔː $ sɔːr/ BrE  AmE  adjective
+[Language: Old English; Origin: sar]
+1. a part of your body that is sore is painful, because of infection or because you have used a muscle too much:
+ I had a sore throat and aching limbs.
+sore from
+ My arms are sore from all the lifting.
+2. sore point/spot/subject (with somebody) something that is likely to make someone upset or angry when you talk about it:
+ Just don’t mention it – it’s always been a sore point with him.
+3. [not before noun] especially American English informal upset, angry, and annoyed, especially because you have not been treated fairly:
+ Mac’s still sore because I didn’t invite him.
+sore at
+ Don’t be sore at me – I just forgot to tell you.
+4. [only before noun] British English used to emphasize how serious, difficult etc something is:
+ Inner city schools are in sore need of extra funds.
+5. sore loser someone who gets angry or upset when they lose a game or competition:
+ Nobody likes a sore loser.
+6. stick/stand out like a sore thumb informal if someone or something sticks out like a sore thumb, they are very noticeable because they are different from everyone or everything else:
+ You stick out like a sore thumb in that uniform.
+⇨ be like a bear with a sore head at ↑bear2(3), ⇨ a sight for sore eyes at ↑sight1(14)
+• • •
+THESAURUS
+■ when a part of your body hurts
+▪ painful used for describing a part of the body that hurts: Her leg is still painful where she broke it. | painful joints | She was suffering from painful stomach cramps.
+▪ tender painful when touched: The skin around the wound is very tender.
+▪ stiff painful and difficult to move: I’ve got a stiff neck. | Her body was stiff from sitting in the car for so long.
+▪ sore painful as a result of a wound, infection, or too much exercise: sore muscles | a sore throat | The wound was sore and red.
+II. sore2 BrE  AmE  noun [countable]
+a painful, often red, place on your body caused by a wound or infection:
+ They were starving and covered with sores.
+⇨ ↑cold sore, ↑bedsore, ⇨ running sore at ↑running2(5)
+
+braggart
+braggart UK  [ˈbræg.ət] US  [-ɚt] old-fashioned disapproving noun countable [braggarts]
+someone who proudly talks a lot about themselves and their achievements or possessions
+Thesaurus+: ↑Boasting ↑Showing arrogance and conceit
+brag
+brag UK  US  [bræg] [-gg-] informal disapproving verb intransitive [bragging bragged brags]
+to speak too proudly about what you have done or what you own
+• She's always bragging about how much money she earns.
+• + that They bragged that their team had never been beaten.
+Thesaurus+: ↑Boasting ↑Showing arrogance and conceit
+=======
 >>>>>>> 606615cf01fc9a4f4b615d1f44e00147bc03826b
+<<<<<<< HEAD
 
 psycho
 noun
@@ -15898,3 +16510,6 @@ psycho
 a person who is mentally ill and who behaves in a very strange violent way
 • In his new film, he plays the part of a crazed psycho.
 • Don't let him drive— he's a complete psycho behind the wheel!
+=======
+>>>>>>> 2c7488674ac304f5c0a609fce2806a8593b035ad
+>>>>>>> 6e5983e796d29cf0f96f701aaa7059853399da65
