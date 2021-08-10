@@ -10275,9 +10275,69 @@ EXAMPLES FROM CORPUS
 ▪ He might be pretentious in other ways, but he was not posing at the keyboard.
 ▪ It may seem pretentious to say so but it is intended in Gramsci's terms as an organic intellectual work.
 ▪ So Princeton looked good for college until I met their pretentious admissions rep.
-=======
-=======
->>>>>>> f16db1fc709f5551fa3e51cfe8412dfbe5c1a2ec
->>>>>>> 606615cf01fc9a4f4b615d1f44e00147bc03826b
->>>>>>> 2c7488674ac304f5c0a609fce2806a8593b035ad
->>>>>>> 6e5983e796d29cf0f96f701aaa7059853399da65
+
+macho
+macho UK  [ˈmætʃ.əʊ] US  [ˈmɑː.tʃoʊ] adjective informal mainly disapproving
+behaving forcefully or showing no emotion in a way traditionally thought to be typical of a man
+• He's too macho to admit he was hurt when his girlfriend left him.
+• I can't stand macho men.
+Thesaurus+: ↑Gender-related attributes ↑Kinds of women ↑Kinds of men
+
+forthright
+forthright UK  [ˈfɔːθ.raɪt] US  [ˈfɔːrθ-] adjective
+(too) honest or direct in behaviour
+• His forthright manner can be mistaken for rudeness.
+• I admire her forthright way of dealing with people.
+Thesaurus+: ↑Blunt and direct in speech and behaviour ↑Not saying much ↑Not being friendly
+Derived: forthrightness
+From Longman DOCE 5th Ed. (En-En)
+forthright
+forth‧right /ˈfɔːθraɪt $ ˈfɔːrθ-/ BrE  AmE  adjective
+direct and honest – used in order to show approval SYN straightforward:
+ She answered in her usual forthright manner.
+ 
+ inexplicable
+in‧ex‧plic‧a‧ble /ˌɪnɪkˈsplɪkəbəl◂ $ ɪnˈeksplɪkəbəl, ˌɪnɪkˈsplɪk-/ BrE  AmE  adjective
+[Word Family: adjective: ↑unexplained, ↑explanatory, ↑explicable ≠ ↑inexplicable; noun: explaining, ↑explanation; verb: ↑explain; adverb: ↑inexplicably]
+too unusual or strange to be explained or understood SYN incomprehensible, strange:
+ inexplicable behaviour
+ For some inexplicable reason, he felt depressed.
+—inexplicably adverb
+• • •
+THESAURUS
+▪ mysterious difficult to explain or understand, and often strange or slightly frightening: the mysterious disappearance of ships in the waters of the Bermuda Triangle | What’s that mysterious noise?
+▪ puzzling difficult to explain or understand: At first this must seem a puzzling question. | I found her attitude deeply puzzling.
+▪ baffling impossible to understand, so that you feel very confused: It was a baffling case. | Like many people, I find theroretical physics baffling.
+▪ inexplicable formal impossible to explain: For some inexplicable reason her mind went completely blank. | Some things in life are inexplicable.
+▪ enigmatic formal mysterious and difficult to understand, but also often attractive or interesting – used especially about people, their expressions, or things they say: She gave him an enigmatic smile. | an enigmatic remark
+▪ cryptic formal having a meaning that is difficult to understand, and is not expressed in a clear direct way – used especially about things that people say or write: I got a rather cryptic message from him. | cryptic comments
+▪ be a mystery if something is a mystery, you cannot understand how or why it happens: Four years later, his death remains a complete mystery. | It’s all a mystery to me.
+▪ be shrouded/veiled in mystery if an event or a situation, especially one that happened a long time ago, is shrouded in mystery, it is mysterious because no one knows exactly what happened: Stone age civilization, veiled in mystery as it is, has provided the greatest challenge to historians.
+
+savvy
+I. sav‧vy1 /ˈsævi/ BrE  AmE  noun [uncountable] informal
+[Date: 1800-1900; Origin: savvy 'to know' (18-21 centuries), from Spanish sabe 'he or she knows', from saber 'to know']
+practical knowledge and ability SYN know-how:
+ He’s obviously got a lot of political savvy.
+II. savvy2 BrE  AmE  adjective American English informal
+someone who is savvy is clever and knows how to deal with situations successfully:
+ savvy consumers
+From Longman DOCE5 Extras (En-En)
+savvy
+I. noun
+EXAMPLES FROM OTHER ENTRIES
+▪ political savvy
+EXAMPLES FROM CORPUS
+▪ His performance with the relatives was a remarkable display of political savvy.
+▪ To be sure, the film offers up some contemporary savvy.
+II. adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ Lisa had become a savvy young woman.
+EXAMPLES FROM CORPUS
+▪ Both companies are founded upon savvy business ideas.
+▪ Brilliant detective work with a little luck tossed in to catch the savvy killer.
+▪ I have to be savvy about seeking out opportunities.
+▪ One part of the need was obvious: Mario was a first-class driver and extraordinarily savvy in development work.
+▪ The networker went on to ask if she could use an employee who was savvy about global marketing.
+▪ This is one of the hottest destinations after work for savvy Downtowners, especially during special events when there is live entertainment.
+▪ You knew he was smart about cars; he was savvy about life too.
