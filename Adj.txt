@@ -9749,6 +9749,7 @@ EXAMPLES FROM CORPUS
 ▪ In no direction was the ability of McClellan so conspicuous as in organizing.
 ▪ Perhaps the most conspicuous example of this well-intentioned foolishness is the minimum wage.
 ▪ They flower as a rule above the water surface and, unlike the preceding group, they develop more conspicuous flowers.
+<<<<<<< HEAD
 
 outlandish
 out‧land‧ish /aʊtˈlændɪʃ/ BrE  AmE  adjective
@@ -9908,3 +9909,537 @@ two-bit
 ˈtwo-bit BrE  AmE  adjective informal
 not at all good or important SYN second-rate:
  She’s just a two-bit movie star.
+=======
+<<<<<<< HEAD
+
+strict
+strict S3 /strɪkt/ BrE  AmE  adjective (comparative stricter, superlative strictest)
+[Date: 1400-1500; Language: Latin; Origin: strictus, past participle of stringere; ⇨ ↑stringent]
+1. expecting people to obey rules or to do what you say OPP lenient:
+ a strict teacher
+strict about
+ This company is very strict about punctuality.
+strict with
+ The Stuarts are very strict with their children.
+2. a strict order or rule is one that must be obeyed:
+ You had strict instructions not to tell anybody.
+ There are strict limits on presidential campaign contributions.
+ He’s under strict orders from his doctor to quit smoking.
+ I’m telling you this in the strictest confidence (=it must be kept completely secret).
+3. [usually before noun] exact and correct, often in a way that seems unreasonable:
+ Amy was attractive, although not beautiful in the strictest sense of the word.
+4. obeying all the rules of a religion or set of principles:
+ He was raised a strict Catholic.
+ a strict vegetarian
+—strictness noun [uncountable]
+• • •
+COLLOCATIONS (for Meaning 2)
+■ nouns
+▪ strict rules/regulations/guidelines There are strict rules and regulations regarding conduct.
+▪ a strict code (=set of rules about what is acceptable) The club has a strict dress code. | Doctors have a strict code of conduct.
+▪ strict limits Many airlines impose strict limits on the weight of baggage.
+▪ strict orders/instructions He’s left strict instructions not to be disturbed.
+▪ strict control There must be strict control of local government spending.
+▪ strict discipline (=rules of behaviour which must be obeyed) The head teacher insists upon strict discipline throughout the school.
+▪ strict requirements Landlords must comply with strict safety requirements.
+▪ strict criteria (=standards that are used for judging someone or making a decision about them) The supermarket’s suppliers must meet strict criteria.
+▪ a strict diet He went on a strict diet and lost a lot of weight.
+■ phrases
+▪ in strict confidence/in the strictest confidence (=kept completely secret) Any information you give will be treated in the strictest confidence.
+• • •
+THESAURUS
+▪ strict expecting people to obey rules or to do what you say – used especially about parents, teachers, or organizations: Our teachers were very strict. | Most schools are quite strict about the way students dress.
+▪ firm showing that you are in control of the situation and will not change your opinion, especially when you are telling someone what to do: You have to be firm with young children. | I’ll be firm with him and tell him he can’t have any more money.
+▪ tough determined that your orders or decisions will be obeyed, especially in order to make sure that a situation improves – used especially when you think that someone is right to be strict: We need a government that is tough on crime. | She can be quite tough with her students, but they respect her for it. | The chancellor has got to be tough and keep government spending down.
+▪ stern strict in a serious, disapproving, and rather unfriendly way: Her grandfather was a stern man who rarely smiled. | Sheila walked into the museum, under the stern gaze of the curator.
+▪ harsh punishing or criticizing someone in a way that seems very severe, often too severe: Don’t be too harsh on her – she’s only a child. | It may seem harsh to punish him, but he has to learn that this kind of behaviour is unacceptable. | Her reaction to the child’s bad behaviour was unnecessarily harsh.
+▪ authoritarian disapproving very strict about forcing people to obey rules or laws, and punishing them very severely if they fail to do this – used about people and governments: Her father was very authoritarian and insisted on total obedience. | an authoritarian government
+■ rule/law/system
+▪ strict a strict order or rule is one that must be obeyed: There are strict rules about keeping tax records. | He had strict instructions to return the key to me.
+▪ tight tight controls or limits are very strict about what is allowed and what is not allowed: The report recommends tighter controls on the advertising of alcohol. | There are tight regulations governing waste disposal.
+▪ tough tough laws or rules are very strict: They want tougher laws against drinking and driving. | The federal government is introducing tough new rules on immigration.
+▪ harsh harsh punishments or laws are very severe, often too severe: There are harsh penalties for drug trafficking. | The government has brought in harsh measures to combat the rioting taking place in many cities.
+▪ stringent controlling what people can do with rules that have very high standards: There are now stringent controls on pollution from all power stations. | stringent new food safety regulations
+From Longman DOCE5 Extras (En-En)
+strict
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+a strict code
+▪ In future we will have to abide by a strict code of environmental standards.
+a strict condition
+▪ The US agreed to give financial aid, with a number of strict conditions.
+a strict criterion (=very exact)
+▪ All the cars must meet strict criteria, and are tested by our mechanics.
+a strict deadline (=a time or date when something must definitely be finished)
+▪ We're working to a very strict deadline.
+a strict diet (=in which you eat a very limited amount or range of food)
+▪ She followed a strict diet for several weeks.
+a strict embargo (=one that must be obeyed)
+▪ The new measures include a strict embargo on fuel.
+a strict limit
+▪ There are strict limits on spending.
+a strict upbringing
+▪ He reacted violently against his strict upbringing.
+clear/strict guidelines
+▪ Today most planning authorities enforce fairly strict guidelines on new houses.
+rigorous/strict scrutiny (=very careful and thorough)
+▪ This system has been subject to rigorous scrutiny.
+severe/strict restrictions
+▪ The regime had put severe restrictions upon the media.
+strict disciplinarian
+▪ Dad was a strict disciplinarian.
+strict discipline (=very firm and not always reasonable or kind)
+▪ Some parents complained about the school's strict discipline.
+strict orders
+▪ They had strict orders not to allow anyone through.
+strict principles
+▪ Rosa is a woman of strict moral principles.
+strict supervision
+▪ Beginners should only attempt these exercises under strict supervision in a gym.
+strict
+▪ They have very strict rules about gambling.
+strict/rigid/slavish adherence
+▪ strict adherence to Judaic law
+strict/stringent/tough
+▪ The regulations surrounding the handling of nuclear waste are very strict.
+strict/tough
+▪ the country’s strict anti-tobacco laws
+stringent/strict/rigorous/tough standards (=high standards that are difficult to reach)
+▪ The Marines’ rigorous standards mean that only a small proportion of applicants are successful.
+tight/strict (=good security, so that something is very safe)
+▪ The event passed off peacefully, amid tight security.
+tough/strict sanctions (=severe)
+▪ Due to strict sanctions, the country is unable to import the medicines it needs.
+
+Wise and sensible Thesaurus+ Level 3 (82)
+a victory for common sense idiom
+better adverb 4
+cannily adverb
+canny adjective 1 clever
+discerning adjective
+discriminating adjective
+discrimination noun 2 seeing a difference
+do as you think best idiom
+down-to-earth adjective
+far-sighted adjective 1 wise
+forward-looking adjective
+gnomic adjective
+grounded adjective 1 sensible
+had best idiom
+hard-headed adjective
+hard-nosed adjective
+have method in your madness idiom
+have your feet on the ground idiom
+have your head screwed on idiom
+healthy adjective 5 normal
+hindsight noun
+it never hurts to do something idiom
+It's easy to be wise after the event idiom
+judicious adjective
+judiciously adverb
+level-headed adjective
+mature adjective 2 like an adult
+neat adjective 4 clever
+neatly adverb 2 clever
+no flies on somebody idiom
+no-nonsense adjective
+old wise head on young shoulders idiom
+Out of the mouths of babes and sucklings idiom
+perspective noun 2 thought
+perspicacious adjective
+perspicacity noun
+politic adjective
+practical adjective 4 effective
+practicality noun 2 effective
+pragmatic adjective
+pragmatically adverb
+pragmatism noun
+pragmatist noun
+prescience noun
+rationally adverb
+realism noun 1 thought
+realist noun 1 thought
+realistic adjective 1
+realistically adverb 1
+reasonable adjective 1
+reasonableness noun
+reasonably adverb 1
+reasoned adjective
+responsibility noun 5 good judgment
+responsible adjective 6 good judgment; adjective 7 good judgment
+responsibly adverb
+right-minded adjective
+sagacious adjective
+sagaciously adverb
+sage adjective
+sagely adverb
+savoir-faire noun
+sense noun 6 good judgment
+sensible adjective 1 good judgment
+sensibly adverb
+shrewd adjective
+shrewdly adverb
+softly-softly adjective
+sound adjective 2 good judgment
+soundness noun 2 good judgment
+steady adjective 4 controlled
+street smarts plural noun
+street-smart adjective
+streetwise adjective
+think on your feet idiom
+thinking adjective 2
+well-advised adjective
+wily adjective
+wisdom noun
+wise adjective 1
+wisely adverb
+
+touchy-feely
+touchy-feely UK  US  [ˌtʌtʃ.iˈfiː.li] informal adjective
+kind and loving, especially by touching and holding people more than is usual, often in a way that makes other people uncomfortable
+• a touchy-feely approach
+• She's one of those touchy-feely people, always putting her hand on your arm while she's talking to you.
+Thesaurus+: ↑Showing affection ↑Touching and feeling
+
+benign
+benign UK  US  [bɪˈnaɪn] adjective
+1. pleasant and kind
+• a benign old lady
+Thesaurus+: ↑Kind and thoughtful
+2. describes a growth that is not likely to cause death
+• a benign tumour
+Compare malignant
+Thesaurus+: ↑Cancer
+Derived: benignly
+From Longman DOCE 5th Ed. (En-En)
+benign
+be‧nign /bɪˈnaɪn/ BrE  AmE  adjective
+[Date: 1300-1400; Language: Old French; Origin: benigne, from Latin benignus, from bene 'well' + gigni 'to be born']
+1. kind and gentle:
+ He shook his head in benign amusement.
+2. a benign ↑tumour (=unnatural growth in the body) is not caused by ↑cancer OPP malignant
+From Longman DOCE5 Extras (En-En)
+benign
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+malignant/benign tumour (=caused by or not caused by cancer)
+COLLOCATIONS FROM CORPUS
+■ ADVERB
+environmentally
+▪ Mr. Trippier My right hon. Friend is not environmentally benign but environmentally friendly.
+▪ They started buying artifacts that they saw as environmentally benign - with remarkable effect.
+
+cerebral
+cerebral UK  US  [ˈser.ɪ.br ə l] adjective
+1. specialized relating to the brain
+Thesaurus+: ↑Logic and reason ↑Relating to particular parts of the body
+2. formal demanding careful reasoning and mental effort rather than feelings
+• She makes cerebral films that deal with important social issues.
+Thesaurus+: ↑Logic and reason ↑Intelligence ↑Perceptive
+From Longman DOCE 5th Ed. (En-En)
+cerebral
+cer‧e‧bral /ˈserəbrəl, ˈserɪbrəl $ səˈriː-, ˈserə-/ BrE  AmE  adjective
+[Date: 1800-1900; Language: French; Origin: cérébral, from Latin cerebrum; CEREBRUM]
+1. [only before noun] medical relating to or affecting your brain:
+ a cerebral haemorrhage (=bleeding in the brain)
+2. having or involving complicated ideas rather than strong emotions:
+ a cerebral film
+From Longman DOCE5 Extras (En-En)
+cerebral
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+cerebral palsy
+COLLOCATIONS FROM CORPUS
+■ NOUN
+blood
+▪ The relief of pain by oxygen inhalations, which reduce cerebral blood flow, also suggests that this is a factor.
+▪ It is commonly due to globally diminished cerebral blood flow, which may be caused by a variety of mechanisms.
+▪ Drinking a caffeine-containing beverage in the morning may help also be-cause caffeine constricts cerebral blood vessels.
+▪ Further, no firm experimental evidence shows that these drugs diminish regional cerebral blood flow in migraineurs.
+▪ The diameter of cerebral blood vessels is regulated by smooth muscles, which, in turn, are controlled by adenosine.
+cortex
+▪ With the collapsed lung and the damaged cerebral cortex?
+▪ But even if the totals were constant across individuals, the subtotals would still vary between different parts of the cerebral cortex.
+▪ The implications of differences in cortical organization go beyond our understanding of the cerebral cortex.
+▪ The major growth of cerebral cortex, as our ancestors became fancier and fancier primates, was sideways.
+▪ The information fed directly into Jonathan's cerebral cortex.
+▪ Does a smart person have more cerebral cortex than an idiot?
+▪ For example, since all mammals have a cerebral cortex we must assume that the ancestral form also had one.
+▪ That seems to activate the cerebral cortex in the parietal lobes more than in the frontal lobes.
+
+III. mys‧tic‧al /ˈmɪstɪkəl/ BrE  AmE  (also mystic) adjective [usually before noun]
+1. involving religious, ↑spiritual, or magical powers that people cannot understand:
+ music’s spiritual and mystical powers
+2. relating to mysticism:
+ a mystic ritual
+—mystically /-kli/ adverb
+From Longman DOCE5 Extras (En-En)
+mystic
+I. noun
+EXAMPLES FROM CORPUS
+▪ Both men were secular mystics who chose to canonise their own tastes.
+▪ Feminist scholars popularized the writings of medieval mystics such as Julian of Norwich and Hildegard of Bingen.
+▪ Study of these meditations therefore also illuminates aspects of the inner journey which all the medieval mystics take for granted.
+▪ Surely not the meaning it would have for a mystic!
+▪ The Essenes are not passive mystics.
+▪ This is not to say that athletes are yogis or mystics.
+▪ Victoria was a fiery mystic, a Stanford graduate who intimately understood the ward politics of San Francisco.
+▪ We have seen that all our mystics stress the importance of attending to the needs of the body.
+
+artsy-fartsy
+arty-farty UK  [ˌɑː.tiˈfɑː.ti] UK (US artsy-fartsy US  [ˌɑːrt.siˈfɑːrt.si]) adjective informal disapproving
+describes someone who tries too hard to make other people admire their artistic knowledge and ability
+• Phil and his arty-farty friends
+Thesaurus+: ↑Affected and insincere
+
+head-in-the-clouds
+adjective
+guided by whim and fancy
+- flighty young girls
+• Syn: ↑flighty, ↑flyaway, ↑scatterbrained
+• Similar to: ↑frivolous
+• Derivationally related forms: ↑flightiness (for: ↑flighty)
+ resourceful
+resourceful UK  [rɪˈzɔː.sf ə l] US  [-ˈsɔːr-] approving adjective
+skilled at solving problems and making decisions on your own
+• She's a very resourceful manager.
+Thesaurus+: ↑Intelligence ↑Perceptive
+Derived: resourcefully
+resourceful
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ Keen competition in the arts, crafts and trade made the Greeks an inventive and resourceful people.
+▪ She's a shrewd, resourceful woman and will certainly be able to cope.
+▪ We can influence our children's development by encouraging them to be resourceful when they play.
+EXAMPLES FROM CORPUS
+▪ A sizeable centre with ancient agricultural traditions, it is a typical example of the resourceful toils of the region.
+▪ Despite his size, Tom Thumb was lucky and resourceful, and used his size to his advantage.
+▪ He is a resourceful, hard-working, genial man.
+▪ He was the most ingenious fisherman, the most resourceful craftsman, and the most competent sailor whom I had ever met.
+▪ I think your highwayman is a cunning and resourceful villain.
+▪ Indeed, Cairenes are among the most resourceful of urban dwellers.
+▪ They were a resourceful and talented people.
+
+flagrant
+fla‧grant /ˈfleɪɡrənt/ BrE  AmE  adjective
+[Date: 1400-1500; Language: Latin; Origin: flagrare 'to burn']
+a flagrant action is shocking because it is done in a way that is easily noticed and shows no respect for laws, truth etc
+flagrant abuse/violation/breach etc
+ flagrant violations of human rights
+ a flagrant disregard for the law
+—flagrantly adverb
+From Longman DOCE5 Extras (En-En)
+flagrant
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+a flagrant/blatant violation (=a very clear violation)
+▪ The act of shooting down a civilian aircraft was a flagrant violation of international law.
+total/reckless/complete/flagrant etc disregard
+▪ Local councillors accused the terrorists of showing a complete disregard for human life.
+COLLOCATIONS FROM CORPUS
+■ ADVERB
+most
+▪ One of the most flagrant abuses in this regard is the widespread practice of multiple recovery surgery ....
+▪ That Tyson chose the most flagrant, revolting and despicable way to cheat says something about the basic character of the man.
+■ NOUN
+abuse
+▪ One of the most flagrant abuses in this regard is the widespread practice of multiple recovery surgery ....
+▪ That is clearly an unauthorised and flagrant abuse of the facilities of this House and an unauthorised use of taxpayers' money.
+breach
+▪ An obvious example would be if it reached a decision in flagrant breach of the rules of natural justice.
+violation
+▪ We must be clear, this shooting of civilian aircraft out of the air was a flagrant violation of international law.
+EXAMPLES FROM OTHER ENTRIES
+▪ Poison gas was used, in flagrant disregard of the Geneva Convention.
+▪ The regime has often been criticized for its flagrant abuses of human rights.
+EXAMPLES FROM CORPUS
+▪ An obvious example would be if it reached a decision in flagrant breach of the rules of natural justice.
+▪ That is clearly an unauthorised and flagrant abuse of the facilities of this House and an unauthorised use of taxpayers' money.
+▪ The only serious incident that has ever occurred involved a clear and flagrant case of product alteration and misuse.
+▪ We must be clear, this shooting of civilian aircraft out of the air was a flagrant violation of international law.
+
+
+EXAMPLES FROM OTHER ENTRIES
+▪ a blatant disregard for public safety
+▪ a blatant lie
+▪ At first I tried ignoring his blatant sexual hints and stares.
+▪ The company's refusal to hire him was a blatant act of discrimination.
+EXAMPLES FROM CORPUS
+▪ But the ballot stuffing was so blatant that even the Labor Department was roused to do something.
+▪ But there is also something dangerously blatant about it.
+▪ It's debatable whether that statement is true or not but it was certainly pretty blatant.
+▪ No one expected Jackson to succeed in such a blatant revival of the Cold War.
+▪ Stripped of brand identity, the blatant potency of advertising imagery is laid bare.
+▪ Technological change, however, is less blatant, more insidious, more gradual and more effective.
+▪ The bad news is that publishers are succumbing more and more often to the most blatant sort of greed.
+▪ We are asked to love and question and take care of our bodies; blatant self-destruction has no place here.
+
+veterinary
+vet‧e‧ri‧na‧ry /ˈvetərənəri, ˈvetərɪnəri $ -neri/ BrE  AmE  adjective [only before noun]
+[Date: 1700-1800; Language: Latin; Origin: veterinarius 'of animals used for carrying loads', from veterinae 'animals used for carrying loads']
+relating to the medical care and treatment of sick animals:
+ veterinary medicine
+From Longman DOCE5 Extras (En-En)
+veterinary
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+geriatric/veterinary/tropical etc medicine (=medical study relating to specific groups or types of illness)
+▪ Advances have been made in veterinary medicine, so that our pets are living longer, healthier lives.
+veterinary surgeon
+COLLOCATIONS FROM CORPUS
+■ NOUN
+medicine
+▪ Harry Wilson, services to veterinary medicine.
+▪ His doctorate is in veterinary medicine.
+▪ It has been traditionally treated with indigenous veterinary medicine.
+nurse
+▪ The glamorous Dawn - his veterinary nurse.
+▪ Why didn't Robert call on his veterinary nurse?
+▪ They like to be in a large practice on the whole with other veterinary nurses.
+
+dumbfounded
+dumbfounded UK  US  [ˌdʌmˈfaʊn.dɪd] (also dumbstruck) adjective
+so shocked that you cannot speak
+• He was dumbfounded by the allegations.
+Thesaurus+: ↑Surprised
+From Longman DOCE 5th Ed. (En-En)
+dumbfounded
+dumb‧found‧ed /dʌmˈfaʊndəd, dʌmˈfaʊndɪd/ BrE  AmE  adjective
+extremely surprised:
+ He was completely dumbfounded by the incident.
+—dumbfound verb [transitive]
+• • •
+THESAURUS
+▪ surprised having the feeling you get when something happens that you did not expect: I was surprised to see her again so soon. | I’m really surprised that he remembered my birthday. | Nobody was surprised when they split up. | a surprised expression
+▪ amazed [not before noun] extremely surprised, especially by something good or by something that seems hard to believe: I’m amazed that he survived. | You’ll be amazed when you see the difference.
+▪ astonished extremely surprised: He was astonished by how much she had changed. | an astonished look
+▪ astounded extremely surprised or shocked. Astounded sounds a little more formal and a little stronger than astonished: She was astounded by how much it cost.
+▪ staggered/flabbergasted/dumbfounded [not before noun] extremely surprised or shocked: ‘What?’ I said, utterly staggered by his answer. | She just sat there looking flabbergasted.
+▪ stunned so surprised that you do not know what to do or say: I was too stunned to protest. | Everyone seemed stunned by his outburst. | They listened in stunned silence.
+▪ speechless so surprised that you cannot speak: I was speechless when I heard that I’d won.
+▪ taken aback [not before noun] surprised by what someone says or does, so that you are not sure how to react: I was a little taken aback by her question. | Sharpe was somewhat taken aback by the girl 's directness.
+▪ nonplussed /nɒnˈplʌst $ nɑːn-/ formal surprised and a little confused: She was nonplussed by such an odd question.
+▪ gobsmacked [not before noun] British English informal extremely surprised – a very informal use: I was absolutely gobsmacked when they told me I had passed.
+
+auspicious
+auspicious UK  [ɔːˈspɪʃ.əs] US  [ɑː-] formal adjective
+suggesting a positive and successful future
+• They won their first match of the season 5-1 which was an auspicious start/beginning.
+• Our first meeting was not auspicious - we had a huge argument.
+Thesaurus+: ↑Potential ↑Hoping and hopefulness
+Derived: auspiciously
+From Longman DOCE 5th Ed. (En-En)
+auspicious
+aus‧pi‧cious /ɔːˈspɪʃəs $ ɒː-/ BrE  AmE  adjective formal
+showing that something is likely to be successful OPP inauspicious
+auspicious start/beginning
+ Saccani’s excellent recording is an auspicious start to what promises to be a distinguished musical career.
+—auspiciously adverb
+From Longman DOCE5 Extras (En-En)
+auspicious
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+an auspicious/inauspicious start (=one that makes it seem likely that something will be good or bad)
+▪ His second term in office has got off to an extremely inauspicious start.
+COLLOCATIONS FROM CORPUS
+■ ADVERB
+most
+▪ Party officials are advising Mr Takeshita to hang on until he can pick the most auspicious moment to hold a double election.
+■ NOUN
+beginning
+▪ It was scarcely an auspicious beginning.
+
+wry
+wry UK  US  [raɪ] adjective before noun [wrier wriest]
+showing that you find a bad or difficult situation slightly funny
+• a wry smile/comment
+Thesaurus+: ↑Humour and humorous
+Derived: wryly
+From Longman DOCE 5th Ed. (En-En)
+wry
+wry /raɪ/ BrE  AmE  adjective [only before noun]
+[Date: 1500-1600; Origin: wry 'to twist' (14-19 centuries), from Old English wrigian 'to turn']
+a wry expression or wry humour shows that you know a situation is bad, but you also think it is slightly amusing:
+ ‘Was it as bad as you expected?’ Travis gave a wry smile.
+—wryly adverb
+From Longman DOCE5 Extras (En-En)
+wry
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+a wry comment (=saying that something is bad in an amusing way)
+▪ ‘Perhaps the food could be improved,’ was the wry comment of one prisoner.
+a wry smilewritten (= when a situation is bad but also amusing)
+▪ Guy’s mouth twisted into a wry smile.
+wry humour (=when someone makes something seem both funny and sad)
+▪ He wrote with wry humour about his time in a Turkish prison.
+COLLOCATIONS FROM CORPUS
+■ NOUN
+face
+▪ Leaning back, he began to reach for the packet of cigars, then made a wry face and changed his mind.
+
+wrestle
+wres‧tle /ˈresəl/ BrE  AmE  verb
+[Language: Old English; Origin: wræstlian, from wræstan; ⇨ ↑wrest]
+1. [intransitive and transitive] to fight someone by holding them and pulling or pushing them
+wrestle with
+ The two men wrestled with each other.
+ Police officers wrestled him to the ground.
+2. [intransitive and transitive] to move something or try to move it when it is large, heavy, or difficult to move
+wrestle with
+ Ray continued to wrestle with the wheel.
+3. wrestle with something to try to understand or find a solution to a difficult problem:
+ I have been wrestling with this problem for quite some time.
+From Longman DOCE5 Extras (En-En)
+wrestle
+verb
+COLLOCATIONS FROM OTHER ENTRIES
+professional wrestling
+wrestle/struggle with your conscience (=struggle to decide whether it is right or wrong do something)
+▪ She wrestled with her conscience for weeks before deciding not to leave him.
+COLLOCATIONS FROM CORPUS
+■ ADVERB
+still
+▪ Others are still wrestling with the decision.
+▪ We dropped the mainsail in time, but Joe and Rex were still wrestling down the foresail when the squall line hit.
+▪ Federal authorities are still wrestling with the question of whether the donation was legal.
+▪ Meanwhile their parents still wrestled with their own past.
+■ NOUN
+ground
+▪ From the corner of her eye she saw the security guards wrestle him to the ground.
+▪ And what if some one actually grabbed hold of my ankle and wrestled me to the ground?
+▪ The pack leader grabbed the first policeman from behind and wrestled him to the ground, knocking his revolver from his grip.
+▪ He and Kyle loved to rough-house together; rolling and wrestling on the ground.
+issue
+▪ Federal officials also are wrestling with the issue.
+▪ There Polly found other women wrestling with similar issues in their jobs.
+▪ But while Congress has wrestled with that issue, there has been only piecemeal deregulation.
+problem
+▪ In the meantime, an owner who wishes to move and sell his property has to wrestle with the problem of blight.
+▪ Some people wrestle with their problems until the very last minutes of their waking hours.
+▪ Lewes drove them hard, but when not training he was wrestling with a different problem.
+▪ Performance indicators are becoming more sophisticated as managers wrestle with the problems of choosing and monitoring appropriate measures of quality and effectiveness.
+▪ The nation still has not seriously wrestled with the problems of the homeless.
+▪ The Labour Party wrestled with the problem by linking demands for disarmament with plans for legislation guaranteeing the Right to Work.
+▪ Their Technical and Mathematical concepts begin as they wrestle with the problem of size and shape at the woodwork and glueing tables.
+
+pretentious
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ a pretentious movie
+▪ He has a pretentious style of writing, using four very difficult words where one simple one would do.
+▪ I found Susie unbearably pretentious.
+▪ The restaurant is stuffy, pretentious, and ridiculously expensive.
+EXAMPLES FROM CORPUS
+▪ Although the decor may be quite formal, there is nothing pretentious about the food, which is down-home wonderful.
+▪ Bangers and mash is better than pretentious nouvellecuisine, though you can probably be a little more original!
+▪ He complained that my titles were vague and pretentious, and smelt of the blue-stocking.
+▪ He might be pretentious in other ways, but he was not posing at the keyboard.
+▪ It may seem pretentious to say so but it is intended in Gramsci's terms as an organic intellectual work.
+▪ So Princeton looked good for college until I met their pretentious admissions rep.
+=======
+=======
+>>>>>>> f16db1fc709f5551fa3e51cfe8412dfbe5c1a2ec
+>>>>>>> 606615cf01fc9a4f4b615d1f44e00147bc03826b
+>>>>>>> 2c7488674ac304f5c0a609fce2806a8593b035ad
+>>>>>>> 6e5983e796d29cf0f96f701aaa7059853399da65
+>>>>>>> 01bd1cc98067a752d451430c1a0bc1812aa5af95

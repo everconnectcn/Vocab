@@ -16492,6 +16492,7 @@ to speak too proudly about what you have done or what you own
 • She's always bragging about how much money she earns.
 • + that They bragged that their team had never been beaten.
 Thesaurus+: ↑Boasting ↑Showing arrogance and conceit
+<<<<<<< HEAD
 
 makeup (usually uncountable, plural makeups)
 (uncountable) An item's composition.
@@ -17294,3 +17295,26 @@ to make a ↑cassette, ↑video, or ↑CD be exactly in the position you want it
 
  / 5dV\:zI; `dV[zI/ n (pl ~s) 
  (also jumper, pullover, sweater) [C] close-fitting knitted (esp woollen) garment without fastenings, usu worn over a shirt or blouse 针织（尤指毛织）紧身套衫（通常穿在衬衣外面）: a thick green jersey 厚的绿色套头毛衣. 
+=======
+=======
+>>>>>>> 606615cf01fc9a4f4b615d1f44e00147bc03826b
+<<<<<<< HEAD
+
+psycho
+noun
+EXAMPLES FROM CORPUS
+▪ All his posse friends were psychos, deranged misfits who were cruel for kicks.
+▪ Flesh-eating psycho played by Sir Anthony Hopkins is back in a slick, camp sequel.
+▪ For all I knew she might have been a psycho or a girl with a little blackmail on her mind.
+▪ These two raccoon-eyed psychos have lost none of their no-holds-barred energy or their penchant for writing catchy melodies.
+▪ When the psycho is caught, then let go on a technicality, Mom takes matters into her own hands.
+From Oxford Advanced Learners Dictionary 8th Ed.
+psycho
+▪ I. psy·cho [psycho psychos] BrE [ˈsaɪkəʊ]  NAmE [ˈsaɪkoʊ]  noun (pl. psy·chos)(informal)
+a person who is mentally ill and who behaves in a very strange violent way
+• In his new film, he plays the part of a crazed psycho.
+• Don't let him drive— he's a complete psycho behind the wheel!
+=======
+>>>>>>> 2c7488674ac304f5c0a609fce2806a8593b035ad
+>>>>>>> 6e5983e796d29cf0f96f701aaa7059853399da65
+>>>>>>> 01bd1cc98067a752d451430c1a0bc1812aa5af95

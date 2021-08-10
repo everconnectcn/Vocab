@@ -10594,6 +10594,7 @@ cock something ↔ up phrasal verb British English informal not polite
 to spoil something by making a stupid mistake or doing it badly:
 His secretary cocked up his travelling schedule and he’s furious about it.
 ⇨ ↑cock-up
+<<<<<<< HEAD
 
 oneness
 one‧ness /ˈwʌnnəs, ˈwʌnnɪs/ BrE  AmE  noun [uncountable]
@@ -10891,3 +10892,710 @@ to praise someone and be friendly to them in an insincere way, because you want 
 fawn on/over
  I refused to fawn over her or flatter her.
 —fawning adjective
+=======
+=======
+>>>>>>> 606615cf01fc9a4f4b615d1f44e00147bc03826b
+<<<<<<< HEAD
+
+
+skew
+skew /skjuː/ BrE  AmE  verb [transitive]
+[Date: 1300-1400; Language: Old North French; Origin: escuer 'to avoid']
+1. if something skews the results of a test etc, it affects them, making them incorrect:
+ All the people we questioned lived in the same area, which had the effect of skewing the figures.
+2. to affect or influence someone’s ideas, actions, or judgment, especially in a way that makes the ideas etc not correct or fair:
+ These assumptions about Communism skewed American foreign policy for decades.
+From Longman DOCE5 Extras (En-En)
+skew
+verb
+EXAMPLES FROM OTHER ENTRIES
+▪ Some samples were handled improperly, which could have skewed the results.
+EXAMPLES FROM CORPUS
+▪ As 1968 dawned and events accelerated Jones's politics began to skew from those of his co-founders.
+▪ For one thing, especially if the sample is relatively small, unlikely events can skew the sample.
+▪ He said evidence was stored and handled improperly, potentially skewing results.
+▪ Is television scaring our kids, engendering violent behavior, skewing their morals and generally eroding the aesthetic standards of Western civilization?
+▪ Nationalist politics often favor local companies over outside media giants, skewing competition for new licenses.
+▪ Politics can often skew decisions that should be taken on their merits.
+▪ The insurance aspects of Social Security also skew the returns.
+▪ We feel that this may skew any long-term investment planning for sport.
+
+fondle UK  [ˈfɒn.dl ̩] US  [ˈfɑːn-] verb transitive [fondles fondling fondled]
+to touch gently and in a loving way, or to touch in a sexual way
+• She fondled the puppies.
+• He gently fondled the baby's feet.
+• She accused him of fondling her (= touching her in a sexual way) in the back of a taxi.
+Thesaurus+: ↑Sexual activity in general ↑Physical and sexual assault and abduction ↑Showing affection ↑Touching and feeling
+From Longman DOCE 5th Ed. (En-En)
+fondle
+fon‧dle /ˈfɒndl $ ˈfɑːndl/ BrE  AmE  verb [transitive]
+[Date: 1600-1700; Origin: fond 'to love too much' (16-17 centuries), from ⇨ ↑fond]
+to gently touch and move your fingers over part of someone’s body in a way that shows love or sexual desire:
+ She fondled his neck.
+• • •
+THESAURUS
+■ touch somebody gently or lovingly
+▪ stroke to move your hand gently over something, especially in a loving way: She stroked the child’s hair. | Our cat won’t let people stroke him.
+▪ pat to touch an animal or child lightly several times, with your hand flat: He knelt down to pat the dog. | She patted the little boy’s head.
+▪ pet to touch and move your hand gently over someone, especially an animal or child: The goats, pigs, sheep, and cows here allow you to pet them.
+▪ caress /kəˈres/ to gently touch a part of someone’s body in a loving way: a mother caressing her child | She caressed his cheek.
+▪ fondle to touch a part of someone’s body in a loving or sexual way – use this especially about touching someone in a sexual way that is not wanted: He tried to fondle her and she immediately pulled away from him.
+
+ramp up
+ramp something ↔ up phrasal verb (see also ↑ramp)
+1. to try to persuade people that a company’s ↑shares are worth more than they really are:
+ To ramp up a share price during a takeover bid is unacceptable.
+2. if a company ramps up an activity, it increases it:
+ Producers can quickly ramp up production.
+—ramp-up noun [countable usually singular]
+
+normative
+nor‧ma‧tive /ˈnɔːmətɪv $ ˈnɔːr-/ BrE  AmE  adjective formal
+describing or establishing a set of rules or standards of behaviour:
+ normative guidelines for senators
+From Longman DOCE5 Extras (En-En)
+normative
+adjective
+EXAMPLES FROM CORPUS
+▪ An ideology is simply the elevation of a particular set of perceptions, assumptions, and analyses to a normative belief system.
+▪ Christians may hold very different positions as to how far it is normative.
+▪ It need not, therefore, be related to any act performed in the belief that it has normative consequences.
+▪ Moreover, that history and that revelation to which Christians necessarily make reference are in some sense normative for the religion.
+▪ Of themselves, of course, the rules are normative, and their validity is thus unaffected by issues of fact.
+▪ Political theory is the source of many of the normative knowledge claims produced by political scientists.
+▪ The position that you select is an element of your normative political knowledge-your value judgments.
+▪ While Aristotle's scheme is founded on normative grounds, Finer's scheme is derived empirically.
+
+enact
+enact UK  US  [ɪˈnækt] verb [enacts enacting enacted]
+ 
+MAKE LAW
+1. transitive often passive specialized to put something into action, especially to change something into a law
+• A package of economic sanctions is to be enacted against the country.
+Thesaurus+: ↑Legislation and law-making
+ 
+PERFORM
+2. transitive formal to perform a story or play
+• The stories are enacted using music, dance and mime.
+Thesaurus+: ↑Acting, rehearsing and performing
+Derived: enactment
+From Longman DOCE 5th Ed. (En-En)
+enact
+en‧act /ɪˈnækt/ BrE  AmE  verb [transitive]
+1. formal to act in a play, story etc:
+ a drama enacted on a darkened stage
+2. law to make a proposal into a law:
+ Congress refused to enact the bill.
+—enactment noun [uncountable and countable]
+From Longman DOCE5 Extras (En-En)
+enact
+verb
+COLLOCATIONS FROM OTHER ENTRIES
+enact legislationformal (= make it into a law)
+▪ Much legislation has been enacted to control pollution.
+COLLOCATIONS FROM CORPUS
+■ ADVERB
+recently
+▪ Several major law firms have recently enacted codes of conduct to delineate appropriate behavior and to ward off official complaints.
+▪ Congress recently enacted restrictions on such lawsuits, over the veto of President Clinton.
+■ NOUN
+act
+▪ Thus the 1893 Act remained largely in the form in which it was originally enacted.
+▪ In 1902 the Conservatives enacted an important Education Act.
+congress
+▪ In the wake of the Wall Street Crash Congress enacted a plethora of legislation aimed at ensuring fair and orderly markets.
+▪ By 1917 all the pieces needed for Congress to enact legislation regarding leprosy were set in place.
+government
+▪ The leader then forms a government that proceeds to enact its program into law.
+law
+▪ It is the function of the courts to administer the laws which Parliament has enacted.
+▪ Several major law firms have recently enacted codes of conduct to delineate appropriate behavior and to ward off official complaints.
+▪ New laws have been enacted to protect women's rights.
+▪ Much fund-raising today is in violation of one or more of the many campaign finance laws enacted by Congress since 1883.
+▪ Those laws which are enacted by Parliament are known as statutory laws or legislation.
+▪ It was a law enacted in 1907 that forbade political contributions from corporate funds.
+▪ The Basic Law will still be enacted, promising a panoply of rights and freedoms for 50 years beyond 1997.
+▪ When most criminal abortion laws were first enacted, the procedure was a hazardous one for the woman.
+legislation
+▪ In the wake of the Wall Street Crash Congress enacted a plethora of legislation aimed at ensuring fair and orderly markets.
+▪ Each sovereign state has enacted legislation establishing national parks, scientific or scenic reserves and wilderness areas.
+▪ Last month, we enacted legislation to allow civil marriage ceremonies for domestic partners in San Francisco.
+▪ Northern states did not enact legislation prohibiting discussion of slavery, but mob violence often awaited antislavery spokesmen.
+▪ He knows Clinton will not propose and Congress will not enact legislation to seriously weaken provisions of the new law.
+▪ By 1917 all the pieces needed for Congress to enact legislation regarding leprosy were set in place.
+▪ States in these areas began enacting legislation to prevent the entry of free blacks within their borders.
+
+An anti-boycott, counter-boycott or buycott is the excess buying of a particular brand or product in an attempt to counter a boycott of the same brand or product. Anti-boycott measures could also be in the form of laws and regulations adopted by a state to prohibit the act of boycott among its citizens.
+
+
+bootstraps
+boot‧straps /ˈbuːtstræps/ BrE  AmE  noun [plural]
+[Date: 1900-2000; Origin: bootstrap 'piece of leather or cloth attached to the back of a boot to make it easier to pull on' (19-20 centuries)]
+pull/haul yourself up by your bootstraps to improve your position and get out of a difficult situation by your own efforts, without help from other people
+
+penalize
+penalize, UK usually penalise UK  US  [ˈpiː.nə.laɪz] verb transitive [penalizes penalizing penalized]
+ 
+CAUSE DISADVANTAGE
+1. to cause someone a disadvantage
+• The present tax system penalizes poor people.
+• The scheme should ensure that borrowers are not penalized by sudden rises in mortgage rates.
+Thesaurus+: ↑Advantage and disadvantage
+ 
+PUNISH
+2. to punish someone for breaking a rule
+• He was penalized early in the match for dangerous play.
+Thesaurus+: ↑Punishing and punishments ↑Punishing by causing pain ↑Hitting and beating
+From Longman DOCE 5th Ed. (En-En)
+penalize
+pe‧nal‧ize BrE  AmE  (also penalise British English) /ˈpiːnəl-aɪz $ ˈpiː-, ˈpe-/ verb [transitive]
+1. to punish someone or treat them unfairly
+penalize somebody for (doing) something
+ Two students were penalized very differently for the same offence.
+ Women feel professionally penalized for taking time off to raise children.
+2. to punish a team or player in sports by giving an advantage to the other team:
+ The team was penalized for wasting time.
+ 
+ trip over (someone or something)
+1. To trip or stumble and almost fall as a result of bumping into someone or something with one's feet.
+I tripped over a box someone had set down in the hallway.
+She tripped over the people sleeping on the living room floor as she made her way to the kitchen.
+2. To push and shove other people out of the way, as to get some place or in order to do something.
+People were tripping over each other to get their pictures taken with the famous actor.
+The kids tripped over each other to get into the ice cream parlor.
+3. To have difficulty saying something clearly or correctly; to stutter or stammer while trying to say something.
+The actors tripped over their lines and talked over each other constantly. They really needed more time to rehearse.
+He tried asking her on a date, but he was so nervous that he kept tripping over his words.
+See also: over, trip
+trip2 BrE  AmE  verb (past tense and past participle tripped, present participle tripping)
+[Date: 1300-1400; Language: Old French; Origin: triper]
+1. FALL (also trip up) [intransitive] to hit something with your foot by accident so that you fall or almost fall SYN stumble:
+ He tripped and fell.
+trip over
+ Clary tripped over a cable and broke his foot.
+trip on
+ He tripped on the bottom step.
+2. MAKE SOMEBODY FALL (also trip up) [transitive] to make someone fall by putting your foot in front of them when they are moving:
+ Baggio was tripped inside the penalty area.
+3. SWITCH ON [transitive] to switch on a piece of electrical equipment by accident:
+ An intruder had tripped the alarm.
+4. WALK/DANCE [intransitive always + adverb/preposition] literary to walk, run, or dance with quick light steps:
+ a little girl tripping down the lane
+5. trip off the tongue to be easy to say or pronounce:
+ Monofluorophosphate! It doesn’t exactly trip off the tongue, does it?
+6. DRUG (also trip out) [intransitive] informal to experience the mental effects of a drug such as ↑LSD:
+ They must have been tripping.
+7. trip the light fantastic to dance – used humorously
+trip up phrasal verb
+1. to make a mistake, or to force someone to make a mistake by tricking them:
+ On his latest album, Kowalski trips up attempting more modern songs.
+trip somebody ↔ up
+ an attempt to trip up the Prime Minister on policy issues
+2. to hit something with your foot so that you fall, or to make someone do this
+trip somebody ↔ up
+ He chased the thief, tripped him up, and grabbed the camera.
+ 
+ think out
+think something ↔ out phrasal verb (see also ↑think)
+to think about all the parts of something carefully before deciding or planning exactly what to do:
+ He went for a walk to think things out.
+ The proposal needs to be carefully thought out.
+think out what/how/whether etc
+ She had thought out what she was going to say.
+ 
+ unearth
+unearth UK  [ʌnˈɜːθ] US  [-ˈɝːθ] verb transitive [unearths unearthing unearthed]
+1. to discover something in the ground
+• Building at the site was halted after human remains were unearthed earlier this month.
+Thesaurus+: ↑Archaeology ↑Finding and discovering ↑Digging
+2. to discover proof or some other information, especially after careful searching
+• A private detective has apparently unearthed some fresh evidence.
+Thesaurus+: ↑Finding and discovering
+From Longman DOCE 5th Ed. (En-En)
+unearth
+un‧earth /ʌnˈɜːθ $ -ˈɜːrθ/ BrE  AmE  verb [transitive]
+[Word Family: noun: ↑earth, ↑earthling, ↑earthiness; adjective: ↑earthy, ↑earthly ≠ ↑unearthly, ↑earthen; verb: ↑unearth; adverb: earthward(s)]
+1. to find something after searching for it, especially something that has been buried in the ground or lost for a long time:
+ Farmers still sometimes unearth human bones here.
+ ▪ find to get or see something that you have been searching for: Have you found your passport yet? | Police later found the car abandoned in a wood.
+▪ discover to find something that was hidden or that people did not know about before: A second bomb has been discovered in south London.
+▪ locate formal to find the exact position of something: The airline are still trying to locate my luggage. | Online maps make it easy to locate almost any place in the world.
+▪ come across something to find something unexpectedly when you are not looking for it: I came across some old letters from my father in my drawer.
+▪ stumble on/across something to find something unexpectedly, especially something very important: They may have stumbled across some vital evidence. | Completely by chance we had stumbled on the biggest hit of the year.
+▪ trace to find someone or something that has disappeared, especially by a careful process of collecting information: She had given up all hope of tracing her missing daughter.
+▪ track somebody/something down to find someone or something that is difficult to find by searching in different places: I’ve been trying to track down a book that’s out of print. | The police managed to track down the killer.
+▪ unearth to find something that has been hidden or lost for a long time, by digging or searching for it: In 1796, a carved stone was unearthed near the burial mound.
+ In one shop, I unearthed a wonderful collection of 1920s toys.
+2. to find information or the truth about something or someone SYN dig up:
+ The inquiry unearthed some disturbing evidence.
+ 
+ coax
+coax UK  [kəʊks] US  [koʊks] verb transitive [coaxes coaxing coaxed]
+to persuade someone gently to do something or go somewhere, by being kind and patient, or by appearing to be
+• Perhaps you could coax your father into taking you to the station.
+• He has some information I want, so I'm going to try to coax it out of him over a drink.
+• A mother was coaxing her reluctant child into the water.
+• a coaxing voice
+Thesaurus+: ↑Urging and persuading ↑Causing somebody to act
+Derived: coaxing ▪ coaxingly
+From Longman DOCE 5th Ed. (En-En)
+coax
+coax /kəʊks $ koʊks/ BrE  AmE  verb [transitive]
+[Date: 1500-1600; Origin: cokes 'stupid person' (16-17 centuries)]
+1. to persuade someone to do something that they do not want to do by talking to them in a kind, gentle, and patient way:
+ ‘Please, Vic, come with us,’ Nancy coaxed.
+coax somebody into/out of (doing) something
+ We had to coax Alan into going to school.
+coax somebody to do something
+ We watched the bear coax its cubs to enter the water.
+coax somebody down/out/back etc
+ Firefighters managed to coax the man down from the roof.
+2. to make something such as a machine do something by dealing with it in a slow, patient, and careful way
+coax something out of/from/into etc something
+ He coaxed a fire out of some dry grass and twigs.
+ The driver coaxed his bus through the snow.
+—coaxing noun [uncountable]:
+ She needs a bit of gentle coaxing.
+—coaxingly adverb
+• • •
+THESAURUS
+▪ persuade to make someone decide to do something, especially by giving them reasons why they should do it, or asking them many times to do it: I persuaded her to change her mind. | Do you think you can persuade him to lend us the money?
+▪ talk somebody into (doing) something to persuade someone to do something, especially something they do not really want to do: Why did I let you talk me into this? | He finally talked her into going on a date with him.
+▪ get somebody to do something to make someone do something by persuading or asking them: If we can’t get a taxi I’ll get Joe to pick us up. | I know how to get you to kiss me.
+▪ convince to persuade someone that they should do something, because it is the best or the right thing to do. Some British speakers think this use is incorrect, and prefer to use persuade: It would be difficult to convince him to move.
+▪ encourage to try to persuade someone to do something, especially because you think it will be good for them: Children should be encouraged to read all kinds of books.
+▪ influence to have an effect on what someone decides to do: What influences you to buy clothes?
+▪ coax to persuade someone to do something by talking gently and kindly: I tried to coax him to eat a little.
+▪ cajole /kəˈdʒəʊl $ -ˈdʒoʊl/ to persuade someone to do something by praising them or making promises to them: He hoped to cajole her into selling her house.
+▪ put somebody up to something to persuade or encourage someone to do something wrong or stupid: Who put you up to this?
+▪ dissuade formal to persuade someone not to do something: How do you dissuade young people from experimenting with drugs?
+coax something out of/from somebody phrasal verb
+to persuade someone to tell you something or give you something:
+ I managed to coax some money out of Dad.
+ 
+ suited
+suited UK  [ˈs j uː.tɪd] US  [ˈsuː.ɪd] adjective
+1. right for someone or something
+• With her qualifications and experience, she would seem to be ideally suited to/for the job.
+Thesaurus+: ↑Suitable and acceptable ↑Quite good, or not very good
+2. If two people who have a relationship are suited, they have a good relationship which will probably last, often because they share a lot of interests
+• They were never suited (to each other) from the start - they've got nothing in common.
+Thesaurus+: ↑Suitable and acceptable ↑Quite good, or not very good
+
+borne
+I. borne1 /bɔːn $ bɔːrn/ BrE  AmE 
+the past participle of ↑bear
+II. borne2 BrE  AmE  adjective
+1. water-borne/sea-borne/air-borne etc carried by water, the sea, air etc:
+ water-borne diseases
+2. be borne in on/upon somebody if a fact is borne in on someone, they realize that it is true
+
+2. can’t bear something spoken
+a) to be so upset about something that you feel unable to accept it or let it happen SYN can’t stand:
+ Please don’t leave me. I couldn’t bear it.
+can’t bear the thought of (doing) something
+ I just can’t bear the thought of having to start all over.
+can’t bear to do something
+ I can’t bear to see her cry.
+can’t bear doing something
+ I couldn’t bear not seeing him again.
+b) to dislike something or someone very much, often so that they make you feel annoyed or impatient SYN can’t stand:
+ Oh, I really can’t bear him.
+can’t bear somebody doing something
+ He can’t bear people smoking while he’s eating.
+can’t bear doing something
+ I can’t bear being cold.
+3. bear (something) in mind to remember a fact or piece of information that is important or could be useful in the future SYN keep (something) in mind
+bear in mind (that)
+ Bear in mind that some children will need help.
+4. ACCEPT/BE RESPONSIBLE FOR formal to be responsible for or accept something
+bear the costs/burden
+ Each company will bear half the costs of development.
+ Fares have gone up, perhaps to more than the market will bear.
+bear the responsibility/blame etc
+ Developed countries bear much of the responsibility for environmental problems.
+5. SUPPORT to be under something and support it SYN hold:
+ My leg was painful, and I wasn’t sure it would bear my weight.
+ a tray bearing a bottle and several glasses
+ a load-bearing wall
+6. SIGN/MARK formal to have or show a sign, mark, or particular appearance, especially when this shows that something has happened or is true SYN have:
+ The letter bore no signature.
+ a car bearing diplomatic license plates
+ The labels bear a yellow and black symbol.
+ The town still bears the scars of the bombings during the war.
+ The store bears the hallmarks (=it has the qualities) of a family-owned business.
+7. bear a resemblance/relation to somebody/something to be similar to someone or something else:
+ The child bore a striking resemblance to his father.
+ The things she says bear little relation to what she actually does.
+8. BABY formal to give birth to a baby:
+ She might never be able to bear children.
+bear somebody a child/son/daughter
+ She bore him three sons.
+ 
+ solidify
+solidify UK  US  [səˈlɪd.ɪ.faɪ] verb intransitive or transitive [solidifies solidifying solidified]
+ 
+NOT LIQUID/GAS
+1. to change from being a liquid or gas to a solid form, or to make something do this
+• Molten volcanic lava solidifies as it cools.
+• The chemical reaction solidifies the resin.
+Thesaurus+: ↑Physical and chemical processes
+ 
+CERTAIN
+2. to become or make something become certain
+• He solidified his commitment to the treaty, giving a forceful speech in favour of it.
+• Support for the policy is solidifying.
+Thesaurus+: ↑Becoming and making stronger
+Derived: solidification
+From Longman DOCE 5th Ed. (En-En)
+solidify
+so‧lid‧i‧fy /səˈlɪdəfaɪ, səˈlɪdɪfaɪ/ BrE  AmE  verb (past tense and past participle solidified, present participle solidifying, third person singular solidifies)
+[Word Family: noun: ↑solid, ↑solidarity, ↑solidity, solids, ↑solidification; verb: ↑solidify; adverb: ↑solidly; adjective: ↑solid]
+1. [intransitive and transitive] to become solid or make something solid:
+ The volcanic lava solidifies as it cools.
+ solidified cream
+2. [transitive] to make an agreement, plan, attitude etc more definite and less likely to change SYN strengthen:
+ The two countries signed a treaty to solidify their alliance.
+—solidification /səˌlɪdəfəˈkeɪʃən, səˌlɪdɪfəˈkeɪʃən/ noun [uncountable]
+From Longman DOCE5 Extras (En-En)
+solidify
+verb
+EXAMPLES FROM OTHER ENTRIES
+▪ As the lava flowed down the volcano it solidified, forming strange shapes.
+▪ Remove any solidified fat from the top of the soup.
+▪ This is the play that solidified William's reputation as a leading playwright.
+▪ Tools are made by pouring liquid metal into a mould and allowing it to cool and solidify.
+EXAMPLES FROM CORPUS
+▪ All other materials contract when they solidify.
+▪ As it cools, over the years, the magma slowly solidifies and forms crystals.
+▪ But what about those lavas that solidify into one homogeneous lump, without crystallizing?
+▪ In addition, putting Kirk Scrafford in as a starter at tackle will solidify the line.
+▪ McMullen, expected to solidify third base for the Dodgers, loses the job to rookie Ron Cey.
+▪ Now, six months after the Gulf crisis began, it is as though the world has solidified again.
+▪ The last major product launch two years ago really solidified a couple of new markets for us.
+▪ The propaganda served only to solidify opinion, not to change minds.
+
+I. tap2 BrE  AmE  verb (past tense and past participle tapped, present participle tapping)
+[Sense 1-2, 8-10: Date: 1100-1200; Language: Old French; Origin: taper 'to hit with the flat part of the hand']
+[Sense 3-7: Language: Old English; Origin: tæppian]
+1. HIT LIGHTLY [intransitive and transitive] to hit your fingers lightly on something, for example to get someone’s attention
+tap somebody on the shoulder/arm/chest etc
+ He turned as someone tapped him on the shoulder.
+tap on
+ I went up and tapped on the window.
+tap something on/against/from etc something
+ Mark tapped his fingers on the tabletop impatiently.
+ She tapped ash from her cigarette.
+2. MUSIC [transitive] to make a regular pattern of sounds with your fingers or feet, especially when you are listening to music:
+ She tapped her feet in time to the music.
+ a toe-tapping tune
+3. ENERGY/MONEY [transitive] (also tap into) to use or take what is needed from something such as an energy supply or an amount of money:
+ People are tapping into the power supply illegally.
+ We hope that additional sources of funding can be tapped.
+4. IDEAS [transitive] (also tap into) to make as much use as possible of the ideas, experience, knowledge etc that a group of people has:
+ Your adviser’s experience is there to be tapped.
+ helping people tap into training opportunities
+5. TELEPHONE [transitive] to listen secretly to someone’s telephone by using a special piece of electronic equipment:
+ Murray’s phone calls to Australia were tapped.
+6. TREE [transitive] to get liquid from the ↑trunk of a tree by making a hole in it
+7. PLAYER [transitive] (also tap up) British English informal if a football club taps a player from another team, it illegally tries to persuade that player to join its team
+tap something ↔ in (also tap something into something) phrasal verb British English
+to put information, numbers etc into a computer, telephone etc by pressing buttons or keys:
+ Tap in your password before you log on.
+tap something ↔ out phrasal verb
+1. to hit something lightly, especially with your fingers or foot, in order to make a pattern of sounds:
+ He whistled the tune and tapped out the rhythm.
+2. to write something with a computer:
+ Brian tapped out a name on his small electronic organizer.
+From Longman DOCE5 Extras (En-En)
+tap
+I. noun
+COLLOCATIONS FROM OTHER ENTRIES
+bath tapsBritish English
+▪ The water coming out of the bath taps was freezing cold.
+mixer tap
+tap dancing
+tap on/at the door (=hit it very gently)
+▪ I tapped on the door and opened it.
+tap resources (=take them from an area)
+▪ Several nations are eager to tap the mineral resources in Antarctica.
+tap water (=water that comes out of a tap)
+▪ The tap water is not safe to drink.
+tap water
+tap your feet (=bang them gently on the ground)
+▪ She was tapping her feet in time with the music.
+turn the handle/knob/key/tap etc
+▪ She gently turned the handle of the bedroom door.
+turning on the tap
+▪ ‘I’m thirsty,’ she said, turning on the tap.
+
+gratify
+grat‧i‧fy /ˈɡrætəfaɪ, ˈɡrætɪfaɪ/ BrE  AmE  verb (past tense and past participle gratified, present participle gratifying, third person singular gratifies) [transitive] formal
+[Date: 1400-1500; Language: French; Origin: gratifier, from Latin gratificare 'to make yourself pleasing', from gratus; ⇨ ↑grateful]
+1. [usually passive] to make someone feel pleased and satisfied:
+ He was gratified by Lucy’s response.
+be gratified to see/hear/learn etc
+ John was gratified to see the improvement in his mother’s health.
+2. to satisfy a desire, need etc:
+ She did not propose to gratify Gloria’s curiosity any further.
+—gratification /ˌɡrætəfəˈkeɪʃən, ˌɡrætɪfəˈkeɪʃən/ noun [uncountable and countable]:
+ sexual gratification
+From Longman DOCE5 Extras (En-En)
+gratify
+verb
+COLLOCATIONS FROM CORPUS
+■ ADVERB
+most
+▪ Sometimes they ran all seven, which was most gratifying!
+▪ But to Cantor the most gratifying response to their article was a single telephone call.
+very
+▪ How very gratifying ... King: And endlessly contrast yourself and me.
+▪ In a way it's a surprise; but a very gratifying one.
+EXAMPLES FROM OTHER ENTRIES
+▪ Too many men believe that women exist mainly to gratify their needs.
+EXAMPLES FROM CORPUS
+▪ I am embarrassed and totally gratified.
+▪ I knew that faking the tears would gratify her and end the punishment, but I refused.
+▪ I was not surprised, although I was rather gratified, to find the semi-detached house one of incredible modesty.
+▪ It gratified him to discover how popular his singing was.
+▪ Necking, petting, become gratifying enough pastimes and I am lucky with the boys in my life.
+
+• He had been bound and gagged and left in a cell for three days.
+• We tore up some material and bound up the wound as tight as we could.
+• All 15 of the republics are in some ways loosening the ties that bind them to Moscow.
+• The manuscript has been bound in gold and silver and encrusted with jewels.
+• Graham found a length of frayed rope and used it to bind the man's hands and legs.
+Phrasal Verb: bind somebody to something
+ 
+noun only singular informal
+a difficult situation in which you are prevented from acting as you might like
+• Having to visit her every week is a terrible bind.
+• Borrowing money may put you in a real bind.
+Thesaurus+: ↑Difficult situations and unpleasant experiences ↑Accidents and disasters
+From Longman DOCE 5th Ed. (En-En)
+bind
+I. bind1 /baɪnd/ BrE  AmE  verb (past tense and past participle bound /baʊnd/)
+[Language: Old English; Origin: bindan]
+1. TIE/FASTEN [transitive] written
+a) to tie someone so that they cannot move or escape:
+ They bound my arms and legs with rope.
+bound and gagged (=tied up, and with cloth tied around your mouth so you cannot speak)
+b) (also bind up) to tie things firmly together with cloth or string:
+ The pile of newspapers was bound with string.
+2. FORM A CONNECTION [transitive] to form a strong emotional or economic connection between two people, countries etc SYN unite
+bind somebody/something together
+ Their shared experiences in war helped to bind the two communities together.
+3. MAKE SOMEBODY DO SOMETHING [transitive usually passive] if you are bound by an agreement, promise etc, you must do what you have agreed to do or promised to do:
+ The monks are bound by vows of silence.
+bind somebody to do something
+ Employees are not bound to give their reasons for leaving.
+4. STICK TOGETHER [intransitive and transitive] technical to stick together in a mass, or to make small pieces of something stick together:
+ The flour mixture isn’t wet enough to bind properly.
+bind with
+ The hydrogen molecule binds with the oxygen molecule.
+5. BOOK [transitive] to fasten the pages of a book together and put them in a cover ⇨ ↑bound2(9)
+6. STITCH [transitive] to sew cloth over the edge of a piece of material, or stitch over it, to strengthen it:
+ The edges of the blanket were bound with ribbon.
+bind somebody over phrasal verb [usually passive] law
+a) British English if someone is bound over by a court of law, they are warned that, if they cause more trouble, they will be legally punished:
+ The demonstrators were bound over to keep the peace.
+b) American English if someone is bound over for ↑trial, they are forced by law to appear in a court
+II. bind2 BrE  AmE  noun [singular] informal
+an annoying or difficult situation:
+ It’s a real bind having to look after the children.
+in a bind
+ Caroline was really in a bind.
+ 
+shrug (something) off
+shrug something ↔ off phrasal verb (see also ↑shrug)
+to treat something as unimportant and not worry about it:
+ We can’t just shrug these objections off.
+ 
+ whatsoever
+what‧so‧ev‧er S2 /ˌwɒtsəʊˈevə $ ˌwɑːtsoʊˈevər, ˌwʌt-/ BrE  AmE  adverb
+[Date: 1200-1300; Origin: whatso 'whatever' (12-20 centuries) (from what so) + ever]
+used to emphasize a negative statement SYN whatever:
+ He’s had no luck whatsoever.
+From Longman DOCE5 Extras (En-En)
+whatsoever
+adverb
+COLLOCATIONS FROM OTHER ENTRIES
+none at all/none whatsoever
+▪ ‘Was there any mail?’ ‘No, none at all.’
+nothing whatsoever
+▪ My staff had nothing whatsoever to do with this.
+EXAMPLES FROM OTHER ENTRIES
+▪ I have no reason whatsoever to doubt what he says.
+EXAMPLES FROM CORPUS
+▪ But then you realise that there's no room whatsoever for larking about and enjoying yourself.
+▪ In fact, most of the companies described in the article have virtually no turnover whatsoever.
+▪ Most studies find no relationship whatsoever.
+▪ My position on this important matter has nothing whatsoever to do with the rational, of course.
+▪ Nor, I contend, does rationalism have anything whatsoever to do with those who see saucers in the sky.
+▪ The attack may occur with no preceding tension whatsoever.
+▪ They have little concept whatsoever of creative thinking, of tossing around ideas to get the one that will work.
+▪ Vincenzo Giuliani felt no need whatsoever to pander to that illusion.
+
+weed (somebody/something) out
+weed somebody/something ↔ out phrasal verb (see also ↑weed)
+to get rid of people or things that are not very good:
+ The research will help governments to weed out ineffective aid schemes.
+From WordNet® 3.0 (En-En)
+weed out
+verb
+remove unwanted elements (Freq. 2)
+- The company weeded out the incompetent people
+- The new law weeds out the old inequities
+
+indoctrinate
+indoctrinate UK  [ɪnˈdɒk.trɪ.neɪt] US  [-ˈdɑːk-] disapproving verb transitive [indoctrinates indoctrinating indoctrinated]
+to often repeat an idea or belief to someone in order to persuade them to accept it
+• Some parents were critical of attempts to indoctrinate children in green ideology.
+• They have been indoctrinated by television to believe that violence is normal.
+Thesaurus+: ↑Saying again ↑Saying and uttering
+Derived: indoctrination
+From Longman DOCE 5th Ed. (En-En)
+indoctrinate
+in‧doc‧tri‧nate /ɪnˈdɒktrəneɪt, ɪnˈdɒktrɪneɪt $ ɪnˈdɑːk-/ BrE  AmE  verb [transitive]
+[Date: 1600-1700; Language: Old French; Origin: endoctriner, from doctrine; ⇨ ↑doctrine]
+to train someone to accept a particular set of beliefs, especially political or religious ones, and not consider any others:
+ People were indoctrinated not to question their leaders.
+—indoctrination /ɪnˌdɒktrəˈneɪʃən, ɪnˌdɒktrɪˈneɪʃən $ ɪnˌdɑːk-/ noun [uncountable]:
+ The military in particular were subjected to intense political indoctrination.
+From Longman DOCE5 Extras (En-En)
+indoctrinate
+verb
+EXAMPLES FROM OTHER ENTRIES
+▪ Citizens were indoctrinated into believing that their leader was the source of all wisdom and goodness.
+▪ Some politically active teachers were accused of trying to indoctrinate their students.
+▪ Training seminars and retreats are held to indoctrinate recruits.
+doctrine
+doctrine UK  [ˈdɒk.trɪn] US  [ˈdɑːk-] noun countable or uncountable [doctrines]
+a belief or set of beliefs, especially political or religious, taught and accepted by a particular group
+• Christian doctrine
+• The president said he would not go against sound military doctrine.
+Thesaurus+: ↑Religious beliefs and atheistic beliefs
+From Longman DOCE 5th Ed. (En-En)
+doctrine
+doc‧trine /ˈdɒktrən, ˈdɒktrɪn $ ˈdɑːk-/ BrE  AmE  noun
+[Date: 1300-1400; Language: French; Origin: Latin doctrina, from doctor; ⇨ ↑doctor1]
+1. [uncountable and countable] a set of beliefs that form an important part of a religion or system of ideas:
+ traditional doctrines of divine power
+ Marxist doctrine
+2. Doctrine [countable] American English a formal statement by a government about its future plans:
+ the announcement of the Truman Doctrine
+—doctrinal /dɒkˈtraɪnl $ ˈdɑːktrənəl/ adjective
+EXAMPLES FROM CORPUS
+▪ As the nature of insider dealing changed, there was a corresponding need to adapt other legal doctrines to fit the abuse.
+▪ But in the schools the children are taught a doctrine of hate.
+▪ Even ethnically united communities are deeply divided on points of doctrine.
+▪ Groups were continually dividing over minor points of doctrine.
+▪ He later preached good doctrine and set the colonists to building a church.
+▪ I consider that such doctrine would be dangerous and impermissible.
+▪ It is taken for doctrine, but can it be that it really is dogma?
+
+II. fare2 BrE  AmE  verb
+fare well/badly/better etc to be successful, unsuccessful etc:
+ Although Chicago has fared better than some cities, unemployment remains a problem.
+ He wondered how Ed had fared in the interview.
+ 
+ crank
+I. crank1 /kræŋk/ BrE  AmE  noun [countable]
+[Language: Old English; Origin: cranc]
+1. a handle on a piece of equipment, that you can turn in order to move something
+2. informal someone who has unusual ideas and behaves strangely:
+ Zoff was originally dismissed as a crank, but his theories later became very influential.
+3. crank call/letter a telephone call or letter in which someone says annoying things
+4. American English informal someone who easily gets angry or annoyed with people
+II. crank2 BrE  AmE  (also crank up) verb [transitive]
+to make something move by turning a crank:
+ Try cranking the engine.
+crank something ↔ out phrasal verb
+to produce a lot of something very quickly:
+ He cranked out three novels last year.
+crank something ↔ up phrasal verb informal
+to make the sound of something, especially music, louder:
+ We cranked up the volume.
+From Longman DOCE5 Extras (En-En)
+crank
+I. noun
+COLLOCATIONS FROM OTHER ENTRIES
+a crank call (=made by someone you do not know, as a joke or to annoy you)
+▪ The heavy breathing sounded like a crank call.
+COLLOCATIONS FROM CORPUS
+■ NOUN
+call
+▪ Anyone who dares defend this breakthrough speaks in hushed tones, fearing crank calls and canceled grants.
+EXAMPLES FROM OTHER ENTRIES
+▪ Call me a crank, but I think the world was a lot better before mobile phones came along.
+▪ Vegetarians were once regarded as cranks.
+EXAMPLES FROM CORPUS
+▪ Alternatively, the loan of a Proctor flap crank would enable Q6-sized versions to be fabricated.
+▪ Handles and cranks, architectural facades, and pump housings were cast-iron.
+▪ He is prepared for sceptics who think he's a crank.
+▪ In addition, Los Angeles has always demonstrated a remarkably high tolerance for spiritual innovators, political cranks, and religious eccentrics.
+▪ Many people are unaware of the recall because the bikes can work perfectly before the crank suddenly breaks off.
+▪ The reason this cumbersome arrangement was used was because the simple crank had already been patented in 1780.
+▪ This was a simple affair worked by one-man-power, just the turning of a large crank.
+▪ You had to be a crank to insist on being right.
+
+exacerbate
+exacerbate UK  [ɪgˈzæs.ə.beɪt] US  [-ɚ-] verb transitive [exacerbates exacerbating exacerbated]
+to make something which is already bad worse
+• This attack will exacerbate the already tense relations between the two communities.
+Thesaurus+: ↑Deteriorating and making worse
+Derived: exacerbation
+From Longman DOCE 5th Ed. (En-En)
+exacerbate
+ex‧a‧cer‧bate /ɪɡˈzæsəbeɪt $ -sər-/ BrE  AmE  verb [transitive]
+[Date: 1600-1700; Language: Latin; Origin: past participle of exacerbare, from acerbus 'bitter']
+to make a bad situation worse:
+ The recession has exacerbated this problem.
+ I don’t want to exacerbate the situation.
+—exacerbation /ɪɡˌzæsəˈbeɪʃən $ -sər-/ noun [uncountable]
+From Longman DOCE5 Extras (En-En)
+exacerbate
+verb
+COLLOCATIONS FROM OTHER ENTRIES
+compound/exacerbate a problemformal (= make it worse)
+▪ The country’s economic problems are compounded by its ageing population.
+COLLOCATIONS FROM CORPUS
+■ ADVERB
+further
+▪ The problem is further exacerbated by the prevailing view as to the nature and constituents of leadership in schools.
+▪ Blue chips as a whole struggled under that burden, which was further exacerbated by fresh selling of telecom and media issues.
+▪ My habit of going for long walking and cycling trips alone further exacerbated my reputation for oddness.
+▪ Their problems were further exacerbated by the fact that many people took the Government at their word and simply stopped paying.
+▪ This is further exacerbated by the noise in many factories which makes conversation difficult and so relationships with others are diminished.
+▪ David Tindle recounts: Minton was further exacerbated by the groundswell of interest in abstract art forming at this time.
+only
+▪ The pressures and prejudices which attend their activities and relationships only exacerbate their instability.
+▪ Also, computer industry trends toward distributed computing, and nomadic or mobile computer users, only exacerbate security challenges.
+▪ Government reaction only exacerbated the problem.
+
+exasperated
+ex‧as‧pe‧rat‧ed /ɪɡˈzɑːspəreɪtəd, ɪɡˈzɑːspəreɪtɪd $ -ˈzæs-/ BrE  AmE  adjective
+very annoyed and upset
+exasperated with
+ He was becoming exasperated with the child.
+ an exasperated look.
+—exasperatedly adverb
+exasperate
+ex‧as‧pe‧rate /ɪɡˈzɑːspəreɪt $ ɪɡˈzæ-/ BrE  AmE  verb [transitive]
+[Date: 1500-1600; Language: Latin; Origin: past participle of exasperare, from asper 'rough']
+to make someone very annoyed by continuing to do something that upsets them:
+ It exasperates me to hear comments like that.
+From Longman DOCE5 Extras (En-En)
+exasperated
+adjective
+EXAMPLES FROM CORPUS
+▪ An exasperated Galileo was able to show up the inadequacy of his rival's position in a characteristically witty way.
+▪ But it was exasperated Tory backbenchers who sealed his fate.
+▪ He concentrated on his dinner though from time to time he contributed exasperated exclamations.
+▪ Maggie saw Hermione shake exasperated shoulders and suddenly feared that she might walk away.
+▪ The Balkans and the anti-Maastricht Tory rebels turned the statesman into an exasperated headmaster.
+▪ This morning she was in another of her daydreams, it looked like to the exasperated Victorine.
+=======
+>>>>>>> 2c7488674ac304f5c0a609fce2806a8593b035ad
+>>>>>>> 6e5983e796d29cf0f96f701aaa7059853399da65
+>>>>>>> 01bd1cc98067a752d451430c1a0bc1812aa5af95
