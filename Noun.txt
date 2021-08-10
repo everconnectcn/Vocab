@@ -17295,10 +17295,6 @@ to make a ↑cassette, ↑video, or ↑CD be exactly in the position you want it
 
  / 5dV\:zI; `dV[zI/ n (pl ~s) 
  (also jumper, pullover, sweater) [C] close-fitting knitted (esp woollen) garment without fastenings, usu worn over a shirt or blouse 针织（尤指毛织）紧身套衫（通常穿在衬衣外面）: a thick green jersey 厚的绿色套头毛衣. 
-=======
-=======
->>>>>>> 606615cf01fc9a4f4b615d1f44e00147bc03826b
-<<<<<<< HEAD
 
 psycho
 noun
@@ -17314,7 +17310,134 @@ psycho
 a person who is mentally ill and who behaves in a very strange violent way
 • In his new film, he plays the part of a crazed psycho.
 • Don't let him drive— he's a complete psycho behind the wheel!
-=======
->>>>>>> 2c7488674ac304f5c0a609fce2806a8593b035ad
->>>>>>> 6e5983e796d29cf0f96f701aaa7059853399da65
->>>>>>> 01bd1cc98067a752d451430c1a0bc1812aa5af95
+
+3. [countable] one of the five natural powers of sight, hearing, feeling, taste, and smell, that give us information about the things around us
+sense of smell/taste/touch etc
+ She has a good sense of smell.
+ Cats have a very acute sense of hearing (=very good, so that they can hear even the smallest sound).
+ Combinations of flavors, textures, and color that can delight the senses.
+ the five senses (=all of the senses) ⇨ ↑sixth sense
+4. [uncountable] when someone makes sensible or practical decisions, or behaves in a sensible practical way
+have the sense to do something (=behave in a sensible way and do what is best in that situation)
+ You should have had the sense to turn off the electricity first.
+there is no sense in (doing) something spoken (=it is not sensible to do something)
+ There’s no sense in getting upset about it now.
+see sense (=realize what is the sensible thing to do)
+ I wish the politicians would see sense and stop the war.
+talk/knock some sense into somebody (=try to make someone behave in a more sensible way) ⇨ ↑common sense
+5. make sense
+a) to have a clear meaning and be easy to understand:
+ Read this and tell me if it makes sense.
+b) to be a sensible thing to do
+it makes sense (for somebody) to do something
+ It makes sense to save money while you can.
+ Would it make sense for the city authorities to further restrict parking?
+c) if something makes sense, there seems to be a good reason or explanation for it:
+ Why did she do a thing like that? It doesn’t seem to make sense.
+6. make (some) sense of something to understand something, especially something difficult or complicated:
+ Can you make any sense of this article?
+7. [countable] the meaning of a word, sentence, phrase etc:
+ The word ‘record’ has several different senses.
+ Any alteration would spoil the sense of the entire poem.
+8. [countable] a way in which something can be true or real
+
+▪ a strong/great sense of something He had a strong sense of responsibility.
+▪ a real sense of something (=a strong feeling) Children need to feel a real sense of belonging.
+▪ a deep sense of something (=a very strong feeling) He felt a deep sense of disappointment.
+▪ a growing sense of something (=becoming stronger) She looked around with a growing sense of unease.
+▪ a vague/slight sense of something (=not very strong) There was a slight sense of embarrassment.
+■ verbs
+▪ feel/have a sense of something I felt a great sense of pride.
+▪ give somebody a sense of something The job gave her a sense of control over her life.
+▪ convey a sense of something We want to convey our sense of excitement to the audience.
+■ phrases
+▪ a sense of relief/panic/guilt etc We reached the medical centre with a sense of relief.
+▪ a sense of purpose/direction (=a feeling that you know what you are trying to achieve) Becoming a mother had given her a new sense of purpose.
+▪ a sense of urgency (=a feeling that something is urgent) The rescuers felt a real sense of urgency now.
+▪ a sense of responsibility/duty (=a feeling that you must do something because it is right) Parents try to give their children a sense of responsibility.
+▪ a sense of loss (=a feeling of sadness for someone or something you no longer have) Many women experience a sense of loss when their children leave home.
+▪ a sense of achievement/satisfaction (=a feeling that you have achieved something good) Even a small success gives a sense of achievement.
+▪ a sense of security (=a feeling that you are safe) A lack of trust in the parents can undermine the child's sense of security at home.
+▪ a false sense of security (=a feeling that you are safe, which is not actually true) They were lulled into a false sense of security.
+▪ a sense of identity (=a feeling of knowing who you are and how you belong to a community) Change can threaten our fragile sense of identity.
+▪ a sense of belonging (=a feeling that you belong to a group) The organization tries to foster a sense of belonging through these social events.
+▪ a sense of occasion (=a feeling that an event is special or important) It was a marvellous day and there was a real sense of occasion.
+• • •
+COLLOCATIONS (for Meaning 2)
+■ phrases
+▪ a sense of humour British English, a sense of humor American English (=the ability to laugh and enjoy things that are funny) A good teacher needs a sense of humour.
+▪ a sense of fun (=the ability to enjoy yourself and make things fun) What I liked about Maria was her sense of fun.
+▪ a sense of direction (=the ability to judge which way you should be going) The place was completely dark and I lost all sense of direction.
+▪ a sense of proportion (=the ability to judge how important or unimportant something is) It’s important to keep a sense of proportion.
+▪ a sense of timing (=the ability to choose the right moment to do or say something) He told the story with an exquisite sense of timing.
+▪ a sense of justice/fairness I appealed to her sense of justice.
+■ ADJECTIVES/NOUN + sense
+▪ a good/great sense of something He is a popular boy with a good sense of humour.
+▪ a natural sense of something (=a natural ability) She did not have a natural sense of direction.
+▪ a keen sense of something (=a good ability to judge something) As a lawyer, he had a keen sense of the value of political connections.
+▪ dress/clothes sense (=an ability to choose clothes well) Her dress sense was faultless.
+▪ business sense (=an ability to make good decisions in business) Few young people have much business sense.
+■ verbs
+▪ have a sense of something She seems to have a great sense of the right thing to say.
+▪ lose your sense of something Come on! Have you lost your sense of humour?
+▪ lose all sense of something He seemed to have lost all sense of proportion.
+▪ keep/retain a sense of something Throughout it all she retained her sense of fun.
+
+
+steroid
+ste‧roid /ˈstɪərɔɪd, ˈste- $ ˈstɪr-/ BrE  AmE  noun [countable]
+[Date: 1900-2000; Origin: sterol type of alcohol (20-21 centuries) (from cholesterol) + -oid]
+1. a chemical that the body produces naturally or that can be made as a drug to treat illness and injuries. Steroids are sometimes used illegally by people doing sports to improve their performance
+on steroids
+ a body builder on steroids
+2. something on steroids American English informal used to say that something is much bigger, stronger, more impressive etc than something else that is similar to it – used humorously:
+ They sell cinnamon rolls on steroids.
+ 
+ buzz
+I. buzz1 /bʌz/ BrE  AmE  verb
+[Date: 1300-1400; Origin: From the sound]
+1. MAKE A SOUND [intransitive] to make a continuous sound, like the sound of a ↑bee:
+ a loud buzzing noise
+2. MOVING AROUND [intransitive always + adverb/preposition]
+a) to move around in the air making a continuous sound like a ↑bee:
+ Bees were buzzing around the picnic tables.
+b) to move quickly around a place:
+ Pamela buzzed around checking that everything was ready.
+ There were all sorts of rumours buzzing through the office.
+3. EXCITEMENT [intransitive] if a group of people or a place is buzzing, there is a lot of activity or excitement
+buzz with
+ a classroom buzzing with activity
+4. CALL [intransitive and transitive]
+a) to call someone by pressing a ↑buzzer:
+ Kramer buzzed at the security door, and I let him in.
+buzz for
+ Tina buzzed for her secretary.
+b) to make something happen, for example make a door or gate open or close, by pressing a buzzer
+buzz somebody in/out
+ She buzzed them in and greeted them warmly.
+buzz somebody through something
+ The guard buzzed me through the gate.
+5. THOUGHTS [intransitive] if your head or mind is buzzing with thoughts, ideas etc, you cannot stop thinking about them
+buzz with
+ My mind was buzzing with new ideas.
+ Questions started buzzing round in my head.
+6. EARS [intransitive] if your ears or head are buzzing, you can hear a continuous low unpleasant sound
+7. AIRCRAFT [transitive] informal to fly an aircraft low and fast over buildings, people etc:
+ Military jets buzzed the city.
+buzz off phrasal verb spoken
+1. buzz off! used to tell someone in a rude way to go away
+2. British English to go away:
+ I’ve finished everything, so I’ll buzz off now.
+II. buzz2 BrE  AmE  noun
+1.   [countable] a continuous noise like the sound of a ↑bee
+buzz of
+ the buzz of mosquitoes
+2. [singular] a lot of activity, noise, and excitement
+buzz of
+ the buzz of conversation and laughter
+3. [singular] informal a strong feeling of excitement, pleasure, or success, or a similar feeling from drinking alcohol or taking drugs:
+ Playing well gives me a buzz.
+ Neil gets a buzz from drinking one beer.
+4. give somebody a buzz informal to telephone someone:
+ I’ll give you a buzz on Monday.
+5. the buzz informal unofficial news or information that is spread by people telling each other ⇨ gossip, rumour

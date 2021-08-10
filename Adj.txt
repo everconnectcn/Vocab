@@ -10436,10 +10436,4 @@ EXAMPLES FROM CORPUS
 ▪ He might be pretentious in other ways, but he was not posing at the keyboard.
 ▪ It may seem pretentious to say so but it is intended in Gramsci's terms as an organic intellectual work.
 ▪ So Princeton looked good for college until I met their pretentious admissions rep.
-=======
-=======
->>>>>>> f16db1fc709f5551fa3e51cfe8412dfbe5c1a2ec
->>>>>>> 606615cf01fc9a4f4b615d1f44e00147bc03826b
->>>>>>> 2c7488674ac304f5c0a609fce2806a8593b035ad
->>>>>>> 6e5983e796d29cf0f96f701aaa7059853399da65
->>>>>>> 01bd1cc98067a752d451430c1a0bc1812aa5af95
+
