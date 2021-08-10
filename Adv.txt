@@ -1060,3 +1060,59 @@ He is not a particularly talented builder, but when push comes to shove, he can 
 Pertaining to how any two things compare when bearing in mind their real or relative, figurative weight.
 A tin of tomatoes weighing 250 g and costing $2.50 is more expensive, pound-for-pound, than one weighing 500 g and costing $4 (as the former costs $1.00 per 100 g and the latter $0.80 per 100 g).
 My gal is pound for pound sweeter than chocolate.
+
+invariably
+in‧var‧i‧a‧bly AC /ɪnˈveəriəbli $ -ˈver-/ BrE  AmE  adverb
+[Word Family: noun: ↑variable, ↑variance, ↑variant, ↑variety, ↑variability, ↑variation; adjective: ↑variable ≠ ↑invariable, ↑varied, ↑various; adverb: ↑variably ≠ ↑invariably, ↑variously; verb: ↑vary]
+if something invariably happens or is invariably true, it always happens or is true:
+ It invariably rains when I go there.
+ The security guards were invariably ex-servicemen.
+From Oxford Advanced Learners Dictionary 8th Ed.
+invariably
+in·vari·ably AW [invariably] BrE [ɪnˈveəriəbli]  NAmE [ɪnˈveriəbli]  adverb
+always
+Syn: ↑without fail
+• This acute infection of the brain is almost invariably fatal.
+• This is not invariably the case.
+• Invariably the reply came back, ‘Not now!’
+
+ad hoc (comparative more ad hoc, superlative most ad hoc)
+For a particular purpose.
+Created on the spur of the moment; impromptu.
+2020 February 25, Christopher de Bellaigue, “The end of farming?”, in The Guardian‎[1]:
+Over the past 20 years or so, from South America to the Danube basin, ad hoc coalitions of politicians, activists and conscience-stricken billionaires (whose core activities, such as Povlsen’s clothing business, are often less than environmentally friendly), have rewilded millions of acres of mostly failed agricultural and grazing land.
+(sciences, of a hypothesis) Postulated solely to save a theory from being falsified, without making any new predictions.
+2012 December 6, J. Agassi, Science in Flux, Springer Science & Business Media, →ISBN, page 197:
+Contrary to the traditional condoning of ad hoc hypotheses, and in line with Popper's and Grünbaum's approaches, we see, once an ad hoc hypothesis is introduced we are unhappy about it and try to eliminate it.
+(networking) Independent of previously instated network structure, like routers or access points.
+2007 April 23, Jagannathan Sarangapani, Wireless Ad hoc and Sensor Networks: Protocols, Performance, and Control, CRC Press, →ISBN, page 233:
+An ad hoc network is a group of wireless mobile nodes dynamically forming a temporary network without any fixed infrastructure or centralized administration. The applications for ad hoc networks have grown tremendously with the increase in the use of wireless sensor networks.
+
+ad hoc
+ad hoc UK  [ˌædˈhɒk] US  [-ˈhɑːk] adjective before noun
+made or happening only for a particular purpose or need, not planned before it happens
+• an ad hoc committee/meeting
+• We deal with problems on an ad hoc basis (= as they happen).
+Thesaurus+: ↑Not expected or planned
+From Longman DOCE 5th Ed. (En-En)
+ad hoc
+ad hoc /æd ˈhɒk◂ $ -ˈhɑːk◂,-ˈhoʊk◂/ BrE  AmE  adjective, adverb formal
+[Date: 1600-1700; Language: Latin; Origin: 'for this']
+not planned, but arranged or done only when necessary
+ad hoc committee/group etc
+ decisions made on an ad hoc basis
+From Oxford Advanced Learners Dictionary 8th Ed.
+ad hoc
+▪ I. ad hoc BrE [ˌæd ˈhɒk]  NAmE [ˌæd ˈhɑːk]  adjective (from Latin)
+arranged or happening when necessary and not planned in advance
+• an ad hoc meeting to deal with the problem
+• The meetings will be held on an ad hoc basis.
+ 
+ adverb
+adverb: ad hoc
+when necessary or needed.
+"the group was constituted ad hoc"
+adjective
+adjective: ad hoc; adjective: adhoc
+created or done for a particular purpose as necessary.
+"the discussions were on an ad hoc basis"
