@@ -11596,6 +11596,19 @@ EXAMPLES FROM CORPUS
 ▪ The Balkans and the anti-Maastricht Tory rebels turned the statesman into an exasperated headmaster.
 ▪ This morning she was in another of her daydreams, it looked like to the exasperated Victorine.
 
+<<<<<<< HEAD
+choke
+I. verb
+COLLOCATIONS FROM OTHER ENTRIES
+a choking sensation (=a feeling that you cannot breathe)
+▪ A choking sensation filled my throat.
+be choked with emotion (=feel so much emotion that you cannot speak normally)
+▪ Mr Ford’s voice was choked with emotion as he addressed the mourners.
+choke chain
+fight/choke/blink back tears (=try not to cry)
+▪ She fought back tears yesterday as she re-lived the horrors she had seen.
+COLLOCATIONS FROM CORPUS
+=======
 
 7. look somebody in the eye to look directly at someone when you are speaking to them, especially to show that you are not afraid of them or that you are telling the truth:
  Owen didn’t dare look his father in the eye.
@@ -11738,6 +11751,7 @@ al‧lude /əˈluːd/ BrE  AmE  verb
 allude to somebody/something phrasal verb
 formal to mention something or someone indirectly:
  Rick didn’t want to discuss his past, though he alluded darkly to ‘some bad things that happened.’
+<<<<<<< HEAD
  
 a catering establishment (=a restaurant, cafe etc)
 ▪ She runs a successful catering establishment in Leeds.
@@ -12201,3 +12215,6 @@ Word Origin:
 Middle English (as an adjective and adverb): from Old French, or from Latin triplus, from Greek triplous.
 Derived Word: ↑triply
  
+=======
+>>>>>>> 5d618d66c656cd5b7ac61960df78dcd8a4483eee
+>>>>>>> bebc0650aaceb8ebdf71af16ae877a6988eee949
