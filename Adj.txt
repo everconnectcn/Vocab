@@ -10503,5 +10503,60 @@ EXAMPLES FROM CORPUS
 ▪ The networker went on to ask if she could use an employee who was savvy about global marketing.
 ▪ This is one of the hottest destinations after work for savvy Downtowners, especially during special events when there is live entertainment.
 ▪ You knew he was smart about cars; he was savvy about life too.
-=======
->>>>>>> 5d618d66c656cd5b7ac61960df78dcd8a4483eee
+
+underprivileged
+
+ / 9QndE5prIvElIdVd; `QndL`prIvElIdVd/ adj (euph 婉) not having the standard of living or rights enjoyed by others in a society; deprived 生活水平或享有的权利比别人低的; 贫困的: socially underprivileged families, groups, etc 社会地位低下的家庭、阶层等.
+ > the underprivileged n [pl v]: The underprivileged need special support. 贫困者需要特殊的帮助.
+From Longman DOCE5 Extras (En-En)
+underprivileged
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ underprivileged youth
+▪ Princess Anne has done much to help underprivileged children all over the world.
+EXAMPLES FROM CORPUS
+▪ An ambitious bar association volunteer program for assisting the underprivileged quickly followed.
+▪ He pledged more funding for pregnant women's nutrition, childhood immunisations, and pre-school programmes for underprivileged children.
+▪ He supported orphanages and schools, underprivileged children went on camping holidays at his expense.
+▪ I believed that without a uniform we were more identified with the poor and underprivileged.
+▪ Infected rates are high among urban elites as well as among the poor and underprivileged.
+▪ Jane Addams was awarded the Nobel Prize for her inventive work with underprivileged women and children.
+
+
+fixed
+fixed S3 W3 /fɪkst/ BrE  AmE  adjective
+1. [not before noun] firmly fastened to a particular position
+fixed to/in/on
+ a mirror fixed to the bathroom wall
+2. fixed times, amounts, meanings etc cannot be changed SYN set:
+ The classes begin and end at fixed times.
+ fixed prices
+ My contract was for a fixed term of five years.
+ interest at 10%, fixed for 5 years
+3. have fixed ideas/opinions to have very definite ideas or opinions that you will not change – often used to show disapproval
+have fixed ideas/opinions about/on
+ He has very fixed ideas about how a wife should behave.
+4. how are you fixed for something? spoken used to ask someone how much of something they have, or to ask about an arrangement:
+ How are you fixed for cash?
+ How are we fixed for Monday?
+5. a fixed smile, expression etc does not show any emotion or does not show how someone really feels
+6. be of/have no fixed abode/address British English law to not have a permanent place to live
+
+one-sided
+ˌone-ˈsided BrE  AmE  adjective
+1. considering or showing only one side of a question, subject etc in a way that is unfair ⇨ biased, balanced:
+ The newspapers give a very one-sided account of the war.
+2. an activity or competition that is one-sided is one in which one person or side is much stronger or does much more than the other:
+ a very boring, one-sided game
+ The conversation was very one-sided.
+—one-sidedly adverb
+—one-sidedness noun [uncountable]
+
+scattergun (comparative more scattergun, superlative most scattergun)
+unfocused in approach or topic
+Synonym: all over the place
+2016, Darren G. Lilleker, Mark Pack, Political Marketing and the 2015 UK General Election (page 127)
+UKIP's Facebook approach was the most 'scattergun', posting a slew of national messages, presumably in the hope that something might impact locally.
+2017, Helen Stalford, Kathryn Hollingsworth, Stephen Gilmore, Rewriting Children's Rights Judgments
+While the use of such language in judicial reasoning is not uncommon amongst the more senior Pakistani courts, the acceptance of all pleaded grounds, no matter how 'scattergun' the approach, certainly is.
+

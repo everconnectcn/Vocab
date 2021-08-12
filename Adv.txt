@@ -1116,3 +1116,44 @@ adjective
 adjective: ad hoc; adjective: adhoc
 created or done for a particular purpose as necessary.
 "the discussions were on an ad hoc basis"
+
+prohibitive
+pro·hibi·tive AW BrE [prəˈhɪbətɪv]  NAmE [prəˈhɪbətɪv]  NAmE [proʊˈhɪbətɪv]  adjective
+1. (of a price or a cost) so high that it prevents people from buying sth or doing sth
+Syn: ↑exorbitant
+• prohibitive costs
+• a prohibitive tax on imported cars
+• The price of property in the city is prohibitive.
+2. preventing people from doing sth by law
+• prohibitive legislation
+3. (NAmE) (of a person taking part in an election or a competition) extremely likely to win
+• Miami began the day a prohibitive Super Bowl favorite.
+Derived Word: ↑prohibitively
+ 
+Word Origin:
+[prohibitive prohibitively] late Middle English (in sense 2): from French prohibitif, -ive or Latin prohibitivus, from prohibit- ‘kept in check’, from the verb prohibere, from pro- ‘in front’ + habere ‘to hold’.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+prohibitive
+
+ / prE5hIbEtIv; ?@ prEU-; pro`hIbItIv/ adj 
+ (a) intended to or tending to prevent the use or purchase of sth 禁止使用或购买的; 禁止性的: a prohibitive tax on imported cars 对进口小汽车征收的寓禁税. (b) (of prices, etc) so high that one cannot afford to buy （指价格等）高得买不起的: The cost of property in the city is prohibitive. 城里房地产的价格高得使人望而却步. 
+ that prohibits 禁止的: prohibitive laws, road signs 禁律、禁止通行的路标.
+ > prohibitively adv: prohibitively expensive 昂贵得买不起.
+From Longman DOCE5 Extras (En-En)
+prohibitive
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ a prohibitive tax on imports
+▪ The cost of renovating the old buildings would be prohibitive.
+EXAMPLES FROM CORPUS
+▪ And the cost can be prohibitive.
+▪ Especially for a large word list the memory requirements are prohibitive.
+▪ However Haines says that the processor count is unlikely to grow since the overheads become prohibitive.
+▪ However, many companies find the cost of planning and implementation prohibitive.
+▪ Snowden, unlike Samuel, was willing to agree in late September to a prohibitive tariff on luxury goods.
+▪ The cost of uniforms and books was becoming prohibitive and the gang scene was worsening at school.
+▪ The remainder will need training, services and hand-holding ranging from extensive to nearly prohibitive, she says.
+▪ Trade will reduce welfare when transport costs are sufficiently close to prohibitive and increase it when they are sufficiently low.
+
+over the edge
+insane, having lost control.
