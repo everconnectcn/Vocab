@@ -18259,3 +18259,425 @@ upswell
 up·swell 7 [upswell] BrE [ˈʌpswel]  NAmE [ˈʌpswel]  (also up·swell·ing BrE [ˈʌpswelɪŋ] ; NAmE [ˈʌpswelɪŋ] ) noun singular ~ of sth (formal)
 an increase in sth, especially a feeling
 • a huge upswell of emotion
+
+• These mild fits are quite a common occurrence in babies.
+• a past occurrence of breast cancer
+• the low occurrence of heart disease in this particular group
+• words with a high frequency of occurrence in language
+• Increased life expectancy means that it is now a rare occurrence for children to be orphaned.
+• Landslips and earthquakes are not everyday occurrences in this country.
+• The document addresses the occurrence of arsenic in drinking water.
+• The program counts the number of occurrences of any word or group or words, within the text.
+• Vandalism has become a regular occurrence in recent times.
+
+(uncountable, figuratively) The brain's neural network.
+1969, L. M. H. Larramendi, “Electron Microscopic Studies of Cerebellar Interneurons”, in Mary A[gnes] B[urnston] Brazier, editor, The Interneuron: Proceedings of a Conference Held September, 1967: […] (UCLA Forum in Medical Sciences; no. 11), Berkeley; Los Angeles, Calif.: University of California Press, OCLC 63478166, page 269:
+Since [Santiago Ramón y] Cajal's neural circuitry did not include inhibitory cells, he believed that short-axoned cells were important in maintaining a continuous and persistent activity in neural centers.
+1993, Kathleen R. Gibson, “Introduction: Overlapping Neural Control of Language, Gesture and Tool-use”, in Kathleen R. Gibson and Tim Ingold, editors, Tools, Language and Cognition in Human Evolution, Cambridge, Cambridgeshire; New York, N.Y.: Cambridge University Press, published 2004, →ISBN, part III (Connecting up the Brain), page 187:
+Some argue that the human brain contains structures or circuitry not found in the brains of other animals. [...] Others emphasize the massive increase in human brain size and posit that human behavior is an emergent phenomenon which reflects quantitative increases in neural processing capacity.
+1999, Rodney Douglas; Christof Koch; Misha Mahowald; Kevan Martin, “The Role of Recurrent Excitation in Neocortical Circuits”, in Philip S. Ulinski, Edward G. Jones, and Alan Peters, editors, Models of Cortical Circuits (Cerebral Cortex; 13), New York, N.Y.: Kluwer Academic/Plenum Publishing, →ISBN, page 254:
+Increases in cortical volume translate largely into increases in cortical area, and beneath each area of cortex the cellular composition of the cortical laminae is rather similar. Thus, the operation of making more cortex seems to emphasize local circuitry.
+1999, Auke Jan Ijspeert, “Synthetic Approaches to Neurobiology: Review and Case Study in the Control of Anguiliform Locomotion”, in Dario Floreano, Jean-Daniel Nicoud, and Francesco Mondada, editors, Advances in Artificial Life: 5th European Conference, ECAL’99, Lausanne, Switzerland, September 1999: Proceedings (Lecture Notes in Artificial Intelligence; 1674), Berlin; Heidelberg: Springer, →ISBN, abstract, page 195:
+The first experiment consists in using the evolutionary algorithm for instantiating low level parameters of a connectionist simulation of the lamprey's locomotor circuitry. The second experiment develops potential neural circuits for the swimming and trotting of the salamander; an animal whose locomotor circuitry has currently not been decoded.
+2015, Paula J. Brunton; John A. Russell, “Maternal Brain Adaptations in Pregnancy”, in Toby M. Plant and Anthony J. Zeleznik, editors, Knobil and Neill’s Physiology of Reproduction, volume 1, 4th edition, London; Waltham, Mass.: Academic Press, →ISBN, part VI (Pregnancy and Lactation), page 1976, column 1:
+Possible changes in pregnancy to explain increased food intake and consequent increased energy storage have been considered in the context of the neural circuitry in the hypothalamus and brain stem that homeostatically regulates appetite, the mesolimbic circuitry regulating hedonic appetite, and the actions of circulating hormones on or in this circuitry.
+
+circuitry
+noun
+EXAMPLES FROM CORPUS
+▪ Inside will be a maze of circuitry, some transistors and a chip or two.
+▪ One has low power requirements, thereby dissipating little heat, the other has high-density circuitry.
+▪ The circuitry was composed of electric eels, and there were colorful fish and liquid poisons and numerous examples of evil.
+▪ The basal ganglia are also the main circuitry through which flow the nerve signals controlling movement.
+▪ The cabin filled with dust, smoke, and the smell of burning circuitry.
+▪ The patterns formed by the processes of etching and/or evaporation of the conductor make the electrical circuitry of the integrated circuit.
+▪ They co-opt the selective attention circuitry.
+▪ This is done by deliberately putting delays into the circuitry.
+
+lap·a·ro·scope
+/ləˈperəˌskōp/
+Learn to pronounce
+noun
+a fiber-optic instrument inserted through the abdominal wall to view the organs in the abdomen or permit small-scale surgery.
+"a laparoscope is inserted so the surgeon can examine the appendix"
+
+anecdote
+noun
+COLLOCATIONS FROM OTHER ENTRIES
+an amusing story/anecdote/incident etc
+▪ The book is full of amusing stories about his childhood.
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+personal
+▪ I can do this best by way of a personal anecdote, which might be called the Incident of the Taxman and the Philosopher.
+▪ It is a 318-page compendium of stock liberal positions and personal anecdotes bound by a thick strand of moral conservatism.
+▪ Also interested in personal anecdotes relating to aviation in the aforementioned county.
+▪ It is also chock-full of personal anecdotes.
+▪ For both this means a sprinkling of personal anecdotes about people who worked with the ideas they write about.
+▪ That, then, is the first of my three personal anecdotes.
+▪ Her personal anecdotes as a hospital chaplain showed a real sense of fun intermingled with her obvious dedication.
+▪ Also good personal anecdote of Mr Gladstone cutting down small cherry tree but being unable to lie.
+■ VERB
+amuse
+▪ Always self-deprecating and modest, he fought bravely a long struggle against cancer, remaining cheerful and full of amusing unrepeatable anecdotes.
+tell
+▪ She told the anecdote with a glint of relish in her eye, revelling in their embarrassment.
+▪ But he illustrates his points with telling anecdotes that make good, and fast, reading.
+▪ Then she told an anecdote that would turn out to have prophetic resonance.
+▪ He was telling interesting anecdotes about growing up in the neighborhood and the park.
+▪ As they so often did, the brothers began with a telling anecdote.
+
+anecdotal
+an·ec·dotal [anecdotal anecdotally] BrE [ˌænɪkˈdəʊtl]  NAmE [ˌænɪkˈdoʊtl]  adjective
+based on ↑anecdotes and possibly not true or accurate
+• anecdotal evidence
+• Anecdotal evidence suggests there were irregularities at the polling station on the day of the election.
+Derived Word: ↑anecdotally
+From Longman DOCE5 Extras (En-En)
+anecdotal
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+anecdotal evidence (=based on what people believe, rather than on facts)
+▪ Anecdotal evidence suggests that gang-related violence is on the increase.
+COLLOCATIONS FROM CORPUS
+■ NOUN
+evidence
+▪ However, there is abundant anecdotal evidence of the effects of chemical pollution on the populations of small cetaceans inhabiting industrialised areas.
+▪ The anecdotal evidence is supported Statistically.
+▪ The report is backed up by anecdotal evidence from careers fairs.
+▪ But anecdotal evidence from marriage counselors and other professionals suggests that divorce rates spike when the first child leaves home.
+▪ It is not merely anecdotal evidence.
+▪ McLean had lots of anecdotal evidence in his training room Monday.
+▪ The pictures of precision attacks provide only anecdotal evidence of effectiveness.
+▪ Substantial anecdotal evidence indicates that men have not always been cooperative partners when it comes to the matter of family planning.
+EXAMPLES FROM OTHER ENTRIES
+▪ The book is an anecdotal account of Kent's trip to Borneo.
+
+weakness
+weakness UK  US  [ˈwiːk.nəs] noun
+1. <I > uncountable when someone or something is not strong or powerful
+• Any change of policy will be interpreted as a sign of weakness.
+Thesaurus+: ↑Weakness and vulnerability
+2. <I > countable a particular part or quality of someone or something that is not good or effective
+• There are definite weaknesses in their security arrangements.
+• His main weakness as a manager is his inability to delegate.
+• The later novels show none of the weaknesses of his earlier work.
+Thesaurus+: ↑Faults and mistakes ↑Weakness and vulnerability
+3. weakness for
+a strong liking, usually for something which might have unpleasant or unwanted effects
+• My diet would be fine if only I didn't have this weakness for sweet things.
+Thesaurus+: ↑Liking
+ 
+• Any hesitation on the part of the government will be seen as weakness.
+• This latest conflict further illustrates the weakness of the UN.
+• His inability to handle the situation is a sure sign of weakness.
+• Admitting you've made a mistake is a sign of strength, not weakness.
+• In a position of authority, a weakness for the opposite sex leaves you open to blackmail.
+weak
+weak UK  US  [wiːk] adjective [weaker weakest]
+ 
+NOT STRONG
+1. <E > not strong; not strong enough to work, last, succeed, persuade or be effective
+• It's not surprising you feel weak if you haven't eaten properly for days.
+• The electromagnetic field strength becomes weaker as you move further away from high voltage cables.
+• He was a weak king surrounded by corrupt advisers.
+• Any evidence that exists to support the hypothesis is fairly weak.
+• He gave the weakest of excuses when asked why he was late.
+Thesaurus+: ↑Weakness and vulnerability
+2. describes a drink that contains a lot of water compared to its other contents, so that it does not have a strong flavour
+• I can't stand weak coffee/tea.
+Thesaurus+: ↑Drinks - general words
+3. specialized describes an acid, alkali or chemical base that does not produce many ions (= atoms with an electrical charge) when it is dissolved in water
+Thesaurus+: ↑Types of chemical ↑Specific chemicals, chemical compounds and gases ↑Substances and structures in the body
+• He's still feeling a bit weak after his operation.
+• The team has a strong attack, but its defence is weak.
+• My ankle is rather weak, so I always put a bandage on it to support it when I play tennis.
+• How do you like your tea - strong or weak?
+• We could just pick out the path in the weak beam of the torch.
+
+warrant
+warrant UK  [ˈwɒr. ə nt] US  [ˈwɔːr-] verb [warrants warranting warranted]
+ 
+MAKE NECESSARY
+1. transitive to make a particular activity necessary
+• Obviously what she did was wrong, but I don't think it warranted quite such severe punishment.
+• It's a relatively simple task that really doesn't warrant a great deal of time being spent on it.
+See also unwarranted
+Thesaurus+: ↑Essential or necessary
+ 
+PROMISE
+2. intransitive or transitive old-fashioned to say that you are certain about something
+Thesaurus+: ↑Making and breaking promises and commitments
+ 
+noun
+ 
+DOCUMENT
+1. countable an official document, signed by a judge or other person in authority, which gives the police permission to search someone's home, arrest a person or take some other action
+• a search warrant
+• Judge La Riva had issued an arrest warrant/a warrant for his arrest.
+Thesaurus+: ↑Official documents ↑Arresting and charging ↑The police generally
+ 
+REASON
+2. uncountable old-fashioned a reason for doing something
+• There's no warrant for that sort of behaviour!
+Thesaurus+: ↑Reasons and explanations
+From Longman DOCE 5th Ed. (En-En)
+warrant
+I. war‧rant1 /ˈwɒrənt $ ˈwɔː-, ˈwɑː-/ BrE  AmE  noun
+[Date: 1100-1200; Language: Old North French; Origin: warant]
+1. [countable] a legal document that is signed by a judge, allowing the police to take a particular action
+warrant for
+ The magistrate issued a warrant for his arrest. ⇨ ↑death warrant, ↑search warrant
+2. [countable] an official document giving someone the right to do something, for example buy ↑shares in a company:
+ The company issued warrants for 300,000 shares.
+3. formalno warrant for (doing) something no good reason for doing something:
+ There is no warrant for copying other people’s work.
+⇨ ↑unwarranted
+II. warrant2 BrE  AmE  verb [transitive]
+[Date: 1200-1300; Language: Old North French; Origin: warantir, from warant; ⇨ ↑warrant1]
+1. to need or deserve:
+ This tiny crowd does not warrant such a large police presence.
+warrant attention/consideration etc
+ Another area that warrants attention is that of funding for universities.
+2. to promise that something is true
+warrant that
+ The Author hereby warrants that the Publisher is the owner of the copyright.
+3. I’ll warrant (you) old-fashioned used to tell someone that you are sure about something
+warrant (that)
+ I’ll warrant we won’t see him again.
+ 
+ code-switch·ing
+nounLINGUISTICS
+the practice of alternating between two or more languages or varieties of language in conversation.
+"the conversational code-switching of the German American bilingual community"
+
+intervention
+in‧ter‧ven‧tion W3 AC /ˌɪntəˈvenʃən $ -tər-/ BrE  AmE  noun [uncountable and countable]
+[Word Family: verb: ↑intervene; noun: ↑intervention]
+the act of becoming involved in an argument, fight, or other difficult situation in order to change what happens:
+ government intervention to regulate prices
+intervene
+in‧ter‧vene AC /ˌɪntəˈviːn $ -tər-/ BrE  AmE  verb
+[Word Family: verb: ↑intervene; noun: ↑intervention]
+[Date: 1500-1600; Language: Latin; Origin: intervenire, from venire 'to come']
+1. [intransitive] to become involved in an argument, fight, or other difficult situation in order to change what happens
+intervene in
+ The police don’t usually like to intervene in disputes between husbands and wives.
+ The army will have to intervene to prevent further fighting.
+2. [intransitive and transitive] to interrupt someone when they are speaking:
+ ‘Stop shouting, Emily,’ John intervened.
+3. [intransitive] if an event intervenes, it delays or interrupts something else:
+ He was just establishing his career when the war intervened.
+4. [intransitive] if a period of time intervenes, it comes between two events:
+ In the six years that intervened, I saw them once.
+ 
+ wash (sth) out phrasal verb before or after object [washes sth out washing sth out washed sth out washed sth out washed sth out]
+If a colour or dirty mark washes out, or if you wash it out, it disappears when you wash it
+• Do you think these stains will wash out?
+Thesaurus+: ↑Cleaning generally ↑Personal hygiene and appearance - general words
+Main entry: washphrasal verb
+From Longman DOCE 5th Ed. (En-En)
+wash out
+wash out phrasal verb (see also ↑wash)
+1. wash something ↔ out to wash the inside of something quickly:
+ I’ll just wash out this vase for flowers.
+2. if a substance washes out, you can remove it from a material by washing it:
+ a dye that won’t wash out
+3. be washed out if an event is washed out, it cannot continue because of rain:
+ The summer fair was washed out by the English weather.
+⇨ ↑washed-out, ↑washout
+From Oxford Advanced Learners Dictionary 8th Ed.
+washed out
+ˌwashed ˈout [washed out] BrE   NAmE   adjective
+1. (of cloth, clothes or colours) no longer brightly coloured, often as a result of frequent washing
+• She didn't like jeans that looked too washed out.
+• a pair of washed-out old jeans
+• The walls were a washed-out blue colour.
+2. (of a person) pale and tired
+Syn: ↑exhausted
+• He always looks washed out at the end of the week.
+wash out
+ˌwash ˈout derived
+(of a dirty mark) to be removed from clothes by washing
+• These ink stains won't wash out.
+Main entry: ↑washderived
+
+pro·té·gé
+/ˈprōdəˌZHā,ˌprōdəˈZHā/
+noun
+plural noun: protégés; plural noun: proteges
+a person who is guided and supported by an older and more experienced or influential person
+
+seizure
+seizure UK  [ˈsiː.ʒə r ] US  [-ʒɚ] noun [seizures]
+ 
+TAKING
+1. countable or uncountable the action of seizing something by force or with legal authority
+• seizure of power/property/control
+• Seizures of illicit drugs have increased by 30% this year.
+Thesaurus+: ↑Taking things away from someone or somewhere ↑Removing and getting rid of things
+ 
+MEDICAL
+2. countable a very sudden attack of an illness involving unconsciousness or violent movement
+• an epileptic seizure
+Thesaurus+: ↑Disease and illness - general words
+3. countable old use a sudden failure of the heart
+• His aunt died of a seizure.
+• figurative humorous When I told her how much it cost she nearly had a seizure (= she was very shocked).
+Thesaurus+: ↑Disorders and diseases of the heart and blood
+
+savant
+sav‧ant /ˈsævənt $ səˈvɑːnt, sæ-/ BrE  AmE  noun [countable] formal
+[Date: 1700-1800; Language: French; Origin: present participle of savoir 'to know']
+1. someone who knows a lot about a subject
+2. someone who has mental problems and may have lower intelligence than average, but who can do one thing very well, such as adding numbers very quickly
+From Oxford Advanced Learners Dictionary 8th Ed.
+savant
+sav·ant [savant savants] BrE [ˈsævənt]  NAmE [sæˈvɑːnt]  noun (formal)
+1. a person with great knowledge and ability
+2. a person who is less intelligent than others but who has particular unusual abilities that other people do not have
+ 
+Word Origin:
+early 18th cent.: French, literally ‘knowing (person)’, present participle (used as a noun) of savoir.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+savant
+
+ / 5sAvEnt; ?@ sA5vB:nt; sA`vBnt/ n (fml 文) person of great learning 博学之士; 学者; 专家.
+ 
+ acknowledgement
+ac‧knowl‧edge‧ment AC BrE  AmE , acknowledgment /əkˈnɒlɪdʒmənt $ -ˈnɑː-/ noun
+[Word Family: verb: ↑acknowledge; noun: ↑acknowledgement]
+1. [uncountable and countable] the act of admitting or accepting that something is true
+acknowledgement of
+ We want an acknowledgement of the existence of the problem.
+acknowledgement that
+ The reduction in their grant is an acknowledgement that they have been paid too much.
+2. [singular, uncountable] a movement of your body that shows that you have noticed someone or heard what they have said:
+ Basil nodded an acknowledgement as he entered the room.
+ He gave her a faint smile of acknowledgement.
+in acknowledgement
+ Larsen looked over and nodded in acknowledgement.
+3. [uncountable and countable] the act of publicly thanking someone for something they have done
+in acknowledgement of something
+ She received a special award in acknowledgement of all her hard work.
+4. [uncountable and countable] a letter written to tell someone that you have received their letter, message etc:
+ Do you want a written acknowledgement?
+5. acknowledgements [plural] a short piece of writing at the beginning or end of a book in which the writer thanks all the people who have helped him or her
+acknowledge
+ac‧knowl‧edge S3 W3 AC /əkˈnɒlɪdʒ $ -ˈnɑː-/ BrE  AmE  verb [transitive]
+[Word Family: verb: ↑acknowledge; noun: ↑acknowledgement]
+[Date: 1400-1500; Origin: ac- (as in accord) + knowledge]
+1. ADMIT to admit or accept that something is true or that a situation exists:
+ The family acknowledge the need for change.
+acknowledge that
+ He acknowledges that when he’s tired he gets bad-tempered.
+ Claire acknowledged that she was guilty.
+ The government must acknowledge what is happening and do something about it.
+ ‘Maybe you are right,’ she acknowledged.
+ This is a fact that most smokers readily acknowledge.
+2. RECOGNIZE STH’S IMPORTANCE [usually passive] if people acknowledge something, they recognize how good or important it is
+acknowledge something as something
+ The film festival is acknowledged as an event of international importance.
+be widely/generally acknowledged to be something
+ The mill produces what is widely acknowledged to be the finest wool in the world.
+3. ACCEPT SB’S AUTHORITY to accept that someone or something has authority over people:
+ Both defendants refused to acknowledge the authority of the court.
+acknowledge somebody as something
+ Many of the poor acknowledged him as their spiritual leader.
+4. THANK to publicly announce that you are grateful for the help that someone has given you:
+ We wish to acknowledge the support of the university.
+5. SHOW YOU NOTICE SOMEBODY to show someone that you have noticed them or heard what they have said:
+ Tom acknowledged her presence by a brief glance.
+6. SAY YOU HAVE RECEIVED SOMETHING to let someone know that you have received something from them:
+ I would be grateful if you would acknowledge receipt of this letter.
+ 
+ possession
+pos‧ses‧sion W3 /pəˈzeʃən/ BrE  AmE  noun
+1. HAVING SOMETHING [uncountable] formal if something is in your possession, you own it, or you have obtained it from somewhere
+in sb’s possession
+ The house has been in the family’s possession since the 1500s.
+ That information is not in our possession.
+in possession of something
+ She was found in possession of stolen goods.
+ How did the painting come into your possession (=how did you get it)?
+ The finance company now has possession of the house.
+ We didn’t take possession of (=get and start using) the car until a few days after the auction.
+2. SOMETHING YOU OWN [countable usually plural] something that you own or have with you at a particular time SYN belongings:
+ He had sold all his possessions and left the country.
+ I packed my remaining possessions into the trunk.
+treasured/prized/precious possession (=one that is very important to you)
+ This old violin had been her father’s most treasured possession.
+ Prisoners were allowed no personal possessions.
+3. CRIME [uncountable] law the crime of having illegal drugs or weapons with you or in your home
+possession of
+ He was arrested and charged with possession of cocaine.
+4. SPORT [uncountable] when a person or team has control of the ball in some sports
+win/lose/gain etc possession
+ Pittsburgh got possession and scored.
+5. COUNTRY [countable usually plural] a country controlled or governed by another country:
+ France’s former colonial possessions
+6. EVIL SPIRITS [uncountable] a situation in which someone’s mind is being controlled by something evil:
+ Was it a case of demonic possession?
+7. in (full) possession of your faculties/senses able to think in a clear and intelligent way, and not crazy or affected by old age
+8. possession is nine-tenths of the law used to say that if you have something, you are likely to be able to keep it, even if it is not yours
+• • •
+COLLOCATIONS (for Meaning 1)
+■ phrases
+▪ be in somebody's possession The painting has been in the family's possession since then.
+▪ come into somebody's possession You have a duty not to disclose confidential information that comes into your possession.
+▪ be in possession of something (=have it) Before applying for a job, make sure you are in possession of the required qualifications.
+▪ have something in your possession (=have it) My father had in his possession a letter written by Winston Churchill.
+▪ come into possession of something (=start having it) How did you come into possession of this document?
+▪ take possession of something (=start having or using it) At 21, he was entitled to take possession of the property.
+• • •
+COLLOCATIONS (for Meaning 2)
+■ adjectives
+▪ somebody's personal possessions We were told that we could take only a few personal possessions with us.
+▪ somebody's worldly possessions literary (=everything they own) Over his shoulder hung a bag which contained all his worldly possessions.
+▪ material possessions (=things you own, rather than personal qualities, relationships etc) Many of them have lost all their material possessions as a result of the civil war.
+▪ a precious possession (=one that is valuable or important to you) A man was salvaging a few precious possessions from the rubble of a bombed house.
+▪ a prized/treasured possession (=one that is very important to you) One of my most treasured possessions is a small book of prayers.
+
+bail out
+bail out phrasal verb (see also ↑bail)
+1. bail somebody/something ↔ out (also bale somebody/something ↔ out British English) to do something to help someone out of trouble, especially financial problems:
+ Some local businesses have offered to bail out the museum.
+ Sutton bailed his team out with a goal in the last minute.
+2. bail somebody ↔ out to leave a large sum of money with a court so that someone can be let out of prison while waiting for their ↑trial:
+ Clarke’s family paid £500 to bail him out.
+3. American English to escape from a plane, using a ↑parachute SYN bale out British English
+4. bail something ↔ out (also bale something ↔ out British English) to remove water that has come into a boat
+
+dessert
+des‧sert /dɪˈzɜːt $ -ɜːrt/ BrE  AmE  noun [uncountable and countable]
+[Date: 1500-1600; Language: French; Origin: desservir 'to clear the table', from servir 'to serve']
+sweet food served after the main part of a meal
+for dessert
+ What are we having for dessert?
+• • •
+THESAURUS
+■ parts of a large meal
+▪ hors d'oeuvre (also starter British English, appetizer American English) the small first part of a meal: a tempting plate of hors d'oeuvres including olives and small pieces of roast beetroot
+▪ main course (also entrée especially American English) the main part of a meal. entrée is used especially on restaurant ↑menus: For the main course we had cheese and onion pie. | The menu includes a few hot entrées.
+▪ dessert (also pudding British English or sweet British English) sweet food eaten at the end of a meal: What do you want for dessert? | They serve a wide range of desserts, including ice cream and home-made apple pie.
+
+turf
+I. turf1 /tɜːf $ tɜːrf/ BrE  AmE  noun (plural turfs or turves) /tɜːvz $ tɜːrvz/
+[Language: Old English]
+1. [uncountable] especially British English a surface that consists of soil with grass on top, or an artificial surface that looks like this:
+ soft green turf
+2. [countable] British English a square piece of turf cut out of the ground
+3. the turf the sport of horse racing, or the track on which horses race
+4. [uncountable] informal an area that you think of as being your own:
+ How vigorously will the local companies defend their turf?
+sb’s own/home turf (=the place that someone comes from or lives in)
+ We beat Canada on their home turf.
+turf war/battle (=a fight or argument over the areas or things you think belong to you)
+ turf wars among government bureaucracies
+II. turf2 BrE  AmE  verb [transitive]
+to cover an area of land with turf
+turf somebody ↔ out (also turf somebody off (something)) phrasal verb
+British English informal to make someone leave a place or organization, usually suddenly or roughly SYN kick somebody out
+turf somebody ↔ out of
+ The families claim they are being turfed out of their homes.
+ 
