@@ -17442,6 +17442,7 @@ buzz of
  I’ll give you a buzz on Monday.
 5. the buzz informal unofficial news or information that is spread by people telling each other ⇨ gossip, rumour
 
+<<<<<<< HEAD
 flop
 I. flop1 /flɒp $ flɑːp/ BrE  AmE  verb (past tense and past participle flopped, present participle flopping) [intransitive]
 [Date: 1600-1700; Origin: ⇨ ↑flap2]
@@ -18217,3 +18218,1521 @@ CHEMISTRY
 3. specialized when a solid substance is produced from a liquid during a chemical process
 • The compound is finally obtained by precipitation.
 Thesaurus+: ↑Physical and chemical processes
+=======
+valedictorian
+val‧e‧dic‧to‧ri‧an /ˌvælədɪkˈtɔːriən, ˌvælɪdɪkˈtɔːriən/ BrE  AmE  noun [countable] American English
+the student who has received the best marks all the way through school, and who usually makes a speech at the ↑graduation ceremony
+
+catalogue
+catalogue UK  [ˈkæt. ə l.ɒg] US  [ˈkæt ̬. ə l.ɑːg] noun (US usually catalog) [catalogues]
+ 
+LIST
+1. <A > countable a book with a list of all the goods that you can buy from a shop
+• a mail-order catalogue
+Thesaurus+: ↑Lists and catalogues ↑Schedules and agendas
+2. countable a list of all the books, paintings, etc. that exist in a place
+Thesaurus+: ↑Lists and catalogues ↑Schedules and agendas
+ 
+• Do you often buy goods from mail-order catalogues?
+• Our autumn catalogue is now available from our usual stockists.
+• Granddad was browsing through a seed and plant catalogue.
+• I've sent off for a catalogue, as I can't get in to their Cambridge shop nowadays.
+• If you order goods from the catalogue, they usually arrive within the week.
+ 
+BAD EVENTS
+3. only singular A catalogue of unwanted events is a series of them
+• The whole holiday was a catalogue of disasters.
+• a catalogue of errors/crimes/complaints
+Thesaurus+: ↑Order and sequence ↑Simultaneous and consecutive
+ 
+verb transitive
+to record something, especially in a list
+• Many plants become extinct before they have even been catalogued.
+Thesaurus+: ↑Classifying and creating order
+From Longman DOCE 5th Ed. (En-En)
+catalog
+I. cat‧a‧logue1 W3 BrE  AmE  (also catalog American English) /ˈkætəlɒɡ $ -lɒːɡ, -lɑːɡ/ noun [countable]
+1. a complete list of things that you can look at, buy, or use, for example in a library or at an art show:
+ a mail order catalog
+ an online catalogue
+2. catalogue of mistakes/crimes/cruelty etc a series of mistakes, crimes etc that happen one after the other and never seem to stop:
+ a catalogue of terrorist crimes
+ an appalling catalogue of errors
+II. catalogue2 BrE  AmE  (also catalog American English) verb [transitive]
+1. to make a complete list of all the things in a group:
+ The manuscripts have never been systematically catalogued.
+2. to list all the things that are connected with a particular person, event, plan etc:
+ The report catalogued numerous dangerous work practices.
+ 
+ 1. a complete list of items, for example of things that people can look at or buy
+• a mail-order catalogue (= a book showing goods for sale to be sent to people's homes)
+• to consult the library catalogue
+• An illustrated catalogue accompanies the exhibition.
+• an online catalogue
+2. a long series of things that happen (usually bad things)
+• a catalogue of disasters/errors/misfortunes
+ 
+Word Origin:
+late Middle English: via Old French from late Latin catalogus, from Greek katalogos, from katalegein ‘pick out or enrol’.
+ 
+Example Bank:
+• More details are given in our catalogue.
+• Send off for our illustrated catalogue of garden plants.
+• The gallery produced a catalogue of young artists.
+• Child protection officers uncovered a catalogue of cruelty and abuse.
+• Please take a look at our online catalogue.
+• She consulted the museum catalogue.
+• The commission reported a catalogue of errors that went right to the top of government.
+• What followed was a whole catalogue of disasters.
+• What we have here is a catalogue of failure.
+• a mail-order catalogue
+
+reverence
+rev·er·ence [reverence reverences reverenced reverencing] BrE [ˈrevərəns]  NAmE [ˈrevərəns]  noun uncountable ~ (for sb/sth) (formal)
+a feeling of great respect or admiration for sb/sth
+• The poem conveys his deep reverence for nature.
+ 
+Word Origin:
+Middle English: from Old French, from Latin reverentia, from revereri ‘stand in awe of’, from re- (expressing intensive force) + vereri ‘to fear’.
+ 
+Example Bank:
+• Children are taught to show reverence towards/toward their elders.
+• He is still held in great reverence throughout the country.
+• I closed my eyes in reverence.
+• She spoke of them with profound reverence.
+• a painting that inspires deep reverence for nature
+• reverence for human life
+
+minutiae
+noun
+EXAMPLES FROM CORPUS
+▪ But I found that time and grief had erased the daily minutiae I wanted.
+▪ Cliff Benjamin taps large paintings to portray minutiae and outer space panoramas, all connected to images in the natural world.
+▪ Even the minutiae of the airline business obsessed him more than the minutiae of the record business ever had.
+▪ If so, such a flurry of heralding minutiae escaped me.
+▪ It revealed an unrepentantly superficial world where life revolved around the minutiae of outward appearances and public display.
+▪ The orchestral world is rife with three-minute fanfares, five-minute fantasies and other musical minutiae.
+▪ This usually takes the form of obsessively pursuing the minutiae of experimental phenomena and theories that leave a subsequent generation cold.
+
+charm
+I. charm1 /tʃɑːm $ tʃɑːrm/ BrE  AmE  noun
+[Date: 1200-1300; Language: Old French; Origin: charme, from Latin carmen 'song', from canere 'to sing']
+1. [uncountable and countable] a special quality someone or something has that makes people like them, feel attracted to them, or be easily influenced by them – used to show approval ⇨ charming:
+ Joe’s boyish charm
+charm of
+ the charm of this small Southern city
+ She turned on the charm (=used her charm) to all the men.
+ The room had no windows and all the charm of a prison cell (=used to say that something has no charm).
+2. [countable] a very small object worn on a chain or ↑bracelet:
+ a charm bracelet
+ a small gold horseshoe worn as a lucky charm
+3. [countable] a phrase or action believed to have special magic powers SYN spell
+4. work like a charm to work exactly as you had hoped:
+ The new sales program has worked like a charm.
+• • •
+COLLOCATIONS
+■ verbs
+▪ have charm Richard was clever and he had a lot of charm.
+▪ use your charm She knew when to use her charm in order to get what she wanted.
+▪ turn on the charm (=use your charm to get something) If you turn on the charm, I’m sure you’ll get the job.
+▪ ooze charm (=have or show a lot of charm) Every time she saw him, he oozed charm.
+▪ lack charm/be lacking in charm A lot of new buildings lack charm.
+▪ something loses its charm He was getting older, and travel was losing its charm.
+▪ succumb to sb’s/sth’s charms (=allow yourself to be influenced by their charms) Thomas seemed to be succumbing to Sylvie's charms.
+▪ resist sb’s charm (=not allow yourself to be influenced by someone’s charm) People say that it was impossible to resist Burton’s charm.
+▪ be part of somebody's/something's charm The house is a long way from anywhere and that is part of its charm.
+■ adjectives
+▪ boyish charm Women seem to love his boyish charm.
+▪ great charm He was a man of great charm.
+▪ easy charm (=relaxed charm) Hudson was full of easy charm and smiles.
+▪ rustic charm (=charm that is simple, old-fashioned and typical of the countryside) The cottage had a certain rustic charm.
+▪ natural charm She had a quiet natural charm that everyone liked.
+▪ personal charm He was a man of great personal charm.
+▪ considerable charm Their music has considerable charm.
+▪ immense charm (=very great) No one could resist his immense charm.
+
+LUCKY OBJECT
+2. countable an object or saying which is thought to have magical powers, such as the ability to bring good luck
+• He keeps a rabbit's paw as a lucky/good luck charm.
+Thesaurus+: ↑Lucky charms
+
+dementia
+
+ / dI5menFE; dI`mZnFE/ n [U] (medical 医) madness with loss of powers of thinking due to brain disease or injury 痴呆.
+
+ # dementia praecox / dI9menFE 5pri:kCks; dI9mZnFE `pri9kBks/ (fml 文) schizophrenia 早发性痴呆症; 精神分裂症.
+From Longman DOCE5 Extras (En-En)
+dementia
+noun
+COLLOCATIONS FROM OTHER ENTRIES
+senile dementia
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+senile
+▪ Mr Allsopp was known to suffer from senile dementia and was often seen walking in the area.
+▪ In this sense the world would be a better place without mental retardation, madness, and senile dementia.
+▪ I've heard there's a link between this condition and senile dementia.
+▪ The main gap was in provision for elderly people with senile dementia and for the new long-stay population.
+▪ Most studies have investigated senile dementia in relatively small populations.
+▪ He is suffering from senile dementia: the deterioration of a super brain.
+▪ Alzheimer's Disease was now widely known and recognised as an incurable form of senile dementia.
+▪ Maybe he was suffering from premature senile dementia?
+
+take
+▪ Living in a hot place like Miami takes its toll.
+▪ All the long seasons ending with championship series, all the tough games, it takes a toll.
+▪ In towns, the ever-increasing motor traffic takes its toll of crumbling sewers.
+▪ It was great for about an hour or so and then the effort of keeping warm began to take its toll.
+▪ And Katherine could do with all the comfort she could get for the illness was slowly and inexorably taking its toll.
+▪ But things went downhill as the days went by-and the drudgery in much of the work took its toll.
+▪ Furthermore, twelve months of fencing with Malcolm McLaren had taken a toll on Branson's nerves.
+▪ This naturally takes a toll on intellectual honesty.
+
+indentation
+in‧den‧ta‧tion /ˌɪndenˈteɪʃən/ BrE  AmE  (also indent) noun [countable]
+1. a space at the beginning of a line of writing
+2. a cut into the surface or edge of something:
+ Make an indentation in the center of each cookie.
+From Oxford Advanced Learners Dictionary 8th Ed.
+indentation
+in·den·ta·tion [indentation indentations] BrE [ˌɪndenˈteɪʃn]  NAmE [ˌɪndenˈteɪʃn]  noun
+1. countable a cut or mark on the edge or surface of sth
+• The horse's hooves left deep indentations in the mud.
+2. (also in·dent) countable a space left at the beginning of a line of print or writing
+3. uncountable the action of indenting sth or the process of being ↑indented
+See also: ↑indent
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+indent
+
+ / In5dent; In`dZnt/ v 
+ [Tn] make a mark or set of marks (as if) by cutting into the edge or surface of (sth) （在物体边缘或面上）造成凹陷、凹坑或缺口: an indented (ie very irregular) coastline 犬牙交错的海岸线. 
+ [I, Tn] start (a line of print or writing) further in from the margin than the other lines 缩进（排印或书写一行的前端）; 缩排; 缩格书写: Please indent the first line of each paragraph. 请于每段第一行缩格书写. 
+ [Ipr] ~ (on sb) for sth (commerce 商 esp Brit) make an official order for goods or stores 订购; 订货: indent on the firm for new equipment, ie place an order for which the firm will pay 为公司订购新设备（订货由公司付款）.
+
+ > indent / 5Indent; `IndZnt/ n (commerce 商 esp Brit) official order for stores or equipment （货物或设备）订货, 定单.
+ indentation / 9Inden5teIFn; 9IndZn`teFEn/ n 
+ [U] indenting (indent 1, 2) or being indented 作凹坑或锯齿状; 缩进排印或书写. 
+ [C] (a) ~ (in sth) mark made by indenting 凹陷; 凹坑; 缺口: the deep indentations of the Norwegian coastline 挪威海岸线的犬牙交错状. (b) space left at the beginning of a line of print or writing （排印或书写的）行首空格.
+ 
+ sprinkle
+I. sprin‧kle1 /ˈsprɪŋkəl/ BrE  AmE  verb
+[Date: 1300-1400; Origin: Perhaps from Middle Dutch sprenkelen]
+1. [transitive] to scatter small drops of liquid or small pieces of something
+sprinkle something with something
+ Sprinkle the top with cheese.
+sprinkle something on/over something
+ I sprinkled cocoa over my latte.
+2. be sprinkled with jokes/quotations etc to be full of jokes etc:
+ The book is liberally sprinkled with clichés.
+3. it is sprinkling American English if it is sprinkling, it is raining lightly
+II. sprinkle2 BrE  AmE  noun [singular]
+1. a small amount of something, especially scattered on top of something SYN sprinkling
+sprinkle of
+ Add a sprinkle of salt.
+2. American English a light rain SYN drizzle
+
+. on your feet
+a) to be standing for a long time without having time to sit down:
+ The worst thing about working in the shop is that you’re on your feet all day. ⇨ dead on your feet at ↑dead1(8)
+b) to be standing up:
+ As soon as the bell rang the class were on their feet and out of the door.
+c) to feel better again after being ill and in bed:
+ We’ll soon have you on your feet again.
+7. be/get back on your feet to have enough money again, or to be successful again after having problems:
+ I need to get back on my feet again and forget all this.
+8. off your feet sitting or lying down, rather than standing or walking:
+ The doctor told me to stay off my feet for a few days.
+9. knock/lift etc somebody off their feet to make someone fall over:
+ They were blown off their feet by the force of the explosion.
+ 
+ II. retreat2 BrE  AmE  noun
+[Date: 1200-1300; Language: Old French; Origin: retret, from retraire 'to withdraw', from Latin retrahere; ⇨ ↑retract]
+1. OF AN ARMY [uncountable and countable] a movement away from the enemy after a defeat in battle OPP advance:
+ Napoleon’s retreat from Moscow
+ The rebel forces are in full retreat (=retreating very fast).
+ The bugler sounded the retreat (=gave a loud signal for retreat).
+2. MOVEMENT BACK [singular, uncountable] a movement away from someone or something
+retreat from
+ Ten thousand years ago the ice began its retreat from Scotland.
+3. beat a retreat informal to leave a place quickly:
+ I saw my aunt coming and beat a hasty retreat.
+4. CHANGE OF INTENTION [singular, uncountable] when you change your mind about something because your idea was unpopular or too difficult
+retreat from
+ a retreat from hard-line policies
+5. PLACE [countable] a place you can go to that is quiet or safe:
+ a country retreat
+6. THOUGHT AND PRAYER [uncountable and countable] a period of time that you spend praying or studying religion in a quiet place
+on (a) retreat
+ I spent three weeks on retreat in Scotland.
+7. FINANCE [singular, uncountable] technical a situation in which the value of shares etc falls to a lower level
+
+subpoena
+subpoena UK  US  [səˈpiː.nə] legal verb transitive [subpoenas subpoenaing subpoenaed]
+1. to order someone to go to a court of law to answer questions
+• A friend of the victim was subpoenaed as a witness by lawyers representing the accused.
+• + to infinitive They were subpoenaed to testify before the judge.
+Thesaurus+: ↑Taking legal action
+2. to order that documents must be produced in a court of law
+Thesaurus+: ↑Taking legal action
+ 
+noun countable
+a legal document ordering someone to appear in a court of law
+• Subpoenas were issued to several government employees.
+Thesaurus+: ↑Taking legal action
+
+courthouse
+courthouse UK [ˈkɔːt.haʊs] US  [ˈkɔːrt-] US noun countable [courthouses]
+a building which contains law courts
+• a county/federal courthouse
+Thesaurus+: ↑Law courts
+
+picket
+I. pick‧et1 /ˈpɪkət, ˈpɪkɪt/ BrE  AmE  noun [countable]
+[Date: 1600-1700; Language: French; Origin: piquet, from piquer 'to prick']
+1.
+a) when a group of people stand or march in front of a shop, factory, government building etc to protest about something or to stop people from going in during a ↑strike:
+ There was a mass picket (=one involving a lot of people) by students outside the main office of the university.
+picket of
+ They organized a picket of the power station.
+b) a person or the group of people involved in a picket:
+ The pickets persuaded some drivers not to enter the factory. ⇨ ↑flying picket
+2. a soldier or a group of soldiers with the special duty of guarding a military camp:
+ He’s on picket duty tonight.
+II. picket2 BrE  AmE  verb
+1. [intransitive and transitive] to stand or march in front of a shop, factory, government building etc to protest about something or to stop people from going in during a ↑strike:
+ Protesters are still picketing outside the White House gates.
+ a group of picketing miners
+2. [transitive] to place soldiers around or near a place as guards
+—picketing noun [uncountable]:
+ The new law will still allow peaceful picketing.
+ 
+ bigot
+big‧ot /ˈbɪɡət/ BrE  AmE  noun [countable]
+[Date: 1500-1600; Language: French]
+someone who is bigoted:
+ racist bigots
+• • •
+THESAURUS
+■ people who are prejudiced
+▪ racist someone who treats people of other races unfairly or badly: When he expressed his opinion, he was branded a racist.
+▪ bigot someone who has strong unreasonable opinions, especially about race or religion: a racist bigot
+▪ sexist someone, especially a man, who believes that their sex is better, more intelligent, more important etc than the other: Will the sexists ever support a female President?
+bigotry
+bigotry UK  US  [ˈbɪg.ə.tri] noun uncountable
+• religious/racial bigotry
+Thesaurus+: ↑Narrow-minded
+Main entry: bigotderived
+bigot
+bigot UK  US  [ˈbɪg.ət] disapproving noun countable [bigots]
+a person who has strong, unreasonable beliefs and who thinks that anyone who does not have the same beliefs is wrong
+• a religious bigot
+• He was known to be a loud-mouthed, opinionated bigot.
+Thesaurus+: ↑Unpleasant people in general ↑Unpleasant men
+Derived: bigoted ▪ bigotry
+From Longman DOCE 5th Ed. (En-En)
+bigotry
+big‧ot‧ry /ˈbɪɡətri/ BrE  AmE  noun [uncountable]
+bigoted behaviour or beliefs SYN prejudice:
+ sensational news stories that just encourage bigotry
+• • •
+THESAURUS
+▪ prejudice an unreasonable dislike and distrust of people who are different from you in some way, especially because of their race, sex, religion etc: racial prejudice | prejudice against women
+▪ discrimination the practice of treating one group of people differently from another in an unfair way: There is widespread discrimination against older people. | the laws on sex discrimination
+▪ intolerance an unreasonable refusal to accept beliefs, customs, and ways of thinking that are different from your own: religious intolerance | There is an atmosphere of intolerance in the media.
+▪ bigotry a completely unreasonable hatred for people of a different race, religion etc, based on strong and fixed opinions: religious bigotry | the bigotry directed at Jews and other ethnic groups
+▪ racism/racial prejudice unfair treatment of people because they belong to a different race: Many black people have been the victims of racism in Britain. | Some immigrant groups faced racism, for example Jews and Italians, while others, such as Scandinavians, did not.
+▪ sexism the belief that one sex, especially women, is weaker, less intelligent etc than the other, especially when this results in someone being treated unfairly: sexism in language | She accused him of sexism.
+▪ ageism (also agism American English) unfair treatment of people because they are old: The new law aims to stop ageism in the workplace.
+▪ homophobia prejudice towards or hatred of gay people: homophobia in the armed forces
+▪ xenophobia /ˌzenəˈfəʊbiə $ -ˈfoʊ-/ hatred and fear of foreigners: the xenophobia of the right-wing press
+▪ anti-Semitism a strong feeling of hatred toward Jewish people: Is anti-Semitism on the increase?
+▪ Islamophobia hatred and fear of Muslims: the rise of Islamophobia and right-wing extremism in Europe
+▪ gay/union/America etc bashing unfair public criticism of gay people, union members, the American government etc: The minister was accused of union bashing. | There's so much America-bashing in the liberal press.
+
+bonehead
+noun
+EXAMPLES FROM CORPUS
+▪ Bettman inherited a league that revolved around a rubber disk and, for the most part, was directed by boneheads.
+
+despair
+despair UK  [dɪˈspeə r ] US  [-ˈsper] noun uncountable
+1. <A > the feeling that there is no hope and that you can do nothing to improve a difficult or worrying situation
+• a mood/sense of despair
+• They're in (the depths of) despair over/about the money they've lost.
+• To her teacher's despair, Nicole never does the work that she's told to do.
+• Their fourth year without rain drove many farmers to (= caused them to feel) despair.
+Thesaurus+: ↑Sadness and regret
+2. be the despair of sb
+to cause someone such difficulties that they do not know how to deal with you
+• He's the despair of his parents because he shows no interest in getting a job.
+Thesaurus+: ↑Complicated and difficult to do ↑Difficult to understand
+ 
+• A feeling of despair descended on us as we realized that we were completely lost.
+• He was plunged into despair when his wife left him.
+• In despair, the theatre director searched everywhere for a new lead actor.
+• Over a bottle of wine, we shared our despair over the state of our marriages.
+• He sank into deep despair when he lost his job.
+ 
+verb intransitive
+to feel despair about something or someone
+• Don't despair! We'll find a way out!
+• I despair at/over the policies of this government.
+• They began to despair of ever being rescued.
+Thesaurus+: ↑Not hopeful
+Derived: despairing ▪ despairingly
+From Longman DOCE 5th Ed. (En-En)
+despair
+I. de‧spair1 /dɪˈspeə $ -ˈsper/ BrE  AmE  noun [uncountable]
+1. a feeling that you have no hope at all
+in despair
+ She killed herself in despair.
+the depths of despair (=very strong feelings of despair)
+ The noise from the neighbours used to drive him to despair.
+to the despair of somebody
+ To the despair of the workers, the company announced the closure of the factory.
+2. be the despair of somebody old-fashioned to make someone feel very worried, upset, or unhappy:
+ She is the despair of her teachers.
+• • •
+THESAURUS
+▪ sadness a sad feeling, caused especially when a happy time is ending, or when you feel sorry about someone else’s unhappiness: Charles felt a great sense of sadness and loss. | I noticed a little sadness in her eyes.
+▪ unhappiness the unhappy feeling you have when you are in a very difficult or unpleasant situation, especially when this lasts for a long time: After years of unhappiness, she finally decided to leave him. | She was a tense, nervous young woman, whose deep unhappiness was obvious to all those around her. | You do not know how much pain and unhappiness you have caused.
+▪ sorrow written the feeling of being very sad, especially because someone has died or because terrible things have happened to you: There seemed to be nowhere to go to be alone with her sorrow. | His heart was filled with great sorrow after her death.
+▪ misery great unhappiness, caused especially by living or working in very bad conditions: The cold weather is with us again and the misery of the homeless is increasing. | Thousands of families were destined to a life of misery. | The misery and pain he caused were, for him, merely a measure of his success.
+▪ despair a feeling of great unhappiness, because very bad things have happened and you have no hope that anything will change: At the end of the month, she still had no job and was tired, frustrated, and close to despair.
+▪ grief great sadness that you feel when someone you love has died: He was overcome with grief when his wife died.
+▪ heartache a strong feeling of great sadness, especially because you miss someone you love: She remembered the heartache of the first Christmas spent away from her sons.
+▪ depression a mental illness that makes someone feel so unhappy that they have no energy or hope for the future, and they cannot live a normal life: He slipped into a depression in which he hardly ate or even left his room.
+▪ despondency formal a feeling of being very unhappy and without hope: She felt useless, and this contributed to her despondency.
+▪ melancholy literary a feeling of sadness, that you feel even though there is no particular reason for it: Modigliani expressed his melancholy through his painting.
+II. despair2 BrE  AmE  verb [intransitive] formal
+[Date: 1200-1300; Language: Old French; Origin: desperer, from Latin desperare, from sperare 'to hope']
+to feel that there is no hope at all:
+ Despite his illness, Ron never despaired.
+despair of (doing) something
+ He despaired of ever finding her.
+despair of somebody
+ My teachers began to despair of me.
+ 
+ turnaround
+noun
+COLLOCATIONS FROM CORPUS
+■ NOUN
+time
+▪ Other methods of monitoring response and turnaround times are therefore needed.
+EXAMPLES FROM OTHER ENTRIES
+▪ Jenkins is confident the company will make a major turnaround this year.
+▪ The expected turnaround in the beer industry has, for various reasons, not yet occurred.
+▪ The team's dramatic turnaround is attributed to their new coach Bill Snyder.
+EXAMPLES FROM CORPUS
+▪ Having worked hard to build openness, ownership, and commitment, the Frangos team knew this decision would kill any turnaround.
+▪ Monorail does the upgrades itself, paying for Federal Express shipping both ways and guaranteeing a four-to six-day turnaround.
+▪ Patrick had briefed him on the reasons for their sudden turnaround in Bucharest and the dash back to the Channel.
+▪ Reyna used a tricky turnaround move to elude the only defender before firing from 8 yards into the empty goal.
+▪ The turnaround in the current balance was heroic, from - 25 percent of total payments to +6.0 percent.
+▪ The last row of Table 16-1 shows the turnaround in total spending since 1984.
+
+collegiality (countable and uncountable, plural collegialities)
+collegial atmosphere; working with colleagues in an effective and cooperative manner
+2003, Nigel Bennett, Megan Crawford, Marion Cartwright, Effective Educational Leadership, SAGE, →ISBN, page 248:
+To what extent does collegiality still exist in the management here?
+2010, Laura Empson, Managing the Modern Law Firm: New Challenges, New Perspectives, OUP Oxford, →ISBN, page 213:
+Within a global law firm there is plainly a need for a common culture and collegiality: every lawyer a client deals with anywhere in the world is a representative of the firm and needs to exhibit common values. The teamwork which is critical to a global firm strategy is based on a collegial approach.
+2012, Donald R. Songer, Susan Johnson, C.L. Ostberg, Matthew Wetstein, Law, Ideology, and Collegiality: Judicial Behaviour in the Supreme Court of Canada, McGill-Queen's Press - MQUP, →ISBN, page 153:
+Second, most of the justices suggested that informal norms of collegiality and respect for the opinions of colleagues often resulted in deliberate efforts to find acceptable compromise.
+
+tang
+
+ / tAN; tAN/ n (usu sing 通常作单数) sharp taste, flavour or smell, esp one that is characteristic of sth 强烈的味道或气味（尤指某物特有的）: with a tang of lemon 带柠檬味的 * There's a tang of autumn in the air. 空气中有秋天的气息.
+ > tangy / 5tANI; `tANI/ adj (-ier, -iest): a tangy aroma 浓烈的香味.
+From Longman DOCE5 Extras (En-En)
+tang
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ The lemon added a nice tang to the sauce.
+EXAMPLES FROM CORPUS
+▪ For the most part the tangs are herbivorous and constantly graze algae.
+▪ He never asked how is the tang, how is the parrot fish.
+▪ Holly and birch have a clean tang.
+▪ It savoured the tang of Biff's own saliva, similarly flavoured, like a waxing and ebbing tide inside his mouth.
+▪ She smelled the tang of fear in her nostrils and the taste of it in her mouth.
+▪ She was sticky with his blood, could smell the metallic tang of spilled life.
+▪ Tarragon: Another strongly aromatic herb, tarragon has a hint of licorice and a subtle tang.
+▪ The tang of some wild herb hung in the air: rosemary perhaps.
+
+ # `lynch law procedure followed when sb is lynched 私刑.
+From Longman DOCE5 Extras (En-En)
+lynch
+verb
+COLLOCATIONS FROM OTHER ENTRIES
+lynch mob
+COLLOCATIONS FROM CORPUS
+■ NOUN
+mob
+▪ How is that different from a vigilante lynch mob?
+▪ A new type of lynch mob is assembled.
+▪ This then is recruitment in the mode of the dogcatcher or the lynch mob.
+▪ Doc Holliday briefly practiced dentistry there after his escape from the Fort Griffin lynch mob.
+EXAMPLES FROM OTHER ENTRIES
+▪ One of the city leaders was nearly lynched on Nov. 27 by a mob.
+EXAMPLES FROM CORPUS
+▪ A black man was lynched in Mississippi.
+▪ A history of lynching has bred this reflex in her.
+▪ In the course of the riot the governor of the city was lynched.
+
+↑Young people
+Young people Thesaurus+ Level 3 (33)
+adolescence noun
+adolescent noun
+boyhood noun
+delinquent noun
+emo noun 2
+girlhood noun
+grow up phrasal verb 1 person
+junior noun 5 younger; adjective 2 younger
+juvenile noun 2
+kid noun 2 child
+laddish adjective
+laddishness noun
+mall rat noun
+minor noun 2 music
+punk noun 1 culture; noun 2 culture; adjective 3 criminal
+skinhead noun 1
+teddy boy noun
+teenager noun
+teens plural noun 1
+teenybopper noun
+tweenager noun
+yoof noun
+young plural noun 1
+young blood noun
+young lady idiom 1
+youngster noun
+youth noun 2 boy; noun 3 young people
+youth culture noun
+youthfulness noun
+
+placement
+place‧ment /ˈpleɪsmənt/ BrE  AmE  noun [uncountable and countable]
+[Word Family: noun: ↑place, ↑placement, ↑placing, ↑displacement, ↑replacement; verb: ↑place, ↑displace, ↑misplace, ↑replace; adjective: ↑displaced, ↑misplaced, ↑replaceable]
+1. the act of finding a place for someone to live or work:
+ The centre provides a job placement service.
+placement of
+ the placement of children in foster homes
+ They lived on campus, but this was just a temporary placement.
+2. British English a job, usually as part of a course of study, which gives you experience of a particular type of work
+on placement
+ Students are sent out on placement for training.
+ a forty-five day placement in a factory
+3. when something is placed somewhere or when you decide where something should go
+placement of
+ the placement of fire hydrants along the city’s streets
+ 
+ installment
+in‧stal‧ment BrE  AmE  (also installment American English) /ɪnˈstɔːlmənt $ ɪnˈstɒːl-/ noun [countable]
+1. one of a series of regular payments that you make until you have paid all the money you owe:
+ the second instalment of a loan
+ They’re letting me pay for the washing machine by monthly instalments.
+2. one of the parts of a story that appears as a series of parts, especially in a magazine, newspaper etc:
+ the first instalment of a science fiction trilogy
+• • •
+THESAURUS
+▪ payment an amount of money that you pay for something, especially when it is only one part of the total amount you have to pay: They have a monthly car payment of £220.
+▪ instalment British English, installment American English a regular payment you make to pay back money that you have borrowed or to pay for things that you have already received: I borrowed $2,000, which was to be paid back in monthly installments of $250.
+▪ deposit (also down payment) part of the cost of something that you pay before you get it, so that it will not be sold to anyone else: They used the money they inherited as a down payment on a house. | The hotel asks for a $20 deposit to reserve a room.
+▪ subscription an amount of money you pay, usually once a year, to receive copies of a newspaper or magazine: A subscription to the magazine is $52 a year.
+▪ tip a small amount of money that you give someone, for example a waitress or taxi driver, in addition to paying for a service they have given you: I usually leave a 10% tip.
+▪ premium the amount you pay for insurance each year: your monthly life insurance premiums
+From Oxford Advanced Learners Dictionary 8th Ed.
+installment
+in·stal·ment [instalment instalments] (especially BrE) (NAmE usually in·stall·ment)BrE [ɪnˈstɔːlmənt]  NAmE [ɪnˈstɔːlmənt]  noun
+1. one of a number of payments that are made regularly over a period of time until sth has been paid for
+• We paid for the car by/in instalments.
+• The final instalment on the loan is due next week.
+• The loan can be repaid in 24 monthly instalments.
+• They were unable to keep up (= continue to pay regularly) the instalments.
+2. one of the parts of a story that appears regularly over a period of time in a newspaper, on television, etc.
+Syn: ↑episode
+
+premium
+premium UK  US  [ˈpriː.mi.əm] noun [premiums]
+ 
+EXTRA
+1. <A > countable an amount which is more than usual
+• We're willing to pay a premium for the best location.
+• Because of their location, these offices attract a premium.
+• The modified cars are available at a premium of 5% over the original price.
+• The busy shopper puts a premium on (= appreciates and will pay more for) finding everything in one big store.
+Thesaurus+: ↑Also, extra, and in addition
+ 
+• You usually pay a premium for organic meat and vegetables.
+• These flats attract a premium because of their riverside location.
+• A higher spec version is available at a premium of £3000 above the standard price.
+• Customers will be required to pay a premium for this extra service.
+• Vintage champagne is being sold at a premium.
+ 
+PAYMENT
+2. <A > countable an amount of money paid to get insurance
+• Car insurance premiums have increased this year.
+• The premiums for healthcare plans are high.
+Thesaurus+: ↑Insurance
+ 
+• a monthly premium of £30
+• Many insurance companies are under pressure to increase premiums to stay solvent.
+• Do you pay a health insurance premium?
+• We pay the car insurance by an annual premium.
+• Our monthly premium for house insurance has gone up.
+ 
+FUEL
+3. uncountable (also premium gas) US for four-star
+Thesaurus+: ↑Petroleum products especially when used as fuel ↑Fuels
+Idiom: at a premium
+ 
+adjective
+describes something that is of higher than usual quality
+• premium ice cream
+• The building is on a premium site.
+Thesaurus+: ↑Extremely good
+From Longman DOCE 5th Ed. (En-En)
+premium
+I. pre‧mi‧um1 /ˈpriːmiəm/ BrE  AmE  noun
+[Date: 1600-1700; Language: Latin; Origin: praemium 'profit, reward', from emere 'to take, buy']
+1. [countable] the cost of insurance, especially the amount that you pay each year:
+ insurance premiums
+2. [countable] an additional amount of money, above a standard rate or amount:
+ Consumers are prepared to pay a premium for organically grown vegetables.
+ Top quality cigars are being sold at a premium.
+3. be at a premium if something is at a premium, people need it or want it, but there is little of it available or it is difficult to get:
+ During the Olympic Games, accommodation will be at a premium.
+space/time is at a premium
+ Foldaway furniture is the answer where space is at a premium.
+4. put/place a premium on something to consider one quality or type of thing as being much more important than others:
+ Modern economies place a premium on educated workers.
+5. [uncountable] especially American English good quality petrol
+• • •
+THESAURUS
+▪ payment an amount of money that you pay for something, especially when it is only one part of the total amount you have to pay: They have a monthly car payment of £220.
+▪ instalment British English, installment American English a regular payment you make to pay back money that you have borrowed or to pay for things that you have already received: I borrowed $2,000, which was to be paid back in monthly installments of $250.
+▪ deposit (also down payment) part of the cost of something that you pay before you get it, so that it will not be sold to anyone else: They used the money they inherited as a down payment on a house. | The hotel asks for a $20 deposit to reserve a room.
+▪ subscription an amount of money you pay, usually once a year, to receive copies of a newspaper or magazine: A subscription to the magazine is $52 a year.
+▪ tip a small amount of money that you give someone, for example a waitress or taxi driver, in addition to paying for a service they have given you: I usually leave a 10% tip.
+▪ premium the amount you pay for insurance each year: your monthly life insurance premiums
+II. premium2 BrE  AmE  adjective
+1. of very high quality:
+ premium ice cream
+ the current consumer trend for premium products
+ premium quality British potatoes
+2. premium price/rate premium prices and rates are higher than usual ones:
+ People are prepared to pay premium prices for quality products.
+ Calls are charged at the premium rate of 60p per minute.
+From Oxford Advanced Learners Dictionary 8th Ed.
+premium
+pre·mium [premium premiums premia] noun, adjective BrE [ˈpriːmiəm]  NAmE [ˈpriːmiəm] 
+noun
+1. an amount of money that you pay once or regularly for an insurance policy
+• a monthly premium of £6.25
+2. an extra payment added to the basic rate
+• You have to pay a high premium for express delivery.
+• A premium of 10% is paid out after 20 years.
+• He was willing to pay a premium for a house near the sea.
+
+▪ a safety measure New safety measures were implemented after the rail crash.
+▪ a security measure (=something done to keep a place safe from danger or crime) Video surveillance cameras have been installed as a security measure.
+▪ a preventative/precautionary measure (=something done to prevent something bad) Vaccination against disease is a sensible preventative measure.
+▪ a extreme measure The public would not be in favour of such an extreme measure.
+▪ a drastic measure (=an extreme measure) Drastic measures are needed if we are to combat global warming.
+▪ a temporary measure (=something done for a limited period of time to deal with a problem) The tents were used as a temporary measure to replace homes destroyed in the floods.
+▪ a necessary measure The army will take all necessary measures to protect the public.
+▪ an appropriate measure (=a measure that is suitable for a particular situation) In the event of an assault, staff will need to take appropriate measures to defend themselves.
+■ phrases
+▪ a package/series of measures (=a set of measures used to deal with something) A package of road safety measures has been announced.
+
+strain
+strain UK  US  [streɪn] noun [strains]
+ 
+PRESSURE
+1. <I > countable usually singular or uncountable a force or influence that stretches, pulls or puts pressure on something, sometimes causing damage
+• The hurricane put such a strain on the bridge that it collapsed.
+• As you get older, excess weight puts a lot of strain on the heart.
+• Their constant arguments were putting a strain on their marriage.
+• The recent decline in the dollar has put a bigger strain on the economic system.
+• Migration into the cities is putting a strain on already stretched resources.
+Thesaurus+: ↑Energy, force and power ↑Power and intensity ↑Anxious and worried
+2. <A > countable an injury to a muscle or similar soft part of the body caused by using that part too much
+• a groin/hamstring strain
+See also eyestrain
+Thesaurus+: ↑Injuring and injuries
+3. <A > countable or uncountable when you feel nervous and worried about something
+• She's a lot better than she was but she's still not ready to face the stresses and strains of a job.
+• He's been under a lot of strain recently.
+Thesaurus+: ↑Anxiety and worry - general words ↑Fear and phobias
+ 
+• a groin strain
+• His muscles knotted with the strain.
+• Jogging puts a lot of strain on the knees.
+• The strain must have been enormous but she bore it well.
+• The events of the last few weeks have put a real strain on him.
+ 
+TYPE
+4. countable a particular type or quality
+• A strain of puritanism runs through all her work.
+Thesaurus+: ↑Conditions and characteristics
+5. countable an animal or plant from a particular group whose characteristics are different in some way from others of the same group
+• Scientists have discovered a new strain of the virus which is much more dangerous.
+Thesaurus+: ↑Species and genders ↑Categories and varieties
+ 
+MUSIC
+6. strains
+the sound of music being played or performed
+• I could hear the strains of Mozart in the background.
+Thesaurus+: ↑Playing music ↑Singing in general
+ 
+verb
+ 
+SEPARATE
+1. transitive to separate liquid food from solid food, especially by pouring it through a utensil with small holes in it
+• Could you strain the vegetables, please.
+• I usually strain the juice off the pineapple and use it in another recipe.
+Thesaurus+: ↑Preparing food ↑Preparing food using heat
+ 
+PRESSURE
+2. intransitive or transitive to become stretched or to experience pressure, or to make something do or experience this
+• I've put on such a lot of weight recently - this dress is straining at the seams.
+• I strained a muscle in my back playing squash.
+• Don't watch TV in the dark - you'll strain your eyes!
+• + to infinitive figurative I really had to strain (= try very hard) to reach those top notes.
+• figurative I was straining (my ears) (= listening hard) to hear what they were saying.
+Compare restrain
+Thesaurus+: ↑Tight and tightening
+Idioms: strain every nerve ▪ strain for effect ▪ straining at the leash
+From Longman DOCE 5th Ed. (En-En)
+strain
+I. strain1 W3 /streɪn/ BrE  AmE  noun
+[Sense 1-4: Date: 1500-1600; Origin: ⇨ ↑strain2]
+[Sense 5-8: Language: Old English; Origin: streon 'gain']
+1. WORRY [uncountable and countable] worry that is caused by having to deal with a problem or work too hard over a long period of time ⇨ stress:
+ I couldn’t look after him any more; the strain was too much for me.
+ Did you find the job a strain?
+ the stresses and strains of police life
+strain for
+ The trial has been a terrible strain for both of us.
+strain on
+ It’s quite a strain on me when he’s drinking heavily.
+put/place a strain on somebody
+ The long working hours put a severe strain on employees.
+under (a) strain
+ I know you’ve been under a lot of strain lately.
+crack/collapse/buckle etc under the strain (=become unable to deal with a problem or work)
+ I could see that she was beginning to crack under the strain.
+2. DIFFICULTY [uncountable and countable] a difficulty or problem that is caused when a person, relationship, organization, or system has too much to do or too many problems to deal with
+strain on
+ The dry summer has further increased the strain on water resources.
+put/place (a) strain on something
+ The flu epidemic has put a huge strain on the health service.
+strain in
+ The attack has led to strains in the relationship between the two countries.
+under (a) strain
+ His marriage was under strain.
+break/crack/collapse etc under the strain
+ The party split under the strain.
+3. FORCE [uncountable] a situation in which something is being pulled or pushed, or is holding weight, and so might break or become damaged
+strain on
+ The strain on the cables supporting the bridge is enormous.
+put/place (a) strain on something
+ Some of these exercises put too much strain on the back muscles.
+ These four posts take the strain of the whole structure.
+break/snap/collapse etc under the strain
+ The rope snapped under the strain.
+4. INJURY [uncountable and countable] an injury to a muscle or part of your body that is caused by using it too much:
+ Long hours working at a computer can cause eye strain.
+ The goalkeeper is still out of action with a knee strain.
+5. PLANT/ANIMAL [countable] a type of animal, plant, or disease
+strain of
+ different strains of wheat
+ a new strain of the flu virus
+6. QUALITY [singular] a particular quality which people have, especially one that is passed from parents to children
+strain of
+ There’s a strain of madness in his family.
+7. WAY OF SAYING SOMETHING [singular] formal an amount of a feeling that you can see in the way someone speaks, writes, paints etc:
+ a strain of bitterness in Young’s later work
+8. strains of something literary the sound of music being played:
+ We sipped wine to the strains of Beethoven.
+ 
+ flora and fauna
+ˌflora and ˈfauna specialized plural noun [flora and faunas] UK  US 
+The flora and fauna of a place are its plants and animals.
+Thesaurus+: ↑Plants and animals - general words
+
+tack
+I. tack1 /tæk/ BrE  AmE  noun
+[Sense 1-4, 6: Date: 1300-1400; Language: Old North French; Origin: taque 'fastening']
+[Sense 5: Date: 1700-1800; Origin: ⇨ ↑tackle2]
+[Sense 7: Date: 1900-2000; Origin: tacky]
+1. NAIL [countable] a small nail with a sharp point and a flat top
+2. PIN [countable] American English a short pin with a large round flat top, for attaching notices to boards, walls etc SYN thumbtack, drawing pin British English
+3. WAY OF DOING SOMETHING [uncountable and countable] the way you deal with a particular situation or a method that you use to achieve something:
+ If that doesn’t work, we’ll try a different tack.
+ Rudy changed tack, his tone suddenly becoming friendly.
+4. SHIP
+a) [uncountable and countable] the direction that a sailing boat moves, depending on the direction of the wind and the position of its sails
+b) [countable] the action of changing the direction of a sailing boat, or the distance it travels between these changes:
+ a long tack into the bay
+5. HORSES [uncountable] technical the equipment you need for riding a horse, such as a ↑saddle etc
+6. SEWING [countable] a long loose stitch used for fastening pieces of cloth together before sewing them
+7. UGLY OBJECTS [uncountable] British English ugly cheap objects sold as decorations:
+ souvenir shops full of tack
+II. tack2 BrE  AmE  verb
+1. [transitive always + adverb/preposition] to attach something to a wall, board etc, using a tack
+tack something to something
+ A handwritten note was tacked to the wall.
+2. [intransitive] to change the course of a sailing ship so that the wind blows against its sails from the opposite direction
+3. [transitive] to fasten pieces of cloth together with long loose stitches, before sewing them
+tack something ↔ on phrasal verb
+to add something new to something that is already complete, especially in a way that looks wrong or spoils the original thing:
+ a beautiful old house with a hideous modern extension tacked on at the back
+ 
+ desirability
+desirability UK  [dɪˌzaɪə.rəˈbɪl.ɪ.ti] US  [dɪˌzaɪr.əˈbɪl.ə.t ̬i] noun uncountable
+ 
+SEXUAL NEED
+1. the quality of being sexually attractive
+• She need have no doubts about her desirability.
+Thesaurus+: ↑Beauty and attractiveness
+ 
+WANT
+2. the quality of being worth having
+• Too much emphasis is placed on the desirability of being thin.
+Thesaurus+: ↑Useful or advantageous
+
+
+dupe
+dupe UK  [djuːp] US  [duːp] verb transitive [dupes duping duped]
+to deceive someone, usually by making them do something they did not intend to do
+• The girls were duped by drug smugglers into carrying heroin for them.
+Thesaurus+: ↑Cheating and tricking ↑Plotting and trapping
+ 
+noun countable
+someone who has been tricked
+• an innocent dupe
+Thesaurus+: ↑Cheating and tricking ↑Plotting and trapping
+From Longman DOCE 5th Ed. (En-En)
+dupe
+I. dupe1 /djuːp $ duːp/ BrE  AmE  noun [countable]
+[Date: 1600-1700; Language: French; Origin: perhaps from Old French huppe type of bird considered stupid]
+someone who is tricked, especially into becoming involved in something illegal
+II. dupe2 BrE  AmE  verb [transitive usually passive]
+to trick or deceive someone
+dupe somebody into doing something
+ Consumers are being duped into buying faulty electronic goods.
+• • •
+THESAURUS
+▪ deceive especially written to make someone who trusts you believe something that is not true: This was a deliberate attempt to deceive the public.
+▪ trick to make someone believe something that is not true, in order to get something from them or make them do something: A man posing as an insurance agent had tricked her out of thousands of dollars.
+▪ fool to make someone believe something that is not true by using a clever but simple trick: His hairpiece doesn’t fool anyone.
+▪ mislead to make people believe something that is not true, by deliberately not giving them all the facts, or by saying something that is only partly true: The company was accused of misleading customers about the nutritional value of the product.
+▪ dupe informal to trick or deceive someone, especially so that they become involved in someone else’s dishonest activity without realizing it: The spies duped government and military officials alike.
+▪ con informal to trick someone, especially by telling them something that is not true: I’m pretty good at judging people; I didn’t think he was trying to con me.
+
+upswell
+up·swell 7 [upswell] BrE [ˈʌpswel]  NAmE [ˈʌpswel]  (also up·swell·ing BrE [ˈʌpswelɪŋ] ; NAmE [ˈʌpswelɪŋ] ) noun singular ~ of sth (formal)
+an increase in sth, especially a feeling
+• a huge upswell of emotion
+
+• These mild fits are quite a common occurrence in babies.
+• a past occurrence of breast cancer
+• the low occurrence of heart disease in this particular group
+• words with a high frequency of occurrence in language
+• Increased life expectancy means that it is now a rare occurrence for children to be orphaned.
+• Landslips and earthquakes are not everyday occurrences in this country.
+• The document addresses the occurrence of arsenic in drinking water.
+• The program counts the number of occurrences of any word or group or words, within the text.
+• Vandalism has become a regular occurrence in recent times.
+
+(uncountable, figuratively) The brain's neural network.
+1969, L. M. H. Larramendi, “Electron Microscopic Studies of Cerebellar Interneurons”, in Mary A[gnes] B[urnston] Brazier, editor, The Interneuron: Proceedings of a Conference Held September, 1967: […] (UCLA Forum in Medical Sciences; no. 11), Berkeley; Los Angeles, Calif.: University of California Press, OCLC 63478166, page 269:
+Since [Santiago Ramón y] Cajal's neural circuitry did not include inhibitory cells, he believed that short-axoned cells were important in maintaining a continuous and persistent activity in neural centers.
+1993, Kathleen R. Gibson, “Introduction: Overlapping Neural Control of Language, Gesture and Tool-use”, in Kathleen R. Gibson and Tim Ingold, editors, Tools, Language and Cognition in Human Evolution, Cambridge, Cambridgeshire; New York, N.Y.: Cambridge University Press, published 2004, →ISBN, part III (Connecting up the Brain), page 187:
+Some argue that the human brain contains structures or circuitry not found in the brains of other animals. [...] Others emphasize the massive increase in human brain size and posit that human behavior is an emergent phenomenon which reflects quantitative increases in neural processing capacity.
+1999, Rodney Douglas; Christof Koch; Misha Mahowald; Kevan Martin, “The Role of Recurrent Excitation in Neocortical Circuits”, in Philip S. Ulinski, Edward G. Jones, and Alan Peters, editors, Models of Cortical Circuits (Cerebral Cortex; 13), New York, N.Y.: Kluwer Academic/Plenum Publishing, →ISBN, page 254:
+Increases in cortical volume translate largely into increases in cortical area, and beneath each area of cortex the cellular composition of the cortical laminae is rather similar. Thus, the operation of making more cortex seems to emphasize local circuitry.
+1999, Auke Jan Ijspeert, “Synthetic Approaches to Neurobiology: Review and Case Study in the Control of Anguiliform Locomotion”, in Dario Floreano, Jean-Daniel Nicoud, and Francesco Mondada, editors, Advances in Artificial Life: 5th European Conference, ECAL’99, Lausanne, Switzerland, September 1999: Proceedings (Lecture Notes in Artificial Intelligence; 1674), Berlin; Heidelberg: Springer, →ISBN, abstract, page 195:
+The first experiment consists in using the evolutionary algorithm for instantiating low level parameters of a connectionist simulation of the lamprey's locomotor circuitry. The second experiment develops potential neural circuits for the swimming and trotting of the salamander; an animal whose locomotor circuitry has currently not been decoded.
+2015, Paula J. Brunton; John A. Russell, “Maternal Brain Adaptations in Pregnancy”, in Toby M. Plant and Anthony J. Zeleznik, editors, Knobil and Neill’s Physiology of Reproduction, volume 1, 4th edition, London; Waltham, Mass.: Academic Press, →ISBN, part VI (Pregnancy and Lactation), page 1976, column 1:
+Possible changes in pregnancy to explain increased food intake and consequent increased energy storage have been considered in the context of the neural circuitry in the hypothalamus and brain stem that homeostatically regulates appetite, the mesolimbic circuitry regulating hedonic appetite, and the actions of circulating hormones on or in this circuitry.
+
+circuitry
+noun
+EXAMPLES FROM CORPUS
+▪ Inside will be a maze of circuitry, some transistors and a chip or two.
+▪ One has low power requirements, thereby dissipating little heat, the other has high-density circuitry.
+▪ The circuitry was composed of electric eels, and there were colorful fish and liquid poisons and numerous examples of evil.
+▪ The basal ganglia are also the main circuitry through which flow the nerve signals controlling movement.
+▪ The cabin filled with dust, smoke, and the smell of burning circuitry.
+▪ The patterns formed by the processes of etching and/or evaporation of the conductor make the electrical circuitry of the integrated circuit.
+▪ They co-opt the selective attention circuitry.
+▪ This is done by deliberately putting delays into the circuitry.
+
+lap·a·ro·scope
+/ləˈperəˌskōp/
+Learn to pronounce
+noun
+a fiber-optic instrument inserted through the abdominal wall to view the organs in the abdomen or permit small-scale surgery.
+"a laparoscope is inserted so the surgeon can examine the appendix"
+
+anecdote
+noun
+COLLOCATIONS FROM OTHER ENTRIES
+an amusing story/anecdote/incident etc
+▪ The book is full of amusing stories about his childhood.
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+personal
+▪ I can do this best by way of a personal anecdote, which might be called the Incident of the Taxman and the Philosopher.
+▪ It is a 318-page compendium of stock liberal positions and personal anecdotes bound by a thick strand of moral conservatism.
+▪ Also interested in personal anecdotes relating to aviation in the aforementioned county.
+▪ It is also chock-full of personal anecdotes.
+▪ For both this means a sprinkling of personal anecdotes about people who worked with the ideas they write about.
+▪ That, then, is the first of my three personal anecdotes.
+▪ Her personal anecdotes as a hospital chaplain showed a real sense of fun intermingled with her obvious dedication.
+▪ Also good personal anecdote of Mr Gladstone cutting down small cherry tree but being unable to lie.
+■ VERB
+amuse
+▪ Always self-deprecating and modest, he fought bravely a long struggle against cancer, remaining cheerful and full of amusing unrepeatable anecdotes.
+tell
+▪ She told the anecdote with a glint of relish in her eye, revelling in their embarrassment.
+▪ But he illustrates his points with telling anecdotes that make good, and fast, reading.
+▪ Then she told an anecdote that would turn out to have prophetic resonance.
+▪ He was telling interesting anecdotes about growing up in the neighborhood and the park.
+▪ As they so often did, the brothers began with a telling anecdote.
+
+anecdotal
+an·ec·dotal [anecdotal anecdotally] BrE [ˌænɪkˈdəʊtl]  NAmE [ˌænɪkˈdoʊtl]  adjective
+based on ↑anecdotes and possibly not true or accurate
+• anecdotal evidence
+• Anecdotal evidence suggests there were irregularities at the polling station on the day of the election.
+Derived Word: ↑anecdotally
+From Longman DOCE5 Extras (En-En)
+anecdotal
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+anecdotal evidence (=based on what people believe, rather than on facts)
+▪ Anecdotal evidence suggests that gang-related violence is on the increase.
+COLLOCATIONS FROM CORPUS
+■ NOUN
+evidence
+▪ However, there is abundant anecdotal evidence of the effects of chemical pollution on the populations of small cetaceans inhabiting industrialised areas.
+▪ The anecdotal evidence is supported Statistically.
+▪ The report is backed up by anecdotal evidence from careers fairs.
+▪ But anecdotal evidence from marriage counselors and other professionals suggests that divorce rates spike when the first child leaves home.
+▪ It is not merely anecdotal evidence.
+▪ McLean had lots of anecdotal evidence in his training room Monday.
+▪ The pictures of precision attacks provide only anecdotal evidence of effectiveness.
+▪ Substantial anecdotal evidence indicates that men have not always been cooperative partners when it comes to the matter of family planning.
+EXAMPLES FROM OTHER ENTRIES
+▪ The book is an anecdotal account of Kent's trip to Borneo.
+
+weakness
+weakness UK  US  [ˈwiːk.nəs] noun
+1. <I > uncountable when someone or something is not strong or powerful
+• Any change of policy will be interpreted as a sign of weakness.
+Thesaurus+: ↑Weakness and vulnerability
+2. <I > countable a particular part or quality of someone or something that is not good or effective
+• There are definite weaknesses in their security arrangements.
+• His main weakness as a manager is his inability to delegate.
+• The later novels show none of the weaknesses of his earlier work.
+Thesaurus+: ↑Faults and mistakes ↑Weakness and vulnerability
+3. weakness for
+a strong liking, usually for something which might have unpleasant or unwanted effects
+• My diet would be fine if only I didn't have this weakness for sweet things.
+Thesaurus+: ↑Liking
+ 
+• Any hesitation on the part of the government will be seen as weakness.
+• This latest conflict further illustrates the weakness of the UN.
+• His inability to handle the situation is a sure sign of weakness.
+• Admitting you've made a mistake is a sign of strength, not weakness.
+• In a position of authority, a weakness for the opposite sex leaves you open to blackmail.
+weak
+weak UK  US  [wiːk] adjective [weaker weakest]
+ 
+NOT STRONG
+1. <E > not strong; not strong enough to work, last, succeed, persuade or be effective
+• It's not surprising you feel weak if you haven't eaten properly for days.
+• The electromagnetic field strength becomes weaker as you move further away from high voltage cables.
+• He was a weak king surrounded by corrupt advisers.
+• Any evidence that exists to support the hypothesis is fairly weak.
+• He gave the weakest of excuses when asked why he was late.
+Thesaurus+: ↑Weakness and vulnerability
+2. describes a drink that contains a lot of water compared to its other contents, so that it does not have a strong flavour
+• I can't stand weak coffee/tea.
+Thesaurus+: ↑Drinks - general words
+3. specialized describes an acid, alkali or chemical base that does not produce many ions (= atoms with an electrical charge) when it is dissolved in water
+Thesaurus+: ↑Types of chemical ↑Specific chemicals, chemical compounds and gases ↑Substances and structures in the body
+• He's still feeling a bit weak after his operation.
+• The team has a strong attack, but its defence is weak.
+• My ankle is rather weak, so I always put a bandage on it to support it when I play tennis.
+• How do you like your tea - strong or weak?
+• We could just pick out the path in the weak beam of the torch.
+
+warrant
+warrant UK  [ˈwɒr. ə nt] US  [ˈwɔːr-] verb [warrants warranting warranted]
+ 
+MAKE NECESSARY
+1. transitive to make a particular activity necessary
+• Obviously what she did was wrong, but I don't think it warranted quite such severe punishment.
+• It's a relatively simple task that really doesn't warrant a great deal of time being spent on it.
+See also unwarranted
+Thesaurus+: ↑Essential or necessary
+ 
+PROMISE
+2. intransitive or transitive old-fashioned to say that you are certain about something
+Thesaurus+: ↑Making and breaking promises and commitments
+ 
+noun
+ 
+DOCUMENT
+1. countable an official document, signed by a judge or other person in authority, which gives the police permission to search someone's home, arrest a person or take some other action
+• a search warrant
+• Judge La Riva had issued an arrest warrant/a warrant for his arrest.
+Thesaurus+: ↑Official documents ↑Arresting and charging ↑The police generally
+ 
+REASON
+2. uncountable old-fashioned a reason for doing something
+• There's no warrant for that sort of behaviour!
+Thesaurus+: ↑Reasons and explanations
+From Longman DOCE 5th Ed. (En-En)
+warrant
+I. war‧rant1 /ˈwɒrənt $ ˈwɔː-, ˈwɑː-/ BrE  AmE  noun
+[Date: 1100-1200; Language: Old North French; Origin: warant]
+1. [countable] a legal document that is signed by a judge, allowing the police to take a particular action
+warrant for
+ The magistrate issued a warrant for his arrest. ⇨ ↑death warrant, ↑search warrant
+2. [countable] an official document giving someone the right to do something, for example buy ↑shares in a company:
+ The company issued warrants for 300,000 shares.
+3. formalno warrant for (doing) something no good reason for doing something:
+ There is no warrant for copying other people’s work.
+⇨ ↑unwarranted
+II. warrant2 BrE  AmE  verb [transitive]
+[Date: 1200-1300; Language: Old North French; Origin: warantir, from warant; ⇨ ↑warrant1]
+1. to need or deserve:
+ This tiny crowd does not warrant such a large police presence.
+warrant attention/consideration etc
+ Another area that warrants attention is that of funding for universities.
+2. to promise that something is true
+warrant that
+ The Author hereby warrants that the Publisher is the owner of the copyright.
+3. I’ll warrant (you) old-fashioned used to tell someone that you are sure about something
+warrant (that)
+ I’ll warrant we won’t see him again.
+ 
+ code-switch·ing
+nounLINGUISTICS
+the practice of alternating between two or more languages or varieties of language in conversation.
+"the conversational code-switching of the German American bilingual community"
+
+intervention
+in‧ter‧ven‧tion W3 AC /ˌɪntəˈvenʃən $ -tər-/ BrE  AmE  noun [uncountable and countable]
+[Word Family: verb: ↑intervene; noun: ↑intervention]
+the act of becoming involved in an argument, fight, or other difficult situation in order to change what happens:
+ government intervention to regulate prices
+intervene
+in‧ter‧vene AC /ˌɪntəˈviːn $ -tər-/ BrE  AmE  verb
+[Word Family: verb: ↑intervene; noun: ↑intervention]
+[Date: 1500-1600; Language: Latin; Origin: intervenire, from venire 'to come']
+1. [intransitive] to become involved in an argument, fight, or other difficult situation in order to change what happens
+intervene in
+ The police don’t usually like to intervene in disputes between husbands and wives.
+ The army will have to intervene to prevent further fighting.
+2. [intransitive and transitive] to interrupt someone when they are speaking:
+ ‘Stop shouting, Emily,’ John intervened.
+3. [intransitive] if an event intervenes, it delays or interrupts something else:
+ He was just establishing his career when the war intervened.
+4. [intransitive] if a period of time intervenes, it comes between two events:
+ In the six years that intervened, I saw them once.
+ 
+ wash (sth) out phrasal verb before or after object [washes sth out washing sth out washed sth out washed sth out washed sth out]
+If a colour or dirty mark washes out, or if you wash it out, it disappears when you wash it
+• Do you think these stains will wash out?
+Thesaurus+: ↑Cleaning generally ↑Personal hygiene and appearance - general words
+Main entry: washphrasal verb
+From Longman DOCE 5th Ed. (En-En)
+wash out
+wash out phrasal verb (see also ↑wash)
+1. wash something ↔ out to wash the inside of something quickly:
+ I’ll just wash out this vase for flowers.
+2. if a substance washes out, you can remove it from a material by washing it:
+ a dye that won’t wash out
+3. be washed out if an event is washed out, it cannot continue because of rain:
+ The summer fair was washed out by the English weather.
+⇨ ↑washed-out, ↑washout
+From Oxford Advanced Learners Dictionary 8th Ed.
+washed out
+ˌwashed ˈout [washed out] BrE   NAmE   adjective
+1. (of cloth, clothes or colours) no longer brightly coloured, often as a result of frequent washing
+• She didn't like jeans that looked too washed out.
+• a pair of washed-out old jeans
+• The walls were a washed-out blue colour.
+2. (of a person) pale and tired
+Syn: ↑exhausted
+• He always looks washed out at the end of the week.
+wash out
+ˌwash ˈout derived
+(of a dirty mark) to be removed from clothes by washing
+• These ink stains won't wash out.
+Main entry: ↑washderived
+
+pro·té·gé
+/ˈprōdəˌZHā,ˌprōdəˈZHā/
+noun
+plural noun: protégés; plural noun: proteges
+a person who is guided and supported by an older and more experienced or influential person
+
+seizure
+seizure UK  [ˈsiː.ʒə r ] US  [-ʒɚ] noun [seizures]
+ 
+TAKING
+1. countable or uncountable the action of seizing something by force or with legal authority
+• seizure of power/property/control
+• Seizures of illicit drugs have increased by 30% this year.
+Thesaurus+: ↑Taking things away from someone or somewhere ↑Removing and getting rid of things
+ 
+MEDICAL
+2. countable a very sudden attack of an illness involving unconsciousness or violent movement
+• an epileptic seizure
+Thesaurus+: ↑Disease and illness - general words
+3. countable old use a sudden failure of the heart
+• His aunt died of a seizure.
+• figurative humorous When I told her how much it cost she nearly had a seizure (= she was very shocked).
+Thesaurus+: ↑Disorders and diseases of the heart and blood
+
+savant
+sav‧ant /ˈsævənt $ səˈvɑːnt, sæ-/ BrE  AmE  noun [countable] formal
+[Date: 1700-1800; Language: French; Origin: present participle of savoir 'to know']
+1. someone who knows a lot about a subject
+2. someone who has mental problems and may have lower intelligence than average, but who can do one thing very well, such as adding numbers very quickly
+From Oxford Advanced Learners Dictionary 8th Ed.
+savant
+sav·ant [savant savants] BrE [ˈsævənt]  NAmE [sæˈvɑːnt]  noun (formal)
+1. a person with great knowledge and ability
+2. a person who is less intelligent than others but who has particular unusual abilities that other people do not have
+ 
+Word Origin:
+early 18th cent.: French, literally ‘knowing (person)’, present participle (used as a noun) of savoir.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+savant
+
+ / 5sAvEnt; ?@ sA5vB:nt; sA`vBnt/ n (fml 文) person of great learning 博学之士; 学者; 专家.
+ 
+ acknowledgement
+ac‧knowl‧edge‧ment AC BrE  AmE , acknowledgment /əkˈnɒlɪdʒmənt $ -ˈnɑː-/ noun
+[Word Family: verb: ↑acknowledge; noun: ↑acknowledgement]
+1. [uncountable and countable] the act of admitting or accepting that something is true
+acknowledgement of
+ We want an acknowledgement of the existence of the problem.
+acknowledgement that
+ The reduction in their grant is an acknowledgement that they have been paid too much.
+2. [singular, uncountable] a movement of your body that shows that you have noticed someone or heard what they have said:
+ Basil nodded an acknowledgement as he entered the room.
+ He gave her a faint smile of acknowledgement.
+in acknowledgement
+ Larsen looked over and nodded in acknowledgement.
+3. [uncountable and countable] the act of publicly thanking someone for something they have done
+in acknowledgement of something
+ She received a special award in acknowledgement of all her hard work.
+4. [uncountable and countable] a letter written to tell someone that you have received their letter, message etc:
+ Do you want a written acknowledgement?
+5. acknowledgements [plural] a short piece of writing at the beginning or end of a book in which the writer thanks all the people who have helped him or her
+acknowledge
+ac‧knowl‧edge S3 W3 AC /əkˈnɒlɪdʒ $ -ˈnɑː-/ BrE  AmE  verb [transitive]
+[Word Family: verb: ↑acknowledge; noun: ↑acknowledgement]
+[Date: 1400-1500; Origin: ac- (as in accord) + knowledge]
+1. ADMIT to admit or accept that something is true or that a situation exists:
+ The family acknowledge the need for change.
+acknowledge that
+ He acknowledges that when he’s tired he gets bad-tempered.
+ Claire acknowledged that she was guilty.
+ The government must acknowledge what is happening and do something about it.
+ ‘Maybe you are right,’ she acknowledged.
+ This is a fact that most smokers readily acknowledge.
+2. RECOGNIZE STH’S IMPORTANCE [usually passive] if people acknowledge something, they recognize how good or important it is
+acknowledge something as something
+ The film festival is acknowledged as an event of international importance.
+be widely/generally acknowledged to be something
+ The mill produces what is widely acknowledged to be the finest wool in the world.
+3. ACCEPT SB’S AUTHORITY to accept that someone or something has authority over people:
+ Both defendants refused to acknowledge the authority of the court.
+acknowledge somebody as something
+ Many of the poor acknowledged him as their spiritual leader.
+4. THANK to publicly announce that you are grateful for the help that someone has given you:
+ We wish to acknowledge the support of the university.
+5. SHOW YOU NOTICE SOMEBODY to show someone that you have noticed them or heard what they have said:
+ Tom acknowledged her presence by a brief glance.
+6. SAY YOU HAVE RECEIVED SOMETHING to let someone know that you have received something from them:
+ I would be grateful if you would acknowledge receipt of this letter.
+ 
+ possession
+pos‧ses‧sion W3 /pəˈzeʃən/ BrE  AmE  noun
+1. HAVING SOMETHING [uncountable] formal if something is in your possession, you own it, or you have obtained it from somewhere
+in sb’s possession
+ The house has been in the family’s possession since the 1500s.
+ That information is not in our possession.
+in possession of something
+ She was found in possession of stolen goods.
+ How did the painting come into your possession (=how did you get it)?
+ The finance company now has possession of the house.
+ We didn’t take possession of (=get and start using) the car until a few days after the auction.
+2. SOMETHING YOU OWN [countable usually plural] something that you own or have with you at a particular time SYN belongings:
+ He had sold all his possessions and left the country.
+ I packed my remaining possessions into the trunk.
+treasured/prized/precious possession (=one that is very important to you)
+ This old violin had been her father’s most treasured possession.
+ Prisoners were allowed no personal possessions.
+3. CRIME [uncountable] law the crime of having illegal drugs or weapons with you or in your home
+possession of
+ He was arrested and charged with possession of cocaine.
+4. SPORT [uncountable] when a person or team has control of the ball in some sports
+win/lose/gain etc possession
+ Pittsburgh got possession and scored.
+5. COUNTRY [countable usually plural] a country controlled or governed by another country:
+ France’s former colonial possessions
+6. EVIL SPIRITS [uncountable] a situation in which someone’s mind is being controlled by something evil:
+ Was it a case of demonic possession?
+7. in (full) possession of your faculties/senses able to think in a clear and intelligent way, and not crazy or affected by old age
+8. possession is nine-tenths of the law used to say that if you have something, you are likely to be able to keep it, even if it is not yours
+• • •
+COLLOCATIONS (for Meaning 1)
+■ phrases
+▪ be in somebody's possession The painting has been in the family's possession since then.
+▪ come into somebody's possession You have a duty not to disclose confidential information that comes into your possession.
+▪ be in possession of something (=have it) Before applying for a job, make sure you are in possession of the required qualifications.
+▪ have something in your possession (=have it) My father had in his possession a letter written by Winston Churchill.
+▪ come into possession of something (=start having it) How did you come into possession of this document?
+▪ take possession of something (=start having or using it) At 21, he was entitled to take possession of the property.
+• • •
+COLLOCATIONS (for Meaning 2)
+■ adjectives
+▪ somebody's personal possessions We were told that we could take only a few personal possessions with us.
+▪ somebody's worldly possessions literary (=everything they own) Over his shoulder hung a bag which contained all his worldly possessions.
+▪ material possessions (=things you own, rather than personal qualities, relationships etc) Many of them have lost all their material possessions as a result of the civil war.
+▪ a precious possession (=one that is valuable or important to you) A man was salvaging a few precious possessions from the rubble of a bombed house.
+▪ a prized/treasured possession (=one that is very important to you) One of my most treasured possessions is a small book of prayers.
+
+bail out
+bail out phrasal verb (see also ↑bail)
+1. bail somebody/something ↔ out (also bale somebody/something ↔ out British English) to do something to help someone out of trouble, especially financial problems:
+ Some local businesses have offered to bail out the museum.
+ Sutton bailed his team out with a goal in the last minute.
+2. bail somebody ↔ out to leave a large sum of money with a court so that someone can be let out of prison while waiting for their ↑trial:
+ Clarke’s family paid £500 to bail him out.
+3. American English to escape from a plane, using a ↑parachute SYN bale out British English
+4. bail something ↔ out (also bale something ↔ out British English) to remove water that has come into a boat
+
+dessert
+des‧sert /dɪˈzɜːt $ -ɜːrt/ BrE  AmE  noun [uncountable and countable]
+[Date: 1500-1600; Language: French; Origin: desservir 'to clear the table', from servir 'to serve']
+sweet food served after the main part of a meal
+for dessert
+ What are we having for dessert?
+• • •
+THESAURUS
+■ parts of a large meal
+▪ hors d'oeuvre (also starter British English, appetizer American English) the small first part of a meal: a tempting plate of hors d'oeuvres including olives and small pieces of roast beetroot
+▪ main course (also entrée especially American English) the main part of a meal. entrée is used especially on restaurant ↑menus: For the main course we had cheese and onion pie. | The menu includes a few hot entrées.
+▪ dessert (also pudding British English or sweet British English) sweet food eaten at the end of a meal: What do you want for dessert? | They serve a wide range of desserts, including ice cream and home-made apple pie.
+
+turf
+I. turf1 /tɜːf $ tɜːrf/ BrE  AmE  noun (plural turfs or turves) /tɜːvz $ tɜːrvz/
+[Language: Old English]
+1. [uncountable] especially British English a surface that consists of soil with grass on top, or an artificial surface that looks like this:
+ soft green turf
+2. [countable] British English a square piece of turf cut out of the ground
+3. the turf the sport of horse racing, or the track on which horses race
+4. [uncountable] informal an area that you think of as being your own:
+ How vigorously will the local companies defend their turf?
+sb’s own/home turf (=the place that someone comes from or lives in)
+ We beat Canada on their home turf.
+turf war/battle (=a fight or argument over the areas or things you think belong to you)
+ turf wars among government bureaucracies
+II. turf2 BrE  AmE  verb [transitive]
+to cover an area of land with turf
+turf somebody ↔ out (also turf somebody off (something)) phrasal verb
+British English informal to make someone leave a place or organization, usually suddenly or roughly SYN kick somebody out
+turf somebody ↔ out of
+ The families claim they are being turfed out of their homes.
+ 
+standpoint
+standpoint UK  US  [ˈstænd.pɔɪnt] noun countable [standpoints]
+a set of beliefs and ideas from which opinions and decisions are formed
+• "I have to put aside my emotions, " he says, "and consider it from a professional standpoint."
+Thesaurus+: ↑Opinions, beliefs and points of view
+From Longman DOCE 5th Ed. (En-En)
+standpoint
+stand‧point /ˈstændpɔɪnt/ BrE  AmE  noun [countable usually singular]
+a way of thinking about people, situations, ideas etc SYN point of view
+from a theoretical/political/economic etc standpoint
+ Let’s look at the questions from an economic standpoint.
+ a discussion of marriage from the standpoint of women
+From Oxford Advanced Learners Dictionary 8th Ed.
+standpoint
+stand·point [standpoint standpoints] BrE [ˈstændpɔɪnt]  NAmE [ˈstændpɔɪnt]  noun usually singular
+an opinion or a way of thinking about ideas or situations
+Syn: ↑perspective
+• a political/theoretical, etc. standpoint
+• He is writing from the standpoint of someone who knows what life is like in prison.
+ 
+Example Bank:
+• We must approach the problem from a different standpoint.
+• We should try to adopt a more positive standpoint.
+• From a practical standpoint, there's a desperate need for cheaper housing.
+• He has written the book from the standpoint of someone who has experienced political persecution.
+• This is a purely theoretical standpoint that has no basis in reality.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+standpoint
+
+ / 5stAndpRInt; `stAnd9pRInt/ n position from which things are seen and opinions are formed; point of view 立场; 立脚点; 看问题的角度: from the standpoint of the customer 从顾客的角度来说.
+From Longman DOCE5 Extras (En-En)
+standpoint
+noun
+COLLOCATIONS FROM OTHER ENTRIES
+view sth from a ... perspective/standpoint
+▪ It’s an issue that can be viewed from several perspectives.
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+economic
+▪ Yet it does produce a soft and, most important from an economic standpoint, fast product.
+▪ I was looking at it more from an economic standpoint.
+political
+▪ Different organizations operated from different political standpoints, from within different boundaries and on different time-scales.
+▪ Rejoice in your abilities to transform, with the stun-baton of humor, a weak political standpoint into an Obvious Universal Truth.
+▪ We have countless learned articles and books on a multitude of movements and tendencies written from different political and aesthetic standpoints.
+▪ It is not in any case possible to pin a particular explanatory model to a specific political strategy or standpoint.
+practical
+▪ From a practical standpoint, however, this distinction makes little difference.
+▪ From a practical standpoint, Saberhagen will be better served staying with the team.
+▪ However, it does little from a practical standpoint because it has no inspection capability.
+theoretical
+▪ This chapter examines these questions from a theoretical standpoint within the framework of natural monopoly industries.
+▪ First, that the routinized nature of practice affects all theoretical standpoints, therefore psychodynamic social work is not necessarily disadvantaged.
+■ VERB
+view
+▪ The problem attains proportion when viewed from the standpoint of the witness who appears before a congressional committee.
+
+zeal
+zeal UK  US  [ziːl] noun only singular or uncountable
+great enthusiasm or eagerness
+• reforming/missionary/religious zeal
+• a zeal for money-making
+Thesaurus+: ↑Excitement, interest, energy and enthusiasm
+From Longman DOCE 5th Ed. (En-En)
+zeal
+zeal /ziːl/ BrE  AmE  noun [uncountable]
+[Date: 1300-1400; Language: Late Latin; Origin: zelus, from Greek zelos]
+eagerness to do something, especially to achieve a particular religious or political aim
+religious/revolutionary/missionary etc zeal
+ He approached the job with missionary zeal.
+in your zeal to do something
+ In their zeal to catch drug dealers, police have ignored citizens’ basic civil rights.
+zeal for
+ their zeal for privatization
+From Oxford Advanced Learners Dictionary 8th Ed.
+zeal
+zeal BrE [ziːl]  NAmE [ziːl]  noun uncountable, countable ~ (for/in sth) (formal)
+great energy or enthusiasm connected with sth that you feel strongly about
+• her missionary/reforming/religious/political zeal
+ 
+Word Origin:
+[zeal] late Middle English: via ecclesiastical Latin from Greek zēlos.
+ 
+Example Bank:
+• He burned with a reforming zeal.
+• She had a true zeal for journalism.
+• She went about the task with the zeal of an enthusiast.
+• a crusading zeal to eradicate drug abuse
+• their zeal in the promotion of education
+• her missionary/reforming/religious/political zeal
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+zeal
+
+ / zi:l; zil/ n [U] (fml 文) ~ (for sth) (usu intense) energy or enthusiasm; keenness （通常为高度的）热忱, 热情; 热心: show zeal for a cause 表现出对一事业的热忱 * work with great zeal 热情洋溢地工作 * revolutionary,religious zeal 革命的、宗教的热诚.
+
+ > zealous / 5zelEs; `zZlEs/ adj full of zeal; eager 热情的; 热心的; 积极的: zealous for liberty and freedom 为争取自由而积极的 * zealous to succeed at work 一心要做好工作. zealously adv.
+ 
+ avenue UK  [ˈæv.ə.njuː] US  [-nuː] noun countable [avenues]
+ 
+ROAD
+1. <A > a wide road, with trees or tall buildings on both sides, or a wide countryside path or road with trees on both sides
+• Fremont Avenue
+Thesaurus+: ↑Urban and residential streets
+2. UK a road of this type which leads to a large house
+Thesaurus+: ↑Urban and residential streets
+ 
+• This avenue of mature trees has a preservation order on it.
+• We walked down a broad avenue lined with trees.
+• The Saint Patrick's Day marchers paraded up Fifth Avenue, past the cathedral.
+• King's Avenue is the first right.
+• The broad avenues are shaded by splendid trees.
+ 
+POSSIBILITY
+3. a method or way of doing something; a possibility
+• We should explore/pursue every avenue in the search for an answer to this problem.
+• Only two avenues are open to us - either we accept his offer or we give up the fight completely.
+Thesaurus+: ↑Possible and probable ↑Ways of achieving things
+From Longman DOCE 5th Ed. (En-En)
+avenue
+av‧e‧nue /ˈævənjuː, ˈævɪnjuː $ -nuː/ BrE  AmE  noun [countable]
+[Date: 1600-1700; Language: French; Origin: avenir 'to come up to', from Latin advenire; ⇨ ↑adventure]
+1. Avenue used in the names of streets in a town or city:
+ Fifth Avenue
+ Shaftesbury Avenue
+2. a possible way of achieving something:
+ The president wants to explore every avenue towards peace in the region.
+ There are many avenues open to researchers.
+3. British English a road or broad path between two rows of trees, especially one leading to a big house:
+ a tree-lined avenue
+ 
+ 1	Humanities
+1.1	Performing arts
+1.2	Visual arts
+1.3	History
+1.4	Languages and literature
+1.5	Law
+1.6	Philosophy
+1.7	Theology
+2	Social science
+2.1	Anthropology
+2.2	Economics
+2.3	Geography
+2.4	Political science
+2.5	Psychology
+2.6	Sociology
+2.7	Social work
+3	Natural science
+3.1	Biology
+3.2	Chemistry
+3.3	Earth science
+3.4	Space science
+3.5	Physics
+4	Formal science
+4.1	Computer science
+4.2	Mathematics
+5	Applied science
+5.1	Business
+5.2	Engineering and technology
+
+humanity
+
+ / hju:5mAnEtI; hju`mAnEtI/ n 
+ [U] human beings collectively; the human race; people 人（总称）; 人类: crimes against humanity 戕害人类罪. =>Usage at man1 用法见man1.
+ [U] being humane; kind-heartedness 人道; 仁慈: treat people and animals with humanity 以仁慈之心对待人和动物. 
+ [U] human nature; being human 人性. 
+ humanities [pl] subjects of study concerned with human culture, esp literature, language, history and philosophy 人文学科（尤指文学、语言、历史和哲学）.
+From Longman DOCE5 Extras (En-En)
+humanity
+noun
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+essential
+▪ His essential humanity had always shone through.
+great
+▪ And as that great movement of humanity had slowed, another had begun.
+▪ We are all links in the great chain of humanity.
+▪ Furthermore, he does not feel that he has performed a great service to humanity.
+true
+▪ And it would be a picture of his true warm humanity that would bring the money in for the project.
+■ VERB
+lose
+▪ In our desire to become the architects of our own evolution, we risk the very real possibility of losing our humanity.
+▪ Owing to such nice folk, warm and kindly, I have never lost my faith in humanity.
+PHRASES FROM OTHER ENTRIES
+crime against humanity
+▪ All are defined as crimes against humanity and carry a penalty of life imprisonment.
+▪ All four have been charged with crimes against humanity by the Hague International Tribunal.
+▪ He is charged with 20 war crimes, including genocide and crimes against humanity.
+▪ If the conference succeeds in labelling slave trafficking a crime against humanity, demands for compensation will surely follow.
+▪ Shouldn't they at least be discussed within the same context of international law and crimes against humanity?
+▪ That is a crime against humanity.
+▪ These are crimes against humanity, as has been said.
+▪ They also slavishly accepted the amnesty that Pinochet and his generals had granted themselves to avoid trial for their crimes against humanity.
+the dregs of society/humanity
+
+
+understanding
+I. un‧der‧stand‧ing1 W3 /ˌʌndəˈstændɪŋ $ -ər-/ BrE  AmE  noun
+[Word Family: adjective: ↑understandable, ↑understanding, ↑misunderstood; verb: ↑understand ≠ ↑misunderstand; noun: ↑understanding ≠ ↑misunderstanding; adverb: ↑understandably]
+1. [singular, uncountable] knowledge about something, based on learning or experience
+understanding of
+ How does this add to our understanding of the problem?
+ If you know the neighbourhood, you have an understanding of what the children are like.
+ Linguists currently have little understanding of the exact cause of language change.
+ How can we gain an understanding of other cultures?
+ Over time, you will get a far better understanding of the job.
+ Success depends on a clear understanding of the problem.
+ a basic understanding of AIDS prevention
+2. [countable usually singular] an unofficial or informal agreement
+come to/reach an understanding (=stop arguing and agree)
+ My father was furious at first, but eventually we came to an understanding.
+ We had an understanding that Jean-Claude should never be mentioned.
+3. [singular, uncountable] the ability to understand people’s behaviour and to forgive them when they do something wrong:
+ The principal listened to the boy’s story with sympathy and understanding.
+4. sb’s understanding (of something) the way in which someone judges the meaning of something:
+ According to my understanding of the letter, it means something quite different.
+5. on the understanding that if you agree to something on the understanding that something else will be done, you agree to it, believing that it will be done:
+ Jack lent Sarah the money on the understanding that she would pay it back next month.
+• • •
+COLLOCATIONS
+■ verbs
+▪ have an understanding The authorities don’t seem to have a clear understanding of the problem.
+▪ gain/get/develop an understanding Scientists continued to gain a greater understanding of the effects of radiation.
+▪ deepen/broaden an understanding It is hoped that the research will broaden our understanding of the disease.
+▪ increase/improve/enhance sb’s understanding The classes really helped to increase our understanding of the subject.
+■ adjectives
+▪ a better/greater/deeper understanding All of this will lead to a better understanding of the overseas market.
+▪ a clear understanding Before you begin, it is vital that you have a clear understanding of what you want to achieve.
+▪ a complete/thorough/full understanding The degree gives students a thorough understanding of issues relating to housing.
+▪ a proper/real understanding They lacked any real understanding of the subject.
+▪ a good understanding The sales force has a good understanding of the market.
+▪ a basic understanding The aim of the examination is to test basic understanding of the written language.
+▪ a limited understanding We have only a limited understanding of how the brain processes this information.
+
+nitty-gritty
+nit‧ty-grit‧ty /ˌnɪti ˈɡrɪti/ BrE  AmE  noun informal
+[Date: 1900-2000; Origin: Probably based on gritty]
+the nitty-gritty the basic and practical facts of a subject or activity:
+ Let’s get down to the nitty-gritty and work out the costs.
+From Oxford Advanced Learners Dictionary 8th Ed.
+nitty-gritty
+the nitty-gritty BrE [ˌnɪti ˈɡrɪti]  NAmE [ˌnɪti ˈɡrɪti]  noun singular (informal)
+the basic or most important details of an issue or a situation
+• Time ran out before we could get down to the real nitty-gritty.
+ 
+Word Origin:
+[nitty-gritty] 1960s: of unknown origin.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+nitty-gritty
+
+ / 9nItI 5grItI; 9nItI`^rItI/ n the nitty-gritty [sing](infml 口) the basic facts or realities of a matter 基本事实; 实情: Let's get down to (discussing) the nitty-gritty. 咱们着手探讨实际情况吧.
+From Longman DOCE5 Extras (En-En)
+nitty-gritty
+noun
+EXAMPLES FROM CORPUS
+▪ But how did he do on the nitty-gritty?
+
+proponent
+proponent UK  [prəˈpəʊ.nənt] US  [-ˈpoʊ-] noun countable [proponents]
+a person who speaks publicly in support of a particular idea or plan of action
+• He is one of the leading proponents of capital punishment.
+Compare opponent
+Thesaurus+: ↑Supporters, members and defenders ↑Believers and non-believers
+From Longman DOCE 5th Ed. (En-En)
+proponent
+pro‧po‧nent /prəˈpəʊnənt $ -ˈpoʊ-/ BrE  AmE  noun [countable]
+[Date: 1500-1600; Language: Latin; Origin: present participle of proponere; ⇨ ↑propound]
+someone who supports something or persuades people to do something SYN advocate ⇨ opponent
+proponent of
+ Steinem has always been a strong proponent of women’s rights.
+leading/main/major proponent
+ Dr George is one of the leading proponents of this view.
+From Oxford Advanced Learners Dictionary 8th Ed.
+proponent
+pro·pon·ent [proponent proponents] BrE [prəˈpəʊnənt]  NAmE [prəˈpoʊnənt]  noun ~ (of sth) (formal)
+a person who supports an idea or course of action
+Syn: ↑advocate
+>>>>>>> d755a720c9d9fe13e84f2efbfd3572cbff254c18

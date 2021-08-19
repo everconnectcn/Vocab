@@ -11751,6 +11751,7 @@ al‧lude /əˈluːd/ BrE  AmE  verb
 allude to somebody/something phrasal verb
 formal to mention something or someone indirectly:
  Rick didn’t want to discuss his past, though he alluded darkly to ‘some bad things that happened.’
+<<<<<<< HEAD
 
 flinch
 flinch /flɪntʃ/ BrE  AmE  (also flinch away) verb [intransitive]
@@ -12029,3 +12030,1590 @@ EXAMPLES FROM CORPUS
 ▪ Sadly, this will unravel some of the goodwill of recent weeks.
 ▪ To counter the danger of the former, Lacan would have us unravel the me entirely.
 ▪ We can also unravel those texts as individual answers to the problem of effective human agency.
+=======
+<<<<<<< HEAD
+ 
+a catering establishment (=a restaurant, cafe etc)
+▪ She runs a successful catering establishment in Leeds.
+a software/catering/construction etc business
+▪ His girlfriend runs a catering business.
+catering/restaurant/cooking facilities
+▪ The rooms all have cooking facilities and a fridge.
+
+a catering establishment (=a restaurant, cafe etc)
+▪ She runs a successful catering establishment in Leeds.
+a software/catering/construction etc business
+▪ His girlfriend runs a catering business.
+catering/restaurant/cooking facilities
+▪ The rooms all have cooking facilities and a fridge.
+
+tame
+I. tame1 /teɪm/ BrE  AmE  adjective
+[Language: Old English; Origin: tam]
+1. a tame animal or bird is not wild any longer, because it has been trained to live with people OPP wild:
+ tame elephants
+2. informal dull and disappointing:
+ Most of the criticism has been pretty tame.
+ I decided that teaching was too tame for me.
+3. [only before noun] British English used to describe a person who is willing to do what other people ask, even if it is slightly dishonest:
+ If you have a tame doctor, he might give you a sick note.
+—tamely adverb
+—tameness noun [uncountable]
+II. tame2 BrE  AmE  verb [transitive]
+1. to reduce the power or strength of something and prevent it from causing trouble:
+ The Prime Minister managed to tame the trade unions.
+2. to train a wild animal to obey you and not to attack people SYN domesticate:
+ The Asian elephant can be tamed and trained.
+ 
+ • I found the violence in the film surprisingly tame.
+• Most of the jokes are relatively tame.
+• The recent violence makes previous uprisings look tame by comparison.
+• To us it was all pretty tame stuff.
+• living a life that makes Wild West movies look positively tame
+• After what I've just been through, hitching a ride seems pretty tame stuff!
+• Such games must all sound rather tame to today's children.
+• You'll probably find life here pretty tame after New York.
+
+drift
+I. drift1 /drɪft/ BrE  AmE  verb [intransitive]
+1. MOVE SLOWLY to move slowly on water or in the air
+drift out/towards etc
+ The rubber raft drifted out to sea.
+ Smoke drifted up from the jungle ahead of us.
+2. WITHOUT PLAN to move, change, or do something without any plan or purpose
+drift around/along etc
+ Jenni spent the year drifting around Europe.
+drift into
+ I just drifted into teaching, really.
+drift away
+ The others drifted away. Melanie stayed.
+drift from something to something
+ The conversation drifted from one topic to another.
+let your gaze/eyes/thoughts/mind etc drift
+ Idly she let her eyes drift over his desk.
+3. CHANGE to gradually change from being in one condition, situation etc into another without realizing it
+drift into
+ She was just drifting into sleep when the alarm went off.
+ He drifted in and out of consciousness.
+4. MONEY/PRICES if values, prices, ↑shares etc drift, they gradually change:
+ The dollar drifted lower against the yen today.
+5. SNOW/SAND if snow, sand etc drifts, the wind blows it into large piles
+6. let something drift to allow something, especially something bad, to continue in the same way:
+ He couldn’t let the matter drift for much longer.
+drift apart phrasal verb
+if people drift apart, their relationship gradually ends:
+ Over the years my college friends and I have drifted apart.
+drift off phrasal verb
+to gradually fall asleep:
+ I was just drifting off when the phone rang.
+ He felt himself drifting off to sleep.
+II. drift2 BrE  AmE  noun
+[Date: 1300-1400; Origin: Probably from Old Norse drift 'pile of wind-blown snow'; related to drive]
+1. SNOW/SAND [countable] a large pile of snow or sand that has been blown by the wind
+drift of
+ The road is blocked with massive drifts of snow.
+ a snow drift
+2. CHANGE [singular] a slow change or development from one situation, opinion etc to another
+drift towards/to
+ a drift towards longer working hours
+3. MOVEMENT OF PEOPLE [singular, uncountable] a slow movement of large numbers of people that has not been planned
+drift from/to/into
+ the drift from the countryside to the cities
+4. the drift (of something) the general meaning of what someone is saying:
+ So what’s the drift of the argument?
+follow/get/catch sb’s drift (=understand the general meaning of what someone is saying)
+ She didn’t quite get my drift, did she?
+5. SHIPS/PLANES [uncountable] the movement of a ship or plane from its original direction because of the movement of the wind or water
+6. SLOW MOVEMENT [uncountable] very slow movement, especially over water or through the air
+
+build up
+build up phrasal verb (see also ↑build)
+1. INCREASE GRADUALLY if something builds up somewhere, or if you build it up, it gradually becomes bigger or greater:
+ the rate at which the pension builds up
+build something ↔ up
+ The museum has built up a fine art collection. ⇨ ↑build-up
+2. DEVELOP build something ↔ up to make something develop or form
+build something ↔ up into
+ He’s built up the family firm into a multinational company.
+3. FEELING if a feeling builds up, or if you build it up, it increases gradually over a period of time:
+ If you don’t express your feelings, frustration and anger can build up.
+build up something
+ You have to build up trust.
+4. MAKE HEALTHY build somebody/something ↔ up to make someone well and strong again, especially after an illness:
+ Taking exercise will build up your strength.
+5. PRAISE build somebody/something ↔ up to praise someone or something so that other people think they are really good, or so that they have more confidence:
+ The coach has been building his men up before the match.
+6. build up sb’s hopes (also build somebody's hopes up) to unfairly encourage someone to think that they will get what they hope for:
+ Don’t build your hopes up too much.
+ 
+ interweave
+interweave UK  [ˌɪn.təˈwiːv] US  [-t ̬ɚ-] [interwove], [interwoven] verb transitive [interwove interwoven interweaves interweaving]
+to weave together or combine two or more things so that they cannot be separated easily
+• She has created an intriguing story by skillfully interweaving fictional and historical events.
+Thesaurus+: ↑Connecting and combining ↑Variety and mixtures ↑Mixing and mixtures ↑Bending, twisting and curving
+From Longman DOCE 5th Ed. (En-En)
+interweave
+in‧ter‧weave /ˌɪntəˈwiːv $ -ər-/ BrE  AmE  verb (past tense interwove /-ˈwəʊv $ -ˈwoʊv/, past participle interwoven /-ˈwəʊvən $ -ˈwoʊ-/) [transitive usually passive]
+1. if two things are interwoven, they are closely related or combined in a complicated way
+closely/inextricably/tightly etc interwoven
+ The two themes are inextricably interwoven in the book.
+be interwoven with something
+ practical help for the bereaved interwoven with emotional support
+2. to weave two or more things together
+be interwoven with something
+ silk interwoven with gold and silver threads
+ 
+ 
+vie
+vie UK  US  [vaɪ] [vying], [vied], [vied] verb intransitive [vying vied vies]
+to compete with other people to achieve or get something
+• Six candidates are currently vying for the Democratic presidential nomination.
+• The two older children tend to vie with the younger one for their mother's attention.
+• + to infinitive The two groups of scientists are vying to get funding for their research projects.
+Thesaurus+: ↑Competing and contending (non-sporting) ↑Competing in sport
+From Longman DOCE 5th Ed. (En-En)
+vying
+vy‧ing /ˈvaɪ-ɪŋ/ BrE  AmE 
+the present participle of ↑vie
+vie
+vie /vaɪ/ BrE  AmE  verb (past tense and past participle vied, present participle vying, third person singular vies) [intransitive]
+[Date: 1500-1600; Language: Old French; Origin: envier 'to invite, challenge', from Latin invitare; ⇨ ↑invite1]
+to compete very hard with someone in order to get something
+vie for
+ Simon and Julian were vying for her attention all through dinner.
+vie with
+ There are at least twenty restaurants vying with each other for custom.
+
+vie to do something
+ All the photographers vied to get the best pictures.
+ 
+ I. dawn2 BrE  AmE  verb [intransitive]
+1. if day or morning dawns, it begins:
+ The morning dawned fresh and clear after the storm.
+2. if a period of time or situation dawns, it begins:
+ The age of Darwin had dawned.
+3. if a feeling or idea dawns, you have it for the first time:
+ It began to dawn that something was wrong.
+dawn on somebody phrasal verb
+if a fact dawns on you, you realize it for the first time:
+ The ghastly truth dawned on me.
+ It dawned on me that Jo had been right all along.
+ 
+ drape
+drape /dreɪp/ BrE  AmE  verb [transitive]
+[Date: 1400-1500; Language: Old French; Origin: draper, from drap 'cloth']
+1. to put something somewhere so that it hangs or lies loosely
+drape something over/around/across something
+ He took off his coat and draped it over a chair.
+ Mina lay back, her arms draped lazily over the cushions.
+2. to cover or decorate something with a cloth
+drape something over/around something
+ Jack emerged with a towel draped around him.
+drape something with/in something
+ The soldiers’ coffins were draped with American flags.
+ drape
+
+ / dreIp; drep/ v 
+ (a) [Tn.pr] ~ sth round/over sth hang (cloth, curtains, a cloak, etc) loosely on sth 将（衣物、帘、幕、斗篷等）悬挂, 披: a fur coat draped round her shoulders 披在她肩上的皮大衣 * Dust-sheets were draped over the furniture. 家具上盖着防尘布. (b) [Tn, Tn.pr] ~ sb/sth (in/with sth) cover or decorate sb/sth (with cloth, etc) （用布等）遮盖或装饰某人[某事物]: Dracula appeared, draped in a huge cloak. 吸血鬼披着一件大斗篷走了出来. * walls draped with tapestries 饰有挂毯的墙壁. 
+ [Tn.pr] ~ sth round/over sth allow sth to rest loosely on sth 将某物随便围在或放在另一物上: She draped her arms around his neck. 她伸开双臂轻轻地搂着他的脖子.
+
+ > drape n 
+ [sing] way in which a curtain, dress, etc hangs （帘、幕、衣、裙等）悬挂状. 
+ 
+ persevere
+per‧se‧vere /ˌpɜːsəˈvɪə, ˌpɜːsɪˈvɪə $ ˌpɜːrsəˈvɪr/ BrE  AmE  verb [intransitive]
+[Date: 1300-1400; Language: French; Origin: persévérer, from Latin perseverare, from severus; ⇨ ↑severe]
+to continue trying to do something in a very determined way in spite of difficulties – use this to show approval:
+ It can be tricky at first, but persevere.
+persevere with
+ He persevered with his task until he had succeeded in collecting an armful of firewood.
+persevere in (doing) something
+ She had persevered in her claim for compensation.
+—persevering adjective
+• • •
+THESAURUS
+■ to continue doing something
+▪ continue to not stop doing something that you are already doing: We need the money to continue our work. | They continued arguing for a long time. | Despite all the warnings, many people continue to smoke. | Sometimes she just couldn’t see the point of continuing. | My teacher advised me to continue with my studies.
+▪ go on (also carry on especially British English) to continue doing something. Go on is less formal than continue, and is the phrase that people usually use in everyday English: Dan went on talking but she was no longer listening. | He carried on with his day job. | Sheehan has carried on with her campaign.
+▪ keep (on) doing something [not in progressive] to continue doing something for a long time – especially so that you feel tired or annoyed: We kept on walking until we got to the top of the hill. | The man kept staring at me.
+▪ persevere /ˌpɜːsəˈvɪə, ˌpɜːsɪˈvɪə $ ˌpɜːrsəˈvɪr/ to continue trying to do something in a very patient and determined way, in spite of difficulties. Persevere sounds rather formal: He didn’t know any English, but he persevered and became a good student. | Her health was rapidly declining but she persevered with her duties. | Stevenson persevered in his efforts to discover what had really happened. | Children today seem less willing to seek out challenges and persevere in the face of adversity.
+From Oxford Advanced Learners Dictionary 8th Ed.
+persevere
+per·se·vere [persevere perseveres persevered persevering] BrE [ˌpɜːsɪˈvɪə(r)]  NAmE [ˌpɜːrsəˈvɪr]  verb intransitive (approving)
+to continue trying to do or achieve sth despite difficulties
+• ~ (in sth/in doing sth) Despite a number of setbacks, they persevered in their attempts to fly around the world in a balloon.
+• ~ (with sth/sb) She persevered with her violin lessons.
+• You have to persevere with difficult students.
+Verb forms: 
+ 
+Word Origin:
+late Middle English: from Old French perseverer, from Latin perseverare ‘abide by strictly’, from perseverus ‘very strict’, from per- ‘thoroughly’ + severus ‘severe’.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+persevere
+
+ / 9p\:sI5vIE(r); 9p[sE`vIr/ v [I, Ipr] ~ (at/in/
+ with sth); ~ (with sb) (usu approv 通常作褒义) continue trying to do sth, esp in spite of difficulty 坚持做某事（尤指不畏困难）: You'll need to persevere if you want the business to succeed. 要想事业成功, 就得持之以恒. * She persevered in her efforts to win the championship.她为赢得冠军而不断努力. * It's difficult, but I'm going to persevere with it. 难是难, 但我一定坚持到底. * He was hopeless at French, but his teacher persevered with him. 他怎么也学不会法语, 可是老师仍锲而不舍地帮助他.
+
+ > perseverance / 9p\:sI5vIErEns; 9p[sE`vIrEns/ n [U] continued steady effort to achieve an aim; steadfastness 坚持不懈; 不屈不挠: After months of disappointment, his perseverance was finally rewarded. 数月来他经历挫折而不断努力, 终于有了收获. * perseverance in the face of extreme hardship 面对极端困苦而百折不挠.
+ persevering / 9p\:sI5vIErIN; 9p[sE`vIrIN/ adj showing perseverance 坚持的; 不屈不挠的: [attrib 作定语] persevering efforts 坚持不懈的努力 * A few persevering climbers finally reached the top. 少数几个攀登者坚忍不拔, 终于登上了顶峰. perseveringly adv.
+ 
+ meander
+me‧an‧der /miˈændə $ -ər/ BrE  AmE  verb [intransitive]
+[Date: 1500-1600; Language: Latin; Origin: maeander, from Greek, from Maiandros (now Menderes), river in Turkey]
+1. if a river, stream, road etc meanders, it has a lot of bends rather than going in a straight line
+meander along/across/down etc
+ The river meandered gently along the valley floor.
+2. [always + adverb/preposition] to walk somewhere in a slow relaxed way rather than take the most direct way possible
+meander along/through etc
+ Cows still meander through these villages.
+3. (also meander on) if a conversation or piece of writing meanders on, it is too long and has no purpose or structure
+—meanderings noun [plural]:
+ his aimless meanderings through Europe
+—meander noun [countable]
+
+preface
+preface UK  US  [ˈpref.ɪs] noun countable [prefaces]
+1. an introduction at the beginning of a book explaining its aims
+• In his preface, the author says that he took eight years to write the book.
+Thesaurus+: ↑Books and parts of books
+2. a preface to sth
+an event which comes before something more important
+• We're hoping these talks could be a preface to peace.
+Thesaurus+: ↑Beginnings and starts
+ 
+verb transitive formal
+If you preface your words or actions with something else, you say or do this other thing first
+• Each work is prefaced by a descriptive note and concludes with an author's note.
+• I should like to preface my response with the following observation.
+Thesaurus+: ↑Preceding and introducing
+From Longman DOCE 5th Ed. (En-En)
+preface
+I. pref‧ace1 /ˈprefəs, ˈprefɪs/ BrE  AmE  noun [countable]
+[Date: 1300-1400; Language: French; Origin: préface, from Latin praefatio, from praefari 'to say before']
+an introduction at the beginning of a book or speech
+• • •
+THESAURUS
+▪ introduction a written or spoken statement at the beginning of a book, speech, or meeting, giving a general idea of what it is about: After a brief introduction by the chairman, the meeting began. | The author outlines his methods of research in the introduction.
+▪ preface a short piece of writing at the beginning of a book that says what the book is about or the reason for writing it: In the preface, he explains his motives for returning to the subject of Middle Eastern politics.
+▪ foreword a short introduction to a book or report, usually written by someone who is not the author: Greene wrote the foreword to Suzmann’s book.
+▪ prologue an introduction to a piece of writing, especially a play or a long poem: the prologue to Shakespeare’s ‘Henry V’ | The poem begins with a brief prologue.
+▪ preamble a statement at the beginning of something, especially an official document, which explains what it is about: the Preamble to the US Constitution
+II. preface2 BrE  AmE  verb [transitive]
+formal to say or do something before the main part of what you are going to say:
+ The book is prefaced by a quotation from Faulkner.
+ 
+ evoke
+evoke UK  [ɪˈvəʊk] US  [-ˈvoʊk] verb transitive [evokes evoking evoked]
+to make someone remember something or feel an emotion
+• That smell always evokes memories of my old school.
+• a detergent designed to evoke the fresh smell of summer meadows
+Thesaurus+: ↑Remembering, reminding and reminders
+Derived: evocation
+From Longman DOCE 5th Ed. (En-En)
+evoke
+e‧voke /ɪˈvəʊk $ ɪˈvoʊk/ BrE  AmE  verb [transitive]
+[Date: 1600-1700; Language: French; Origin: évoquer, from Latin evocare 'to call out', from vocare 'to call']
+to produce a strong feeling or memory in someone:
+ The photographs evoked strong memories of our holidays in France.
+ His appearance is bound to evoke sympathy.
+ Her speech evoked a hostile response.
+—evocation /ˌevəˈkeɪʃən, ˌiːvəʊ- $ ˌevə-, ˌiːvoʊ-/ noun [uncountable and countable]:
+ The poem is an evocation of lost love.
+ 
+ 
+  
+PROMISE
+2. <I > intransitive or transitive to promise or give your loyalty, time or money to a particular principle, person or plan of action
+• reflexive Like so many men, he has problems committing himself to a relationship.
+• The government must commit itself to improving health care.
+• Once we have committed to this course of action there is no going back.
+Thesaurus+: ↑Making and breaking promises and commitments
+3. commit yourself
+to express an opinion or to make a decision that you tell people about
+• I think I can come but I won't commit myself till I know for sure.
+Thesaurus+: ↑Announcing, informing and stating
+4. commit sth to memory
+to make certain that you remember something
+Thesaurus+: ↑Remembering, reminding and reminders
+5. commit sth to paper
+to write something down
+• Perhaps we should commit these ideas to paper before we forget them.
+Thesaurus+: ↑Writing and typing
+ 
+Common errors:
+Warning: Check your verb endings!
+Many learners make mistakes when using commit in the past tense.
+The past simple and past participle have 'tt'. Don't write 'comited', write committed.
+The -ing form is committing.
+ 
+• Can you commit to a firm date for the building work?
+• We have committed ourselves to stamping out racism in our organisation.
+• She finds it hard to commit to just one man.
+• I'd like to come to your party, but I can't commit myself until I know my work shifts.
+
+fess
+fess /fes/ BrE  AmE  verb
+fess up American English informal
+to admit that you have done something wrong, although it is not very serious SYN own up:
+ Come on, fess up! Who ate that last cookie?
+ fess (plural fesses)
+(heraldry) A horizontal band across the middle of the shield.
+1892, Arthur Conan Doyle, ‘The Adventure of the Noble Bachelor’, Norton 2005 p.294:
+Lord Robert Walsingham de Vere St. Simon, second son of the Duke of Balmoral—Hum! Arms: Azure, three caltrops in chief over a fess sable.
+2009, Hilary Mantel, Wolf Hall, Fourth Estate 2010, p. 420:
+The space where the arms of Wolsey used to be is being repainted with his own newly granted arms: azure, on a fess between three lions rampant or, a rose gules, barbed vert, between two Cornish choughs proper.
+
+ruminate
+ruminate UK  US  [ˈruː.mɪ.neɪt] verb intransitive [ruminates ruminating ruminated]
+ 
+THINK
+1. formal to think carefully and for a long period about something
+• She ruminated for weeks about whether to tell him or not.
+Thesaurus+: ↑Thinking and contemplating
+ 
+EAT
+2. specialized (of particular types of animal) to bring up food from the stomach and chew it again
+Thesaurus+: ↑Animal (non-human) behaviour
+From Longman DOCE 5th Ed. (En-En)
+ruminate
+ru‧mi‧nate /ˈruːməneɪt, ˈruːmɪneɪt/ BrE  AmE  verb [intransitive]
+[Date: 1500-1600; Language: Latin; Origin: past participle of ruminare, from rumen 'throat']
+1. formal to think carefully and deeply about something
+ruminate on/over
+ He sat alone, ruminating on the injustice of the world.
+2. technical if animals such as cows ruminate, they bring food back into their mouths from their stomachs and ↑chew it again
+—rumination /ˌruːməˈneɪʃən, ˌruːmɪˈneɪʃən/ noun [uncountable and countable]
+From Oxford Advanced Learners Dictionary 8th Ed.
+ruminate
+ru·min·ate [ruminate ruminates ruminated ruminating] BrE [ˈruːmɪneɪt]  NAmE [ˈruːmɪneɪt]  verb intransitive, transitive ~ (on/over/about sth) | + speech (formal)
+to think deeply about sth
+Syn: ↑ponder
+Derived Word: ↑rumination
+Verb forms: 
+ 
+Word Origin:
+mid 16th cent.: from Latin ruminat- ‘chewed over’, from the verb ruminari.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+ruminate
+
+ / 5ru:mIneIt; `rumE9net/ v 
+ [I, Ipr] ~ (about/on/over sth) think deeply; meditate; ponder 深思; 沉思; 思索: ruminating on recent events 思考最近发生的事. 
+ [I] (of animals) chew the cud （指动物）反刍.
+
+ > rumination / 9ru:mI5neIFn; 9rumE`neFEn/ n [U].
+ ruminative / 5ru:mInEtIv; ?@ -neItIv; `rumE9netIv/ adj inclined to meditate; thoughtful 好沉思的; 思考的: in a ruminative mood 在冥思苦索中. ruminatively adv: gazing ruminatively out of the window 若有所思地凝视着窗外.
+ ▪ As we ruminated, suddenly into our midst burst a young girl visibly in distress.
+▪ Glover ruminated silently in a different direction.
+▪ I was ruminating on his chances when my phone rang in the hallway.
+▪ Mitchell ruminated on the hideous milky flesh, thinking, I am going to eat that octopus.
+▪ She could surely be real sweet when she tried, he ruminated.
+▪ There never was a time when I had not ruminated on these questions.
+▪ What sort of life was that, Sandra ruminated.
+traction
+trac‧tion /ˈtrækʃən/ BrE  AmE  noun [uncountable]
+[Date: 1600-1700; Language: Medieval Latin; Origin: tractio, from Latin trahere 'to pull']
+1. the process of treating a broken bone with special medical equipment that pulls it
+in traction
+ He was in traction (=receiving this kind of treatment) for weeks after the accident.
+2. the force that prevents something such as a wheel sliding on a surface:
+ The tires were bald (=completely worn) and lost traction on the wet road.
+3. the type of power needed to make a vehicle move, or to pull a heavy load
+
+expedite
+expedite UK  US  [ˈek.spə.daɪt] formal verb transitive [expedites expediting expedited]
+to cause to be done more quickly; to hurry
+• Something needs to be done to expedite the process.
+Thesaurus+: ↑Hurrying and doing things quickly ↑Busy and active
+From Longman DOCE 5th Ed. (En-En)
+expedite
+ex‧pe‧dite /ˈekspədaɪt, ˈekspɪdaɪt/ BrE  AmE  verb [transitive]
+[Date: 1400-1500; Language: Latin; Origin: past participle of expedire 'to free the feet, set free, arrange', from pes 'foot']
+to make a process or action happen more quickly SYN speed up:
+ strategies to expedite the decision-making process
+ expedite
+
+ / 5ekspIdaIt; `ZkspI9daIt/ v [Tn] (fml 文) help the progress of (work, business, etc); hasten or speed up 有助于（工作、业务等）的进展; 加快; 加速: Please do what you can to expedite the building work. 请尽量加快建筑工作.
+From Longman DOCE5 Extras (En-En)
+expedite
+verb
+EXAMPLES FROM OTHER ENTRIES
+▪ More money would, of course, expedite the construction.
+EXAMPLES FROM CORPUS
+▪ In these circumstances, use of the Collar-Jahn method, described in Chapter 3; may greatly expedite the solution.
+▪ Instead, hoping to expedite matters, he squatted down beside them and gave them a hand.
+▪ Occasionally he would seek to expedite his victim's demise as best he could.
+▪ Still, there are those who originally chose the law as an opportunity to expedite social change.
+▪ The panel also called for expediting by five years deployment of a satellite-based computer network for guiding pilots in flight.
+▪ The Pentagon doesn't expedite - they demand immediate compliance.
+
+triple
+triple UK  US  [ˈtrɪp.l ̩] adjective
+1. having three parts of the same type, or happening three times
+• Her trainer is a triple Olympic champion.
+• There's a triple bill of Hitchcock films (= three films) on at the cinema next Sunday.
+Thesaurus+: ↑Single, double and multiple
+2. triple sth
+three times as large as something
+• The number of one-parent U.S. households reached 10.1 million in 1991, nearly triple that of 1971.
+Thesaurus+: ↑Single, double and multiple
+ 
+verb intransitive or transitive
+to increase three times in size or amount, or to make something do this
+• We have tripled our output over the past two years.
+• The workforce has tripled in size since the new factory opened.
+Thesaurus+: ↑Addition, subtraction, multiplication and division ↑Calculations and calculating
+From Longman DOCE 5th Ed. (En-En)
+triple
+I. trip‧le1 /ˈtrɪpəl/ BrE  AmE  adjective [only before noun], predeterminer
+1. having three parts or involving three groups, people, events etc ⇨ double:
+ a triple murder investigation
+ a triple bill of horror movies
+ the triple world champion
+ a triple bypass heart operation
+2. three times more than a particular number ⇨ double:
+ The rail system has triple the average number of accidents.
+II. triple2 BrE  AmE  verb [intransitive and transitive]
+to increase by three times as much, or to make something do this ⇨ double:
+ The company has tripled in size.
+ We expect to triple our profits next year.
+III. triple3 BrE  AmE  noun [countable]
+1. a hit of the ball in baseball that allows the ↑batter to get to the third ↑base
+2. three turns of your body in a sport such as ICE SKATING or ↑gymnastics
+From Oxford Advanced Learners Dictionary 8th Ed.
+triple
+triple [triple triples tripled tripling] adjective, verb BrE [ˈtrɪpl]  NAmE [ˈtrɪpl] 
+adjective only before noun
+1. having three parts or involving three people or groups
+• a triple heart bypass operation
+• a triple alliance
+• They're showing a triple bill of horror movies (= three horror movies one after the other).
+2. three times as much or as many as sth
+• The amount of alcohol in his blood was triple the legal maximum.
+• Its population is about triple that of Venice.
+ 
+Word Origin:
+Middle English (as an adjective and adverb): from Old French, or from Latin triplus, from Greek triplous.
+Derived Word: ↑triply
+ 
+■ nouns
+▪ carry out work You’ll have to get a builder to carry out the work.
+▪ carry out your duties/responsibilities She carried out her duties very efficiently.
+▪ carry out a task/job He was unable to carry out simple tasks.
+▪ carry out research I was in Italy carrying out research for my book.
+▪ carry out a survey The committee has carried out a survey of parking problems in residential areas.
+▪ carry out a check Manufacturers carry out safety checks on all new cars.
+▪ carry out a test Forensic experts are now carrying out DNA tests.
+▪ carry out an experiment Many schools need better facilities for carrying out scientific experiments.
+▪ carry out a review The government is carrying out a review of state pension provision.
+▪ carry out a study He has carried out various studies into violent behaviour.
+▪ carry out an investigation The police will carry out an investigation into what actually happened.
+▪ carry out an inquiry A formal inquiry into the cause of death will be carried out.
+▪ carry out an assessment The company is carrying out an assessment of staff training needs.
+▪ carry out a search Here are some more ways of carrying out information searches online.
+▪ carry out an attack It became clear that terrorists had carried out the attack.
+• • •
+THESAURUS
+▪ carry to have something or someone in your hands or arms when you go somewhere: She was carrying a heavy suitcase. | Mary fainted, and had to be carried inside.
+▪ tote especially American English informal to carry something such as a bag or a gun: He came out of the office toting a black leather briefcase. | Guards toting machine guns stood inside the airport.
+▪ lug to carry something heavy, with difficulty: They lugged the mail in heavy canvas bags into the building.
+▪ cart to carry something large and heavy somewhere, especially when this is annoying or hard work: We carted all the furniture upstairs.
+▪ schlep American English informal to carry something heavy: Marty schlepped the suitcases upstairs.
+▪ bear formal to carry something – used when talking about what someone has with them when they go somewhere. Bear is commonly used as a participle bearing: They arrived bearing gifts. | Anna returned, bearing a large red packet.
+carry something ↔ forward phrasal verb
+1. to succeed in making progress with something:
+ The new team have to carry the work forward.
+2. to include an amount of money in a later set of figures or calculations
+carry something ↔ off phrasal verb
+1. to do something difficult successfully:
+ I was flattered to be offered the job but wasn’t sure if I could carry it off.
+2. to win a prize:
+ a film that carried off three Oscars
+carry on phrasal verb
+1. especially British English to continue doing something:
+ Sorry, I interrupted you. Please carry on.
+carry on doing something
+ You’ll have an accident if you carry on driving like that.
+carry on with
+ I want to carry on with my course.
+carry on as usual/as you are/regardless etc
+2. to continue moving:
+ He stopped and looked back, then carried on down the stairs.
+ Carry straight on until you get to the traffic lights.
+3. carry on something if you carry on a particular kind of work or activity, you do it or take part in it:
+ Mr Dean carried on his baking business until he retired.
+ It was so noisy it was hard to carry on a conversation.
+4. spoken to talk in an annoying way
+carry on about
+
+a plane carries passengers
+▪ A plane carrying 10 civilians was shot down.
+as fast as...legs could carry (=running as quickly as he could)
+▪ Johnny ran off as fast as his legs could carry him .
+bear/carry a grudge
+▪ Wallace said the rumors had been started by someone who bore a grudge against him.
+bear/carry a watermark
+▪ The sheet bears the watermark ‘1836’.
+bear/carry/shoulder the burden (=be responsible for something)
+▪ At the age of 16, Suzy bore the burden of providing for her family.
+carries...stigma
+▪ In the US, smoking carries a stigma.
+carries...the death sentence (=is punished by)
+▪ Premeditated murder carries the death sentence.
+carry a card (=have one with you)
+▪ Motorists could soon be forced to carry an ID card.
+carry a gene (=have a gene that causes a medical condition which you can pass on to your children)
+▪ Some women carry a gene which makes them more likely to develop breast cancer.
+carry a knife (=have it with you)
+▪ The campaign warns young people about the dangers of carrying knives.
+carry a punishment (=used when saying what the punishment for something is)
+▪ The offence carries a punishment of up to 10 years in prison.
+carry a risk (=might be dangerous)
+▪ Most medical operations carry some risk.
+carry a signal (=allow it to travel along or through something)
+▪ Copper wires carry the electrical signals.
+carry a virus (=have a virus, which you may then give to other people)
+▪ A nurse at the clinic was found to be carrying the virus.
+carry a weapon
+▪ The man is believed to be carrying a weapon.
+carry meaning (also bear a meaningformal) (= have a meaning)
+▪ In conversation, even a pause may carry meaning.
+carry on a conversation
+
+TRANSPORT
+1. <E > intransitive or transitive to transport or take something from one place to another
+• Would you like me to carry your bag for you?
+• She carried her tired child upstairs to bed.
+• These books are too heavy for me to carry.
+• The bus that was involved in the accident was carrying children to school.
+• The Brooklyn Bridge carries traffic across the East River from Brooklyn to Manhattan.
+• Police think that the body was carried down the river (= was transported by the flow of the river).
+• Underground cables carry electricity to all parts of the city.
+• We only had a small suitcase, so we were able to carry it onto the plane.
+• Rubbish left on the beach during the day is carried away (= removed) at night by the tide.
+• Thieves broke the shop window and carried off (= removed) jewellery worth thousands of pounds.
+• Robson injured his leg in the second half of the match and had to be carried off.
+Thesaurus+: ↑Transferring and transporting objects
+ 
+• Will you be able to carry all the shopping back home on your bike?
+• Kangaroos carry their young in pouches.
+• She was carrying a tray of drinks.
+• Water slopped out of the bucket as he carried it up the stairs.
+• They carried the wounded from the battlefield.
+ 
+HAVE WITH YOU
+2. <I > transitive to have something with you all the time
+• Police officers in Britain do not usually carry guns.
+• figurative He will carry the memory of the accident with him (= will remember the accident) for ever.
+Thesaurus+: ↑Having and owning - general words
+ 
+• She still carries his photo in her purse.
+• I don't usually carry much cash with me.
+• He needed 100 stitches and still carries scars all over his body.
+• He carries a British passport.
+• So many young people round here carry weapons.
+ 
+HAVE
+3. <I > transitive to have something as a part, quality or result
+• All cigarette packets carry a government health warning.
+• Our cars carry a twelve-month guarantee.
+• His speech carried so much conviction that I had to agree with him.
+• In some countries, murder carries the death penalty.
+• I'm afraid my opinion doesn't carry any weight with (= influence) my boss.
+• US The salesclerk said they didn't carry (= have a supply of) sportswear.
+Thesaurus+: ↑Including and containing ↑Comprising and consisting of
+ 
+• All investments carry with them some risk.
+• Burglary carries a maximum sentence of 14 years' imprisonment.
+• His words in meetings carry an authority.
+• For children, obesity carries a stigma.
+• Train travel still carries with it an aura of romance.
+ 
+SPREAD
+4. transitive to take something from one person or thing and give it to another person or thing; to spread
+• Malaria is a disease carried by mosquitoes.
+Thesaurus+: ↑Passing on illness and causing disease
+ 
+SUPPORT WEIGHT
+5. transitive to support the weight of something without moving or breaking
+• The weight of the cathedral roof is carried by two rows of pillars.
+Thesaurus+: ↑Physical supports and supporting ↑Arches, columns and beams
+ 
+KEEP IN OPERATION
+6. transitive to support, keep in operation, or make a success
+• We can no longer afford to carry people who don't work as hard as they should.
+• Luckily they had a very strong actor in the main part and he managed to carry the whole play (= make a success of it through his own performance).
+Thesaurus+: ↑Backing, supporting and defending ↑Defending and protecting
+ 
+WIN
+7. transitive to win the support, agreement or sympathy of a group of people
+• The management's plans to reorganize the company won't succeed unless they can carry the workforce with them.
+Thesaurus+: ↑Urging and persuading ↑Causing somebody to act
+ 
+APPROVE
+8. transitive usually passive to give approval, especially by voting
+• The motion/proposal/resolution/bill was carried by 210 votes to 160.
+Thesaurus+: ↑Elections
+ 
+BROADCAST
+9. transitive (of a newspaper, radio or television broadcast) to contain particular information
+• This morning's newspapers all carry the same story on their front page.
+Thesaurus+: ↑The press and news reporting ↑Broadcasting in general
+ 
+REACH
+10. intransitive to be able to reach or travel a particular distance
+• The sound of the explosion carried for miles.
+• The ball carried high into the air and landed the other side of the fence.
+Thesaurus+: ↑General words for movement
+ 
+DEVELOP
+11. transitive usually + adverb or preposition to develop; to continue
+• Lenin carried Marx's ideas a stage further by putting them into practice.
+• If we carry this argument to its logical conclusion, we realise that further investment is not a good idea.
+• She carries tidiness to extremes/to its limits (= She is too tidy).
+• We must end here, but we can carry today's discussion forward at our next meeting.
+• He always carries his jokes too far (= he continues making jokes when he should have stopped).
+Thesaurus+: ↑Making progress and advancing ↑Becoming better
+ 
+ 
+ live off
+live off somebody/something phrasal verb (see also ↑live)
+to get your income or food from a supply of money or from another person:
+ Mom used to live off the interest from her savings.
+ Dad lost his job and we had to live off welfare.
+ Most people in the countryside live off the land (=live by growing or finding their own food).
+ 
+ verb [-ll-] or [US USUALLY -l-]
+1. intransitive or transitive usually + adverb or preposition to put something, or to travel, through a funnel or something that acts like a funnel
+• The wind funnels down these narrow streets.
+• The children funnelled along the corridor into the school hall.
+• If you funnel the oil into the engine, you're less likely to spill it.
+Thesaurus+: ↑Movement of liquids
+2. transitive usually + adverb or preposition to send something directly and intentionally
+• No one knows who has been funnelling weapons to the terrorists.
+Thesaurus+: ↑Delivering and despatching
+漏斗
+II. funnel2 BrE  AmE  verb (past tense and past participle funnelled, present participle funnelling British English, funneled, funneling American English)
+1. [intransitive, transitive always + adverb/preposition] if you funnel something somewhere, or if it funnels there, it goes there by passing through a narrow opening:
+ Police at the barriers funnelled the crowd into the arena.
+ Incoming tides funnel up the channel with enormous power.
+2. [transitive always + adverb/preposition] to send money, information etc from various places to someone SYN channel:
+ His office funneled millions of dollars in secret contributions to the re-election campaign.
+ ▪ Economic aid from 24 countries will be funneled into the war zone.
+EXAMPLES FROM CORPUS
+▪ Everything he does funnels in and out of him through his talent.
+▪ Its aerodynamic shape means that wind is funnelled round its surface causing little movement to the structure.
+▪ The basin funnels the wind and shoots it out over this ridge.
+▪ The bluff is the end of a narrowing tongue of land which would have funnelled the herd to a point.
+▪ The choices funnel down and you go where the funnel goes.
+▪ The Clinton campaign does not accept money from political action committees through which teacher unions funnel their contributions.
+▪ The Expos always seem to have the right player to funnel to the big leagues.
+
+fancy
+I. fan‧cy1 S2 /ˈfænsi/ BrE  AmE  verb (past tense and past participle fancied, present participle fancying, third person singular fancies) [transitive]
+1. LIKE/WANT British English informal to like or want something, or want to do something SYN feel like:
+ Fancy a quick drink, Emma?
+fancy doing something
+ Sorry, but I don’t fancy going out tonight.
+2. SEXUAL ATTRACTION British English informal to feel sexually attracted to someone:
+ All the girls fancied him.
+3. fancy yourself British English informal to behave in a way that shows you think you are very attractive or clever:
+ That bloke on the dance floor really fancies himself.
+4. fancy yourself (as) something British English to believe, usually wrongly, that you have particular skills or are a particular type of person:
+ He fancies himself an artist.
+ She fancies herself as another Madonna.
+5. THINK SOMETHING WILL BE SUCCESSFUL British English to think someone or something is likely to be successful in something:
+ Which team do you fancy this year?
+ I don’t fancy our chances of getting a ticket this late.
+6. fancy!/fancy that! British English spoken used to express your surprise or shock about something:
+ ‘The Petersons are getting divorced.’ ‘Fancy that!’
+ Fancy seeing you here!
+7. THINK/BELIEVE literary to think or believe something without being certain
+fancy (that)
+ She fancied she heard a noise downstairs.
+II. fancy2 BrE  AmE  noun (plural fancies)
+[Date: 1400-1500; Origin: fantasy]
+1. LIKING/WISH [singular] especially British English
+a) a feeling, especially one that is not particularly strong or urgent, that you like someone or want to have something
+take a fancy to somebody/something (=decide that you like someone or want to have something)
+ Mr Hill took a real fancy to Clara.
+ Wanting to go to Mexico was just a passing fancy (=the feeling did not last long).
+ Because of its high cost, a carpet is not an item that you change as the fancy takes you (=whenever you want).
+b) take/catch your fancy if something takes or catches your fancy, you like it or want to have it:
+ Did you see anything that took your fancy?
+2. tickle sb’s fancy informal to seem attractive or amusing to someone:
+ The idea of playing a joke on her tickled his fancy.
+3. IDEA [countable] old-fashioned an idea or opinion that is not based on fact:
+ Oh, that was just a fancy of his.
+4. IMAGINATION [uncountable] literary imagination or something that you imagine ⇨ flight of fancy at ↑flight(6)
+III. fancy3 S3 BrE  AmE  adjective (comparative fancier, superlative fanciest)
+1. fancy hotels, restaurants, cars etc are expensive and fashionable SYN swanky:
+ Harry took me to a fancy restaurant for our anniversary.
+fancy prices British English (=very high and often unreasonable prices)
+2. having a lot of decoration or bright colours, or made in a complicated way:
+ fancy soaps in seashell shapes
+ I just want a basic sports coat – nothing fancy.
+3. complicated and needing a lot of skill OPP straightforward:
+ I can’t do all that fancy stuff on the computer.
+ Negotiating a deal can take some fancy footwork (=skill at making deals).
+4. [only before noun] American English fancy food is of a high quality
+
+gouge
+I. gouge1 /ɡaʊdʒ/ BrE  AmE  verb [transitive]
+to make a deep hole or cut in the surface of something:
+ He took a knife and gouged a hole in the bottom of the boat.
+gouge something ↔ out phrasal verb
+1. to form a hole, space etc by digging into a surface and removing material, or to remove material by digging
+gouge something ↔ out of
+ A rough road had been gouged out of the rock.
+ Every week 30,000 tonnes of slate are gouged out of the mountains.
+2. gouge sb’s eyes out to remove someone’s eyes with a pointed weapon
+II. gouge2 BrE  AmE  noun [countable]
+[Date: 1400-1500; Language: French; Origin: Late Latin gulbia]
+a hole or cut made in something, usually by a sharp tool or weapon
+gouge
+
+ / gaUdV; ^aJdV/ n tool with a sharp semicircular edge for cutting grooves in wood 半圆凿; 弧口凿.
+
+ > gouge v (a) [Tn, Tn.pr] ~ sth (in sth) make (a hole) in sth roughly or destructively 在某物上胡乱地或破坏性地凿（洞）: A maniac had gouged several holes in the priceless painting. 有个狂徒在那幅价值连城的画上乱凿了几个洞. (b) (phr v) gouge sth out remove sth by digging into a surface with a sharp tool, one's fingers, etc （用利器或手指等在物体表面上抠、挖、掘等）除去某物: gouge out a narrow groove 凿出窄槽 * gouge out a stone from a horseshoe 从马掌中抠中石块 * gouge sb's eyes out 挖出某人的眼睛.
+From Longman DOCE5 Extras (En-En)
+gouge
+I. verb
+COLLOCATIONS FROM CORPUS
+■ ADVERB
+out
+▪ She concentrated on her potato, gouging out its deep black eye with the serrated tip of her knife.
+▪ He told us it was for gouging out guerrilla eyes.
+EXAMPLES FROM OTHER ENTRIES
+▪ Bombs from the B-52s gouged huge craters in the downtown area.
+▪ Hotels are ready to gouge Olympic visitors by raising room prices.
+▪ In the play he tries to gouge out his own eyes.
+▪ The blade gouged a deep wound in her leg.
+EXAMPLES FROM CORPUS
+▪ A metal object was used to gouge a deep wound in the animal's forehead.
+▪ Both were known for gouging the public and giving inferior service.
+▪ But some lawmakers who also testified accused the banks of gouging customers.
+▪ For a few moments he stood very still, imagining himself kicking and gouging.
+▪ He must have been gouging for half an hour when an idea seemed to strike him.
+▪ Juanito screamed, falling, hands gouging for Trent's throat.
+▪ She watched his fingers gouging into the smooth, stinking mud, the bottom.
+II. noun
+EXAMPLES FROM CORPUS
+▪ A gouge in environment is likely to attract future gouges.
+▪ Cogelow gouges don't conform to any of the standard shapes or numbering systems.
+▪ He tinkered with infinity and the impossible with a burin and a gouge.
+▪ He used small gouges to carve little tufts of fur with long, controlled strokes, following the marked lines.
+▪ To shape the generous indentation, the wood was taken out gradually with a deep oval gouge.
+
+I. scrape1 /skreɪp/ BrE  AmE  verb
+[Date: 1300-1400; Language: Old Norse; Origin: skrapa]
+1. [transitive] to remove something from a surface using the edge of a knife, a stick etc:
+ Scrape the carrots and slice them thinly.
+scrape something away/off
+ The earth was scraped away to uncover a trapdoor.
+scrape something off/into etc something
+ Teresa scraped the mud off her boots.
+ The two of them scraped their dishes clean.
+2. [intransitive, transitive always + adverb/preposition] to rub against a rough surface in a way that causes slight damage or injury, or to make something do this ⇨ graze:
+ The coat was too long; the hem scraped the pavement.
+scrape against/on etc
+ I heard the side of the car scrape against the wall.
+scrape something against/on something
+ I scraped my knee painfully on the concrete.
+3.   [intransitive and transitive] to make a noise by rubbing roughly against a surface:
+ Chairs scraped loudly as they stood up.
+scrape (something) on/down/against something
+ He opened the gate quietly, trying not to let it scrape on the gravel.
+4. scrape home especially British English to win a race, election, or competition by a very small amount:
+ The Tories may scrape home, but it’s unlikely.
+5. scrape (the bottom of) the barrel informal to have to use something even though it is not very good, because there is nothing better available:
+ It was clear that the party was scraping the barrel for competent politicians.
+⇨ bow and scrape at ↑bow1(5), ⇨ scrape/scratch a living at ↑living2(1)
+scrape something ↔ back phrasal verb
+if you scrape your hair back, you pull it away from your face and tie it at the back:
+ Her blonde hair was scraped back into a ponytail.
+scrape by phrasal verb
+1. to have just enough money to live:
+ We can scrape by, thanks to what we grow ourselves.
+2. to only just succeed in passing an examination or dealing with a difficult situation
+scrape in (also scrape into something) phrasal verb
+to only just succeed in getting a job, a place at university, a position in government etc:
+ Labour scraped in by a small majority.
+ He just scraped into college.
+scrape through (something) phrasal verb
+to only just succeed in passing an examination or dealing with a difficult situation:
+ I managed to scrape through the exam.
+scrape something ↔ together/up phrasal verb
+to get enough money for a particular purpose, when this is difficult:
+ She scraped together the last of her savings.
+ They could hardly scrape up enough money for the train fare.
+II. scrape2 BrE  AmE  noun
+1. [countable] a mark or slight injury caused by rubbing against a rough surface SYN graze:
+ I came away from the accident with only cuts and scrapes.
+2. [countable] informal a situation in which you are in trouble or have difficulties:
+ He got into all sorts of scrapes as a boy.
+3. [singular] the noise made when one surface rubs roughly against another
+scrape of
+ He heard the scrape of chairs being dragged across the floor.
+
+THESAURUS
+▪ injury damage to part of your body caused by an accident or an attack: The passengers were taken to hospital with minor injuries.
+▪ wound an injury, especially a deep cut in your skin made by a knife, bullet, or bomb: He died of a gunshot wound to the head.
+▪ cut a small injury made when a sharp object cuts your skin: Blood was running from a cut on his chin.
+▪ bruise a dark mark on your skin that you get when you fall or get hit: Jack often comes home from playing rugby covered in bruises.
+▪ graze/scrape a small injury that marks your skin or breaks the surface slightly: She fell off her bike and got a few grazes on her legs and knees.
+▪ gash a long deep cut: He had a deep gash across his forehead.
+▪ bump an area of skin that is swollen because you have hit it against something: How did you get that bump on your head?
+▪ sprain an injury to your ↑ankle, ↑wrist, knee etc, caused by suddenly twisting it: It’s a slight sprain – you should rest your ankle for a week.
+▪ strain an injury to a muscle caused by stretching it or using it too much: a muscle strain in his neck
+▪ fracture a crack or broken part in a bone: a hip fracture
+
+deride
+de‧ride /dɪˈraɪd/ BrE  AmE  verb [transitive] formal
+[Date: 1500-1600; Language: Latin; Origin: deridere, from ridere 'to laugh']
+to make remarks or jokes that show you think someone or something is silly or useless SYN mock ⇨ derisive:
+ You shouldn’t deride their efforts.
+deride somebody as something
+ The party was derided as totally lacking in ideas.
+• • •
+THESAURUS
+▪ mock formal to laugh at and say unkind things about a person, institution, belief etc, to show that you do not have a high opinion of them. Mock is a formal word - in everyday English people usually say make fun of: The press mocked his attempts to appeal to young voters. | She was mocked by other pupils in her class. | You shouldn’t mock the afflicted! (=you should not make fun of people who cannot help having problems - used especially ↑ironically, when really you think it is funny too)
+▪ make fun of somebody/something to make someone or something seem stupid by making unkind jokes about them: Peter didn’t seem to realize that they were making fun of him. | It used to be fashionable to make fun of the European Parliament.
+▪ laugh at somebody/something to make unkind or funny remarks about someone or something, because they seem stupid or strange: I don’t want the other kids to laugh at me. | People would laugh at the idea nowadays.
+▪ poke fun at somebody/something to make someone or something seem silly by making jokes about them, especially in a way that is funny but not really cruel: a TV series that regularly poked fun at the government | He’s in no position to poke fun at other people’s use of English!
+▪ ridicule formal to make unkind remarks that make someone or something seem stupid: Catesby ridiculed his suggestion. | His ideas were widely ridiculed at the time. | Scientists ridiculed him for doubting the existence of the greenhouse effect.
+▪ deride formal to make remarks that show you think that something is stupid or useless - often used when you think that the people who do this are wrong: Some forms of alternative medicine – much derided by doctors – have been shown to help patients. | the system that Marxists previously derided as ‘bourgeois democracy’
+
+bypass
+bypass UK  [ˈbaɪ.pɑːs] US  [-pæs] verb transitive [bypasses bypassing bypassed]
+1. to avoid something by going around it
+• We were in a hurry so we decided to bypass Canterbury because we knew there'd be a lot of traffic.
+Thesaurus+: ↑Moving in order to avoid contact ↑Digressing and being indirect or evasive
+2. to ignore a rule or official authority
+• They bypassed the committee and went straight to senior management.
+Thesaurus+: ↑Neglecting and ignoring ↑Not paying attention ↑Treating as unimportant
+ 
+noun countable
+ 
+ROAD
+1. a road built around a town or village so that traffic does not need to travel through it
+Thesaurus+: ↑Rural and suburban roads
+ 
+OPERATION
+2. (also heart bypass) a bypass operation
+From Longman DOCE 5th Ed. (En-En)
+bypass
+I. by‧pass1 /ˈbaɪpɑːs $ -pæs/ BrE  AmE  noun [countable]
+1. (heart) bypass operation/surgery an operation to direct blood through new ↑veins (=blood tubes) outside the heart because the veins in the heart are blocked or diseased:
+ a triple heart bypass operation
+2. a road that goes around a town or other busy area rather than through it ⇨ ring road
+3. technical a tube that allows gas or liquid to flow around something rather than through it
+II. bypass2 BrE  AmE  verb [transitive]
+1. to go around a town or other busy place rather than through it:
+ Interstate 8 bypasses the town to the north.
+2. to avoid obeying a rule, system, or someone in an official position:
+ Francis bypassed his manager and wrote straight to the director.
+ 
+ conceive 
+ 
+ devoted
+de‧vot‧ed AC /dɪˈvəʊtəd, dɪˈvəʊtɪd $ -ˈvoʊ-/ BrE  AmE  adjective
+[Word Family: verb: ↑devote; noun: ↑devotion; adverb: ↑devotedly; adjective: ↑devoted]
+1. giving someone or something a lot of love and attention:
+ a devoted father
+devoted to
+ Isabella was devoted to her brother.
+2. dealing with, containing, or being used for only one thing SYN dedicated
+devoted to
+ a museum devoted to photography
+3. strongly supporting someone or something because you admire or enjoy them:
+ Beckham’s devoted fans
+ The journal had a devoted following of around 1,000 subscribers.
+—devotedly adverb
+• • •
+THESAURUS
+▪ faithful continuing to support a person, party, belief etc for a long time: his long and faithful service to the party | his faithful servant | He remained faithful to his fatherland right to the end. | She was one of the party’s most faithful and hardworking members.
+▪ loyal supporting a particular person, party, set of beliefs, etc – used especially about someone you can can trust and depend on to support you: a loyal friend | loyal party members | The women have remained loyal to the goals of the Communist Party. | I am not blindly loyal. If I see something that I think is a mistake which could be handled better, I will say so.
+▪ devoted strongly supporting someone or something because you admire them, love them, or enjoy what they do: the author’s devoted fans | her devoted husband
+▪ staunch [only before noun] a staunch supporter, defender, or ↑ally is very loyal, in spite of problems or difficulties: He is a staunch supporter of the president. | a staunch defender of civil liberties | the US’s staunchest ally
+▪ steadfast [usually before noun] a steadfast friend or supporter is very loyal. Also used about someone’s support or service: Lewis was a generous and steadfast friend. | the steadfast support of America's allies | The Queen has set a shining example of steadfast service to her country.
+▪ true faithful and loyal to someone, or to your beliefs, principles etc, even if there are problems: In times like these you find out who your true friends are. | He remained true to his socialist priniciples. | She promised that she would always be true to him.
+▪ patriotic feeling a lot of love and respect for your country: Americans are very patriotric. | His speech was full of patriotic rhetoric.
+devote
+de‧vote AC /dɪˈvəʊt $ -ˈvoʊt/ BrE  AmE  verb [transitive]
+[Word Family: verb: ↑devote; noun: ↑devotion; adverb: ↑devotedly; adjective: ↑devoted]
+[Date: 1500-1600; Language: Latin; Origin: devotus, past participle of devovere, from vovere 'to promise']
+1. to use all or most of your time, effort etc in order to do something or help someone SYN dedicate
+devote your time/energy/attention etc to something
+ He devoted his energies to writing films.
+devote yourself to something
+ She devoted herself full-time to her business.
+REGISTER
+In everyday English, people usually say put time/energy etc into something rather than devote time/energy etc to something:
+▪ He put a lot of time into the project.
+2. to use a particular area, period of time, or amount of space for a specific purpose
+devote something to something
+ The meeting will be devoted to health and safety issues.
+ 
+ at it
+Occupied with a given activity; busy with something. [from 17th c.]
+c. 1608, William Shakespeare, Coriolanus, First Folio 1623:
+Mart. Oh they are at it.
+Lart. Their noise be our instruction.
+1893, Edwin H Porter, The Fall River Tragedy:
+We were at it until three o'clock in the morning.
+
+floss
+floss UK  [flɒs] US  [flɑːs] noun uncountable
+ 
+TEETH
+1. dental floss
+Thesaurus+: ↑Dentistry ↑The teeth ↑Problems with bones, joints and teeth
+ 
+THREAD
+2. a mass of soft smooth threads especially produced by particular insects and plants
+See also candyfloss
+Thesaurus+: ↑Dentistry ↑The teeth ↑Problems with bones, joints and teeth
+ 
+verb intransitive or transitive
+to clean between your teeth using dental floss
+• It's important to floss every day.
+Thesaurus+: ↑Dentistry ↑The teeth ↑Problems with bones, joints and teeth
+From Longman DOCE 5th Ed. (En-En)
+floss
+I. floss1 /flɒs $ flɑːs, flɒːs/ BrE  AmE  noun [uncountable]
+[Date: 1700-1800; Origin: Probably from Dutch vlos]
+1. a type of thin thread that you use for cleaning between your teeth SYN dental floss
+2. a type of thin thread that you use for sewing
+II. floss2 BrE  AmE  verb [transitive]
+to clean between your teeth using floss
+
+regard
+regard UK  [rɪˈgɑːd] US  [-ˈgɑːrd] verb transitive usually + adverb or preposition [regards regarding regarded]
+1. <I > to consider or have an opinion about something or someone
+• Local people regard this idea of a motorway through their village with horror.
+• Her parents always regarded her as the cleverest of their children.
+Thesaurus+: ↑Imagining and conceiving
+2. formal to look carefully at something or someone
+• The bird regarded me with suspicion as I walked up to its nest.
+Thesaurus+: ↑Using the eyes ↑Eyesight, glasses and lenses ↑The eye and surrounding area ↑Perceptive
+3. as regards formal
+in connection with
+• There is no problem as regards the financial arrangements.
+Thesaurus+: ↑Regarding and concerning ↑Linking and relating
+ 
+• The rebels regard the official parliament as illegitimate.
+• He regards e-commerce as an indivisible part of modern retail.
+• He rarely used taxis, which he regarded as extravagant.
+• Private education is often regarded as socially divisive.
+• He regards the political process with disdain.
+ 
+noun uncountable formal
+1. <I > respect or admiration for someone or something
+• The company holds her in high regard.
+• He has no regard for other people's feelings.
+Thesaurus+: ↑Showing respect and admiration
+2. in/with regard to
+in connection with
+• I am writing to you with regard to your letter of 15 March.
+Thesaurus+: ↑Regarding and concerning ↑Linking and relating
+3. in this/that regard
+in this particular way
+• The union is the largest in the country and in this/that regard is best placed to serve its members.
+Thesaurus+: ↑Particular and individual
+4. regards
+formal greetings
+• Please give/send/convey my regards to your mother if you see her.
+Thesaurus+: ↑Welcoming, greeting and greetings ↑Written greetings ↑Letters, notes and cards
+ 
+• Her reply was typical of her constant regard for self.
+• We employ people without regard to their political or sexual orientation.
+• He showed scant regard for the truth.
+• The players held their captain in high regard.
+• Each of the designs is unique in this regard.
+From Longman DOCE 5th Ed. (En-En)
+regard
+I. re‧gard1 S3 /rɪˈɡɑːd $ -ɑːrd/ BrE  AmE  noun
+[Date: 1300-1400; Language: Old French; Origin: regarder; ⇨ ↑regard2]
+1. ADMIRATION/RESPECT [uncountable] respect and admiration for someone or something
+regard for
+ Jan’s regard for his great talent
+ Burt had high regard for his old law professor, Dr. Finch (=he respected him a lot).
+ The voters hold her in high regard (=respect or admire her).
+ Teachers are held in low regard in this society (=are not respected or admired).
+2. ATTENTION/CONSIDERATION [uncountable] formal attention or consideration that is shown towards someone or something
+regard for
+ She has no regard for other people’s feelings.
+pay/show regard
+ One must show proper regard for the law.
+little/no/scant regard (for somebody/something)
+ The present administration has demonstrated little regard for environmental issues.
+ All students must have access to quality education without regard to wealth or class.
+3. with/in regard to something formal relating to a particular subject:
+ US foreign policy with regard to Cuba
+4. in this/that regard formal relating to something you have just mentioned:
+ The company’s problems, in this regard, are certainly not unique.
+5. regards [plural] good wishes – used when sending your good wishes to someone or when ending a short letter or message:
+ My husband sends his regards.
+ Hope to see you soon. Regards, Chris
+(with) kind/best regards (=used to end a letter in a friendly but rather formal way)
+6. [singular] literary a long look without moving your eyes
+• • •
+COLLOCATIONS (for Meaning 1)
+■ adjectives
+▪ high regard The players have a very high regard for their manager.
+▪ low regard This might explain the low regard in which the President is held.
+▪ mutual regard (=which people feel for each other) There seems to have been a genuine mutual regard between the two leaders.
+▪ considerable regard (=fairly high regard) Eliot had considerable regard for Collingwood.
+■ verbs
+▪ hold somebody/something in high regard Doctors are held in high regard by society.
+▪ have a high regard for somebody/something I had the highest regard for him.
+• • •
+COLLOCATIONS (for Meaning 2)
+■ verbs
+▪ have no regard for something Some motorists have no regard for other road users.
+▪ have regard to something formal The court must have particular regard to the factors listed in section 13.
+▪ pay regard to something The architect who designed the building paid too little regard to its function.
+▪ show regard for something He showed great regard for the Mosaic Law and Jewish customs.
+■ adjectives
+▪ due/proper regard The aim is to get the job done as cheaply as possible, with due regard to high standards.
+▪ little regard (=not enough regard) He drove himself on, with little regard for his own health.
+▪ scant regard (=very little regard) Should we be exporting arms to countries with scant regard for human rights?
+▪ no regard The decision was implemented with no regard for the families still living on the estate.
+II. regard2 S2 W1 BrE  AmE  verb [transitive]
+[Date: 1300-1400; Language: Old French; Origin: regarder 'to look back at, regard', from garder 'to guard, look at']
+1. [not in progressive] to think about someone or something in a particular way
+regard somebody/something as something
+ Paul seemed to regard sex as sinful and immoral.
+ Edith was widely regarded as (=considered by many people to be) eccentric.
+ His work is highly regarded (=regarded as very good) by art experts.
+2. formal to look at someone or something, in a particular way:
+ She stood back and regarded him coldly.
+3. as regards something formal relating to a particular subject – use this when you want to talk or write about a particular subject:
+ As regards a cure for the disease, very few advances have been made.
+ 
+ seek
+seek S2 W1 AC /siːk/ BrE  AmE  verb (past tense and past participle sought /sɔːt $ sɒːt/) [transitive]
+[Word Family: verb: ↑seek; noun: ↑seeker]
+[Language: Old English; Origin: secan]
+1. formal to try to achieve or get something:
+ Do you think the President will seek re-election?
+seek refuge/asylum/shelter etc
+ Thousands of people crossed the border, seeking refuge from the war.
+seek revenge/damages/compensation etc
+ He sought revenge against Surkov for separating him from his wife and son.
+seek to do something
+ Local schools are seeking to reduce the dropout rate.
+attention-seeking/publicity-seeking
+2. seek (sb’s) advice/help/assistance etc formal to ask someone for advice or help:
+ If the symptoms persist, seek medical advice.
+3. written to look for someone or something SYN look for:
+ new graduates seeking employment
+ Attractive woman, 27, seeks male, 25-35, for fun and friendship.
+REGISTER
+In everyday English, people usually say that they are looking for someone or something rather than seeking someone or something:
+▪ What kind of job are you looking for?
+4. seek your fortune literary to go to another place hoping to gain success and wealth:
+ Coles came to the Yukon in the 1970s to seek his fortune.
+5. to move naturally towards something or into a particular position:
+ Water seeks its own level.
+  driven by
+   In this essay the impact of the  on people’s lives
+ 
+ enormous impact
+  is clearly not justifiable based on varia
+   or driven by thinking that is not related to
+ The key reason that
+ is typically related to the way that
+ 
+ merit
+I. mer‧it1 /ˈmerət, ˈmerɪt/ BrE  AmE  noun
+[Date: 1100-1200; Language: Old French; Origin: merite, from Latin meritum, from merere 'to deserve, earn']
+1. [countable] an advantage or good feature of something
+merit of
+ The film has the merit of being short.
+ The merit of the report is its realistic assessment of the changes required.
+ The great merit of the project is its flexibility and low cost.
+ Each of these approaches to teaching has its merits.
+ Tonight’s meeting will weigh up the relative merits of the two candidates.
+REGISTER
+Merit is used especially in formal contexts. In everyday English, people usually talk about the good points of something:
+▪ The book does have its good points.
+2. [uncountable] formal a good quality that makes someone or something deserve praise:
+ There is never any merit in being second best.
+have (some) merit/be of merit (=be good)
+ The suggestion has some merit.
+on merit
+ Students are selected solely on merit (=because they are good).
+artistic/literary merit
+ a film lacking any artistic merit
+3. judge/consider etc something on its (own) merits to judge something only on what you see when you look at it rather than on what you know from other people or things:
+ It’s important to judge each case on its merits.
+• • •
+COLLOCATIONS (for Meanings 1 & 2)
+■ verbs
+▪ have merit Both suggestions had some merit.
+▪ discuss/debate the merits of something (=discuss whether or not something is a good idea) They were discussing the merits of sending soldiers to the area.
+▪ consider/judge the merits of something (=think about whether or not something is a good idea) The committee is considering the merits of the proposal.
+▪ assess/evaluate the merits of something (=to decide what is good about something using careful methods) Has any study assessed the merits of the two schools?
+▪ question the merits of something (=not be sure if something is a good idea) People began to question the merits of nuclear energy.
+▪ see little/no merit in something (=think that something is not a good idea) I can see no merit in violence.
+▪ have its merits (=have some good qualities) Each idea has its merits.
+■ adjectives
+▪ artistic merit (=the qualities that make something good as a piece of art) What are the artistic merits of this statue?
+▪ literary merit (=the qualities that make something good as a book, play, or poem) There was no literary merit in his poems.
+▪ great merit It seems to me that the idea has great merit.
+▪ outstanding merit (=very great merit) The prize is given to students of outstanding merit.
+▪ considerable merit (=a lot of merit) There is considerable merit in using this kind of approach.
+▪ the relative/comparative merits of something (=the good qualities of something as compared to something else) She is an expert in the relative merits of spa waters.
+• • •
+THESAURUS
+▪ advantage a good feature that something has, which makes it better, more useful etc than other things: The great advantage of digital cameras is that there is no film to process.
+▪ benefit a feature of something that has a good effect on people’s lives: Regular exercise has many benefits, including reducing the risk of heart disease.
+▪ merit a good feature that something has, which you consider when you are deciding whether it is the best choice: The committee will consider the merits of the proposals. | The merits and demerits of (=the good and bad features of)alternative funding systems were widely discussed in the newspapers. | The chairman saw no great merit in this suggestion (=he did not think that it was a good idea).
+▪ virtue an advantage that makes you believe that something is a good thing: They believed in the virtues of culture, civilization, and reason. | He’s always extolling the virtues of hard work (=saying that hard work is a good thing).
+▪ the good/great/best thing about something especially spoken used when mentioning a good feature of something. This phrase is rather informal and you should not use it in formal essays: The good thing about cycling is that you don’t have to worry about getting stuck in a traffic jam.
+▪ the beauty of something is that used when you want to emphasize that something has a very good or useful feature: The beauty of the plan is that it is so simple.
+
+come down
+come down phrasal verb (see also ↑come)
+1.
+a) if a price, level etc comes down, it gets lower:
+ It looks as if interest rates will come down again this month.
+b) to accept a lower price
+come down to
+ He’s asking £5,000, but he may be willing to come down to £4,800.
+2. if someone comes down to a place, they travel south to the place where you are:
+ Why don’t you come down for the weekend sometime?
+come down to
+ Are you coming down to Knoxville for Christmas?
+3. to fall to the ground:
+ A lot of trees came down in the storm.
+ We were still out in the fields when the rain started coming down.
+4. come down on the side of somebody/something (also come down in favour of somebody/something) to decide to support someone or something:
+ The committee came down in favour of making the information public.
+5. informal to start to feel normal again after you have been feeling very happy and excited:
+ He was on a real high all last week and he’s only just come down.
+6. informal to stop feeling the effects of a strong drug:
+ When I came down, I remembered with horror some of the things I’d said.
+7. British English old-fashioned to leave a university after completing a period of study
+
+get off
+get off phrasal verb (see also ↑get)
+1. LEAVE to leave a place, or to help someone to leave a place:
+ We’ll try and get off straight after lunch.
+get off something
+ Get off my land!
+get somebody off
+ I’ll phone you as soon as I’ve got the children off to school.
+2. FINISH WORK get off (something) to finish work and leave the place where you work at the end of the day:
+ I usually get off at six o'clock.
+ What time do you get off work?
+3. SEND SOMETHING get something off to send a letter or package by post:
+ I’ll have to get this letter off by tonight.
+get something off to
+ I’ll get the forms off to you today.
+4. CLOTHING get something off to remove a piece of clothing:
+ Why don’t you get those wet clothes off?
+5. NOT BE PUNISHED if someone gets off, they are not punished for doing something wrong, or they receive only a small punishment:
+ In the end he got off because there wasn’t enough evidence against him.
+ The police felt he had got off very lightly.
+get off with
+ If you’re lucky, you’ll get off with a fine.
+6. HELP SOMEBODY NOT BE PUNISHED get somebody off to help someone avoid being punished for a crime:
+ Her lawyers were confident that they could get her off.
+7. SLEEP get (somebody) off to go to sleep, or to help a child go to sleep:
+ I went to bed but couldn’t get off to sleep.
+ It took us ages to get the baby off.
+8. get off to a good/bad etc start to start in a particular way:
+ The day had got off to a bad start.
+9. STOP TALKING ABOUT SOMETHING get off something to stop talking about a subject:
+ Can we get off the subject of death, please?
+10. STOP TOUCHING SOMETHING get off (something/somebody) informal used to tell someone to stop touching something or someone:
+ Get off me!
+ Get off those cakes, or there’ll be trouble.
+ Get off (=stop touching me)!
+11. tell somebody where to get off informal to tell someone that they are asking you for too much or are behaving in a way you will not accept:
+ He wanted £50, but I told him where to get off.
+12. get off your butt/ass American English spoken not polite used to tell someone that they should stop being lazy and start doing something useful
+
+go down
+go down phrasal verb (see also ↑go)
+1. GET LOWER to become lower in level, amount etc:
+ His income went down last year.
+ Computers have gone down in price.
+go down by 10%/250/$900 etc
+ Spending has gone down by 2%.
+2. STANDARD if something goes down, its quality or standard gets worse:
+ This neighbourhood has really gone down in the last few years.
+3. go down well/badly/a treat etc
+a) to get a particular reaction from someone:
+ His suggestion did not go down very well.
+ The movie went down very well in America.
+ The speech went down a treat with members (=members liked it very much).
+ The idea went down like a lead balloon (=was not popular or successful).
+b) if food or drink goes down well, you enjoy it:
+ I’m not that hungry so a salad would go down nicely.
+4. GO FROM ONE PLACE TO ANOTHER to go from one place to another, especially to a place that is further south
+go down to
+ We’re going down to Bournemouth for the weekend.
+ He’s gone down to the store to get some milk.
+5. go down the shops/club/park etc British English spoken informal to go to the shops, a club etc:
+ Does anyone want to go down the pub tonight?
+6. SHIP if a ship goes down, it sinks:
+ Ten men died when the ship went down.
+7. PLANE if a plane goes down, it suddenly falls to the ground:
+ An emergency call was received shortly before the plane went down.
+8. BECOME LESS SWOLLEN to become less swollen:
+ The swelling will go down if you rest your foot.
+9. LOSE AIR if something that is filled with air goes down, air comes out and it becomes smaller and softer:
+ Your tyre’s gone down.
+10. BE REMEMBERED [always + adverb/preposition] to be recorded or remembered in a particular way
+go down as
+ The talks went down as a landmark in the peace process.
+ The carnival will go down in history (=be remembered for many years) as one of the best ever.
+11. COMPETITION/SPORT
+a) to lose a game, competition, or election:
+ The Hawkers went down 5–9.
+go down by
+ The government went down by 71 votes.
+go down to
+ Liverpool went down to Juventus.
+b) to move down to a lower position in an official list of teams or players
+go down to
+ United went down to the second division.
+12. COMPUTER if a computer goes down, it stops working for a short time:
+ If one of the file servers goes down, you lose the whole network.
+13. LIGHTS if lights go down, they become less bright:
+ The lights went down and the curtain rose on an empty stage.
+14. SUN when the sun goes down, it appears to move down until you cannot see it any more
+15. WIND if the wind goes down, it becomes less strong:
+ The wind had gone down but the night had turned chilly.
+16. PRISON informal to be sent to prison:
+ He went down for five years.
+17. HAPPEN spoken informal to happen:
+ the type of guy who knows what’s going down
+ What’s going down?
+18. LEAVE UNIVERSITY British English formal old-fashioned to leave Oxford or Cambridge University at the end of a period of study
+
+walk out
+walk out phrasal verb (see also ↑walk)
+1. to leave a place suddenly, especially because you disapprove of something:
+ The play was awful and we walked out after half an hour.
+walk out of
+ the issue that led to the US walking out of the trade talks this week
+2. to leave your husband, wife etc suddenly and go and live somewhere else:
+ Her husband walked out, leaving her with three children to look after.
+walk out on
+ Five years later she walked out on Matthew and their two boys.
+3. to leave your job suddenly because you no longer want to do it:
+ We’re so short-staffed. I can’t just walk out.
+walk out of
+ If you can afford to walk out of your job, why not?
+4. to stop working as a protest:
+ Workers are threatening to walk out if an agreement is not reached.
+ 
+  prey on
+prey on somebody/something phrasal verb (see also ↑prey)
+1. if an animal or bird preys on another animal or bird, it hunts and eats it ⇨ predator:
+ Cats prey on birds and mice.
+2. to try to deceive or harm weaker people:
+ religious cults that specialize in preying on young people
+3. prey on sb’s mind to make someone worry continuously:
+ The accident has been preying on my mind all week.
+ 
+ ameliorate
+ameliorate UK  US  [əˈmiː.ljə.reɪt] formal verb transitive [ameliorates ameliorating ameliorated]
+to make a bad or unpleasant situation better
+• Foreign aid is badly needed to ameliorate the effects of the drought.
+Thesaurus+: ↑Making things better ↑Becoming better
+Derived: amelioration
+From Longman DOCE 5th Ed. (En-En)
+ameliorate
+a‧me‧li‧o‧rate /əˈmiːliəreɪt/ BrE  AmE  verb [transitive]
+[Date: 1700-1800; Origin: meliorate 'to ameliorate' (16-20 centuries), from Late Latin, past participle of meliorare, from Latin melior 'better']
+formal to make a bad situation better or less harmful SYN improve:
+ It is not clear what can be done to ameliorate the situation.
+—amelioration /əˌmiːliəˈreɪʃən/ noun [uncountable]
+
+alleviate
+alleviate UK  US  [əˈliː.vi.eɪt] formal verb transitive [alleviates alleviating alleviated]
+to make something bad such as pain or problems less severe
+• The drugs did nothing to alleviate her pain/suffering.
+Thesaurus+: ↑Making things better ↑Becoming better
+Derived: alleviation
+From Longman DOCE 5th Ed. (En-En)
+alleviate
+al‧le‧vi‧ate /əˈliːvieɪt/ BrE  AmE  verb [transitive]
+[Date: 1500-1600; Language: Late Latin; Origin: past participle of alleviare, from Latin ad- 'to' + levis 'light']
+to make something less painful or difficult to deal with
+alleviate the problem/situation/suffering etc
+ a new medicine to alleviate the symptoms of flu
+ measures to alleviate poverty
+—alleviation /əˌliːviˈeɪʃən/ noun [uncountable]
+• • •
+THESAURUS
+■ to reduce prices, numbers, or amounts
+▪ reduce to make the price, amount, or size of something less or smaller: The price was reduced by 50%. | We need to reduce the amount of salt in our diet.
+▪ cut to reduce something, especially by a large amount – used about prices, costs, jobs, or the time needed to do something: Companies are always looking for ways to cut costs. | The journey time will be cut to under 2 hours. | Staff numbers have been cut by half to about 150.
+▪ lower to reduce the level, limit, or amount of something. Lower sounds rather formal: The voting age was lowered to 18. | The government decided to lower interest rates by 0.5%. | After twenty minutes, lower the temperature to 150 degrees.
+▪ bring something down to reduce something such as prices or costs, or reduce the level of something. Bring something down is less formal than lower: The government wants to bring down the level of inflation. | The company is trying to bring its costs down.
+▪ slash informal to reduce an amount or price by a very large amount – used especially in newspapers and advertisements: Public spending has been slashed over the past two years. | Prices slashed for one week only!
+▪ cut something back to reduce the amount of something – used especially about people deciding to spend less, do less, or use less of something: The education budget has been cut back again. | I need to cut back on my workload.
+▪ downsize to reduce the number of people employed in order to reduce costs – used about a company or organization: The company is planning to downsize its European operations.
+▪ scale something down/back to reduce the size or the amount of money that is being spent on something: The research programme has been scaled down. | The navy is being scaled down.
+▪ relieve/ease to make pain or feelings less unpleasant: The drug is used to relieve pain. | A joke can help to ease the tension.
+▪ alleviate formal to reduce pain or suffering, or make a problem less serious: You can buy various medicines to alleviate the symptoms of flu. | The new road was supposed to alleviate the congestion problem.
+
+mitigate
+
+ / 5mItIgeIt; `mItE9^et/ v [Tn] (fml 文) make (sth) less severe, violent or painful; moderate 使（某事物）减轻, 和缓; 节制: mitigate sb's suffering, anger, anxiety, etc 使某人少受苦、息怒、稍安等 * mitigate the severity of a punishment, sentence, etc 减轻惩罚、刑期等 * mitigate the effects of inflation, eg by making credit easily obtainable 和缓通货膨胀的影响.
+
+ > mitigating adj [attrib 作定语] reducing the severity, violence or pain of sth; moderating 减轻的; 和缓的; 节制的: mitigating circumstances, ie those that partially excuse a mistake, crime, etc （可使错误、罪行等）减轻的情节 * the mitigating effect of pain-killing drugs 镇痛药物的缓解作用.
+ mitigation / 9mItI5geIFn; 9mItE`^eFEn/ n [U]: say sth in mitigation of sb's faults, crimes, etc, ie to make them seem less serious 为减轻某人的过失、罪行等说情.
+From Longman DOCE5 Extras (En-En)
+mitigate
+verb
+COLLOCATIONS FROM OTHER ENTRIES
+extenuating/mitigating circumstances (=conditions that make it reasonable for someone to break the rules or law)
+▪ Hunger and poverty are not treated by the courts as extenuating circumstances.
+COLLOCATIONS FROM CORPUS
+■ NOUN
+impact
+▪ Environmental science is almost exclusively geared to measuring, managing and mitigating downstream environmental impacts caused by our industrial way of life.
+▪ Every effort to mitigate the impact will encourage the dons to raise the tuitions ever higher.
+▪ The rainforest is also held to be useful to us because it will help to mitigate the worst impacts of global warming.
+problem
+▪ He mitigated the problem by saying that the Son's generation by the Father is no event in time but is eternal.
+PHRASES FROM OTHER ENTRIES
+mitigating circumstances/factors
+▪ A good barrister - he'd known Thomas Walters for years - would be able to argue mitigating circumstances.
+▪ I understand that there are mitigating circumstances, programming complications, contracts, etc.
+▪ In its defence, the Government pleads mitigating circumstances.
+▪ In the absence of mitigating factors the virus is likely to hit a dead end wherever strict role separation is practiced.
+▪ Juries have long stretched notions of self-defense or extended implicit clemency to recognize mitigating factors such as provocation and histories of abuse.
+▪ Lancashire were subsequently fined £500, not £700, because of mitigating circumstances.
+▪ Now, that decision has been overturned although the appeal judges spoke of strong mitigating factors in the case.
+▪ There were also mitigating factors, Lord Lane said.
+EXAMPLES FROM OTHER ENTRIES
+▪ We have to figure out a way to mitigate the costs.
+EXAMPLES FROM CORPUS
+▪ Switching assignments, working on another team, or making other kinds of adjustments can mitigate anger.
+▪ The effect is to mitigate the speaker's refusal of a reasonable request.
+▪ These are not mitigated by the presence of recognizable and attractive actors and actresses.
+▪ You are obliged to mitigate your losses; this duty is explained in Chapter 18.
+
+mitigate
+mitigate UK  [ˈmɪt.ɪ.geɪt] US  [ˈmɪt ̬-] formal verb transitive [mitigates mitigating mitigated]
+to make something less harmful, unpleasant or bad
+• It is unclear how to mitigate the effects of tourism on the island.
+Thesaurus+: ↑Making things better ↑Becoming better
+From Longman DOCE 5th Ed. (En-En)
+mitigate
+mit‧i‧gate /ˈmɪtəɡeɪt, ˈmɪtɪɡeɪt/ BrE  AmE  verb [transitive] formal
+[Date: 1400-1500; Language: Latin; Origin: past participle of mitigare 'to soften', from mitis 'soft']
+to make a situation or the effects of something less unpleasant, harmful, or serious SYN alleviate:
+ Measures need to be taken to mitigate the environmental effects of burning more coal.
+From Oxford Advanced Learners Dictionary 8th Ed.
+mitigate
+miti·gate [mitigate mitigates mitigated mitigating] BrE [ˈmɪtɪɡeɪt]  NAmE [ˈmɪtɪɡeɪt]  verb ~ sth (formal)
+to make sth less harmful, serious, etc.
+Syn: ↑alleviate
+• action to mitigate poverty
+• Soil erosion was mitigated by the planting of trees.
+
+dread
+I. dread1 /dred/ BrE  AmE  verb
+[Language: Old English; Origin: drædan]
+[transitive] to feel anxious or worried about something that is going to happen or may happen:
+ I’ve got an interview tomorrow and I’m dreading it.
+dread doing something
+ I’m dreading going back to work.
+dread somebody doing something
+ Tim dreaded his parents finding out.
+dread (that)
+ I’m dreading that I’ll be asked to make a speech.
+dread the thought/prospect of (doing) something
+ He dreaded the prospect of being all alone in that house.
+ I dread to think what will happen if they get elected (=I think it will be very bad).
+II. dread2 BrE  AmE  noun
+[singular, uncountable] a strong fear of something that is going to happen or may happen
+dread of (doing) something
+ the dread of losing those we love
+with dread
+ Bernice looked with dread at the end of the passage.
+ The prospect of flying filled me with dread.
+ She lives in dread of (=is continuously very afraid of) the disease returning.
+III. dread‧ed /ˈdredəd, ˈdredɪd/ BrE  AmE  (also dread literary) adjective
+[only before noun] making you feel afraid or anxious – often used humorously:
+ She couldn’t put off the dreaded moment forever.
+From Oxford Advanced Learners Dictionary 8th Ed.
+dread
+dread [dread dreads dreaded dreading] verb, noun BrE [dred]  NAmE [dred] 
+verb
+to be very afraid of sth; to fear that sth bad is going to happen
+• ~ sth This was the moment he had been dreading.
+• ~ doing sth I dread being sick.
+• ~ sb doing sth She dreads her husband finding out.
+• ~ to do sth I dread to think what would happen if there really was a fire here.
+• ~ that… I both hoped and dreaded that he would come.
+
+perplex
+perplex UK  [pəˈpleks] US  [pɚ-] verb transitive [perplexes perplexing perplexed]
+to confuse and worry someone slightly by being difficult to understand or solve
+• The disease has continued to perplex doctors.
+Thesaurus+: ↑Puzzle and confuse ↑Difficult to understand
+Derived: perplexed ▪ perplexing
+From Longman DOCE 5th Ed. (En-En)
+perplex
+per‧plex /pəˈpleks $ pər-/ BrE  AmE  verb [transitive]
+[Date: 1500-1600; Origin: perplex 'perplexed' (14-17 centuries), from Latin perplexus, from plexus 'twisted together']
+if something perplexes you, it makes you feel confused and worried because it is difficult to understand SYN puzzle:
+ Shea’s symptoms perplexed the doctors.
+—perplexing adjective:
+ a perplexing problem
+From Oxford Advanced Learners Dictionary 8th Ed.
+perplex
+per·plex [perplex perplexes perplexed perplexing] BrE [pəˈpleks]  NAmE [pərˈpleks]  verb usually passive ~ sb | it perplexes sb that…
+if sth perplexes you, it makes you confused or worried because you do not understand it
+Syn: ↑puzzle
+• They were perplexed by her response.
+Derived Word: ↑perplexing
+Verb forms: 
+ 
+Word Origin:
+late 15th cent. (as the adjective perplexed): from the obsolete adjective perplex ‘bewildered’, from Latin perplexus ‘entangled’, based on plexus ‘interwoven’, from the verb plectere.
+ 
+Example Bank:
+• Experts gathered to try to answer this extremely perplexing question.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+perplex
+
+ / pE5pleks; pL`plZks/ v [Tn] make (sb) feel puzzled or confused; bewilder 使（某人）困惑、糊涂或迷惑: The question perplexed me. 那问题把我难住了. * We were perplexed by his failure to answer the letter. 他何以不覆信, 我们大惑不解. * The whole affair is very perplexing. 整件事令人感到莫名其妙.
+
+ > perplexed adj puzzled or confused 困惑的; 糊涂的: The audience looked perplexed. 听众看样子都没听懂. * She had to explain her behaviour to her perplexed supporters. 她要向那些不明所以的拥护者解释自己的那种行为. * He gave her a perplexed look. 他茫然地看了她一眼. perplexedly / -IdlI; -IdlI/ adv: `What is this?' he asked perplexedly. ‘这是什么?’他困惑地问道.
+ perplexity / -EtI; -EtI/ n [U] 
+ state of being perplexed; bewilderment 困惑; 混乱: She looked at us in perplexity. 她茫然地望着我们. 
+ state of being complicated or difficult 复杂; 困难: a problem of such perplexity that it was impossible to solve 复杂得无法解决的问题.
+From Longman DOCE5 Extras (En-En)
+perplex
+verb
+COLLOCATIONS FROM CORPUS
+■ VERB
+look
+▪ He was eating Marmite straight from the jar and looking perplexed.
+▪ At this overture, Alice looked perplexed.
+▪ For a moment he just stared at me, looking rather perplexed.
+▪ Several justices looked perplexed by that answer.
+EXAMPLES FROM OTHER ENTRIES
+▪ The question of how the murderer had gained entry to the house perplexed the police for several weeks.
+EXAMPLES FROM CORPUS
+▪ For a moment he just stared at me, looking rather perplexed.
+▪ In a school gymnasium full of caucus-goers in Des Moines, Dole inadvertently coined the best phrase of this perplexing campaign.
+▪ She didn't smile and this perplexed me because I knew she liked our Mary.
+▪ She seemed perplexed by the question.
+▪ Solly's climb was to perplex and stretch the best climbers for decades.
+▪ The dream is brief but perplexing.
+▪ The Judge, accustomed to hearing unconventional job descriptions, none the less appeared perplexed.
+▪ What surprised and perplexed me was how authentic, and therefore how riveting, it turned out to be.
+
+liaise
+liaise UK  US  [liˈeɪz] verb intransitive [liaises liaising liaised]
+to speak to people in other organizations in order to exchange information with them
+• Our head office will liaise with the suppliers to ensure delivery.
+Thesaurus+: ↑Debate and discussion
+From Longman DOCE 5th Ed. (En-En)
+liaise
+li‧aise /liˈeɪz/ BrE  AmE  verb [intransitive]
+[Date: 1900-2000; Origin: liaison]
+to exchange information with someone who works in another organization or department so that you can both be more effective
+liaise with
+ Council officers are liaising closely with local groups.
+liaise between
+ The education officer liaises between students, schools and colleges.
+ 
+ forgo
+
+ / fR:5gEU; fRr`^o/ v (pt forwent / fR:5went; fRr`wZnt/, pp forgone / fR:5gCn; ?@ -5gR:n; fRr`^Rn/) [Tn] give up or do without (esp sth pleasant) 放弃或没有（尤指美好的事物）也行: The workers agreed to forgo a pay increase for the sake of greater job security. 工人们为了工作更保险, 同意放弃增加工资的要求.
+From Longman DOCE5 Extras (En-En)
+forgo
+verb
+COLLOCATIONS FROM CORPUS
+■ NOUN
+interest
+▪ If they were wrong about that, they agreed that there was no consideration for a promise to forgo the interest.
+EXAMPLES FROM OTHER ENTRIES
+▪ Council members were asked to forgo their pay raises.
+▪ Novices were expected to forgo all earthly pleasures and concentrate on the hereafter.
+▪ Senior board members have offered to forgo their annual bonuses this year.
+EXAMPLES FROM CORPUS
+▪ Instead, they will forgo either career or motherhood.
+▪ One is that devout patients may forgo treatment and wait for divine intervention.
+▪ Poverty made mere housing a luxury; and poverty forced families to forgo kindergartens and higher education for their children.
+▪ The word foresee takes an e in the middle, but you can write either forgo or forego.
+▪ They take Missy on walks through cities and wilderness areas and have learned to forgo restaurant meals for picnics and room service.
+▪ Who would forgo the chance of a winter in Rome, the centre of things?
+
+stifle
+sti‧fle /ˈstaɪfəl/ BrE  AmE  verb
+[Date: 1300-1400; Origin: Probably from Old French estouffer 'to stifle']
+1. [transitive] to stop something from happening or developing OPP encourage:
+ rules and regulations that stifle innovation
+ How can this party stifle debate on such a crucial issue?
+2. [transitive] to stop a feeling from being expressed:
+ He stifled an urge to hit her.
+stifle a yawn/smile/grin etc
+ I tried to stifle my laughter.
+3. [intransitive, transitive usually passive] if you are stifled by something, it stops you breathing comfortably ⇨ suffocate:
+ He was almost stifled by the fumes.
+ 
+ stepping-stone
+ˈstepping-ˌstone BrE  AmE  noun [countable]
+1. something that helps you to progress towards achieving something
+stepping-stone to/toward(s)
+ The course will be a stepping stone to another career.
+2. stepping stones [plural] a row of large flat stones that you walk on to get across a stream
+From Longman DOCE5 Extras (En-En)
+stepping-stone
+noun
+EXAMPLES FROM CORPUS
+▪ A different route this time around the back of the mountain, over the stream by way of some stepping-stones.
+▪ And may this book be at least a small stepping-stone on your way.
+▪ As a result regional trading blocs are emerging as natural stepping-stones in an evolutionary process toward a truly global economy.
+▪ In that image, life events are stepping-stones or crossroads.
+▪ It was for three years only, but it was a promising stepping-stone to a proper appointment.
+▪ Jobs became the stepping-stones for social advancement and personal fulfillment.
+▪ On my map they look like submerged stepping-stones for a giant King Neptune, each stride 100 kilometers.
+
+overriding
+o‧ver‧rid‧ing /ˌəʊvəˈraɪdɪŋ◂ $ ˌoʊ-/ BrE  AmE  adjective [only before noun]
+[Word Family: noun: ↑ride, ↑rider, ↑riding, ↑override; verb: ↑ride, ↑override; adjective: ↑overriding]
+more important than anything else:
+ a question of overriding importance
+ Their overriding concern is with efficient crime control.
+override
+o‧ver‧ride /ˌəʊvəˈraɪd $ ˌoʊ-/ BrE  AmE  verb (past tense overrode /-ˈraʊd $ -ˈroʊd/, past participle overridden /-ˈrɪdn/) [transitive]
+[Word Family: noun: ↑ride, ↑rider, ↑riding, ↑override; verb: ↑ride, ↑override; adjective: ↑overriding]
+1. to use your power or authority to change someone else’s decision:
+ The EU commission exercised its power to override British policy.
+2. to be regarded as more important than something else:
+ The needs of the mother should not override the needs of the child.
+3. to stop a machine doing something that it does by itself:
+ Can you override the automatic locking system?
+—override /ˈəʊvəraɪd $ ˈoʊ-/ noun [countable]:
+ a manual override
+ 
+ hold back
+hold back phrasal verb (see also ↑hold)
+1. hold somebody/something ↔ back to make someone or something stop moving forward:
+ Police in riot gear held back the demonstrators.
+2. hold something ↔ back to stop yourself from feeling or showing a particular emotion:
+ She struggled to hold back her tears.
+ Anger flooded through her. She couldn’t hold it back.
+3. hold somebody/something ↔ back to prevent someone or something from making progress:
+ They felt the British economy was being held back by excessive government controls.
+4. hold (somebody) back to be unwilling to do something, especially because you are being careful, or to make someone unwilling to do something:
+ In the current situation many investors are holding back.
+ She wanted to tell him but pride held her back.
+5. hold something ↔ back to keep something secret:
+ Tell me all about it – don’t hold anything back!
+>>>>>>> d755a720c9d9fe13e84f2efbfd3572cbff254c18
