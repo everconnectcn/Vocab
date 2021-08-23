@@ -19735,6 +19735,7 @@ proponent
 pro·pon·ent [proponent proponents] BrE [prəˈpəʊnənt]  NAmE [prəˈpoʊnənt]  noun ~ (of sth) (formal)
 a person who supports an idea or course of action
 Syn: ↑advocate
+<<<<<<< HEAD
 
 yardstick
 yardstick UK  [ˈjɑːd.stɪk] US  [ˈjɑːrd-] noun countable [yardsticks]
@@ -20566,3 +20567,651 @@ synthesis
  (infml derog 口, 贬) not genuine or natural; false 假的; 非天然的; 虚伪的: the salesman's synthetic friendliness 那男售货员的虚情假意 * a synthetic blonde, ie sb whose hair is dyed blonde 染成金发的人.
  synthetic n synthetic substance or fibre 合成物; 合成纤维: natural fibres and synthetics 天然纤维和合成纤维.
  synthetically / -klI; -klI/ adv.
+=======
+<<<<<<< HEAD
+
+(the) forefront
+the forefront UK  [ðəˈfɔː.frʌnt] US  [-ˈfɔːr-] noun only singular
+the most noticeable or important position
+• She was one of the politicians at/in the forefront of the campaign to free the prisoners.
+• His team are at the forefront of scientific research into vaccines.
+Thesaurus+: ↑Describing the leading position
+From Longman DOCE 5th Ed. (En-En)
+forefront
+fore‧front /ˈfɔːfrʌnt $ ˈfɔːr-/ BrE  AmE  noun
+1. be at/in/to the forefront (of something) to be in a leading position in an important activity that is trying to achieve something or develop new ideas:
+ The company has always been at the forefront of science and technology.
+ Prison conditions have been pushed to the forefront of public debate.
+2. be in/at/to the forefront of sb’s mind/attention etc to be what someone is thinking about most, because it is very important to them ⇨ at the back of sb’s mind:
+ Fear of unemployment was at the forefront of everyone’s minds.
+ 
+ thingamajig
+thing‧a‧ma‧jig /ˈθɪŋəmədʒɪɡ, ˈθɪŋəmɪdʒɪɡ/ BrE  AmE  (also thing‧a‧ma-bob /ˈθɪŋəməbɒb, ˈθɪŋəmɪbɒb $ -bɑːb/ thing‧y /ˈθɪŋi/) noun [countable] spoken
+[Date: 1800-1900; Origin: thingum 'thingamajig' (17-19 centuries), from thing]
+1. used when you cannot remember or do not know the name of the thing you want to mention:
+ What do you call that thingamajig? You know – the circle with the line through it.
+2. British English used when you cannot remember or do not know the name of the person you want to mention:
+ Is thingy going?
+From Longman DOCE5 Extras (En-En)
+thingamajig
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ What's this silver thingamajig used for?
+EXAMPLES FROM CORPUS
+▪ This new multimedia thingamajig allows you to discover things on your own through the wondrous use of the hypermedia approach to education.
+
+■ ADJECTIVES/NOUN + satisfaction
+▪ great/deep satisfaction It was hard work, but it gave her great satisfaction.
+▪ immense/enormous satisfaction (=very great) The victory gave him immense satisfaction.
+▪ real satisfaction (=great satisfaction) There is real satisfaction in helping other people to overcome their problems.
+▪ complete satisfaction They expressed complete satisfaction with the agreement.
+▪ personal satisfaction (=happiness with your own life or achievements) The job offered William little personal satisfaction.
+▪ quiet satisfaction (=satisfaction that you express in a quiet, not very obvious way) He announced with quiet satisfaction that they had achieved their target.
+▪ grim satisfaction (=when you succeed or are proved right, but do not really feel happy about it) ‘That’s exactly what I expected,’ he said with grim satisfaction.
+▪ job satisfaction (=enjoyment of your job) In general, job satisfaction among farm workers is extraordinarily high.
+▪ customer/patient/voter etc satisfaction (=among customers/patients/voters etc ) Staff work as a team to achieve customer satisfaction.
+■ verbs
+▪ get satisfaction from something (also gain/derive satisfaction from something formal) I get a lot of satisfaction from teaching. | He derived great satisfaction from knowing his son had followed in his footsteps.
+▪ find satisfaction in something They found satisfaction in helping others achieve their goals.
+▪ take satisfaction in/from something He took great satisfaction in doing his job well.
+▪ have the satisfaction of doing something They have the satisfaction of knowing that the company needs them.
+▪ something gives/brings somebody satisfaction To have won both awards in the same year gives us great satisfaction. | Yet children also bring immense rewards and satisfaction.
+▪ feel satisfaction As she looked at what she had created, she felt a quiet satisfaction.
+▪ express satisfaction Those taking part expressed their satisfaction with the outcome of the talks.
+■ phrases
+▪ a sense/feeling of satisfaction performing such a difficult piece gave her a deep sense of satisfaction.
+▪ a smile/sigh/look of satisfaction He allowed himself a little smile of satisfaction.
+▪ the level of satisfaction (=the number of people who feel satisfied) Research shows a high level of satisfaction with the system.
+▪ a source of satisfaction (=something that gives you a feeling of satisfaction) It is a source of deep satisfaction to him that he was eventually proved to be right.
+• • •
+THESAURUS
+▪ satisfaction a feeling of happiness or pleasure, especially because you have achieved something good or useful: Most teachers take great pride and satisfaction in their work.
+▪ pride a feeling of pleasure and satisfaction that you get when you or someone connected with you has achieved something good: Her father’s pride in her accomplishments was clear. | I was blushing with pride because I had been chosen to be on the team.
+▪ contentment the feeling of being happy and satisfied because you have what you want or need. Contentment is rather a formal use: Only when you truly know yourself can you find contentment. | He sat back with a look of deep contentment on his face.
+▪ fulfilment British English, fulfillment American English a feeling of being satisfied and happy with your life. Fulfilment is rather a formal use: Some women find fulfillment in being a mother, but this is not true for all women.
+
+lifespan
+lifespan UK  US  [ˈlaɪf.spæn] noun countable [lifespans]
+the length of time for which a person, animal or thing exists
+• The average human lifespan in the developed countries has increased over the last hundred years.
+• The project's lifespan is estimated at about five years.
+Thesaurus+: ↑Life and living
+From Longman DOCE 5th Ed. (En-En)
+lifespan
+life‧span /ˈlaɪfspæn/ BrE  AmE  noun [countable]
+the average length of time that someone will live or that something will continue to work ⇨ lifetime:
+ Men have a shorter lifespan than women.
+a lifespan of 5 days/10 years etc
+ A TV set has an average lifespan of 11 years.
+From Oxford Advanced Learners Dictionary 8th Ed.
+lifespan
+life·span [lifespan lifespans] BrE [ˈlaɪfspæn]  NAmE [ˈlaɪfspæn]  noun
+the length of time that sth is likely to live, continue or function
+• Worms have a lifespan of a few months.
+From WordNet® 3.0 (En-En)
+lifespan
+noun
+the period during which something is functional (as between birth and death)
+- the battery had a short life
+- he lived a long and happy life
+• Syn: ↑life, ↑lifetime, ↑life-time
+• Derivationally related forms: ↑lifer (for: ↑life)
+• Hypernyms: ↑time period, ↑period of time, ↑period
+• Hyponyms: ↑afterlife, ↑hereafter
+• Part Meronyms:
+
+alter ego
+ˌalter ˈego [plural alter egos] noun countable [alter egos] UK  US 
+the part of someone's personality which is not usually seen by other people
+• Clark Kent is Superman's alter ego.
+Thesaurus+: ↑Mind and personality ↑Science of psychology and psychoanalysis
+From Longman DOCE 5th Ed. (En-En)
+alter ego
+al‧ter e‧go /ˌæltər ˈiːɡəʊ, ˌɔːl- $ ˌæltər ˈiːɡoʊ, ˌɒːl-/ BrE  AmE  noun [countable]
+[Date: 1500-1600; Language: Latin; Origin: 'other I']
+1. sb’s alter ego an invented person that you use to represent part of your character that is very different from your usual one:
+ Gissing used his fictional alter ego to attack Victorian morals.
+2. someone you trust and who has similar opinions, attitudes etc:
+ Mrs Reagan was widely regarded as the President’s alter ego.
+ 
+ rapport
+rapport UK  [ræˈpɔː r ] US  [-ˈpɔːr] noun only singular or uncountable
+a good understanding of someone and an ability to communicate well with them
+• We'd worked together for years and developed a close/good rapport.
+• She has an excellent rapport with her staff.
+Thesaurus+: ↑Empathy and sensitivity ↑Sympathy and compassion
+From Longman DOCE 5th Ed. (En-En)
+rapport
+rap‧port /ræˈpɔː $ -ɔːr/ BrE  AmE  noun [singular, uncountable]
+[Date: 1600-1700; Language: French; Origin: rapporter 'to carry back, report']
+friendly agreement and understanding between people ⇨ relationship
+rapport with/between
+ He had an excellent rapport with his patients.
+establish/build up/develop (a) rapport
+ He built up a good rapport with the children.
+From Oxford Advanced Learners Dictionary 8th Ed.
+rapport
+rap·port [rapport rapports] BrE [ræˈpɔː(r)]  NAmE [ræˈpɔːr]  noun singular, uncountable ~ (with sb) | ~ (between A and B)
+a friendly relationship in which people understand each other very well
+• She understood the importance of establishing a close rapport with clients.
+• Honesty is essential if there is to be good rapport between patient and therapist.
+• There was little rapport between the two women.
+develop
+▪ He has developed a rapport with Desmond, which so far does not exist between the proprietor and the Express.
+▪ From her period of residential living she had developed a particular rapport with Henry.
+▪ Miss Madrigal and the girl develop a strange rapport.
+▪ One day, perhaps, Putin will develop a similarly close rapport with Clinton's successor.
+establish
+▪ You will need to establish rapport quickly, so that they can trust you.
+▪ Her son had called from college, and they were establishing some kind of rapport again.
+▪ The physician must establish a sympathetic rapport with the patient to help elucidate possible causes and contributing factors.
+▪ It is also important that the presenter be appropriate for the specific audience and be able to establish a rapport with them.
+▪ Some of the disadvantages are: It is more difficult to establish rapport on the telephone.
+▪ Therefore it was important to establish a rapport with Dilip as soon as possible.
+▪ One of the most difficult problems in depth interviewing is that of establishing a rapport between respondent and interviewer.
+▪ Pete had established an amazing rapport with all the animals.
+
+II. favourite2 BrE  AmE  British English, favorite American English noun [countable]
+1. something that you like more than other things of the same kind:
+ Can we have strawberries? They’re my favourite.
+an old/firm/particular favourite
+ a sweater that’s an old favorite
+favourite with
+ Dahl’s books are firm favourites with children.
+2. someone who is liked and treated better than others by a teacher or parent:
+ You always were Dad’s favourite.
+play favorites American English (=treat one person better than others)
+ The manager insisted he doesn’t play favorites. ⇨ ↑favouritism
+3. the team, player etc that is expected to win a race or competition
+favourite to do something
+ Italy were the favourites to win the World Cup.
+ He was the hot favourite for the Booker Prize.
+ 
+ scope
+I. scope1 W3 AC /skəʊp $ skoʊp/ BrE  AmE  noun
+[Date: 1500-1600; Language: Italian; Origin: scopo 'purpose', from Greek skopos]
+1. [uncountable] the range of things that a subject, activity, book etc deals with
+scope of
+ the need to define the scope of the investigation
+ measures to limit the scope of criminals’ activities
+beyond/outside/within the scope of something
+ A full discussion of that issue is beyond the scope of this book.
+widen/broaden/extend etc the scope of something
+ Let us extend the scope of the study to examine more factors.
+narrow/limit etc the scope of something
+ The court’s ruling narrowed the scope of the affirmative action program.
+limited/wider etc in scope
+ His efforts were too limited in scope to have much effect.
+2. [uncountable] the opportunity to do or develop something
+scope for
+ The scope for successful gardening increases dramatically with a greenhouse.
+there is considerable/great/little etc scope for something
+ There is considerable scope for further growth in the economy.
+3. [singular] informal a particular set of activities and the people who are involved in them SYN scene
+the music/cinema/club etc scope
+• • •
+COLLOCATIONS
+■ adjectives
+▪ broad The new book has a broader scope.
+▪ limited/narrow The scope of the research was quite limited.
+■ verbs
+▪ widen/broaden the scope of something The police are widening the scope of their investigation.
+▪ extend/expand the scope of something They may extend the scope of the project.
+▪ narrow/limit the scope of something He had severely limited the scope of his autobiography.
+▪ define the scope of something (=say exactly what the scope is) The group’s first task was to define the scope of the review.
+▪ come/fall within the scope of something (=be included in it) Banks and building societies fall within the scope of the new legislation.
+▪ fall outside the scope of something (=not be included in it) His later exploits in Persia fall outside the scope of this book.
+■ phrases
+▪ be limited/restricted in scope The law is quite limited in scope.
+▪ be national/international/global in scope (=include a whole country, several countries, or the whole world) Some markets are local while others are national or international in scope.
+II. scope2 BrE  AmE  verb
+scope somebody/something ↔ out phrasal verb American English informal
+to look at something or someone to see what they are like:
+ Let’s go inside and scope out the menu.
+ 
+ rubble
+rub·ble BrE [ˈrʌbl]  NAmE [ˈrʌbl]  noun uncountable
+broken stones or bricks from a building or wall that has been destroyed or damaged
+• The bomb reduced the houses to rubble.
+• There were piles of rubble everywhere.
+ 
+Word Origin:
+[rubble] late Middle English: perhaps from an Anglo-Norman French alteration of Old French robe ‘spoils’; compare with ↑rubbish.
+ 
+Example Bank:
+• Police sifted through the rubble looking for clues.
+• Rescue workers are searching the rubble for survivors.
+• Several people were trapped in the rubble.
+• She stood among the rubble left by the earthquake.
+• The school was reduced to rubble.
+• What was once a cottage was now a crumbling heap of rubble.
+• A bomb had reduced the house next door to rubble.
+• The end of the alley was blocked by a heap of rubble and twisted metal.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+rubble
+
+ / 5rQbl; `rQbl/ n [U] bits of broken stone, rock or bricks 碎石; 碎砖: a road built on a foundation of rubble 用碎石做路基修筑的道路 * The explosion reduced the building to (a pile of) rubble, ie totally demolished it. 那次爆炸把那建筑物毁成（一堆）瓦砾.
+From Longman DOCE5 Extras (En-En)
+rubble
+noun
+COLLOCATIONS FROM CORPUS
+■ VERB
+build
+▪ Ironically, much of the Marina district was built on rubble from the 1906 quake.
+▪ Various parts are built from rubble and other sections heavily braced with iron tie bars.
+▪ It is built of freestone rubble which was quarried in the grounds.
+PHRASES FROM OTHER ENTRIES
+reduce sth to ashes/rubble/ruins
+EXAMPLES FROM CORPUS
+▪ As long as the rubble remains and rains fall, the leaching process will continue.
+▪ As the full horror of the explosion unfolded, the Halifax building society was reduced to a mound of rubble.
+▪ Converse went across the street and watched the ambulance people Jug body bags over the rubble.
+▪ I try, but all the roads are blocked with the rubble of fallen buildings.
+▪ If the site is made of builder's rubble, cover it with a foot of topsoil.
+▪ Piles of rubble and bits of rubbish were everywhere and Endill saw signs of where pupils had explored before him.
+▪ Some places she taught, like Helvetia and Sasco, have long since turned to rubble.
+▪ The aim is to use the rubble in as accurate a way as possible, avoiding recourse to modern materials.
+
+cardio
+car‧di‧o /ˈkɑːdiəʊ $ ˈkɑːrdioʊ/ BrE  AmE  noun [uncountable] informal
+any type of exercise that makes the heart stronger and healthier, for example running:
+ a combination of cardio, weight training, and kung fu
+From Oxford Advanced Learners Dictionary 8th Ed.
+cardio
+cardio 8 [cardio] BrE [ˈkɑːdiəʊ]  NAmE [ˈkɑːrdioʊ]  noun uncountable (informal)
+exercises to make your heart work harder, that you do to keep yourself fit
+• Cardio is the answer if you want to lose weight.
+• cardio exercise/workouts
+see also ↑cardiovascular
+
+genitals
+genitals UK  [ˈdʒen.ɪ.t ə lz] US  [-t ̬ ə lz] (also genitalia) specialized plural noun [genitalses]
+the outer sexual organs, especially the penis or vulva
+Thesaurus+: ↑Sexual and reproductive organs
+Derived: genital
+genital
+genital UK  US  UK [ˈdʒen.ɪ.t ə l] US [-t ̬ ə l] adjective
+• the genital area/organs
+Thesaurus+: ↑Relating to particular parts of the body
+Main entry: genitalsderived
+From Longman DOCE 5th Ed. (En-En)
+genitals
+gen‧i‧tals /ˈdʒenətlz, ˈdʒenɪtlz/ BrE  AmE  (also gen‧i‧ta‧li‧a /ˌdʒenəˈteɪliːə, ˌdʒenɪˈteɪliːə/) noun [plural] formal or technical
+the outer sex organs
+genital
+gen‧i‧tal /ˈdʒenətl, ˈdʒenɪtl/ BrE  AmE  adjective [only before noun]
+[Date: 1300-1400; Language: Latin; Origin: genitalis, from gignere 'to produce children']
+relating to or affecting the outer sex organs:
+ the genital area
+ genital mutilation
+ 
+ crumb
+crumb /krʌm/ BrE  AmE  noun [countable]
+[Language: Old English; Origin: cruma]
+1. a very small piece of dry food, especially bread or cake:
+ She stood up to brush the crumbs off her uniform.
+ Coat with bread crumbs and bake.
+2. a very small amount of something
+crumb of comfort/hope/affection etc
+ There was only one crumb of comfort – Alex hadn’t said anything to Jeff.
+• • •
+THESAURUS
+■ a small piece
+▪ fragment a small piece that has broken off something, especially something hard: The window shattered, covering them with fragments of glass. | They found fragments of bone.
+▪ crumb a very small piece of bread, cake etc: There were just a few crumbs left on the plate.
+▪ speck a piece of something such as dirt or dust which is so small you almost cannot see it: She brushed the specks of dust from the table.
+▪ drop a very small amount of a liquid: There were drops of blood on the floor. | I felt a drop of rain.
+bottom line
+ˌbottom ˈline noun only singular
+ 
+MONEY
+UK  US 
+1. the final line in the accounts of a company or organization, which states the total profit or loss that has been made
+• How will the rise in interest rates affect our bottom line?
+Thesaurus+: ↑Profits and losses
+ 
+IMPORTANT FACT
+2. the bottom line
+the most important fact in a situation
+• The bottom line is that we need another ten thousand dollars to complete the project.
+Thesaurus+: ↑Information and messages
+From Longman DOCE 5th Ed. (En-En)
+bottom line
+ˌbottom ˈline BrE  AmE  noun [singular]
+1. the bottom line used to tell someone what the most important part of a situation is, or what the most important thing to consider is:
+ In radio, you have to keep the listener listening. That’s the bottom line.
+2. the profit or the amount of money that a business makes or loses
+3. the least amount of money that you are willing to accept in a business deal
+—bottom-line adjective
+From Oxford Advanced Learners Dictionary 8th Ed.
+bottom line
+ˌbottom ˈline [bottom line] BrE   NAmE   noun singular
+1. the bottom line the most important thing that you have to consider or accept; the essential point in a discussion, etc
+• The bottom line is that we have to make a decision today.
+2. (business) the amount of money that is a profit or a loss after everything has been calculated
+• The bottom line for 2008 was a pre-tax profit of £85 million.
+• Sales last month failed to add to the company's bottom line.
+3. the lowest price that sb will accept
+• Two thousand— and that's my bottom line!
+ 
+Example Bank:
+• The bottom line for 2007 was a pre-tax profit of £85 million.
+
+
+liaison
+liaison UK  [liˈeɪ.zɒn] US  [-zɑːn] noun
+ 
+LINK BETWEEN
+1. only singular or uncountable communication between people or groups who work with each other
+• He blamed the lack of liaison between the various government departments.
+• The police have appointed a liaison officer to work with the local community.
+Thesaurus+: ↑Communicating and keeping in touch
+2. countable mainly US someone who helps groups to work effectively with each other
+• She served as a liaison between the different groups.
+Thesaurus+: ↑Diplomacy and mediation
+ 
+RELATIONSHIP
+3. countable formal a sexual relationship, especially between two people not married to each other
+• He's had a number of liaisons.
+Thesaurus+: ↑Marriage, cohabitation and other relationships
+From Longman DOCE 5th Ed. (En-En)
+liaison
+li‧ai‧son /liˈeɪzən $ ˈliːəzɑːn, liˈeɪ-/ BrE  AmE  noun
+[Date: 1600-1700; Language: French; Origin: lier 'to tie']
+1. [singular, uncountable] the regular exchange of information between groups of people, especially at work, so that each group knows what the other is doing
+liaison between
+ close liaison between the army and police
+liaison with
+ better liaison with other agencies
+in liaison with something
+ The project has been set up in liaison with the art department.
+2. (also liaison officer) [countable] someone whose job is to talk to different departments or groups and to tell each of them about what the others are doing
+liaison to
+ Renee Ball, liaison to the State Parks Authority
+3. [countable] a secret sexual relationship between a man and a woman, especially a man and a woman who are married but not to each other ⇨ affair
+
+
+awe
+
+ / R:; R/ n [U] feeling of respect combined with fear or wonder 敬畏; 惊惧: Her first view of the pyramids filled her with awe. 她初见金字塔时, 敬畏之感油然而生. * I was/lived in awe of my father until I was at least fifteen. 我至少在十五岁以前一直惧怕父亲. * My brother was much older and cleverer than me so I always held him in awe. 我哥哥比我大得多也比我聪明得多, 所以我始终对他怀有敬畏之心.
+
+ > awe v [usu passive 通常用于被动语态: Tn, Tn.pr] ~ sb (into sth) fill sb with awe 使某人敬畏或惊惧: awed by the solemnity of the occasion 那场合严肃得怕人 * They were awed into silence by the sternness of her voice. 她严厉的声音把他们吓得鸦雀无声了.
+ awesome / -sEm; -sEm/ adj causing awe 使人敬畏的; 使人惊惧的: His strength was awesome. 他的力量大得怕人.
+
+ # `awe-inspiring adj causing awe 使人敬畏的; 使人惊惧的: an awe-inspiring sight 使人望而生畏的情景.
+ `awestricken, `awestruck adjs suddenly filled with awe 顿生敬畏的; 惊惧的.
+From Longman DOCE5 Extras (En-En)
+awe
+I. noun
+COLLOCATIONS FROM OTHER ENTRIES
+shock and awe
+stand in awe of sb (=admire them, be afraid of them, or both)
+COLLOCATIONS FROM CORPUS
+■ VERB
+feel
+▪ He felt genuine awe at this superhuman man, at once so puissant, so self-possessed, so monomaniac in his demeanour.
+▪ Some one caught sight of them, saw their inner beauty and felt the awe in them and in awe of them.
+▪ Breathless with excitement, Meredith scanned the stretch of stunning palaces which lined the canal, feeling a sense of awe.
+▪ Some one you felt a little in awe of and wanted to hug at the same time.
+▪ Homer says that he felt awe to slay a man who had been taught his divine art by the gods.
+gaze
+▪ Ruth gazed about her in awe.
+▪ They gazed in awe at the hive of activity against the muted background clack of typewriter and word processor keyboards.
+hold
+▪ They held Grimma in awe because of the way she shouted at the men and read better than anyone.
+▪ That they are prepared to take on board such a past, one must hold in awe.
+▪ The villagers hold them in awe and think of them as men of the world.
+inspire
+▪ His replacement, Sanath Jayasuriya is a man of impressive dignity, who inspires devotion rather than awe from his players.
+▪ The megaliths command our attention, inspiring us with awe and curiousity.
+▪ One of Baldwin's weaknesses in dealing with his colleagues was that, at least until after 1931, he inspired no awe.
+▪ The fair inspired awe and pride and reverence.
+▪ Far from inspiring individualism, or egoism, the act should inspire awe, humility.
+▪ The scenery inspires awe and apprehension and fear even on a summer day; in stormy conditions, the effect is frightening.
+▪ It has always inspired awe and wonderment.
+look
+▪ From a high dune vantage point one can only look in awe at the purple dappled carpet spread out below.
+regard
+▪ No wonder prime ministers treated him as their equal, and lesser mortals on the political scene regarded him with awe.
+▪ It is, of course, regarded with mystical awe by all who see it.
+▪ Terry seemed to regard it with awe and wonder, Ellie thought it was desperate, morbid, the stuff of nightmares.
+stand
+▪ The rest of us might also stand in awe of his season.
+▪ Most people stand in awe of these agglomerations of power, admit their inability to fight them, and submit.
+▪ Mahmoud stood a little in awe of Zeinab.
+▪ Excommunication also remained out of the question because much of the Church membership stood in awe of these exploits.
+▪ They stood in fascinated awe as the immense panelled surface slid past.
+▪ They stood in awe of her and they did just what she bade them.
+▪ And how do I face those persons before whom you stand in fear and awe?
+▪ In the time of hunting and gathering, humans stood in awe of beasts.
+watch
+▪ Tallis watched the winter with awe.
+▪ Dinah prays aloud all the way, the crowds watching her in awe.
+▪ A businessman walking to his car was struck by lightning and critically injured as co-workers watched in awe.
+▪ David watched in awe and mounting panic as she unsheathed her beauty.
+PHRASES FROM OTHER ENTRIES
+be struck with horror/terror/awe etc
+EXAMPLES FROM OTHER ENTRIES
+▪ I felt the wonder and awe of the first European explorers who looked at the mountain.
+EXAMPLES FROM CORPUS
+▪ Around Salomon no tone but awe was used when he was discussed.
+▪ Gillette turned to me in awe.
+▪ I felt a peculiar apprehension, and sensed the woodland spirits of which Mme Guérigny lived in awe.
+▪ It made me shiver with a mixture of awe and anticipation.
+▪ Most people stand in awe of these agglomerations of power, admit their inability to fight them, and submit.
+▪ That they are prepared to take on board such a past, one must hold in awe.
+▪ The shape must be observed, and understood, and joined in an act of awe and worship.
+
+reversal
+re‧vers‧al AC /rɪˈvɜːsəl $ -ɜːr-/ BrE  AmE  noun
+[Word Family: noun: ↑reversal, ↑reverse; adjective: ↑reverse, ↑reversible ≠ ↑irreversible; verb: ↑reverse]
+1. [uncountable and countable] a change to an opposite arrangement, process, or way of doing something ⇨ turnaround
+reversal of/in
+ a sudden reversal of government policy
+dramatic/sudden/complete reversal
+ a dramatic reversal in population decline
+ Some Internet firms have suffered a painful reversal of fortune (=they were successful but now they are not).
+ Some carers and dependants find it difficult to adapt to a role reversal.
+2. [countable] a failure or other problem that prevents you from being able to do what you want:
+ In spite of setbacks and reversals, his business was at last making money.
+From Oxford Advanced Learners Dictionary 8th Ed.
+reversal
+re·ver·sal AW [reversal reversals] BrE [rɪˈvɜːsl]  NAmE [rɪˈvɜːrsl]  noun
+1. countable, uncountable ~ (of sth) a change of sth so that it is the opposite of what it was
+• a complete/dramatic/sudden reversal of policy
+• the reversal of a decision
+• The government suffered a total reversal of fortune(s) last week.
+2. countable a change from being successful to having problems or being defeated
+• the team's recent reversal
+• The company's financial problems were only a temporary reversal.
+3. countable, uncountable an exchange of positions or functions between two or more people
+• It's a complete role reversal/reversal of roles (= for example when a husband cares for the house and children while the wife works).
+ 
+Word Origin:
+late 15th cent. (as a legal term): from ↑reverse + ↑-al.
+ 
+Example Bank:
+• Industrial unrest and cheaper imports played their part in the company's reversal of fortunes.
+• Role reversal is a common feature of modern relationships.
+• Some people looking after elderly parents have trouble with the role reversal involved.
+• This represents an apparent reversal of previous US policy.
+• a reversal of current trends
+• the dramatic reversal in population decline
+• In a sudden reversal of policy, the government has increased its offer.
+• It's a complete role reversal/reversal of roles.
+• The government suffered a total reversal of fortunes last week.
+• The new figures suggest a reversal of the trend.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+reversal
+
+ / rI5v\:sl; rI`v[sl/ n [C, U] 
+ (instance of) making sth the opposite of what it was; turning around 反转; 倒向; 颠倒: a dramatic reversal of her earlier decision 她的突然改变决定 * a reversal of the usual procedures, tendencies, opinions 常规的颠倒、趋势的扭转、意见的转变 * (fig 比喻) His luck suffered a cruelreversal, ie change for the worse. 他遭逢厄运. 
+ (instanceof) exchanging two positions, functions, etc （位置、功能等的）转换: role reversal/reversal of roles, eg between husband and wife when the husband looks after the house and children while the wife works 角色的转换（如夫妻之间由男方料理家务、照看小孩而女方工作）.
+From Longman DOCE5 Extras (En-En)
+reversal
+noun
+COLLOCATIONS FROM OTHER ENTRIES
+a reversal of policy (=a change back to what it was before)
+▪ The strength of this opposition forced a rapid reversal of policy.
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+complete
+▪ This calls for complete reversal of former security doctrine based on strategic military considerations.
+▪ A complete reversal of attitude has been accomplished during the past two decades.
+▪ This is a complete reversal of fortunes.
+▪ Only this time, it was almost a complete reversal of form by each.
+▪ Such a complete reversal of her usual immunity only served to strip her of every vestige of confidence.
+dramatic
+▪ The dramatic military reversals and advances of following months left no space for a recovery of peace politics while the war continued.
+▪ A number of such dramatic reversals are contained in this book.
+▪ To begin, all the couples involved apparently had the flexibility to accept a dramatic role reversal.
+sudden
+▪ The overall effect of these dynastic upsets and sudden reversal of political alignment was disastrous from Rome's viewpoint.
+▪ Until the sudden reversal, the Nasdaq had been falling steadily and more than 200 stocks had hit new lows.
+▪ Reagan, astonished by this sudden reversal, said, Absolutely not.
+■ NOUN
+role
+▪ But if the move from history to hystery were simply a matter of role reversal it would be relatively unproblematic.
+▪ But there has been some role reversal.
+▪ Another important finding of the study was the confusion and ambivalence which these carers exhibited in relation to role reversal.
+▪ This is a remarkable role reversal.
+▪ But a role reversal might be interesting to start off with.
+▪ A recent parenting study corroborates the benefits of such role reversal.
+▪ But, on the dodges and self-deceptions of role reversal, this play is indefatigably predictable.
+▪ As parents age, the issue of role reversal becomes more prominent.
+■ VERB
+represent
+▪ All that represents an impressive reversal.
+▪ The opening of telecommunications markets represents a huge reversal.
+PHRASES FROM OTHER ENTRIES
+role reversal
+▪ A recent parenting study corroborates the benefits of such role reversal.
+▪ Another important finding of the study was the confusion and ambivalence which these carers exhibited in relation to role reversal.
+▪ As parents age, the issue of role reversal becomes more prominent.
+▪ But a role reversal might be interesting to start off with.
+▪ But if the move from history to hystery were simply a matter of role reversal it would be relatively unproblematic.
+▪ But there has been some role reversal.
+▪ But, on the dodges and self-deceptions of role reversal, this play is indefatigably predictable.
+▪ This is a remarkable role reversal.
+EXAMPLES FROM OTHER ENTRIES
+▪ The decision marks a sharp reversal in federal policy.
+▪ The profits of supermarkets declined until 1975 when a reversal began.
+▪ The Second World War saw a dramatic reversal of traditional attitudes towards women.
+▪ This appears to be a complete reversal of government policy.
+▪ Wilson's campaign suffered a number of embarrassing reversals in recent months.
+
+ conditions
+<I > the physical situation that someone or something is in and affected by
+• weather conditions
+• working conditions
+• The prisoners were kept in the most appalling conditions.
+• Under what conditions do plants grow best?
+
+patient2 W3 BrE  AmE  adjective
+[Word Family: noun: ↑patience ≠ ↑impatience, ↑patient; adverb: ↑patiently ≠ ↑impatiently; adjective: ↑patient ≠ ↑impatient]
+[Date: 1300-1400; Language: French; Origin: Latin, present participle of pati 'to suffer']
+able to wait calmly for a long time or to accept difficulties, people’s annoying behaviour etc without becoming angry OPP impatient:
+ You’ll just have to be patient and wait till I’m off the phone.
+patient with
+ Louise was very patient with me.
+—patiently adverb:
+ He waited patiently for Katherine to speak.
+ 
+ make an effort (to do sth)
+• Almost everybody made the effort to get to the meeting despite the train strike.
+
+effort
+ef‧fort S1 W1 /ˈefət $ ˈefərt/ BrE  AmE  noun
+[Word Family: noun: ↑effort; adverb: ↑effortlessly; adjective: ↑effortless]
+[Date: 1400-1500; Language: Old French; Origin: esfort, from esforcier 'to force']
+1. PHYSICAL/MENTAL ENERGY [uncountable] the physical or mental energy that is needed to do something:
+ Lou lifted the box easily, without using much effort.
+ Frank put a lot of effort into the party.
+ Learning to speak another language takes effort.
+2. ATTEMPT [uncountable and countable] an attempt to do something, especially when this involves a lot of hard work or determination:
+ Please make an effort to be polite.
+sb’s effort(s) to do something
+ Tom’s efforts to stop smoking haven’t been very successful.
+ Church leaders are prepared to meet the terrorists in an effort to (=in order to try to) find peace.
+effort at
+ Further efforts at negotiation have broken down.
+through sb’s efforts (=because of their efforts)
+ The money was raised largely through the efforts of parents.
+despite sb’s efforts
+ Despite all our efforts we lost the game 1–0.
+3. be an effort to be difficult or painful to do:
+ I was so weak that even standing up was an effort.
+4. PARTICULAR SITUATION [countable] work that people do to achieve something in a particular situation:
+ the fundraising effort
+ the international relief effort
+ Everyone did what they could to support the war effort.
+5. good/bad/poor etc effort something that has been done well, badly etc:
+ Not a bad effort for a beginner!
+• • •
+COLLOCATIONS (for Meanings 1 & 2)
+■ verbs
+▪ make an effort (=try) She made an effort to change the subject of the conversation.
+▪ put effort into (doing) something (=try hard to do something) Let’s try again, only put more effort into it this time.
+▪ take the effort out of something (=make it easy) An automatic car takes the effort out of driving.
+▪ something takes effort (also it takes effort to do something) (=you have to try hard) It takes a sustained effort to quit smoking.
+▪ something requires/involves effort formal (=it takes effort) Trying to get my mother to change her mind requires considerable effort.
+■ ADJECTIVES/NOUN + effort
+▪ successful Their efforts were successful, and they won the contract.
+▪ unsuccessful Efforts to save the hospital from closure have been unsuccessful.
+▪ futile (=having no chance of succeeding, and therefore not worth doing) Doctors knew that any effort to save his life would be futile.
+▪ a big/great effort The government has made a big effort to tackle the problem of poverty.
+▪ considerable effort (=a lot of effort) The police put considerable effort into finding his car.
+▪ a supreme/tremendous effort (=a very big effort) It was only with a supreme effort that Roger controlled his temper.
+▪ a special effort (=one that you do not normally make) I made a special effort to be nice to the children.
+▪ a constant effort (=one that never stops) Walking was a constant effort.
+▪ a sustained effort (=one that you continue making for a long time) It will take a sustained effort over the next 5 years to achieve our objectives.
+▪ a conscious/deliberate effort (=one that you concentrate on in order to achieve something) He made a conscious effort to become a better person.
+▪ a determined effort (=showing a lot of determination) She had made a determined effort to lose weight.
+▪ a desperate effort (=one you make when you are in a very bad situation) The fox made a desperate effort to get away.
+▪ a concerted effort (=involving a lot of different actions, or a lot of people working together) It will take a concerted effort to change the culture of binge-drinking in the country.
+▪ a joint/team effort (=involving a group or team of people) We had many fine individual performances, but the win was a real team effort.
+▪ a collaborative/cooperative effort formal (=with different people or groups working together) This was a collaborative effort involving the three largest energy companies.
+▪ physical/mental effort He struggled back from two sets down to win the match, showing great physical and mental effort.
+▪ a final/last-ditch effort (=a last effort, when you want very much to achieve something) Sam took a deep breath and prepared herself for one final effort.
+■ phrases
+▪ make the effort (=do something that requires some effort) I felt too tired to go to a party, but decided to make the effort.
+▪ make every effort to do something (=try very hard) I made every effort to see their point of view.
+▪ make no effort to do something (=not try at all) They make no effort to speak the local language.
+▪ be (well) worth the effort (=used to say that something is worth doing even though it is hard) It’s a difficult place to get to, but it's well worth the effort.
+▪ an effort of will (=a big effort to do something that you find difficult because of the way you feel) It took a huge effort of will not to cry.
+▪ with effort formal (=trying very hard) With great effort, he managed to keep quiet.
+▪ without effort (=easily, without trying hard) Her horse jumped the fence without any effort.
+• • •
+COLLOCATIONS (for Meaning 4)
+■ NOUN + effort
+▪ a relief effort The UN is organizing the relief effort to the region affected by the earthquake.
+▪ a fund-raising effort The party is planning a huge fund-raising effort later this year.
+▪ the war effort Taxes were raised to support the war effort.
+
+roadworks
+roadworks UK  [ˈrəʊd.wɜːks] US [ˈroʊd.wɝːks] UK (US roadwork) plural noun [roadworkses]
+building or repair work on a road
+• There are delays on the M4 because of roadworks.
+Thesaurus+: ↑Routes and roads in general
+From Longman DOCE 5th Ed. (En-En)
+roadworks
+road‧works /ˈrəʊdwɜːks $ ˈroʊdwɜːrks/ BrE  AmE  noun [plural] British English
+repairs that are being done to a road:
+ There were roadworks on the motorway.
+From Oxford Advanced Learners Dictionary 8th Ed.
+roadworks
+road·works [roadworks] BrE [ˈrəʊdwɜːks]  NAmE [ˈroʊdwɜːrks]  noun plural (BrE) (NAmE road·work uncountable)
+repairs that are being done to the road; an area where these repairs are being done
+From Longman DOCE5 Extras (En-En)
+roadworks
+noun
+EXAMPLES FROM CORPUS
+▪ A combination of rain, half-term and roadworks.
+▪ All roadworks in peak-traffic hours should be prohibited.
+▪ Another car drove off but ran into a ditch at the roadworks and another young man was arrested.
+▪ But work has already started on roadworks to create a mini-roundabout and piazza at the mid-section of Victoria Road.
+▪ He likes them so much he even looks forward to being stuck at roadworks.
+▪ I was driving in London recently and was sent crazy by roadworks and closed bridges at almost every turn.
+▪ It happened on a contra-flow system where there are roadworks.
+▪ This section of the project was undertaken in advance of the lain roadworks contract.
+>>>>>>> e924fea0b443bcd45a71d539319f42a70414700c
