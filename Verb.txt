@@ -13935,6 +13935,79 @@ EXAMPLES FROM CORPUS
 ▪ More likely, Hecataeus opined, he drove them from Epirus, a few hundred miles north.
 ▪ On his way out of town, Steve Forbes was programmed to opine that the race has become him versus Dole.
 ▪ Some fields get disproportionate funds, he opined, while others go hungry.
-=======
->>>>>>> d755a720c9d9fe13e84f2efbfd3572cbff254c18
->>>>>>> df36d299283347744e2824110110dd4ac6ff880e
+
+lament
+lament UK  US  [ləˈment] verb intransitive or transitive [laments lamenting lamented]
+to express sadness and feeling sorry about something
+• The poem opens by lamenting (over) the death of a young man.
+• My grandmother, as usual, lamented the decline in moral standards in today's society.
+• The late lamented (= dead and remembered with love) Frank Giotto used to live here.
+Thesaurus+: ↑Sadness and regret ↑Remembering people who have died
+ 
+noun countable formal
+a song, poem or other piece of writing which expresses sadness about someone's death
+• The whole play can be interpreted as a lament for lost youth.
+Thesaurus+: ↑Remembering people who have died ↑Pieces of writing
+From Longman DOCE 5th Ed. (En-En)
+lament
+I. la‧ment1 /ləˈment/ BrE  AmE  verb written
+[Date: 1500-1600; Language: French; Origin: lamenter, from Latin lamentari, from lamentum 'a lament']
+1. [intransitive and transitive] to express feelings of great sadness about something:
+ The nation lamented the death of its great war leader.
+2. [transitive] to express annoyance or disappointment about something you think is unsatisfactory or unfair
+lament that
+ He lamented that people had expected too much of him too soon.
+ She lamented the fact that manufacturers did not produce small packs for single-person households.
+lament the lack/absence/decline etc of something
+ Steiner lamented the lack of public interest in the issue.
+II. lament2 BrE  AmE  noun [countable]
+a song, piece of music, or something that you say, that expresses a feeling of sadness:
+ A lone piper played a lament.
+lament for
+ a lament for the dead
+ 
+ 2. lend (somebody) a hand to help someone do something, especially something that needs physical effort:
+ Can you lend me a hand with this?
+3. [transitive] formal to give a situation, event etc a particular quality
+lend something to something
+ The presence of members of the royal family lent a certain dignity to the ceremony.
+4. lend an ear to listen to someone, especially in a sympathetic way:
+ He’s always prepared to lend a sympathetic ear.
+5. lend itself to something to be suitable for being used in a particular way:
+ None of her books really lends itself to being made into a film.
+6. lend (your) support (to something) to support or help someone:
+ The government has now lent its support to the campaign.
+7. lend weight/support to something to make an opinion or belief seem more likely to be correct:
+ The police have new evidence which lends weight to their theory.
+8. lend your name to something to announce publicly that you support something that someone is trying to do:
+ The French prime minister has now lent his name to the protest.
+ 
+ compel
+compel UK  US  [kəmˈpel] [-ll-] verb transitive [compelling compelled compels]
+1. to force someone to do something
+• + to infinitive As a school boy he was compelled to wear shorts even in winter.
+• formal The new circumstances compelled a change in policy.
+See also compulsion
+Thesaurus+: ↑Causing somebody to act ↑Urging and persuading
+2. formal to produce a strong feeling or reaction, sometimes unwillingly
+• Over the years her work has compelled universal admiration and trust.
+Thesaurus+: ↑Causing things to happen
+From Longman DOCE 5th Ed. (En-En)
+compel
+com‧pel /kəmˈpel/ BrE  AmE  verb (past tense and past participle compelled, present participle compelling) [transitive]
+[Date: 1300-1400; Language: Latin; Origin: compellere, from com- ( ⇨ COM-) + pellere 'to drive']
+1. to force someone to do something ⇨ compulsion
+compel somebody to do something
+ The law will compel employers to provide health insurance.
+ She felt compelled to resign because of the scandal.
+2. formal to make people have a particular feeling or attitude ⇨ compulsion:
+ His performance compelled the audience’s attention.
+• • •
+THESAURUS
+▪ force to make someone do something they do not want to do. Used when people or situations make you do something: They were beaten and forced to confess to crimes they had not committed. | The drought forced millions of farmers to sell their cattle.
+▪ make to force someone to do something by using pressure, threats, or violence. Make somebody do something is more common than force somebody to do something in everyday English: Her parents disapproved of Alex and they made her stop seeing him. | Two men with guns made the staff hand over the money.
+▪ pressure (also pressurize British English) to try to force someone to do something by making them feel that they should do it: Some employers pressure their staff into working very long hours. | She felt they were trying to pressurize her into getting married.
+▪ blackmail to force someone to give you money or do what you want by threatening to tell embarrassing secrets about them: She tried to blackmail him with photographs of them together at the hotel.
+▪ compel [usually passive] formal to force someone to do something using official power or authority. Also used when someone has to do something because of their situation: The town was surrounded and compelled to surrender. | I felt compelled to offer them some kind of explanation. | You are compelled by law to carry an ID card.
+▪ coerce /kəʊˈɜːs $ ˈkoʊɜːrs/ formal to force someone to do something by threatening them: Local people were coerced into joining the rebel army.
+▪ be obliged to do something formal if someone is obliged to do something, they must do it because it is the law or the rule, or because of the situation they are in: You are not obliged to say anything which may harm your defence in court. | They were obliged to sell the land

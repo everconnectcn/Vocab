@@ -20354,6 +20354,30 @@ COLLOCATIONS (for Meaning 4)
 ▪ a relief effort The UN is organizing the relief effort to the region affected by the earthquake.
 ▪ a fund-raising effort The party is planning a huge fund-raising effort later this year.
 ▪ the war effort Taxes were raised to support the war effort.
-=======
->>>>>>> d755a720c9d9fe13e84f2efbfd3572cbff254c18
->>>>>>> df36d299283347744e2824110110dd4ac6ff880e
+
+roadworks
+roadworks UK  [ˈrəʊd.wɜːks] US [ˈroʊd.wɝːks] UK (US roadwork) plural noun [roadworkses]
+building or repair work on a road
+• There are delays on the M4 because of roadworks.
+Thesaurus+: ↑Routes and roads in general
+From Longman DOCE 5th Ed. (En-En)
+roadworks
+road‧works /ˈrəʊdwɜːks $ ˈroʊdwɜːrks/ BrE  AmE  noun [plural] British English
+repairs that are being done to a road:
+ There were roadworks on the motorway.
+From Oxford Advanced Learners Dictionary 8th Ed.
+roadworks
+road·works [roadworks] BrE [ˈrəʊdwɜːks]  NAmE [ˈroʊdwɜːrks]  noun plural (BrE) (NAmE road·work uncountable)
+repairs that are being done to the road; an area where these repairs are being done
+From Longman DOCE5 Extras (En-En)
+roadworks
+noun
+EXAMPLES FROM CORPUS
+▪ A combination of rain, half-term and roadworks.
+▪ All roadworks in peak-traffic hours should be prohibited.
+▪ Another car drove off but ran into a ditch at the roadworks and another young man was arrested.
+▪ But work has already started on roadworks to create a mini-roundabout and piazza at the mid-section of Victoria Road.
+▪ He likes them so much he even looks forward to being stuck at roadworks.
+▪ I was driving in London recently and was sent crazy by roadworks and closed bridges at almost every turn.
+▪ It happened on a contra-flow system where there are roadworks.
+▪ This section of the project was undertaken in advance of the lain roadworks contract.
