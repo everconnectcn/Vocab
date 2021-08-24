@@ -13616,6 +13616,8 @@ hold back phrasal verb (see also ↑hold)
 5. hold something ↔ back to keep something secret:
  Tell me all about it – don’t hold anything back!
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
  
   warrant2 BrE  AmE  verb [transitive]
 [Date: 1200-1300; Language: Old North French; Origin: warantir, from warant; ⇨ ↑warrant1]
@@ -14011,3 +14013,4 @@ THESAURUS
 ▪ compel [usually passive] formal to force someone to do something using official power or authority. Also used when someone has to do something because of their situation: The town was surrounded and compelled to surrender. | I felt compelled to offer them some kind of explanation. | You are compelled by law to carry an ID card.
 ▪ coerce /kəʊˈɜːs $ ˈkoʊɜːrs/ formal to force someone to do something by threatening them: Local people were coerced into joining the rebel army.
 ▪ be obliged to do something formal if someone is obliged to do something, they must do it because it is the law or the rule, or because of the situation they are in: You are not obliged to say anything which may harm your defence in court. | They were obliged to sell the land
+>>>>>>> e924fea0b443bcd45a71d539319f42a70414700c
