@@ -21214,4 +21214,707 @@ EXAMPLES FROM CORPUS
 ▪ I was driving in London recently and was sent crazy by roadworks and closed bridges at almost every turn.
 ▪ It happened on a contra-flow system where there are roadworks.
 ▪ This section of the project was undertaken in advance of the lain roadworks contract.
->>>>>>> e924fea0b443bcd45a71d539319f42a70414700c
+
+token
+I. to‧ken1 /ˈtəʊkən $ ˈtoʊ-/ BrE  AmE  noun [countable]
+[Language: Old English; Origin: tacen, tacn 'sign, token']
+1. a round piece of metal that you use instead of money in some machines
+2. formal something that represents a feeling, fact, event etc
+a token of your gratitude/respect/appreciation etc
+ Please accept this gift as a small token of our appreciation. ⇨ by the same token at ↑same1(7)
+3. book/record/gift token British English a special piece of paper that you can exchange for a book, record etc in a shop SYN gift certificate American English:
+ a £10 book token
+II. token2 BrE  AmE  adjective [only before noun]
+1. a token action, change etc is small and not very important, and is usually only done so that someone can pretend that they are dealing with a problem:
+ The government thinks it can get away with token gestures on environmental issues.
+2. token woman/black etc someone who is included in a group to make everyone think that the group has all types of people in it, when this is not really true
+3. done as a first sign that an agreement, promise etc will be kept and that more will be done later:
+ A small token payment will keep the bank happy.
+From Longman DOCE5 Extras (En-En)
+token
+I. noun
+COLLOCATIONS FROM OTHER ENTRIES
+a book tokenBritish English (= a ticket that you can use to pay for a book)
+▪ She always bought me book tokens for my birthday.
+a token gesture (=something you do so that you can pretend that you are dealing with a problem)
+▪ The inclusion of just one woman on the committee was seen as a token gesture.
+book token
+▪ She gave me a book token for Christmas.
+gift token
+token resistance (=not great or sincere)
+▪ He put up only a token resistance.
+token/mark of sb’s esteem (=a sign of their respect)
+▪ Please accept the small gift we enclose as a mark of our esteem.
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+small
+▪ It is a privilege to pay them this small token of respect.
+■ NOUN
+book
+▪ A £10 book token will be awarded to the sender of the first correct solution opened on Thursday 7 March.
+PHRASES FROM OTHER ENTRIES
+by the same token
+▪ I want to win, but by the same token, I don't want to hurt Sam's confidence.
+▪ And, by the same token, the world will come to be filled with the links in this causal chain.
+▪ But by the same token it is most likely that in their own interests they would scrutinize the work of contemporary photographers.
+▪ But by the same token, it can be understood more or less differently.
+▪ Conversely, by the same token, no statement is immune to revision.
+▪ It would forfeit, by the same token, any claim to be recognised as law.
+▪ Space-time is therefore an extremely stiff medium, and by the same token small-amplitude waves carry large energies.
+▪ The boat lunges forward and yet almost by the same token lunges back again.
+▪ The inducement to give is greater, but by the same token there is a cost to the Exchequer in lost revenue.
+EXAMPLES FROM OTHER ENTRIES
+▪ a subway token
+EXAMPLES FROM CORPUS
+▪ But I restrained the impulse, for it is as well to eke out such tokens of our goodwill as we possess.
+▪ By the same token, big manufacturers are often shareholders in their chosen bank.
+▪ By the same token, cinemas had no operators, and so few halls remained open.
+▪ By the same token, it has not been a triumph for the Tory Party.
+▪ Sheaths were often lovingly carved and given as love tokens or dowry gifts.
+▪ Ten tokens meant a bike ride round the park with one of his parents.
+▪ The service returns the tokens to the customer with an explanation.
+▪ There will be another token tomorrow to complete your voucher.
+II. adjective
+COLLOCATIONS FROM CORPUS
+■ NOUN
+gesture
+▪ This was, though, only in a small section of the ground and appeared to be a token gesture.
+woman
+▪ You have to be both token woman and superwoman to come anywhere near a shortlist that disenfranchises most of the male population.
+▪ We shouldn't accept the analysis of the token woman.
+
+peddler
+peddler UK  [ˈped.lə r ] US  [-lɚ] noun countable [peddlers]
+1. (mainly UK pedlar) especially in the past, a person who travelled to different places to sell small goods, usually by going from house to house
+Thesaurus+: ↑People who sell things ↑Traders, merchants and entrepreneurs
+2. (mainly UK pedlar) disapproving someone who gives ideas to other people
+• a peddler of New Age philosophies
+Thesaurus+: ↑Speakers and talkers
+3. (drug) peddler
+old-fashioned someone who sells illegal drugs to people
+Thesaurus+: ↑Drugs - general words ↑Specific types of drug
+peddle
+peddle UK  US  [ˈped.l ̩] mainly disapproving verb transitive [peddles peddling peddled]
+1. to sell things, especially by taking them to different places
+• These products are generally peddled (from) door to door.
+• He travels around, peddling his wares.
+Thesaurus+: ↑Selling
+2. If you peddle stories or information, you spread them by telling different people
+• The organization has peddled the myth that they are supporting the local population.
+Thesaurus+: ↑Gossip and rumour
+From Longman DOCE 5th Ed. (En-En)
+peddler
+ped‧dler /ˈpedlə $ -ər/ BrE  AmE  noun [countable]
+[Date: 1300-1400; Origin: pedder 'peddler' (13-19 centuries), from ped 'basket' (13-19 centuries)]
+1. the American spelling of ↑pedlar
+2. old-fashioned someone who sells illegal drugs ⇨ pusher, dealer
+peddle
+ped‧dle /ˈpedl/ BrE  AmE  verb [transitive]
+[Date: 1500-1600; Origin: peddler]
+1. to sell goods to people, especially goods that people disapprove of because they are illegal, harmful, or of not very high quality ⇨ push, deal:
+ They were accused of peddling drugs.
+ people who peddle cigarettes to young children
+2. to try to sell things to people, especially by going from place to place:
+ Farmers come to Seoul to peddle rice.
+ a door-to-door salesman peddling his wares (=selling his goods)
+3. to try to persuade people to accept an opinion or idea which is wrong or false:
+ politicians peddling instant solutions to long-standing problems
+• • •
+THESAURUS
+▪ sell to give something to someone in exchange for money: He sold his motorcycle. | The shop sells old furniture. | Do you sell books on gardening?
+▪ export to send goods to another country to be sold: Which countries export oil to the United States?
+▪ deal in something to buy and sell a particular type of goods as part of your business: He deals in antiques.
+▪ put something up for sale/put something on the market to make something available to be bought: When the painting was first put up for sale, no one thought that it would be worth so much money. | The farm was put up for sale.
+▪ sell up British English to sell your house or your business so that you can move to a different place or do something different: They’re thinking of selling up and moving to Canada.
+▪ auction something/sell something at auction to sell things at a special event to the person who offers the most money: The contents of his home will be auctioned.
+▪ flog British English informal to sell something, especially something that is of low quality: A man at the market was flogging £10 watches.
+▪ peddle to sell cheap things in the street. Also used about selling illegal drugs and ↑pornography: Street vendors peddled American and British cigarettes. | People who peddle drugs to children should be severely punished.
+▪ traffic in something to buy and sell large quantities of illegal goods or people: They trafficked in illegal weapons. | The gang were involved in people-trafficking. | drug-trafficking
+
+backlash
+noun
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+political
+▪ It is perhaps not surprising that this caused a political backlash in the early 1990s.
+▪ I wanted to give our activists every opportunity to prepare themselves for the firestorm of controversy and political backlash that would ensue.
+public
+▪ But the potential for a public backlash is there.
+▪ Richmondshire Rifle and Pistol Club members fear a public backlash against their sport after an armed siege in Darlington.
+■ VERB
+fear
+▪ They fear a backlash from the war.
+▪ He feared backlash, and warned against it in letters.
+▪ Richmondshire Rifle and Pistol Club members fear a public backlash against their sport after an armed siege in Darlington.
+▪ McFadden turned him down - stating that he feared a backlash from his own community.
+provoke
+▪ The problem since then has been how to rekindle a spirit of democratic inquiry without provoking another conservative backlash.
+▪ And it provoked a furious backlash from Labour and union leaders.
+EXAMPLES FROM OTHER ENTRIES
+▪ a growing backlash from angry voters
+▪ Members of the Rifle and Pistol Club fear a public backlash against their sport after a recent armed raid in the village.
+▪ The attacks have sparked a bitter backlash against the revolutionary forces.
+EXAMPLES FROM CORPUS
+▪ But it was not long before a backlash began.
+▪ But it was time for backlash.
+▪ Gascoigne and his colleagues would have faced a fierce backlash had Lazio lost to bitter local rivals Roma in the Olympic Stadium.
+▪ He advised caution in the anti-bourgeois backlash, recognising the damage it could cause to the already frail economy.
+▪ In partial deference to that pOtential backlash, current incumbents did not actively seek committee endorsement.
+▪ Nevertheless, the subsequent press reviews demonstrated that no Smiths backlash was in motion.
+▪ Perhaps he will hold back, not least for fear of the international backlash such a violation of democracy would trigger.
+
+fright
+fright UK  US  [fraɪt] noun only singular or uncountable
+1. <A > the feeling of fear, especially if felt suddenly, or an experience of fear which happens suddenly
+• I lay in bed shaking with fright.
+• You gave her such a fright turning the lights out like that.
+• You gave me the fright of my life (= a very severe fright), jumping out of the shadows like that!
+Thesaurus+: ↑Fear and phobias ↑Anxiety and worry - general words
+2. take fright
+to feel fear
+• Our dog took fright at the noise of the fireworks and ran indoors.
+Thesaurus+: ↑Afraid
+ 
+• The sheep ran off in fright, bleating loudly.
+• She let out a squeak of fright at the sight of the spider.
+• I got such a fright when he flung open the door that I dropped my glass.
+• With my bad heart, I should avoid nasty frights like that.
+• We had an awful fright, I can tell you, but thank goodness we're safe now.
+Idiom: look a fright
+From Longman DOCE 5th Ed. (En-En)
+fright
+fright /fraɪt/ BrE  AmE  noun
+[Word Family: adjective: ↑frightened, ↑frightening, ↑frightful; noun: ↑fright, ↑frighteners; adverb: ↑frighteningly, ↑frightfully; verb: ↑frighten]
+[Language: Old English; Origin: fyrhto]
+1. [singular, uncountable] a sudden feeling of fear:
+ You gave me such a fright creeping up on me like that!
+get/have a fright
+ I got an awful fright when I realised how much money I owed.
+with fright
+ He was shaking with fright.
+in fright
+ Several of the children cried out in fright.
+2. take fright to be very afraid of something, especially so that you run away from it or do not do something that you were going to do:
+ The bird took fright and flew away.
+ She had promised to marry him, but took fright at the last moment.
+3. look a fright old-fashioned to look untidy or unattractive
+
+windfall
+windfall UK  [ˈwɪn d.fɔːl] US  [-fɑːl] noun countable [windfalls]
+ 
+MONEY
+1. an amount of money that you win or receive from someone unexpectedly
+• Investors each received a windfall of £3000.
+• The government is hoping to collect a windfall tax (= extra tax on a large unexpected company profit) from British Electric.
+Thesaurus+: ↑General words for amounts of money ↑Large amounts of money ↑Small amounts of money
+ 
+FRUIT
+2. a piece of fruit blown down from a tree
+• I tend to leave the windfalls for the birds to pick at.
+Thesaurus+: ↑Fruits and seeds and their parts
+From Longman DOCE 5th Ed. (En-En)
+windfall
+wind‧fall /ˈwɪndfɔːl $ -fɒːl/ BrE  AmE  noun [countable]
+1. an amount of money that you get unexpectedly:
+ his £2 million windfall in the lottery
+windfall gain/profit etc (=high profit that you did not expect to make)
+2. a piece of fruit that has fallen off a tree
+From Longman DOCE5 Extras (En-En)
+windfall
+noun
+COLLOCATIONS FROM OTHER ENTRIES
+windfall tax
+COLLOCATIONS FROM CORPUS
+■ NOUN
+gain
+▪ Meanwhile for the transnational companies that dominate the global coffee economy, the slump in coffee prices is generating windfall gains.
+▪ There was no shortage of opinions on what to do with the windfall gains.
+profit
+▪ Would the Minister find it acceptable if the same sort of windfall profits were made by the beneficiaries of the sell-offs?
+▪ For a short-term gain of a one-off windfall profit, far greater future losses were stored up.
+tax
+
+saving grace
+ˌsaving ˈgrace noun only singular UK  US 
+a good quality that something or someone has which stops them from being completely bad
+• The film's only/one saving grace is the excellent photography.
+Thesaurus+: ↑Advantage and disadvantage
+From Oxford Advanced Learners Dictionary 8th Ed.
+saving grace
+ˌsaving ˈgrace [saving grace] BrE   NAmE   noun usually singular
+the one good quality that a person or thing has that prevents them or it from being completely bad
+• Her sense of humour is her saving grace.
+From WordNet® 3.0 (En-En)
+saving grace
+noun
+1. (Christian theology) a state of sanctification by God; the state of one who is under such divine influence
+- the conception of grace developed alongside the conception of sin
+- it was debated whether saving grace could be obtained outside the membership of the church
+- the Virgin lived in a state of grace
+• Syn: ↑grace, ↑state of grace
+• Topics: ↑Christian theology
+• Hypernyms: ↑state
+2. a redeeming quality or characteristic
+- her love of music remains her one saving grace
+- her sense of humor has to be a saving grace
+- the saving grace for both developments is that they are creating jobs
+• Hypernyms: ↑characteristic
+
+extricate
+extricate UK  US  [ˈek.strɪ.keɪt] formal verb transitive [extricates extricating extricated]
+to remove or set free something with difficulty
+• It took hours to extricate the car from the sand.
+• reflexive I tried to extricate myself from the situation.
+Thesaurus+: ↑Removing and extracting ↑Separating and dividing
+Derived: extrication
+From Longman DOCE 5th Ed. (En-En)
+extricate
+ex‧tri‧cate /ˈekstrəkeɪt, ˈekstrɪkeɪt/ BrE  AmE  verb [transitive]
+[Date: 1600-1700; Language: Latin; Origin: past participle of extricare, from tricae 'small difficulties']
+1. to escape from a difficult or embarrassing situation, or to help someone escape
+extricate yourself/somebody from something
+ How was he going to extricate himself from this situation?
+2. to remove someone from a place in which they are trapped
+extricate somebody/yourself from something
+ Firemen had to extricate the driver from the wreckage.
+From Longman DOCE5 Extras (En-En)
+extricate
+verb
+COLLOCATIONS FROM CORPUS
+■ VERB
+try
+▪ And it didn't help to have that idiot Kegan see what he bad done and try to extricate him.
+▪ A complicated story unfolds, with Mitchum desperately trying to extricate himself from the trap.
+EXAMPLES FROM OTHER ENTRIES
+▪ It took firemen almost an hour to extricate the driver from the wrecked car.
+EXAMPLES FROM CORPUS
+▪ A complicated story unfolds, with Mitchum desperately trying to extricate himself from the trap.
+▪ At the same time he arranged for Burgess to be sent home to extricate Maclean before the net closed.
+▪ By nightfall all the rifle companies had been over-run; some sections, and platoons from these companies extricated themselves at nightfall.
+▪ Gao Yang had an unobstructed view of the man extricating his foot from the pot.
+▪ It is not known when Napoleon managed to extricate himself from this chaos.
+▪ They fired away with wild abandon, but luckily with little accuracy, and he was able to extricate himself.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+extricate
+
+ / 5ekstrIkeIt; `ZkstrI9ket/ v [Tn, Tn.pr] ~ sb/sth (from sth) (fml 文) set sb/sth free; release sb/sth 解脱某人[某物]; 释放某人[某物]: The bird had to be extricated from the netting. 要把小鸟从网中救出. * extricate oneself from an unhappy love affair 使自己摆脱不快的爱情纠葛.
+ 
+ PHRASES FROM OTHER ENTRIES
+defy logic/the odds etc
+▪ In the event, the cyclist defied the odds and survived.
+▪ That Jaime Guerrero is alive to attend the dinner probably defies the odds.
+long odds
+▪ Even with the delay, Lee now faces long odds.
+▪ Exactly thirty years after completing their only Wembley triumph, Leigh are at long odds to go all the way in 2001.
+▪ Has slipped down the weights and could surprise at long odds here.
+▪ Highbrook will be at longer odds than she should be as a result of her defeat last time out at Newmarket.
+▪ Talbot would have taken long odds that he was cold sober.
+the dice/odds are loaded against sb/sth
+the odds/cards are stacked against sb
+▪ Although confident, we know the odds are stacked against the climbers.
+
+overarching
+overarching UK  [ˌəʊ.vəˈrɑː.tʃɪŋ] US  [ˌoʊ.vɚˈɑːr-] formal adjective before noun
+most important, because including or affecting all other areas
+• a grand overarching strategy
+• The overarching theme of the election campaign was tax cuts.
+Thesaurus+: ↑Very important or urgent
+From Longman DOCE 5th Ed. (En-En)
+overarching
+o‧ver‧arch‧ing /ˌəʊvərˈɑːtʃɪŋ◂ $ ˌoʊvərˈɑːr-/ BrE  AmE  adjective [only before noun]
+including or influencing every part of something:
+ The crisis gave an overarching justification to the government’s policy.
+From Longman DOCE5 Extras (En-En)
+overarching
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ Productivity and efficiency are overarching concerns at the factory.
+▪ the overarching sky
+EXAMPLES FROM CORPUS
+▪ But this indeterminacy should not, and ultimately can not, be hidden or brought together under a single overarching account.
+▪ Globalization has been characterized as the overarching global political process.
+▪ Globalization is the overarching process, linked in different ways to both integration and fragmentation.
+▪ Many historians prefer of course the overarching pattern.
+
+outfit
+I. out‧fit1 /ˈaʊtfɪt/ BrE  AmE  noun [countable]
+1. a set of clothes worn together, especially for a special occasion:
+ She bought a new outfit for the party.
+ a cowboy outfit
+2. informal a group of people who work together as a team or organization:
+ My outfit was sent to Italy during the war.
+ a small advertising outfit in San Diego
+3. British English a set of equipment that you need for a particular purpose or job SYN kit:
+ a tyre repair outfit
+II. outfit2 BrE  AmE  verb (past tense and past participle outfitted, present participle outfitting) [transitive]
+to provide someone or something with a set of clothes or equipment, especially ones that are needed for a particular purpose SYN kit out
+outfit somebody/something with something
+ a car outfitted with dual controls for driver training
+outfit somebody in something
+ Members outfit themselves in Civil War clothing.
+ 
+ tenderloin
+tenderloin UK  [ˈten.d ə.lɔɪn] US  [-dɚ-] noun uncountable
+a strip of meat taken from the lower back of cows or pigs, which does not contain a lot of fat and is easy to cut or chew (= crush with the teeth)
+Thesaurus+: ↑Cuts of meat里脊肉
+do-gooder
+do-gooder UK  [ˈduː.gʊd.ə r ] US  [-ɚ] mainly disapproving noun countable
+someone who does things that they think will help other people, although the other people might not find their actions helpful
+Thesaurus+: ↑Helping and co-operating
+From Longman DOCE 5th Ed. (En-En)
+do-gooder
+do-good‧er /duː ˈɡʊdə $ -ər/ BrE  AmE  noun [countable]
+someone who helps people who are in bad situations, but who is annoying because their help is not needed – used to show disapproval:
+ I’ve got very little time for those interfering do-gooders.
+From Longman DOCE5 Extras (En-En)
+do-gooder
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ Pearson isn't just a do-gooder - he's been in prison and wants to help others stay out.
+EXAMPLES FROM CORPUS
+▪ Louise was a do-gooder, and you could never predict who would show up at her house.
+▪ Nor can the Republican majority on his panel be viewed as simply do-gooders out to restore candor to the White House.
+▪ One is a social activist with a high moral tone, an earnest do-gooder and role model to millions.
+▪ The do-gooders suddenly found themselves in the role of trying to tell the Abs what was good for them.
+▪ While southern church folk ranted about the invasion of do-gooders, they raved about black roles in Reconstruction.
+
+paradox
+para·dox [paradox paradoxes] BrE [ˈpærədɒks]  NAmE [ˈpærədɑːks]  noun
+1. countable a person, thing or situation that has two opposite features and therefore seems strange
+• He was a paradox— a loner who loved to chat to strangers.
+• It is a curious paradox that professional comedians often have unhappy personal lives.
+2. countable, uncountable a statement containing two opposite ideas that make it seem impossible or unlikely, although it is probably true; the use of this in writing
+• ‘More haste, less speed’ is a well-known paradox.
+• It's a work full of paradox and ambiguity.
+Derived Words: ↑paradoxical ▪ ↑paradoxically
+ 
+Word Origin:
+mid 16th cent. (originally denoting a statement contrary to accepted opinion): via late Latin from Greek paradoxon ‘contrary (opinion)’, neuter adjective used as a noun, from para- ‘distinct from’ + doxa ‘opinion’.
+ 
+Example Bank:
+• The author tackles one of the deepest paradoxes of life.
+• The facts pose something of a paradox.
+• The paradox about time is that it seems to go faster as we become older and less active.
+• the paradox between the real and the ideal
+• the paradox in the relationship between creativity and psychosis
+• It's a curious paradox that professional comedians often have unhappy personal lives.
+• Our study helps to resolve this apparent paradox.
+• This is one of the paradoxes of contemporary political thinking.
+
+paradoxical
+paradoxical UK  US  UK [ˌpær.əˈdɒk.sɪ.k ə l] US [ˌper.əˈdɑːk-] adjective
+• It seems paradoxical to me, but if you drink a cup of hot tea it seems to cool you down.
+Thesaurus+: ↑Logic and reason ↑Difficult to understand ↑Complicated and difficult to do ↑Puzzle and confuse
+Main entry: paradoxderived
+
+freeloader
+free‧load‧er /ˈfriːləʊdə $ -loʊdər/ BrE  AmE  noun [countable] informal
+someone who takes food, drink, or other things from other people, without giving anything in return – used to show disapproval
+—freeload verb [intransitive]
+freeload
+See main entry: ↑freeloader
+From Longman DOCE5 Extras (En-En)
+freeloader
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ Ms. Louis' attorney characterized her ex-husband as a freeloader, looking for the easy life.
+▪ The freeloaders are leaving a bad impression on the public, making it hard for those who genuinely need the government's help.
+EXAMPLES FROM CORPUS
+▪ I've had enough of freeloaders.
+▪ This man is just a freeloader.
+
+hypocrite
+noun
+EXAMPLES FROM CORPUS
+▪ A few undoubtedly purged themselves on leaving, but most could not be such hypocrites.
+▪ Crawl on your belly to the hypocrites!
+▪ He was also a hypocrite, a puritan, and a racist.
+▪ Jack failed thoroughly as a hypocrite.
+▪ Some reporters believe politicians are hypocrites, and that belief creeps into their reports.
+▪ That means his brother Joseph is required to be a scheming hypocrite.
+▪ They view the minority who are still church members as hypocrites or antiquarian oddities; or misguided worshippers of an illusion.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+hypocrisy
+
+ / hI5pCkrEsI; hI`pBkrEsI/ n [U] practice of misrepresenting one's real character, opinions, etc, esp by pretending to be more virtuous than one really is; insincerity 伪善; 虚伪.
+
+ > hypocrite / 5hIpEkrIt; `hIpE9krIt/ n person who pretends to have opinions which he does not have or to be what he is not 伪善者; 伪君子.
+ hypocritical / 9hIpE5krItIkl; 9hIpE`krItIkl/ adj of hypocrisy or a hypocrite 伪善的; 虚伪的; 伪善者的; 伪君子的: hypocritical behaviour, people 伪善的行为、人. hypocritically / -klI; -klI/ adv.
+From Oxford Advanced Learners Dictionary 8th Ed.
+hypocrite
+hypo·crite [hypocrite hypocrites] BrE [ˈhɪpəkrɪt]  NAmE [ˈhɪpəkrɪt]  noun (disapproving)
+a person who pretends to have moral standards or opinions that they do not actually have
+• Charles was a liar and a hypocrite who married her for money.
+
+heuristics
+heu‧ris‧tics /hjʊˈrɪstɪks/ BrE  AmE  noun [uncountable] formal
+the study of how people use their experience to find answers to questions or to improve performance
+heuristic
+heu‧ris‧tic /hjʊˈrɪstɪk/ BrE  AmE  adjective formal
+[Date: 1800-1900; Language: German; Origin: heuristisch, from Greek heuriskein 'to discover']
+1. heuristic education is based on discovering and experiencing things for yourself
+2. helping you in the process of learning or discovery
+—heuristically /-kli/ adverb
+From Longman DOCE5 Extras (En-En)
+heuristics
+noun
+EXAMPLES FROM CORPUS
+▪ In contrast, expert systems rely heavily on heuristics, or rules of thumb, which are much less formal.
+▪ It is as if neural networks are developing their own heuristics as they go through the iterations.
+▪ It is possible, however, to perform some heuristics on known dangers.
+▪ They are computer programs pumped full of plain old knowledge and heuristics lore from experts who lend their wisdom.
+heuristic
+adjective
+EXAMPLES FROM CORPUS
+▪ A prime example occurs during search with heuristic rules, in the choice of a rule from a conflict set.
+▪ The heuristic nature of this argument is explicitly recognized, but its dynamical consequences are of interest.
+▪ The Situationists' strategy consisted of an exploratory utopianism - a kind of heuristic projection of a future society.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+heuristic
+
+ / hjUE5rIstIk; hjJ`rIstIk/ adj (of a method of teaching) that helps or allows a learner to discover and learn things for himself （指教学法）启发式的.
+
+ > heuristics n [U] method of solving problems by evaluating past experience and moving by trial and error to a solution 启发法; 探索法.
+ 
+ walnut
+wal‧nut /ˈwɔːlnʌt $ ˈwɒːl-/ BrE  AmE  noun
+[Language: Old English; Origin: wealhhnutu, from Wealh 'Welsh person, foreigner' + hnutu 'nut'; because it was brought into Britain from abroad, probably by the Romans]
+
+1. [countable] a nut that you can eat, shaped like a human brain:
+ coffee and walnut cake
+2. [countable] (also walnut tree) a tree that produces this type of nut
+3. [uncountable] the wood from a walnut tree, often used to make furniture
+From Longman DOCE5 Extras (En-En)
+walnut
+noun
+COLLOCATIONS FROM OTHER ENTRIES
+walnut/maple/oak etc veneer
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+black
+▪ The dining table and chairs are all in black walnut.
+▪ I walked down the highway to Sabinal, eating black walnuts from the walnut tree.
+▪ The colour of apple also blended very beautifully with the lighter tones of the burr black walnut.
+
+scrap
+I. scrap1 /skræp/ BrE  AmE  noun
+[Sense 1-4: Date: 1300-1400; Language: Old Norse; Origin: skrap 'scraps']
+[Sense 5: Date: 1600-1700; Origin: Perhaps from scrape]
+1. PAPER/CLOTH [countable] a small piece of paper, cloth etc
+scrap of
+ He wrote his address on a scrap of paper.
+ a rug made out of old scraps of material
+2. OLD OBJECTS [uncountable] materials or objects that are no longer used for the purpose they were made for, but can be used again in another way:
+ The equipment was sold for scrap.
+ Scrap metal (=metal from old cars, machines etc) fetched high prices after the war.
+3. FOOD scraps [plural] pieces of food that are left after you have finished eating:
+ My mother fed the dog on scraps to save money.
+table/kitchen scraps American English
+4. INFORMATION [countable] a small amount of information, truth etc
+scrap of
+ He obtained every scrap of information available.
+ There isn’t a single scrap of evidence.
+5. FIGHT [countable] informal a short fight or argument:
+ He’s always getting into scraps with other dogs.
+• • •
+THESAURUS
+▪ piece an amount of something that has been cut or separated from the main part: Could I have another piece of cake? | a piece of broken glass | Emma cut the pie into eight pieces.
+▪ bit a piece. Bit is more informal than piece and is often used about smaller pieces: The notes were written on bits of paper. | He threw a bit of wood onto the fire.
+▪ lump a small piece of something solid or firm that does not have a regular shape: two lumps of sugar | a lump of coal | a lump of clay
+▪ scrap a small piece of paper, cloth etc that is no longer needed: I wrote the phone number on a scrap of paper. | The dog was eating scraps of food off the floor.
+▪ strip a long narrow piece of cloth, paper etc: a strip of cloth | The leather had been cut into strips.
+▪ sheet a thin flat piece of something such as paper, glass, or metal: a blank sheet of paper | a sheet of aluminium
+▪ slice a thin flat piece of bread, cake, meat etc cut from a larger piece: a slice of pizza | Cut the tomatoes into thin slices.
+▪ chunk a piece of something solid that does not have a regular shape – used especially about food, rock, or metal: The fruit was cut into large chunks. | a chunk of bread
+▪ hunk a large piece with rough edges, which has been cut or has broken off a bigger piece of food, rock etc: a big hunk of cheese | hunks of concrete
+▪ block a piece of something solid, which has straight sides: concrete blocks | a block of cheese | a block of ice
+▪ slab a thick flat piece of stone, or of cake, meat etc: The floor had been made from stone slabs. | a slab of beef
+▪ cube a piece that has six square sides – used especially about food: a cube of sugar | ice cubes
+▪ wedge a piece that has a thick end and a pointed end, and is shaped like a ↑triangle – used especially about food and metal: a wedge of cheese
+▪ bar a block of soap, chocolate, candy, or metal, which has straight sides: a chocolate bar | a bar of soap | gold bars worth more than £26 million
+▪ rasher British English a slice of bacon: I usually have two rashers of bacon for breakfast.
+morale
+morale UK  US  [məˈrɑːl] noun uncountable
+the amount of confidence felt by a person or group of people, especially when in a dangerous or difficult situation
+• A couple of victories would improve the team's morale enormously.
+• There have been a lot of recent redundancies so morale is fairly low.
+Thesaurus+: ↑Confidence and self-assurance ↑Showing arrogance and conceit
+From Longman DOCE 5th Ed. (En-En)
+morale
+mo‧rale /məˈrɑːl $ məˈræl/ BrE  AmE  noun [uncountable]
+[Date: 1700-1800; Language: French; Origin: moral, from Latin moralis; ⇨ ↑moral1]
+the level of confidence and positive feelings that people have, especially people who work together, who belong to the same team etc:
+ A win is always good for morale.
+low/high morale
+ low staff morale
+ The failed coup caused a loss of morale within the army.
+boost/raise/improve/build morale
+ There is a need to raise morale in the teaching profession.
+ the Prince’s morale-boosting (=intended to raise morale) mission to the war-torn country
+maintain/keep up/restore morale
+ The media feels pressure to keep the morale of the country up in war time.
+• • •
+COLLOCATIONS
+■ verbs
+▪ raise/improve morale The special meetings were intended to raise morale.
+▪ boost/bolster morale (=improve morale) The wins have boosted team morale.
+▪ keep up/maintain morale (=keep morale high) It was becoming difficult to keep up the morale of the troops.
+▪ affect morale (=have an effect on morale, usually to make it worse) The uncertainty has badly affected morale.
+▪ lower/damage morale We need to avoid damaging people's morale.
+▪ sap morale (=to gradually lower morale) Knowing it was all pointless sapped my morale.
+▪ destroy morale The possibility of big job cuts was destroying morale.
+▪ restore morale (=make people confident and positive again) The new manager realized that his first job would be to restore morale.
+▪ be good/bad for morale Well-deserved praise is always good for morale.
+■ ADJECTIVES/NOUN + morale
+▪ high/good Morale among the staff was high.
+▪ low/poor The pay levels have resulted in low morale within the company.
+▪ shaky (=morale that could easily become low) The team's morale is shaky after their series of losses.
+▪ sagging morale (=when people are getting less confident and positive) He did his best to boost the sagging morale of the civil service.
+▪ staff/team morale Positive feedback is good for staff morale.
+■ morale + NOUN
+▪ a morale booster/boost (=something that improves morale) A letter from home was always a morale booster.
+▪ morale problems (=when the morale of a group is low) A lack of information can cause morale problems.
+■ phrases
+▪ a lack/loss of morale Rising sickness levels among your employees may show a loss of morale.
+• • •
+THESAURUS
+▪ confidence the feeling that you have the ability to do things well, and to not make mistakes or be nervous in new situations: You need patience and confidence to be a good teacher. | have the confidence to do something: ‘We have the confidence to beat Brazil,’ said Sampson. | After the accident it took a long time before she had the confidence to get back in a car again. | full of confidence (=very confident): I went into the test full of confidence, but it was more difficult than I had imagined.
+▪ self-confidence a strong belief that you can do things well and that other people will like you, which means you behave confidently in most situations: He’s new in the job but he has plenty of self-confidence. | Studies show that girls tend to lose some of their self-confidence in their teenage years. | Students who get some kind of work experience develop greater self-confidence and better communication skills.
+▪ morale the level of confidence, satisfaction, and hope that people feel, especially a group of people who work together: low/high morale: Morale among the soldiers has been low. | keep up morale (=keep it at a high level): They sang songs to keep up their morale until the rescuers arrived.
+▪ assurance/self-assurance a feeling of calm confidence in your own abilities, especially because you have a lot of experience: She envied the older woman’s assurance. | Danby spoke to the committee with the self-assurance of an expert.
+▪ self-esteem the feeling that you are someone who deserves to be liked and respected: Getting a job did a lot for her self-esteem. | Sports should build a child’s self-esteem, not damage it.
+From Longman DOCE5 Extras (En-En)
+morale
+noun
+COLLOCATIONS FROM OTHER ENTRIES
+boost sb’s confidence/morale/ego
+▪ The win boosted the team’s confidence.
+flagging spirits/energy/morale
+▪ By now the wine had lifted her flagging spirits.
+morale/confidence booster
+▪ Mail from home is a big morale booster for faraway troops.
+morale/ego boost
+▪ The poll provided a morale boost for the Conservatives.
+staff morale (=how happy and confident the staff somewhere feel)
+▪ Staff morale has been badly affected by the reorganisation.
+
+idiosyncrasy
+id‧i‧o‧syn‧cra‧sy /ˌɪdiəˈsɪŋkrəsi/ BrE  AmE  noun (plural idiosyncrasies) [countable]
+[Date: 1600-1700; Language: Greek; Origin: idiosynkrasia, from idio- ( ⇨ ↑idiolect) + synkerannynai 'to mix together']
+1. an unusual habit or way of behaving that someone has:
+ my uncle’s idiosyncrasies
+2. an unusual or unexpected feature that something has:
+ one of the many idiosyncrasies of English spelling
+—idiosyncratic /ˌɪdiəsɪnˈkrætɪk◂/ adjective
+From Longman DOCE5 Extras (En-En)
+idiosyncrasy
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ Flight crews must become familiar with each airplane's idiosyncrasies.
+▪ She's easy to work for, and her employees don't mind her idiosyncrasies.
+EXAMPLES FROM CORPUS
+▪ As Lyman and Scott explain: Free territory is carved out of space and affords the opportunities for idiosyncrasy and identity.
+▪ His judgments were also swayed by preconceptions based on past experiences or even personal idiosyncrasies.
+▪ Like they could not wait to abolish her conveniences and idiosyncrasies.
+▪ Nor does it provide a rationale for people with questionable motives to vent their hostilities or express their idiosyncrasies.
+▪ Normally, harsh discipline was personalized as the idiosyncrasies of those superiors.
+▪ The idiosyncrasies of its founding Communist fathers played a role in this key difference.
+▪ There were others who remarked that even saints should be permitted an idiosyncrasy or two!
+▪ When not trying to match his 15-hour days, they regale each other with endless stories about his idiosyncrasies and absent-mindedness.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+idiosyncrasy
+
+ / 9IdIE5sINkrEsI; 9IdIE`sINkrEsI/ n person's particular way of thinking, behaving, etc that is clearly different from that of others （个人独有的）习性、癖好、气质: One of her little idiosyncrasies is always washing in cold water. 她有个怪习惯, 就是洗什么都爱用冷水.
+ > idiosyncratic / 9IdIEsIN5krAtIk; 9IdIosIN`krAtIk/ adj.
+ eccentricity
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ In his films, Levinson chronicled Baltimore's eccentricities and charms.
+EXAMPLES FROM CORPUS
+▪ Britain's eccentricity is not entirely harmless.
+▪ Halley's comet has an eccentricity of about 0.9675 permitting it to visit us every 76 years.
+▪ His father, fortunately, had certain eccentricities.
+▪ Jane had always thought that an eccentricity but now it occurred to her that it was what a spy would do.
+▪ The class, used to his eccentricities, waited patiently.
+▪ There was a grotesque inventiveness, a deliberate eccentricity in the idea of the cuckoo clock that Melanie had never encountered.
+▪ Without stage drama, her eccentricity blossomed, and drew Jack and Rob into it.
+eccentric
+I. adjective
+COLLOCATIONS FROM OTHER ENTRIES
+a trifle eccentric/odd/unexpected etc
+COLLOCATIONS FROM CORPUS
+■ ADVERB
+rather
+▪ They present as a major force in society attitudes and tastes which would be regarded as rather eccentric and marginal in Britain.
+▪ Mrs Castle had formed a rather eccentric view about my scale of living.
+▪ In a recent interview the rather eccentric group claimed to be the disciples of David Icke.
+▪ He hadn't really expected to actually see Mrs Constantine; she was gaining a rather eccentric reputation.
+▪ Turner suffered from asthma for many years, but persisted with his rather eccentric temperance lecturing.
+■ NOUN
+orbit
+▪ In summary the binary consists of two compact stars of not dissimilar mass moving in tight eccentric orbits.
+▪ These asteroids may then be disturbed by gravitational perturbations by Jupiter into eccentric orbits, and then evolve into Earth-crossing orbits.
+▪ The spacecraft enters into a more eccentric orbit, however the height and position of perigee remains the same.
+EXAMPLES FROM OTHER ENTRIES
+▪ an eccentric millionaire
+▪ Mr. Withers is a little eccentric, but he's basically harmless.
+▪ Our neighbour is an eccentric old lady who has about 25 cats.
+EXAMPLES FROM CORPUS
+▪ He wondered how could he remember such eccentric fragments?
+▪ Madame Arcati was springing on to tables, falling backwards off stools and dancing eccentric tangos.
+▪ Master of the striking Southern image, Carville had some of the same eccentric appeal for reporters as did Ross Perot.
+▪ Probable sad answer: cling to it as part of Britain's eccentric genius.
+▪ That's why you carefully cultivate eccentric habits to set you apart from others.
+▪ The kidnapper met twice with an eccentric representative of the Lindberghs.
+▪ They walked slowly along one wall, laughing and talking and only incidentally looking at the eccentric pictures.
+II. noun
+EXAMPLES FROM OTHER ENTRIES
+▪ Many of Dr. Brook's colleagues consider him an eccentric.
+EXAMPLES FROM CORPUS
+▪ Hill had established himself as a local hero and also as something of an eccentric.
+▪ Pet Heaven was full of rather endearing eccentrics.
+▪ The Smiths were cast as eccentrics ... which they are.
+▪ There was never a time when any more than a handful of eccentrics advocated the establishment of a separate black nation-state.
+▪ They evoke romantic images of humming orchard hives and summer sweetness, presided over by veiled eccentrics steeped in arcane lore.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+eccentric
+
+ / Ik5sentrIk; Ik`sZntrIk/ adj 
+ (of people, behaviour) unusual; peculiar; not conventional or normal （指人、举止）异常的; 古怪的; 不合常规的; 不正常的: his eccentric habits 他那古怪的习惯 * an eccentric old lady 一位古怪的老太太. 
+ (a) (of circles) not having the same centre （指圆形）没有共同圆心的. Cf 参看 concentric. (b) (of orbits) not circular （指轨道）不正圆的. (c) (of planets, etc) moving in an eccentric orbit （指行星等）在不正圆的轨道上运行的.
+
+ > eccentric n 
+ eccentric person 古怪的人: The club seemed to be full of eccentrics. 这个俱乐部里好像都是怪人. 
+ mechanical device consisting of a disc at the end of a shaft for changing circular movement into backward-and-forward movement 偏心器; 偏心轮.
+ eccentrically / -klI; -klI/ adv.
+ eccentricity / 9eksen5trIsEtI; 9ZksZn`trIsEtI/ n 
+ [U] quality of being eccentric; strangeness of behaviour, etc 古怪; 怪异; 怪僻等: eccentricity of style, clothing, manners, ideas 古怪的样式、服装、举止、想法. 
+ [C] instance of this; strange or unusual act or habit 古怪; 怪异; 怪僻: One of his eccentricities is sleeping under the bed instead of on it. 他的怪僻之一是睡觉睡在床底下而不睡在床上.
+ 
+ demerit
+demerit UK  US  [ˌdiːˈmer.ɪt] noun countable [demerits]
+1. formal a fault or disadvantage
+• We need to consider the merits and demerits of the plan.
+Thesaurus+: ↑Faults and mistakes
+2. US a mark given to someone, especially a student in a school, because they have done something wrong or broken a rule
+• She got three demerits for lateness on this term's report.
+Thesaurus+: ↑Marks and results
+From Longman DOCE 5th Ed. (En-En)
+demerit
+de‧mer‧it /diːˈmerət, diːˈmerɪt/ BrE  AmE  noun [countable]
+1. formal a bad quality or feature of something
+demerit of
+ The merits and demerits (=the good and bad qualities) of this argument have been explored.
+2. American English a mark showing that a student has behaved badly at school ⇨ merit
+From Longman DOCE5 Extras (En-En)
+demerit
+noun
+EXAMPLES FROM CORPUS
+▪ And Lord Hodson was concerned primarily with the substantive merits and demerits of the Bill, not with its legal technicalities.
+▪ We sort of kept this demerit scoreboard for the last eight years, until we ran out of space.
+▪ With the particular merits and demerits of these proposals I am not here directly concerned.
+▪ You get demerits if you miss a meeting or come late to dinner without calling beforehand.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+demerit
+
+ / di:5merIt; di`mZrIt/ n (fml 文) fault; defect 缺点; 不足; 欠缺: consider the merits and demerits of a system 考虑一个制度的长处和短处.
