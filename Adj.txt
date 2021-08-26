@@ -12552,6 +12552,7 @@ something or someone that is extremely useful or skilful SYN miracle, wonder:
 marvel of
  the marvels of modern science
  
+<<<<<<< HEAD
  convoluted
 convoluted UK  [ˈkɒn.və.luː.tɪd] US  [ˈkɑːn.və.luː.t ̬ɪd] adjective
 1. very twisted
@@ -12782,3 +12783,517 @@ hands down
 • It is hands down the best movie this year.
 see also ↑hands-down adj.
 Main entry: ↑handidiom
+=======
+ insoluble
+
+ / In5sCljUbl; In`sBljEbl/ adj 
+ (of substances) that cannot be dissolved; not soluble （指物质）不能溶解的. 
+ (fig 比喻) that cannot be solved or explained 不能解决的; 不能解释的: an insoluble problem, mystery, riddle, etc 不能解决的问题、无法解释的奥秘、不解之谜.
+From Longman DOCE5 Extras (En-En)
+insoluble
+adjective
+COLLOCATIONS FROM CORPUS
+■ NOUN
+problem
+▪ But there is a difference between a confusing experience and an insoluble problem.
+▪ This cut through the insoluble problem posed in previous attempts to collect betterment values created by public action.
+▪ These are no longer insoluble problems.
+▪ Feeling saddled with insoluble problems. 6.
+▪ The government is faced with an apparently insoluble problem.
+▪ So we find him circling for months around the insoluble problem of Kee, exulting and then despairing, then exulting again.
+▪ The peace movement in the 1930s was faced with quite insoluble problems.
+EXAMPLES FROM OTHER ENTRIES
+▪ At this point, the crisis appears insoluble.
+▪ The cleaning-up operation after the oil spill will be difficult but not insoluble.
+▪ The government has to deal with what seems like an insoluble political problem -- racial harmony within the community.
+
+hesitant
+hesitant UK  US  [ˈhez.ɪ.t ə nt] adjective
+If you are hesitant, you do not do something immediately or quickly because you are nervous or not certain
+• You seemed a bit hesitant about recommending that restaurant - is something wrong with it?
+• She gave me a hesitant smile.
+Thesaurus+: ↑Hesitating ↑Uncertainty
+Derived: hesitancy ▪ hesitantly
+From Longman DOCE 5th Ed. (En-En)
+hesitant
+hes‧i‧tant /ˈhezətənt, ˈhezɪtənt/ BrE  AmE  adjective
+uncertain about what to do or say because you are nervous or unwilling:
+ Gail gave me a hesitant little smile.
+hesitant about (doing) something
+ They seemed hesitant about coming in.
+hesitant to do something
+ She is hesitant to draw conclusions until the study is over.
+—hesitantly adverb
+From Oxford Advanced Learners Dictionary 8th Ed.
+hesitant
+hesi·tant BrE [ˈhezɪtənt]  NAmE [ˈhezɪtənt]  adjective
+slow to speak or act because you feel uncertain, embarrassed or unwilling
+• a hesitant smile
+• the baby's first few hesitant steps
+• ~ about sth She's hesitant about signing the contract.
+• ~ to do sth Doctors are hesitant to comment on the new treatment.
+Derived Word: ↑hesitantly
+ 
+Word Origin:
+late Middle English: from Latin haesitant- ‘being undecided’, from the verb haesitare, from haerere ‘stick, stay’.
+ 
+Thesaurus:
+hesitant [hesitant hesitantly] adj.
+• He's hesitant about signing the contract.
+uncertain • • unsure • • faltering • • halting • • doubtful • • dubious • |written tentative •
+Opp: confident, Opp: certain
+hesitant/uncertain/unsure/doubtful/dubious about/of sth
+hesitant/uncertain/faltering/halting/tentative steps
+a/an hesitant/uncertain/faltering/halting voice
+ 
+Example Bank:
+• She felt somewhat hesitant about accepting the offer.
+• Holding his hand, she managed to take her first few hesitant steps.
+• It was a few seconds before she heard a hesitant reply.
+• She's hesitant about signing the contract.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+hesitant
+ / 5hezItEnt; `hZzEtEnt/ adj tending to be slow inspeaking or acting because of uncertainty or unwillingness犹豫的; 踌躇的; 迟疑的: a hesitant reply, manner, voice, speaker 犹疑不决的回答、举棋不定的样子、结结巴巴的声音、说话吞吞吐吐的人 * I'm rather hesitant about signing this. 我不大愿意签这个字.
+ > hesitancy / -EnsI; -EnsI/ n [U] state or quality of being hesitant 犹豫; 踌躇; 迟疑.
+ hesitantly adv.
+ 
+ dubious
+dubious UK  [ˈdjuː.bi.əs] US  [ˈduː-] adjective
+1. <A > thought not to be completely true or not able to be trusted
+• These claims are dubious and not scientifically proven.
+• He has been associated with some dubious characters.
+• Ruth Ellis has the dubious (= bad) distinction of being the last woman to be hanged in Britain.
+Thesaurus+: ↑Uncertainty ↑Hesitating ↑Achievable ↑Dishonest
+2. <A > feeling doubt or not feeling certain
+• I'm dubious about his promises to change his ways.
+Thesaurus+: ↑Doubt and ambivalence ↑Hesitating
+ 
+• We were always a bit dubious about the advantages these changes would actually bring.
+• Let us think for a moment about the dubious benefits of nuclear technology.
+• He's under investigation because of his dubious accounting practices.
+• How exactly did they work out these figures? I think they're a bit dubious, personally.
+• He was involved in some dubious activities in the past which his former colleagues have only hinted at.
+Derived: dubiously
+From Longman DOCE 5th Ed. (En-En)
+dubious
+du‧bi‧ous /ˈdjuːbiəs $ ˈduː-/ BrE  AmE  adjective
+[Date: 1500-1600; Language: Latin; Origin: dubius, from dubare 'to be unable to decide']
+1. probably not honest, true, right etc:
+ The firm was accused of dubious accounting practices.
+ Many critics regard this argument as dubious or, at best, misleading.
+ The assumption that growth in one country benefits the whole world is highly dubious.
+2. [not before noun] not sure whether something is good or true SYN doubtful:
+ I can see you are dubious; take some time to think about it.
+dubious about
+ Some universities are dubious about accepting students over the age of 30.
+ ‘Are you sure you know what you are doing?’ Andy said, looking dubious.
+3. the dubious honour/distinction/pleasure (of doing something) a dubious honour etc is the opposite of an honour – used about something unpleasant that happens:
+ The Stephensons had the dubious honor of being the 100th family to lose their home in the fire.
+4. not good or not of good quality:
+ The room was decorated in dubious taste.
+—dubiously adverb
+—dubiousness noun [uncountable]
+• • •
+THESAURUS
+■ seeming to be dishonest
+▪ suspicious if someone or something seems suspicious, they make you think that something dishonest or illegal is happening: The police are treating the boy’s death as suspicious.
+▪ dubious if something seems dubious, you think it may not be completely true, right, or honest: He has a rather dubious reputation. | It all sounds highly dubious to me. | the country’s dubious record on human rights
+▪ shady shady business deals or people seem to be dishonest or connected with secret and illegal activities: Several senior members of the party had been involved in shady deals. | a shady character
+▪ shifty someone who looks shifty looks as if they are doing or planning something dishonest: The man on the market stall looked a bit shifty when he gave me my change.
+▪ dodgy British English informal probably dishonest and not to be trusted – used especially to say that you do not want to be involved with someone or something: There’s something a bit dodgy about him. | dodgy business deals
+
+hinky (comparative hinkier or more hinky, superlative hinkiest or most hinky)
+(informal) Acting suspiciously; strange, unusual; acting in a manner as if having something to hide, or seemingly crooked.
+1970 7 February 1970: Sgt. MacDonald (William Boyett), Re: Adam-12, Log 54 Impersonation (Season 2, Episode 16) referring to Detective Forest (John Hudson)
+I thought he might be acting hinky.
+1990 Oct 3: Kurt Guntheroth, Re: Market selling under highest bid?, misc.invest, [1]
+There's nothing hinky about this.
+1993 Jeb Stuart & David Touhy, The Fugitive, imdb.com, [2]
+This is hinky, this guy's a college graduate...
+1995 Sep 26: Richard Steven Walz, Re: Odd etching chemistry; was: Re: Does dry ice fog hurt electronics?, sci.electronics, [3]
+And I don't know if that copper reaction you teased me with for H2CO3 would run that direction, would it? Looks hinky.
+2000 Carl Hiaasen, Sick Puppy, p. 101
+Given the hinky events of the past twenty-four hours, he had come to suspect that his own unhappy spouse had conspired in the defacing of his prize taxidermy, the trashing of the red BMW, and even the infesting of his luxury sport-utility vehicle with shit-eating insects.
+2004 Bruce Schneier qt. Diana Dean, Boston Globe (2004)
+A US customs agent, Diana Dean, questioned him at the border. He was fidgeting, sweaty, and jittery. He avoided eye contact. In Dean's own words, he was acting "hinky." Ressam's car was eventually searched, and he was arrested.
+2006 Dec 06: Hester Mofet, Re: Tip in '95 Disappearance of TV Anchor Jodi Huisentruit Doesn't Yield Much, alt.true-crime, [4]
+There's something hinky about this whole thing.
+(informal) Suspicious (of something).
+1993 Aug 20: Dave Ratcliffe, Re: Long Trips With Cats, rec.pets.cats, [5]
+I think they get hinky if everything is shaking around and they can't see much.
+1995 Jun 23: Rosco Benson, Re: HP Browning Mag safety, remove it?, rec.guns, [6]
+Lots of folks are hinky about removing ANY "safety" feature from a firearm.
+1999 Mar 14: Trn0, Re: HELP w/ taking a knife to another country (TANZANIA), rec.knives, [7]
+If the customs inspector gets hinky about letting them into the country, you can let him keep one as a gift.
+2005 Feb 11: tiny dancer, Re: Pregnant Ky. Woman Kills Attacker, alt.true-crime, [8]
+I was feeling a bit hinky about this one too.
+(informal) dishonest; sketchy; shady
+(informal, derogatory) Weird; nonstandard.
+1968 Sept 21: Officer Pete Malloy, as written by Jack Webb, intuiting that a citizen’s report of burglars casing the neighborhood is probably legitimate, Adam-12, Season 1, Episode 1 at 9:32, [9]
+This [call] shouldn’t be hinky – I’ve got a hunch they’re still floating around.
+1995 Feb 1: Gharlane of Eddore, Re: E2 is great SF, rec.arts.sf.tv, [10]
+So either they've got a *really* hinky space drive, or they're just just plain fat-assed lard-brained idiots with delusions of competence.
+1997 Mar 11: Karen J. Cravens, Re: WRITERS!, rec.games.frp.misc, [11]
+Heck, I'd *much* rather the 68xxx architecture had caught on than Intel, with its hinky memory-handling.
+2006 Jan 4: Andrew H. Wakefield, Got the lathe -- followup, rec.crafts.metalworking, [12]
+The motor is rather hinky.
+2008 Sept 8: Dave Letterman discussing the climate crisis, The Late Show with Dave Letterman, Show #2980, rec.arts.tv, [13]
+I’ve been persuaded that something is hinky, and by God, you can quote me on that. Something is hinky.
+
+overarching
+overarching UK  [ˌəʊ.vəˈrɑː.tʃɪŋ] US  [ˌoʊ.vɚˈɑːr-] formal adjective before noun
+most important, because including or affecting all other areas
+• a grand overarching strategy
+• The overarching theme of the election campaign was tax cuts.
+Thesaurus+: ↑Very important or urgent
+From Longman DOCE 5th Ed. (En-En)
+overarching
+o‧ver‧arch‧ing /ˌəʊvərˈɑːtʃɪŋ◂ $ ˌoʊvərˈɑːr-/ BrE  AmE  adjective [only before noun]
+including or influencing every part of something:
+ The crisis gave an overarching justification to the government’s policy.
+From Oxford Advanced Learners Dictionary 8th Ed.
+overarching
+over·arch·ing [overarching] BrE [ˌəʊvərˈɑːtʃɪŋ]  NAmE [ˌoʊvərˈɑːrtʃɪŋ]  adjective usually before noun (formal)
+very important, because it includes or influences many things
+• an overarching aim/concept/issue
+• the overarching themes of race, violence and disorder
+From Longman DOCE5 Extras (En-En)
+overarching
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ Productivity and efficiency are overarching concerns at the factory.
+▪ the overarching sky
+EXAMPLES FROM CORPUS
+▪ But this indeterminacy should not, and ultimately can not, be hidden or brought together under a single overarching account.
+▪ Globalization has been characterized as the overarching global political process.
+▪ Globalization is the overarching process, linked in different ways to both integration and fragmentation.
+▪ Many historians prefer of course the overarching pattern.
+▪ On the debit side, he frustratingly falls short of any overarching analysis.
+heterogeneous
+heterogeneous UK  [ˌhet. ə r.əˈdʒiː.ni.əs] US  [ˌhet ̬.ə.roʊ-] adjective formal
+consisting of parts or things that are very different from each other
+• Switzerland is a heterogeneous confederation of 26 self-governing cantons.
+Compare homogeneous
+Thesaurus+: ↑Different and difference
+Derived: heterogeneity
+From Longman DOCE 5th Ed. (En-En)
+heterogeneous
+het‧e‧ro‧ge‧ne‧ous /ˌhetərəʊˈdʒiːniəs $ -roʊ-/ BrE  AmE  (also het‧e‧rog‧e‧nous /ˌhetəˈrɒdʒənəs◂ $ -ˈrɑː-/) adjective formal
+[Date: 1600-1700; Language: Medieval Latin; Origin: heterogeneus, from Greek, from hetero- ( ⇨ ↑hetero-) + genos 'type']
+consisting of parts or members that are very different from each other OPP homogeneous:
+ a heterogeneous collection of buildings
+—heterogeneously adverb
+—heterogeneity /ˌhetərəʊdʒəˈniːəti, ˌhetərəʊdʒɪˈniːəti $ -roʊ-/ noun [uncountable]
+From Oxford Advanced Learners Dictionary 8th Ed.
+heterogeneous
+het·ero·ge·neous BrE [ˌhetərəˈdʒiːniəs]  NAmE [ˌhetərəˈdʒiːniəs]  adjective (formal)
+consisting of many different kinds of people or things
+• the heterogeneous population of the United States
+Opp: ↑homogeneous
+Derived Word: ↑heterogeneity
+ 
+Word Origin:
+[heterogeneity heterogeneous] early 17th cent.: from medieval Latin heterogeneus, from Greek heterogenēs, from heteros ‘other’ + genos ‘a kind’.
+ 
+Example Bank:
+• a fairly heterogeneous group of students
+• socially heterogeneous individuals
+• She cited the heterogeneous population of the United States to support her argument.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+heterogeneous
+
+ / 9hetErE5dVi:nIEs; 9hZtErE`dVinIEs/ adj made up of different kinds; varied in composition由不同种类组成的; 成分混杂的: the heterogeneous population of the USA, ie of many different races由不同种族组成的美国人口. Cf 参看 homogeneous.> heterogeneity / -dVI5ni:EtI; -dVE`niEtI/ n [U]. heterogeneously adv.
+From Longman DOCE5 Extras (En-En)
+heterogeneous
+adjective
+COLLOCATIONS FROM CORPUS
+■ NOUN
+group
+▪ Patients with left ventricular ejection fraction greater than 30% and no inducible ventricular arrhythmia comprise a heterogeneous group.
+▪ In addition, peptic ulcer disease represents a heterogeneous group of disorders attributable to a variety of genetic and environmental causes.
+EXAMPLES FROM OTHER ENTRIES
+▪ The U.S. has a very heterogeneous population.
+EXAMPLES FROM CORPUS
+▪ Both antibodies are a largely heterogeneous family.
+▪ In the first stage, we primarily dealt with homogeneous networks, then moved to inter-networks that are heterogeneous in nature.
+▪ Services is simply too heterogeneous to be an interesting category.
+▪ We have already made the point that most political cultures are heterogeneous.
+▪ Young next to old, doing-well next to down-and-out: a heterogeneous mass present for its own mutually exclusive reasons.
+
+misty-eyed
+misty-eyed UK  [ˌmɪs.tiˈaɪd] US  [-t ̬i-] adjective
+looking as if you are going to cry because you feel emotional about something
+• He goes all misty-eyed whenever he hears that song.
+Thesaurus+: ↑Weeping and crying
+From Oxford Advanced Learners Dictionary 8th Ed.
+misty-eyed
+ˌmisty-ˈeyed f18 [misty-eyed] BrE   NAmE   adjective
+feeling full of emotion, as if you are going to cry
+• I get very misty-eyed over our wedding pictures.
+
+monthslong (not comparable)
+Lasting for multiple months
+2007 April 14, Adam Nossiter, “Ex-Senator Will Not Run for Governor of Louisiana”, in New York Times‎[1]:
+A former United States Senator, John B. Breaux, ended his monthslong flirtation with the Louisiana governor’s race Friday evening, declaring that he would be not be a candidate in the election this fall.
+
+progressively
+See main entry: ↑progressive
+progressive
+I. pro‧gres‧sive1 /prəˈɡresɪv/ BrE  AmE  adjective
+[Word Family: noun: ↑progress, ↑progression, ↑progressive; verb: ↑progress; adverb: ↑progressively; adjective: ↑progressive]
+1. supporting new or modern ideas and methods, especially in politics and education:
+ a progressive administration
+ progressive and forward-looking policies
+2. happening or developing gradually over a period of time
+progressive decline/reduction/increase etc
+ the progressive increase in population
+ Britain’s progressive decline as a world power
+3. technical the progressive form of a verb is used to show that an action or activity is continuing to happen. In English, it consists of the verb ‘be’ followed by the ↑present participle, as in ‘I was waiting for the bus’. SYN continuous
+—progressively adverb:
+ The situation became progressively worse.
+—progressiveness noun [uncountable]
+—progressivism noun [uncountable]
+II. progressive2 BrE  AmE  noun [countable]
+[Word Family: noun: ↑progress, ↑progression, ↑progressive; verb: ↑progress; adverb: ↑progressively; adjective: ↑progressive]
+someone with modern ideas who wants to change things
+
+Before, after and already Thesaurus+ Level 3 (69)
+advance verb 2 go forward; noun 2 forward; adjective 3 romance
+afore conjunction
+after preposition 1; adverb 2; conjunction 2
+after- prefix
+afterwards adverb
+already adverb 1; adverb 2
+ante- prefix
+as it is idiom
+background noun 1 things behind
+before conjunction 1
+beforehand adverb
+behind adverb
+beyond adverb 2 outside a limit
+bring up the rear idiom
+by preposition 3 not later than
+come hard on the heels of something idiom
+early adjective 1
+ere conjunction
+erstwhile adjective
+first adverb 1
+following preposition; adjective 1; noun 1 next
+former adjective
+formerly adverb
+front noun 7 place
+gone preposition
+hard on somebody's heels idiom
+heretofore adverb
+hot on somebody's track idiom
+immediate adjective 4
+in advance idiom
+in advance of something idiom
+in hot pursuit idiom
+in the wake of something idiom
+later adverb 1; adverb 2; adjective 1 in the future
+leave something in your wake idiom
+next adverb 1; adverb 2; adverb 4
+nose to tail idiom
+post- prefix
+posterior adjective
+pre- prefix
+pre-existing adjective
+preceding adjective
+prepared adjective 2
+previous adjective
+prior adjective 1 earlier; adjective 2 earlier
+prologue noun 2
+rear adjective
+scarcely adverb 2 only just
+secondary adjective 3 coming after
+shortly adverb 2
+subsequent adjective
+subsequently adverb
+successor noun
+thereafter adverb
+this determiner 2
+time noun 27 suitable point
+whereupon conjunction
+
+working
+I. work‧ing1 S2 W2 /ˈwɜːkɪŋ $ ˈwɜːr-/ BrE  AmE  adjective [only before noun]
+[Word Family: noun: ↑work, ↑workaholic, ↑worker, ↑working, WORKINGS; adjective: ↑workable ≠ ↑unworkable, ↑overworked, ↑working; verb: ↑work, ↑rework]
+1.
+a) having a job that you are paid for ⇨ employed:
+ a working mother
+ Many working women rely on relatives for childcare.
+ A smaller working population will have to support a growing number of retired people.
+b) old-fashioned having a physical or practical job
+working man/people/folk
+ the ordinary working man
+2. working hours/day/week the time that people spend doing their job:
+ In a normal working day, I see around 6 or 7 clients.
+during/outside working hours
+ Telephone at any time during normal working hours.
+ Many mothers prefer flexible working hours.
+ We do a 37-hour working week.
+3. working day a day of the week when most people work. In Britain and the US this is usually Monday to Friday SYN workday:
+ It will be returned within three working days (=three days, not including weekends or public holidays).
+4. working conditions/environment etc the situation in which you work, especially the physical things such as pay or safety:
+ improvements in working conditions
+5. working practices/methods the way in which you do your job:
+ training in up-to-date working practices
+6. working life the part of your adult life when you have a paid job:
+ He spent all his working life in a factory.
+7. (in) working order working properly and not broken
+be in good/perfect/full etc working order
+ The car was old, but the engine was still in good working order.
+ the amount of exercise needed to keep your body in working order
+8. working relationship the way that people work together
+working relationship with/between
+ They want to establish a better working relationship between medical and nursing staff.
+good/close/effective etc working relationship
+ We have a close working relationship with other voluntary groups.
+9. a working knowledge of something enough knowledge of a system, subject, language etc to be able to use it or to do a particular job:
+ A good working knowledge of the building regulations is necessary for the job.
+10. working clothes (also work clothes) clothes which you wear for work or are designed for people to work in
+11. working model a model that has parts that move
+12. working parts the parts of a machine that move
+13. working definition/theory/title a ↑definition, idea etc that may not be exactly right but is good enough to use when you start working on something
+14. working majority British English enough support in parliament for a government to continue making laws and ruling a country
+15. working breakfast/lunch/dinner a breakfast, lunch etc which is also a business meeting
+16. working memory technical the part of a person’s or computer’s memory which stores information about the thing being worked on now
+II. working2 BrE  AmE  noun
+[Word Family: noun: ↑work, ↑workaholic, ↑worker, ↑working, WORKINGS; adjective: ↑workable ≠ ↑unworkable, ↑overworked, ↑working; verb: ↑work, ↑rework]
+1. the workings [plural] the way something such as a system, piece of equipment, or organization works
+the workings of
+ his knowledge of the inner workings of the department
+ I shall never understand the workings of his mind (=how he thinks).
+2. flexible/short-time etc working a particular way of working, especially relating to the hours which someone works
+3. [countable usually plural] a mine or part of a mine where soil has been dug out in order to remove metals or stone ⇨ quarry
+
+translucent
+translucent UK  [trænzˈluː.s ə nt] US  [træns-] often approving adjective
+If an object or a substance is translucent, it is almost transparent, allowing some light through it in an attractive way
+• translucent plastic/glass
+• This china is so fine and delicate that it's translucent.
+• Delia's skin has a translucent quality.
+Compare opaque; transparent
+Thesaurus+: ↑Transparent
+Derived: translucence
+From Longman DOCE 5th Ed. (En-En)
+translucent
+trans‧lu‧cent /trænzˈluːsənt $ træns-/ BrE  AmE  adjective
+[Date: 1400-1500; Language: Latin; Origin: present participle of translucere 'to shine through', from lucere 'to shine']
+not transparent, but clear enough to allow light to pass through:
+ Blue veins showed through her translucent skin.
+—translucence noun [uncountable]
+From Oxford Advanced Learners Dictionary 8th Ed.
+translucent
+trans·lu·cent BrE [trænsˈluːsnt]  NAmE [trænsˈluːsnt]  BrE [trænzˈluːsnt]  NAmE [trænzˈluːsnt]  adjective (formal)
+allowing light to pass through but not transparent
+• The sky was a pale translucent blue.
+• His skin was translucent with age.
+Derived Word: ↑translucence
+See also: ↑translucency
+ 
+Word Origin:
+[translucence translucent] late 16th cent. (in the Latin sense): from Latin translucent- ‘shining through’, from the verb translucere, from trans- ‘through’ + lucere ‘to shine’.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+translucent
+
+ / trAnz5lu:snt; trAnz`lusnt/ adj allowinglight to pass through but not transparent 半透明的: lavatorywindows made of translucent glass 用半透明玻璃做的厕所窗户.
+ > translucence / -sns; -sns/, translucency / -snsI; -snsI/ ns [U]: the shimmering translucency of her fine silk gown 她那闪光的半透明丝制华贵长袍.
+From Longman DOCE5 Extras (En-En)
+translucent
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ translucent paper
+EXAMPLES FROM CORPUS
+▪ But beyond that intimate corner was a wall of translucent glass, giving an uninterrupted view of the mountains.
+▪ On the top are slanting translucent screens, on which material can be projected for convenient reading.
+▪ Saute garlic and onion until onion is translucent.
+
+undivided
+undivided UK  US  [ˌʌn.dɪˈvaɪ.dɪd] adjective
+1. existing as a whole, not in separate parts
+Thesaurus+: ↑Complete and whole ↑Very and extreme
+2. undivided attention
+complete attention
+• If you just wait till I've finished this bit of work you will have/I will give you my undivided attention.
+Thesaurus+: ↑Complete and whole ↑Very and extreme
+From Longman DOCE 5th Ed. (En-En)
+undivided
+un‧di‧vid‧ed /ˌʌndɪˈvaɪdəd◂, ˌʌndɪˈvaɪdɪd◂/ BrE  AmE  adjective
+[Word Family: noun: ↑divide, ↑division, ↑subdivision; adjective: ↑divided ≠ ↑undivided, ↑divisible ≠ ↑indivisible, ↑divisive; verb: ↑divide, ↑subdivide]
+1. [usually before noun] complete:
+ I’ll give the matter my undivided attention.
+2. not separated into smaller parts:
+ an undivided country
+ undivided
+ / 9QndI5vaIdId; 9QndE`vaIdId/ adj (idm 习语) give one's undivided attention (to sth/sb); get/have sb's undivided attention concentrate fully (on sth/sb); be the one thing or person that sb attends to 全神贯注（于某事物[某人]）; 为某人关注的对象: You have my (full and) undivided attention. 你是我一心（一意）注意的人. * Tom seldom got his mother's undivided attention. 汤姆很少受到母亲全心的关怀.
+From Longman DOCE5 Extras (En-En)
+undivided
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+sb’s full/complete/undivided attention
+▪ He gave the task his undivided attention.
+undivided loyalty (=loyalty that goes only to one person or group)
+▪ He has the undivided loyalty of Manchester United fans.
+COLLOCATIONS FROM CORPUS
+■ NOUN
+attention
+▪ Give the telephone conversation your undivided attention.
+▪ Each has received her undivided attention.
+▪ Now able to give his undivided attention to Thome, Orosco walked him.
+▪ A man may be looking forward to regaining the undivided attention of his wife.
+▪ He had given his undivided attention to decorating his house for more than a week.
+▪ Give us, pray, the benefit of your undivided attention.
+▪ On the upside, I can safely say that I had the undivided attention of the class.
+
+soft-spoken
+ˌsoft-ˈspoken [soft-spoken] BrE   NAmE   (also less frequent ˌsoftly-ˈspoken) adjective
+having a gentle and quiet voice
+• He was a pleasant, soft-spoken man.
+See also: ↑softly-spoken
+
+
+visceral
+visceral UK  [ˈvɪs. ə r. ə l] US  [-ɚ-] adjective
+ 
+EMOTIONAL
+1. literary based on deep feeling and emotional reactions rather than on reason or thought
+• visceral hatred/excitement
+• His approach to acting is visceral rather than intellectual.
+Thesaurus+: ↑Strong feelings
+ 
+BODY PARTS
+2. specialized relating to the large organs inside the body, including the heart, stomach, lungs and intestines
+Thesaurus+: ↑Relating to particular parts of the body
+viscera
+viscera UK  [ˈvɪs. ə r.ə] US  [-ɚ-] specialized plural noun [visceras]
+the large organs inside the body, including the heart, stomach, lungs and intestines
+Thesaurus+: ↑Other major organs
+From Longman DOCE 5th Ed. (En-En)
+visceral
+vis‧ce‧ral /ˈvɪsərəl/ BrE  AmE  adjective
+1. literary visceral beliefs and attitudes are the result of strong feelings rather than careful thought:
+ his visceral hatred of the ruling class
+2. medical relating to the viscera
+
+overriding
+o‧ver‧rid‧ing /ˌəʊvəˈraɪdɪŋ◂ $ ˌoʊ-/ BrE  AmE  adjective [only before noun]
+[Word Family: noun: ↑ride, ↑rider, ↑riding, ↑override; verb: ↑ride, ↑override; adjective: ↑overriding]
+more important than anything else:
+ a question of overriding importance
+ Their overriding concern is with efficient crime control.
+override
+o‧ver‧ride /ˌəʊvəˈraɪd $ ˌoʊ-/ BrE  AmE  verb (past tense overrode /-ˈraʊd $ -ˈroʊd/, past participle overridden /-ˈrɪdn/) [transitive]
+[Word Family: noun: ↑ride, ↑rider, ↑riding, ↑override; verb: ↑ride, ↑override; adjective: ↑overriding]
+1. to use your power or authority to change someone else’s decision:
+ The EU commission exercised its power to override British policy.
+2. to be regarded as more important than something else:
+ The needs of the mother should not override the needs of the child.
+3. to stop a machine doing something that it does by itself:
+ Can you override the automatic locking system?
+—override /ˈəʊvəraɪd $ ˈoʊ-/ noun [countable]:
+ a manual override
+ 
+ 
+>>>>>>> 18d4d3da0f269a2a02b9d6fff094f86d2b9b89d7

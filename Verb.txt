@@ -14013,6 +14013,7 @@ THESAURUS
 ▪ compel [usually passive] formal to force someone to do something using official power or authority. Also used when someone has to do something because of their situation: The town was surrounded and compelled to surrender. | I felt compelled to offer them some kind of explanation. | You are compelled by law to carry an ID card.
 ▪ coerce /kəʊˈɜːs $ ˈkoʊɜːrs/ formal to force someone to do something by threatening them: Local people were coerced into joining the rebel army.
 ▪ be obliged to do something formal if someone is obliged to do something, they must do it because it is the law or the rule, or because of the situation they are in: You are not obliged to say anything which may harm your defence in court. | They were obliged to sell the land
+<<<<<<< HEAD
 >>>>>>> e924fea0b443bcd45a71d539319f42a70414700c
 
 
@@ -14237,3 +14238,346 @@ turn upon somebody/something phrasal verb formal
 1. to suddenly attack someone, using physical violence or unpleasant words SYN turn on
 2. if a situation, event, argument etc turns upon a particular thing or idea, it depends on that thing SYN turn on:
  The court case turned upon a technicality of company law.
+=======
+
+
+comprise
+com‧prise W3 AC /kəmˈpraɪz/ BrE  AmE  verb [not in progressive] formal
+[Date: 1400-1500; Language: Old French; Origin: past participle of comprendre, from Latin comprehendere; ⇨ ↑comprehend]
+1. [linking verb] to consist of particular parts, groups etc:
+ The house comprises two bedrooms, a kitchen, and a living room.
+be comprised of somebody/something
+ The committee is comprised of well-known mountaineers.
+► Do not say that something ‘comprises of’ things or people.
+2. [transitive] to form part of a larger group of people or things SYN constitute, make up:
+ Women comprise a high proportion of part-time workers.
+
+THESAURUS
+▪ consist of/be made up of to be formed from two or more things or people: Lunch consisted of sandwiches and fruit. | The apartment consisted of three rooms. | The audience was largely made up of families.
+▪ be composed of to consist of something – used especially when saying which natural substances something contains, or what kind of people are in a group: Every chemical element is composed of atoms. | Venus’ atmosphere is mainly composed of carbon dioxide. | The team was composed of leading scientists from around the world.
+▪ comprise /kəmˈpraɪz/ formal to consist of the things mentioned. Comprise can also be used to talk about the people or things which form something: The event comprises a champagne reception, two-course lunch, and a fashion show. | Men still comprise the majority of people who have the disease.
+▪ make up (also constitute formal) to be the things or people that form something: Women constitute a significant part of the workforce. | Toys make up about 10% of the company’s sales.
+
+
+Describing fractions and proportions
+▪ According to this pie chart, a third of ▪ students' leisure time is spent watching TV.
+One in five ▪ hours is/are spent socializing.
+▪ Socializing accounts for ▪ / makes up ▪ / comprises ▪ about 20% of leisure time.
+▪ Students spend twice as much ▪ time playing computer games as doing sport.
+Three times as many ▪ hours are spent playing computer games as reading.
+▪ The figure for playing computer games is three times higher than ▪ the figure for reading.
+The largest proportion of ▪ time is spent playing computer games.
+note at ↑half
+Synonyms at ↑consist
+Language Banks at ↑expect, ↑fall, ↑illustrate, ↑increase
+ 
+Synonyms:
+consist of sb/sth
+comprise • make up sth • constitute • be composed of sb/sth
+These words all mean to be formed from the things or people mentioned, or to be the parts that form sth.
+consist of sb/sth • to be formed from the things, people or activities mentioned: ▪ Their diet consists largely of vegetables.
+comprise • (rather formal) to be formed from the things or people mentioned: ▪ The collection comprises 327 paintings.
+Comprise can also be used to refer to the parts or members of sth: ▪ Older people comprise a large proportion of those living in poverty. However, this is less frequent.
+make up sth • (rather informal) to be the parts or people that form sth: ▪ Women make up 56% of the student numbers.
+constitute • to be the parts or people that form sth: ▪ People under the age of 40 constitute the majority of the labour force.
+be composed of sb/sth • (rather formal) to be formed from the things or people mentioned: ▪ Around 15% of our diet is composed of protein.
+which word?
+Consist of sb/sth is the most general of these words and the only one that can be used for activities with the -ing form of a verb: ▪ My work at that time just consisted of typing letters. The other main difference is between those verbs that take the whole as the subject and the parts as the object: ▪ The group consists of/comprises/is made up of/is composed of ten people. and those that take the parts as the subject and the whole as the object: ▪ Ten people make up/constitute/comprise the group. It is not correct to use ‘comprises of’ or ‘is composed by/from’.
+
+overtake
+overtake UK  [ˌəʊ.vəˈteɪk] US  [ˌoʊ.vɚ-] [overtook], [overtaken] verb [overtook overtaken overtakes overtaking]
+GO PAST
+1. <A > transitive to go past something by being a greater amount or degree
+• Our US sales have now overtaken our sales in Europe.
+• We'd planned to hold a meeting tomorrow, but events have overtaken us (= things have changed).
+Thesaurus+: ↑Surpassing in quality or number
+2. <A > intransitive or transitive UK (US pass) to come from behind another vehicle or a person and move in front of them
+• Always check your rear view mirror before you overtake (another car).
+Thesaurus+: ↑Driving and operating road vehicles
+• I accelerated to overtake the bus.
+• Garcia was gaining on her opponent throughout the race, but only overtook her at the very end.
+• A continuous white line in the middle of the road means no overtaking.
+• DVDs are overtaking videos in popularity.
+HAPPEN
+3. transitive to happen to a person or a place suddenly and unexpectedly
+• The family was overtaken by tragedy several years ago, and they still haven't recovered.
+Thesaurus+: ↑Surprising and shocking ↑Making people sad, shocked and upset
+From Longman DOCE 5th Ed. (En-En)
+overtake
+o‧ver‧take /ˌəʊvəˈteɪk $ ˌoʊvər-/ BrE  AmE  verb (past tense overtook /-ˈtʊk/, past participle overtaken /-ˈteɪkən/)
+[Word Family: noun: ↑takings, ↑undertaking, ↑take, ↑taker; verb: ↑take, ↑overtake, ↑undertake]
+1. [intransitive and transitive] to go past a moving vehicle or person because you are going faster than them and want to get in front of them:
+ He pulled out to overtake the van.
+ Never try to overtake on a bend.
+2. [transitive] to develop or increase more quickly than someone or something else and become more successful, more important, or more advanced than them:
+ Television soon overtook the cinema as the most popular form of entertainment.
+ Hingis has now overtaken her in the world tennis rankings.
+3. [transitive] if something bad, especially a feeling, overtakes you, it happens to you suddenly and has a strong effect on you ⇨ overcome
+be overtaken by something
+ She was overtaken by emotion and started to cry.
+ A terrible sense of panic overtook him.
+4. be overtaken by events if you are overtaken by events, the situation changes, so that your plans or ideas are not useful any more:
+ The diplomatic negotiations were soon overtaken by events.
+ 
+ 
+ attribute
+attribute noun countable UK  US  [ˈæt.rɪ.bjuːt] [attributes]
+a quality or characteristic that someone or something has
+• Organizational ability is an essential attribute for a good manager.
+Thesaurus+: ↑Conditions and characteristics
+ 
+verb UK  US  [əˈtrɪb.jʊt], [-juːt]
+Phrasal Verb: attribute something to somebody
+From Longman DOCE 5th Ed. (En-En)
+attribute
+I. at‧tri‧bute1 AC /əˈtrɪbjuːt $ -bjət/ BrE  AmE  verb
+[Date: 1300-1400; Language: Latin; Origin: past participle of attribuere, from ad- 'to' + tribuere; ⇨ ↑tribute]
+attribute something to somebody/something phrasal verb
+1. to believe or say that a situation or event is caused by something:
+ The fall in the number of deaths from heart disease is generally attributed to improvements in diet.
+2. if people in general attribute a particular statement, painting, piece of music etc to someone, they believe that person said it, painted it etc:
+ a saying usually attributed to Confucius
+3. to believe or say that someone or something has a particular quality:
+ One should not attribute human motives to animals.
+—attribution /ˌætrəˈbjuːʃən, ˌætrɪˈbjuːʃən/ noun [uncountable]
+II. at‧tri‧bute2 AC /ˈætrəbjuːt, ˈætrɪbjuːt/ BrE  AmE  noun [countable]
+a quality or feature, especially one that is considered to be good or useful:
+ What attributes should a good manager possess?
+• • •
+THESAURUS
+▪ characteristic something that is typical of someone or something and makes them easy to recognize: He had several characteristics which made him different to the rest of his family. | the physical characteristics of the brain | He studied the special characteristics of adult speech addressed to children.
+▪ quality a characteristic of a person, especially a good one such as kindness or intelligence: Tina has a lot of good qualities. | I’m not sure about his leadership qualities. | Obedience is a quality that my father admires.
+▪ feature an important or interesting characteristic of something: it seems to be a feature of modern society that we tend to judge ourselves by our work above everything else. | A curious feature of the novel is the absence of women. | The building still has many of its original features.
+▪ property [usually plural] technical a characteristic of a substance or object, for example hardness or elasticity, or how it behaves - used especially in scientific contexts: We examined the physical properties of various metals. | changes in the electrical properties of cells | Some plants have healing properties.
+▪ attribute formal a good or useful characteristic: I suspected I probably did not quite possess all the attributes required to succeed at the highest level. | All living things are able to reproduce their kind, an attribute which no machine possesses..
+▪ good/bad points good or bad characteristics – used when someone or something has both good and bad characteristics: The seller will obviously emphasize the car’s good points. | Draw up a list of your partner’s good and bad points.
+From Oxford Advanced Learners Dictionary 8th Ed.
+attribute
+at·tri·bute AW [attribute attributes attributed attributing] verb, noun
+verb BrE [əˈtrɪbjuːt] ; NAmE [əˈtrɪbjuːt] 
+1. ~ sth to sth to say or believe that sth is the result of a particular thing
+• She attributes her success to hard work and a little luck.
+2. to say or believe that sb is responsible for doing sth, especially for saying, writing or painting sth
+• ~ sth The committee refused to attribute blame without further information.
+• ~ sth to sb This play is usually attributed to Shakespeare.
+Verb forms: 
+ 
+Word Origin:
+late 15th cent.: the noun from Old French attribut; the verb from Latin attribut- ‘allotted’: both from the verb attribuere, from ad- ‘to’ + tribuere ‘assign’.
+ 
+Example Bank:
+• Climate change is widely attributed to the build-up of greenhouse gases.
+• The goals commonly attributed to management are status, power, salary and security.
+• They claim that one in twenty deaths can be directly attributed to air pollution.
+• a quote that has often been falsely attributed to George Patton
+Derived Word: ↑attribution
+ 
+noun BrE [ˈætrɪbjuːt] ; NAmE [ˈætrɪbjuːt] 
+a quality or feature of sb/sth
+• Patience is one of the most important attributes in a teacher.
+• The most basic attribute of all animals is consciousness.
+ 
+Word Origin:
+late 15th cent.: the noun from Old French attribut; the verb from Latin attribut- ‘allotted’: both from the verb attribuere, from ad- ‘to’ + tribuere ‘assign’.
+ 
+Example Bank:
+• His physical attributes were much admired.
+• Patience is an essential attribute for a teacher.
+• He lists the ten most important attributes of a good school.
+• In modern society, the positive attributes of age are often ignored.
+• Those possessing the necessary physical attributes will emerge as the best sportsmen.
+ 
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+attribute 1
+
+1 / E5trIbju:t; E`trIbjJt/ v [Tn.pr] ~ sth to sb/sth regard sth as belonging to, caused by or produced by sb/sth 认为某事物属于某人[某事物]; 认为某事物由某人[某事物]引起或产生: This play is usually attributed to Shakespeare. 这个剧本通常认为是莎士比亚作的. * She attributes her success to hard work and a bit of luck. 她认为她的成功是由于勤奋加上一点儿运气而得来的.
+
+ > attributable / E5trIbjUtEbl; E`trIbjJtEbl/ adj [pred 作表语] ~ to sb/sth that can be attributed to sb/sth 可归属或归因于某人[某事物]: Is this painting attributable to Michelangelo? 这幅画是米开朗琪罗画的吗?
+ attribution / 9AtrI5bju:Fn; 9AtrE`bjuFEn/ n 
+ [U] attributing sth to sb/sth 将某事物归属或归因于某人[某事物]. 
+ [C] thing or quality attributed to sb/sth 所归属或归因于某人[某事物]的事物或特性.
+attribute 2
+
+2 / 5AtrIbju:t; `AtrE9bjut/ n 
+ quality regarded as a natural or typical part of sb/sth 属性; 特质; 性质: Her greatest attribute was her kindness. 她最大的特点是为人厚道. * Patience is one of the most important attributes in a teacher. 当教师最重要的一个品性就是要有耐心. 
+ object recognized as a symbol of a person or his position 人物或其职位的标志; 象征: The sceptre is an attribute of kingly power. 节杖是国王权力的象征.
+From Longman DOCE5 Extras (En-En)
+attribute
+I. verb
+COLLOCATIONS FROM CORPUS
+■ NOUN
+success
+▪ I attribute Guruji's healing success to two main factors.
+▪ Q: To what do you attribute this success?
+▪ Many successful companies in the most advanced industrial countries would attribute much of their success to revised approaches to quality assurance.
+
+increase
+increase verb intransitive or transitive UK  US  [ɪnˈkriːs] [increases increasing increased]
+<E > to (make something) become larger in amount or size
+• Incidents of armed robbery have increased over the last few years.
+• The cost of the project has increased dramatically/significantly since it began.
+• Gradually increase the temperature to boiling point.
+• Increased/Increasing efforts are being made to end the dispute.
+Compare decrease
+Thesaurus+: ↑Increasing and intensifying
+ 
+Common errors:
+Increase is not usually followed by the adverb 'up'. Don't say 'increase up', say increase:
+✗ The number of homeless people has increased up by 5%.
+• The number of homeless people has increased by 5%.
+ 
+• We need to increase public awareness of the disease.
+• Our main aim is to increase sales by 12% this year.
+• Studies show that if a working environment is pleasant, productivity increases.
+• Students do find that their workload increases throughout the course.
+• Life expectancy in Europe has increased greatly in the 20th century.
+ 
+noun countable or uncountable UK  US  [ˈɪn.kriːs]
+1. <E > a rise in the amount or size of something
+• price/tax increases
+• There were 39, 000 new cases last year - an increase of 7 per cent.
+• Any increase in production would be helpful.
+Thesaurus+: ↑Increasing and intensifying
+2. on the increase
+increasing
+• Homelessness is on the increase in many cities.
+Thesaurus+: ↑Increasing and intensifying
+ 
+Collocations:
+Adjectives
+an alarming dramatic marked significant substantial increase
+• There has been an alarming increase in armed robberies recently.
+a big considerable huge large massive increase
+• The war saw a huge increase in the number of women working in factories.
+a modest slight small increase
+• Publishing showed a modest increase in profits.
+annual average monthly overall increase
+• We received an annual increase of 2% on our salaries.
+rapid sharp sudden increase
+• There was a sharp increase in the price of petrol.
+gradual steady increase
+• There has been a gradual increase in the number of people carrying donor cards.
+Types
+budget capital cost of living pay price rate spending tax wage increase
+• Tax increases will never be popular with the public.
+Prepositions
+an increase in sth
+• They were expected to work longer hours with no increase in pay.
+an increase of [an amount]
+• We are hoping for an increase of 20% in annual sales.
+an increase from [one amount] to [a higher amount]
+• Members saw an increase from £45 to £60 in their monthly fees.
+(be) on the increase
+• Car theft is on the increase.
+an increase over sth
+• The grant represents a 50% increase over previous funding levels.
+Nouns
+a percentage increase
+• I can tell you the percentage increases in property values anywhere in the country.
+a [10/40, etc] percent increase
+• We have witnessed a 100 percent increase in house prices over the last two years.
+rate of increase
+• They wanted to slow the rate of increase in health care spending.
+Verbs
+report see show an increase
+• The company reported huge increases in profits.
+cause lead to result in an increase
+• They fear that the new road will result in an increase of heavy traffic near their homes.
+
+blindside
+blindside US  [ˈblaɪn d.saɪd] US verb transitive [blindsides blindsiding blindsided]
+to surprise someone, usually with harmful results
+• The recession blindsided a lot of lawyers who had previously taken for granted their comfortable income.
+Thesaurus+: ↑Surprising and shocking ↑Making people sad, shocked and upset
+From Longman DOCE 5th Ed. (En-En)
+blindside
+blind‧side /ˈblaɪndsaɪd/ BrE  AmE  verb [transitive] American English informal
+1. to hit the side of a vehicle with your vehicle in an accident:
+ Their car was blindsided by a bus at the intersection.
+2. to give someone an unpleasant surprise:
+ I was blindsided by his suggestion.
+ grapple
+grapple UK  US  [ˈgræp.l ̩] verb intransitive [grapples grappling grappled]
+to fight, especially in order to win something
+• The children grappled for the ball.
+Thesaurus+: ↑Fighting
+Phrasal Verbs: grapple with somebody ▪ grapple with something
+From Longman DOCE 5th Ed. (En-En)
+grapple
+grap‧ple /ˈɡræpəl/ BrE  AmE  verb [intransitive]
+[Date: 1300-1400; Language: Old French; Origin: grappelle, from grape; ⇨ ↑grape]
+to fight or struggle with someone, holding them tightly SYN wrestle
+grapple with
+ Two men grappled with a guard at the door.
+grapple with something phrasal verb
+to try hard to deal with or understand something difficult:
+ The Government has to grapple with the problem of unemployment.
+ Molly’s upstairs grappling with her maths homework.
+ 
+ PARTY
+5. throw a party
+to have a party
+• Janet threw a party for Jack's fiftieth birthday.
+Thesaurus+: ↑Celebrating and entertaining
+ 
+ANGER
+6. throw a fit/tantrum
+to experience and show a strong feeling of anger, especially suddenly
+• My mother threw a fit when she saw what a mess we'd made of her kitchen.
+
+causation
+causation UK  [kɔːˈzeɪ.ʃ ə n] US  [kɑː-] formal noun uncountable
+the process of causing something to happen or exist
+Thesaurus+: ↑Causing things to happen
+From Longman DOCE 5th Ed. (En-En)
+causation
+cau‧sa‧tion /kɔːˈzeɪʃən $ kɒː-/ BrE  AmE  noun [uncountable] formal
+1. the action of causing something to happen or exist
+2. causality
+
+recede
+re‧cede /rɪˈsiːd/ BrE  AmE  verb [intransitive]
+[Date: 1400-1500; Language: Latin; Origin: recedere, from cedere 'to go']
+1. if something you can see or hear recedes, it gets further and further away until it disappears
+recede into
+ footsteps receding into the distance
+2. if a memory, feeling, or possibility recedes, it gradually goes away:
+ The pain in his head gradually receded.
+3. if water recedes, it moves back from an area that it was covering:
+ The flood waters finally began to recede in November.
+4. if your hair recedes, you gradually lose the hair at the front of your head:
+ He was in his mid-forties, with a receding hairline.
+5. receding chin a chin that slopes backwards
+From Oxford Advanced Learners Dictionary 8th Ed.
+recede
+re·cede [recede recedes receded receding] BrE [rɪˈsiːd]  NAmE [rɪˈsiːd]  verb
+1. intransitive to move gradually away from sb or away from a previous position
+• The sound of the truck receded into the distance.
+• She watched his receding figure.
+2. intransitive (especially of a problem, feeling or quality) to become gradually weaker or smaller
+• The prospect of bankruptcy has now receded (= it is less likely).
+• The pain was receding slightly.
+3. intransitive (of hair) to stop growing at the front of the head
+• a middle-aged man with receding hair/a receding hairline
+4. intransitive a ~ chin a chin that slopes backwards towards the neck
+
+kick in
+kick in phrasal verb informal [kicks in kicking in kicked in kicked in kicked in]
+to start to have an effect or to happen
+• It takes half an hour for the tablets to kick in.
+Thesaurus+: ↑Starting and beginning ↑Starting again
+Main entry: kickphrasal verb
+From Longman DOCE 5th Ed. (En-En)
+kick in
+kick in phrasal verb (see also ↑kick)
+1. informal to start or to begin to have an effect:
+ The storm is expected to kick in shortly after sunrise.
+ The painkillers kicked in and he became sleepy.
+2. kick in (something) to join with others in giving money or help SYN chip in:
+ Bill never wants to kick in.
+ We were each asked to kick in 50 cents toward the cost.
+3. kick sb’s head/face/teeth in to injure someone badly by kicking them:
+ He threatened to come round and kick my head in.
+4. kick a door in to kick a locked door so hard that it breaks open:
+ We had to get the police to kick the door in.
+>>>>>>> 18d4d3da0f269a2a02b9d6fff094f86d2b9b89d7

@@ -21214,6 +21214,7 @@ EXAMPLES FROM CORPUS
 ▪ I was driving in London recently and was sent crazy by roadworks and closed bridges at almost every turn.
 ▪ It happened on a contra-flow system where there are roadworks.
 ▪ This section of the project was undertaken in advance of the lain roadworks contract.
+<<<<<<< HEAD
 
 token
 I. to‧ken1 /ˈtəʊkən $ ˈtoʊ-/ BrE  AmE  noun [countable]
@@ -21918,3 +21919,559 @@ From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 demerit
 
  / di:5merIt; di`mZrIt/ n (fml 文) fault; defect 缺点; 不足; 欠缺: consider the merits and demerits of a system 考虑一个制度的长处和短处.
+=======
+>>>>>>> e924fea0b443bcd45a71d539319f42a70414700c
+
+gradient
+gradient UK  US  [ˈgreɪ.di. ə nt] (US also grade) noun countable [gradients]
+how steep a slope is
+• a steep/gentle gradient
+Thesaurus+: ↑Describing angles, lines and orientations
+See also: grade
+From Longman DOCE 5th Ed. (En-En)
+gradient
+gra‧di‧ent /ˈɡreɪdiənt/ BrE  AmE  noun [countable]
+a slope or a degree of slope, especially in a road or railway SYN grade American English:
+ a steep gradient
+From Oxford Advanced Learners Dictionary 8th Ed.
+gradient
+gra·di·ent [gradient gradients] BrE [ˈɡreɪdiənt]  NAmE [ˈɡreɪdiənt]  noun
+1. (also grade especially in NAmE) the degree to which the ground slopes, especially on a road or railway
+• a steep gradient
+• a hill with a gradient of 1 in 4 (or 25%)
+2. (technical) the rate at which temperature, pressure, etc. changes, or increases and decreases, between one region and another
+See also: ↑grade
+ 
+Word Origin:
+mid 19th cent.: from ↑grade, on the pattern of salient.
+ 
+Example Bank:
+• The field was on a slight gradient.
+• The road has a fairly steep gradient.
+• The hill has a gradient of 1 in 4 (or 25%).
+• The line here is on a steep gradient climbing towards Merstham Tunnel.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+gradient
+
+ / 5greIdIEnt; `^redIEnt/ n degree of slope, as on a road, railway, etc （公路, 铁路等的）坡度, 斜率: a steep gradient 陡峭的坡度 * a hill with a gradient of 1 in 4 (or 25%) 坡度为1:4（或25%）的山岗.
+From Longman DOCE5 Extras (En-En)
+gradient
+noun
+COLLOCATIONS FROM OTHER ENTRIES
+a steep gradientformal (= a steep slope – used especially when talking about how steep something is)
+▪ The Snowdon Mountain Railway has the steepest gradient of any locomotive track in Britain.
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+steep
+▪ It is possible that the steep age gradient observed in Figure 5.1 is mainly due to these factors.
+▪ I am sure this must be the steepest natural gradient of temperature on the surface of our planet.
+▪ The railway bridge at this point represented the steepest gradient on the whole system at 1:16.
+▪ It is the steep temperature gradient that makes it possible for us to work black smokers with a large measure of safety.
+▪ The steepest gradient is 3.3 %, and the minimum curve radius is 400m.
+▪ There were some steep gradients, particularly Anerley Hill, leading up the Crystal Palace.
+▪ The main objects of this alignment are to achieve a short wheel base, and a fairly steep gradient.
+▪ There are very few, if any, abrupt breaks in climate, only steeper and less steep climatic gradients.
+■ NOUN
+concentration
+▪ Again a vertical stable salt concentration gradient is set up, and a heat source introduced.
+▪ Here, the continuing water diuresis may have washed out the medullary concentration gradient and led to a protracted concentrating defect.
+▪ Lawrence then supposes that bristles grow soas to point down the concentration gradient.
+▪ In diffusion, particles flow down the concentration gradient.
+▪ This morphogen concentration gradient can thus be used to determine the position of the cells.
+
+expense
+ex‧pense S3 W2 /ɪkˈspens/ BrE  AmE  noun
+[Word Family: noun: ↑expenditure, ↑expense, expenses; verb: ↑expend; adverb: ↑expensively ≠ ↑inexpensively; adjective: ↑expensive ≠ ↑inexpensive]
+1. [uncountable and countable] the amount of money that you spend on something:
+ He borrowed £150,000 and used the money for legal expenses.
+ Conference rooms were equipped at great expense.
+2. expenses money that you spend on things such as travel and food while you are doing your job, and which your employer then pays to you
+on expenses
+ Can you claim this meal on expenses?
+3. at the expense of somebody/something if something is done at the expense of someone or something else, it is only achieved by doing something that could harm the other person or thing:
+ the growth in short breaks, at the expense of longer package holidays
+4. at sb’s expense
+a) if you do something at someone’s expense, they pay for you to do it:
+ Her mansion was refurnished at taxpayers’ expense.
+b) if you make jokes at someone’s expense, you laugh about them and make them seem stupid or silly:
+ Louis kept making jokes at his wife’s expense.
+5. all expenses paid having all of your costs for hotels, travel, meals etc paid for by someone else:
+ The prize is an all-expenses-paid trip to Rio.
+• • •
+COLLOCATIONS (for Meaning 1)
+■ ADJECTIVES/NOUN + expense
+▪ the extra/additional expense Is it worth the extra expense to get a room with a sea view?
+▪ an unnecessary expense Paying extra for leather seats seemed like an unnecessary expense.
+▪ living expenses (=money that you spend on rent, food, and things such as electricity, gas etc) She receives £80 a week, from which she must pay for all her living expenses.
+▪ operating expenses (=money that a company spends on running its business) We must reduce our operating expenses.
+▪ legal/medical expenses We had to get a loan to pay for my husband’s medical expenses. | The tenant can incur considerable legal expenses.
+▪ household expenses (=money spent looking after a house and the people in it) Unfortunately, household expenses don’t go away just because you’re in hospital or out of work.
+▪ funeral expenses (=the cost of arranging a funeral) She had a small insurance policy to cover the funeral expenses.
+■ phrases
+▪ at great/huge/considerable/vast expense (=used when saying that something costs a lot of money) The tiles were imported at great expense from Italy. | Recently, and at vast expense to the taxpayer, the bridge was rebuilt.
+▪ at your own expense (=used when saying that you pay for something yourself) He had copies of the book printed at his own expense.
+▪ at (the) public expense (=paid for by the public through taxes) The bridge was built at public expense.
+▪ go to the expense of doing something (=do something that costs a lot of money) The council must now decide whether to go to the expense of appealing through the courts.
+▪ spare no expense (in doing something) (=spend a lot of money to buy the best things) Her parents spared no expense in arranging the wedding. | Everything has been provided tonight – no expense has been spared!
+■ verbs
+▪ incur an expense formal (=have to pay for something) Potential buyers incur the expense of a survey and legal fees.
+• • •
+COLLOCATIONS (for Meaning 2)
+■ NOUN + expenses
+▪ travel/travelling expenses The company will pay the travelling expenses involved in getting to and from the meeting.
+▪ entertainment/business expenses The president receives an unspecified allowance for business and entertainment expenses.
+▪ relocation/moving expenses Successful candidates will receive a comprehensive benefits package that includes relocation expenses if needed.
+■ verbs
+▪ pay sb’s expenses They agreed to pay my travel expenses and initial accommodation costs.
+▪ claim expenses (=officially ask your employer to pay you back money that you have spent while doing your job) If you have to stay overnight, you will be able to claim any expenses back.
+▪ reimburse sb’s expenses (=pay the money someone has spent for business purposes back to them) Your expenses will usually be reimbursed within one month of receiving the claim.
+
+blaspheme
+
+ / blAs5fi:m; blAs`fim/ v [I, Ipr, Tn] ~ (against sb/sth) swear or curse using the name of God; speak in an irreverent way about (God or sacred things) 亵渎（神只或神圣的事物）: blaspheme (against) the name of God 亵渎神的名 * He always swears and blasphemes when he's drunk. 他酒醉后总是骂骂咧咧, 亵渎神只.
+
+ > blasphemer n person who blasphemes 亵渎神者.
+ blasphemous / 5blAsfEmEs; `blAsfImEs/ adj showing contempt or irreverence for God and sacred things 对上帝和神圣事物表示轻蔑或不敬的: blasphemous words/ curses/ language 亵渎神只的词语[诅咒/言语]. blasphemously adv.
+ blasphemy / 5blAsfEmI; `blAsfImI/ n (a) [U] blasphemous behaviour or language 亵渎神只的行为或言语: the sin of blasphemy 亵渎神只的罪恶. (b) [C] instance of this 亵渎神只: the blasphemies of the heretic 异教徒对神只的亵渎.
+From Longman DOCE5 Extras (En-En)
+blasphemy
+noun
+EXAMPLES FROM CORPUS
+▪ For his blasphemy and irresponsible behaviour, he was doomed to wander about like a sea-tossed ghost, never to rest again.
+▪ It was too close to blasphemy to be comfortable.
+▪ The word itself is sacred, and to suggest otherwise is blasphemy.
+▪ They are also interpretations that do not tolerate challenges - either in the form of offences against the king or blasphemy.
+▪ They would be joined by the H-P contingent, a cautious lot sensitive to all sorts of blasphemies against previously held wisdom.
+▪ Victor's plan for this creature's coming resurrection would be a blasphemy.
+▪ Was he relishing this moment, deliberately prolonging it in anticipation out of bile at the cadet's blasphemy?
+▪ Wilful impediment of the sacred moves was not only ill-mannered, but the worst form of blasphemy.
+
+consumables
+consumables UK  [kənˈsjuː.mə.bl ̩z] US  [-suː-] plural noun [consumableses]
+goods, especially food, or services which people buy regularly because they are quickly used and need to be replaced quite often
+• At this hospital we use up bandages, disposable gloves and other consumables at an alarming rate.
+Thesaurus+: ↑Products and producers ↑Buying and selling in general
+From Longman DOCE 5th Ed. (En-En)
+consumables
+con‧sum‧a‧bles /kənˈsjuːməbəlz $ -ˈsuːm-/ BrE  AmE  noun [plural]
+goods that are intended to be used and then replaced:
+ consumables such as printing paper
+consumable
+con‧sum‧a‧ble /kənˈsjuːməbəl $ -ˈsuːm-/ BrE  AmE  adjective
+consumable goods are intended to be used and then replaced
+From Oxford Advanced Learners Dictionary 8th Ed.
+consumable
+con·sum·able 7 [consumable consumables] adjective, noun BrE [kənˈsjuːməbl]  NAmE [kənˈsuːməbl]  (business)
+adjective
+intended to be bought, used and then replaced
+• consumable electronic goods
+ 
+noun con·sum·ables plural
+goods that are intended to be used fairly quickly and then replaced
+• computer consumables such as CD-Rs and printer cartridges
+ 
+From Longman DOCE5 Extras (En-En)
+consumables
+noun
+EXAMPLES FROM CORPUS
+▪ A detailed list of consumables is given.
+▪ Answer guide: Some useful examples are high technology v. more traditional industries, retail consumables v. furniture retailers.
+▪ Each system is a complete package including hardware, software and consumables.
+▪ He will be using our facilities, but will pay for consumables.
+▪ Its usefulness presupposed markets where the lord's agents, or the beneficiaries of lordly gifts, could exchange it for consumables.
+▪ Liaise with Stationery on the fulfilment of consumables requests, jointly monitor issues, and advise on stock levels and suppliers.
+▪ Please do not telephone the Computer Support Officer or myself for assistance or consumables.
+▪ We may be seeing a reflection of a more widespread export of consumables.
+
+DIVISION
+2. countable or uncountable a division of something into smaller parts
+• We asked for a breakdown of the accident figures into day time and night time.
+• The rate of breakdown of muscle protein was assessed.
+Thesaurus+: ↑Separating and dividing
+
+breakdown
+noun
+COLLOCATIONS FROM OTHER ENTRIES
+a breakdown in communication (=a failure)
+▪ Differences in language and traditions can lead to a breakdown in communication.
+a breakdown in negotiations (=an occasion when negotiations cannot continue because of a disagreement)
+▪ There has been a breakdown in negotiations with the union.
+a complete nervous breakdown
+▪ He had a complete nervous after leaving university.
+be heading for a nervous breakdown (=be likely to suffer one soon)
+▪ She should slow down a bit - I think she's heading for a nervous breakdown.
+be on the verge/edge of a nervous breakdown (=to be very close to having a nervous breakdown)
+▪ These events left her on the verge of a nervous breakdown.
+breakdown truck
+have a nervous breakdown
+▪ My mother had a nervous breakdown after my father's death.
+on the verge of a nervous breakdown
+▪ an event which left her on the verge of a nervous breakdown
+suffer a nervous breakdown
+▪ At university, Jan suffered a nervous breakdown and was treated for depression.
+the breakdown/breakup of sb’s marriage (=the end of it)
+▪ The breakup of her marriage had a devastating effect on her.
+the breakdown/collapse of talks
+▪ The collapse of the talks sent shock waves round the world.
+
+spending
+spend‧ing /ˈspendɪŋ/ BrE  AmE  noun [uncountable]
+the amount of money spent, especially by a government or organization SYN expenditure
+government/public/defence etc spending
+ a plan to increase military spending
+• • •
+COLLOCATIONS
+■ ADJECTIVES/NOUN + spending
+▪ public/government/state spending The government is determined to keep public spending under control. | They called for increased government spending on education.
+▪ federal spending He said his goal could be reached by slashing federal spending.
+▪ consumer spending (=spending by members of the public) There are some signs that consumer spending is beginning to pick up.
+▪ defence/welfare/education etc spending (=spending on defence etc) Further cuts in defence spending are being considered.
+▪ campaign spending Should there be stricter limits on campaign spending?
+■ verbs
+▪ increase/raise spending He has increased public spending and raised taxes.
+▪ cut/reduce spending The alternative is to cut spending.
+
+compare and contrast (=an expression used when telling students to write about the things that are similar or different in works of literature or art)
+▪ Compare and contrast the main characters of these two novels.
+contrasting colours (=ones that are different from each other in a way that looks attractive)
+▪ You need to have one or two contrasting colours in the room.
+in marked contrast to
+▪ Miller’s organized desk stood in marked contrast to the rest of the office.
+in sharp contrast to (=very different from)
+▪ His honesty is in sharp contrast to some other politicians.
+stark contrast
+▪ The extreme poverty of the local people is in stark contrast to the wealth of the tourists.
+striking contrast/similarity/parallel etc
+▪ a striking contrast between wealth and poverty
+
+compare
+I. com‧pare1 S1 W1 /kəmˈpeə $ -ˈper/ BrE  AmE  verb
+[Word Family: noun: ↑comparison, ↑comparability, the comparative; adverb: ↑comparatively, ↑comparably; adjective: ↑comparable ≠ ↑incomparable, ↑comparative; verb: ↑compare]
+[Date: 1400-1500; Language: French; Origin: comparer, from Latin comparare, from compar 'like', from com- ( ⇨ COM-) + par 'equal']
+1. [transitive] to consider two or more things or people, in order to show how they are similar or different ⇨ comparison:
+ The report compares the different types of home computer available.
+compare something/somebody with something/somebody
+ The police compared the suspect’s fingerprints with those found at the crime scene.
+compare something/somebody to something/somebody
+ Davies’ style of writing has been compared to Dickens’.
+compare and contrast (=an expression used when telling students to write about the things that are similar or different in works of literature or art)
+ Compare and contrast the main characters of these two novels.
+2. compared to/with something used when considering the size, quality, or amount of something in relation to something similar:
+ a 20% reduction in burglary compared with last year
+ Compared to our small flat, Bill’s house seemed like a palace.
+3. [intransitive] to be better or worse than something else
+compare (favourably/unfavourably) with something
+ The quality of English wines can now compare with wines from Germany.
+ How does life in Britain compare with life in the States?
+ The imported fabric is 30% cheaper and compares favourably (=is as good) in quality.
+4. something doesn’t/can’t compare (with something) if something does not compare with something else, it is not as good, large etc:
+ The rides at the fair just can’t compare with the rides at Disneyland.
+5. compare notes (with somebody) informal to talk to someone in order to find out if their experience of something is the same as yours:
+ Leading scientists got together in Paris to compare notes on current research.
+• • •
+THESAURUS
+▪ compare to consider two or more things or people, in order to show how they are similar or different: Scientists compared the results of both experiments. | The woman’s body was identified by comparing her teeth with dental records.
+▪ make/draw a comparison to compare two or more things or people and say how they are similar: In her article, she makes a comparison between people’s lives now and 50 years ago. | It is possible to draw a comparison between the two poets’ work.
+▪ draw an analogy to say that two situations are similar – a rather formal use: Some people have attempted to draw an analogy between America’s invasion of Iraq and the war in Vietnam.
+▪ draw a parallel to say that some features of things are similar, especially things that are actually very different – a rather formal use: He draws a parallel between football and religion. | Parallels can be drawn between her work and that of Picasso.
+▪ contrast verb [transitive] to compare two things, situations etc, in order to show how they are different from each other: In her novel she contrasts the lives of two families in very different circumstances.
+▪ make/draw a distinction between to say that you think two things are very different: The author draws a distinction between allowing death to occur, and causing it. | It is important to make a distinction between people’s fears about crime and the amount of crime that really happens.
+▪ measure somebody/something against somebody/something to compare two people or things, in order to judge which is better, bigger, etc: As a young actress, she was nervous of being measured against her famous father. | Murray’s progress is often measured against that of Nadal.
+II. compare2 BrE  AmE  noun
+beyond/without compare literary a quality that is beyond compare is the best of its kind:
+ a beauty and an elegance beyond compare
+ 
+ on (the) air
+ˌon/ˌoff (the) ˈair idiom
+broadcasting or not broadcasting on television or radio
+• We will be back on air tomorrow morning at 7.
+• The programme was taken off the air over the summer.
+Main entry: ↑airidiom
+
+back away
+back away phrasal verb [backs away backing away backed away backed away backed away]
+1. to move backwards away from something or someone, usually because you are frightened
+• She saw that he had a gun and backed away.
+Thesaurus+: ↑Running away and escaping
+2. to show that you do not support a plan or idea any more and do not want to be involved with it
+• The government has backed away from plans to increase taxes.
+Thesaurus+: ↑Changing your mind
+Main entry: backphrasal verb
+From Longman DOCE 5th Ed. (En-En)
+back away
+back away phrasal verb (see also ↑back)
+1. to move backwards and away from something, especially because you are frightened
+back away from
+ She backed away from the menacing look on his face.
+2. to stop supporting a plan or idea, or stop being involved in something
+back away from
+ The government has backed away from its nuclear weapons strategy.
+ 
+ 6. at/in the back of your mind a thought that is at the back of your mind is one you try to ignore because you do not want it to be true:
+ At the back of her mind was the thought that he might be with someone else.
+put/push something to the back of your mind
+ He tried to push these uncomfortable thoughts to the back of his mind.
+7. back to back
+a) with the backs towards each other:
+ Stand back to back and we’ll see who’s tallest.
+b) happening immediately one after the other:
+ a couple of back-to-back wins for the team ⇨ ↑back-to-back1
+8. back to front British English
+a) in an incorrect position so that what should be at the back is at the front:
+ You’ve got your sweater on back to front.
+b) doing something the wrong way round and starting with the part that should be at the end:
+ He got the commands back to front and the program didn’t work.
+9. behind sb’s back if you do something behind someone’s back, you do it without them knowing:
+ I don’t like the idea of the two of them talking about me behind my back.
+ I should have realized that he’d go behind my back (=do something without telling me).
+10. when/while sb’s back is turned if something happens when your back is turned, it happens when you are not able to see or know what someone is doing:
+ What are your kids up to when your back is turned?
+11. get/put sb’s back up British English informal to annoy someone:
+ Simone was the kind of person who was always putting people’s backs up.
+12. get (somebody) off sb’s back spoken to stop annoying someone with a lot of questions, criticisms etc, or to make someone stop annoying you in this way:
+ Maybe the only way to get him off my back is to tell him the truth.
+ Do me a favour and get off my back!
+13. be on sb’s back spoken to be trying to make someone do something they do not want to do:
+ Why are you and Dad always on my back?
+14. on the back of something as a result of something that already exists or something you have already done:
+ The company should be able to generate business on the back of existing contracts.
+15. on the backs of somebody using the work of a particular group to achieve something that they will not get any advantage from:
+ Economic prosperity was won on the backs of the urban poor.
+16. SPORTS a defending player in a sports team SYN defender
+17. the back of beyond informal a place that is a long way from other places and is difficult to get to:
+ It’s a nice little cottage but it really is in the back of beyond.
+18. be (flat) on your back
+a) to be lying on your back – used to emphasize that someone seems unlikely to get up soon:
+ He was drunk and flat on his back on the street.
+b) to be so ill that you cannot get out of bed:
+ Their best player was flat on his back in hospital.
+c) if a business, country, ↑economy etc is on its back, it is not successful:
+ The UK market was flat on its back.
+19. put your back into it informal to work extremely hard at something:
+ If we really put our backs into it, we could finish today.
+20. be glad/delighted/pleased etc to see the back of somebody/something to be happy that someone is leaving or because you no longer have to deal with something:
+ No, I’m not too upset that he left – in fact, I was glad to see the back of him.
+ I can’t wait to see the back of this project, I can tell you (=I will be happy when it ends).
+21. have your back to/against the wall informal to be in a difficult situation with no choice about what to do
+22. at your back
+a) behind you:
+ They had the wind at their backs as they set off.
+b) supporting you:
+ Caesar marched into Rome with an army at his back.
+23. on your back informal not polite if someone achieves something on their back, they achieve it by having sex with someone
+24. high-backed/straight-backed/low-backed etc with a high, straight, low etc back:
+ a high-backed chair
+ 
+ back away phrasal verb
+1. to move backwards and away from something, especially because you are frightened
+back away from
+ She backed away from the menacing look on his face.
+2. to stop supporting a plan or idea, or stop being involved in something
+back away from
+ The government has backed away from its nuclear weapons strategy.
+back down phrasal verb
+to admit that you are wrong or that you have lost an argument:
+ Both sides have refused to back down.
+back off phrasal verb
+1. to move backwards, away from someone or something:
+ She backed off and then turned and ran.
+2. to stop telling someone what to do, or stop criticizing them, especially so that they can deal with something themselves:
+ I think you should back off for a while.
+ Back off, Marc! Let me run my own life!
+3. to stop supporting something, or decide not to do something you were planning to do:
+ Jerry backed off when he realized how much work was involved.
+back off from
+ The company has backed off from investing new money.
+back onto something phrasal verb
+if a building backs onto something, its back faces it:
+ The hotel backs onto St Mark’s Square.
+back out phrasal verb
+to decide not to do something that you had promised to do:
+ It’s too late to back out now.
+ After you’ve signed the contract, it will be impossible to back out.
+back out of
+ The government is trying to back out of its commitment to reduce pollution.
+back up phrasal verb
+1. back somebody/something ↔ up to say or show that what someone is saying is true:
+ Jane would back me up if she were here.
+ There’s no evidence to back up his accusations.
+ These theories have not been backed up by research.
+2. back somebody/something ↔ up to provide support or help for someone or something:
+ The plan’s success depends on how vigorously the UN will back it up with action.
+ The police officers are backed up by extra teams of people at the weekend. ⇨ ↑backup
+3. to make a copy of information stored on a computer:
+ Make sure you back up.
+back something ↔ up
+ These devices can back up the whole system.
+back something ↔ up onto something
+ Back all your files up onto floppy disks. ⇨ ↑backup
+4. especially American English to make a vehicle move backwards:
+ The truck stopped and then backed up.
+back something ↔ up
+ I backed the car up a little.
+5. to move backwards:
+ Back up a bit so that everyone can see. ⇨ ↑backup
+6. if traffic backs up, it forms a long line of vehicles that cannot move:
+ The traffic was starting to back up in both directions.
+7. if a toilet, sink etc backs up, it becomes blocked so that water cannot flow out of it
+
+lookout
+look‧out /ˈlʊk-aʊt/ BrE  AmE  noun
+1. be on the lookout for somebody/something to continuously watch a place or pay attention in order to find something you want or to be ready for problems or opportunities ⇨ look out for:
+ We’re always on the lookout for new business opportunities.
+ Police were on the lookout for anyone behaving suspiciously.
+2. keep a lookout to keep watching carefully for something or someone, especially for danger
+keep a lookout for
+ We were instructed to keep a lookout for enemy aircraft.
+ When you’re driving, keep a sharp lookout (=watch extra carefully) for cyclists.
+3. PERSON [countable] someone whose duty is to watch carefully for something, especially for danger
+4. PLACE [countable] a place for a lookout to watch from
+5. that's/it's somebody's lookout British English informal used to say that someone is responsible for deciding what they will do, and will have to suffer any bad results:
+ If he wants to keep seeing her, that's his lookout.
+ 
+ ribbon
+ribbon UK  US  [ˈrɪb. ə n] noun [ribbons]
+1. <A > countable or uncountable a long narrow strip of material used to tie things together or as a decoration
+• Sandra often wears a ribbon in her hair.
+• He tied up the present with ribbon.
+Thesaurus+: ↑Bands, straps and strips
+2. a ribbon of sth
+literary a long narrow piece of something
+• A ribbon of road stretched ahead of us across the desert.
+Thesaurus+: ↑Bands, straps and strips
+3. countable a small piece of coloured material given to someone in the armed forces to show approval and admiration for their brave actions
+Thesaurus+: ↑Prizes, rewards and medals
+4. countable specialized the narrow strip of material that contains the ink for a typewriter
+• My typewriter needs a new ribbon.
+Thesaurus+: ↑Office equipment ↑Communicating by telephone ↑Paper and stationery ↑Bands, straps and strips
+ 
+• A pink ribbon had been tied around the crown of the hat.
+• She shook her hair loose from its ribbon.
+• They bound the packages with brightly coloured ribbon.
+• She tied the ribbon tightly in a bow.
+• She wrapped the present and tied it with ribbon.
+Idioms: cut somebody to ribbons ▪ in ribbons
+
+glacier
+glacier UK  [ˈglæs.i.ə r ] US  [ˈgleɪ.si.ɚ] noun countable [glaciers]
+a large mass of ice which moves slowly
+Thesaurus+: ↑Snow and ice ↑Cold
+Derived: glaciation
+From Longman DOCE 5th Ed. (En-En)
+glacier
+gla‧ci‧er /ˈɡlæsiə $ ˈɡleɪʃər/ BrE  AmE  noun [countable]
+[Date: 1700-1800; Language: French; Origin: glace 'ice', from Latin glacies]
+a large mass of ice which moves slowly down a mountain valley ⇨ glacial
+• • •
+THESAURUS
+▪ ice water that has frozen into a solid state: ice cubes in her Coke | the ice on the lake
+▪ frost a thin coating of white powder-like ice that forms on the ground and plants, or the weather conditions in which this powder appears: There was frost on the ground. | Even in May we can sometimes get a late frost.
+▪ black ice an area of ice that is very difficult to see on a road: Driving conditions are dangerous, with black ice in many areas.
+▪ icicle a long thin pointed piece of ice that hangs from a roof or other surface: There were icicles hanging down from the side of the house.
+▪ hailstones frozen balls of ice which fall like rain from the sky: Hailstones as big as marbles flattened the crops.
+▪ glacier a large mass of ice which moves slowly down a mountain valley: The high mountain glaciers of South America and Asia are melting at an alarming rate. | the Kangshung glacier
+▪ iceberg a very large mass of ice floating in the sea, most of which is under the surface of the water: The ship sank after hitting an iceberg in the North Atlantic.
+▪ ice cap an area of thick ice that permanently covers the North and South Poles: We all know that the polar ice caps are melting because of global warming.
+
+one-night stand
+one-night stand UK  US  [ˌwʌn.naɪtˈstænd] noun countable [one-night stands]
+ 
+SEX
+1. a sexual relationship which lasts for only one night, or a person who you have had this type of relationship with
+Thesaurus+: ↑Sexual intercourse
+ 
+PERFORMANCE
+2. a performance which happens only once in a particular place
+Thesaurus+: ↑Spectacles and performances
+From Longman DOCE 5th Ed. (En-En)
+one-night stand
+ˌone-night ˈstand BrE  AmE  noun [countable]
+1. informal
+a) an occasion when two people have sex, but do not meet each other again:
+ I’m not into one-night stands.
+b) a person that you have sex with once and do not see again
+2. a performance of music or a play that is given only once in a particular place
+From Oxford Advanced Learners Dictionary 8th Ed.
+one-night stand
+ˌone-night ˈstand [one-night stand one-night stands] BrE   NAmE   noun (informal)
+a sexual relationship that lasts for a single night; a person that sb has this relationship with
+• I wanted it to be more than a one-night stand.
+• For her I was just a one-night stand.
+
+artistry
+art‧ist‧ry /ˈɑːtəstri, ˈɑːtɪstri $ ˈɑːr-/ BrE  AmE  noun [uncountable]
+[Word Family: noun: ↑art, ↑artist, ↑artistry; adjective: ↑artistic, ↑arty; adverb: ↑artistically]
+skill in a particular artistic activity:
+ the artistry of dance
+From Oxford Advanced Learners Dictionary 8th Ed.
+artistry
+art·is·try [artistry] BrE [ˈɑːtɪstri]  NAmE [ˈɑːrtɪstri]  noun uncountable
+the skill of an artist
+• He played the piece with effortless artistry.
+• an appreciation of the beauty and artistry of the painting
+ 
+Example Bank:
+• We admired the skill and artistry in the jewellery she made.
+• the sheer artistry of the musician's performance
+• They showed an appreciation of the beauty and artistry of the painting.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+artistry
+
+ / 5B:tIstrI; `BrtIstrI/ n [U] skill or work of an artist 艺术技巧; 艺术作品; 艺术工作: admire the artistry of the painter's use of colour 钦佩这位画家使用颜色的技巧.
+From Longman DOCE5 Extras (En-En)
+artistry
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ The band's solos are displays of true artistry.
+EXAMPLES FROM CORPUS
+▪ All serve it with total dedication and complete artistry.
+▪ His ingenuity and artistry never ceased to intrigue the others.
+▪ How touching it was that Maman should embody such artistry and so simple a heart!
+▪ It broke out of its tea-party and caste-system mold on Saturday, rewarding hunger and perseverance, as well as graceful artistry.
+▪ It was seldom spectacular, lacking the Van Gogh-like, wild-eyed artistry of Cunningham, but it worked.
+▪ On the other hand, individual artistry is likely to be enhanced by an increased consciousness of craft.
+▪ Superior artistry is not sufficient explanation; there was something else.
+
+sloppily
+sloppily UK  US  UK [ˈslɒp.ɪ.li] US [ˈslɑː.pɪ-] adverb disapproving
+badly or carelessly
+• a sloppily written letter
+Thesaurus+: ↑Not paying attention ↑Treating as unimportant ↑Neglecting and ignoring
+Main entry: sloppyderived
+sloppy
+sloppy UK  [ˈslɒp.i] US  [ˈslɑː.pi] adjective [sloppier sloppiest]
+ 
+TOO WET
+1. informal disapproving (of a substance) more liquid than it should be, often in a way that is unpleasant
+• The batter was a bit sloppy so I added some more flour.
+Thesaurus+: ↑The state of matter
+ 
+LACKING CARE
+2. disapproving not taking care or making an effort
+• Spelling mistakes always look sloppy in a formal letter.
+• Another sloppy pass like that might lose them the whole match.
+Thesaurus+: ↑Not paying attention ↑Treating as unimportant ↑Neglecting and ignoring
+3. describes clothes which are large, loose and often untidy
+• At home I tend to wear big sloppy jumpers and jeans.
+Thesaurus+: ↑Flexible, loose and yielding
+ 
+EMOTIONAL
+4. informal disapproving expressing feelings of love in a way that is silly or embarrassing
+• a sloppy love song
+Thesaurus+: ↑Sentimental and over-emotional
+Derived: sloppily ▪ sloppiness
+From Longman DOCE 5th Ed. (En-En)
+sloppily
+See main entry: ↑sloppy
+sloppy
+slop‧py /ˈslɒpi $ ˈslɑːpi/ BrE  AmE  adjective
+1. not done carefully or thoroughly SYN careless:
+ sloppy work
+ His written reports are incredibly sloppy.
+2. sloppy clothes are loose-fitting, untidy, or dirty:
+ Ann was dressed in a sloppy brown sweater.
+3. expressing feelings of love too strongly and in a silly way SYN slushy:
+ The film is a sloppy romance.
+4. not solid enough:
+ sloppy jelly
+>>>>>>> 18d4d3da0f269a2a02b9d6fff094f86d2b9b89d7
