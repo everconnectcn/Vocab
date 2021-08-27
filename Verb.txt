@@ -14013,6 +14013,232 @@ THESAURUS
 ▪ compel [usually passive] formal to force someone to do something using official power or authority. Also used when someone has to do something because of their situation: The town was surrounded and compelled to surrender. | I felt compelled to offer them some kind of explanation. | You are compelled by law to carry an ID card.
 ▪ coerce /kəʊˈɜːs $ ˈkoʊɜːrs/ formal to force someone to do something by threatening them: Local people were coerced into joining the rebel army.
 ▪ be obliged to do something formal if someone is obliged to do something, they must do it because it is the law or the rule, or because of the situation they are in: You are not obliged to say anything which may harm your defence in court. | They were obliged to sell the land
+<<<<<<< HEAD
+>>>>>>> e924fea0b443bcd45a71d539319f42a70414700c
+
+
+unravel
+unravel UK  US  [ʌnˈræv. ə l] [-ll-] or [US USUALLY -l-] verb [unravelling unravelled unraveling unraveled unravels]
+ 
+CLOTH
+1. intransitive or transitive If a piece of woollen or woven cloth, a knot, or a mass of thread unravels, it separates into a single thread, and if you unravel it, you separate it into a single thread
+• You'd better mend that hole before the whole sweater starts to unravel.
+• I had to unravel one of the sleeves because I realised I'd knitted it too small.
+Thesaurus+: ↑Knitting and sewing ↑Separating and dividing
+ 
+SUBJECT
+2. intransitive or transitive If you unravel a mysterious, unknown or complicated subject, you make it known or understood, and if it unravels, it becomes known or understood
+• We've got a long way to go before we unravel the secrets of genetics.
+Thesaurus+: ↑Revealing secrets and becoming known
+ 
+DESTROY
+3. intransitive transitive usually passive If a process or achievement that was slow and complicated unravels or is unravelled, it is destroyed
+• As talks between the leaders broke down, several months of careful diplomacy were unravelled.
+Thesaurus+: ↑Destroying and demolishing ↑Damaging and spoiling
+From Longman DOCE 5th Ed. (En-En)
+unravel
+un‧rav‧el /ʌnˈrævəl/ BrE  AmE  verb (past tense and past participle unravelled, present participle unravelling British English, unraveled, unraveling American English)
+1. [transitive] to understand or explain something that is mysterious or complicated:
+ Detectives are still trying to unravel the mystery surrounding his death.
+2. [intransitive and transitive] if you unravel threads, string etc, or if they unravel, they stop being twisted together
+3. [intransitive] if a system, plan, organization etc unravels, it starts to fail SYN fall apart:
+ The company started to unravel when two of the directors were arrested.
+From Longman DOCE5 Extras (En-En)
+unravel
+verb
+COLLOCATIONS FROM OTHER ENTRIES
+solve/unravel a mystery (=find out what happened)
+▪ The children were given the clues and had to try to solve the mystery.
+COLLOCATIONS FROM CORPUS
+■ NOUN
+mystery
+▪ When scientists attempt to unravel the mysteries of the past they always run up against a brick wall.
+▪ A prepared statement failed to unravel the mystery.
+▪ It excited her and she promised herself that one day she would unravel the mystery.
+▪ For many years Frederick Delouche felt a particular need to unravel such mysteries.
+
+beget
+beget UK  US  [bɪˈget] [begetting], [begot] or [begat], [begotten] or [begot] verb transitive [begetting begot begat begotten begets]
+1. old use to be the father of
+• In the Bible it says that Adam begat Cain and Abel.
+Thesaurus+: ↑Breeds and breeding
+2. formal to cause
+• Poverty begets hunger, and hunger begets crime.
+Thesaurus+: ↑Causing things to happen
+From Longman DOCE 5th Ed. (En-En)
+beget
+be‧get /bɪˈɡet/ BrE  AmE  verb (past tense begot /-ˈɡɒt $ -ˈɡɑːt/, past participle begotten /-ˈɡɒtn $ -ˈɡɑːtn/, present participle begetting) [transitive]
+[Language: Old English; Origin: begietan]
+1. old use to become the father of a child
+2. to cause something or make it happen:
+ Hunger begets crime.
+—begetter noun [countable]
+From Longman DOCE5 Extras (En-En)
+beget
+verb
+EXAMPLES FROM OTHER ENTRIES
+▪ Poverty begets crime.
+EXAMPLES FROM CORPUS
+▪ As we all know, killings beget more killings.
+▪ Forests beget trees; we know that.
+▪ In the long term, violence begets violence.
+▪ The early gains from the stock market rally begot a feeling of invincibility.
+▪ Thus replication begets replication, until the costs of these counterproductive activities finally bring the organization to a long-delayed breaking point.
+
+turn in
+turn in phrasal verb (see also ↑turn)
+1. turn something ↔ in to give something to a person in authority, especially an illegal weapon or something lost or stolen:
+ The rebels were told to turn in their weapons and ammunition.
+turn something ↔ in to
+ My wallet was turned in to the police two days later.
+2. turn something ↔ in American English to give back something you have borrowed or rented SYN return:
+ When do the library books have to be turned in?
+3. turn in something to produce a particular profit, result etc:
+ Bimec turned in net profits of £2.4 million.
+ Last night the team turned in another dazzling performance.
+4. turn somebody ↔ in to tell the police who or where a criminal is:
+ Margrove’s wife finally turned him in.
+5. to go to bed:
+ I think I’ll turn in early tonight.
+6. turn something ↔ in American English to give a piece of work you have done to a teacher, your employer etc SYN hand in British English:
+ Have you all turned in your homework assignments?
+ 
+ 9. turn something inside out
+a) to pull a piece of clothing, bag etc so that the inside is facing out:
+ Turn the sweater inside out before you wash it.
+b) (also turn something upside down) to search everywhere for something, in a way that makes a place very untidy:
+ Thieves had turned the house upside down.
+c) (also turn something upside down/turn something on its head) to completely change the way that something is done, organized, thought about etc:
+ New approaches to marketing turn old practices upside down.
+ Her opinion of him had been turned on its head.
+10. have turned the corner to start to improve after going through a difficult period or experience:
+ The manager of the hotel chain claims that they have turned the corner.
+11. MAKE/LET GO OUT [transitive] to make or let someone or something go out from where they are
+turn somebody/something out/outside/into etc (something)
+ Turn the dough out onto a lightly floured board.
+ There are some criminals who cannot be turned loose onto the streets.
+12. TIDE [intransitive] if the ↑tide turns, the sea starts to come in or go out again
+13. CHANGE DEVELOPMENT [intransitive and transitive] if something such as a war, situation, game of sport etc turns, or someone turns it, something happens to change the way it is developing:
+ Mills turned the game by scoring twice.
+ The victory turned the tide of the war in North Africa.
+14. turn traitor to be disloyal to a person, group, or idea that you have strongly supported before
+15. turn your ankle to twist your ↑ankle in a way that injures it SYN sprain:
+ Wright turned his ankle in the first minutes of the game.
+16. an actor turned politician/a housewife turned author etc someone who has done one job and then does something completely different ⇨ poacher turned gamekeeper at ↑poacher
+17. turn sb’s head to be attractive in a romantic or sexual way:
+ She turned heads whenever she walked into a room.
+18. turn (people’s) heads if something turns people’s heads, they are surprised by it:
+ It did turn some heads when he moved back to the village.
+19. turn a profit American English to make a profit
+20. turn a phrase to say something in a particular way:
+ Cohen knows how to turn a phrase in his lyrics.
+21. LAND [transitive] to break up soil so that it is ready for growing crops:
+ a distant tractor turning the soil
+22. WOOD/METAL [transitive] to shape a wooden or metal object using a special tool
+23. MILK [intransitive] British English if milk turns, it becomes sour
+⇨ turn a blind eye (to something) at ↑blind1(3), ⇨ turn the other cheek at ↑cheek1(4), ⇨ turn full circle at ↑circle1(6), ⇨ somebody would turn in their grave at ↑grave1(3), ⇨ not turn a hair at ↑hair(11), ⇨ turn your hand to (doing) something at ↑hand1(26), ⇨ turn over a new leaf at ↑leaf1(3), ⇨ turn your nose up (at something) at ↑nose1(5), ⇨ turn your stomach at ↑stomach1(4), ⇨ turn the tables (on somebody) at ↑table1(5), ⇨ turn tail at ↑tail1(9)
+
+turn on phrasal verb
+1. turn something ↔ on to make a machine or piece of electrical equipment such as a television, engine, light etc start operating by pushing a button, turning a key etc SYN switch on OPP turn off:
+ Jake turned on his computer and checked his mail.
+2. turn something ↔ on to make the supply of water, gas etc start flowing from something by turning a handle OPP turn off:
+ He turned on the gas and lit the stove.
+ ‘I’m thirsty,’ she said, turning on the tap.
+3. turn on somebody alsoturn upon somebody to suddenly attack someone, using physical violence or unpleasant words:
+ Peter turned on Rae and screamed, ‘Get out of my sight!’
+4. turn on something alsoturn upon something if a situation, event, argument etc turns on a particular thing or idea, it depends on that thing:
+ As usual, everything turned on how much money was available.
+5. turn somebody on to make someone feel sexually excited:
+ The way he looked at her really turned her on. ⇨ ↑turn-on
+6. turn somebody on to interest someone, or to make someone become interested in something:
+ Science fiction just doesn’t turn me on.
+turn somebody on to
+ It was Walter who turned me on to vegetarian food.
+7. turn on the charm alsoturn it on to suddenly start to be very nice, amusing, and interesting, especially in a way that is not sincere:
+ Simon was good at turning on the charm at parties.
+turn out phrasal verb
+1. to happen in a particular way, or to have a particular result, especially one that you did not expect
+turn out well/badly/fine etc
+ It was a difficult time, but eventually things turned out all right.
+ To my surprise, it turned out that I was wrong.
+ As it turned out (=used to say what happened in the end), he passed the exam quite easily.
+turn out to be something
+ That guy turned out to be Maria’s second cousin.
+2. turn the light out to stop the flow of electricity to a light by pressing a switch, pulling a string etc:
+ Don’t forget to turn out the lights when you go!
+3. if a lot of people turn out for an event, they go to watch it or take part in it
+turn out for
+ About 70% of the population turned out for the election.
+turn out to do something
+ Thousands turned out to watch yesterday’s match against Ireland. ⇨ ↑turnout
+4. turn somebody ↔ out to force someone to leave a place permanently, especially their home:
+ If you can’t pay the rent, they turn you out.
+5. turn something ↔ out to produce or make something:
+ The factory turns out 300 units a day.
+6. well/beautifully/badly etc turned out dressed in good, beautiful etc clothes:
+ elegantly turned-out young ladies
+7. turn something ↔ out
+a) to empty something completely by taking out the contents:
+ The policeman made him turn out his pockets.
+b) British English to take out everything in a room, drawer etc and clean the room etc thoroughly:
+ Lea decided to turn out the attic.
+turn over phrasal verb
+1. turn something over to somebody to give someone the right to own something, or to make someone responsible for dealing with something:
+ He’ll turn the shop over to his son when he retires.
+turn the matter/problem/responsibility etc over to somebody
+ I’m turning the project over to you.
+2. turn something over to something to use land, a building etc for a different purpose:
+ There is a new plan to turn the land over to wind farming.
+3. turn somebody over to somebody to take a criminal to the police or another official organization:
+ Suspected terrorists are immediately turned over to the law.
+4. turn over something if a business turns over a particular amount of money, it earns that amount in a particular period of time:
+ Within ten years the theme park was turning over £20 million. ⇨ ↑turnover
+5. if an engine turns over, or if someone turns it over, it starts to work:
+ The engine turned over twice and then stopped.
+6. British English to turn a page in a book or a sheet of paper to the opposite side:
+ Turn over and look at the next page.
+7. British English to change to another ↑channel on a television:
+ Can we turn over? There’s a film I want to see.
+8. turn something over British English to search a place thoroughly or steal things from it, making it very untidy:
+ Burglars had been in and turned the whole house over.
+⇨ turn over a new leaf at ↑leaf1(3), ⇨ turn something over in your mind at ↑mind1(17)
+turn round phrasal verb British English
+⇨ ↑turn around
+turn to somebody/something phrasal verb
+1. to try to get help, advice, or sympathy from someone:
+ I don’t know who to turn to.
+ The Namibian government turned to South Africa for help.
+2. to start to do or use something new, especially as a way of solving a problem:
+ Many people here are turning to solar power.
+turn to drink/crime/drugs etc
+ addicts who turn to crime to finance their habit
+3. turn (something) to something to become a different quality, attitude, form of a substance etc, or to make something do this:
+ Our laughter turned to horror as we realized that Jody was really hurt.
+ When water turns to steam, it expands.
+ A sudden storm turned the earth to mud.
+4. to look at a particular page in a book:
+ Turn to page 655 for more information.
+turn up phrasal verb
+1. turn something ↔ up to turn a switch on a machine such as an ↑oven, radio etc so that it produces more heat, sound etc OPP turn down:
+ Turn the oven up to 220.
+ Turn up the radio!
+2. to be found, especially by chance, after having been lost or searched for:
+ Eventually my watch turned up in a coat pocket.
+3. to arrive at a place, especially in a way that is unexpected:
+ You can’t just turn up and expect a meal.
+turn up late/early/on time etc
+ Steve turned up late, as usual.
+4. if an opportunity or situation turns up, it happens, especially when you are not expecting it:
+ Don’t worry, I’m sure a job will turn up soon.
+5. turn something ↔ up to find something by searching for it thoroughly:
+ The police investigation hasn’t turned up any new evidence.
+6. turn something ↔ up British English to shorten a skirt, trousers etc by folding up the bottom and sewing it
+⇨ turn up trumps at ↑trump1(4)
+turn upon somebody/something phrasal verb formal
+1. to suddenly attack someone, using physical violence or unpleasant words SYN turn on
+2. if a situation, event, argument etc turns upon a particular thing or idea, it depends on that thing SYN turn on:
+ The court case turned upon a technicality of company law.
+=======
 
 
 comprise
@@ -14354,6 +14580,7 @@ kick in phrasal verb (see also ↑kick)
  He threatened to come round and kick my head in.
 4. kick a door in to kick a locked door so hard that it breaks open:
  We had to get the police to kick the door in.
+<<<<<<< HEAD
  
  put one's money where one's mouth is (third-person singular simple present puts one's money where one's mouth is, present participle putting one's money where one's mouth is, simple past and past participle put one's money where one's mouth was)
 To make or take a bet.
@@ -14488,3 +14715,6 @@ EXAMPLES FROM CORPUS
 ▪ The stability of such a transcript may be jeopardized, hence its faster subsequent degradation.
 ▪ This, they added, could jeopardize other large benefit programs such as Medicare and Medicaid.
 ▪ You don't have to jeopardize your standing in the staffroom.
+=======
+>>>>>>> 18d4d3da0f269a2a02b9d6fff094f86d2b9b89d7
+>>>>>>> ed60ee8599f499fa179123fc168f1d5d07806595
