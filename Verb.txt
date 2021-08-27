@@ -14580,8 +14580,7 @@ kick in phrasal verb (see also ↑kick)
  He threatened to come round and kick my head in.
 4. kick a door in to kick a locked door so hard that it breaks open:
  We had to get the police to kick the door in.
-<<<<<<< HEAD
- 
+
  put one's money where one's mouth is (third-person singular simple present puts one's money where one's mouth is, present participle putting one's money where one's mouth is, simple past and past participle put one's money where one's mouth was)
 To make or take a bet.
 (idiomatic) To take an obvious stake in the truth of a claim that one is making.
@@ -14715,6 +14714,4 @@ EXAMPLES FROM CORPUS
 ▪ The stability of such a transcript may be jeopardized, hence its faster subsequent degradation.
 ▪ This, they added, could jeopardize other large benefit programs such as Medicare and Medicaid.
 ▪ You don't have to jeopardize your standing in the staffroom.
-=======
->>>>>>> 18d4d3da0f269a2a02b9d6fff094f86d2b9b89d7
->>>>>>> ed60ee8599f499fa179123fc168f1d5d07806595
+

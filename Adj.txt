@@ -13720,7 +13720,123 @@ sector
 ▪ In the tertiary sector, particularly financial services, the development of a single financial market may have important employment consequences.
 ▪ Agriculture has also provided the expanding industrial and tertiary sectors with their labour force.
 ▪ Women participate in poorer jobs and in the tertiary sectors, areas which have suffered the most from peripheral capitalist 
-=======
+
+cathartic
+ca‧thar‧tic /kəˈθɑːtɪk $ -ɑːr-/ BrE  AmE  adjective formal
+helping you to remove strong or violent emotions:
+ a cathartic experience
+catharsis
+ca‧thar‧sis /kəˈθɑːsəs, kəˈθɑːsɪs $ -ɑːr-/ BrE  AmE  noun [uncountable]
+[Date: 1800-1900; Language: Modern Latin; Origin: Greek, from kathairein 'to make clean or pure', from katharos 'pure']
+formal the act or process of removing strong or violent emotions by expressing them through writing, talking, acting etc:
+ Music is a means of catharsis for me.
+From Oxford Advanced Learners Dictionary 8th Ed.
+cathartic
+cath·ar·tic [cathartic cathartics] BrE [kəˈθɑːtɪk] ; NAmE [kəˈθɑːrtɪk]  adjective
+• It was a cathartic experience.
+Main entry: ↑catharsisderived
+catharsis
+cath·ar·sis [catharsis catharses] BrE [kəˈθɑːsɪs]  NAmE [kəˈθɑːrsɪs]  noun uncountable, countable (pl. catharses BrE [kəˈθɑːsiːz] ; NAmE [kəˈθɑːrsiːz] )(technical)
+the process of releasing strong feelings, for example through plays or other artistic activities, as a way of providing relief from anger, suffering, etc.
+Derived Word: ↑cathartic
  
->>>>>>> 18d4d3da0f269a2a02b9d6fff094f86d2b9b89d7
->>>>>>> ed60ee8599f499fa179123fc168f1d5d07806595
+Word Origin:
+early 19th cent. in the sense purification: from Greek katharsis, from kathairein ‘cleanse’, from katharos ‘pure’. The notion of “release” through drama derives from Aristotle's Poetics.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+catharsis
+
+ / kE5WB:sIs; kE`WBrsIs/ n (pl -ses / -si:z; -siz/) 
+ [C, U] (instance of the) release of strong feelings through the effect of art, esp drama （通过艺术作用, 尤指戏剧）强烈情感的发抒. 
+ [U] (medical 医) emptying of the bowels 导泻; 通便.
+
+ > cathartic / kE5WB:tIk; kE`WBrtIk/ adj causing catharsis; purgative 导泻的; 通便的. n (medical 医) purgative drug 泻药.
+From Longman DOCE5 Extras (En-En)
+cathartic
+adjective
+COLLOCATIONS FROM CORPUS
+■ NOUN
+experience
+▪ But I don't set out to impose a cathartic experience on my readers.
+▪ And it was the most beautiful and cathartic experience for me.
+EXAMPLES FROM OTHER ENTRIES
+▪ Talking to a counselor can be a cathartic experience.
+EXAMPLES FROM CORPUS
+▪ And it was the most beautiful and cathartic experience for me.
+▪ Can it ever be more than a cathartic force, or a soothing distraction?
+▪ Clearly, conversations with peers were cathartic.
+▪ His cheek brushed hers with a cathartic effect on her senses.
+▪ I've cried a lot while lying on that couch and find that the act of crying is a cathartic release.
+▪ Others include the cathartic process of making amends to the people you have hurt through your addiction.
+▪ The effect of this activity is cathartic.
+▪ The movie pivots on not one but two such changes, and the result is exhaustingly cathartic, ultimately uplifting.
+catharsis
+noun
+EXAMPLES FROM CORPUS
+▪ Barney was an advanced thinker, a believer in catharsis.
+▪ Music is a means of catharsis for them and they say they like to do things in extreme.
+▪ Provide for catharsis - release of interdepartmental or interpersonal conflicts of long standing.
+▪ The same note of emotional catharsis was sounded by the Romantic poets in general, after the desiccation of late neoclassicism.
+▪ The sociologist Scheff is probably the social scientist who has attempted the most thoroughgoing analysis of catharsis in social life.
+▪ This is the Neds venting their frustrations but finding order through catharsis - a chaotic way of feeling better.
+▪ This revolt is a kind of catharsis.
+▪ What we witness is not an aesthetic spectacle bringing with it the catharsis which the ritual of the theater can produce.
+
+
+quirky
+quirk‧y /ˈkwɜːki $ -ɜːr-/ BrE  AmE  adjective
+unusual, especially in an interesting way:
+ I like his quirky sense of humour.
+—quirkily adverb
+—quirkiness noun [uncountable]
+From Oxford Advanced Learners Dictionary 8th Ed.
+quirky
+quirky [quirky quirkier quirkiest] BrE  ; NAmE   adjective
+• a quirky sense of humour
+Main entry: ↑quirkderived
+From Longman DOCE5 Extras (En-En)
+quirky
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ a quirky, hour-long TV drama
+EXAMPLES FROM CORPUS
+▪ And when she asked he merely gave his quirky smile.
+▪ Brave personal sacrifices are juxtaposed with quirky moments.
+▪ If you like mighty, if quirky, war machines, then you can choose steam tanks and war wagons.
+▪ Instead, the campaign focuses on passengers in a series of quirky, surreal dream sequences.
+▪ Ramsey, who grew up in a quirky Pennsylvania family, went for a long bike ride in August 1968.
+▪ Stacy's rise to orchestra fame is a quirky one.
+▪ Through the 1930s such quirky turns were more and more discouraged in holiday venues.
+
+orchestrate
+
+ / 5R:kIstreIt; `RrkIs9tret/ v [Tn] 
+ arrange (a piece of music) for an orchestra to play 将（一音乐作品）编成管弦乐曲: a set of piano pieces orchestrated by the composer 由作曲家谱写成管弦乐的一套钢琴曲. 
+ carefully (and sometimes unfairly) arrange (sth) in order to bring about a desired result 精心安排（某事物）（有时指手段不正当）: The demonstration was carefully orchestrated to attract maximum publicity. 该示威经过精心策画以尽量吸引公众注意.
+ > orchestration/ 9R:kI5streIFn; 9RrkIs`treFEn/ n [C, U].
+From Longman DOCE5 Extras (En-En)
+orchestrate
+verb
+COLLOCATIONS FROM OTHER ENTRIES
+an orchestrated campaigndisapproving (= organized secretly to make political events happen in the way you want)
+▪ This resulted in an orchestrated campaign of civil disorder.
+COLLOCATIONS FROM CORPUS
+■ ADVERB
+carefully
+▪ They had been procured in the early years of the century through a carefully orchestrated city campaign.
+■ NOUN
+campaign
+▪ Molina had accused the media of orchestrating a campaign against him.
+▪ They had been procured in the early years of the century through a carefully orchestrated city campaign.
+EXAMPLES FROM OTHER ENTRIES
+▪ Police believe Casey orchestrated the kidnapping.
+▪ The so-called 'revolution' was in fact orchestrated by the CIA.
+▪ Treasury officials are trying to orchestrate a sharp decline in the dollar.
+EXAMPLES FROM CORPUS
+▪ Again, there was no apology forthcoming from those who orchestrated the Ajar debacle.
+▪ Among those orchestrating the changes is Rep.
+▪ At this high point in his influence he orchestrated a movement whose significance would not become clear for three decades.
+▪ But no one orchestrates their own music for Broadway because the casting is done just before rehearsals start.
+▪ But, in short order, Lott orchestrated deals on a range of stalled legislation, from welfare reform to health care.
+▪ By Monday, he was back at head office orchestrating the move.
+▪ Horner was the principal architect of the air campaign and orchestrated its execution.
+▪ You don't orchestrate your own music.
