@@ -23227,6 +23227,1040 @@ From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
 egalitarian
  / I9gAlI5teErIEn; I9^AlE`tZrIEn/ n, adj (person) showing or holding a belief in equal rights, benefits and opportunities for everybody 平等主义的; 平等主义者: an egalitarian attitude to voting 对投票持平等主义的态度.
  > egalitarianism / -IzEm; -IzEm/ n [U]
-=======
->>>>>>> 18d4d3da0f269a2a02b9d6fff094f86d2b9b89d7
->>>>>>> ed60ee8599f499fa179123fc168f1d5d07806595
+
+ flux
+flux [flux fluxes fluxed fluxing] BrE [flʌks]  NAmE [flʌks]  noun
+1. uncountable continuous movement and change
+• Our society is in a state of flux.
+2. countable, usually singular, uncountable (technical) a flow; an act of flowing
+• a flux of neutrons
+ 
+Word Origin:
+late Middle English: from Latin fluxus, from fluere ‘to flow’.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+flux
+
+ / flQks; flQks/ n 
+ [U] continuous change or succession of changes; unsettled state 连续的改变; 接连不断的变化; 不稳定的状态: Organization of the company was then in a state of flux. 当时公司的编制正处于不稳定状态. 
+ [sing] ~ (of sth) (rate of) flow or flowing (out); discharge 流（量）; 流动（量）; 流出（量）: a flux of neutrons 中子通量 * magnetic flux 磁通量. 
+ [C, U] substance used to help metals fuse together 焊剂; 助熔剂.
+From Longman DOCE5 Extras (En-En)
+flux
+noun
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+constant
+▪ The discussion in this chapter should not suggest that the entire rural populace is in constant flux.
+▪ In continental plate tectonics what seems static, the surface of the earth, is in reality in constant flux.
+▪ There is a constant flux, a turnover of letters in the message.
+▪ Heraclitus asserted that all nature is the unity of opposites and constant flux.
+▪ All of these categories are necessarily in constant flux.
+▪ Guided by the churning within the planet, the crust of the earth has been in a constant state of flux.
+▪ The proportions considered normal are in a state of constant flux.
+magnetic
+▪ The left hand can also be used to demonstrate the magnetic flux surrounding a wire carrying a current.
+▪ The field at these sites is particularly intense, as if the magnetic flux lines have been tied into tight bundles.
+▪ The other acts as a pickup coil producing a voltage proportional to the rate of change of magnetic flux linking it.
+▪ Together with differential rotation, this causes a large amount of mechanical energy and magnetic flux to pass through the surface.
+▪ Coiling the wire into a loop permits directional flow of the magnetic flux through the loop.
+■ NOUN
+density
+▪ The integrated flux density for the shell in Fig. 1 is 3.280.24Jy.
+▪ As the winding current is increased, however, the flux density in the iron eventually reaches its saturation level.
+▪ Figure 2 shows the time variation of the flux densities and velocities at peak intensities for the strongest four redshifted components at.
+▪ Although the relative strengths of these components varied, the absolute flux densities of all components generally decreased during January to June.
+▪ The spin-down energy flux density is the third highest known, after the Crab and Vela pulsars.
+
+Nonconformist
+Nonconformist BrE  AmE  adjective
+relating to one of the Protestant Christian churches that have separated from the Church of England
+—Nonconformist noun [countable]
+—Nonconformism noun [uncountable]
+nonconformist
+non‧con‧form‧ist AC /ˌnɒnkənˈfɔːməst◂, ˌnɒnkənˈfɔːmɪst◂ $ ˌnɑːnkənˈfɔːr-/ BrE  AmE  noun [countable]
+someone who does not accept the ways of thinking or behaving accepted by most other people in their society or group
+—nonconformist adjective
+—nonconformity noun [uncountable]
+
+outcast
+out‧cast /ˈaʊtkɑːst $ -kæst/ BrE  AmE  noun [countable]
+someone who is not accepted by the people they live among, or who has been forced out of their home SYN pariah:
+ Smokers often feel as though they are being treated as social outcasts.
+—outcast adjective
+From Oxford Advanced Learners Dictionary 8th Ed.
+outcast
+▪ I. out·cast [outcast outcasts] BrE [ˈaʊtkɑːst]  NAmE [ˈaʊtkæst]  noun
+a person who is not accepted by other people and who sometimes has to leave their home and friends
+• People with the disease were often treated as social outcasts.
+ 
+Example Bank:
+• Her criminal past made her an outcast.
+• an outcast from society
+ 
+▪ II. out·cast adjective
+Main entry: ↑outcastderived
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+outcast
+
+ / 5aUtkB:st; ?@ -kAst; `aJt9kAst/ n, adj ~ (from...) (person) driven away from home, friends, society, etc; homeless and friendless (person) 被（家庭、朋友、社会等）抛弃的（人）; 既无家又无亲友的（人）: be treated as an outcast 遭到被人赶出似的对待.
+ 
+ constructive
+constructive UK  US  [kənˈstrʌk.tɪv] adjective
+If advice, criticism or actions are constructive, they are useful and intended to help or improve something
+• She criticised my writing, but in a way that was very constructive - I learned a lot from her.
+• If you don't have anything constructive to say, I'd rather you kept quiet.
+Thesaurus+: ↑Useful or advantageous
+Derived: constructively
+construct
+construct verb transitive UK  US  [kənˈstrʌkt] [constructs constructing constructed]
+<A > to build something or put together different parts to form something whole
+• to construct a new bridge/building
+• The walls are constructed of concrete.
+• to construct a story/sentence/argument
+Thesaurus+: ↑Construction work and workers
+ 
+• Students need the ability to construct a logical argument.
+• Police officers are trying to construct the timescale of events leading up to the murder.
+• Military engineers hurriedly constructed a pontoon bridge across the river.
+• The pipeline was constructed to transport oil across Alaska to ports on the coast.
+• Ditches were constructed to channel water away from the buildings.
+ 
+noun countable UK  [ˈkɒn.strʌkt] US  [ˈkɑːn-] formal
+an idea or an imaginary situation
+• His reputation as an eccentric is largely a media construct.
+Thesaurus+: ↑Ideas, concepts and theories
+From Longman DOCE 5th Ed. (En-En)
+constructive
+con‧struc‧tive AC /kənˈstrʌktɪv/ BrE  AmE  adjective
+useful and helpful, or likely to produce good results:
+ The meeting was very constructive.
+ We welcome any constructive criticism.
+—constructively adverb
+
+utensil
+
+ / ju:5tensl; ju`tZnsl/ n implement or container, esp for everyday use in the home 用具, 器皿（尤指家庭日用的）: `writing utensils, eg pencils, pens, ink 书写用具（如铅笔、钢笔、墨水） * `cooking/`kitchen utensils, eg pots, pans 烹调[厨房]用具（如罐、锅）.
+From Longman DOCE5 Extras (En-En)
+utensil
+noun
+COLLOCATIONS FROM OTHER ENTRIES
+cooking pot/utensils/equipment etc
+cooking utensils (=pots, spoons, knives etc that you use when cooking)
+▪ The kitchen has all the cooking utensils you will need.
+COLLOCATIONS FROM CORPUS
+■ NOUN
+cooking
+▪ Wash your hands and all cooking utensils and surfaces after preparing raw meat.
+▪ Is it your responsibility to provide linen, blankets, cooking utensils, etc. 14.
+▪ Crockery, cutlery, cooking utensils, pillows and blankets.
+▪ Finally, I did the laundry, cleaned the eating and cooking utensils and washed myself.
+▪ H &038; C, kitchen area with full cooker &038; fridge, crockery, cutlery, cooking utensils, pillows &038; blankets.
+kitchen
+▪ Shoes, clothing, leather goods, candles and kitchen utensils are all produced.
+▪ These promotional items are wonderful collectibles and range from stuffed animals and dolls to cereal bowls and kitchen utensils.
+▪ The mill produced countless products for Woolworths, such as umbrella and kitchen utensil handles, and broom heads.
+▪ Even kitchen utensils are being sold along with a job lot of washing machines, dryers and ironing machines for £200.
+EXAMPLES FROM OTHER ENTRIES
+
+Tuck
+Tuck, Friar BrE  AmE 
+⇨ see ↑Friar Tuck
+tuck
+I. tuck1 /tʌk/ BrE  AmE  verb
+[Date: 1400-1500; Origin: tuck 'to stretch cloth over hooks, pull' (13-19 centuries), from Old English tucian 'to treat badly, punish, criticize angrily']
+1. [transitive always + adverb/preposition] to push something, especially the edge of a piece of cloth or paper, into or behind something so that it looks tidier or stays in place
+tuck something in
+ Jack tucked his shirt in.
+tuck something into/under/behind etc something
+ She tucked an unruly lock of hair behind her ear.
+2. [transitive always + adverb/preposition] to put something into a small space, especially in order to protect, hide, carry, or hold it
+tuck something behind/under/into etc something
+ Giles was tucking his pile of books under his arm.
+ He took the glasses off and tucked them in his pocket.
+3. [transitive] to put a ↑tuck (=special fold) in a piece of clothing
+tuck something ↔ away phrasal verb
+1. be tucked away
+a) if a place is tucked away, it is in a quiet area:
+ The village of Eyam is tucked away behind the hills.
+b) if someone or something is tucked away, they are hidden or difficult to find:
+ The envelope was tucked away in her jewel box.
+2. informal to store something, especially money, in a safe place:
+ Every member of the family can now tuck away either £9 or £18 a month in one of these savings plans.
+3. British English informal to eat a lot of food, usually quickly and with enjoyment
+tuck in phrasal verb
+1. tuck somebody in to make a child comfortable in bed by arranging the sheets around them
+2. tuck something ↔ in to move a part of your body inwards so that it does not stick out so much:
+ Stand up straight and tuck in your tummy.
+3. (also tuck into something) informal to eat something eagerly:
+ The ice creams came and we tucked in.
+ They tucked into a hearty breakfast of eggs.
+tuck somebody ↔ up phrasal verb
+1. to make someone comfortable in bed by arranging the sheets around them:
+ Dad tucked me up in his and Carrie’s bed.
+2. be tucked up in bed informal to be lying or sitting in bed:
+ I ought to be tucked up in bed now.
+II. tuck2 BrE  AmE  noun
+1. [countable] a narrow flat fold of cloth sewn into a piece of clothing for decoration or to give it a special shape
+2. [countable] a small medical operation done to make your face or stomach look flatter and younger:
+ a tummy tuck
+3. [uncountable] British English old-fashioned cakes, sweets etc – used especially by schoolchildren:
+ the school tuck shop
+ 
+ air
+I. air1 S1 W1 /eə $ er/ BrE  AmE  noun
+[Sense 1-7, 9: Date: 1200-1300; Language: Old French; Origin: Latin aer, from Greek]
+[Sense 8: Date: 1500-1600; Origin: Probably a translation of Italian aria; ⇨ ↑aria]
+1. GAS [uncountable] the mixture of gases around the Earth, that we breathe:
+ Let’s go outside and get some fresh air.
+ You need to put some air in the tyres.
+in the air
+ There was a strong smell of burning in the air. ⇨ a breath of fresh air at ↑breath(2)
+2. SPACE ABOVE THE GROUND the air the space above the ground or around things
+into the air
+ Flames leapt into the air.
+through the air
+ He fell 2,000 metres through the air without a parachute.
+3. PLANES
+a) by air travelling by, or using, a plane:
+ I’d prefer to travel by air.
+b) relating to or involving planes:
+ the victims of Britain’s worst air disaster
+ Air travel was growing rapidly.
+ air traffic congestion
+ His brother died in an air crash.
+4. be in the air
+a) if a feeling is in the air, a lot of people feel it at the same time:
+ There was a sense of excitement in the air.
+b) to be going to happen very soon:
+ Change is in the air.
+5. APPEARANCE [singular] if something or someone has an air of confidence, mystery etc, they seem confident, mysterious etc
+air of
+ She had an air of quiet confidence.
+ She looked at him with a determined air.
+6. be up in the air if something is up in the air, no decision has been made about it yet:
+ Our trip is still very much up in the air.
+7. be on/off (the) air to be broadcasting on the radio or television at the present moment, or to stop broadcasting:
+ We’ll be on air in three minutes.
+8. MUSIC [countable] a simple tune, often used in the title of a piece of ↑classical music
+9. airs [plural] a way of behaving that shows someone thinks they are more important than they really are
+put on airs/give yourself airs
+ Trudy is always putting on airs.
+ an actor with no airs and graces
+10. be walking/floating on air to feel very happy
+⇨ ↑hot air, ↑on-air, ⇨ clear the air at ↑clear2(15), ⇨ disappear/vanish into thin air at ↑thin1(15), ⇨ out of thin air at ↑thin1(16)
+• • •
+COLLOCATIONS
+■ adjectives
+▪ fresh She opened the window to let in some fresh air.
+▪ clean London’s air is cleaner than it has been at any time since 1585.
+▪ warm/hot Warm air rises and is replaced by cooler and denser air. | I felt a sudden rush of hot air.
+▪ cool/cold The air had turned a little cooler.
+▪ crisp (=pleasantly cool) the crisp autumn air
+▪ clear I looked up to the stars in the clear night air.
+▪ damp/humid Damp air causes condensation.
+▪ polluted The air in Mexico City is heavily polluted.
+▪ stale (=not fresh and often full of smoke) The room was full of stale air and tobacco smoke.
+▪ the air is thin (=there is less oxygen because you are in a high place) People cannot live up there because the air is too thin and there is not enough oxygen to breathe.
+▪ the morning/evening/night air He stepped out and breathed in the cold morning air.
+▪ the sea/mountain/country air the salty smell of the sea air
+▪ the still air (=air in which there is no wind) Smoke from the chimneys hung in the still air.
+■ air + NOUN
+▪ air pollution Most air pollution is caused by cars.
+▪ the air quality The air quality is very poor on hot days.
+▪ the air pressure The air pressure had dropped.
+■ phrases
+▪ a breath of air I went outside for a breath of air.
+▪ a rush/blast/stream of air There was a cold rush of air as she wound down her window.
+▪ a current of air The birds are able to glide on a current of warm air.
+■ verbs
+▪ breathe in the air She breathed in the cool mountain air.
+▪ fight/gasp for air (=try to breathe with difficulty) He clutched his throat as he fought for air.
+▪ let in some air (=let fresh air into a room) It would be nice to open the door and let in some air.
+▪ put air into something (=fill a tyre, balloon etc with air) I need to put some air in the tyres.
+II. air2 BrE  AmE  verb
+1. OPINION [transitive] to express your opinions publicly
+air your views/grievances/complaints etc
+ Staff will get a chance to ask questions and air their views.
+2. TV/RADIO [intransitive and transitive] to broadcast a programme on television or radio:
+ KPBS airs such popular children’s programs as ‘Barney’ and ‘Sesame Street’.
+ The program is due to air next month.
+3. ROOM [transitive] especially British English, air something out American English to let fresh air into a room, especially one that has been closed for a long time
+4. CLOTHES [intransitive and transitive] especially British English, air (something) out American English to put a piece of clothing in a place that is warm or has a lot of air, so that it smells clean:
+ I’ve left my sweater outside to air.
+⇨ ↑airing, ⇨ air your dirty laundry at ↑dirty1(7)
+
+trench
+trench UK  US  [tren t ʃ] noun [trenches]
+1. countable a narrow hole which is dug into the ground
+• A workman was killed when the sides of the trench he was working in collapsed.
+Thesaurus+: ↑Ditches, dams and tunnels
+2. countable usually plural a deep hole dug by soldiers and used as a place from which they can attack the enemy while being hidden
+• the trenches of World War I
+• trench warfare
+Compare foxhole
+Thesaurus+: ↑Ditches, dams and tunnels
+From Longman DOCE 5th Ed. (En-En)
+trench
+trench /trentʃ/ BrE  AmE  noun [countable]
+[Date: 1300-1400; Language: Old French; Origin: trenche 'act of cutting', from trenchier 'to cut', probably from Latin truncare; ⇨ ↑truncate]
+1. a long narrow hole dug into the surface of the ground:
+ Workers dug a trench for gas lines.
+2. technical a long narrow valley in the ground beneath the sea
+3. [usually plural] a deep trench dug in the ground as a protection for soldiers:
+ the trenches of World War I
+4. the trenches the place or situation where most of the work or action in an activity takes place:
+ Lane left teaching after 30 years in the trenches.
+ 
+ (be) a dime a dozen
+be a dime a dozen idiom US (UK also be two/ten a penny)
+to be common and/or of very little value
+• Books like this are a dime a dozen.
+Thesaurus+: ↑Plain and ordinary ↑Tedious and uninspiring
+Main entry: dimeidiom
+From Oxford Advanced Learners Dictionary 8th Ed.
+(a) dime a dozen
+a ˌdime a ˈdozen idiom
+(NAmE) (BrE ˌtwo/ˌten a ˈpenny) very common and therefore not valuable
+Main entry: ↑dimeidiom
+
+pit
+I. pit1 /pɪt/ BrE  AmE  noun [countable]
+[Sense 1-5,7-13: Language: Old English; Origin: pytt]
+[Sense 6: Date: 1800-1900; Language: Dutch]
+1. HOLE
+a) a hole in the ground, especially one made by digging:
+ The female digs a pit in which to lay the eggs.
+ a five-foot deep pit ⇨ ↑sandpit
+b) a large hole in the ground from which stones or minerals are obtained by digging
+gravel/sand/chalk pit
+2. MINE especially British English a coal mine:
+ Dad first went down the pit (=worked in a coal mine) when he was 15 years old.
+ a national strike against pit closures
+3. MARK a small hollow mark in the surface of something, especially on your skin as the result of a disease:
+ the deep pits left by smallpox
+4. UNTIDY PLACE [usually singular] informal a house or room that is dirty, untidy, or in bad condition
+5. be the pits informal to be extremely bad:
+ The company refused to pay – I think it’s the pits.
+6. in/at the pit of your stomach if you have a feeling in the pit of your stomach, you have a sick or tight feeling in your stomach, usually because you are nervous or afraid:
+ I had a feeling in the pit of my stomach that something terrible was going to happen.
+7. CAR RACING the pits the place beside the track in a car race where cars can come in for petrol, new tyres etc ⇨ ↑pit stop
+8. IN A THEATRE an ↑orchestra pit
+9. IN A GARAGE a hole in the floor of a garage that lets you get under a car to repair it:
+ an inspection pit
+10. a/the pit of something literary a situation which makes you feel very bad:
+ Just thinking about the future plunged her into a pit of despair.
+11. IN FRUIT especially American English the single large hard seed in some fruits SYN stone British English:
+ a peach pit
+12. BODY PART informal an ↑armpit
+13. BUSINESS American English the area of a ↑stock exchange where people buy and sell shares SYN floor British English
+II. pit2 BrE  AmE  verb (past tense and past participle pitted, present participle pitting)
+1. [transitive usually passive] to put small marks or holes in the surface of something
+be pitted with something
+ The whole street was pitted with potholes.
+2. [transitive] especially American English to take out the single hard seed inside some fruits SYN stone:
+ Peel and pit two avocados.
+3. [intransitive] American English to stop in a car race to get petrol or have your car repaired
+⇨ ↑pitted
+pit somebody/something against somebody/something phrasal verb
+to test someone’s strength, ability, power etc in a competition or fight against someone or something else:
+ We’ll be pitting our team against the champions.
+pit your wits against somebody (=compete against someone using your intelligence or knowledge)
+ Pit your wits against family or friends!
+pit yourself against something/somebody
+ The men had to pit themselves against the forces of nature.
+pit out phrasal verb American English informal
+to ↑sweat so much that your clothes become wet under your arms
+
+proliferate
+
+ / prE5lIfEreIt; ?@ prEU-; pro`lIfE9ret/ v 
+ [I] produce new growth or offspring rapidly; multiply （迅速地）繁殖; 增殖; 增生. 
+ [Tn] reproduce (cells, etc) 分裂, 繁殖（细胞等）. 
+ [I] increase rapidly in numbers （数量）激增.
+
+ > proliferation / prE9lIfE5reIFn; ?@ prEU-; pro9lIfE`reFEn/ n 
+ [U] proliferating or being proliferated （迅速的）繁殖; 增殖; 增生: [attrib 作定语] a nuclear non-proliferation treaty, ie one aimed at preventing the spreadof nuclear weapons to countries that do not already possess them 禁止核扩散条约. 
+ [C usu sing 通常作单数] rapid growth or increase 迅速的繁殖或增长.
+From Longman DOCE5 Extras (En-En)
+proliferation
+noun
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+cellular
+▪ This could result from bile acid mediated effects on cellular proliferation through several possible pathways as already discussed.
+▪ Both are characterised by a focal or multifocal pattern of distribution, abnormal cellular proliferation, and a genetic component.
+▪ Conversely, a low fibre diet did not lead to changes in cellular proliferation which might be associated with mucosal instability.
+mucosal
+▪ We have previously reported how mucosal proliferation may be influenced by proximity to a tumour.
+▪ Discussion Our results are consistent with observations in man that mucosal proliferation decreases with distance from the ileocaecal valve to the rectum.
+▪ Limited studies have been published on human gastric mucosal cell proliferation and a detailed overview of such work has been published.
+▪ Our data are also consistent with observations in man that mucosal proliferation is increased in patients with large adenomas or cancer.
+▪ The study of gastric mucosal proliferation may have important clinical applications.
+nuclear
+▪ It has to harry the government to take a less relaxed view on international nuclear proliferation.
+▪ Suddenly nuclear proliferation became a high-priority concern in Washington.
+▪ Under nuclear proliferation safeguards, plutonium shipments have to be accompanied by armed vessels.
+▪ We have to face the fact that there is a bigger risk of nuclear proliferation at present than the world has ever known.
+▪ Lugar has devoted most of his ad time and speeches to foreign policy, particularly the threat of nuclear proliferation.
+▪ The legislation stated that the plant posed serious environmental hazards and increased the risk of nuclear proliferation.
+▪ Discussions of future reactor safety should revolve about two critical issues: nuclear waste disposal and nuclear weapons proliferation.
+■ NOUN
+cell
+▪ This indicates that the stimulation of cell proliferation may not be the only factor in ulcer healing by sucralfate.
+▪ Future advances in technology may disclose other, more sensitive markers of cell proliferation whose predictive accuracy is greater.
+▪ Supplementary dietary calcium has been shown in some studies to reduce colonic cell proliferation in man.
+▪ It is thought to reflect defective cell proliferation control and delayed onset of normal differentiation.
+▪ Proliferating cell nuclear antigen immunohistochemical technique although a promising method of assessing cell proliferation has yet to be fully standardised.
+▪ A similar paradox pertains in the relationship between dietary fibre, colonic cell proliferation, and experimental carcinogenesis.
+▪ Oat bran has been shown to increase tumourigenesis yet it does not effect colonic cell proliferation.
+▪ Several theories of the factors causing smooth muscle cell proliferation have been made.
+■ VERB
+lead
+▪ For it is easy to think of other examples where the lexical choice will lead to a further proliferation of senses.
+▪ This led to a proliferation of market-dominating, IBM-compatible machines and shrinking market share for Apple.
+prevent
+▪ CsA prevents T-cell proliferation by blocking the calcium-activated pathway leading to interleukin-2 transcription.
+▪ We will in addition work for a global ban on chemical and biological weapons and stronger controls to prevent proliferation of ballistic missiles.
+▪ Thus, it remains essential to maintain adequate defences against such dictators and to prevent the further proliferation of nuclear arms.
+EXAMPLES FROM CORPUS
+▪ Future advances in technology may disclose other, more sensitive markers of cell proliferation whose predictive accuracy is greater.
+▪ Malignant melanoma of the skin is caused by cancerous proliferation of melanocytes.
+▪ Neither in Feyerabend's image of theory proliferation nor in Kuhn's paradigm shifts is there any simple model of progress.
+▪ Shortening product life cycles and rapid product proliferation mean that investment in innovation is critical in global competition.
+▪ The mean proliferation indices within compartments were nearly identical for both assays.
+▪ This indicates that the stimulation of cell proliferation may not be the only factor in ulcer healing by sucralfate.
+▪ This led to a proliferation of market-dominating, IBM-compatible machines and shrinking market share for Apple.
+▪ Where will this proliferation of athletics end?
+
+perfectionism
+perfectionism UK  [pəˈfek.ʃ ə n.ɪ.z ə m] US  [pɚ-] noun uncountable
+the wish for everything to be correct
+• Obsessive perfectionism can be very irritating.
+Thesaurus+: ↑Wanting everything to be right
+From Longman DOCE 5th Ed. (En-En)
+perfectionism
+See main entry: ↑perfectionist
+From Oxford Advanced Learners Dictionary 8th Ed.
+perfectionism
+per·fec·tion·ism BrE [pəˈfekʃənɪzəm] ; NAmE [pərˈfekʃənɪzəm]  noun uncountable
+• Her perfectionism is evident at work and at home.
+Main entry: ↑perfectionistderived
+
+
+2. cross your fingers
+a) to hope that something will happen the way you want:
+ We’re keeping our fingers crossed that she’s going to be OK.
+b) to secretly put one finger over another finger, because you are telling a lie – done especially by children:
+ ‘He’s nice,’ said Laura, crossing her fingers under the table.
+3. not lift/raise a finger to not make any effort to help someone with their work:
+ I do all the work around the house – Frank never lifts a finger.
+4. put your finger on something to know or be able to explain exactly what is wrong, different, or unusual about a situation:
+ There was something about the man that worried Wycliffe, but he couldn’t put his finger on it.
+5. not lay a finger on somebody to not hurt someone at all, especially to not hit them:
+ Don’t lay a finger on me, or I’ll call the police!
+6. have/keep your finger on the pulse (of something) to always know about the most recent changes or developments in a particular situation or activity:
+ people who have their finger on the pulse of fashion and pop culture
+7. have a finger in every pie/ in many pies to be involved in many activities and to have influence over a lot of people, used especially when you think someone has too much influence
+8. twist/wrap/wind somebody around your little finger to be able to persuade someone to do anything that you want:
+ Ed could wrap his mother around his little finger.
+9. the finger of blame/suspicion:
+ The finger of suspicion immediately fell on Broderick.
+10. OF A GLOVE the part of a ↑glove that covers your finger
+11. SHAPED LIKE A FINGER anything that is long and thin, like the shape of a finger, especially a piece of land, an area of water, or a piece of food:
+ fish fingers
+ chocolate fingers
+finger of
+ the long finger of Chile
+12. pull/get your finger out British English informal used to tell someone to work harder
+13. put two fingers up at somebody British English informal to show someone you are angry with them in a very offensive way by holding up your first two fingers with the back of your hand facing them
+14. give somebody the finger American English informal to show someone you are angry with them in a very offensive way by holding up your middle finger with the back of your hand facing them
+15. be all fingers and thumbs British English to use your hands in an awkward or careless way, so that you drop or break things
+16. long-fingered/slim-fingered etc having long fingers, slim fingers etc:
+ lovely long-fingered hands
+17. DRINK an amount of an alcoholic drink that is as high in the glass as the width of someone’s finger:
+ two fingers of whiskey
+⇨ ↑butterfingers, ↑fish finger, ⇨ have your hands/fingers in the till at ↑till2(3), ⇨ count something on the fingers of one hand at ↑count1(7), ⇨ have green fingers at ↑green1(10), ⇨ burn your fingers/get your fingers burnt at ↑burn1(16), ⇨ point the/a finger at somebody at ↑point2(9), ⇨ let something slip through your fingers at ↑slip1(15), ⇨ snap your fingers at ↑snap1(7), ⇨ have sticky fingers at ↑sticky(6), ⇨ work your fingers to the bone at ↑work1(29)
+
+Commission
+Commission, the BrE  AmE 
+an informal name for the ↑European Commission
+commission
+I. com‧mis‧sion1 S3 W2 /kəˈmɪʃən/ BrE  AmE  noun
+[Date: 1300-1400; Language: Old French; Origin: Latin commissio, from commissus, past participle of committere; ⇨ ↑commit]
+1. [countable] a group of people who have been given the official job of finding out about something or controlling something:
+ The Government set up a commission to investigate allegations of police violence.
+commission on
+ the Royal Commission on Environmental Pollution
+2. [uncountable and countable] an extra amount of money that is paid to a person or organization according to the value of the goods they have sold or the services they have provided:
+ The dealer takes a 20% commission on the sales he makes.
+on commission
+ He sold cosmetics on commission.
+3. [countable] a request for an artist, designer, or musician to make a piece of art or music, for which they are paid:
+ a commission from the Academy for a new sculpture
+4. [countable] the position of an officer in the army, navy etc
+5. [uncountable] formal the commission of a crime is the act of doing it ⇨ commit
+6. out of commission
+a) not working or not available for use:
+ One of the ship’s anchors was out of commission.
+b) informal ill or injured, and unable to work
+7. in commission available to be used:
+ The operating theatres will be back in commission next week.
+• • •
+COLLOCATIONS
+■ verbs
+▪ set up/establish/create a commission They set up a commission to investigate the problem of youth crime.
+▪ appoint a commission (=choose the members of a commission) The President appointed a commission to develop standards in schools.
+▪ head a commission (=be in charge of one) He was elected to head a commission on tax reform.
+▪ a commission recommends something The commission recommended that the federal government change the way it measures inflation.
+▪ a commission approves something The commission approved the plan.
+■ ADJECTIVES/NOUN + commission
+▪ a special commission A special commission was set up to investigate the killings.
+▪ an independent commission The plan requires approval by an independent commission.
+▪ an international commission an international commission on climate change
+▪ a parliamentary commission A report was made by a special parliamentary commission.
+▪ a government commission A government commission regulates the process.
+▪ a national/federal commission the National Commission on Terrorism
+▪ a presidential commission the Presidentail Commission on Health Care
+▪ a joint commission (=involving two or more countries or groups) a new India-Sri Lanka joint commission
+▪ an investigative/investigating commission An investigative commission was set up immediately after the incident.
+II. commission2 AC BrE  AmE  verb
+1. [transitive] to formally ask someone to write an official report, produce a work of art for you etc:
+ The report was commissioned by the Welsh Office.
+commission somebody to do something
+ Macmillan commissioned her to illustrate a book by Spike Milligan.
+2. be commissioned (into something) to be given an officer’s rank in the army, navy etc:
+ I was commissioned into the RAF.
+ 
+ busyness (uncountable)
+The state of being busy.
+2004, Alan Hollinghurst, The Line of Beauty, Bloomsbury, 2005, Chapter 17 (ii),
+She moved back to the table, and her busyness expressed her purpose but also perhaps hid some sort of regret at the news.
+
+ministry
+min‧is‧try W2 AC /ˈmɪnəstri, ˈmɪnɪstri/ BrE  AmE  noun (plural ministries)
+[Word Family: noun: ↑ministry, ↑minister; adjective: ↑ministerial]
+[Date: 1300-1400; Language: Latin; Origin: ministerium, from minister; ⇨ ↑minister1]
+1. [countable] a government department that is responsible for one of the areas of government work, such as education or health
+ministry of
+ the Ministry of Agriculture
+foreign/justice/finance etc ministry
+ a Defence Ministry spokesman
+2. the ministry the profession of being a church leader, especially in the Protestant Church:
+ Converted in his early teens, he entered the ministry (=started working as a church leader) in 1855.
+3. [countable usually singular] the work done by a priest or other religious person as a result of their religious beliefs:
+ the ministry of Jesus
+ 
+ pawn
+I. pawn1 /pɔːn $ pɒːn/ BrE  AmE  noun [countable]
+[Date: 1300-1400; Language: Anglo-French; Origin: poun, from Medieval Latin pedo 'soldier']
+1. one of the eight smallest and least valuable pieces which each player has in the game of ↑chess
+2. someone who is used by a more powerful person or group and has no control of the situation
+pawn in
+ They became pawns in the political battle.
+II. pawn2 BrE  AmE  verb [transitive]
+[Date: 1500-1600; Origin: pawn 'condition of having been pawned' (15-21 centuries), from Old French pan]
+to leave something valuable with a pawnbroker in order to borrow money from them
+pawn something ↔ off phrasal verb American English
+1. informal to persuade someone to buy or accept something that you want to get rid of, especially something of low quality
+pawn something ↔ off on
+ Don’t let him pawn off an old bike on you – get a new one.
+2. pawn somebody/something ↔ off as something to present something in a dishonest way:
+ The tabloids often pawn off gossip and trivia as real news.
+ 
+ gambit
+gambit UK  US  [ˈgæm.bɪt] noun countable [gambits]
+ 
+CLEVER ACTION
+1. a clever action in a game or other situation which is intended to achieve an advantage and usually involves taking a risk
+• Her clever opening gambit gave her an early advantage.
+• Their promise to lower taxes is clearly an election-year gambit.
+Thesaurus+: ↑Acting and acts ↑Dealing with things or people
+2. specialized a way of beginning a game of chess, in which you intentionally lose a pawn (= game piece) in order to win some other form of advantage later
+Thesaurus+: ↑Chess
+ 
+REMARK
+3. a remark that you make to someone in order to start a conversation
+• "I hear you're a friend of Jamie's," was her opening gambit.
+Thesaurus+: ↑Informal talking and conversation
+From Longman DOCE 5th Ed. (En-En)
+gambit
+gam‧bit /ˈɡæmbət, ˈɡæmbɪt/ BrE  AmE  noun [countable]
+[Date: 1600-1700; Language: Italian; Origin: gambetto 'act of making someone fall over', from gamba 'leg']
+1. something that you do or say which is intended to give you an advantage in an argument:
+ a clever debating gambit
+ These questions are often an opening gambit (=the thing you say first) for a negotiation.
+2. a planned series of moves at the beginning of a game of ↑chess
+From Oxford Advanced Learners Dictionary 8th Ed.
+gambit
+gam·bit [gambit gambits] BrE [ˈɡæmbɪt]  NAmE [ˈɡæmbɪt]  noun
+1. a thing that sb does, or sth that sb says at the beginning of a situation or conversation, that is intended to give them some advantage
+• an opening gambit (= the first thing you say)
+• The opposition have dismissed promises of tax cuts as a pre-election gambit.
+• His idea of a brilliant conversational gambit is ‘What's a nice girl like you doing in a place like this?’
+2. a move or moves made at the beginning of a game of ↑chess in order to gain an advantage later
+ 
+Word Origin:
+mid 17th cent.: originally gambett, from Italian gambetto, literally ‘tripping up’, from gamba ‘leg’.
+ 
+Example Bank:
+• It looks as if their gambit has paid off.
+• It was a clever publicity gambit that ended in tragedy.
+• The long silences were a gambit to make him talk.
+
+psychotherapist
+psychotherapist UK  US  [ˌsaɪ.kəˈθer.ə.pɪst] noun countable [psychotherapists]
+someone who gives people psychotherapy
+• He sees a psychotherapist twice a week.
+Thesaurus+: ↑Counselling and psychotherapy
+psychotherapy
+psychotherapy UK  [ˌsaɪ.kə ʊ ˈθer.ə.pi] US  [-koʊ-] noun uncountable
+the treatment of mental illness by discussing the problems which caused it with the sufferer, instead of using drugs or operations
+Thesaurus+: ↑Counselling and psychotherapy
+From Longman DOCE 5th Ed. (En-En)
+psychotherapist
+See main entry: ↑psychotherapy
+psychotherapy
+psy‧cho‧ther‧a‧py /ˌsaɪkəʊˈθerəpi $ -koʊ-/ BrE  AmE  noun [uncountable]
+the treatment of mental illness, for example ↑depression, by talking to someone and discussing their problems rather than giving them drugs
+—psychotherapist noun [countable]
+
+psychologist
+psychologist UK  [saɪˈkɒl.ə.dʒɪst] US  [-ˈkɑː.lə-] noun countable [psychologists]
+<A > someone who studies the human mind and human emotions and behaviour, and how different situations have an effect on them
+• a child psychologist
+• an educational psychologist
+• She spent 15 years as a clinical psychologist with the Northumberland Health Authority.
+Thesaurus+: ↑Science of psychology and psychoanalysis ↑Mind and personality
+ 
+• Research psychologists normalize the results of their studies by comparing their subjects' behaviour with that of the general public.
+• Despite what many people think, aversion therapy is no longer used by professional psychologists in this country.
+• The psychologist's attitude seemed far too casual, even brutal.
+From Longman DOCE 5th Ed. (En-En)
+psychologist
+psy‧chol‧o‧gist AC /saɪˈkɒlədʒəst, saɪˈkɒlədʒɪst $ -ˈkɑː-/ BrE  AmE  noun [countable]
+[Word Family: noun: ↑psychology, ↑psychologist; adverb: ↑psychologically; adjective: ↑psychological]
+someone who is trained in psychology ⇨ psychiatrist:
+ a clinical psychologist
+• • •
+THESAURUS
+■ a doctor who treats mental illness
+▪ psychiatrist /saɪˈkaɪətrəst, saɪˈkaɪətrɪst $ sə-/ a doctor who is trained to treat people with mental illnesses: In order to become a psychiatrist, you first need a medical degree.
+▪ psychologist /saɪˈkɒlədʒəst, saɪˈkɒlədʒɪst $ -ˈkɑː-/ a scientist who studies and is trained in ↑psychology (=the study of the mind): Many psychologists believe that aggression is a learned behaviour.
+▪ shrink informal a humorous word for a ↑psychiatrist
+▪ therapist a trained person whose job is to help people with their emotional problems, especially by talking to them and asking them to talk about their feelings
+
+culprit
+culprit UK  US  [ˈkʌl.prɪt] noun countable [culprits]
+1. someone who has done something wrong
+• Police hope the public will help them to find the culprits.
+Thesaurus+: ↑Criminals - general words
+2. a fact or situation that is the reason for something bad happening
+• Children in this country are getting much too fat, and sugar and sweets are the main culprits.
+Thesaurus+: ↑Reasons and explanations
+From Longman DOCE 5th Ed. (En-En)
+culprit
+cul‧prit /ˈkʌlprət, ˈkʌlprɪt/ BrE  AmE  noun [countable]
+[Date: 1600-1700; Language: Anglo-French; Origin: cul (from culpable 'guilty') + prit 'ready (to prove it)']
+1. the person who is guilty of a crime or doing something wrong ⇨ victim:
+ Police finally managed to catch the culprit.
+2. informal the reason for a particular problem or difficulty:
+ High production costs are the main culprit.
+From Oxford Advanced Learners Dictionary 8th Ed.
+culprit
+cul·prit [culprit culprits] BrE [ˈkʌlprɪt]  NAmE [ˈkʌlprɪt]  noun
+1. a person who has done sth wrong or against the law
+• The police quickly identified the real culprits.
+2. a person or thing responsible for causing a problem
+• The main culprit in the current crisis seems to be modern farming techniques.
+ 
+Word Origin:
+late 17th cent. (originally in the formula Culprit, how will you be tried?, said by the Clerk of the Crown to a prisoner pleading not guilty): perhaps from a misinterpretation of the written abbreviation cul. prist for Anglo-Norman French Culpable: prest d'averrer notre bille ‘(You are) guilty: (We are) ready to prove our indictment’; in later use influenced by Latin culpa ‘fault, blame’.
+ 
+Example Bank:
+• Keep the kitchen clear of all sources of bacteria, not forgetting the biggest culprit of all— the dishcloth.
+• Police hunting the culprits have condemned the attack.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+culprit
+
+ / 5kQlprIt; `kQlprIt/ n person who has done sth wrong; offender 犯过者; 犯罪者: Someone broke a cup: who was the culprit? 有人把杯子打碎了, 是谁干的? * Police are searching for the culprits. 警方正在搜捕罪犯.
+ 
+ gut feeling (plural gut feelings)
+(idiomatic) An instinct or intuition; an immediate or basic feeling or reaction without a logical rationale.
+Don't think too hard about the answers to a personality test; just go with your gut feeling.
+Houston had a gut feeling he was being followed, so he hurried to his car.
+2021 April 29, Sabrina Tavernise, quoting Jeff Huntsinger, “Vaccine Skepticism Was Viewed as a Knowledge Problem. It’s Actually About Gut Beliefs.”, in The New York Times‎[1], ISSN 0362-4331:
+“At the root are these moral intuitions — these gut feelings — and they are very strong,” said Jeff Huntsinger, a social psychologist at Loyola University Chicago who studies emotion and decision-making and collaborated with Dr. Omer’s team.
+
+crutch
+I. crotch /krɒtʃ $ krɑːtʃ/ BrE  AmE  (also crutch British English) noun [countable]
+[Date: 1500-1600; Origin: Probably from crutch]
+the part of your body between the tops of your legs, or the part of a piece of clothing that covers this ⇨ groin
+II. crutch /krʌtʃ/ BrE  AmE  noun [countable]
+[Language: Old English; Origin: crycc]
+
+1. [usually plural] one of a pair of long sticks that you put under your arms to help you walk when you have hurt your leg
+on crutches (=using crutches)
+ I was on crutches for three months after the operation.
+2. something that gives someone support or help, especially something that is not really good for them:
+ As things got worse at work, he began to use alcohol as a crutch.
+3. British English the part of your body between the tops of your legs SYN crotch
+From Oxford Advanced Learners Dictionary 8th Ed.
+crutch
+crutch [crutch crutches] BrE [krʌtʃ]  NAmE [krʌtʃ]  noun
+1. one of two long sticks that you put under your arms to help you walk after you have injured your leg or foot
+• After the accident I spent six months on crutches.
+2. (usually disapproving) a person or thing that gives you help or support but often makes you depend on them too much
+• High interest rates are merely a crutch for the country's ailing economy.
+• He sees religion as an emotional crutch.
+
+intuition
+intuition UK  [ˌɪn.tjuːˈɪʃ. ə n] US  [-tuː-] noun countable or uncountable [intuitions]
+(knowledge from) an ability to understand or know something immediately without needing to think about it, learn it or discover it by using reason
+• Often there's no clear evidence one way or the other and you just have to base your judgment on intuition.
+• + (that) I can't explain how I knew - I just had an intuition that you'd been involved in an accident.
+Thesaurus+: ↑Predicting things and intuition
+From Longman DOCE 5th Ed. (En-En)
+intuition
+in‧tu‧i‧tion /ˌɪntjuˈɪʃən $ -tu-, -tju-/ BrE  AmE  noun
+[Date: 1400-1500; Language: Late Latin; Origin: intuitio, from Latin intueri 'to look at, think about']
+1. [uncountable] the ability to understand or know something because of a feeling rather than by considering the facts SYN instinct:
+ feminine intuition
+ Intuition told her it was unwise to argue.
+2. [countable] an idea about what is true in a particular situation based on a feeling rather than facts
+intuition (that)
+ He had an intuition there was trouble brewing.
+ We should trust our intuitions.
+From Oxford Advanced Learners Dictionary 8th Ed.
+intuition
+in·tu·ition [intuition intuitions] BrE [ˌɪntjuˈɪʃn]  NAmE [ˌɪntuˈɪʃn]  noun
+1. uncountable the ability to know sth by using your feelings rather than considering the facts
+• Intuition told her that he had spoken the truth.
+• He was guided by intuition and personal judgement.
+• The answer came to me in a flash of intuition.
+2. countable ~ (that…) an idea or a strong feeling that sth is true although you cannot explain why
+• I had an intuition that something awful was about to happen.
+ 
+Word Origin:
+late Middle English (denoting spiritual insight or immediate spiritual communication): from late Latin intuitio(n-), from Latin intueri ‘consider’, from in- ‘upon’ + tueri ‘to look’.
+ 
+Example Bank:
+• Her feminine intuition told her that he was unhappy.
+• Intuition told me we were going in the wrong direction.
+• It came upon him in a flash of intuition.
+• Most business decisions are guided by pure intuition.
+• She had an intuition that her mother wasn't very well.
+• She learned to trust her intuitions about other people's motives.
+• There is a moral intuition that the better-off should give to the worse-off.
+• an intuition about where to find wild strawberries
+• the intuition behind her theory
+• Call it women's intuition if you like, but I knew he was up to something.
+• His presence there confirmed my original intuition.
+• I seem to get to the answers as much by intuition as by any special knowledge.
+• Intuition told her that he was telling the truth.
+• Jack's intuition to call her that day had been right.
+• The contestants will be given no instructions but will have to rely on their own intuition.
+• We weren't sure whether our intuitions were correct.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+intuition
+
+ / 9Intju:5IFn; ?@ -tu-; 9Intu`IFEn/ n (often approv 常作褒义) 
+ [U] (power of) understanding things (eg a situation, sb's feelings) immediately, without the need for conscious reasoning or study 直觉; 直觉力: know sth by intuition 凭直觉了解某事物 * Nobody told me where to find you. It was sheer intuition. 没有人告诉我到哪儿去找你. 我纯粹是凭直觉找到你的. * Intuition told me you were here. 我凭直觉知道你在这儿. 
+ [C] ~ (about sth/that...) piece of knowledge gained by this power 凭直觉感知的信息: I had a sudden intuition about the missing jewels. 我凭直觉突然对失去的珠宝有所感知. * I had an intuition that we would find them there. 我有一种直觉, 我们可以在那里找到他们. * My intuitions proved correct. 我的直觉确实是正确的.
+
+ > intuitive / In5tju:ItIv; ?@ 5tu:-; In`tuItIv/ adj (a) of or coming from intuition 直觉的; 来自直觉的: intuitive knowledge 凭直觉知道 * an intuitive feeling (about sb), approach (to sth), assessment (of sth), etc （对某人）直觉的感觉、（对某事）直觉的态度、（对某事物）直觉的评价. (b) possessing intuition 有直觉力的: Are women more intuitive than men? 女子比男子的直觉力更强吗? intuit-ively adv: He seemed to know intuitively how to do it. 他似乎凭直觉知道如何做.
+ 
+ ˌslippery ˈslope noun only singular UK  US 
+a bad situation or habit which, after it has started, is likely to get very much worse
+• You're on a slippery slope once you start lying about your age!
+Thesaurus+: ↑Deteriorating and making worse
+
+
+determinant
+de‧ter‧mi‧nant /dɪˈtɜːmɪnənt $ -ɜːr-/ BrE  AmE  noun [countable]
+formal something that strongly influences what you do or how you behave
+determinant of
+ Social class is a major determinant of consumer spending patterns.
+From Oxford Advanced Learners Dictionary 8th Ed.
+determinant
+de·ter·min·ant [determinant determinants] BrE [dɪˈtɜːmɪnənt]  NAmE [dɪˈtɜːrmɪnənt]  noun (formal)
+a thing that decides whether or how sth happens
+ 
+Word Origin:
+early 17th cent.: from Latin determinant- ‘determining’, from the verb determinare ‘limit, fix’, from de- ‘completely’ + terminare ‘terminate’.
+ 
+Example Bank:
+• Interest rates are a major determinant of currency trends.
+• It was only a secondary factor, not the sole determinant.
+• We need to identify the social and economic determinants of ill health.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+determinant
+
+ / dI5t\:mInEnt; dI`t[mEnEnt/ n, adj (fml 文) (thing) that determines or decides how or if sth happens 决定因素; 决定性的: The main determinant of economic success is our ability to control inflation. 经济方面的成就主要取决于我们控制通货膨胀的能力.
+From Longman DOCE5 Extras (En-En)
+determinant
+noun
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+behavioural
+▪ Purchase and consumption behaviour will be as much influenced by social groups as by any other form, of behavioural determinant.
+▪ It is essential for the marketer to understand the behavioural determinants of people's attitudes and purchase behaviour.
+▪ This section contains a detailed analysis of the behavioural determinants.
+▪ The chapter then turns to a detailed analysis of the behavioural determinants of consumer demand.
+▪ It continues the examination of the behavioural determinants of demand, by looking first at the role and significance of social class.
+▪ Social class is a major behavioural determinant of consumer buying behaviour, and its importance is widely acknowledged by marketers.
+crucial
+▪ The crucial determinants there are profitability, cash flow and capital base.
+economic
+▪ Policy strategies which attack the social and economic determinants of ill-health are dismissed as futile attempts at social engineering.
+▪ Western economic and social determinants were changing rapidly.
+important
+▪ The single most important determinant of future prognosis remains left ventricular function.
+▪ Consumption skills are an important determinant of leisure behaviour.
+▪ The top team A particularly important determinant of successful executive succession is the orientation of the members of the top team.
+▪ First, it gives us an insight into why income is an important determinant of demand.
+▪ Industrial economics Technological innovation is recognised to be an important determinant of industrial competitiveness.
+▪ Defibrillation Early defibrillation remains the most important determinant of survival in cardiac arrest victims.
+▪ Number and diameter as indicators of the total stone mass seem to be important determinants with regard to complete stone disappearance.
+▪ Management studies Marketing is believed to be an important determinant of industrial competitiveness.
+
+stature
+stature UK  [ˈstætʃ.ə r ] US  [-ɚ] noun
+ 
+REPUTATION
+1. uncountable the good reputation a person or organization has, based on their behaviour and ability
+• an artist of great stature
+• His stature as an art critic was tremendous.
+• If the school continues to gain in stature, it will attract the necessary financial support.
+Thesaurus+: ↑Reputation
+ 
+HEIGHT
+2. countable usually singular slightly formal (especially of people) height
+• His red hair and short stature made him easy to recognize.
+Thesaurus+: ↑High, tall and deep
+From Longman DOCE 5th Ed. (En-En)
+stature
+stat‧ure /ˈstætʃə $ -ər/ BrE  AmE  noun [uncountable] written
+[Date: 1200-1300; Language: Old French; Origin: Latin statura, from status; ⇨ ↑state1]
+1. the degree to which someone is admired or regarded as important
+of world/international/national stature
+ Armstrong was a musician of world stature.
+ He grew in stature (=became more admired or popular) during the campaign.
+stature as
+ his growing stature as an artist
+2. someone’s height or size:
+ Bernard was short in stature, with a large head.
+• • •
+THESAURUS
+▪ reputation noun [countable] the opinion that people have about a person, organization etc because of what has happened in the past: She was a good lawyer with a reputation for honesty and diligence. | The school had an excellent reputation. | The lawsuit has damaged the company’s reputation.
+▪ image noun [countable] the idea that people have about what something is like, especially when this is created through newspaper stories, advertising etc: A PR campaign was launched in an effort to improve the company’s image. | Boxing has rather a negative image. | The princess tried to project an image of herself as serious and hard-working (=she tried to give people the idea that she was serious and hard-working).
+▪ name noun [singular] the reputation that a person, organization etc has – used especially in the following phrases: The company is anxious to protect its good name. | Cyclists who ignore traffic rules give other cyclists a bad name. | Electrolux has a name for making top quality vacuum cleaners. | He went to court in order to try to clear his name (=prove that he is innocent).
+▪ standing noun [uncountable] someone’s reputation and position compared to other people in a group or society, based on other peoples’ opinion of them: The class system in Great Britain encourages people to be very aware of their social standing. | He needs to improve his standing among female voters. | Jacques Tati was a man of international standing in the world of screen comedy.
+▪ prestige noun [uncountable] the good reputation that a company, organization, group etc has, which makes people respect and admire them: the prestige of a carmaker such as Rolls-Royce | Does Stanford University carry the same prestige as Harvard orYale? | Hosting the Olympic Games would enhance our country’s international prestige. | The teaching profession has lost the prestige it had in the past.
+▪ stature noun [uncountable] formal the importance and respect that a person or organization has, because of their achievements or their influence: As he got older, Picasso’s stature as an artist increased. | Their work is equal in stature. | an actor of international stature | The party’s stature has increased in recent years.
+
+adversity
+adversity UK  [ədˈvɜː.sə.ti] US  [-ˈvɝː.sə.t ̬i] noun countable or uncountable [adversities]
+a difficult or unlucky situation or event
+• She was always cheerful in adversity.
+• The road to happiness is paved with adversities.
+Thesaurus+: ↑Difficult situations and unpleasant experiences ↑Accidents and disasters
+From Longman DOCE 5th Ed. (En-En)
+adversity
+ad‧ver‧si‧ty /ədˈvɜːsəti, ədˈvɜːsɪti $ -ɜːr-/ BrE  AmE  noun [uncountable]
+a situation in which you have a lot of problems that seem to be caused by bad luck:
+ his courage in the face of adversity
+From Oxford Advanced Learners Dictionary 8th Ed.
+adversity
+ad·ver·sity [adversity adversities] BrE [ədˈvɜːsəti]  NAmE [ədˈvɜːrsəti]  noun uncountable, countable (pl. ad·ver·sities)(formal)
+a difficult or unpleasant situation
+• courage in the face of adversity
+• He overcame many personal adversities.
+ 
+Word Origin:
+Middle English: from Old French adversite, from Latin adversitas, from advertere ‘turn towards’ from ad- ‘to’ + vertere ‘to turn’.
+ 
+Example Bank:
+• courage in the face of adversity
+• patience in adversity
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+adversity
+
+ / Ed5v\:sEtI; Ed`v[sEtI/ n 
+ [U] unfavourable conditions; trouble 逆境; 不幸; 厄运: remain cheerful in adversity 处于逆境而仍乐观 * face adversity with courage 有勇气面对厄运. 
+ [C] unfortunate event or circumstances 不幸的事件或遭遇; 祸事; 苦难: She overcame many adversities. 她饱经祸患而百折不挠.
+From Longman DOCE5 Extras (En-En)
+
+hardship
+hard·ship [hardship hardships] BrE [ˈhɑːdʃɪp]  NAmE [ˈhɑːrdʃɪp]  noun uncountable, countable
+a situation that is difficult and unpleasant because you do not have enough money, food, clothes, etc
+• economic/financial, etc. hardship
+• People suffered many hardships during that long winter.
+• The two men endured great hardship during their trek across Antarctica.
+• It was no hardship to walk home on such a lovely evening.
+impose a burden/hardship etc (on sb/sth)
+▪ Military spending imposes a huge strain on the economy.
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+considerable
+▪ Aside from the psychological strain of settling in, some had to face considerable physical hardship.
+▪ Sargant, J. granted the injunction, even though in doing so it would involve considerable hardship on the part of the Council.
+▪ In the event of a serious loss considerable hardship can be caused by under insurance.
+▪ Students suffer considerable hardship as a result.
+▪ Consequently, he experienced considerable financial hardship which was exacerbated towards the end of his life by illness.
+economic
+▪ Mosfilm remains weakened by economic hardship, but employees were confident the worst was over.
+▪ The couple has not repaid a $ 27, 000 grant, citing economic hardship.
+▪ Manypeople have also suffered massive economic hardship in the monetary crisis.
+▪ In the face of economic hardship, union women have gone beyond the limited reformism of their labor federations.
+▪ Children are also sensitive to stress caused by anxiety, uncertainty and economic hardship.
+
+smoothie (plural smoothies)
+A smooth-talking person.
+2003, Michael Lydon, Flashbacks: Eyewitness Accounts of the Rock Revolution, 1964-1974 (page 7)
+True to their reputations, Paul was a smoothie who put a public relations gloss on everything he said, and John was abrasive and sarcastic, speaking his mind and letting the chips fall where they may.
+A drink made from whole fruit, thus thicker than fruit juice.
+2016, Ian McEwan, Nutshell, Vintage, page 10:
+Sometimes he brings her smoothies from his favourite place on Judd Street. He has a weakness for these glutinous confections that are supposed to extend his life.
+A member of the mod subculture who is relatively non-violent and wears expensive clothing.
+1987, John Irwin (quoting Piri Thomas), The Felon
+The decision to cool myself made the next two years the hardest I had done because it meant being a smoothie and staying out of trouble, which in prison is difficult, […]
+1999, Nick Johnstone, Abel Ferrara: The King of New York (page viii)
+Film Comment's David Chute described him as: "small, stringy and intense, but he's better dressed and groomed (than Ferrara), less of a punk and more of a smoothie."
+2011, Gerard DeGroot (quoting Brown), Seventies Unplugged
+[…] mods, skins, suedes, smoothies, punks, skunks, rude boys, soul boys and headbangers […]
+
+serving
+I. serv‧ing1 /ˈsɜːvɪŋ $ ˈsɜːr-/ BrE  AmE  noun [countable]
+[Word Family: noun: ↑servant, ↑serve, ↑server, ↑service, ↑disservice, the services, ↑serving, ↑servery, ↑servicing, ↑servility, ↑servitude; adjective: ↑serviceable, ↑servile, ↑serving; verb: ↑serve, ↑service]
+an amount of food that is enough for one person SYN helping:
+ This should make enough for four servings.
+II. serving2 BrE  AmE  adjective [only before noun]
+[Word Family: noun: ↑servant, ↑serve, ↑server, ↑service, ↑disservice, the services, ↑serving, ↑servery, ↑servicing, ↑servility, ↑servitude; adjective: ↑serviceable, ↑servile, ↑serving; verb: ↑serve, ↑service]
+serving spoon/dish etc a spoon, dish etc that is used to serve food
+serve
+I. serve1 S1 W1 /sɜːv $ sɜːrv/ BrE  AmE  verb
+[Word Family: noun: ↑servant, ↑serve, ↑server, ↑service, ↑disservice, the services, ↑serving, ↑servery, ↑servicing, ↑servility, ↑servitude; adjective: ↑serviceable, ↑servile, ↑serving; verb: ↑serve, ↑service]
+[Date: 1100-1200; Language: Old French; Origin: servir, from Latin servire 'to be a slave, serve', from servus 'slave, servant', perhaps from Etruscan]
+1. FOOD/DRINK [intransitive and transitive] to give someone food or drink, especially as part of a meal or in a restaurant, bar etc:
+ The waiter was serving another table.
+ Sprinkle with cheese and serve immediately.
+serve something with something
+ Serve the soup with crusty bread.
+serve breakfast/lunch/dinner
+ Breakfast is served until 9 am.
+serve something to somebody
+ Meals can be served to you in your room.
+serve something hot/cold etc
+ Teacakes should be served hot with butter.
+2. serve two/three/four etc (people) if food serves two, three etc, there is enough for that number of people
+3. SHOP [intransitive and transitive] to help the customers in a shop, especially by bringing them the things that they want:
+ There was only one girl serving customers.
+4. BE USEFUL/HELPFUL [intransitive and transitive] to be useful or helpful for a particular purpose or reason
+serve as
+ The sofa had to serve as a bed.
+ The reforms served as a model for the rest of the Communist world.
+ A large cardboard box will serve the purpose.
+ Her talent for organization should serve her well.
+serve the needs/interests of somebody/something
+ research projects that serve the needs of industry
+5. DO USEFUL WORK [intransitive and transitive] to spend a period of time doing useful work or official duties for an organization, country, important person etc
+serve as
+ Lord Herbert served as ambassador to France.
+serve in the army/air force/navy etc
+ He returned to Greece to serve in the army.
+serve on
+ Ann serves on various local committees.
+ the women who served their country in the war
+6. HAVE AN EFFECT [intransitive] formal to have a particular effect or result
+serve as
+ Her death should serve as a warning to other young people.
+serve to do something
+ A single example serves to illustrate what I mean.
+7. PROVIDE SOMETHING [transitive usually passive] to provide an area or a group of people with something that is necessary or useful:
+ Paris is served by two airports.
+8. PRISON [transitive] to spend a particular period of time in prison:
+ He served an 18-month sentence for theft.
+ Did you know that Les is serving time (=is in prison)?
+9. SPORT [intransitive and transitive] to start playing in a game such as tennis or ↑volleyball by throwing the ball up in the air and hitting it over the net
+10. it serves somebody right spoken used to say that you think someone deserves something unpleasant that happens to them, because they have been stupid or unkind:
+ ‘She kicked me!’ ‘It serves you right, teasing her like that.’
+11. serve an apprenticeship to learn a job or skill by working for a particular period of time for someone who has a lot of experience
+12. serve a summons/writ etc to officially send or give someone a written order to appear in a court of law
+⇨ if my memory serves me (right/well/correctly) at ↑memory(1)
+serve something ↔ out phrasal verb
+1. to complete a particular period of time in prison or doing a job:
+ Dillon’s almost served out his sentence (=in prison).
+ The Senator’s illness means he may not serve out his term.
+2. British English to put food onto plates:
+ Serve out the rice, will you?
+serve something ↔ up phrasal verb
+to give food to someone as part of a meal:
+ What are you serving up tonight?
+ 
+ carbohydrate
+carbohydrate UK  [ˌkɑː.bə ʊ ˈhaɪ.dreɪt] US  [ˌkɑːr-] noun countable or uncountable [carbohydrates]
+one of several substances such as sugar or starch, which provide the body with energy, or foods containing these substances such as bread, potatoes, pasta and rice
+Thesaurus+: ↑Types of chemical ↑Specific chemicals, chemical compounds and gases ↑Substances and structures in the body ↑Animal biochemistry ↑Food - general words
+From Longman DOCE 5th Ed. (En-En)
+carbohydrate
+car‧bo‧hy‧drate /ˌkɑːbəʊˈhaɪdreɪt, -drət $ ˌkɑːrboʊ-/ BrE  AmE  noun
+[Date: 1800-1900; Origin: carbon + hydrate]
+1. [uncountable and countable] a substance that is in foods such as sugar, bread, and potatoes, which provides your body with heat and energy and which consists of oxygen, ↑hydrogen, and ↑carbon
+2. [countable usually plural] foods such as rice, bread, and potatoes that contain carbohydrates
+From Oxford Advanced Learners Dictionary 8th Ed.
+carbohydrate
+carbo·hy·drate [carbohydrate carbohydrates] BrE [ˌkɑːbəʊˈhaɪdreɪt]  NAmE [ˌkɑːrboʊˈhaɪdreɪt]  noun
+1. (also informal carb) countable, uncountable a substance such as sugar or ↑starch that consists of ↑carbon, ↑hydrogen and ↑oxygen. Carbohydrates in food provide the body with energy and heat.
+2. carbohydrates (also informal carbs) plural foods such as bread, potatoes and rice that contain a lot of carbohydrate
+• I'm trying to cut down on carbohydrates.
+See also: ↑carb
+ 
+Example Bank:
+• Nuts are high in carbohydrates.
+• a high carbohydrate diet
+• complex carbohydrates such as pasta
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+carbohydrate
+
+ / 9kB:bEU5haIdreIt; 9kBrbo`haIdret/ n 
+ [C, U] any of various types of organic compound, such as sugar and starch, containing carbon, hydrogen and oxygen 碳水化合物; 糖类. 
+ carbohydrates [pl] foods containing carbohydrate, considered to be fattening 淀粉质或糖类食物（可使身体发胖）: You eat too many carbohydrates! 你吃淀粉质食物太多了!
+From Longman DOCE5 Extras (En-En)
+carbohydrate
+noun
+COLLOCATIONS FROM OTHER ENTRIES
+protein/carbohydrate/alcohol etc metabolism
+▪ The vast majority of alcohol metabolism occurs in the liver.
+
+adverse appalling atrocious bad deplorable difficult harsh inhuman severe terrible tough conditions
+• He drove through appalling conditions to get to the hospital.
+dangerous hazardous treacherous unsafe conditions
+• They were working in hazardous conditions.
+poor primitive unhygienic conditions
+• The refugees had to live in primitive conditions.
+in excellent fair favourable good immaculate mint optimal optimum peak perfect pristine condition
+• This book is almost a hundred years old yet it's still in excellent condition.
+in critical serious stable condition
+• The two climbers survived their night on the mountain but remain in critical condition in hospital.
+a life-threatening serious condition
+• Hypothermia is a life-threatening condition.
+breezy cold dry humid icy wet windy conditions
+• Icy conditions make driving particularly dangerous at this time of year.
+Types
+climatic environmental weather conditions
+• Poor weather conditions meant that the flight was delayed.
+driving playing conditions
+• Playing conditions were so bad, the game had to be called off.
+a heart medical condition
+• He inherited his heart condition from his father.
+economic financial market conditions
+• Management blamed the downturn in profits on depressed economic conditions.
+living material social working conditions
+• The union tried to improve working conditions for its members.
+mental physical condition
+• These tests assess the patient's mental condition.
+
+Remember: amount of is usually used with uncountable nouns.
+With countable nouns, don't say 'amount of', say number of:
+✗ They received a large amount of complaints.
+• They received a large number of complaints.

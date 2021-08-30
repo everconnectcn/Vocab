@@ -14284,7 +14284,7 @@ be composed of sb/sth • (rather formal) to be formed from the things or people
 which word?
 Consist of sb/sth is the most general of these words and the only one that can be used for activities with the -ing form of a verb: ▪ My work at that time just consisted of typing letters. The other main difference is between those verbs that take the whole as the subject and the parts as the object: ▪ The group consists of/comprises/is made up of/is composed of ten people. and those that take the parts as the subject and the whole as the object: ▪ Ten people make up/constitute/comprise the group. It is not correct to use ‘comprises of’ or ‘is composed by/from’.
 
-overtake
+
 overtake UK  [ˌəʊ.vəˈteɪk] US  [ˌoʊ.vɚ-] [overtook], [overtaken] verb [overtook overtaken overtakes overtaking]
 GO PAST
 1. <A > transitive to go past something by being a greater amount or degree
@@ -14715,3 +14715,11 @@ EXAMPLES FROM CORPUS
 ▪ This, they added, could jeopardize other large benefit programs such as Medicare and Medicaid.
 ▪ You don't have to jeopardize your standing in the staffroom.
 
+reskill
+reskill UK  US  [ˌriːˈskɪl] verb [reskills reskilling reskilled]
+1. intransitive to learn new skills so that you can do a different job
+• Many unemployed people are forced to reskill.
+Thesaurus+: ↑Knowing and learning
+2. transitive to train people to do a different job
+• The company plans to reskill 300 of its engineers.
+Thesaurus+: ↑Knowing and learning
