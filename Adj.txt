@@ -15558,6 +15558,7 @@ COLLOCATIONS
 ▪ excessive speed Excessive speed is a major cause of road accidents.
 ▪ excessive drinking (=drinking too much alcohol) Your excessive drinking has to stop.
 
+<<<<<<< HEAD
 
 mounting
 mounting UK  [ˈmaʊn.tɪŋ] US  [-t ̬ɪŋ] adjective
@@ -15565,3 +15566,70 @@ gradually increasing
 • mounting anxiety/excitement
 • mounting debts
 Thesaurus+: ↑Increasing and intensifying
+=======
+in-depth
+in-depth UK  US  [ˈɪn.depθ] adjective before noun
+done carefully and in great detail, or discovering the real reasons which cause something
+• an in-depth report/interview/analysis
+Thesaurus+: ↑Detailed and careful
+From Longman DOCE 5th Ed. (En-En)
+in-depth
+ˈin-depth BrE  AmE  adjective [only before noun]
+thorough, complete, and considering all the details
+in-depth study/research/analysis etc
+ an in-depth study of patients’ needs
+ a series of in-depth interviews
+From Oxford Advanced Learners Dictionary 8th Ed.
+in-depth
+ˌin-ˈdepth [in-depth] BrE   NAmE   adjective usually before noun
+very thorough and detailed
+• an in-depth discussion/study
+• We will be providing in-depth coverage of the election as the results come in.
+• Tonight's programme is an in-depth look at the long-term effects of unemployment.
+see also ↑depth
+From Longman DOCE5 Extras (En-En)
+in-depth
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+a detailed/in-depth analysis
+▪ a detailed analysis of the firm’s earnings
+an in-depth analysis (=detailed analysis))
+▪ an in-depth analysis of global warming
+an in-depth article (=one that is detailed)
+▪ Each issue contains in-depth articles and photographs.
+in-depth/thorough knowledge (=detailed knowledge about all of a particular subject)
+▪ He demonstrated an in-depth knowledge of the subject matter.
+
+conspicuous
+conspicuous UK  US  [kənˈspɪk.ju.əs] adjective
+very noticeable or attracting attention, often in a way that is not wanted
+• In China, her blonde hair was conspicuous.
+• He tried not to look conspicuous and moved slowly along the back of the room.
+Opposite inconspicuous
+Thesaurus+: ↑Apparent and obvious ↑Visible
+Idiom: conspicuous by your absence
+Derived: conspicuously ▪ conspicuousness
+From Longman DOCE 5th Ed. (En-En)
+conspicuous
+con‧spic‧u‧ous /kənˈspɪkjuəs/ BrE  AmE  adjective
+[Date: 1500-1600; Language: Latin; Origin: conspicuus, from conspicere 'to get to see', from com- ( ⇨ COM-) + specere 'to look']
+1. very easy to notice OPP inconspicuous:
+ The notice must be displayed in a conspicuous place.
+ a bird with conspicuous white markings
+ I felt very conspicuous in my red coat.
+2. conspicuous success, courage etc is very great and impressive:
+ He had represented Italy with conspicuous success.
+ The award is given for notable or conspicuous achievement in science.
+3. be conspicuous by your/its absence used to say that someone or something is not somewhere where they were expected to be:
+ a group that were conspicuous by their absence from the awards ceremony
+• • •
+THESAURUS
+▪ obvious something that is obvious is very easy to notice or understand – used especially when you are surprised that other people cannot notice it: There is an obvious connection between the two murders. | It was obvious that something was wrong.
+▪ clear easy to notice that something is true, so that you feel sure about it and have no doubts: It was clear to me that my father was dying. | There are clear signs of an economic recovery.
+▪ noticeable very easy to notice, especially because you can see, hear, smell, or feel something: Steroid drugs cause a noticeable change in someone’s behaviour. | Road noise tends to be more noticeable in certain weather conditions.
+▪ conspicuous very easy to notice, because of being different from things around them: a conspicuous white spot on the bird’s wings | She tried to make herself look less conspicuous. | Don’t leave your valuables in a conspicuous place.
+▪ unmistakable extremely obvious, so that you cannot possibly confuse something with something else: the unmistakable sound of gunfire | The flower’s scent is unmistakable.
+▪ self-evident formal facts, ideas etc that are self-evident are obvious and true, although some people may not accept them or know about them: The facts in this case are self-evident and cannot be denied. | We hold these truths to be self-evident (=we believe that they obvious and true – from the American Declaration of Independence).
+▪ blatant use this about something that someone does which is clearly bad, but which they do not seem to be ashamed of: a blatant lie | The bill is a blatant attempt to limit our right to free speech.
+▪ can tell to know that something must be true because you can see signs that show this: Even though it was dark, she could tell it was him. | How can you tell if you’ve broken your arm?
+>>>>>>> c689dd9683fec9c435f6360b76e2e4c4a637d96a
