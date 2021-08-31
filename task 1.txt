@@ -1,0 +1,12 @@
+The pie charts below show how each of three countries (Republic of Korea, Sweden and United Kingdom) tackles toxic waste products. Overall, we can tell that recycling is mostly used in Republic of Korea, while burying-underground is mostly used in Sweden and United Kingdom.
+
+In Republic of Korea, 69 % of the waste will be recycled, while incineraton and underground-burying makes up 9 % and 22 %, respectively.
+
+In Sweden and United Kingdom, while most dangerous waste are buried underground, they make up different proportion in each country. In Sweden, 55 % of waste is buried underground, the remains will be either recycled(25 %) or incinerated(20 %). While in United Kingdom, the burying method takes up a mojority proportion(82 %) , while the remaining will be either chemically treated(8%), dumped at sea(8%) or incinerated(2%). None of these waste are recycled in United Kingdom.
+-----------------
+grammerly
+The pie charts below show how each of three countries (the Republic of Korea, Sweden and the United Kingdom) tackles toxic waste products. Overall, we can tell that recycling is mostly used in the Republic of Korea, while burying-underground is mostly used in Sweden and United Kingdom.
+
+In the Republic of Korea, 69 % of the waste will be recycled, while incineration and underground burying make up 9 % and 22 %, respectively.
+
+In Sweden and the United Kingdom, while most dangerous waste is buried underground, they make up different proportions in each country. In Sweden, 55 % of waste is buried underground, the remains will be either recycled(25 %) or incinerated(20 %). While in the United Kingdom, the burying method takes up a majority proportion(82 %), while the remaining will be either chemically treated(8%), dumped at sea(8%) or incinerated(2%). None of this waste is recycled in the United Kingdom.
