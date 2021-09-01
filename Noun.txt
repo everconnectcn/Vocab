@@ -25289,4 +25289,30 @@ b) in the middle of a place or a group of things or people:
  I fear we have an enemy in our midst.
 II. midst2 BrE  AmE  preposition old use
 surrounded by people or things
->>>>>>> c689dd9683fec9c435f6360b76e2e4c4a637d96a
+
+improv
+im‧prov /ˈɪmprɒv $ -prɑːv/ BrE  AmE  noun [uncountable] informal
+(improvisation) acting, singing, performing etc without preparing what you will say first:
+ comedy improv
+ 
+ subtext
+subtext UK  US  [ˈsʌb.tekst] noun countable [subtexts]
+a hidden or less obvious meaning
+• The political subtext of her novel is a criticism of government interference in individual lives.
+Thesaurus+: ↑Meaning and significance ↑Typifying, illustrating and exemplifying
+From Longman DOCE 5th Ed. (En-En)
+subtext
+sub‧text /ˈsʌbtekst/ BrE  AmE  noun [countable usually singular]
+a hidden or second meaning behind someone’s words or actions:
+ What’s the subtext here? What’s the writer really saying?
+From Longman DOCE5 Extras (En-En)
+subtext
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ One subtext of the book is accepting one's ethnic identity.
+EXAMPLES FROM CORPUS
+▪ Even in this harsh, modern commercial world, this remains a vital subtext of our own research.
+▪ Potentially explosive subtext -- Annie was sexually abused as a child -- is pretty much left in the background.
+▪ Those were just some of the subtexts in the 64-team draw.
+▪ Underneath the scorn, the subtext is that Morrissey's art lacks a vital virility.
+▪ Whatever their text, the subtext was always this: this is my will.

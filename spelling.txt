@@ -11,7 +11,6 @@ pollution polution
 dilemma
 diabetes
 discourage
-<<<<<<< HEAD
 entrepreneur entrapurner
 intervention
 maneuver
@@ -23,7 +22,6 @@ Furthermore futhermore
 prominent prominient
 etiquette
 numerous
-=======
 intervention
 autonomous
 reiterate
@@ -41,4 +39,12 @@ flexible
 luxury
 accessible
 tech-savvy
->>>>>>> c689dd9683fec9c435f6360b76e2e4c4a637d96a
+appropriately
+plateau
+decade
+theoretical
+nurture
+particular
+remainder
+principal
+constitute
