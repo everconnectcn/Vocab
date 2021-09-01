@@ -15632,4 +15632,14 @@ THESAURUS
 ▪ self-evident formal facts, ideas etc that are self-evident are obvious and true, although some people may not accept them or know about them: The facts in this case are self-evident and cannot be denied. | We hold these truths to be self-evident (=we believe that they obvious and true – from the American Declaration of Independence).
 ▪ blatant use this about something that someone does which is clearly bad, but which they do not seem to be ashamed of: a blatant lie | The bill is a blatant attempt to limit our right to free speech.
 ▪ can tell to know that something must be true because you can see signs that show this: Even though it was dark, she could tell it was him. | How can you tell if you’ve broken your arm?
->>>>>>> c689dd9683fec9c435f6360b76e2e4c4a637d96a
+
+debilitating
+See main entry: ↑debilitate
+debilitate
+de‧bil‧i‧tate /dɪˈbɪləteɪt, dɪˈbɪlɪteɪt/ BrE  AmE  verb [transitive] formal
+1. to make someone ill and weak:
+ He was debilitated by his illness.
+2. to make an organization or system less effective or powerful:
+ The state is debilitated by inefficiency and corruption.
+—debilitating adjective:
+ a debilitating disease
