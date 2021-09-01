@@ -39,3 +39,36 @@ The pie chart shows that there are four main causes of farmland becoming degrade
 These causes affected different regions differently in the 1990s, with Europe having as much as 9.8% of degradation due to deforestation, while the impact of this on Oceania and North America was minimal, with only 1.7% and 0.2% of land affected respectively. Europe, with the highest overall percentage of land degraded (23%), also suffered from over-cultivation (7.7%) and over-grazing (5.5%). In contrast, Oceania had 13% of degraded farmland and this was mainly due to over-grazing (11.3%). North America had a lower proportion of degraded land at only 5%, and the main causes of this were over-cultivation (3.3%) and, to a lesser extent, over-grazing (1.5%).
 
 Overall, it is clear that Europe suffered more from farmland degradation than the other regions and the main causes there were deforestation and over-cultivation.
+
+comprise
+com‧prise W3 AC /kəmˈpraɪz/ BrE  AmE  verb [not in progressive] formal
+[Date: 1400-1500; Language: Old French; Origin: past participle of comprendre, from Latin comprehendere; ⇨ ↑comprehend]
+1. [linking verb] to consist of particular parts, groups etc:
+ The house comprises two bedrooms, a kitchen, and a living room.
+be comprised of somebody/something
+ The committee is comprised of well-known mountaineers.
+► Do not say that something ‘comprises of’ things or people.
+2. [transitive] to form part of a larger group of people or things SYN constitute, make up:
+ Women comprise a high proportion of part-time workers.
+• • •
+THESAURUS
+▪ consist of/be made up of to be formed from two or more things or people: Lunch consisted of sandwiches and fruit. | The apartment consisted of three rooms. | The audience was largely made up of families.
+▪ be composed of to consist of something – used especially when saying which natural substances something contains, or what kind of people are in a group: Every chemical element is composed of atoms. | Venus’ atmosphere is mainly composed of carbon dioxide. | The team was composed of leading scientists from around the world.
+▪ comprise /kəmˈpraɪz/ formal to consist of the things mentioned. Comprise can also be used to talk about the people or things which form something: The event comprises a champagne reception, two-course lunch, and a fashion show. | Men still comprise the majority of people who have the disease.
+▪ make up (also constitute formal) to be the things or people that form something: Women constitute a significant part of the workforce. | Toys make up about 10% of the company’s sales.
+
+
+----------------------
+The charts below show the changes in ownership of electrical appliances and amount of time spent doing housework in households in one country between 1920 and 2019.
+
+
+
+The first graph displays the percentages of households that owned electrical appliances in one country between 1920 and 2019, while the second graph illustrates how much time households in that country spent doing housework during the same period.
+
+Overall, ownership of all three appliances increased during this period, with that of refrigerators having the greatest growth. At the same time, the amount of time spent on housework decreased.
+
+Washing machines were the most common of the three electrical appliances in 1920, with ownership reaching 40% of the population. This number then rose to about 75% in 2019, with a small dip in 1980. Nearly a third of households owned vacuum cleaners in 1920. Although ownership climbed steadily,  it did not reach 100% until 2000.
+
+In comparison, almost no households had a refrigerator in 1920. However, ownership increased rapidly and by 1980 there was one in every household.
+
+The amount of time spent doing housework, by contrast, first fell significantly from 50 to 15 hours per week between 1920 and 1980. After that, it only experienced a small drop to just over 10 hours a week in 2019.

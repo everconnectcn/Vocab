@@ -15423,6 +15423,7 @@ ramify
 
  > ramification / 9rAmIfI5keIFn; 9rAmEfE`keFEn/ n (usu pl 通常作复数) part of a complex structure; secondary consequence, esp one that complicates 某复杂系统之部分; 分支（尤指形成复杂结构者）: widespread ramifications of trade 广布各地的贸易分支机构 * I couldn't follow all the ramifications of the plot. 我并不完全明白故事的所有情节.
  
+<<<<<<< HEAD
  
 unravel
 unravel UK  US  [ʌnˈræv. ə l] [-ll-] or [US USUALLY -l-] verb [unravelling unravelled unraveling unraveled unravels]
@@ -15465,3 +15466,6 @@ sweep something ↔ up
  Jan was sweeping up the bits of paper and broken glass.
 2. sweep somebody ↔ up to pick someone up in one quick movement:
  Harriet swept the child up in her arms and hugged her.
+=======
+outrageous
+>>>>>>> caab7c3240aea2adcc6d3c85463fb243687bdc65

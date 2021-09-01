@@ -39,6 +39,7 @@ flexible
 luxury
 accessible
 tech-savvy
+<<<<<<< HEAD
 appropriately
 plateau
 decade
@@ -48,3 +49,21 @@ particular
 remainder
 principal
 constitute
+=======
+pedestrian 
+percentage
+significantly
+chronological
+approximately
+Einstein
+authentic
+analyze
+scatter plot
+continuous
+initially
+progressively
+machinery  machinary
+procedure
+mechanical
+involve
+>>>>>>> caab7c3240aea2adcc6d3c85463fb243687bdc65
