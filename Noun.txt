@@ -25546,6 +25546,7 @@ ADVANTAGE
 Thesaurus+: ↑Advantage and disadvantage
 >>>>>>> caab7c3240aea2adcc6d3c85463fb243687bdc65
 
+<<<<<<< HEAD
 
 I. merit2 BrE  AmE  verb [transitive not in progressive] formal
 to be good, important, or serious enough for praise or attention SYN deserve:
@@ -25752,3 +25753,150 @@ THESAURUS
 ▪ presentation a talk in which you describe or explain a new product or idea, especially one you give for your company: I had to give a presentation to the board of directors. | He's making a presentation to the management of a well-known manufacturing company.
 ▪ sermon a talk given by a priest or a religious leader: The vicar preached a sermon about the need for forgiveness.
 ▪ statement a spoken or written announcement that someone makes in public, often to ↑journalists: The minister issued a short statement in which he said he had no plans to resign.
+=======
+entrapped 
+
+genre
+genre noun countable UK  US  [ˈʒɑ͂ː.rə], [ˈʒɒn-] formal [genres]
+a style, especially in the arts, that involves a particular set of characteristics
+• What genre does the book fall into - comedy or tragedy?
+• a literary/musical/film genre
+Thesaurus+: ↑Categories and varieties ↑Species and genders
+ 
+adjective [ˈʒɑː.rə], [ˈʒɒn-]
+produced according to a particular model or style
+• a genre movie
+• genre fiction
+Thesaurus+: ↑Types of film, play, book etc. ↑Typifying, illustrating and exemplifying ↑Meaning and significance
+From Longman DOCE 5th Ed. (En-En)
+genre
+gen‧re /ˈʒɒnrə $ ˈʒɑːnrə/ BrE  AmE  noun [countable]
+[Date: 1800-1900; Language: French; Origin: Old French gendre; ⇨ ↑gender]
+formal a particular type of art, writing, music etc, which has certain features that all examples of this type share
+genre of
+ a new genre of film-making
+ a literary genre
+• • •
+THESAURUS
+▪ type/kind/sort one member of a group of people or things that have similar features or qualities. Type is the usual word to use in scientific or technical contexts. In everyday English, people usually use kind or sort: What type of fish is this? | There are two main personality types.
+▪ kind a type of person or thing. Kind is less formal than type, and is used especially in everyday English: What kind of food do you like? | There were all kinds of people there. | The study is the first of its kind in Ireland.
+▪ sort especially British English a type of person or thing. Sort is less formal than type, and is used especially in everyday British English: What sort of person is she? | I like all sorts of music.
+▪ form one type of something from all the ones that are possible – used especially when things have different physical characteristics, or in certain fixed phrases: There are many forms of heart disease. | Melanoma is a form of skin cancer. | The first primitive life forms consumed various materials, including hydrogen sulfide, and released oxygen. | In those days, horses were the commonest form of transport. | We need to use alternative forms of energy. | a popular form of entertainment
+▪ variety a type that is slightly different from others in the same group: The French make many varieties of cheese. | This is a new variety of apple.
+▪ species a type of plant or animal, which can breed together to produce plants or animals of the same type: These forests contain many species of trees. | The giant panda is an endangered species.
+▪ of a ... nature formal used when talking about a particular type of thing: Many people find it embarrassing to discuss problems of a sexual nature. | Minor incidents of this nature normally occur about once a month.
+▪ category a group of people or things that are all of the same type – used when there is a clear system for deciding which group something belongs to: The three major categories of rock are: igneous, metamorphic, and sedimentary. | She won the best actress category at the Oscars.
+▪ brand used when talking about the particular way that someone does something or thinks about something, when this is very different from that of other people: She has her own special brand of humour. | He has called for a more positive brand of politics.
+▪ genre formal a type of art, music, literature etc. that has a particular style or feature: He has written novels in several genres, most notably science fiction.
+
+
+vortex
+vortex UK  [ˈvɔː.teks] US  [ˈvɔːr.t ̬eks] [plural vortexes] or [vortices UK [-tɪ.siz] US [-t ̬ə-]] noun [vortexes]
+1. countable specialized a mass of air or water that spins around very fast and pulls objects into its empty centre
+Thesaurus+: ↑Wind and winds ↑Stormy weather
+2. countable usually singular literary a dangerous or destructive situation in which you become more and more involved without being able to escape
+• I was sucked into a vortex of despair.
+Thesaurus+: ↑Difficult situations and unpleasant experiences ↑Accidents and disasters
+From Longman DOCE 5th Ed. (En-En)
+vortex
+vor‧tex /ˈvɔːteks $ ˈvɔːr-/ BrE  AmE  noun (plural vortices /-təsiːz, -tɪsiːz/ or vortexes) [countable]
+[Date: 1600-1700; Language: Modern Latin; Origin: Latin vertex, vortex; ⇨ ↑vertex]
+1. a mass of wind or water that spins quickly and pulls things into its centre
+2. [usually singular] written a situation that has a powerful effect on people’s lives and that influences their behaviour, even if they do not want it to
+vortex of
+ the vortex of emotions surrounding the case
+From Oxford Advanced Learners Dictionary 8th Ed.
+vortex
+vor·tex [vortex vortexes vortices] BrE [ˈvɔːteks]  NAmE [ˈvɔːrteks]  noun (pl. vor·texes or vor·ti·ces BrE [ˈvɔːtɪsiːz] ; NAmE [ˈvɔːrtɪsiːz] )
+1. (technical) a mass of air, water, etc. that spins around very fast and pulls things into its centre
+Syn: ↑whirlpool, Syn: ↑whirlwind
+2. (literary) a very powerful feeling or situation that you cannot avoid or escape from
+• They were caught up in a whirling vortex of emotion.
+ 
+Word Origin:
+mid 17th cent.: from Latin vortex, vortic-, literally eddy, variant of ↑vertex.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+vortex
+
+ / 5vR:teks; `vRrtZks/ n (pl 复数作 ~es or, in scientific use, 科技用语复数作 -tices / -tIsi:z; -tI9siz/) 
+ [C] whirling mass of water, air, etc, as in a whirlpool or whirlwind （水、空气等的）涡流, 涡旋, 旋涡, 旋风. 
+ [sing] (fig 比喻) social group, profession, etc seen as sth that swallows those who approach it; whirl of activity可将周围的人卷入的社会集团、职业等; 活动的旋涡: drawn helplessly into the vortex of society, party politics, etc 不由自主卷入社会、党派斗争等的旋涡里.
+ 
+ currency
+cur‧ren‧cy W2 AC /ˈkʌrənsi $ ˈkɜːr-/ BrE  AmE  noun (plural currencies)
+[Date: 1600-1700; Language: Medieval Latin; Origin: currentia 'flowing', from Latin currere; ⇨ ↑current1]
+1. [uncountable and countable] the system or type of money that a country uses:
+ The bank can supply you with foreign currency.
+ There are moves towards a single currency in Europe.
+ The local currency is the Swiss franc. ⇨ ↑hard currency
+2. [uncountable] the state of being accepted or used by a lot of people:
+ The argument has received wide currency.
+ Marxism began to gain currency.
+ The idea was common currency in European political life.
+ 
+ whirlwind2 BrE  AmE  adjective [only before noun]
+a whirlwind situation or event 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happens very quickly:
+ a whirlwind romance
+ 
+ An illuminating realization or discovery, often resulting in a personal feeling of elation, awe, or wonder.
+Synonyms: aha moment, enlightenment, nirvana, satori
+It came to her in an epiphany what her life's work was to be.
+1989, Greil Marcus, Lipstick Traces, Faber & Faber, published 2009:
+Instead of examining institutions and classes, structures of economic production and social control, one had to think about “moments”—moments of love, hate, poetry, frustration, action, surrender, delight, humiliation, justice, cruelty, resignation, surprise, disgust, resentment, self-loathing, pity, fury, peace of mind—those tiny epiphanies, Lefebvre said, in which the absolute possibilities and temporal limits of anyone's existence were revealed.
+2013, Chris Hadfield, chapter 11, in An Astronaut's Guide to Life on Earth, Pan Macmillan, →ISBN:
+But after spending most of my pocket money to get those developed, I had an epiphany: I was never going to be a professional photographer. My pictures were god-awful. I put the camera away.
+A manifestation or appearance of a divine or superhuman being.
+Synonym: theophany
+(Christianity) Alternative letter-case form of Epiphany.
+
+niche
+I. niche1 /niːʃ, nɪtʃ $ nɪtʃ, niːʃ/ BrE  AmE  noun
+[Date: 1600-1700; Language: French; Origin: Old French nicher 'to nest', from Latin nidus 'nest']
+1. [countable] if you find your niche, you find a job or activity that is very suitable for you:
+ Amanda soon found her niche at the club.
+ He’s managed to create a niche for himself in local politics.
+2. [singular] an opportunity to sell a product or service to a particular group of people who have similar needs, interests etc
+niche in
+ He spotted a niche in the market.
+3. [countable] a hollow place in a wall, often made to hold a ↑statue
+• • •
+COLLOCATIONS
+■ verbs
+▪ have a niche She feels that she has her own niche in the company.
+▪ find a niche He had a hard time finding his niche academically.
+▪ create/carve out a niche (=do something in a particular way that is different to and better than anyone else) She had carved out a niche for herself as a children's television presenter.
+■ adjectives
+▪ a particular/special niche As a player, he's carved out his own special niche on the team.
+▪ a little niche informal: I feel as if I've found my little niche in life.
+▪ your own niche Everyone has their own niche within the sales team.
+
+advent
+ad‧vent /ˈædvent/ BrE  AmE  noun written
+[Date: 1000-1100; Language: Latin; Origin: adventus 'arrival', from advenire; ⇨ ↑adventure]
+the advent of something the time when something first begins to be widely used SYN coming:
+ the advent of the computer
+ 
+ gourmet
+gourmet UK  [ˈgɔː.meɪ] US  [ˈgʊr.meɪ] adjective before noun
+1. (of food) very high quality
+• gourmet coffee
+• a gourmet meal
+Thesaurus+: ↑Extremely good
+2. producing or serving food which is very high quality
+• a gourmet restaurant
+• a gourmet chef
+Thesaurus+: ↑Extremely good ↑Providing and serving meals
+ 
+noun countable
+a person who knows a lot about food and cooking, and who enjoys eating high-quality food
+Thesaurus+: ↑People who enjoy pleasure ↑Experts and specialists ↑Enthusiasts ↑Admirers
+From Longman DOCE 5th Ed. (En-En)
+gourmet
+I. gour‧met1 /ˈɡʊəmeɪ $ ˈɡʊr-, ɡʊrˈmeɪ/ BrE  AmE  adjective [only before noun]
+producing or relating to very good food and drink:
+ a gourmet cook
+ gourmet dinners
+II. gourmet2 BrE  AmE  noun [countable]
+[Date: 1800-1900; Language: French; Origin: from early French gromet 'boy servant' (influenced by gourmand), from English groom]
+someone who knows a lot about food and wine and who enjoys good food and wine
+>>>>>>> 2b3fd199475eb9d5d3fb0450e0b6c504f74bfb37

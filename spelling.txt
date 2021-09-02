@@ -39,6 +39,10 @@ flexible
 luxury
 accessible
 tech-savvy
+<<<<<<< HEAD
+=======
+alternatives 
+>>>>>>> 2b3fd199475eb9d5d3fb0450e0b6c504f74bfb37
 appropriately
 plateau
 decade
@@ -65,6 +69,7 @@ procedure
 mechanical
 involve
 outrageous
+<<<<<<< HEAD
 ambulance
 immediately
 efficient
@@ -224,3 +229,55 @@ distribution
 decline
 considerably
 
+=======
+mechanisms
+renovate 
+undergoes
+appealing
+integrity
+tempting
+era
+nor
+material
+machinery
+equipment 
+illustrates
+ingredient
+scratch
+adolescence adolescent
+juvenile
+possess
+versatile
+tertiary
+absence
+maturity
+divert
+succession
+simultaneous
+fatigue
+faculty members
+meanwhile
+indicated
+circumstance
+substitute
+inadequate
+delinquency
+phenomenon
+satisfactory
+controversial
+attributable
+sustainable sustainability 
+longevity
+tourism
+leisure
+consecutive
+sphere
+undeniable
+technological
+cardiovascular
+metabolism
+carbohydrate
+associated 
+heritage 
+lodging
+>>>>>>> 2b3fd199475eb9d5d3fb0450e0b6c504f74bfb37
