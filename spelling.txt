@@ -39,7 +39,10 @@ flexible
 luxury
 accessible
 tech-savvy
+<<<<<<< HEAD
+=======
 alternatives 
+>>>>>>> 2b3fd199475eb9d5d3fb0450e0b6c504f74bfb37
 appropriately
 plateau
 decade
@@ -66,6 +69,167 @@ procedure
 mechanical
 involve
 outrageous
+<<<<<<< HEAD
+ambulance
+immediately
+efficient
+household appliance
+defect
+exceed
+merits
+unravel
+diversify
+fortunate
+predecessor
+successor
+excite
+sedentary
+entertainment
+industrial
+revolution
+initiate
+industrialisation
+mechanize
+continuous
+challenge
+alternative
+dwindle
+fossil
+civilisation
+digitalisation
+innovation
+turthermore
+ingenuity
+ingenious
+genius
+tremendous
+mundane
+prompt
+prone
+immense
+psychology
+psychological
+pedestrian
+council
+committee
+prohibit
+respiratory
+cardiovascular
+monument
+vibration
+permanent
+temporary
+opportunity
+flourish
+tourist
+facility facilities
+infrastructure
+menial
+contrast
+plateau
+athletic
+fluctuate
+decrease
+remain constant
+plunge
+remain stable
+deteriorate
+peak
+slip back
+reach a high/peak/
+noticeably
+gradual
+rapid
+consistent
+slight
+substantial
+considerable
+negligible
+trivial
+latter
+respectively
+insignificant
+obvious
+consumption
+resources
+predicted
+anticipate
+expected
+proposed
+projected
+envision
+surrounding
+convinced
+possibility
+tendency
+difference
+ignorance
+characterized
+liberal
+potential
+occasion
+confusion
+exhausting
+circumstance
+undermine
+potential
+endeavour
+welfare
+pension
+essential
+guarantee
+sufficient
+entitle
+eligible
+detrimental
+eradication
+eliminate
+disastrous
+the authorities
+priorities
+indulgence
+nutrition
+expectancy
+inanimate
+vibrant
+assert
+category
+contend
+assert
+insist
+despite
+drastically
+compensate
+incompatible
+corresponding
+predominantly
+constitute
+counterpart
+genre
+account for
+estimated
+projection
+while the reverse is true for
+non-essential
+horizontal
+vertical
+roughly
+recorded found
+an insignificant share
+recduction
+undergo a steady
+forecast
+breakdown
+modest
+surge
+during a 40 year period from to
+quarter
+reach a peak
+distribution
+decline
+considerably
+
+=======
 mechanisms
 renovate 
 undergoes
@@ -116,6 +280,10 @@ carbohydrate
 associated 
 heritage 
 lodging
+<<<<<<< HEAD
 Niche
 advent
 paradoxes
+=======
+>>>>>>> 2b3fd199475eb9d5d3fb0450e0b6c504f74bfb37
+>>>>>>> 76a73771f16b16cc55a9db1479a2bfa3baf9f16d

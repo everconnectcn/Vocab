@@ -25546,6 +25546,214 @@ ADVANTAGE
 Thesaurus+: ↑Advantage and disadvantage
 >>>>>>> caab7c3240aea2adcc6d3c85463fb243687bdc65
 
+<<<<<<< HEAD
+
+I. merit2 BrE  AmE  verb [transitive not in progressive] formal
+to be good, important, or serious enough for praise or attention SYN deserve:
+ The results have been encouraging enough to merit further investigation.
+ It’s a fascinating book which merits attention.
+From Longman DOCE5 Extras (En-En)
+merit
+I. noun
+COLLOCATIONS FROM OTHER ENTRIES
+deserve/merit a mention
+▪ The village was large enough to merit a mention in the 11th century Domesday Book.
+deserve/merit consideration (also be worthy of consideration)
+▪ He made a number of proposals that deserve consideration.
+judge sth on its merits (=according to what you see when you look at it, rather than what people tell you)
+▪ The arguments should be judged on their merits.
+preach the virtues/merits/benefits of sth
+▪ a politician preaching the virtues of a free market
+The merits and demerits (=the good and bad qualities)
+▪ The merits and demerits of this argument have been explored.
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+artistic
+▪ But Sophie Ryder is a sculptor who finds artistic merit in the more mundane aspects of rural life.
+▪ Membership of East Berlin's Akademie depended on government approval more than on artistic merit.
+▪ Does An exact copy of a Michelangelo statue lose artistic merit because it doesn't have his name on it.
+▪ The fifty-year-old display area is now to be replaced with a new space of suitably high artistic merit.
+great
+▪ He has very great merit in many respects.
+▪ His great merit is to have turned stale images into a historically new subject.
+▪ Harry's great merit was that, once he had been given the ball, he was a speedy and direct raider.
+▪ The great merit of our constitutional arrangements is that they have developed cautiously and case by case.
+▪ As a suggestion for a hermeneutic notion of social structure, it seems to us to have great merit.
+
+slip
+I. slip1 S3 W2 /slɪp/ BrE  AmE  verb (past tense and past participle slipped, present participle slipping)
+[Word Family: noun: ↑slip, ↑slipper, ↑slippage, ↑slipperiness; verb: ↑slip; adjective: ↑slippery]
+[Date: 1200-1300; Language: Middle Dutch; Origin: Middle Low German slippen]
+1. FALL OR SLIDE [intransitive] to slide a short distance accidentally, and fall or lose your balance slightly:
+ Wright slipped but managed to keep hold of the ball.
+slip on
+ He slipped on the ice.
+2. GO SOMEWHERE [intransitive always + adverb/preposition] to go somewhere, without attracting other people’s attention SYN slide:
+ Ben slipped quietly out of the room.
+ One man managed to slip from the club as police arrived.
+3. PUT SOMETHING SOMEWHERE [transitive always + adverb/preposition] to put something somewhere quietly or smoothly SYN slide:
+ Ann slipped the book into her bag.
+ A letter had been slipped under his door.
+ Carrie slipped her arm through her brother’s.
+4. GIVE SOMETHING TO SOMEBODY [transitive] to give someone something secretly or without attracting much attention
+slip somebody something
+ I slipped him a ten-dollar bill to keep quiet.
+slip something to somebody
+ Carr slips the ball to King who scores easily.
+5. MOVE [intransitive] to move smoothly, especially off or from something:
+ As he bent over, the towel round his waist slipped.
+slip off/down/from etc
+ He watched the sun slip down behind the mountains.
+ The ring had slipped off Julia’s finger.
+ Cally slipped from his grasp and fled.
+6. KNIFE [intransitive] if a knife or other tool slips, it moves so that it accidentally cuts the wrong thing:
+ The knife slipped and cut his finger.
+7. GET WORSE [intransitive] to become worse or lower than before:
+ Standards have slipped in many parts of the industry.
+ His popularity slipped further after a series of scandals.
+ You’re slipping, Doyle! You need a holiday.
+8. CHANGE CONDITION [intransitive always + adverb/preposition] to gradually start being in a particular condition SYN fall
+slip into
+ He had begun to slip into debt.
+ She slipped into unconsciousness and died the next day.
+ The project has slipped behind schedule.
+9. CLOTHES [intransitive, transitive always + adverb/preposition] to put a piece of clothing on your body, or take it off your body, quickly and smoothly
+slip something off/on
+ Peter was already at the door slipping on his shoes.
+slip into/out of
+ She slipped out of her clothes and stepped into the shower.
+10. TIME [intransitive always + adverb/preposition] if time slips away, past etc, it passes quickly
+slip away/past/by
+ The search for the missing child continued, but time was slipping away.
+ The hours slipped past almost unnoticed.
+11. slip your mind/memory if something slips your mind, you forget it:
+ I meant to buy some milk, but it completely slipped my mind.
+12. let something slip to say something without meaning to, when you had wanted it to be a secret:
+ He let it slip that they were planning to get married.
+13. GET FREE [transitive] to get free from something that was holding you:
+ The dog slipped his collar and ran away.
+14. slip through the net British English, slip through the cracks American English if someone or something slips through the net, they are not caught or dealt with by the system that is supposed to catch them or deal with them:
+ In a class of 30 children, it is easy for one to slip through the net and learn nothing.
+15. let something slip (through your fingers) to not take an opportunity, offer etc:
+ Don’t let a chance like that slip through your fingers!
+16. slip one over on somebody especially American English informal to deceive or play a trick on someone
+17. slip a disc to suffer an injury when one of the connecting parts between the bones in your back moves out of place
+slip away phrasal verb
+1. to leave a place secretly or without anyone noticing:
+He slipped away into the crowd.
+2. if something such as an opportunity slips away, it is no longer available:
+ This time, Radford did not let her chance slip away.
+slip something ↔ in phrasal verb
+to use a word or say something without attracting too much attention:
+ He had slipped in a few jokes to liven the speech up.
+slip out phrasal verb
+if something slips out, you say it without really intending to:
+ I didn’t mean to say it. The words slipped out.
+slip up phrasal verb
+to make a mistake ⇨ slip-up:
+ The company apologized for slipping up so badly.
+slip up on
+ Someone had slipped up on the order.
+ 
+tongue
+
+outline
+I. out‧line1 /ˈaʊtlaɪn/ BrE  AmE  noun
+1. [uncountable and countable] the main ideas or facts about something, without the details:
+ a research proposal outline
+outline of
+ an outline of world history
+broad/rough/general outline
+ a broad outline of the committee’s plans
+in outline
+ A debt reduction scheme was agreed in outline (=people agreed on its main points).
+2. [uncountable and countable] a line around the edge of something which shows its shape
+outline of
+ The outlines of animals were cut into the rock.
+ an outline map of Europe
+in outline
+ figures drawn in outline
+3. [countable] a plan for a piece of writing in which each new idea or fact is separately written down:
+ Always write an outline for your essays.
+• • •
+COLLOCATIONS (for Meaning 1)
+■ adjectives
+▪ a broad/general outline (=the main ideas or parts of something rather than all the details) The report gives only a broad outline of the company's performance.
+▪ a brief outline Each chapter begins with a brief outline of the topics covered in the chapter.
+▪ a basic outline I remembered the basic outline of the story, but not how it ended.
+▪ a rough outline (=one that has no details and that might change) Thompson gave me a rough outline of what had happened at the previous meeting.
+▪ the bare outline (=one with no details at all) The paragraph gives readers only the bare outline of Milton's life.
+■ verbs
+▪ give somebody an outline The leaflet gives you an outline of the Party's main policies.
+▪ provide an outline The first chapter provides an outline of the theory of evolution.
+• • •
+COLLOCATIONS (for Meaning 2)
+■ adjectives
+▪ a vague/dim outline (=difficult to see) I could just make out a vague outline of a barn.
+▪ a blurred outline (=unclear) Through the spaces between the bars he saw the blurred outline of the oil derrick high in the sky.
+▪ a clear/sharp outline Peeling off the tape after the paint has dried leaves a clear outline to the shapes.
+■ verbs
+▪ draw an outline First, I draw out the outline of the leaf onto paper, and start adding areas of colour.
+▪ trace an outline (=draw the outline of something, usually with your finger or toe) She traced the outline of his lips with her fingers.
+■ outline + NOUN
+▪ an outline map an outline map of the island
+▪ an outline drawing/sketch Once I am happy with the outline sketch, I start painting.
+II. outline2 BrE  AmE  verb [transitive]
+1. to describe something in a general way, giving the main points but not the details:
+ The new president outlined plans to deal with crime, drugs, and education.
+2. [usually passive] to show the edge of something, or draw around its edge, so that its shape is clear:
+ a map with our property outlined in red
+ trees outlined against the sky
+ 
+ pagoda
+noun
+EXAMPLES FROM CORPUS
+▪ Buddhist pagodas have sprung back to life.
+▪ He had seen the etchings of it one evening after performing a ritual of weed-pulling from the tombs behind the abandoned pagoda.
+▪ He just went to the pagoda until he met some one who spoke his dialect.
+▪ I knew the land climbed slightly upward in the direction of a pagoda somewhere in front of us.
+▪ In the early-morning sun the incomparably beautiful Shwe Dagon pagoda with its gold-plated spire could be seen from some miles away.
+▪ Now the Khmer Rouge take their land and smash their pagodas.
+▪ The group also is in the middle of a $ 45, 000 project to renovate a pagoda in the ancient quarter.
+
+presentation
+pre‧sen‧ta‧tion S2 W3 /ˌprezənˈteɪʃən $ ˌpriːzen-, -zən-/ BrE  AmE  noun
+1. GIVE PRIZE [countable] the act of giving someone a prize or present at a formal ceremony:
+ the presentation ceremony
+ Dr Evans thanked him for coming to make the presentations.
+presentation of
+ the presentation of prizes
+2. 
+TALK [countable] an event at which you describe or explain a new product or idea:
+ We will begin a series of presentations to help the public fully understand our system.
+make/give a presentation
+ I’m going to ask each of you to make a short presentation.
+3. WAY OF SAYING/SHOWING [uncountable] the way in which something is said, offered, shown, or explained to others
+presentation of
+ desktop devices for the presentation of information
+ the presentation of evidence
+4. PROOF [uncountable] when you show something to someone so that it can be checked or considered
+presentation of
+ the presentation of the identity documents
+on presentation of something
+ Club members will be admitted on presentation of their membership cards.
+5. PERFORMANCE [countable] the act of performing a play
+presentation of
+ I went to see the National Theatre’s presentation of Arthur Miller’s ‘The Last Yankee’.
+6. BABY [uncountable and countable] medical the position in which a baby is lying in its mother’s body just before it is born:
+ a breech presentation
+7. presentation copy a book that is given to someone, especially by the writer or ↑publisher
+—presentational adjective
+• • •
+THESAURUS
+▪ speech a talk, especially a formal one about a particular subject, given to a group of people: The bridegroom usually makes a speech after the wedding. | In her speech, she proposed major changes to the welfare system. | the opening speech of the conference
+▪ address formal a speech that a very important person gives to a large group of people: the President's address to the nation | He was surrounded by security officers as he made his address.
+▪ talk an occasion when someone speaks to a group of people giving them information about a particular subject or about their experiences: I went to an interesting talk on the wildlife of Antarctica. | He's been asked to give a talk about his trip to India.
+▪ lecture a talk, especially on an ↑academic subject and given to students in a university: a lecture on 17th century French literature | Professor Black is giving the lecture.
+▪ presentation a talk in which you describe or explain a new product or idea, especially one you give for your company: I had to give a presentation to the board of directors. | He's making a presentation to the management of a well-known manufacturing company.
+▪ sermon a talk given by a priest or a religious leader: The vicar preached a sermon about the need for forgiveness.
+▪ statement a spoken or written announcement that someone makes in public, often to ↑journalists: The minister issued a short statement in which he said he had no plans to resign.
+=======
 entrapped 
 
 genre
@@ -25691,6 +25899,7 @@ producing or relating to very good food and drink:
 II. gourmet2 BrE  AmE  noun [countable]
 [Date: 1800-1900; Language: French; Origin: from early French gromet 'boy servant' (influenced by gourmand), from English groom]
 someone who knows a lot about food and wine and who enjoys good food and wine
+<<<<<<< HEAD
 
 
 whimsy
@@ -25724,3 +25933,6 @@ whimsy
 noun
 EXAMPLES FROM OTHER ENTRIES
 ▪ Karla Hour's designs combine style and whimsy.
+=======
+>>>>>>> 2b3fd199475eb9d5d3fb0450e0b6c504f74bfb37
+>>>>>>> 76a73771f16b16cc55a9db1479a2bfa3baf9f16d

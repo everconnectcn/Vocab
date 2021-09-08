@@ -15466,6 +15466,96 @@ sweep something ↔ up
  Jan was sweeping up the bits of paper and broken glass.
 2. sweep somebody ↔ up to pick someone up in one quick movement:
  Harriet swept the child up in her arms and hugged her.
+<<<<<<< HEAD
+
+
+flunk
+flunk /flʌŋk/ BrE  AmE  verb informal especially American English
+[Date: 1800-1900; Origin: Perhaps from flinch + funk 'to be afraid (of)' (18-21 centuries); ⇨ ↑funk(2)]
+1. [intransitive and transitive] to fail a test:
+ Tony flunked chemistry last semester.
+2. [transitive] to give someone low marks on a test so that they fail it SYN fail:
+ She hadn’t done the work so I flunked her.
+flunk out phrasal verb informal especially American English
+to be forced to leave a school or college because your work is not good enough
+flunk out of
+ Ben flunked out of college.
+
+
+unravel
+un·ravel [unravel unravels unravelled unraveled unravelling unraveling] BrE [ʌnˈrævl]  NAmE [ʌnˈrævl]  verb (-ll-, US -l-)
+1. transitive, intransitive ~ (sth) if you unravel threads that are twisted, ↑woven or knitted, or if they unravel, they become separated
+• I unravelled the string and wound it into a ball.
+2. intransitive (of a system, plan, relationship, etc.) to start to fail or no longer stay together as a whole
+3. transitive, intransitive ~ (sth) to explain sth that is difficult to understand or is mysterious; to become clearer or easier to understand
+• The discovery will help scientists unravel the mystery of the Ice Age.
+
+unravel
+un‧rav‧el /ʌnˈrævəl/ BrE  AmE  verb (past tense and past participle unravelled, present participle unravelling British English, unraveled, unraveling American English)
+1. [transitive] to understand or explain something that is mysterious or complicated:
+ Detectives are still trying to unravel the mystery surrounding his death.
+2. [intransitive and transitive] if you unravel threads, string etc, or if they unravel, they stop being twisted together
+3. [intransitive] if a system, plan, organization etc unravels, it starts to fail SYN fall apart:
+ The company started to unravel when two of the directors were arrested.
+From Longman DOCE5 Extras (En-En)
+unravel
+verb
+COLLOCATIONS FROM OTHER ENTRIES
+solve/unravel a mystery (=find out what happened)
+▪ The children were given the clues and had to try to solve the mystery.
+COLLOCATIONS FROM CORPUS
+■ NOUN
+mystery
+▪ When scientists attempt to unravel the mysteries of the past they always run up against a brick wall.
+▪ A prepared statement failed to unravel the mystery.
+▪ It excited her and she promised herself that one day she would unravel the mystery.
+▪ For many years Frederick Delouche felt a particular need to unravel such mysteries.
+■ VERB
+begin
+▪ Even to list these begins to unravel some of the complications in this everyday concept.
+▪ But then things began to unravel.
+▪ The case began unravelling when the intelligence ministry said renegade agents were responsible.
+▪ When California's economy started to slow down, the loans began to unravel.
+try
+▪ Here are the issues put starkly, before we try to unravel them.
+▪ When Philip tries to unravel truth from fiction, the task proves too much for him.
+EXAMPLES FROM OTHER ENTRIES
+▪ After three years, their partnership began to unravel.
+▪ Can scientists unravel the complex interactions of chemicals within foods?
+▪ Scientists have not yet unraveled every detail of how genes work.
+▪ We are only just beginning to unravel the mysteries of the human brain.
+EXAMPLES FROM CORPUS
+▪ Each circle strengthens the others, until the whole is hard to unravel.
+▪ Evidence for the importance of both is emerging, and unravelling their relative importance presents experimentalists with a major challenge.
+▪ I do not claim to be able to unravel the complexities of atonement.
+▪ Pop that unravels its own workings, undoes itself.
+▪ Sadly, this will unravel some of the goodwill of recent weeks.
+▪ To counter the danger of the former, Lacan would have us unravel the me entirely.
+▪ We can also unravel those texts as individual answers to the problem of effective human agency.
+
+
+impose
+im‧pose S3 W2 AC /ɪmˈpəʊz $ -ˈpoʊz/ BrE  AmE  verb
+[Word Family: verb: ↑impose; noun: ↑imposition]
+[Date: 1400-1500; Language: French; Origin: imposer, from Latin imponere, from ponere 'to put']
+1. [transitive] if someone in authority imposes a rule, punishment, tax etc, they force people to accept it:
+ The court can impose a fine.
+impose something on something/somebody
+ The government imposed a ban on the sale of ivory.
+2. [transitive] to force someone to have the same ideas, beliefs etc as you
+impose something on somebody
+ parents who impose their own moral values on their children
+3. [intransitive] formal to expect or ask someone to do something for you when this is not convenient for them
+impose on/upon
+ We could ask to stay the night, but I don’t want to impose on them.
+4. [transitive] to have a bad effect on something or someone and to cause problems for them
+impose a burden/hardship etc (on somebody/something)
+ Military spending imposes a huge strain on the economy.
+REGISTER
+In everyday English, people usually say put a ban/tax/burden/strain on something rather than impose a ban/tax/burden/strain on something:
+▪ The government put a higher tax on cigarettes.
+▪ This puts a lot of strain on families.
+=======
 =======
 outrageous
 >>>>>>> caab7c3240aea2adcc6d3c85463fb243687bdc65
@@ -15538,6 +15628,7 @@ be tempted to do something
 a) to do something that involves unnecessary risk and may cause serious problems:
  Fire officials said developers are tempting fate by building deep into the scenic canyons.
 b) to say too confidently that something will have a good result, that there will be no problems etc, when it is likely there will be problems
+<<<<<<< HEAD
 
 degrade
 de‧grade /dɪˈɡreɪd/ BrE  AmE  verb
@@ -15628,3 +15719,6 @@ THESAURUS
 ▪ talk something up informal to talk about something in a way that makes it appear more important, interesting, or successful than it really is, especially to get someone’s support or interest: At the interview, he talked up his experience of working in sales. | The government tried to talk up the threat posed by these countries, in order to justify an increase in military spending.
 ▪ overrated adjective if you think someone or something is overrated, you think they are not nearly as good as people claim: I think her books are overrated. | As a player he’s overrated.
 ▪ idealized adjective an idealized image, view, picture etc of someone or something shows them as being much better than they really are: His books give an idealized picture of English rural life. | her friend’s idealized view of marriage
+=======
+>>>>>>> 2b3fd199475eb9d5d3fb0450e0b6c504f74bfb37
+>>>>>>> 76a73771f16b16cc55a9db1479a2bfa3baf9f16d
