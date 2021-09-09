@@ -280,4 +280,10 @@ carbohydrate
 associated 
 heritage 
 lodging
+<<<<<<< HEAD
+Niche
+advent
+paradoxes
+=======
 >>>>>>> 2b3fd199475eb9d5d3fb0450e0b6c504f74bfb37
+>>>>>>> 76a73771f16b16cc55a9db1479a2bfa3baf9f16d

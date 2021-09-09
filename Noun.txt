@@ -25899,6 +25899,7 @@ producing or relating to very good food and drink:
 II. gourmet2 BrE  AmE  noun [countable]
 [Date: 1800-1900; Language: French; Origin: from early French gromet 'boy servant' (influenced by gourmand), from English groom]
 someone who knows a lot about food and wine and who enjoys good food and wine
+<<<<<<< HEAD
 >>>>>>> 2b3fd199475eb9d5d3fb0450e0b6c504f74bfb37
 
 
@@ -25989,3 +25990,46 @@ EXAMPLES FROM CORPUS
 ▪ In the Northern California wine country at harvest time, we favor soaked grapevines added to the coals for our fuel source.
 ▪ That is because commercial grapevines are propagated from cuttings and are genetically identical clones.
 ▪ We have also had great success with grapevine cuttings and herb sprigs, such as basil and thyme.
+=======
+<<<<<<< HEAD
+
+
+whimsy
+whimsy UK  US  [ˈwɪm.zi] disapproving noun countable or uncountable [whimsies]
+something that is intended to be strange and humorous but in fact has little real meaning or value
+• Personally I've always considered mime to be a lot of whimsy.
+Thesaurus+: ↑Nonsense
+From Longman DOCE 5th Ed. (En-En)
+whimsy
+whim‧sy /ˈwɪmzi/ BrE  AmE  noun
+[Date: 1600-1700; Origin: whim-wham; ⇨ ↑whim]
+[uncountable] a way of thinking, behaving, or doing something that is unusual, strange, and often amusing:
+ a sense of fancy and whimsy
+From Oxford Advanced Learners Dictionary 8th Ed.
+whimsy
+whimsy [whimsy whimsies] BrE [ˈwɪmzi]  NAmE [ˈwɪmzi]  noun uncountable
+a way of thinking or behaving, or a style of doing sth that is unusual and not serious, in a way that is either amusing or annoying
+ 
+Word Origin:
+early 17th cent. (in the sense ‘caprice’): probably based on whim-wham, a whim.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+whimsy
+
+ / 5wImzI; ?@ 5hwI-; `hwImzI/ n 
+ [U] odd or playful behaviour or humour 希奇的或耍笑的举动或幽默: His speech was full of whimsy. 他妙语如珠. * `Why did you do it?' `I don't know, pure whimsy.' ‘你怎样做出这种事来?’‘我也不知道, 纯粹是闹着玩儿.’ 
+ [C] fanciful idea or desire; whim 奇异的念头或兴致; 奇想: one of her bizarre whimsies 她的一个古怪的念头.
+
+ > whimsical / 5wImzIkl; ?@ 5hwI-; `hwImzIkl/ adj full of whimsy; fanciful, playful or capricious 有很多希奇的或耍笑的举动或幽默的; 异想天开的; 闹着玩儿的; 突发奇想的: a whimsical sense of humour 离奇的幽默感* a whimsical story for children 希奇古怪的儿童故事.whimsicality / 9wImzI5kAlEtI; ?@ 9hwI-; 9hwImzE`kAlEtI/n [U]. whimsically / -klI; -klI/ adv.
+From Longman DOCE5 Extras (En-En)
+whimsy
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ Karla Hour's designs combine style and whimsy.
+
+
+no harm, no foul
+phrase of harm
+US
+used to indicate that a mistake or instance of misconduct should be excused because it has not caused damage.
+"strictly speaking it was petty trespassing, but no harm, no foul"
+>>>>>>> d2003651bcfbdfff5c87cca3e703467a04efcc81
