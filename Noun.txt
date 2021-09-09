@@ -25933,6 +25933,10 @@ whimsy
 noun
 EXAMPLES FROM OTHER ENTRIES
 ▪ Karla Hour's designs combine style and whimsy.
-=======
->>>>>>> 2b3fd199475eb9d5d3fb0450e0b6c504f74bfb37
->>>>>>> 76a73771f16b16cc55a9db1479a2bfa3baf9f16d
+
+
+no harm, no foul
+phrase of harm
+US
+used to indicate that a mistake or instance of misconduct should be excused because it has not caused damage.
+"strictly speaking it was petty trespassing, but no harm, no foul"

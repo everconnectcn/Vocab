@@ -1,0 +1,5 @@
+To Whom It May Concern,
+
+I am pleased to write this letter of recommendation for Zhang Wang. Zhang and I have worked collabratively at Guotai Junan Securities for over five years and I found him a creative very hardworking professional. One of the main reasons that Zhang have been successful on most of the project he is in charge is his ability to dive into details. From our local Maven repository that he set up, and the VPN server that he shared with all group members, all greatly facilitated ability to streamline our developing and deploying process.
+
+Zhang Wang has been really hardworking ever since he joined the company, 
