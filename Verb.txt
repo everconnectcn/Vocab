@@ -15628,4 +15628,208 @@ be tempted to do something
 a) to do something that involves unnecessary risk and may cause serious problems:
  Fire officials said developers are tempting fate by building deep into the scenic canyons.
 b) to say too confidently that something will have a good result, that there will be no problems etc, when it is likely there will be problems
->>>>>>> 2b3fd199475eb9d5d3fb0450e0b6c504f74bfb37
+
+curate2
+/kjʊ(ə)ˈreɪt/
+verb
+verb: curate; 3rd person present: curates; past tense: curated; past participle: curated; gerund or present participle: curating
+select, organize, and look after the items in (a collection or exhibition).
+"both exhibitions are curated by the Centre's director"
+select the performers or performances that will feature in (an arts event or programme).
+"in past years the festival has been curated by the likes of David Bowie"
+select, organize, and present (online content, merchandise, information, etc.), typically using professional or expert knowledge.
+"people not only want to connect when using a network but they also enjoy getting credit for sharing or curating information"
+
+
+finesse
+finesse UK  US  [fɪˈnes] noun uncountable
+great skill or style
+• It was a disappointing performance which lacked finesse.
+Thesaurus+: ↑Skill, talent and ability
+ 
+verb transitive
+to deal with a situation or a person in a skilful and often slightly dishonest way
+• She finessed the interview by playing down her lack of experience and talking about her long-standing interest in the field.
+Thesaurus+: ↑Cheating and tricking ↑Plotting and trapping
+From Longman DOCE 5th Ed. (En-En)
+finesse
+I. fi‧nesse1 /fəˈnes, fɪˈnes/ BrE  AmE  noun [uncountable]
+[Date: 1500-1600; Language: French; Origin: fin; ⇨ ↑fine1]
+if you do something with finesse, you do it with a lot of skill and style:
+ Dario played the sonata with great finesse.
+II. finesse2 BrE  AmE  verb [transitive]
+1. to handle a situation well, but in a way that is slightly deceitful
+2. American English to do something with a lot of skill and style
+From Longman DOCE5 Extras (En-En)
+finesse
+I. noun
+EXAMPLES FROM CORPUS
+▪ Flame control: a certain amount of finesse is required to fine tune the heat output.
+▪ It is the trick of the big-stage musical number but applied to circus with finesse and much tongue-in-cheek humour.
+▪ The game was a hard slog with no finesse, despite the promotion aspirations of both sides.
+▪ The stats make her a strange hybrid of power and finesse, a combination that she resisted for a while.
+II. verb
+EXAMPLES FROM OTHER ENTRIES
+▪ Kemp uses his creativity to find excuses which are meant to finesse problematic moments.
+▪ Roberts finessed his arrival, speaking to Fernandez privately about their shared responsibilities.
+EXAMPLES FROM CORPUS
+▪ I had a miserable quantitative background and ended up copying some assignments and finessing the rest as best I could.
+▪ Mr Chen's approach is to finesse the problem of reunification through a mixture of goodwill and verbal subtlety.
+▪ Somehow, we hoped, when the test finally came, she would be able to finesse the written stuff.
+▪ The guard would know he was trying to get away and finesse the whole thing!
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+finesse
+
+ / fI5nes; fE`nZs/ n 
+ [U] skill in dealing with people or situations cleverly or tactfully 手段; 策略: show finesse in averting a threatened strike 在避免一触即发的罢工中显示出深谋大略 * He wheedled money from his father with considerable finesse. 他耍了个手腕儿花言巧语地从父亲那里得到了钱. 
+ [C] (in card-games) attempt to win a trick(5) by playing a card that is not the highest one held （纸牌戏中）偷牌（打出手中并非最大的牌以赢得一墩的手法）.
+
+ > finesse v [Tn] (in card-games) play (a card) as part of a finesse(2) （纸牌戏中）为偷牌打出（一张牌）而赢得一墩: She succeeded in finessing her queen. 她为偷牌打出Q而赢得一墩.
+From Oxford Advanced Learners Dictionary 8t
+
+fudge
+fudge UK  US  [fʌdʒ] noun
+ 
+SWEET
+1. uncountable a soft sweet made from sugar, butter and milk
+Thesaurus+: ↑Sweets
+ 
+AVOID
+2. countable usually singular a plan or action which avoids making a clear decision or giving a clear answer
+• She suspects that this compromise deal will be nothing more than a fudge.
+• It's a bit of a fudge but we could put the cost through on next year's budget.
+Thesaurus+: ↑Avoiding action ↑Laziness and lazy people
+ 
+verb transitive mainly disapproving
+to avoid making a decision or giving a clear answer about something
+• The government continues to fudge the issue by refusing to give exact figures.
+Thesaurus+: ↑Avoiding action ↑Laziness and lazy people
+From Longman DOCE 5th Ed. (En-En)
+fudge
+I. fudge1 /fʌdʒ/ BrE  AmE  noun
+1. [uncountable] a soft creamy brown sweet food
+2. a fudge British English an attempt to deal with a situation that does not solve its problems completely, or only makes it seem better
+II. fudge2 BrE  AmE  verb
+[Date: 1600-1700; Origin: Perhaps from fadge 'to fit, change' (16-19 centuries)]
+1. [intransitive and transitive] to avoid giving exact details or a clear answer about something:
+ He tried to fudge the issue by saying that he did not want to specify periods.
+2. [transitive] to change important figures or facts to deceive people SYN fiddle:
+ Sibley has been fudging his data for years now.
+From Longman DOCE5 Extras (En-En)
+fudge
+I. noun
+EXAMPLES FROM CORPUS
+▪ Chocolate and chocolate sauces, toffees, fudge, butterscotch, carob chocolate.
+▪ Elizabeth: Vanilla ice cream made from the thickest cream, and hot chocolate fudge.
+▪ He made a fudge of one of her feet.
+▪ Innumerable kings lie tucked away here under these jagged tablets of black fudge.
+▪ These suggestions appeal to higher level knowledge or suggest a fudge which would severely limit the scope of the system.
+▪ Won't you have a piece of fudge?
+II. verb
+COLLOCATIONS FROM CORPUS
+■ NOUN
+issue
+▪ He tried to fudge the issue earlier by saying that he did not want to specify periods.
+▪ The ponchos permit the sculptor an extra piece of authenticity by fudging the issue of equipment.
+▪ With Thornton's final refusal the comrades could not fudge the Chair issue any longer.
+▪ Even more surprising is Glenny's attempt to fudge the fundamental issues of the Balkan conflict.
+
+
+pa·tron·ize
+/ˈpātrəˌnīz,ˈpatrəˌnīz/
+Learn to pronounce
+verb
+1.
+treat in a way that is apparently kind or helpful but that betrays a feeling of superiority.
+"she was determined not to be put down or patronized"
+Similar:
+treat condescendingly
+treat with condescension
+condescend to
+look down on
+talk down to
+put down
+humiliate
+treat like a child
+treat as inferior
+treat with disdain
+be snobbish to
+look down one's nose at
+condescending
+supercilious
+superior
+imperious
+haughty
+lofty
+lordly
+magisterial
+disdainful
+scornful
+contemptuous
+cavalier
+snobbish
+pompous
+uppity
+high and mighty
+snooty
+stuck-up
+fancy-pants
+toffee-nosed
+Opposite:
+friendly
+humble
+
+pa·tron·ize
+/ˈpātrəˌnīz,ˈpatrəˌnīz/
+Learn to pronounce
+verb
+1.
+treat in a way that is apparently kind or helpful but that betrays a feeling of superiority.
+"she was determined not to be put down or patronized"
+Similar:
+treat condescendingly
+treat with condescension
+condescend to
+look down on
+talk down to
+put down
+humiliate
+treat like a child
+treat as inferior
+treat with disdain
+be snobbish to
+look down one's nose at
+condescending
+supercilious
+superior
+imperious
+haughty
+lofty
+lordly
+magisterial
+disdainful
+scornful
+contemptuous
+cavalier
+snobbish
+pompous
+uppity
+high and mighty
+snooty
+stuck-up
+fancy-pants
+toffee-nosed
+Opposite:
+friendly
+humble
+
+pa·tron·ize
+/ˈpātrəˌnīz,ˈpatrəˌnīz/
+Learn to pronounce
+verb
+1.
+treat in a way that is apparently kind or helpful but that betrays a feeling of superiority.
+"she was determined not to be put down or patronized"
+2.
+frequent (a store, theater, restaurant, or other establishment) as a customer.
+"restaurants remaining open in the evening were well patronized"
