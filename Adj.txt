@@ -15757,6 +15757,60 @@ better or greater than any other
 Syn: ↑unsurpassed
 • The hotel enjoys an unrivalled position overlooking the lake.
 
+<<<<<<< HEAD
+jaded
+jaded UK  US  [ˈdʒeɪ.dɪd] adjective
+not having interest or losing interest because something has been experienced too many times
+• Flying is exciting the first time you do it, but you soon become jaded.
+• Perhaps some caviar can tempt your jaded palate.
+Thesaurus+: ↑Lacking interest and enthusiasm ↑Unwilling and reluctant ↑Not showing or feeling emotions
+jade
+jade UK  US  [dʒeɪd] noun uncountable
+a precious green stone from which jewellery and small models are made, especially in China and Japan
+• jade earrings
+Thesaurus+: ↑Precious and semi-precious stones ↑Types of rock
+From Longman DOCE 5th Ed. (En-En)
+jaded
+ja‧ded /ˈdʒeɪdəd, ˈdʒeɪdɪd/ BrE  AmE  adjective
+[Date: 1600-1700; Origin: jade 'to make (a horse) tired with too much work' (17-19 centuries), from jade 'worn-out horse' (14-21 centuries)]
+someone who is jaded is no longer interested in or excited by something, usually because they have experienced too much of it:
+ The concert should satisfy even the most jaded critic.
+ 
+ unequivocally
+un·equivo·cal·ly BrE [ˌʌnɪˈkwɪvəkəli] ; NAmE [ˌʌnɪˈkwɪvəkəli]  adverb
+• We are unequivocally in favour of the changes.
+• He stated unequivocally that he knew nothing about the document.
+Main entry: ↑unequivocalderived
+
+categorically
+categorically UK  US  UK [ˌkæt.əˈgɒr.ɪ.kli] US [ˌkæt ̬.əˈgɑː.rɪ-] adverb
+• He categorically refused to take part in the project.
+Thesaurus+: ↑Certainty ↑Confidence and self-assurance
+Main entry: categoricalderived
+categorical
+categorical UK  [ˌkæt.əˈgɒr.ɪ.k ə l] US  [ˌkæt ̬.əˈgɑːr-] adjective
+without any doubt or possibility of being changed; certain
+• a categorical statement/reply/assurance
+Thesaurus+: ↑Certainty ↑Confidence and self-assurance
+Derived: categorically
+From Longman DOCE 5th Ed. (En-En)
+categorically
+cat‧e‧gor‧i‧cally /ˌkætəˈɡɒrɪkli, ˌkætɪˈɡɒrɪkli $ -ˈɡɔː-, -ˈɡɑː-/ BrE  AmE  adverb
+in such a sure and certain way that there is no doubt
+categorically deny/refuse etc something
+ He has categorically denied his guilt all along.
+ Can you state categorically that her death was caused by lack of food?
+ 
+ ingrate
+ 
+ 
+reciprocating
+/rəˈsiprəˌkādiNG/
+Learn to pronounce
+adjective
+(of a part of a machine) moving backward and forward in a straight line.
+"the reciprocating piston of a traditional internal combustion engine"
+=======
 tertiary
 ter·tiary [tertiary tertiaries] BrE [ˈtɜːʃəri]  NAmE [ˈtɜːrʃieri]  NAmE [ˈtɜːrʃəri]  adjective
 third in order, rank or importance
@@ -15937,3 +15991,4 @@ introspect
 
  > introspection / 9IntrE5spekFn; 9IntrE`spZkFEn/ n [U] introspecting 反省; 内省.
  introspective / -5spektIv; -`spZktIv/ adj (a) inclined to introspect 好反省的; 好内省的: an introspective person 好自我反省的人. (b) characteristic of sb who does this 反省的; 内省的: in an introspective mood 以反省的心情 * introspective writing 反思的文字.
+>>>>>>> d2003651bcfbdfff5c87cca3e703467a04efcc81

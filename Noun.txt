@@ -25899,6 +25899,103 @@ producing or relating to very good food and drink:
 II. gourmet2 BrE  AmE  noun [countable]
 [Date: 1800-1900; Language: French; Origin: from early French gromet 'boy servant' (influenced by gourmand), from English groom]
 someone who knows a lot about food and wine and who enjoys good food and wine
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2b3fd199475eb9d5d3fb0450e0b6c504f74bfb37
+
+
+physiology
+phys‧i‧ol‧o‧gy /ˌfɪziˈɒlədʒi $ -ˈɑː-/ BrE  AmE  noun [uncountable]
+1. the science that studies the way in which the bodies of living things work:
+ a book on biochemistry and physiology
+2. the way the body of a person or an animal works ⇨ anatomy:
+ the physiology of the brain
+—physiological adjective
+From Longman DOCE5 Extras (En-En)
+physiology
+noun
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+human
+▪ Knowledge of human physiology would enable witnesses of the bump to predict the appearance of the bruise.
+▪ It seems that for every additional piece of knowledge we acquire about human physiology and disease, new questions are raised.
+EXAMPLES FROM OTHER ENTRIES
+▪ a study of the physiology of whales
+
+-cide
+I. -cide /saɪd/ BrE  AmE  suffix [in nouns]
+another form of the suffix ↑-icide:
+ genocide (=killing a whole race of people)
+—-cidal [in adjectives]
+—-cidally [in adverbs]
+II. -icide /ɪsaɪd/ AmE  suffix (also -cide) [in nouns]
+[Origin: -cide]
+someone or something that kills a particular person or thing, or the act of killing:
+ insecticide (=chemical substance for killing insects)
+ suicide (=the act of killing yourself)
+—-icidal /ɪsaɪdl/ suffix [in adjectives]
+—-icidally /ɪsaɪdl-i/ suffix [in adverbs]
+From Longman DOCE5 Extras (En-En)
+-cide
+suffix
+EXAMPLES FROM OTHER ENTRIES
+▪ suicide
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+-cide
+
+comb form 构词成分 (forming ns 用以构成名词) 
+ act of killing sb 杀（人）: genocide * patricide. 
+ person or thing that kills 可致死的人或物: insecticide * fungicide.
+
+ > -cidal comb form 构词成分 (forming adjs 用以构成形容词) of or related to killing 杀的; 有关杀的: homicidal.
+ 
+ carnivore
+carnivore UK  [ˈkɑː.nɪ.vɔː r ] US  [ˈkɑːr.nɪ.vɔːr] noun countable [carnivores]
+an animal that eats meat
+• Lions and tigers are carnivores.
+• humorous I did mostly vegetarian food but put a couple of meat dishes out for the carnivores (= people who eat meat).
+Compare herbivore
+Thesaurus+: ↑Plants and animals - general words
+Derived: carnivorous
+From Longman DOCE 5th Ed. (En-En)
+carnivore
+car‧ni‧vore /ˈkɑːnəvɔː, ˈkɑːnɪvɔː $ ˈkɑːrnəvɔːr/ BrE  AmE  noun [countable]
+[Date: 1800-1900; Language: Latin; Origin: carnivorus 'flesh-eating', from caro ( ⇨ ↑carnal) + -vorus 'eating']
+1. an animal that eats flesh ⇨ herbivore, omnivore
+2. humorous someone who eats meat ⇨ vegetarian
+—carnivorous /kɑːˈnɪvərəs $ kɑːr-/ adjective
+From Longman DOCE5 Extras (En-En)
+carnivore
+noun
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+mammalian
+▪ This analysis was applied to a series of mammalian carnivores, with considerable differences emerging between them.
+▪ The digestion of incisors from mammalian carnivore prey assemblages is more extreme than that of the molars.
+▪ The mammalian carnivores are also of some antiquity.
+▪ Fig. 3.4 Skeletal element proportions of bone assemblages from diurnal raptors and mammalian carnivores, as for Fig. 3.2.
+▪ Fourthly, the mammalian carnivores are all alike in producing assemblages with no complete skulls at all.
+
+grapevine
+grape‧vine /ˈɡreɪpvaɪn/ BrE  AmE  noun [countable]
+1. hear something on the grapevine to hear about something because the information has been passed from one person to another in conversation:
+ I heard about his resignation on the grapevine.
+2. a climbing plant on which grapes grow SYN vine
+From Longman DOCE5 Extras (En-En)
+grapevine
+noun
+EXAMPLES FROM CORPUS
+▪ He had heard as much on the grapevine around the office.
+▪ If a collector had acquired the ancient cross, Wartski's experts might have heard of it through the dealers' grapevine.
+▪ In a week the displaced honeysuckle vines, the wild roses, the grapevines, the grass, would be back.
+▪ In the Northern California wine country at harvest time, we favor soaked grapevines added to the coals for our fuel source.
+▪ That is because commercial grapevines are propagated from cuttings and are genetically identical clones.
+▪ We have also had great success with grapevine cuttings and herb sprigs, such as basil and thyme.
+=======
+<<<<<<< HEAD
+
+>>>>>>> a59722b0d9c513f80aea5b8eaf9d5e196fd59d09
 
 whimsy
 whimsy UK  US  [ˈwɪm.zi] disapproving noun countable or uncountable [whimsies]
@@ -25938,6 +26035,7 @@ phrase of harm
 US
 used to indicate that a mistake or instance of misconduct should be excused because it has not caused damage.
 "strictly speaking it was petty trespassing, but no harm, no foul"
+<<<<<<< HEAD
 
 
 pinnacle
@@ -25957,3 +26055,6 @@ EXAMPLES FROM CORPUS
 ▪ Then, just before dusk a single figure was spotted again moving out of sight on the small col below the second pinnacle.
 ▪ To deplore children being crippled by land mines is not really at the pinnacle of human courage, is it?
 ▪ Troops may be moved on to a castle wall, rocky pinnacle or other elevation including a Spiral Stair.
+=======
+>>>>>>> d2003651bcfbdfff5c87cca3e703467a04efcc81
+>>>>>>> a59722b0d9c513f80aea5b8eaf9d5e196fd59d09
