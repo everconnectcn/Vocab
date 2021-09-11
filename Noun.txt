@@ -25900,6 +25900,8 @@ II. gourmet2 BrE  AmE  noun [countable]
 [Date: 1800-1900; Language: French; Origin: from early French gromet 'boy servant' (influenced by gourmand), from English groom]
 someone who knows a lot about food and wine and who enjoys good food and wine
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 >>>>>>> 2b3fd199475eb9d5d3fb0450e0b6c504f74bfb37
 
 
@@ -25993,6 +25995,7 @@ EXAMPLES FROM CORPUS
 =======
 <<<<<<< HEAD
 
+>>>>>>> a59722b0d9c513f80aea5b8eaf9d5e196fd59d09
 
 whimsy
 whimsy UK  US  [ˈwɪm.zi] disapproving noun countable or uncountable [whimsies]
@@ -26032,4 +26035,26 @@ phrase of harm
 US
 used to indicate that a mistake or instance of misconduct should be excused because it has not caused damage.
 "strictly speaking it was petty trespassing, but no harm, no foul"
+<<<<<<< HEAD
+
+
+pinnacle
+noun
+COLLOCATIONS FROM CORPUS
+■ VERB
+reach
+▪ During the seven years of their previous patronage by Next, the brothers have reached the pinnacle of the sport.
+▪ Without developing the emotions, it will be difficult for men to reach such pinnacles of the transcendent as the peak experience.
+▪ The Doom Diver rips through the clouds like a bullet until he reaches the pinnacle of his ascent.
+▪ He had reached the pinnacle of his military career and held supreme political power.
+EXAMPLES FROM CORPUS
+▪ At last we could see Ambadji on a pinnacle ahead of us.
+▪ During the seven years of their previous patronage by Next, the brothers have reached the pinnacle of the sport.
+▪ The end of the war in 1945 was his pinnacle.
+▪ The towers spring from sprawling castle-like buildings that were once hotels representing the pinnacle of elegance.
+▪ Then, just before dusk a single figure was spotted again moving out of sight on the small col below the second pinnacle.
+▪ To deplore children being crippled by land mines is not really at the pinnacle of human courage, is it?
+▪ Troops may be moved on to a castle wall, rocky pinnacle or other elevation including a Spiral Stair.
+=======
 >>>>>>> d2003651bcfbdfff5c87cca3e703467a04efcc81
+>>>>>>> a59722b0d9c513f80aea5b8eaf9d5e196fd59d09
