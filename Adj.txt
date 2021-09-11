@@ -15991,4 +15991,103 @@ introspect
 
  > introspection / 9IntrE5spekFn; 9IntrE`spZkFEn/ n [U] introspecting 反省; 内省.
  introspective / -5spektIv; -`spZktIv/ adj (a) inclined to introspect 好反省的; 好内省的: an introspective person 好自我反省的人. (b) characteristic of sb who does this 反省的; 内省的: in an introspective mood 以反省的心情 * introspective writing 反思的文字.
->>>>>>> d2003651bcfbdfff5c87cca3e703467a04efcc81
+
+foreboding
+foreboding UK  [fɔːˈbəʊ.dɪŋ] US  [fɔːrˈboʊ-] noun countable or uncountable literary [forebodings]
+a feeling that something very bad is going to happen soon
+• There's a sense of foreboding in the capital, as if fighting might at any minute break out.
+• Her forebodings about the future were to prove justified.
+• + (that) He had a strange foreboding (that) something would go wrong.
+Thesaurus+: ↑Predicting things and intuition
+From Longman DOCE 5th Ed. (En-En)
+foreboding
+fore‧bod‧ing /fɔːˈbəʊdɪŋ $ fɔːrˈboʊ-/ BrE  AmE  noun [uncountable]
+a strong feeling that something bad is going to happen soon:
+ She waited for news with a grim sense of foreboding.
+• • •
+THESAURUS
+▪ fear a feeling of being frightened: He was trembling with fear. | Fear of failure should not stop you trying.
+▪ terror a feeling of great fear, because you think that something terrible is about to happen: She let out a scream of pure terror.
+▪ fright a sudden feeling of fear, or a situation that makes you feel this: My body was shaking with fright. | You gave me a fright! | He’s had a bit of fright, that’s all.
+▪ panic a sudden feeling of fear or nervousness that makes you unable to think clearly or behave sensibly: She was in such a panic that she hardly knew what she was doing! | There were scenes of sheer panic immediately following the bomb blast.
+▪ alarm a feeling of fear or worry which shows in your voice or behaviour, because you think something bad might happen: When I mentioned her name, he looked up at me in alarm. | The streets were calm and there was no sign of alarm.
+▪ foreboding /fɔːˈbəʊdɪŋ $ fɔːrˈboʊ-/ a feeling that something bad or unpleasant might happen although there is no obvious reason why it should: She felt the same sense of foreboding she had before her father died.
+▪ phobia /ˈfəʊbiə $ ˈfoʊ-/ a permanent strong unreasonable fear of something: I had a phobia about going to the dentist.
+From Longman DOCE5 Extras (En-En)
+foreboding
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ "Jeanie, I have to go away," he said, his voice full of foreboding.
+▪ As they waited at the airfield, Sara had the same feeling of foreboding that she had felt before her father died.
+▪ He had a sudden sense of foreboding. Something was wrong, very wrong.
+EXAMPLES FROM CORPUS
+▪ Although the fresh night air was welcome, Jack was again aware of an unusual feeling of dread and foreboding.
+▪ But I am not given to entertaining forebodings.
+▪ Eating in zero gravity was no real problem, contrary to the dark forebodings of the early astronauts.
+▪ Nobody was there, but the air was heavy with a sense of foreboding.
+▪ Travelling to the Continent now I feel a gloomy foreboding, for there is a whiff of decline in the air.
+▪ Whether Ursula shared her growing sense of foreboding she did not know.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+forebode
+
+ / fR:5bEUd; fRr`bod/ v [Tn] (fml 文) be a sign or a warning of (esp trouble) 预示（尤指坏事）: Her angry face forbode a confrontation. 她一脸怒气预示将有一场冲突. * These developments forebode disaster. 这些情况预示着要有灾祸.
+
+ > foreboding n [C, U] ~ (that...) strong feeling that danger or trouble is coming 要有危险或坏事的预感: She had a sinister foreboding that the plane would crash. 她有个不祥的预感, 飞机要失事. * Thoughts about the future filled him with foreboding. 他想到未来, 不寒而栗.
+ 
+ resounding
+resounding UK  US  [rɪˈzaʊn.dɪŋ] adjective before noun
+ 
+LOUD
+1. loud
+• Supporters gave the team three resounding cheers.
+Thesaurus+: ↑Noise and noisy
+ 
+GREAT
+2. very great
+• The plan was a resounding success/failure.
+Thesaurus+: ↑Very and extreme ↑Complete and whole ↑Intensifying expressions
+Derived: resoundingly
+resound
+resound UK  US  [rɪˈzaʊnd] verb intransitive [resounds resounding resounded]
+to sound loudly or for a long time, or (of a place) to be filled with sound
+• The noise of the fire alarm resounded through/throughout the building.
+• The concert hall resounded with cheers and applause.
+See also resonate
+Thesaurus+: ↑Having a powerful effect ↑Strong feelings ↑Very and extreme
+From Longman DOCE 5th Ed. (En-En)
+resounding
+re‧sound‧ing /rɪˈzaʊndɪŋ/ BrE  AmE  adjective
+1. resounding success/victory/defeat etc a very great or complete success, victory etc:
+ The show was a resounding success.
+2. [only before noun] a resounding noise is so loud that it seems to continue for a few seconds:
+ a resounding thud
+—resoundingly adverb
+• • •
+THESAURUS
+▪ loud making a lot of noise – used about sounds, voices, or music: a loud explosion | He was talking in a very loud voice. | The music was too loud.
+▪ noisy making a lot of noise – used about people, machines, and places that annoy you: The traffic was so noisy. | noisy neighbours | a noisy bar
+▪ rowdy rowdy people behave in a noisy and uncontrolled way. A rowdy place such as a bar is full of noisy people, often behaving badly: rowdy football fans | a rowdy bar
+▪ raucous /ˈrɔːkəs $ ˈrɒː-/ especially written unpleasantly loud – used about the excited sound of groups of people: raucous laughter | raucous crowds
+▪ resounding [only before noun] used to describe a loud noise when something hits another thing, that seems to continue for a few seconds. Also used about people cheering or shouting loudly: The door hit the wall with a resounding crash. | a resounding cheer
+resound
+re‧sound /rɪˈzaʊnd/ BrE  AmE  verb [intransitive]
+[Date: 1300-1400; Language: Old French; Origin: resoner, from Latin resonare, from sonare 'to sound']
+1. if a place resounds with a sound, it is full of that sound
+resound with
+ The stadium resounded with cheers.
+resound to
+ By now, the whole room was resounding to the sound of the team’s chants.
+2. if a sound such as a musical note resounds, it continues loudly and clearly for quite a long time ⇨ resonate
+resound through/around etc
+ a horn resounding through the forest
+3. formal to be mentioned or talked about a lot:
+ The war still resounds in the country’s folklore.
+From Longman DOCE5 Extras (En-En)
+resounding
+adjective
+COLLOCATIONS FROM OTHER ENTRIES
+a crushing/resounding defeat (=a complete defeat, by a very large amount)
+▪ He quit as Prime Minister following a crushing defeat in regional elections.
+a resounding/outstanding/spectacular success (=very great success)
+▪ Financially, the event was a resounding success.
+COLLOCATIONS FROM CORPUS
