@@ -1,0 +1,16 @@
+Dear Professor Michael D. Adams,
+
+My name is Wang Zhang, and I am applying for the M.Eng. program of the Department of Electrical and Computer Engineering. I am currently working as a software engineer. And my work mainly involves back-end development such as a search system based on Elasticsearch and a canary roll-out system using Spring Boot. Attached are my CV, statement of results, sample of source code, IELTS score report.
+
+I do not need financial support since I have worked for years and can cover for myself, I am applying for the January entry, but since there is not much time left to the application deadline, I am also interested in the may entry.
+
+I am very interested in software security and object-oriented software development. My goal is to consolidate my practical knowledge and skills in software security, software scalability and software quality control. I have reviewed you and your staff profile and am interested in the work that you have done. I would like to get involved in the development of validation and verification of software systems because it will help me to better prepare for my career and goals.
+
+Would you like to be the supervisor of my MEng program?
+
+Thank you for your time.
+
+Sincerely,
+Wang Zhang
+
+C/C++ programming language
