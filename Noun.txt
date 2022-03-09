@@ -26286,6 +26286,7 @@ EXAMPLES FROM CORPUS
 ▪ The only serious incident that has ever occurred involved a clear and flagrant case of product alteration and misuse.
 ▪ We must be clear, this shooting of civilian aircraft out of the air was a flagrant violation of international law.
 
+<<<<<<< HEAD
 aspiration
 as‧pi‧ra‧tion /ˌæspəˈreɪʃən, ˌæspɪˈreɪʃən/ BrE  AmE  noun
 1. [countable usually plural, uncountable] a strong desire to have or achieve something SYN ambition:
@@ -26474,3 +26475,386 @@ Thesaurus+: ↑Parts of armies and groups of servicemen
 2. countable usually singular informal a group of people who have something in common, especially an enthusiasm for a particular belief or subject
 • Since she gave up smoking she's joined the anti-smoking brigade.
 Thesaurus+: ↑Groups of people
+=======
+fragrant
+fragrant UK  US  [ˈfreɪ.gr ə nt] adjective
+with a pleasant smell
+• fragrant flowers
+• The sauce itself was light, fragrant and slightly sweet.
+Thesaurus+: ↑Smells and smelling
+From Longman DOCE 5th Ed. (En-En)
+fragrant
+fra‧grant /ˈfreɪɡrənt/ BrE  AmE  adjective
+[Date: 1400-1500; Language: Latin; Origin: present participle of fragrare 'to smell nice']
+having a pleasant smell:
+ fragrant flowers
+—fragrantly adverb
+From Oxford Advanced Learners Dictionary 8th Ed.
+fragrant
+fra·grant BrE [ˈfreɪɡrənt]  NAmE [ˈfreɪɡrənt]  adjective
+having a pleasant smell
+• fragrant herbs/flowers/oils
+• The air was fragrant with scents from the sea and the hills.
+• Swallows swooped through the fragrant evening air.
+Derived Word: ↑fragrantly
+ 
+Word Origin:
+[fragrant fragrantly] late Middle English: from French, or from Latin fragrant- ‘smelling sweet’, from the verb fragrare.
+ 
+Example Bank:
+• a garden full of wonderfully fragrant flowers
+• The air was fragrant with the scents from the sea and the hills.
+• fragrant herbs/flowers/oils
+
+pesticide
+pesti·cide [pesticide pesticides] BrE [ˈpestɪsaɪd]  NAmE [ˈpestɪsaɪd]  noun countable, uncountable
+a chemical used for killing ↑pests, especially insects
+• vegetables grown without the use of pesticides
+• crops sprayed with pesticide
+see also ↑herbicide, ↑insecticide
+ 
+Example Bank:
+• It is claimed that current levels of pesticide do not pose a threat to health.
+• Some weeds have developed resistance to agricultural pesticides.
+• Traces of pesticide in the water were ten times above permissible levels.
+• tests for pesticide contamination in food
+• the risk of pesticide exposure among farm workers
+• the threat to human health from chemical pesticides in our food
+From WordNet® 3.0 (En-En)
+pesticide
+noun
+a chemical used to kill pests (as rodents or insects)
+• Hypernyms: ↑chemical, ↑chemical substance
+• Hyponyms:
+↑acaricide, ↑acaracide, ↑arsenical, ↑insecticide, ↑insect powder, ↑pediculicide, ↑phosphine, ↑scabicide, ↑sheep dip, ↑spray
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+pesticide
+
+ / 5pestIsaId; `pZstE9saId/ n [C, U] chemical substance used to kill pests, esp insects 消灭有害动物的化学药物; （尤指）杀虫剂: The flea-infested room had to be sprayed with a strong pesticide. 房间里有跳蚤, 得喷强力杀虫剂. Cf 参看 insecticide (insect).
+From Longman DOCE5 Extras (En-En)
+pesticide
+noun
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+chemical
+▪ Four more test orchards were managed conventionally, with the full arsenal of chemical fertilisers and pesticides.
+▪ Our scheme reduced the range and volume by using alternatives to chemical pesticides and by taking a holistic approach to growing.
+▪ Organically farmed crops are not sprayed with any chemical pesticides and are not treated with nitrogen, potassium or phosphate fertilisers.
+new
+▪ Evaluating the toxicology of any new pesticide is now so expensive that few new compounds are reaching the market.
+▪ Cloning produces large numbers of identical organisms for research purposes, such as the initial testing of new pesticides on plant species.
+▪ It is claimed that the new levels of pesticide do not pose a risk to health.
+■ NOUN
+residue
+▪ All foods are organically grown, except when foods with pesticide residues are used for testing.
+use
+▪ Attempts will be made to reduce pesticide use in water catchment areas.
+▪ Over the same period, pesticide use has decreased by 47 percent.
+▪ In the short term it proposes increased monitoring to ensure that the highest standards of pesticide use are maintained.
+■ VERB
+reduce
+▪ Attempts will be made to reduce pesticide use in water catchment areas.
+▪ Since its establishment, it has warned the newly-privatized water companies on 12 occasions to reduce pesticides in drinking water.
+▪ Sainsbury's works with suppliers to find ways of reducing the use of pesticides to a minimum.
+spray
+▪ Avoid spraying your plants with pesticides, grow plants that encourage beneficial insects such as carrots, parsley, parsnips and nettles.
+▪ If the food market expands, they reason, it could reduce the need to spray crops with harmful pesticides.
+▪ Dead birds are found almost every morning after greenkeepers have sprayed pesticide at night.
+▪ Our crops are sprayed with pesticides, some of which are also classified as EDCs.
+▪ Organically farmed crops are not sprayed with any chemical pesticides and are not treated with nitrogen, potassium or phosphate fertilisers.
+EXAMPLES FROM CORPUS
+▪ And many pests have developed resistance to the most commonly used pesticides.
+▪ Attempts will be made to reduce pesticide use in water catchment areas.
+▪ Avoid spraying your plants with pesticides, grow plants that encourage beneficial insects such as carrots, parsley, parsnips and nettles.
+▪ By 7am his eyes will be weeping and raw from the sulphurous pesticides in the soil.
+▪ Del Norte County pesticide storage area near Crescent City.
+▪ More research is needed to optimise the size of droplets and their charge-to-mass ratio for different pesticides and targets.
+▪ So, what exactly is going on in the pesticide world to reduce me to such grovelling gratitude?
+▪ We never use pesticides or insecticides and this is the wonderful result.
+
+other
+▪ Transmitted by green fly and other sucking pest.
+▪ I can't remember all the other pests in my garden, there have been so many.
+▪ On other nights I dreamed of other pests.
+▪ Similarly predators are encouraged to control other pests such as slugs, snails and the Solomon's seal sawfly.
+▪ Spray roses in pots with water daily to keep humidity up; watch out for greenfly and other pests.
+▪ This was to rid Glasgow's Arches of rats and mice and any other pests that were lurking there.
+■ NOUN
+control
+▪ The local Rentokil pest control branch were contacted to see if they could help.
+▪ Vineyards like Napa Ridge like the idea of using low impact, natural pest control and are pleased with the preliminary results.
+▪ Six devices have been sent to people with links to pest control, farming and hunting in the past fortnight.
+▪ Entomology was also taking on an economic role as its application to pest control became evident.
+▪ It is these concerns which have encouraged a move back towards biological or organic methods of pest control.
+▪ Gardening in tomorrow's world Future pest control at a stroke?
+▪ The researchers were actually working on a mouse contraceptive vaccine for pest control, according to New Scientist.
+▪ A different type of biologically engineered pest control is claimed to have been effected through a free-living soil bacteria.
+insect
+▪ Plants under stress from drought, disease or nutrient deficiency are the most likely to attract insect pests.
+▪ Smaller birds that prey on insect pests also raid fruit crops, which must be netted.
+▪ Also insect pests and diseases increase when the same crops are grown year after year.
+▪ Many birds nest and sleep in hedges and eat insect pests.
+▪ The house longhorn beetle is another insect pest which seems to be confined to parts of Hampshire and south-west Surrey.
+▪ Some plants already possess genetic resistance to attacks by insect pests while others resist certain fungal diseases.
+management
+▪ A multidisciplinary approach to pest management is essential.
+
+parasite
+ / 5pArEsaIt; `pArE9saIt/ n 
+ animal (eg a flea, louse) or plant (eg mistletoe) that lives on or in another and gets its food from it 寄生物（如寄生虫或寄生植物）. 
+ (derog 贬) person who lives off others and gives nothing in return 靠他人为生的人: live as a parasite on society 像寄生虫似的靠社会为生.
+
+ > parasitic / 9pArE5sItIk; 9pArE`sItIk/, parasitical/ 9pArE5sItIkl; 9pArE`sItIkl/ adjs (a) living as a parasite; like a parasite 寄生的; 似寄生物的; 靠他人为生的: a parasitic plant, worm 寄生的植物、蠕形动物 * (fig 比喻) He lives a parasitic existence, borrowing money from his friends. 他靠向友人借贷过寄生生活. (b) caused by a parasite 寄生物引起的: a parasitic disease 寄生性病害. parasitically / -klI; -klI/ adv.
+From Longman DOCE5 Extras (En-En)
+parasite
+noun
+COLLOCATIONS FROM CORPUS
+■ ADJECTIVE
+intestinal
+▪ Our immune systems used to encounter intestinal parasites as part of normal development.
+▪ In many instances it was dozens or even, as with intestinal parasites, hundreds of times higher than average.
+▪ And in exceptional circumstances, microscopic intestinal parasites have survived to indicate some of the health problems that people suffered.
+▪ Treatment was geared to boosting John's immune system which was being battered by various systemic fungi and intestinal parasites.
+other
+▪ Protozoans are effectively invisible to the naked eye, and flukes nearly so, but other external parasites are all too-readily seen.
+▪ It looked like any other parasite.
+■ NOUN
+malaria
+▪ So could malaria parasites be destroyed by assaulting them with free oxygen radicals?
+▪ This may be a result of having received a lesser dose of malaria parasite, he said.
+▪ After infection, malaria parasites multiply by a factor of eight every 24 hours.
+■ VERB
+cause
+▪ Surprisingly, it is the minor parasites of wheat that cause the biggest headaches for triticale growers.
+find
+▪ The bird, widespread as it is, has resisted the temptation to diverge into numerous kinds found among many nest parasites.
+▪ Thus we find parasites upon parasites.
+▪ Legionellae in the enviroment are found as parasites of protozoa in which intracellular multiplication can take place.
+kill
+▪ Although you have killed the White Spot parasites, they have left scars and marks, which are still irritating your fish.
+▪ This membrane defect makes it much easier for toxic substances made by the immune system to enter red cells and kill parasites.
+
+potassium
+
+ / pE5tAsIEm; pE`tAsIEm/ n [U] chemical element, a soft shiny silvery-white metal occurring in rocks and in the form of mineral salts and essential for all living things 钾. =>App 10 见附录10.
+From Longman DOCE5 Extras (En-En)
+potassium
+noun
+COLLOCATIONS FROM CORPUS
+■ NOUN
+chloride
+▪ Inorganic salts such as sodium chloride, potassium chloride and potassium iodide form eutectic mixtures with water.
+▪ In the future, many salty foods will use mixtures of potassium chloride to redress the balance.
+▪ In his car-it looks like a Passat-he has cylinders of carbon monoxide and bottles of potassium chloride.
+▪ He drives around Michigan with bottles of potassium chloride and cylinders of carbon monoxide.
+concentration
+▪ Proton concentrations for each sample were then calculated from the hydrogen ion activity and the combined sodium and potassium concentrations.
+▪ This is effective not because it lowers serum potassium concentration but because it directly antagonizes the membrane depolarizing effect of hyperkalemia.
+▪ The electrocardiogram provides a graphic indication of the membrane effects of altered potassium concentrations.
+▪ HYPOKALEMlA A low plasma potassium concentration is not always accompanied by a deficit in total body potassium.
+▪ Occasionally, a substantially increased platelet or white cell count may lead to apparent increases in plasma potassium concentration.
+▪ What is actually observed in this Circumstance is an increase in serum potassium concentration.
+▪ As a result, extracellular potassium concentration decreases.
+▪ This causes an increase in extracellular potassium concentration.
+excretion
+▪ Sodium Sodium delivery to the distal tubule is necessary for adequate potassium excretion.
+▪ Should the supply of sodium ions presented to the distal exchange sites decrease, potassium excretion decreases also.
+▪ Acidemia tends to decrease potassium excretion, and alkalemia tends to increase potassium excretion.
+level
+▪ The medical experts found potassium levels were particularly high in some children.
+▪ She suffered from dehydration, her potassium levels were dangerously low, and she had lost 15 pounds.
+▪ The serum potassium level is sometimes helpful in determining acid-base status.
+▪ However, aldosterone is also regulated by sodium and potassium levels and more importantly by the renin-angiotensin system.
+▪ The serum potassium level may be of assistance in suggesting whether the patient is acidemia or alkalemia, as described above.
+▪ For example, in acidosis from diarrhea, the serum potassium level is often low rather than high.
+permanganate
+▪ The sergeant sat down, placed his feet into the ice-cold potassium permanganate solution and heaved a euphoric sigh of relief.
+▪ Convenient and effective dyes for introducing into water flows include potassium permanganate, gentian violet, and methyl blue.
+▪ Some one has suggested I should try potassium permanganate, but what quantities per gallon should I use?
+▪ At the same time it is recommended that sufficient potassium permanganate crystals be added to the water to turn it violet.
+plasma
+▪ HYPOKALEMlA A low plasma potassium concentration is not always accompanied by a deficit in total body potassium.
+▪ Occasionally, a substantially increased platelet or white cell count may lead to apparent increases in plasma potassium concentration.
+serum
+▪ His temperature was 37°C, pulse 84/ min, and serum potassium 3.8 mmol/l.
+▪ This is effective not because it lowers serum potassium concentration but because it directly antagonizes the membrane depolarizing effect of hyperkalemia.
+▪ The serum potassium level is sometimes helpful in determining acid-base status.
+▪ The serum potassium level may be of assistance in suggesting whether the patient is acidemia or alkalemia, as described above.
+▪ What is actually observed in this Circumstance is an increase in serum potassium concentration.
+▪ For example, in acidosis from diarrhea, the serum potassium level is often low rather than high.
+■ VERB
+increase
+▪ Acidemia tends to decrease potassium excretion, and alkalemia tends to increase potassium excretion.
+▪ Additionally, there will be an increased renal excretion of potassium causing a decrease of potassium in the extracellular fluid. 258.
+EXAMPLES FROM CORPUS
+▪ As is the case for calcium, correction of potassium deficiency may not be possible until the serum magnesium level is normalized.
+▪ Diarrhea, due to gastrointestinal disorders, infections, and even laxative abuse, may lead to substantial potassium losses.
+▪ Growth failure is also seen in hypokalemic children, particularly those with chronic potassium depletion.
+▪ Perception, that is to say, boils down to the passage of sodium, potassium and other ions across semi-permeable membranes.
+▪ The electrocardiogram provides a graphic indication of the membrane effects of altered potassium concentrations.
+▪ The medical experts found potassium levels were particularly high in some children.
+▪ These can be bleached by applying a potassium ferricyanide solution to them.
+▪ Unlike sodium, potassium exhibits no renal threshold being excreted into the urine even in K depleted states.
+
+write-up
+write-up UK  [ˈraɪ.tʌp] US  [-t ̬ʌp] noun countable
+a report or article which makes a judgment about something, such as a play or film
+• The paper didn't give the show a very good write-up.
+Thesaurus+: ↑Accounts and stories ↑Summaries and summarising ↑Pieces of writing
+From Longman DOCE 5th Ed. (En-En)
+write-up
+ˈwrite-up BrE  AmE  noun [countable]
+a written opinion about a new book, play, or product in a newspaper, magazine etc SYN review:
+ The play got a really good write-up (=it was praised) in the press.
+From Oxford Advanced Learners Dictionary 8th Ed.
+write-up
+ˈwrite-up [write-up write-ups] BrE   NAmE   noun
+an article in a newspaper or magazine in which sb writes what they think about a new book, play, product, etc
+• The performance got a good write-up in the local press.
+From Longman DOCE5 Extras (En-En)
+write-up
+noun
+EXAMPLES FROM OTHER ENTRIES
+▪ After a write-up in Yankee magazine, orders started pouring in.
+▪ Did you see Martin Amis' write-up of the book in the Observer?
+▪ Morris' play got a really good write-up in the press.
+▪ The film didn't get a very good write-up in Time Out.
+EXAMPLES FROM CORPUS
+▪ After a fair few spot-on write-ups in the last few months, now the fashion pack moved in on him.
+▪ As it wasn't mentioned in the Newsletter write-up Geoff's theory is that she was booted out.
+▪ Do not believe the optimistic write-ups in the training brochures.
+▪ Editorial competition A competition is another device for promoting your product or services by name in terms of both write-up and pictures.
+▪ Have some spare copies of your phonology or grammar write-ups to give to anyone interested.
+▪ If they are favourable words, it could be the first write-up of many. 4.
+▪ In this case, treat the write-up as yet another learning experience informing you of strong and problem areas.
+
+run-up
+run-up UK  US  [ˈrʌn.ʌp] noun
+1. countable In some sports, a run-up is a period or distance of running that you do in order to be going fast enough to perform a particular action
+• The longer and faster your run-up is, the higher you can jump.
+Thesaurus+: ↑Athletics ↑Parts and stages of competitions
+2. only singular mainly UK the final period of time before an important event
+• Everyone is very busy during the run-up to publication.
+Thesaurus+: ↑Preceding and introducing
+From Longman DOCE 5th Ed. (En-En)
+run-up
+ˈrun-up BrE  AmE  noun
+1. the run-up to something the period of time just before an important event:
+ in the run-up to the election
+2. [countable] the act of running, or the distance that you run, before you kick a ball, jump over a pole etc
+From Oxford Advanced Learners Dictionary 8th Ed.
+run-up
+ˈrun-up [run-up run-ups] BrE   NAmE   noun (BrE)
+1. (also less frequent ˈrun-in) ~ (to sth) a period of time leading up to an important event; the preparation for this
+• an increase in spending in the run-up to Christmas
+• during the run-up to the election
+2. the act of running or the distance you run, to gain speed before you jump a long distance, throw a ball, etc
+• The bowler started his run-up.
+See also: ↑run-in
+
+Verb[edit]
+defeat the purpose (third-person singular simple present defeats the purpose, present participle defeating the purpose, simple past and past participle defeated the purpose)
+To undermine the act of doing something by having an opposite effect; to nullify.
+
+II. slump2 BrE  AmE  noun [countable usually singular]
+1. a sudden decrease in prices, sales, profits etc
+slump in
+ a slump in car sales
+2. a period when there is a reduction in business and many people lose their jobs OPP boom:
+ The war was followed by an economic slump.
+ a worldwide slump
+3. especially American English a period when a player or team does not play well
+in a slump
+ The Dodgers have been in a slump for the last three weeks.
+ 
+ maneuver
+maneuver UK  [məˈnuː.və r ] US  [-vɚ] noun countable, verb, intransitive or transitive
+US for manoeuvre
+Thesaurus+: ↑Placing and positioning an object ↑Affecting and influencing
+From Longman DOCE 5th Ed. (En-En)
+maneuver
+I. ma‧neu‧ver /məˈnuːvə $ -ər/ BrE  AmE 
+the American spelling of ↑manoeuvre
+II. ma‧noeu‧vre1 BrE  AmE  British English, maneuver American English /məˈnuːvə $ -ər/ noun
+1. [countable] a skilful or careful movement that you make, for example in order to avoid something or go through a narrow space:
+ A careful driver will often stop talking before carrying out a complex manoeuvre.
+2. [uncountable and countable] a skilful or carefully planned action intended to gain an advantage for yourself:
+ They tried by diplomatic maneuvers to obtain an agreement.
+3. manoeuvres [plural] military activities, such as pretending to fight a battle, which are done as practice or training SYN exercises:
+ Large-scale military manoeuvres are being carried out near the border.
+on manoeuvres
+ troops on night manoeuvres
+4. room for manoeuvre/freedom of manoeuvre the possibility of changing your plans or decisions in order to achieve what you want:
+ As I see it, Lisa, you don’t really have a great deal of room for manoeuvre.
+III. manoeuvre2 BrE  AmE  British English, maneuver American English verb
+1. [intransitive, transitive always + adverb/preposition] to move or turn skilfully or to move or turn something skilfully, especially something large and heavy:
+ She managed to manoeuvre expertly into the parking space.
+manoeuvre yourself into/out of something
+ Josh manoeuvred himself out of bed and hobbled to the door.
+ We manoeuvred the TV in front of the sofa.
+2. [intransitive and transitive] to use cleverly planned and often dishonest methods to get the result that you want
+manoeuvre somebody into/out of something
+ It was a well-organized plan to maneuver company president John Woolford out of office.
+ Businesses manoeuvred to have their industry organized to their own advantage.
+ 
+ idiosyncrasy
+idiosyncrasy UK  US  [ˌɪd.i.əˈsɪŋ.krə.si] noun countable usually plural [idiosyncrasies]
+a strange or unusual habit, way of behaving or feature that someone or something has
+• She often cracks her knuckles when she's speaking - it's one of her little idiosyncrasies.
+• One of the idiosyncrasies of this printer is that you can't stop it once it has started to print.
+Thesaurus+: ↑Habitual behaviour
+Derived: idiosyncratic
+From Longman DOCE 5th Ed. (En-En)
+idiosyncrasy
+id‧i‧o‧syn‧cra‧sy /ˌɪdiəˈsɪŋkrəsi/ BrE  AmE  noun (plural idiosyncrasies) [countable]
+[Date: 1600-1700; Language: Greek; Origin: idiosynkrasia, from idio- ( ⇨ ↑idiolect) + synkerannynai 'to mix together']
+1. an unusual habit or way of behaving that someone has:
+ my uncle’s idiosyncrasies
+2. an unusual or unexpected feature that something has:
+ one of the many idiosyncrasies of English spelling
+—idiosyncratic /ˌɪdiəsɪnˈkrætɪk◂/ adjective
+From Oxford Advanced Learners Dictionary 8th Ed.
+idiosyncrasy
+idio·syn·crasy [idiosyncrasy idiosyncrasies] BrE [ˌɪdiəˈsɪŋkrəsi]  NAmE [ˌɪdiəˈsɪŋkrəsi]  noun countable, uncountable (pl. idio·syn·crasies)
+a person's particular way of behaving, thinking, etc, especially when it is unusual; an unusual feature
+Syn: ↑eccentricity
+• Wearing a raincoat, even on a hot day, is one of her idiosyncrasies.
+• The car has its little idiosyncrasies.
+Derived Word: ↑idiosyncratic
+ 
+Word Origin:
+early 17th cent. (originally in the sense ‘physical constitution peculiar to an individual’): from Greek idiosunkrasia, from idios ‘own, private’ + sun ‘with’ + krasis ‘mixture’.
+ 
+Example Bank:
+• The microphone is likely to exaggerate the idiosyncrasies of a voice.
+• The pub was famous for the idiosyncrasies of its landlord.
+• We are all individuals, unique beings with our own special qualities and idiosyncrasies.
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+idiosyncrasy
+
+ / 9IdIE5sINkrEsI; 9IdIE`sINkrEsI/ n person's particular way of thinking, behaving, etc that is clearly different from that of others （个人独有的）习性、癖好、气质: One of her little idiosyncrasies is always washing in cold water. 她有个怪习惯, 就是洗什么都爱用冷水.
+ > idiosyncratic / 9IdIEsIN5krAtIk; 9IdIosIN`krAtIk/ adj.
+From Longman DOCE5 Extras (En-En)
+
+linen
+linen UK  US  [ˈlɪn.ɪn] noun uncountable
+1. strong cloth that is woven from the fibres of the flax plant
+• a linen jacket
+• the crumpled charm of linen
+Thesaurus+: ↑Textiles made from natural fibres
+2. sheets, tablecloths, etc. which are made from linen or a similar material
+• bed linen
+• table linen
+Thesaurus+: ↑Bed linen and covers ↑Table linen and accessories
+From Longman DOCE 5th Ed. (En-En)
+linen
+lin‧en /ˈlɪnən, ˈlɪnɪn/ BrE  AmE  noun [uncountable]
+[Language: Old English; Origin: 'made of flax', from lin 'flax']
+1. sheets, ↑tablecloths etc:
+ bed linen
+ table linen
+2. cloth made from the ↑flax plant, used to make high quality clothes, home decorations etc:
+ a linen jacket
+3. old use underwear
+⇨ wash your dirty laundry/linen at ↑dirty1(7)
+>>>>>>> 8f5310578d8f0f90c142016c5d40a4f313c0f7a3

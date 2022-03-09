@@ -1,6 +1,10 @@
 To Whom It May Concern,
 
+<<<<<<< HEAD
 Zhang Wang worked under my supervision during the years from 2014 to 2016. Throughout those years, he had shown enormous enthusiasm in programming and especially in algorithms and his dissertation related to a scheduling algorithm of SSD controllers had well demonstrated it.  Zhang also left a good impression with practical programming skills(for example, a command-line tool to test hard drive writing speed customized to meet lab needs), circuit designing skills, and the ability to use tools such as MATLAB&Simulink, Altium Designer, Eclipse, Office Suite, etc. and showed remarkable abilities to read and categorize numerous English acdemic and technical documents.
+=======
+Zhang Wang worked under my supervision during the years from 2013 to 2016. Throughout those years, Zhang had shown enormous enthusiasm in programming and especially in algorithms, his dissertation related to scheduling algorithm of SSD controller had well demonstrated it.  Zhang had also left a good impression with practical programming skills(for example, a command-line tool to test hard drive writing speed customized to meet lab needs), circuit designing skills, and the ability to use tools such as MATLAB&Simulink, Altium Designer, etc. Zhang had also shown remarkable abilities to read and categorize numerous English technical documents.
+>>>>>>> 8f5310578d8f0f90c142016c5d40a4f313c0f7a3
 
 Zhang is also a person with a warm personality. He had demonstrated kindness toward peers, the utmost respect to teachers, and infinite patience with work and research. There was quite a number of laborious and tedious work such as sorting out different electronic components mixed together by error and errand work such as buying a variety of components and sending them to our manufactures during that time, and Zhang had done them in a meticulous manner and with utter patience. Also, he manifested courtesy, attentiveness, and professionalism in dealing with workers from our manufacturers, suppliers, and other partners. Zhang is reliable and dependable.
 

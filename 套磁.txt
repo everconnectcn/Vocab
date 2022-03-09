@@ -2,7 +2,7 @@ Dear Professor Stephen W. Neville,
 
 My name is Wang Zhang, and I am currently applying for the MEng program of the Department of Electrical and Computer Engineering. I am currently working as a software engineer. And my work mainly involved designing and developing individual systems such as a comprehensive search system based on Elasticsearch and a canary roll-out system using Spring Boot. Attached is my CV. 
 
-I am very interested in cyber-security and large-scale software systems. My goal is to consolidate my practical knowledge and skills in software security, software scalability and cloud computing. I have reviewed your staff profile and am interested in the work that you have done. I would like to get involved in research and implantation in this area because it will help me to better prepare for my career and goals. 
+I am very interested in cyber-security and large-scale software systems. My goal is to consolidate my practical knowledge and skills in software security, software scalability and cloud computing. I have reviewed your staff profile and am interested in the work that you have done. I would like to get involved in research and implementation in this area because it will help me to better prepare for my career and goals. 
 
 Would you like to be the supervisor of my MEng program? 
 

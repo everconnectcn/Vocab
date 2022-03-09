@@ -69,7 +69,7 @@ procedure
 mechanical
 involve
 outrageous
-<<<<<<< HEAD
+
 ambulance
 immediately
 efficient

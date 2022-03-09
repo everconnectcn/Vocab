@@ -15964,6 +15964,7 @@ THESAURUS
 ▪ exclaim to say something suddenly and loudly: ‘How beautiful!’ she exclaimed.
 ▪ blurt out to suddenly say something without thinking, especially something embarrassing or secret: It was partly nervousness that had made him blurt out the question.
 ▪ stammer/stutter to speak with a lot of pauses and repeated sounds, because you have a speech problem, or because you are nervous or excited: ‘I’ll, I’ll only be a m-moment,’ he stammered.
+<<<<<<< HEAD
 
 enamoured
 enamoured UK , US enamored UK  [ɪˈnæm.əd] US  [-ɚd] adjective after verb formal
@@ -16015,3 +16016,212 @@ issue
 ▪ Some films show their makers grappling with contemporary issues, without always the level of visual inventiveness applied elsewhere.
 ▪ He accepts that aid agencies are grappling with highly complex issues.
 problem
+=======
+>>>>>>> d2003651bcfbdfff5c87cca3e703467a04efcc81
+
+
+churn
+I. churn1 /tʃɜːn $ tʃɜːrn/ BrE  AmE  verb
+1. [intransitive] if your stomach churns, you feel sick because you are nervous or frightened:
+ My stomach was churning on the day of the exam.
+2. [intransitive and transitive] (also churn up) if water, mud etc churns, or if something churns it, it moves about violently:
+ We watched the ocean churn.
+3. [intransitive] if a machine, engine, wheel etc churns, it or its parts begin to move:
+ I pressed the gas pedal, and slowly the wheels began to churn.
+4. [transitive] to make milk by using a churn
+churn something ↔ out phrasal verb
+to produce large quantities of something, especially without caring about quality:
+ She’s been churning out novels for 20 years.
+churn somebody/something ↔ up phrasal verb
+1. churn something ↔ up to damage the surface of the ground, especially by walking on it or driving a vehicle over it:
+ The lawn had been churned up by the tractor.
+2. churn something ↔ up to move water, mud etc around violently:
+ The oars had churned up the mud, clouding the water.
+3. British English to make someone upset or angry:
+ Though she looked calm, in reality she was churned up inside.
+II. churn2 BrE  AmE  noun
+[Language: Old English; Origin: cyrin]
+
+1. [countable] a container used for shaking milk in order to make it into butter
+2. (also milk churn) [countable] British English a large metal container used to carry milk in
+3. [uncountable] the number of people who stop buying or using a company's products or services during a particular period
+From Oxford Advanced Learners Dictionary 8th Ed.
+churn
+churn [churn churns churned churning] verb, noun BrE [tʃɜːn]  NAmE [tʃɜːrn] 
+verb
+1. intransitive, transitive if water, mud, etc. churns, or if sth churns it (up), it moves or is moved around violently
+• ~ (up) The water churned beneath the huge ship.
+• ~ sth (up) Vast crowds had churned the field into a sea of mud.
+2. intransitive, transitive ~ (sth) if your stomach churns or if sth churns your stomach, you feel a strong, unpleasant feeling of worry, disgust or fear
+• My stomach churned as the names were read out.
+3. intransitive, transitive ~ (sb) (up) to feel or to make sb feel upset or emotionally confused
+• Conflicting emotions churned inside him.
+4. transitive ~ sth to turn and stir milk in a special container in order to make butter
+
+Rev BrE  AmE  British English, Rev. American English (also Revd British English)
+(Reverend) a title used before the name of a minister of the Christian church:
+ Rev D Macleod
+rev
+I. rev1 /rev/ BrE  AmE  (also rev up) verb (past tense and past participle revved, present participle revving) [intransitive and transitive]
+ if you rev an engine, or if an engine revs, you make it work faster
+rev up phrasal verb informal
+if you rev up a system or organization, or if it revs up, it becomes more active
+rev up for
+ They are revving up for one of the biggest fund-raising events ever organized.
+rev something ↔ up
+ Investors keep putting money in U.S. companies, revving up the economy even more.
+II. rev2 BrE  AmE  noun [countable]
+[Date: 1900-2000; Origin: revolution]
+informal a complete turn of a wheel or engine part, used as a unit for measuring the speed of an engine SYN revolution
+
+coaxing
+coaxing UK  US  UK [ˈkəʊk.sɪŋ] US [ˈkoʊk-] noun uncountable
+• A bit of gentle coaxing is all that's required and he'll come, I'm sure.
+Thesaurus+: ↑Urging and persuading ↑Causing somebody to act
+Main entry: coaxderived
+coax
+coax UK  [kəʊks] US  [koʊks] verb transitive [coaxes coaxing coaxed]
+to persuade someone gently to do something or go somewhere, by being kind and patient, or by appearing to be
+• Perhaps you could coax your father into taking you to the station.
+• He has some information I want, so I'm going to try to coax it out of him over a drink.
+• A mother was coaxing her reluctant child into the water.
+• a coaxing voice
+Thesaurus+: ↑Urging and persuading ↑Causing somebody to act
+Derived: coaxing ▪ coaxingly
+From Longman DOCE 5th Ed. (En-En)
+coaxing
+See main entry: ↑coax
+coax
+coax /kəʊks $ koʊks/ BrE  AmE  verb [transitive]
+[Date: 1500-1600; Origin: cokes 'stupid person' (16-17 centuries)]
+1. to persuade someone to do something that they do not want to do by talking to them in a kind, gentle, and patient way:
+ ‘Please, Vic, come with us,’ Nancy coaxed.
+coax somebody into/out of (doing) something
+ We had to coax Alan into going to school.
+coax somebody to do something
+ We watched the bear coax its cubs to enter the water.
+coax somebody down/out/back etc
+ Firefighters managed to coax the man down from the roof.
+2. to make something such as a machine do something by dealing with it in a slow, patient, and careful way
+coax something out of/from/into etc something
+ He coaxed a fire out of some dry grass and twigs.
+ The driver coaxed his bus through the snow.
+—coaxing noun [uncountable]:
+ She needs a bit of gentle coaxing.
+—coaxingly adverb
+THESAURUS
+▪ persuade to make someone decide to do something, especially by giving them reasons why they should do it, or asking them many times to do it: I persuaded her to change her mind. | Do you think you can persuade him to lend us the money?
+▪ talk somebody into (doing) something to persuade someone to do something, especially something they do not really want to do: Why did I let you talk me into this? | He finally talked her into going on a date with him.
+▪ get somebody to do something to make someone do something by persuading or asking them: If we can’t get a taxi I’ll get Joe to pick us up. | I know how to get you to kiss me.
+▪ convince to persuade someone that they should do something, because it is the best or the right thing to do. Some British speakers think this use is incorrect, and prefer to use persuade: It would be difficult to convince him to move.
+▪ encourage to try to persuade someone to do something, especially because you think it will be good for them: Children should be encouraged to read all kinds of books.
+▪ influence to have an effect on what someone decides to do: What influences you to buy clothes?
+▪ coax to persuade someone to do something by talking gently and kindly: I tried to coax him to eat a little.
+▪ cajole /kəˈdʒəʊl $ -ˈdʒoʊl/ to persuade someone to do something by praising them or making promises to them: He hoped to cajole her into selling her house.
+▪ put somebody up to something to persuade or encourage someone to do something wrong or stupid: Who put you up to this?
+▪ dissuade formal to persuade someone not to do something: How do you dissuade young people from experimenting with drugs?
+coax something out of/from somebody phrasal verb
+to persuade someone to tell you something or give you something:
+ I managed to coax some money out of Dad.
+ 
+ second-guess (third-person singular simple present second-guesses, present participle second-guessing, simple past and past participle second-guessed)
+(idiomatic) to vet or evaluate; to criticize or correct, often by hindsight, by presuming to have a better idea, method, etc.
+1946, someone, somewhere:
+I suppose anybody who keeps a diary and subsequently goes over it for publication has a tremendous temptation to second-guess and make himself look like an oracle.
+1957, United States Senate proceedings:
+As a practical matter, a fertilizer company could not afford to second-guess the Federal Trade Commission or a jury in a triple damage case on so obscure a point.
+1959, U.S. Court of Appeals proceedings:
+Public administration would be hamstrung if courts were free to second-guess reasonable administrative decisions.
+1995, someone, somewhere:
+MacGregor avoided this trap by refusing to give managers reporting to him the opportunity to second-guess the solution he would be most likely to choose.
+2003, Editing Today:
+If you suspect you've stepped over the line, ask a few other copy editors to second-guess your headline.
+Please don't try to second-guess the procedure that we have already refined and adopted.
+Once she began listening to her instincts and didn't second-guess herself the entire time, her artwork improved noticeably.
+To anticipate or predict someone's actions or thoughts by guesswork.
+2019 November 6, Dennis Fancett, Rail, page 54:
+But it is not Network Rail's job to second guess whether the sponsoring authority really does need the scheme, and whether it has looked at other options.
+
+
+refer to
+refer to somebody/something phrasal verb (see also ↑refer)
+1. to mention or speak about someone or something:
+ We agreed never to refer to the matter again.
+ Although she didn’t mention any names, everyone knew who she was referring to.
+refer to somebody/something as
+ He likes to be referred to as ‘Doctor Khee’.
+refer to somebody/something by
+ The hospital now refers to patients by name, not case number.
+2. to look at a book, map, piece of paper etc for information:
+ He gave the speech without referring to his notes.
+3. if a statement, number, report etc refers to someone or something, it is about that person or thing:
+ The figures refer to our sales in Europe.
+4. refer somebody/something to somebody to send someone or something to a person or organization to be helped or dealt with:
+ My doctor is referring me to a dermatologist.
+ My complaint was referred to the manufacturers.
+5. refer somebody to something formal to tell someone where to find information:
+ Readers are referred to the bibliography for further information.
+ 
+ fall for (somebody/something)
+fall for somebody/something phrasal verb informal (see also ↑fall)
+1. to be tricked into believing something that is not true:
+ He is too smart to fall for that trick.
+2. to start to love someone:
+ That was the summer I worked at the fairground, and met and fell for Lucy.
+3. to like a place as soon as you see it
+ Verb[edit]
+fall for (third-person singular simple present falls for, present participle falling for, simple past fell for, past participle fallen for)
+(idiomatic) To be fooled by; to walk into (a trap) or respond to (a scam or trick).
+I can't believe how many people still fall for the coin glued to the sidewalk.
+(idiomatic) To fall in love with.
+He really fell for the attractive waitress at his favorite restaurant.
+2012 May 27, Nathan Rabin, “TV: Review: THE SIMPSONS (CLASSIC): “New Kid On The Block” (season 4, episode 8; originally aired 11/12/1992)”, in The Onion AV Club‎[1]:
+The neighbor is eventually able to sell her home despite Homer’s pants-less affronts to propriety and decency and Bart falls deeply and instantly for one of its new inhabitants, a tough but charming and funny tomboy girl named Laura (voiced by Sara Gilbert) with just the right combination of toughness and sweetness, granite and honey.
+2019, “Hentai”, in Cry, performed by Cigarettes After Sex:
+Beautiful hearts are in your eyes / I've been waiting for you to fall for me / And let me in your life
+
+Verb[edit]
+defeat the purpose (third-person singular simple present defeats the purpose, present participle defeating the purpose, simple past and past participle defeated the purpose)
+To undermine the act of doing something by having an opposite effect; to nullify.
+
+budge
+budge UK  US  [bʌdʒ] verb intransitive or transitive [budges budging budged]
+ 
+MOVE
+1. If something will not budge or you cannot budge it, it will not move
+• I've tried moving the desk but it won't budge/I can't budge it.
+Thesaurus+: ↑Transferring and transporting objects ↑Immobility
+ 
+CHANGE
+2. If someone will not budge, or you cannot budge them, they will not change their opinion
+• I've tried persuading her, but she won't budge.
+Thesaurus+: ↑Strong-willed
+Phrasal Verb: budge up
+From Longman DOCE 5th Ed. (En-En)
+budge
+budge /bʌdʒ/ BrE  AmE  verb [intransitive, transitive usually in negatives]
+[Date: 1500-1600; Language: French; Origin: bouger, from Latin bullire; ⇨ ↑boil1]
+1. to move, or to make someone or something move:
+ She leaned on the door, but it wouldn’t budge.
+budge from
+ Will hasn’t budged from his room all day.
+ The horse refused to budge an inch.
+2. to change your opinion, or to make someone change their opinion:
+ The government has refused to budge.
+budge on
+ He won’t budge on the issue.
+budge from
+ Treacy refuses to budge from his principles.
+• • •
+THESAURUS
+▪ move to go to a different place, or change the position of your body: Sarah moved away from the window. | Every time I move I get a pain in my left shoulder.
+▪ sway to move slowly from one side to the other: The branches swayed in the wind. | Donny swayed drunkenly as he walked back to his car.
+▪ rock to move repeatedly from one side to another, with small gentle movements: He rocked backward and forward in his chair. | The boat rocked from side to side with the waves.
+▪ wobble to move unsteadily from side to side: The bike wobbled a bit, but she soon got it under control.
+▪ fidget to keep moving or playing with your fingers, hands, feet etc, because you are bored or nervous: Diana fidgeted nervously with her pencil.
+▪ squirm to make very small movements from side to side with your body, especially because you feel uncomfortable: By the end of the hour, most of the children were squirming in their seats.
+▪ wriggle to make small movements from side to side, especially in order to get into or out of something: The dog wriggled under the fence and escaped into the street. | She managed to wriggle into the dress, but it was much too tight.
+▪ twitch if part of your body twitches, it makes small movements that you cannot control: A muscle on Yang’s face twitched.
+▪ stir written to make a movement – used especially when describing a situation in which no one moves, or someone wakes up: In the village a dog barked but no one stirred | The sleeping child stirred and opened her eyes.
+▪ budge to move – used when you are trying hard to make something move, often without success: The piano wouldn’t budge.
+>>>>>>> 8f5310578d8f0f90c142016c5d40a4f313c0f7a3

@@ -1,0 +1,18 @@
+﻿To Whom It May Concern,
+
+I am pleased to write this letter for Zhang Wang. 
+
+Zhang Wang has been working under my supervision for over 5 years and I find him to be a creative, practical, forward-looking professional. Zhang has been working hard and has spent numerous nights learning new knowledge and familiarize himself with our workflow since he came here. After the first few months, Zhang is capable of taking on new features and projects independently. Zhang has been successful on most of the projects he is in charge of since he is communicative and able to deliver things. 
+
+First of all, from our local Maven repository that he set up, to the VPN server that he shared within our group, all greatly facilitated the streamlining of our developing and deploying process. I also remember when he dug through MySQL documents to optimize the performance of our database server, and numerous occasions when he troubleshoot various network issues. 
+
+As for other projects he is in charge of, such as the search feature, he has always been meticulous, communicative, and future-oriented, and able to identify the main obstacles to accomplish certain tasks. He is also ready to share his expertise and experiences with coworkers, raise concerns when evaluating tasks, and can dig deep into details about certain features, and is willing to lead and persuade coworkers to adopting his technical plan.
+
+I have had a quite pleasant experience working with Zhang. I would describe him as a calm but reliable and enthusiastic individual who is always ready to help others. Personally, he is a pleasant person and gives people a feeling of warmth. Professionally, he is a helpful developer who can take the initiative of leading projects, deliver results and fix technical issues.
+
+Please feel free to email me at zhoulei017483@gtjas.com or call me at (+86)021-38032055 if you would like me to further elaborate on Zhang’s abilities.
+
+Best regards,
+
+Lei Zhou
+Guotai Junan Securities

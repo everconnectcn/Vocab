@@ -16092,6 +16092,7 @@ a resounding/outstanding/spectacular success (=very great success)
 ▪ Financially, the event was a resounding success.
 COLLOCATIONS FROM CORPUS
 
+<<<<<<< HEAD
 constituent
 ▪ I. constituent UK  US  [kənˈstɪt.ju.ənt] noun countable [constituents]
  
@@ -16171,3 +16172,87 @@ ambivalent attitude/feelings etc
 ▪ The Colonel, son of the aforementioned Marquis, comes to inspect the troops and becomes enamoured of Gertrudis' beauty.
 
 sanctimonious
+=======
+
+sobering
+sobering UK  [ˈsəʊ.b ə r.ɪŋ] US  [ˈsoʊ.bɚ-] adjective
+making you feel serious or think about serious matters
+• a sobering thought
+• Surviving a car accident is a sobering experience.
+Thesaurus+: ↑Serious and unpleasant ↑Not attractive to look at ↑Informal words for bad
+sober
+sober UK  [ˈsəʊ.bə r ] US  [ˈsoʊ.bɚ] adjective
+ 
+NOT DRUNK
+1. <A > not drunk or affected by alcohol
+• Are you sober enough to drive, Jim?
+• I'd had no wine all evening so I was stone cold (= completely) sober.
+Thesaurus+: ↑Drunkenness and sobriety
+ 
+• I hadn't drunk a thing - I was completely sober.
+• I was too sober to enjoy the party.
+• I'd better be sober by the time my mother gets here.
+• He seemed fairly sober to me.
+• I have to drive tonight so I'm sober.
+ 
+SERIOUS
+2. serious and calm
+• In fact the whole wedding was a sober affair - no dancing, just people standing around in groups chatting politely.
+• Anthony was in a very sober mood - I scarcely heard him laugh all night.
+Thesaurus+: ↑Lacking humour
+ 
+verb intransitive or transitive
+to become more calm and serious, or to make someone do this
+• News of the tragedy sobered us.
+Thesaurus+: ↑Lacking humour
+Phrasal Verb: sober up
+From Longman DOCE 5th Ed. (En-En)
+sobering
+so‧ber‧ing /ˈsəʊbərɪŋ $ ˈsoʊ-/ BrE  AmE  adjective
+making you feel very serious:
+ It was a sobering thought.
+ The news had a sobering effect.
+ 
+ gullible
+gul·lible BrE [ˈɡʌləbl]  NAmE [ˈɡʌləbl]  adjective
+too willing to believe or accept what other people tell you and therefore easily tricked
+Syn: ↑naive
+• The advertisement is aimed at gullible young women worried about their weight.
+Derived Word: ↑gullibility
+ 
+Word Origin:
+[gullibility gullible] early 19th cent.: from gull ‘fool or deceive’ + ↑-ible.
+From WordNet® 3.0 (En-En)
+gullible
+adjective
+1. naive and easily deceived or tricked (Freq. 1)
+- at that early age she had been gullible and in love
+• Syn: ↑fleeceable, ↑green
+• Similar to: ↑naive, ↑naif
+• Derivationally related forms: ↑gullibility
+2. easily tricked because of being too trusting
+- gullible tourists taken in by the shell game
+• Similar to: ↑unwary
+• Derivationally related forms: ↑gullibility
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+gullible
+
+ / 5gQlEbl; `^QlEbl/ adj willing to believe anything or anyone; easily deceived 轻信的; 易受欺骗的: He must have been pretty gullible to fall for that old trick. 他准是有点儿傻, 才落入那惯用的圈套.
+ > gullibility/ 9gQlE-5bIlEtI; 9^QlE`bIlEtI/ n [U]. gullibly / -EblI; -EblI/ adv.
+From Longman DOCE5 Extras (En-En)
+gullible
+adjective
+EXAMPLES FROM OTHER ENTRIES
+▪ a group of gullible tourists
+▪ He seemed to treat me as if I were a gullible schoolgirl.
+▪ How can you be so gullible! He not really French.
+▪ It's easy to blame the public for being gullible enough to buy dieting products, but it's the companies who sell them who should take responsibility.
+▪ She was described by her neighbors as a sweet but gullible woman who allowed the man to live in her house as a source of extra money.
+EXAMPLES FROM CORPUS
+▪ And Bill Holroyd was already showing himself to be pretty gullible, so it's in character.
+▪ Having won their votes from the gullible, as well as the dedicated, the republicans now show their utter contempt for democracy.
+▪ He felt gullible, patronized, bamboozled.
+▪ He had never seen her like this before, gullible and giggly, at times even shy and blushing.
+▪ He is resistant to change, gullible and easily led.
+▪ It has a cult-like following with the potential to exploit gullible people and reinforce obsessional behaviour.
+>>>>>>> 8f5310578d8f0f90c142016c5d40a4f313c0f7a3
