@@ -16092,6 +16092,87 @@ a resounding/outstanding/spectacular success (=very great success)
 ▪ Financially, the event was a resounding success.
 COLLOCATIONS FROM CORPUS
 
+<<<<<<< HEAD
+constituent
+▪ I. constituent UK  US  [kənˈstɪt.ju.ənt] noun countable [constituents]
+ 
+PART
+1. one of the parts that a substance or combination is made of
+• What are the basic constituents of the mixture?
+Thesaurus+: ↑Words meaning parts of things
+ 
+PERSON
+2. a voter (= person who can vote) in a particular area of the country
+• The senator worked hard, always talking to his constituents and hearing their problems.
+Thesaurus+: ↑Voters and Candidates in elections
+ 
+▪ II.
+constituent UK  US  adjective before noun
+• Let's look at the constituent parts of this sentence.
+Thesaurus+: ↑Comprising and consisting of ↑Including and containing
+Main entry: constituentderived
+From Longman DOCE 5th Ed. (En-En)
+constituent
+I. con‧sti‧tu‧ent1 AC /kənˈstɪtʃuənt/ BrE  AmE  noun [countable]
+[Date: 1700-1800; Language: French; Origin: constituant, from the present participle of constituer 'to constitute', from Latin constituere; ⇨ ↑constitute]
+1. someone who votes in a particular area
+2. one of the substances or things that combine to form something
+constituent of
+ Sodium is one of the constituents of salt.
+II. constituent2 AC BrE  AmE  adjective [only before noun] formal
+[Date: 1600-1700; Language: Latin; Origin: present participle of constituere; ⇨ ↑constitute]
+being one of the parts of something:
+ the EU and its constituent members
+ 
+ enamoured
+
+ (US enamored) / I5nAmEd; In`AmLd/ adj [pred 作表语] ~ of/with sth (fml or joc 文或谑) fond of or delighted by sth 喜欢某事物; 倾心于某事物: enamoured of the sound of one's own voice 陶醉于自己的嗓音 * I'm not too enamoured with the idea of spending a whole day with him. 我可不太喜欢一整天都跟他在一起.
+From Longman DOCE 5th Ed. (En-En)
+enamoured
+en‧am‧oured BrE  AmE  British English, enamored American English /ɪˈnæməd $ -ərd/ adjective
+[Date: 1200-1300; Origin: enamor 'to cause to love' (13-21 centuries), from Old French enamourer, from amour 'love']
+1. [not before noun] liking something very much
+enamoured of/with
+ You don’t seem very enamoured with your job.
+2. formal in love with someone
+enamoured of/with
+ He was greatly enamoured of Elizabeth.
+From Longman DOCE5 Extras (En-En)
+enamoured
+adjective
+EXAMPLES FROM CORPUS
+▪ Both, it seems, became enamoured of him.
+
+ambivalent
+ambivalent UK  US  [æmˈbɪv.ə.lənt] adjective
+having two opposing feelings at the same time, or being uncertain about how you feel
+• I felt very ambivalent about leaving home.
+• He has fairly ambivalent feelings towards his father.
+• an ambivalent attitude to exercise
+Thesaurus+: ↑Doubt and ambivalence ↑Hesitating
+Derived: ambivalence ▪ ambivalently
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+ambivalent
+
+ / Am5bIvElEnt; Am`bIvElEnt/ adj having or showing mixed feelings about a certain object, person or situation 对某物、某人或某境况具有或显示矛盾情感的: an ambivalent attitude towards one's best friend's wife 对至友的妻子有矛盾的心态.
+ > ambivalence n [U]. ambivalently adv.
+From Longman DOCE 5th Ed. (En-En)
+ambivalent
+am‧biv‧a‧lent /æmˈbɪvələnt/ BrE  AmE  adjective
+[Date: 1900-2000; Origin: ambi- + -valent 'having a particular value' (from Latin valere; ⇨ VALOR)]
+not sure whether you want or like something or not
+ambivalent about
+ We are both somewhat ambivalent about having a child.
+ambivalent attitude/feelings etc
+—ambivalence noun [singular, uncountable]:
+ O'Neill had a genuine ambivalence toward US involvement in the war.
+—ambivalently adverb
+▪ He was like an enamoured father, an old fool.
+▪ Narcissus was a young man who spurned the nymph Echo and became enamoured of his own reflection.
+▪ The Colonel, son of the aforementioned Marquis, comes to inspect the troops and becomes enamoured of Gertrudis' beauty.
+
+sanctimonious
+=======
 
 sobering
 sobering UK  [ˈsəʊ.b ə r.ɪŋ] US  [ˈsoʊ.bɚ-] adjective
@@ -16174,3 +16255,4 @@ EXAMPLES FROM CORPUS
 ▪ He had never seen her like this before, gullible and giggly, at times even shy and blushing.
 ▪ He is resistant to change, gullible and easily led.
 ▪ It has a cult-like following with the potential to exploit gullible people and reinforce obsessional behaviour.
+>>>>>>> 8f5310578d8f0f90c142016c5d40a4f313c0f7a3

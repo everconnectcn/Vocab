@@ -15964,6 +15964,59 @@ THESAURUS
 ▪ exclaim to say something suddenly and loudly: ‘How beautiful!’ she exclaimed.
 ▪ blurt out to suddenly say something without thinking, especially something embarrassing or secret: It was partly nervousness that had made him blurt out the question.
 ▪ stammer/stutter to speak with a lot of pauses and repeated sounds, because you have a speech problem, or because you are nervous or excited: ‘I’ll, I’ll only be a m-moment,’ he stammered.
+<<<<<<< HEAD
+
+enamoured
+enamoured UK , US enamored UK  [ɪˈnæm.əd] US  [-ɚd] adjective after verb formal
+liking a lot
+• I have to say I'm not exactly enamoured with/of this part of the country.
+Thesaurus+: ↑Liking
+From Oxford Advanced Learner's English-Chinese Dictionary (4/e)
+enamoured
+
+ (US enamored) / I5nAmEd; In`AmLd/ adj [pred 作表语] ~ of/with sth (fml or joc 文或谑) fond of or delighted by sth 喜欢某事物; 倾心于某事物: enamoured of the sound of one's own voice 陶醉于自己的嗓音 * I'm not too enamoured with the idea of spending a whole day with him. 我可不太喜欢一整天都跟他在一起.
+From Longman DOCE 5th Ed. (En-En)
+enamoured
+en‧am‧oured BrE  AmE  British English, enamored American English /ɪˈnæməd $ -ərd/ adjective
+[Date: 1200-1300; Origin: enamor 'to cause to love' (13-21 centuries), from Old French enamourer, from amour 'love']
+1. [not before noun] liking something very much
+enamoured of/with
+ You don’t seem very enamoured with your job.
+2. formal in love with someone
+enamoured of/with
+ He was greatly enamoured of Elizabeth.
+From Longman DOCE5 Extras (En-En)
+enamoured
+adjective
+EXAMPLES FROM CORPUS
+▪ Both, it seems, became enamoured of him.
+▪ He was like an enamoured father, an old fool.
+▪ Narcissus was a young man who spurned the nymph Echo and became enamoured of his own reflection.
+▪ The Colonel, son of the aforementioned Marquis, comes to inspect the troops and becomes enamoured of Gertrudis' beauty.
+
+
+grapple
+grap‧ple /ˈɡræpəl/ BrE  AmE  verb [intransitive]
+[Date: 1300-1400; Language: Old French; Origin: grappelle, from grape; ⇨ ↑grape]
+to fight or struggle with someone, holding them tightly SYN wrestle
+grapple with
+ Two men grappled with a guard at the door.
+grapple with something phrasal verb
+to try hard to deal with or understand something difficult:
+ The Government has to grapple with the problem of unemployment.
+ Molly’s upstairs grappling with her maths homework.
+From Longman DOCE5 Extras (En-En)
+grapple
+verb
+COLLOCATIONS FROM OTHER ENTRIES
+grappling iron
+COLLOCATIONS FROM CORPUS
+■ NOUN
+issue
+▪ Some films show their makers grappling with contemporary issues, without always the level of visual inventiveness applied elsewhere.
+▪ He accepts that aid agencies are grappling with highly complex issues.
+problem
+=======
 >>>>>>> d2003651bcfbdfff5c87cca3e703467a04efcc81
 
 
@@ -16171,3 +16224,4 @@ THESAURUS
 ▪ twitch if part of your body twitches, it makes small movements that you cannot control: A muscle on Yang’s face twitched.
 ▪ stir written to make a movement – used especially when describing a situation in which no one moves, or someone wakes up: In the village a dog barked but no one stirred | The sleeping child stirred and opened her eyes.
 ▪ budge to move – used when you are trying hard to make something move, often without success: The piano wouldn’t budge.
+>>>>>>> 8f5310578d8f0f90c142016c5d40a4f313c0f7a3
