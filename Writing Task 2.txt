@@ -380,13 +380,11 @@ Thesaurus+: ↑Full
 
 erect
 erect UK  US  [ɪˈrekt] verb transitive formal [erects erecting erected]
- 
 BUILD
 1. to build a building, wall or other structure
 • The war memorial was erected in 1950.
 • The soldiers had erected barricades to protect themselves.
 Thesaurus+: ↑Construction work and workers
- 
 MAKE VERTICAL
 2. to raise something to a vertical position
 • They erected a marquee to accommodate 500 wedding guests.
@@ -400,8 +398,6 @@ Thesaurus+: ↑Describing angles, lines and orientations
 • an erect penis
 • erect nipples
 Thesaurus+: ↑Hard and firm
-
-
 
 needy
 need‧y /ˈniːdi/ BrE  AmE  adjective
@@ -424,3 +420,27 @@ THESAURUS
 ▪ impoverished formal impoverished people and places are very poor: out-of-work miners and their impoverished families | The children come from impoverished neighbourhoods. | one of the world’s most impoverished countries
 ▪ poverty-stricken written extremely poor: poverty-stricken areas | They were left poverty-stricken.
 ▪ penniless especially literary having no money: She died penniless. | a penniless student
+
+
+experience have a problem
+• We didn't have any problems finding the house.
+be cause create pose present a problem
+• Air quality in cities is beginning to present problems for athletes.
+face (up to) a problem
+• I needed someone to help me face up to my drinking problem.
+a problem faces sb
+• Serious problems face these young people as they enter higher education.
+deal with fix a problem
+• The drains were leaking, but I think the problem's been dealt with now.
+address identify tackle a problem
+• Successive governments have failed to tackle the problem of youth unemployment.
+overcome resolve solve a problem
+• She overcame severe health problems to become a barrister.
+run into a problem
+• The building work had to stop because we ran into legal problems.
+be beset with fraught with problems
+• Our holiday arrangements were fraught with problems.
+consider discuss a problem
+• We discussed the problem of homelessness.
+a problem arises comes up occurs remains
+• Problems arise when people get into debt.
